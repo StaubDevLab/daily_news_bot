@@ -1,5 +1,8 @@
 # 🗞️ DailyBrief-AI-Robot
 
+[![Daily Brief Robot](https://github.com/StaubDevLab/daily_news_bot/actions/workflows/daily.yml/badge.svg)](https://github.com/StaubDevLab/daily_news_bot/actions/workflows/daily.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An automated daily news curation engine that acts as your personal press officer. It collects raw news from multiple sources, uses **Google Gemini 2.0 Flash** to summarize and deduplicate them, and dispatches a curated brief to your Email and Telegram.
 
 
