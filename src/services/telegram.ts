@@ -11,7 +11,8 @@ export async function sendTelegramMessage(curatedNews: any) {
 
     // 1. Construction du message unique
     let message = `<b>🗞️ VOTRE BRIEF DU MATIN</b>\n`;
-    message += `<i>Voici l'essentiel de l'actualité aujourd'hui.</i>\n\n`;
+    const dateStr = new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' });
+    message += `📅 <b>${dateStr}</b>${curatedNews.ephemeride ? ` • ${curatedNews.ephemeride}` : ''}\n\n`;
 
     // 2. Ajout du résumé global en haut pour le "TL;DR"
     if (curatedNews.global_summary) {

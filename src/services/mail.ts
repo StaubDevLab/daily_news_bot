@@ -45,7 +45,7 @@ export async function sendDailyEmail(curatedNews: any) {
       <div class="container">
         <div class="header">
           <h1>🗞️ Brief Matinal</h1>
-          <p>${new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' })}</p>
+          <p>${new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' })}${curatedNews.ephemeride ? ` • ${curatedNews.ephemeride}` : ''}</p>
           <div class="weather-badge">
             ${curatedNews.weather_string || `🌡️ ${curatedNews.weather_stats.temp} | 💧 ${curatedNews.weather_stats.rain}`}
           </div>

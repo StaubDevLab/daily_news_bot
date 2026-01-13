@@ -4,6 +4,7 @@ import { sendDailyEmail } from './services/mail';
 import { sendTelegramMessage } from './services/telegram';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { fetchWeather } from './services/weather';
+import { getEphemeride } from './services/ephemeris';
 dotenv.config();
 
 async function main() {
@@ -11,6 +12,7 @@ async function main() {
     // 1. Fetch
     const rawNews = await fetchDailyNews(process.env.NEWSDATA_API_KEY!);
     const weather = await fetchWeather();
+    const ephemeride = getEphemeride();
 
     // 2. IA Curation (Modèle 2.0 Flash)
     const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!);
@@ -20,6 +22,7 @@ async function main() {
   Tu es un rédacteur en chef d'une newsletter premium et un coach sportif motivant. 
   Voici une liste d'actualités brutes par catégories : ${JSON.stringify(rawNews)}.
   Et voici les infos météo détaillées : ${JSON.stringify(weather)}.
+  Aujourd'hui, nous fêtons : ${ephemeride}.
   
   TES MISSIONS :
   1. RÉSUMÉ GLOBAL : Rédige deux paragraphes (10 phrases maximum au total) qui synthétisent l'ambiance et les enjeux majeurs de l'actualité de ce jour. Appelle ce champ "global_summary".
@@ -36,6 +39,7 @@ async function main() {
 
   Réponds UNIQUEMENT en JSON sous ce format strict :
   {
+    "ephemeride": "...",
     "global_summary": "...",
     "running_advice": "...",
     "weather_string": "${weather?.weatherInfo.emoji} ${weather?.weatherInfo.label} (${weather?.minTemp}°C / ${weather?.maxTemp}°C)",
@@ -57,6 +61,7 @@ async function main() {
 
     const result = await model.generateContent(prompt);
     const curatedNews = JSON.parse(result.response.text().replace(/```json|```/g, ""));
+    curatedNews.ephemeride = ephemeride;
 
     // 3. Distribution
     await Promise.all([
