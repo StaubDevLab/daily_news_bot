@@ -10,6 +10,7 @@ An automated daily news curation engine that acts as your personal press officer
 ## ✨ Features
 
 - **Multi-Source Fetching**: Integrates with NewsData.io API and custom RSS feeds (Sud-Ouest, Journal du Geek).
+- **Smart Weather Integration**: Fetches local weather via Open-Meteo to provide a personalized running forecast.
 - **AI-Powered Curation**: Uses Gemini 2.0 Flash to:
   - Select the 3 most relevant articles per category.
   - Summarize each article in one punchy sentence.
@@ -24,7 +25,7 @@ An automated daily news curation engine that acts as your personal press officer
 
 - **Runtime**: Node.js (TypeScript)
 - **AI Model**: Google Gemini 2.0 Flash
-- **APIs**: NewsData.io, Resend
+- **APIs**: NewsData.io, Resend, Open-Meteo
 - **Automation**: GitHub Actions
 
 ## 🚀 Setup & Installation
@@ -52,6 +53,8 @@ RESEND_API_KEY=your_resend_key
 TELEGRAM_TOKEN=your_bot_father_token
 TELEGRAM_CHAT_ID=your_personal_chat_id
 MY_EMAIL=your_delivery_email
+LATITUDE=your_position_latitude  
+LONGITUDE=your_position_longitude
 
 ```
 
