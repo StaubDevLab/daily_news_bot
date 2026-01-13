@@ -22,6 +22,9 @@ export async function sendTelegramMessage(curatedNews: any) {
     if (curatedNews.running_advice) {
         message += `🏃‍♂️ <b>COACH RUNNING :</b>\n<i>${curatedNews.running_advice}</i>\n\n`;
     }
+    if (curatedNews.weather_string) {
+        message += `🌡️ <b>MÉTÉO :</b> ${curatedNews.weather_string}\n\n`;
+    }
     // 3. Boucle sur les catégories
     for (const cat of curatedNews.categories) {
         message += `${cat.emoji} <b>${cat.label.toUpperCase()}</b>\n`;

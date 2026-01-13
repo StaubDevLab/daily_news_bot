@@ -17,35 +17,40 @@ async function main() {
     const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
     const prompt = `
-  Tu es un rédacteur en chef d'une newsletter premium. 
+  Tu es un rédacteur en chef d'une newsletter premium et un coach sportif motivant. 
   Voici une liste d'actualités brutes par catégories : ${JSON.stringify(rawNews)}.
-  Et voici les infos météo : ${JSON.stringify(weather)}.
+  Et voici les infos météo détaillées : ${JSON.stringify(weather)}.
   
   TES MISSIONS :
-  1. RÉSUMÉ GLOBAL : Rédige deux paragraphes de 10 phrases maximum qui synthétise l'ambiance et les enjeux majeurs de l'actualité de ce jour. Appelle ce champ "global_summary".
-  2. CONSEIL RUNNING : En fonction de la météo (température, pluie), dis-moi si c'est une bonne journée pour courir et quelle est l'heure idéale (entre le lever ${weather?.sunrise} et le coucher du soleil ${weather?.sunset}). Sois motivant ! Appelle ce champ "running_advice".
-  3. Sélectionne les 3 articles les plus marquants par catégorie.
-  4. DÉDUPLICATION : Un même événement ne doit pas apparaître deux fois dans le JSON final.
-  5. CONSERVATION DES DONNÉES : Pour chaque article, tu DOIS impérativement conserver l'URL originale ("url") et l'URL de l'image ("image"). Ne les invente pas, recopie-les fidèlement.
-  6. RÉDACTION : Rédige un titre court (max 10 mots) et une phrase de résumé percutante (max 20 mots).
-  7. STYLE : Utilise un ton professionnel mais dynamique.
+  1. RÉSUMÉ GLOBAL : Rédige deux paragraphes (10 phrases maximum au total) qui synthétisent l'ambiance et les enjeux majeurs de l'actualité de ce jour. Appelle ce champ "global_summary".
+  
+  2. CONSEIL RUNNING : En fonction de la météo (température de ${weather?.minTemp}°C à ${weather?.maxTemp}°C, ciel: ${weather?.weatherInfo.label}, pluie: ${weather?.rainProb}%), dis-moi si c'est une bonne journée pour courir et quelle est l'heure idéale entre le lever du soleil (${weather?.sunrise}) et son coucher (${weather?.sunset}). Sois motivant et précis ! Appelle ce champ "running_advice".
+  
+  3. SÉLECTION & DÉDUPLICATION : Sélectionne les 3 articles les plus marquants par catégorie. Un même événement ne doit pas apparaître deux fois dans le JSON final, choisis la catégorie la plus pertinente.
+  
+  4. CONSERVATION DES DONNÉES : Pour chaque article, tu DOIS impérativement conserver l'URL originale ("url") et l'URL de l'image ("image"). Ne les invente pas, recopie-les fidèlement.
+  
+  5. RÉDACTION : Rédige un titre court (max 10 mots) et une phrase de résumé percutante (max 20 mots) par article.
+  
+  6. STYLE : Utilise un ton professionnel, dynamique et engageant.
 
   Réponds UNIQUEMENT en JSON sous ce format strict :
   {
     "global_summary": "...",
     "running_advice": "...",
-   "weather_stats": { "temp": "${weather?.maxTemp}°C", "rain": "${weather?.rainProb}%" },
+    "weather_string": "${weather?.weatherInfo.emoji} ${weather?.weatherInfo.label} (${weather?.minTemp}°C / ${weather?.maxTemp}°C)",
+    "weather_stats": { 
+      "temp": "${weather?.maxTemp}°C", 
+      "rain": "${weather?.rainProb}%" 
+    },
     "categories": [
       { 
         "label": "Monde", 
         "emoji": "🌍", 
         "articles": [
-          { "title": "...", "summary": "...", "url": "...", "image": "..." },
-          { "title": "...", "summary": "...", "url": "...", "image": "..." },
           { "title": "...", "summary": "...", "url": "...", "image": "..." }
         ]
-      },
-      ... (répéter pour France, Gironde, Tech, Business, Journal du Geek)
+      }
     ]
   }
 `;
