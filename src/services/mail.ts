@@ -33,10 +33,20 @@ export async function sendDailyEmail(curatedNews: any) {
     </head>
     <body>
       <div class="container">
-        <div class="header">
-          <h1>🗞️ Brief Matinal</h1>
-          <p>${new Date().toLocaleDateString('fr-FR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</p>
-        </div>
+       <div class="header">
+  <h1>🗞️ Brief Matinal</h1>
+  <p>${new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' })}</p>
+  
+  <div style="margin-top: 20px; background: rgba(255,255,255,0.1); padding: 15px; border-radius: 8px; display: inline-block;">
+    <span style="font-size: 20px;">🌡️ ${curatedNews.weather_stats.temp}</span> | 
+    <span style="font-size: 20px;">💧 ${curatedNews.weather_stats.rain} pluie</span>
+  </div>
+</div>
+
+<div class="global-summary" style="background-color: #fff9e6; border-left: 5px solid #ffcc00;">
+  <h2 style="color: #d4a017;">🏃‍♂️ Le Conseil du Coach</h2>
+  <p style="font-style: italic;">"${curatedNews.running_advice}"</p>
+</div>
 
         <div class="global-summary">
           <h2>☕ L'essentiel en un coup d'œil</h2>

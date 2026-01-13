@@ -19,7 +19,9 @@ export async function sendTelegramMessage(curatedNews: any) {
             .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
         message += `☕ <b>L'ESSENTIEL :</b>\n<i>${cleanGlobal}</i>\n\n`;
     }
-
+    if (curatedNews.running_advice) {
+        message += `🏃‍♂️ <b>COACH RUNNING :</b>\n<i>${curatedNews.running_advice}</i>\n\n`;
+    }
     // 3. Boucle sur les catégories
     for (const cat of curatedNews.categories) {
         message += `${cat.emoji} <b>${cat.label.toUpperCase()}</b>\n`;
