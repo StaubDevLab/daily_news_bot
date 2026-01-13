@@ -9,57 +9,45 @@ export async function sendTelegramMessage(curatedNews: any) {
         return;
     }
 
-    // 1. On boucle sur les articles pour envoyer les visuels
-    for (const cat of curatedNews.categories) {
-        for (const art of cat.articles) {
-            // Nettoyage rigoureux des caractères HTML pour éviter les erreurs 400
-            const cleanTitle = (art.title || "").replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-            const cleanSummary = (art.summary || "").replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+    // 1. Construction du message unique
+    let message = `<b>🗞️ VOTRE BRIEF DU MATIN</b>\n`;
+    message += `<i>Voici l'essentiel de l'actualité aujourd'hui.</i>\n\n`;
 
-            const caption = `<b>${cat.emoji} ${cat.label.toUpperCase()}</b>\n\n` +
-                `<a href="${art.url}">${cleanTitle}</a>\n\n` +
-                `<i>${cleanSummary}</i>`;
-
-            try {
-                if (art.image && art.image.startsWith('http')) {
-                    await axios.post(`https://api.telegram.org/bot${token}/sendPhoto`, {
-                        chat_id: chatId,
-                        photo: art.image,
-                        caption: caption,
-                        parse_mode: 'HTML'
-                    });
-                } else {
-                    await axios.post(`https://api.telegram.org/bot${token}/sendMessage`, {
-                        chat_id: chatId,
-                        text: caption,
-                        parse_mode: 'HTML',
-                        disable_web_page_preview: false
-                    });
-                }
-
-                // Délai pour respecter les limites de l'API Telegram
-                await new Promise(resolve => setTimeout(resolve, 1000));
-
-            } catch (error: any) {
-                console.error(`❌ Erreur Telegram pour "${art.title}":`, error.response?.data?.description || error.message);
-            }
-        }
+    // 2. Ajout du résumé global en haut pour le "TL;DR"
+    if (curatedNews.global_summary) {
+        const cleanGlobal = curatedNews.global_summary
+            .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        message += `☕ <b>L'ESSENTIEL :</b>\n<i>${cleanGlobal}</i>\n\n`;
     }
 
-    // 2. Envoi du résumé global à la toute fin (Conclusion)
-    if (curatedNews.global_summary) {
-        try {
-            const cleanGlobal = curatedNews.global_summary.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-            const finalMessage = `☕ <b>L'ESSENTIEL À RETENIR :</b>\n\n<i>${cleanGlobal}</i>\n\n👋 <i>À demain pour de nouvelles actus !</i>`;
+    // 3. Boucle sur les catégories
+    for (const cat of curatedNews.categories) {
+        message += `${cat.emoji} <b>${cat.label.toUpperCase()}</b>\n`;
 
-            await axios.post(`https://api.telegram.org/bot${token}/sendMessage`, {
-                chat_id: chatId,
-                text: finalMessage,
-                parse_mode: 'HTML'
-            });
-            console.log("📱 Résumé global Telegram envoyé !");
-        } catch (error: any) {
-            console.error("❌ Erreur lors de l'envoi du résumé final Telegram");
+        for (const art of cat.articles) {
+            const cleanTitle = (art.title || "").replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            // On utilise une puce pour chaque article avec le lien intégré
+            message += `• <a href="${art.url}">${cleanTitle}</a>\n`;
+        }
+        message += `\n`; // Espace entre les catégories
+    }
+
+    message += `✉️ <i>Détails et résumés complets dans votre email.</i>`;
+
+    // 4. Envoi unique
+    try {
+        await axios.post(`https://api.telegram.org/bot${token}/sendMessage`, {
+            chat_id: chatId,
+            text: message,
+            parse_mode: 'HTML',
+            disable_web_page_preview: true // On désactive pour éviter d'avoir 15 aperçus de liens
+        });
+        console.log("📱 Message unique Telegram envoyé !");
+    } catch (error: any) {
+        if (error.response?.data?.description?.includes("too long")) {
+            console.error("❌ Le message est trop long pour Telegram (> 4096 caractères).");
+        } else {
+            console.error("❌ Erreur Telegram:", error.response?.data?.description || error.message);
         }
     }
 }

@@ -1,55 +1,83 @@
 import { Resend } from 'resend';
 
 export async function sendDailyEmail(curatedNews: any) {
-    const resend = new Resend(process.env.RESEND_API_KEY);
+  const resend = new Resend(process.env.RESEND_API_KEY);
 
-    // Construction du corps du mail en HTML
-    // On utilise un style simple et épuré (inspiré des newsletters tech)
-    const htmlContent = `
-   <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
-    <h1 style="text-align: center;">🗞️ Le Brief Matinal</h1>
-    
-    <div style="background-color: #eef6ff; padding: 20px; border-radius: 10px; margin-bottom: 20px; border-left: 5px solid #007bff;">
-      <h2 style="margin-top: 0; font-size: 16px; color: #007bff;">☕ L'essentiel en 30 secondes</h2>
-      <p style="margin: 0; font-size: 15px; line-height: 1.6; color: #333;">${curatedNews.global_summary}</p>
-    </div>
-      
-      ${curatedNews.categories.map((cat: any) => `
-        <div style="margin-top: 30px;">
-          <h2 style="background-color: #f8f9fa; padding: 10px; border-left: 5px solid #007bff; font-size: 18px;">
-            ${cat.emoji} ${cat.label.toUpperCase()}
-          </h2>
-          <div style="padding: 0 10px;">
-            ${cat.articles.map((art: any) => `
-  <div style="margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
-    ${art.image ? `<img src="${art.image}" style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;" />` : ''}
-    <h3 style="margin: 0;"><a href="${art.url}" style="color: #1a1a1a; text-decoration: none;">${art.title}</a></h3>
-    <p style="color: #555; font-size: 14px;">${art.summary}</p>
-  </div>
-`).join('')}
-          </div>
+  const htmlContent = `
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <meta charset="utf-8">
+      <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, sans-serif; line-height: 1.6; color: #1a1a1a; margin: 0; padding: 0; background-color: #f4f7f9; }
+        .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; }
+        .header { padding: 40px 20px; text-align: center; background: linear-gradient(135deg, #007bff, #0056b3); color: white; }
+        .header h1 { margin: 0; font-size: 28px; letter-spacing: -1px; }
+        .header p { margin: 10px 0 0; opacity: 0.9; font-size: 14px; }
+        
+        .global-summary { padding: 30px 20px; background-color: #f0f7ff; border-bottom: 1px solid #e1e8ed; }
+        .global-summary h2 { margin-top: 0; font-size: 18px; color: #007bff; display: flex; align-items: center; }
+        
+        .section { padding: 20px; }
+        .category-title { font-size: 20px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: #4b5563; border-bottom: 2px solid #f3f4f6; padding-bottom: 8px; margin: 40px 0 20px; }
+        
+        .article-card { margin-bottom: 35px; border-radius: 12px; overflow: hidden; }
+        .article-img { width: 100%; height: 220px; object-fit: cover; border-radius: 12px; border: 1px solid #eee; }
+        .article-content { padding: 15px 5px; }
+        .article-title { font-size: 19px; font-weight: 700; margin: 10px 0; color: #111827; text-decoration: none; display: block; }
+        .article-summary { color: #4b5563; font-size: 15px; margin-bottom: 15px; }
+        .article-link { color: #007bff; font-weight: 600; font-size: 14px; text-decoration: none; text-transform: uppercase; }
+        
+        .footer { padding: 40px 20px; text-align: center; font-size: 12px; color: #9ca3af; background-color: #f9fafb; }
+      </style>
+    </head>
+    <body>
+      <div class="container">
+        <div class="header">
+          <h1>🗞️ Brief Matinal</h1>
+          <p>${new Date().toLocaleDateString('fr-FR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</p>
         </div>
-      `).join('')}
-      
-      <footer style="margin-top: 40px; padding: 20px; text-align: center; font-size: 11px; color: #999;">
-        <p>Généré par Gemini 2.0 Flash • Données APITube & Sud-Ouest</p>
-      </footer>
-    </div>
+
+        <div class="global-summary">
+          <h2>☕ L'essentiel en un coup d'œil</h2>
+          <p>${curatedNews.global_summary}</p>
+        </div>
+
+        <div class="section">
+          ${curatedNews.categories.map((cat: any) => `
+            <div class="category-title">${cat.emoji} ${cat.label}</div>
+            
+            ${cat.articles.map((art: any) => `
+              <div class="article-card">
+                ${art.image ? `<img src="${art.image}" class="article-img" alt="News Image">` : ''}
+                <div class="article-content">
+                  <a href="${art.url}" class="article-title">${art.title}</a>
+                  <p class="article-summary">${art.summary}</p>
+                  <a href="${art.url}" class="article-link">Lire la suite →</a>
+                </div>
+              </div>
+            `).join('')}
+          `).join('')}
+        </div>
+
+        <div class="footer">
+          <p>Propulsé par <b>Gemini 2.0 Flash</b> & NewsData API</p>
+          <p>Vous recevez ce mail car vous êtes un utilisateur de DailyBrief AI.</p>
+        </div>
+      </div>
+    </body>
+    </html>
   `;
 
-    try {
-        const { data, error } = await resend.emails.send({
-            from: 'Mon Robot <onboarding@resend.dev>', // Tu pourras changer ça avec ton domaine plus tard
-            to: [process.env.MY_EMAIL || ""],
-            subject: `🗞️ Brief du ${new Date().toLocaleDateString('fr-FR')}`,
-            html: htmlContent,
-        });
-
-        if (error) {
-            return console.error("❌ Erreur Resend:", error);
-        }
-        console.log("📧 Mail envoyé avec succès !", data?.id);
-    } catch (err) {
-        console.error("❌ Erreur lors de l'envoi du mail:", err);
-    }
+  try {
+    await resend.emails.send({
+      from: 'DailyBrief <onboarding@resend.dev>',
+      to: [process.env.MY_EMAIL || ""],
+      subject: `🗞️ Votre Brief : ${new Date().toLocaleDateString('fr-FR')}`,
+      html: htmlContent,
+    });
+    console.log("📧 Email ultra-moderne envoyé !");
+  } catch (err) {
+    console.error("❌ Erreur Mail:", err);
+  }
 }
