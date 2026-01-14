@@ -11,8 +11,8 @@ function interpretWeatherCode(code: number): { label: string, emoji: string } {
 export async function fetchWeather() {
     const url = "https://api.open-meteo.com/v1/forecast";
     const params = {
-        latitude: process.env.LATITUDE,
-        longitude: process.env.LONGITUDE,
+        latitude: process.env.LATITUDE || "44.833328",
+        longitude: process.env.LONGITUDE || "-0.56667",
         daily: ["weather_code", "temperature_2m_max", "temperature_2m_min", "sunrise", "sunset", "precipitation_probability_max", "uv_index_max"],
         timezone: "Europe/Paris",
         forecast_days: 1

@@ -39,7 +39,7 @@ async function main() {
 
   Réponds UNIQUEMENT en JSON sous ce format strict :
   {
-    "ephemeride": "...",
+    "ephemeride": ${ephemeride},
     "global_summary": "...",
     "running_advice": "...",
     "weather_string": "${weather?.weatherInfo.emoji} ${weather?.weatherInfo.label} (${weather?.minTemp}°C / ${weather?.maxTemp}°C)",
