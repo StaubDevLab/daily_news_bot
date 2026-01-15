@@ -39,10 +39,10 @@ async function main() {
 
   Réponds UNIQUEMENT en JSON sous ce format strict :
   {
-    "ephemeride": ${ephemeride},
+    "ephemeride": "${ephemeride}",
     "global_summary": "...",
     "running_advice": "...",
-    "weather_string": "${weather?.weatherInfo.emoji} ${weather?.weatherInfo.label} (${weather?.minTemp}°C / ${weather?.maxTemp}°C)",
+    "weather_string": "${weather?.weatherInfo?.emoji} ${weather?.weatherInfo?.label} (${weather?.minTemp}°C / ${weather?.maxTemp}°C)",
     "weather_stats": { 
       "temp": "${weather?.maxTemp}°C", 
       "rain": "${weather?.rainProb}%" 
@@ -60,7 +60,16 @@ async function main() {
 `;
 
     const result = await model.generateContent(prompt);
-    const curatedNews = JSON.parse(result.response.text().replace(/```json|```/g, ""));
+    const responseText = result.response.text();
+
+    // Extraction plus robuste du JSON
+    const jsonMatch = responseText.match(/\{[\s\S]*\}/);
+    if (!jsonMatch) {
+      console.error("❌ Pas de JSON trouvé dans la réponse:", responseText);
+      throw new Error("Format de réponse invalide");
+    }
+
+    const curatedNews = JSON.parse(jsonMatch[0]);
     curatedNews.ephemeride = ephemeride;
 
     // 3. Distribution
