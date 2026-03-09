@@ -1,0 +1,393 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 09/03/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">lundi 9 mars • Sainte Françoise</p>
+            <div class="weather-badge">
+              🌤️ Peu nuageux (8.7°C / 16.5°C) &nbsp;|&nbsp; ☀️ UV: 4.45 &nbsp;|&nbsp; 💧 28%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité mondiale est marquée par des tensions géopolitiques importantes, notamment en Iran où la succession du Guide Suprême Mojtaba Khamenei redéfinit le paysage politique de la région. Les efforts diplomatiques se poursuivent pour éviter une escalade des conflits au Moyen-Orient, tandis que le rapatriement des ressortissants français souligne les défis humanitaires actuels.
+
+En France, des faits divers marquants retiennent l'attention, et des alliances stratégiques inédites remodèlent le secteur de la défense européen. Parallèlement, le monde sportif est en effervescence, avec des athlètes qui repoussent leurs limites et des performances exceptionnelles, offrant des moments d'inspiration et de fierté.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Avis aux runners ! Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous dépasser ! Avec des températures douces allant de 8.7°C à 16.5°C et un ciel "peu nuageux" (🌤️), les conditions sont quasi parfaites pour une session running. Pour profiter au maximum de cette météo clémente, visez une course en fin de matinée ou en début d'après-midi, idéalement entre 10h00 et 16h00, lorsque la température sera la plus agréable. Le risque de pluie est faible (28%), mais soyez prévoyant. Attention, l'indice UV est de 4.45 : n'oubliez pas votre crème solaire et une casquette pour vous protéger du soleil. Chaque foulée est une victoire, alors foncez !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/b47ecf18-17f3-11f1-980d-005056a90284/w:1024/p:16x9/AP26063304147652.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien" target="_blank">Qui est le nouveau Guide Suprême iranien ?</a>
+                    </h3>
+                    <p class="article-summary">Mojtaba Khamenei succède à son père, un événement clé pour l'avenir politique et religieux de l'Iran.</p>
+                    <a href="https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://images.euronews.com/articles/stories/09/67/84/56/1200x675_cmsv2_d4fb0586-a99a-5951-8478-c98c19472a94-9678456.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go" target="_blank">Dubaï priorise la désescalade régionale</a>
+                    </h3>
+                    <p class="article-summary">Dubaï met l'accent sur la prévention de l'extension de la guerre au Moyen-Orient, appelant à la prudence.</p>
+                    <a href="http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/0-79xg0KULC1jl-w-MkAyXyI0ss/0x29:971x576/432x243/filters:format(jpg)/2026/03/08/jnjnjnj-klk-69ade9e92e750058642062.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-encore-des-francais-a-rapatrier_7854404.html" target="_blank">Français à rapatrier du Moyen-Orient</a>
+                    </h3>
+                    <p class="article-summary">La France continue de rapatrier ses ressortissants, soulignant la complexité humanitaire du conflit moyen-oriental.</p>
+                    <a href="https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-encore-des-francais-a-rapatrier_7854404.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php" target="_blank">Incendie criminel : supermarché en Gironde détruit</a>
+                    </h3>
+                    <p class="article-summary">Un supermarché a été ravagé par les flammes en Gironde, la piste criminelle est désormais privilégiée.</p>
+                    <a href="https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/international/europe/belgique/belgique-explosion-dans-la-nuit-devant-une-synagogue-a-liege-aucun-blesse-28198815.php" target="_blank">Explosion près d'une synagogue à Liège</a>
+                    </h3>
+                    <p class="article-summary">Une explosion secoue Liège sans faire de blessé, un événement sous enquête devant une synagogue.</p>
+                    <a href="https://www.sudouest.fr/international/europe/belgique/belgique-explosion-dans-la-nuit-devant-une-synagogue-a-liege-aucun-blesse-28198815.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~08~b02ccf7a-4cff-47bb-9ab6-423c66f35192.jpg/1200x900/quality/80/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492" target="_blank">Rapatriés du Moyen-Orient ont payé de leur poche</a>
+                    </h3>
+                    <p class="article-summary">Des Français rapatriés ont dû assumer les coûts, soulevant des questions sur la prise en charge étatique.</p>
+                    <a href="https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📱 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://l-echo.info/wp-content/uploads/2026/03/poco-f8-ultra.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/" target="_blank">Poco F8 Ultra : puissance et offre exceptionnelle</a>
+                    </h3>
+                    <p class="article-summary">Découvrez le nouveau Poco F8 Ultra, doté du Snapdragon 8 Elite Gen 5 et d'une batterie de 6500 mAh, avec une promotion de -31%.</p>
+                    <a href="https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-17-122637-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/" target="_blank">Steam Machine : Valve doute de la sortie 2026</a>
+                    </h3>
+                    <p class="article-summary">Valve exprime des doutes sur le lancement de sa console Steam Machine en 2026, décevant les fans.</p>
+                    <a href="https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/O6mXNAdLqN9HyHqAkVME4Nivzh8/0x65:980x617/432x243/filters:format(jpg)/2026/03/08/geezgegezg-69ade068684f7706786692.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/guerre-au-moyen-orient-la-maison-blanche-transforme-la-guerre-en-blockbuster_7854398.html" target="_blank">Maison Blanche transforme guerre en blockbuster</a>
+                    </h3>
+                    <p class="article-summary">Une analyse audacieuse : la Maison Blanche scénarise le conflit du Moyen-Orient comme un film grand public.</p>
+                    <a href="https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/guerre-au-moyen-orient-la-maison-blanche-transforme-la-guerre-en-blockbuster_7854398.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💼 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://media.lesechos.com/api/v1/images/view/69ad6364eb093a54860d6172/640x360/0180922390703-web-tete.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738" target="_blank">Airbus, Rheinmetall, OHB s'unissent</a>
+                    </h3>
+                    <p class="article-summary">Alliance stratégique inédite pour Airbus, Rheinmetall et OHB visant le "Starlink de l'armée allemande".</p>
+                    <a href="https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.vosgesmatin.fr/images/0818CDBB-01D3-458B-9C59-DFDD8608E18E/FB1200/photo-1773003547.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.vosgesmatin.fr/societe/2026/03/08/le-foyer-rural-reconduit-ses-manifestations-pour-2026" target="_blank">Foyer rural : reconduction des événements 2026</a>
+                    </h3>
+                    <p class="article-summary">Le Foyer rural de Belmont-sur-Vair assure la reconduction de ses manifestations pour l'année 2026.</p>
+                    <a href="https://www.vosgesmatin.fr/societe/2026/03/08/le-foyer-rural-reconduit-ses-manifestations-pour-2026" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.vosgesmatin.fr/images/1CCCD747-C4AD-432F-B490-3513C18C2651/FB1200/photo-1773003548.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.vosgesmatin.fr/societe/2026/03/08/repas-des-aines-les-doyens-mis-a-l-honneur" target="_blank">Repas des aînés : doyens à l'honneur à Frain</a>
+                    </h3>
+                    <p class="article-summary">Célébration des doyens lors du repas des aînés à Frain, un moment fort pour la communauté locale.</p>
+                    <a href="https://www.vosgesmatin.fr/societe/2026/03/08/repas-des-aines-les-doyens-mis-a-l-honneur" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏆 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html" target="_blank">Wembanyama ovationné : MVP ! MVP !</a>
+                    </h3>
+                    <p class="article-summary">Après une performance spectaculaire, les fans de San Antonio réclament le titre de MVP pour Victor Wembanyama.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://images.bfmtv.com/Rh27uf8obBQESEgvdn1LVQH5N4Q=/10x117:2042x1260/800x0/images/Cecile-Hernandez-a-decroche-la-medaille-d-or-en-snowboardcross-aux-Jeux-paralympiques-de-Milan-Cortina-2026-2248656.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html" target="_blank">Cécile Hernandez en or aux Paralympiques</a>
+                    </h3>
+                    <p class="article-summary">Émotion et larmes de joie pour Cécile Hernandez, médaille d'or en snowboardcross aux Jeux Paralympiques 2026.</p>
+                    <a href="https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://images.bfmtv.com/sIytBJL-kXWrIRrtkfEp4b0XtbA=/0x61:2048x1213/800x0/images/Emmanouil-Karalis-lors-du-All-Star-Perche-le-22-fevrier-2026-2243941.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/un-bon-a-6-17m-le-grec-emmanouil-karalis-entre-dans-l-histoire-et-devient-le-deuxieme-meilleur-performeur-mondial-de-l-histoire-du-saut-a-la-perche_AV-202602280338.html" target="_blank">Record mondial au saut à la perche pour Karalis</a>
+                    </h3>
+                    <p class="article-summary">Le Grec Emmanouil Karalis marque l'histoire avec un bond à 6,17m, deuxième meilleure performance mondiale.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/un-bon-a-6-17m-le-grec-emmanouil-karalis-entre-dans-l-histoire-et-devient-le-deuxieme-meilleur-performeur-mondial-de-l-histoire-du-saut-a-la-perche_AV-202602280338.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+          <a href="./archives/2026-03-09.html" class="archives-link">Permalien de l'édition du jour</a><br>
+          <a href="https://github.com/StaubDevLab/daily_news_bot/tree/main/docs/archives" class="archives-link">Accéder à toutes les archives</a><br><br>
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
