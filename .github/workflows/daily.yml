@@ -2,8 +2,8 @@ name: Daily Brief Robot
 
 on:
   schedule:
-    # 07:00 UTC correspond à 08:00 à Paris (heure d'hiver)
-    - cron: '0 7 * * *'
+    - cron: '0 7 * * *'  # Heure d'hiver (CET = UTC+1) → 08:00 Paris
+    - cron: '0 6 * * *'  # Heure d'été  (CEST = UTC+2) → 08:00 Paris
   workflow_dispatch: # Permet de lancer manuellement pour tester
 
 jobs:
@@ -34,3 +34,5 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           MY_EMAIL: ${{ secrets.MY_EMAIL }}
+          LATITUDE: ${{ secrets.LATITUDE }}
+          LONGITUDE: ${{ secrets.LONGITUDE }}

@@ -64,13 +64,18 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
       return [];
     }
   };
-  const jdgRss = await parser.parseURL('https://www.journaldugeek.com/feed/');
-  const jdgArticles = jdgRss.items.slice(0, 3).map(item => ({
-    title: item.title || "Actu Geek indisponible",
-    url: item.link || "#",
-    source: "Journal du Geek",
-    image: item.enclosure?.url
-  }));
+  let jdgArticles: Article[] = [];
+  try {
+    const jdgRss = await parser.parseURL('https://www.journaldugeek.com/feed/');
+    jdgArticles = jdgRss.items.slice(0, 3).map(item => ({
+      title: item.title || "Actu Geek indisponible",
+      url: item.link || "#",
+      source: "Journal du Geek",
+      image: item.enclosure?.url
+    }));
+  } catch (e) {
+    console.error("⚠️ Erreur RSS Journal du Geek (source ignorée):", e);
+  }
 
   return {
     world: await fetchFromNewsData('world'),

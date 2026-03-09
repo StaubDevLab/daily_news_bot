@@ -72,6 +72,15 @@ async function main() {
     const curatedNews = JSON.parse(jsonMatch[0]);
     curatedNews.ephemeride = ephemeride;
 
+    // Validation de la structure retournée par Gemini
+    if (!curatedNews.categories || !Array.isArray(curatedNews.categories)) {
+      throw new Error("La réponse Gemini ne contient pas de catégories valides.");
+    }
+    if (!curatedNews.global_summary || !curatedNews.running_advice) {
+      throw new Error("La réponse Gemini est incomplète (champs global_summary ou running_advice manquants).");
+    }
+    console.log(`✅ Réponse Gemini validée : ${curatedNews.categories.length} catégorie(s).`);
+
     // 3. Distribution
     await Promise.all([
       sendDailyEmail(curatedNews),
@@ -82,7 +91,18 @@ async function main() {
     process.exit(0); // Optionnel : force la sortie propre
   } catch (error) {
     console.error("💥 Erreur critique:", error);
-    process.exit(1); // Indique à GitHub Actions que le job a échoué
+    // Tentative d'alerte Telegram pour être notifié sans consulter GitHub
+    try {
+      const axios = (await import('axios')).default;
+      await axios.post(`https://api.telegram.org/bot${process.env.TELEGRAM_TOKEN}/sendMessage`, {
+        chat_id: process.env.TELEGRAM_CHAT_ID,
+        text: `💥 <b>DailyBrief a échoué !</b>\n\n<code>${String(error).substring(0, 500)}</code>`,
+        parse_mode: 'HTML'
+      });
+    } catch {
+      // Si même le Telegram échoue, on ne peut plus rien faire
+    }
+    process.exit(1);
   }
 }
 
