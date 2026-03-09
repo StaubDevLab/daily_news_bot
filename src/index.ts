@@ -5,6 +5,7 @@ import { sendTelegramMessage } from './services/telegram';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { fetchWeather } from './services/weather';
 import { getEphemeride } from './services/ephemeris';
+import { CuratedNews } from './types';
 dotenv.config();
 
 async function main() {
@@ -27,7 +28,7 @@ async function main() {
   TES MISSIONS :
   1. RÉSUMÉ GLOBAL : Rédige deux paragraphes (10 phrases maximum au total) qui synthétisent l'ambiance et les enjeux majeurs de l'actualité de ce jour. Appelle ce champ "global_summary".
   
-  2. CONSEIL RUNNING : En fonction de la météo (température de ${weather?.minTemp}°C à ${weather?.maxTemp}°C, ciel: ${weather?.weatherInfo.label}, pluie: ${weather?.rainProb}%), dis-moi si c'est une bonne journée pour courir et quelle est l'heure idéale entre le lever du soleil (${weather?.sunrise}) et son coucher (${weather?.sunset}). Sois motivant et précis ! Appelle ce champ "running_advice".
+  2. CONSEIL RUNNING : En fonction de la météo (température de ${weather?.minTemp}°C à ${weather?.maxTemp}°C, ciel: ${weather?.weatherInfo.label}, pluie: ${weather?.rainProb}%, indice UV: ${weather?.uvIndex}), dis-moi si c'est une bonne journée pour courir et quelle est l'heure idéale entre le lever du soleil (${weather?.sunrise}) et son coucher (${weather?.sunset}). Si l'indice UV est élevé (> 3), recommande une protection solaire. Sois motivant et précis ! Appelle ce champ "running_advice".
   
   3. SÉLECTION & DÉDUPLICATION : Sélectionne les 3 articles les plus marquants par catégorie. Un même événement ne doit pas apparaître deux fois dans le JSON final, choisis la catégorie la plus pertinente.
   
@@ -45,7 +46,8 @@ async function main() {
     "weather_string": "${weather?.weatherInfo?.emoji} ${weather?.weatherInfo?.label} (${weather?.minTemp}°C / ${weather?.maxTemp}°C)",
     "weather_stats": { 
       "temp": "${weather?.maxTemp}°C", 
-      "rain": "${weather?.rainProb}%" 
+      "rain": "${weather?.rainProb}%",
+      "uv": "${weather?.uvIndex}"
     },
     "categories": [
       { 
@@ -69,15 +71,15 @@ async function main() {
       throw new Error("Format de réponse invalide");
     }
 
-    const curatedNews = JSON.parse(jsonMatch[0]);
+    const curatedNews: CuratedNews = JSON.parse(jsonMatch[0]);
     curatedNews.ephemeride = ephemeride;
 
     // Validation de la structure retournée par Gemini
     if (!curatedNews.categories || !Array.isArray(curatedNews.categories)) {
       throw new Error("La réponse Gemini ne contient pas de catégories valides.");
     }
-    if (!curatedNews.global_summary || !curatedNews.running_advice) {
-      throw new Error("La réponse Gemini est incomplète (champs global_summary ou running_advice manquants).");
+    if (!curatedNews.global_summary || !curatedNews.running_advice || !curatedNews.weather_stats?.uv) {
+      throw new Error("La réponse Gemini est incomplète (champs manquants).");
     }
     console.log(`✅ Réponse Gemini validée : ${curatedNews.categories.length} catégorie(s).`);
 
@@ -88,10 +90,9 @@ async function main() {
     ]);
 
     console.log("✅ Tout est envoyé. Fin du processus.");
-    process.exit(0); // Optionnel : force la sortie propre
+    process.exit(0);
   } catch (error) {
     console.error("💥 Erreur critique:", error);
-    // Tentative d'alerte Telegram pour être notifié sans consulter GitHub
     try {
       const axios = (await import('axios')).default;
       await axios.post(`https://api.telegram.org/bot${process.env.TELEGRAM_TOKEN}/sendMessage`, {
@@ -100,7 +101,7 @@ async function main() {
         parse_mode: 'HTML'
       });
     } catch {
-      // Si même le Telegram échoue, on ne peut plus rien faire
+      // Ignorer
     }
     process.exit(1);
   }

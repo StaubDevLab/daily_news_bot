@@ -1,6 +1,15 @@
 import axios from 'axios';
+import { CuratedNews } from '../types';
 
-export async function sendTelegramMessage(curatedNews: any) {
+// Échappe les caractères spéciaux HTML pour le mode parse_mode: 'HTML' de Telegram
+function escapeHtml(text: string): string {
+    return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+}
+
+export async function sendTelegramMessage(curatedNews: CuratedNews) {
     const token = process.env.TELEGRAM_TOKEN;
     const chatId = process.env.TELEGRAM_CHAT_ID;
 
@@ -16,33 +25,46 @@ export async function sendTelegramMessage(curatedNews: any) {
 
     // 2. Ajout du résumé global en haut pour le "TL;DR"
     if (curatedNews.global_summary) {
-        const cleanGlobal = curatedNews.global_summary
-            .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-        message += `☕ <b>L'ESSENTIEL :</b>\n<i>${cleanGlobal}</i>\n\n`;
+        message += `☕ <b>L'ESSENTIEL :</b>\n<i>${escapeHtml(curatedNews.global_summary)}</i>\n\n`;
     }
     if (curatedNews.running_advice) {
-        message += `🏃‍♂️ <b>COACH RUNNING :</b>\n<i>${curatedNews.running_advice}</i>\n\n`;
+        message += `🏃‍♂️ <b>COACH RUNNING :</b>\n<i>${escapeHtml(curatedNews.running_advice)}</i>\n\n`;
     }
     if (curatedNews.weather_string) {
-        message += `🌡️ <b>MÉTÉO :</b> ${curatedNews.weather_string}\n\n`;
+        message += `🌡️ <b>MÉTÉO :</b> ${escapeHtml(curatedNews.weather_string)}\n\n`;
     }
     // 3. Boucle sur les catégories
+    let isTruncated = false;
     for (const cat of curatedNews.categories) {
-        message += `${cat.emoji} <b>${cat.label.toUpperCase()}</b>\n`;
+        if (isTruncated) break;
+
+        let catBlock = `${cat.emoji} <b>${cat.label.toUpperCase()}</b>\n`;
+        let addedArticles = 0;
 
         for (const art of cat.articles) {
-            const cleanTitle = (art.title || "").replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-            // On utilise une puce pour chaque article avec le lien intégré
-            message += `• <a href="${art.url}">${cleanTitle}</a>\n`;
+            const cleanTitle = escapeHtml(art.title || "");
+            const cleanUrl = escapeHtml(art.url || "#");
+            const articleLine = `• <a href="${cleanUrl}">${cleanTitle}</a>\n`;
+
+            // Si on ajoute cette ligne, est-ce qu'on dépasse ~3900 caractères ? (on garde de la marge pour le footer)
+            if (message.length + catBlock.length + articleLine.length > 3900) {
+                isTruncated = true;
+                break;
+            }
+
+            catBlock += articleLine;
+            addedArticles++;
         }
-        message += `\n`; // Espace entre les catégories
+
+        if (addedArticles > 0) {
+            message += catBlock + `\n`; // Espace entre les catégories
+        }
     }
 
-    message += `✉️ <i>Détails et résumés complets dans votre email.</i>`;
-
-    // Tronquage sécurisé : la limite Telegram est de 4096 caractères
-    if (message.length > 4000) {
-        message = message.substring(0, 3950) + '...\n\n✉️ <i>Message tronqué. Détails complets dans votre email.</i>';
+    if (isTruncated) {
+        message += `✉️ <i>Message tronqué (limite Telegram atteinte). Suite dans votre email !</i>`;
+    } else {
+        message += `✉️ <i>Détails et résumés complets dans votre email.</i>`;
     }
 
     // 4. Envoi unique
@@ -51,7 +73,7 @@ export async function sendTelegramMessage(curatedNews: any) {
             chat_id: chatId,
             text: message,
             parse_mode: 'HTML',
-            disable_web_page_preview: true // On désactive pour éviter d'avoir 15 aperçus de liens
+            disable_web_page_preview: true
         });
         console.log("📱 Message unique Telegram envoyé !");
     } catch (error: any) {

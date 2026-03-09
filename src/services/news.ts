@@ -10,7 +10,6 @@ export interface Article {
   image?: string;
 }
 
-// Chaque catégorie est maintenant un tableau d'articles
 export interface DailyNews {
   world: Article[];
   france: Article[];
@@ -18,6 +17,7 @@ export interface DailyNews {
   tech: Article[];
   business: Article[];
   jdg: Article[];
+  sport: Article[];
 }
 
 export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
@@ -30,17 +30,17 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
           apikey: apiKey,
           country: 'fr',
           language: 'fr',
-          category: category, // ex: 'technology', 'business', 'world'
+          category: category,
           q: q,
           image: 1,
           removeduplicate: 1,
-          size: 3 // On demande directement 3 articles
+          size: 3
         }
       });
 
       return (response.data.results || []).map((art: any) => ({
         title: art.title || "Sans titre",
-        url: art.link || "#", // NewsData utilise 'link'
+        url: art.link || "#",
         source: art.source_id || "NewsData",
         image: art.image_url
       }));
@@ -50,7 +50,6 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
     }
   };
 
-  // 🍷 Cas particulier pour la Gironde via RSS (on prend les 3 premiers)
   const fetchGirondeRSS = async (): Promise<Article[]> => {
     try {
       const girondeRss = await parser.parseURL('https://www.sudouest.fr/faits-divers/rss.xml');
@@ -64,6 +63,7 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
       return [];
     }
   };
+
   let jdgArticles: Article[] = [];
   try {
     const jdgRss = await parser.parseURL('https://www.journaldugeek.com/feed/');
@@ -77,12 +77,43 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
     console.error("⚠️ Erreur RSS Journal du Geek (source ignorée):", e);
   }
 
+  const sportFeeds = [
+    { url: 'https://rmcsport.bfmtv.com/rss/basket/', label: 'Basket' },
+    { url: 'https://rmcsport.bfmtv.com/rss/athletisme/', label: 'Athlétisme' },
+    { url: 'https://rmcsport.bfmtv.com/rss/societe/', label: 'Société' },
+    { url: 'https://rmcsport.bfmtv.com/rss/jeux-olympiques/', label: 'JO' },
+    { url: 'https://rmcsport.bfmtv.com/rss/rugby/', label: 'Rugby' },
+    { url: 'https://rmcsport.bfmtv.com/rss/basket/nba/', label: 'NBA' }
+  ];
+
+  let sportArticles: Article[] = [];
+
+  const fetchedFeeds = await Promise.allSettled(
+    sportFeeds.map(feed => parser.parseURL(feed.url))
+  );
+
+  fetchedFeeds.forEach((result, index) => {
+    const feedLabel = sportFeeds[index]?.label || 'Sport';
+    if (result.status === 'fulfilled') {
+      const articles = result.value.items.slice(0, 3).map(item => ({
+        title: item.title || "Actu Sport indisponible",
+        url: item.link || "#",
+        source: `RMC Sport (${feedLabel})`,
+        image: item.enclosure?.url || (item as any).mediaContent?.[0]?.url
+      }));
+      sportArticles = [...sportArticles, ...articles];
+    } else {
+      console.error(`⚠️ Erreur RSS Sport pour ${feedLabel}:`, (result as PromiseRejectedResult).reason);
+    }
+  });
+
   return {
     world: await fetchFromNewsData('world'),
-    france: await fetchFromNewsData('top'), // 'top' est souvent mieux pour l'actu générale France
+    france: await fetchFromNewsData('top'),
     tech: await fetchFromNewsData('technology'),
     business: await fetchFromNewsData('business'),
     gironde: await fetchGirondeRSS(),
-    jdg: jdgArticles
+    jdg: jdgArticles,
+    sport: sportArticles
   };
 }

@@ -1,4 +1,6 @@
 import axios from 'axios';
+import { WeatherData } from '../types';
+
 function interpretWeatherCode(code: number): { label: string, emoji: string } {
     if (code === 0) return { label: "Ciel dégagé", emoji: "☀️" };
     if (code <= 3) return { label: "Peu nuageux", emoji: "🌤️" };
@@ -8,7 +10,8 @@ function interpretWeatherCode(code: number): { label: string, emoji: string } {
     if (code <= 82) return { label: "Averses", emoji: "🌦️" };
     return { label: "Orageux", emoji: "⚡" };
 }
-export async function fetchWeather() {
+
+export async function fetchWeather(): Promise<WeatherData | null> {
     const url = "https://api.open-meteo.com/v1/forecast";
     const params = {
         latitude: process.env.LATITUDE || "44.833328",
@@ -26,6 +29,7 @@ export async function fetchWeather() {
             maxTemp: daily.temperature_2m_max[0],
             minTemp: daily.temperature_2m_min[0],
             rainProb: daily.precipitation_probability_max[0],
+            uvIndex: daily.uv_index_max[0],
             sunrise: daily.sunrise[0].split('T')[1],
             sunset: daily.sunset[0].split('T')[1],
             code: daily.weather_code[0],
