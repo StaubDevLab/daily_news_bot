@@ -1,5 +1,7 @@
 import axios from 'axios';
 import Parser from 'rss-parser';
+import fs from 'fs';
+import path from 'path';
 
 const parser = new Parser();
 
@@ -21,6 +23,25 @@ export interface DailyNews {
 }
 
 export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
+  const cachePath = path.join(process.cwd(), '.news_cache.json');
+  const CACHE_TTL = 3 * 60 * 60 * 1000; // 3 heures de délai de grâce
+
+  try {
+    if (fs.existsSync(cachePath)) {
+      const stats = fs.statSync(cachePath);
+      const isCacheValid = (new Date().getTime() - stats.mtime.getTime()) < CACHE_TTL;
+
+      if (isCacheValid) {
+        console.log("⚡ [CACHE] Utilisation des actualités en cache (économise le quota d'API !)");
+        return JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+      } else {
+        console.log("♻️ [CACHE] Le cache a expiré (> 3 heures). Récupération des nouveautés...");
+      }
+    }
+  } catch (error) {
+    console.warn("⚠️ Impossible de lire le cache, récupération forcée...");
+  }
+
   const baseURL = 'https://newsdata.io/api/1/latest';
 
   const fetchFromNewsData = async (category?: string, q?: string): Promise<Article[]> => {
@@ -107,7 +128,7 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
     }
   });
 
-  return {
+  const dailyNews: DailyNews = {
     world: await fetchFromNewsData('world'),
     france: await fetchFromNewsData('top'),
     tech: await fetchFromNewsData('technology'),
@@ -116,4 +137,12 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
     jdg: jdgArticles,
     sport: sportArticles
   };
+
+  try {
+    fs.writeFileSync(cachePath, JSON.stringify(dailyNews), 'utf8');
+  } catch (err) {
+    console.error("⚠️ Impossible d'écrire le cache :", err);
+  }
+
+  return dailyNews;
 }

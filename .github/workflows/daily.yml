@@ -36,3 +36,9 @@ jobs:
           MY_EMAIL: ${{ secrets.MY_EMAIL }}
           LATITUDE: ${{ secrets.LATITUDE }}
           LONGITUDE: ${{ secrets.LONGITUDE }}
+
+      - name: Commit Archives & Web Updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 🗄️ Mise à jour des archives web et du cache"
+          file_pattern: 'docs/* .news_cache.json'

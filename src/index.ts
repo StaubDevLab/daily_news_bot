@@ -5,6 +5,7 @@ import { sendTelegramMessage } from './services/telegram';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { fetchWeather } from './services/weather';
 import { getEphemeride } from './services/ephemeris';
+import { saveArchiveAndGenerateWebsite } from './services/archive';
 import { CuratedNews } from './types';
 dotenv.config();
 
@@ -86,8 +87,11 @@ async function main() {
     // 3. Distribution
     await Promise.all([
       sendDailyEmail(curatedNews),
-      sendTelegramMessage(curatedNews)
-    ]);
+      sendTelegramMessage(curatedNews),
+      async () => {
+        saveArchiveAndGenerateWebsite(curatedNews);
+      }
+    ].map(task => typeof task === 'function' ? task() : task));
 
     console.log("✅ Tout est envoyé. Fin du processus.");
     process.exit(0);
