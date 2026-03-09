@@ -172,6 +172,9 @@ export function generateHtml(curatedNews: CuratedNews): string {
     <body>
       <div class="wrapper">
         <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
           <div class="header">
             <h1>🗞️ Votre Brief Matinal</h1>
             <p class="date">${new Date().toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long' })}${curatedNews.ephemeride ? ` • ${curatedNews.ephemeride}` : ''}</p>
