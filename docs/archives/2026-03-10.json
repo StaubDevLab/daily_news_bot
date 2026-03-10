@@ -1,0 +1,109 @@
+{
+  "ephemeride": "Saint Vivien",
+  "global_summary": "L'actualité mondiale est dominée par des enjeux géopolitiques majeurs, avec la succession de Mojtaba Khamenei à la tête de l'Iran, un événement scruté de près par la communauté internationale. La situation au Moyen-Orient reste tendue, et l'appel de Dubaï à éviter une extension du conflit témoigne de l'urgence de la désescalade. Dans ce contexte, le rapatriement difficile de citoyens français du Moyen-Orient, contraints de prendre en charge leurs frais, soulève des questions importantes sur la gestion de ces crises humanitaires.\n\nEn parallèle, le dynamisme technologique se manifeste avec des innovations côté smartphones et des alliances stratégiques dans l'industrie de la défense. Le monde du sport, quant à lui, continue de faire rêver : Victor Wembanyama enflamme la NBA, tandis que des athlètes repoussent les limites aux Jeux Paralympiques et dans les compétitions d'athlétisme, nous offrant des moments d'émotion et de performance pure.",
+  "running_advice": "Aujourd'hui, les conditions sont mitigées pour chausser vos baskets, mais ne baissez pas les bras ! Avec des températures agréables oscillant entre 7.1°C et 15.7°C et un ciel peu nuageux, l'air est parfait pour l'effort. Cependant, attention, une probabilité de pluie de 70% plane sur la journée. Je vous conseille vivement de privilégier votre course en fin de matinée ou début d'après-midi, idéalement entre 10h00 et 14h00, pour potentiellement éviter les averses les plus fortes et profiter de la douceur. Malgré les nuages, l'indice UV de 4.1 est à prendre en compte : n'oubliez pas une crème solaire et des lunettes de soleil si vous courez à découvert. Soyez prêt(e) pour toutes les éventualités, un bon échauffement et une tenue adaptée feront toute la différence. Le défi, c'est ce qui nous rend plus forts ! Alors, prêt(e) à relever le gant ?",
+  "weather_string": "🌤️ Peu nuageux (7.1°C / 15.7°C)",
+  "weather_stats": {
+    "temp": "15.7°C",
+    "rain": "70%",
+    "uv": "4.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Mojtaba Khamenei, nouveau guide suprême d'Iran",
+          "summary": "Mojtaba Khamenei succède à son père, Ali Khamenei, un tournant géopolitique majeur pour la région.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien",
+          "image": "https://s.france24.com/media/display/b47ecf18-17f3-11f1-980d-005056a90284/w:1024/p:16x9/AP26063304147652.jpg"
+        },
+        {
+          "title": "Dubaï exhorte à éviter l'escalade régionale au Golfe",
+          "summary": "Dubaï met en garde contre l'extension de la guerre au Moyen-Orient, appelant à la désescalade immédiate.",
+          "url": "http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go",
+          "image": "https://images.euronews.com/articles/stories/09/67/84/56/1200x675_cmsv2_d4fb0586-a99a-5951-8478-c98c19472a94-9678456.jpg"
+        },
+        {
+          "title": "Rapatriés du Moyen-Orient : frais de leur poche",
+          "summary": "Des Français rapatriés du Moyen-Orient ont dû payer eux-mêmes leurs frais, sans aucune prise en charge par l'État.",
+          "url": "https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~08~b02ccf7a-4cff-47bb-9ab6-423c66f35192.jpg/1200x900/quality/80/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Supermarché détruit par le feu en Gironde",
+          "summary": "Un supermarché girondin a été la proie des flammes, la piste criminelle est désormais privilégiée par les enquêteurs.",
+          "url": "https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php",
+          "image": null
+        },
+        {
+          "title": "Autoroutes à 150 km/h : bientot en France ?",
+          "summary": "Le débat sur la possible augmentation de la vitesse maximale sur les autoroutes françaises à 150 km/h ressurgit.",
+          "url": "https://www.journaldugeek.com/2026/03/09/autoroutes-a-150-km-h-en-france-pourrez-vous-bientot-rouler-plus-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/vitesse-1280x853.jpg"
+        },
+        {
+          "title": "Quatre jeux vidéo français à surveiller",
+          "summary": "Découvrez quatre pépites prometteuses du jeu vidéo français, témoignant du dynamisme créatif de l'Hexagone.",
+          "url": "https://www.journaldugeek.com/2026/03/09/voici-4-jeux-video-francais-a-surveiller-de-pres/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/pyla-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Poco F8 Ultra : puissance et offre unique",
+          "summary": "Découvrez le Poco F8 Ultra, un smartphone haut de gamme avec Snapdragon 8 Elite Gen 5 et une offre à -31%.",
+          "url": "https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/",
+          "image": "https://l-echo.info/wp-content/uploads/2026/03/poco-f8-ultra.jpg"
+        },
+        {
+          "title": "Airbus, Rheinmetall, OHB : alliance pour le Starlink allemand",
+          "summary": "Une union inédite pour rafler le contrat du 'Starlink de l'armée allemande', marquant une avancée industrielle majeure.",
+          "url": "https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738",
+          "image": "https://media.lesechos.com/api/v1/images/view/69ad6364eb093a54860d6172/640x360/0180922390703-web-tete.jpg"
+        },
+        {
+          "title": "Steam Machine 2026 : Valve incertain sur sa sortie",
+          "summary": "Valve semble douter de la sortie de sa console Steam Machine en 2026, soulevant des interrogations pour les fans.",
+          "url": "https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-17-122637-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama MVP : les fans s'enflamment",
+          "summary": "Après une nouvelle performance éclatante, les fans des Spurs réclament le titre de MVP pour Victor Wembanyama.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html",
+          "image": "https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg"
+        },
+        {
+          "title": "Saut à la perche : Karalis réalise un bond historique",
+          "summary": "Le Grec Emmanouil Karalis entre dans l'histoire avec un bond à 6,17m, devenant le 2e meilleur performeur mondial.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-bon-a-6-17m-le-grec-emmanouil-karalis-entre-dans-l-histoire-et-devient-le-deuxieme-meilleur-performeur-mondial-de-l-histoire-du-saut-a-la-perche_AV-202602280338.html",
+          "image": "https://images.bfmtv.com/sIytBJL-kXWrIRrtkfEp4b0XtbA=/0x61:2048x1213/800x0/images/Emmanouil-Karalis-lors-du-All-Star-Perche-le-22-fevrier-2026-2243941.jpg"
+        },
+        {
+          "title": "Cécile Hernandez : or paralympique et émotion",
+          "summary": "Cécile Hernandez remporte l'or en snowboard cross aux Jeux Paralympiques, partageant un moment émouvant avec sa fille.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html",
+          "image": "https://images.bfmtv.com/Rh27uf8obBQESEgvdn1LVQH5N4Q=/10x117:2042x1260/800x0/images/Cecile-Hernandez-a-decroche-la-medaille-d-or-en-snowboardcross-aux-Jeux-paralympiques-de-Milan-Cortina-2026-2248656.jpg"
+        }
+      ]
+    }
+  ]
+}
