@@ -1,0 +1,121 @@
+{
+  "ephemeride": "Sainte Rosine",
+  "global_summary": "L'actualité mondiale est dominée par des tensions géopolitiques majeures : l'Iran voit l'arrivée de Mojtaba Khamenei comme nouveau guide suprême, tandis que le Moyen-Orient reste une zone de préoccupations intenses, Dubaï appelant à éviter une escalade régionale et des citoyens français étant rapatriés, non sans difficultés financières. Ces événements soulignent une période d'incertitude et de profondes réorganisations au niveau international, avec des implications directes pour la sécurité et la politique étrangère. \n\nParallèlement, le monde du sport vibre au rythme des exploits individuels et collectifs. Victor Wembanyama continue de faire sensation en NBA, acclamé comme un potentiel MVP. L'athlétisme brille également avec de nouveaux records impressionnants en saut à la perche, sans oublier les Jeux Paralympiques où les athlètes français glanent de précieuses médailles. Côté technologie et économie, les annonces de nouveaux smartphones et les partenariats industriels d'envergure, comme celui d'Airbus, dessinent un futur d'innovations et de consolidation.",
+  "running_advice": "Avis aux coureurs ! Aujourd'hui, la météo nous offre une journée printanière avec des températures douces, entre 8.2°C et 15.5°C. Mais attention, le ciel est annoncé avec 100% de chances d'averses : prévoyez votre équipement imperméable et n'ayez pas peur de l'eau, elle ne fait que purifier l'esprit ! L'heure idéale pour votre run se situe entre 7h22 et 19h03. Malgré la pluie, l'indice UV est de 4.1 ; protégez votre peau avec une crème solaire adaptée, même sous les nuages. Transformez ces averses en une opportunité de tester votre détermination et de vous sentir vivant. Allez, enfilez vos baskets et foncez, chaque goutte est une victoire !",
+  "weather_string": "🌦️ Averses (8.2°C / 15.5°C)",
+  "weather_stats": {
+    "temp": "15.5°C",
+    "rain": "100%",
+    "uv": "4.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Iran : Mojtaba Khamenei, nouveau guide suprême",
+          "summary": "Le fils de l'ayatollah Ali Khamenei est désigné pour prendre les rênes du pouvoir iranien, marquant un tournant.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien",
+          "image": "https://s.france24.com/media/display/b47ecf18-17f3-11f1-980d-005056a90284/w:1024/p:16x9/AP26063304147652.jpg"
+        },
+        {
+          "title": "Dubaï : Éviter l'escalade régionale",
+          "summary": "Les Émirats appellent à la désescalade pour prévenir une extension du conflit au Moyen-Orient.",
+          "url": "http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go",
+          "image": "https://images.euronews.com/articles/stories/09/67/84/56/1200x675_cmsv2_d4fb0586-a99a-5951-8478-c98c19472a94-9678456.jpg"
+        },
+        {
+          "title": "Maison Blanche : Quand la guerre devient spectacle",
+          "summary": "Une analyse critique de la communication américaine transformant le conflit en un \"blockbuster\" médiatique.",
+          "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/guerre-au-moyen-orient-la-maison-blanche-transforme-la-guerre-en-blockbuster_7854398.html",
+          "image": "https://www.franceinfo.fr/pictures/O6mXNAdLqN9HyHqAkVME4Nivzh8/0x65:980x617/432x243/filters:format(jpg)/2026/03/08/geezgegezg-69ade068684f7706786692.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Rapatriés du Moyen-Orient : À leurs frais ?",
+          "summary": "Des Français rentrés du Moyen-Orient ont dû assumer les coûts de leur rapatriement, sans prise en charge.",
+          "url": "https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~08~b02ccf7a-4cff-47bb-9ab6-423c66f35192.jpg/1200x900/quality/80/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche.jpg"
+        },
+        {
+          "title": "Autoroutes françaises : Vers les 150 km/h ?",
+          "summary": "La possibilité d'une augmentation de la vitesse maximale sur autoroute en France est à l'étude.",
+          "url": "https://www.journaldugeek.com/2026/03/09/autoroutes-a-150-km-h-en-france-pourrez-vous-bientot-rouler-plus-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/vitesse-1280x853.jpg"
+        },
+        {
+          "title": "Gironde : Supermarché détruit, piste criminelle",
+          "summary": "Un incendie a ravagé un supermarché en Gironde, les enquêteurs penchent vers une origine criminelle.",
+          "url": "https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Poco F8 Ultra : Performance et prix chocs",
+          "summary": "Un nouveau smartphone doté d'une puce Snapdragon 8 Elite Gen 5 et d'une offre exceptionnelle à -31%.",
+          "url": "https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/",
+          "image": "https://l-echo.info/wp-content/uploads/2026/03/poco-f8-ultra.jpg"
+        },
+        {
+          "title": "Steam Machine 2026 : Le doute s'installe",
+          "summary": "Valve exprime des incertitudes quant à la sortie de sa console Steam Machine prévue pour 2026.",
+          "url": "https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-17-122637-1280x853.jpg"
+        },
+        {
+          "title": "4 jeux vidéo français à suivre",
+          "summary": "Découvrez une sélection prometteuse de quatre titres développés par des studios français à ne pas manquer.",
+          "url": "https://www.journaldugeek.com/2026/03/09/voici-4-jeux-video-francais-a-surveiller-de-pres/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/pyla-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Entreprises",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Airbus, Rheinmetall, OHB : Union spatiale",
+          "summary": "Un partenariat stratégique pour décrocher le contrat du \"Starlink de l'armée allemande\", alliance industrielle majeure.",
+          "url": "https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738",
+          "image": "https://media.lesechos.com/api/v1/images/view/69ad6364eb093a54860d6172/640x360/0180922390703-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performances",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama MVP : Les fans l'acclament",
+          "summary": "Après une performance exceptionnelle, les fans de San Antonio réclament le titre de MVP pour Victor Wembanyama.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html",
+          "image": "https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg"
+        },
+        {
+          "title": "Athlétisme : Karalis, un saut historique",
+          "summary": "Le Grec Emmanouil Karalis réalise un bond à 6,17m, le propulsant au 2ème rang mondial historique en saut à la perche.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-bon-a-6-17m-le-grec-emmanouil-karalis-entre-dans-l-histoire-et-devient-le-deuxieme-meilleur-performeur-mondial-de-l-histoire-du-saut-a-la-perche_AV-202602280338.html",
+          "image": "https://images.bfmtv.com/sIytBJL-kXWrIRrtkfEp4b0XtbA=/0x61:2048x1213/800x0/images/Emmanouil-Karalis-lors-du-All-Star-Perche-le-22-fevrier-2026-2243941.jpg"
+        },
+        {
+          "title": "Paralympiques : Cécile Hernandez en or",
+          "summary": "Magnifique performance de Cécile Hernandez qui décroche la médaille d'or en snowboard cross aux Jeux Paralympiques.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html",
+          "image": "https://images.bfmtv.com/Rh27uf8obBQESEgvdn1LVQH5N4Q=/10x117:2042x1260/800x0/images/Cecile-Hernandez-a-decroche-la-medaille-d-or-en-snowboardcross-aux-Jeux-paralympiques-de-Milan-Cortina-2026-2248656.jpg"
+        }
+      ]
+    }
+  ]
+}
