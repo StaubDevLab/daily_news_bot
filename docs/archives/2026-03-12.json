@@ -1,0 +1,109 @@
+{
+  "ephemeride": "Sainte Justine",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux géopolitiques majeurs : l'Iran connaît une succession clé avec l'arrivée de Mojtaba Khamenei, dans un contexte régional déjà tendu. La priorité reste d'éviter une escalade du conflit au Moyen-Orient, un défi complexe qui impacte directement nos concitoyens, certains ayant dû financer eux-mêmes leur rapatriement. Ces tensions soulignent la fragilité de la paix mondiale.\n\nParallèlement, le monde du sport nous offre des récits d'exception et de dépassement. Victor Wembanyama continue d'éblouir la NBA, récoltant les acclamations pour ses prouesses. Les Jeux Paralympiques nous rappellent la puissance de l'esprit humain avec des médailles d'or émouvantes, tandis que de nouveaux records sont établis en athlétisme. L'innovation, quant à elle, ne s'arrête jamais, avec des avancées technologiques et des collaborations stratégiques qui dessinent l'économie de demain.",
+  "running_advice": "Bonjour, champion(ne) ! Aujourd'hui, Sainte Justine est à l'honneur, et toi aussi, tu vas briller ! Avec des températures allant de 6.8°C à 14.8°C, la journée est idéale pour enfiler tes baskets. Le brouillard matinal (🌫️) invite à la prudence et à privilégier une sortie un peu plus tardive. Je te conseille vivement de viser entre **10h00 et 14h00** : le brouillard devrait s'être dissipé, et tu profiteras des températures les plus douces, sans risquer les frimas de l'aube ou du crépuscule. Même avec seulement 5% de chance de pluie, n'oublie pas une protection solaire (UV 4.35) si tu cours en plein soleil ou longtemps. Un léger coupe-vent sera parfait pour le matin, et tu pourras l'enlever en cours de route. Alors, motive-toi, respire à fond et va chercher cette énergie ! Chaque pas compte, chaque goutte de sueur est une victoire !",
+  "weather_string": "🌫️ Brouillard (6.8°C / 14.8°C)",
+  "weather_stats": {
+    "temp": "14.8°C",
+    "rain": "5%",
+    "uv": "4.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Succession en Iran: Qui est Mojtaba Khamenei?",
+          "summary": "Mojtaba Khamenei succède à son père, Ali Khamenei, comme nouveau guide suprême de l'Iran, un événement clé.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien",
+          "image": "https://s.france24.com/media/display/b47ecf18-17f3-11f1-980d-005056a90284/w:1024/p:16x9/AP26063304147652.jpg"
+        },
+        {
+          "title": "Moyen-Orient: Dubaï veut éviter l'escalade",
+          "summary": "Dubaï exprime sa priorité : empêcher l'extension de la guerre au Moyen-Orient à toute la région du Golfe.",
+          "url": "http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go",
+          "image": "https://images.euronews.com/articles/stories/09/67/84/56/1200x675_cmsv2_d4fb0586-a99a-5951-8478-c98c19472a94-9678456.jpg"
+        },
+        {
+          "title": "Rapatriement du Moyen-Orient: les Français paient",
+          "summary": "Des Français rapatriés du Moyen-Orient ont dû payer de leur poche, faute de prise en charge officielle.",
+          "url": "https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~08~b02ccf7a-4cff-47bb-9ab6-423c66f35192.jpg/1200x900/quality/80/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Incendie en Gironde: piste criminelle à l'étude",
+          "summary": "Un supermarché de Gironde a été détruit par un violent incendie, la piste criminelle est fortement envisagée.",
+          "url": "https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php",
+          "image": null
+        },
+        {
+          "title": "Bientôt 150 km/h sur autoroute en France?",
+          "summary": "La possibilité d'augmenter la vitesse maximale sur les autoroutes françaises à 150 km/h est à l'étude.",
+          "url": "https://www.journaldugeek.com/2026/03/09/autoroutes-a-150-km-h-en-france-pourrez-vous-bientot-rouler-plus-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/vitesse-1280x853.jpg"
+        },
+        {
+          "title": "Athlétisme: pas de titre de cross pour la Dordogne",
+          "summary": "Les championnats de France de cross-country se sont déroulés sans titre pour la Dordogne.",
+          "url": "https://www.dordognelibre.fr/sport/athletisme/athletisme-finale-des-championnats-de-france-de-cross-country-pas-de-titre-pour-la-dordogne-28188704.php",
+          "image": "https://media.dordognelibre.fr/28188704/1200x600/79851b8e-d804-47f8-a89d-34864fad82ed.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Économie",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Airbus, Rheinmetall, OHB s'allient pour \"Starlink armée\"",
+          "summary": "Union surprise d'Airbus, Rheinmetall et OHB pour remporter le contrat du \"Starlink de l'armée allemande\".",
+          "url": "https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738",
+          "image": "https://media.lesechos.com/api/v1/images/view/69ad6364eb093a54860d6172/640x360/0180922390703-web-tete.jpg"
+        },
+        {
+          "title": "Poco F8 Ultra: performance et offre exceptionnelle",
+          "summary": "Le nouveau Poco F8 Ultra arrive avec un Snapdragon 8 Elite Gen 5, audio Bose et une offre de -31%.",
+          "url": "https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/",
+          "image": "https://l-echo.info/wp-content/uploads/2026/03/poco-f8-ultra.jpg"
+        },
+        {
+          "title": "Steam Machine: Valve doute d'une sortie en 2026",
+          "summary": "Valve ne semble plus confiant quant à la sortie de sa console Steam Machine en 2026, l'avenir est incertain.",
+          "url": "https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-17-122637-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama MVP? Les fans réclament le titre",
+          "summary": "Victor Wembanyama enflamme la NBA, les fans de San Antonio scandent \"MVP\" après sa nouvelle démonstration.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html",
+          "image": "https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg"
+        },
+        {
+          "title": "JO Paralympiques: l'or et les larmes de Cécile Hernandez",
+          "summary": "Cécile Hernandez décroche l'or en snowboardcross aux Jeux Paralympiques 2026, un moment émouvant avec sa fille.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html",
+          "image": "https://images.bfmtv.com/Rh27uf8obBQESEgvdn1LVQH5N4Q=/10x117:2042x1260/800x0/images/Cecile-Hernandez-a-decroche-la-medaille-d-or-en-snowboardcross-aux-Jeux-paralympiques-de-Milan-Cortina-2026-2248656.jpg"
+        },
+        {
+          "title": "Record historique à la perche pour Emmanouil Karalis",
+          "summary": "Le Grec Emmanouil Karalis réalise un bond à 6,17m, devenant le 2ème meilleur performeur mondial de l'histoire.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-bon-a-6-17m-le-grec-emmanouil-karalis-entre-dans-l-histoire-et-devient-le-deuxieme-meilleur-performeur-mondial-de-l-histoire-du-saut-a-la-perche_AV-202602280338.html",
+          "image": "https://images.bfmtv.com/sIytBJL-kXWrIRrtkfEp4b0XtbA=/0x61:2048x1213/800x0/images/Emmanouil-Karalis-lors-du-All-Star-Perche-le-22-fevrier-2026-2243941.jpg"
+        }
+      ]
+    }
+  ]
+}
