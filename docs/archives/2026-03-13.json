@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Rodrigue",
-  "global_summary": "L'actualité de ce jour est dominée par des enjeux géopolitiques majeurs, notamment la succession du Guide suprême en Iran avec l'arrivée de Mojtaba Khamenei, suscitant de nombreuses interrogations internationales. Au Moyen-Orient, la tension reste palpable, et Dubaï appelle à tout faire pour éviter une escalade du conflit régional. En France, les conséquences de cette crise se font sentir, avec des citoyens rapatriés qui regrettent un manque de prise en charge financière. \n\nParallèlement, le monde du sport vibre grâce à des performances exceptionnelles. Victor Wembanyama continue d'impressionner en NBA, suscitant des appels au titre de MVP, tandis que les Jeux Paralympiques 2026 nous offrent des moments d'émotion et de fierté avec l'or de Cécile Hernandez. La technologie n'est pas en reste, avec l'annonce de nouveaux smartphones et des interrogations sur la Steam Machine.",
-  "running_advice": "Salut l'athlète ! Aujourd'hui, on fête Saint Rodrigue, une belle occasion de se dépasser. La météo nous annonce des averses et un ciel couvert, avec des températures entre 7°C et 13.8°C et 100% de probabilité de pluie. Pas de panique, c'est une excellente journée pour tester ta motivation et ta résilience ! Équipe-toi d'un bon K-way, de chaussures adaptées et d'une casquette pour garder la tête au sec. Malgré les nuages, l'indice UV est de 3.6, donc n'oublie pas une crème solaire légère pour les parties exposées. Le meilleur créneau pour ta séance ? Entre 10h et 16h, quand les températures sont les plus clémentes, même sous la pluie. Chaque goutte te rend plus fort ! Vas-y, le bitume t'attend !",
-  "weather_string": "🌦️ Averses (7°C / 13.8°C)",
+  "global_summary": "L'actualité de ce jour est marquée par une profonde réorganisation du pouvoir en Iran, avec la succession de Mojtaba Khamenei, suscitant des interrogations sur la stabilité régionale. Les tensions au Moyen-Orient restent vives, et la communauté internationale, notamment Dubaï, multiplie les appels à la désescalade pour éviter une propagation du conflit. Les répercussions se font sentir jusqu'en France, avec des préoccupations concernant les rapatriements de citoyens.\nEn parallèle, le monde du sport nous offre une dose d'inspiration avec des performances exceptionnelles. Victor Wembanyama continue d'enflammer la NBA, des records mondiaux tombent en athlétisme, et les Jeux Paralympiques célèbrent des médailles d'or émouvantes. Côté technologie, de nouvelles avancées et discussions sur l'avenir de la mobilité complètent ce tableau riche en informations.",
+  "running_advice": "Aujourd'hui, la pluie est au rendez-vous (100%), avec des températures entre 7°C et 14.6°C. C'est l'occasion de prouver votre détermination ! Équipez-vous d'un bon imperméable et de chaussures adaptées. Pour profiter des températures les plus douces et d'une meilleure visibilité, visez une sortie entre 10h00 et 14h00. Malgré le ciel couvert, l'indice UV est de 3.6 : pensez à une protection solaire légère si vous prolongez l'effort. Chaque goutte d'eau est un challenge, transformez-la en force ! Go, go, go !",
+  "weather_string": "🌧️ Pluie (7°C / 14.6°C)",
   "weather_stats": {
-    "temp": "13.8°C",
+    "temp": "14.6°C",
     "rain": "100%",
     "uv": "3.6"
   },
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Le nouveau Guide suprême iranien",
-          "summary": "Mojtaba Khamenei succède à son père, une transition clé pour l'avenir de la région.",
+          "title": "Succession iranienne: Qui est le nouveau guide suprême?",
+          "summary": "Le fils d'Ali Khamenei prend les rênes de l'Iran, un événement majeur pour la géopolitique régionale.",
           "url": "https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien",
           "image": "https://s.france24.com/media/display/b47ecf18-17f3-11f1-980d-005056a90284/w:1024/p:16x9/AP26063304147652.jpg"
         },
         {
-          "title": "Moyen-Orient : prévenir l'escalade",
-          "summary": "Dubaï insiste sur la priorité d'éviter l'extension du conflit régional.",
+          "title": "Moyen-Orient: Dubaï appelle à éviter l'escalade régionale",
+          "summary": "Alors que les tensions montent, Dubaï insiste sur la nécessité de contenir le conflit et préserver la stabilité du Golfe.",
           "url": "http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go",
           "image": "https://images.euronews.com/articles/stories/09/67/84/56/1200x675_cmsv2_d4fb0586-a99a-5951-8478-c98c19472a94-9678456.jpg"
         },
         {
-          "title": "Liège : explosion devant une synagogue",
-          "summary": "Un incident sans blessé marque une nuit agitée en Belgique, l'enquête est en cours.",
-          "url": "https://www.sudouest.fr/international/europe/belgique/belgique-explosion-dans-la-nuit-devant-une-synagogue-a-liege-aucun-blesse-28198815.php",
-          "image": "https://www.sudouest.fr/images/2026/03/09/7810766_1670923057.jpg?v=1.0&w=640&h=360"
+          "title": "Rapatriements du Moyen-Orient: Des Français en attente",
+          "summary": "La situation tendue au Moyen-Orient nécessite l'organisation de nouveaux rapatriements pour les citoyens français.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-encore-des-francais-a-rapatrier_7854404.html",
+          "image": "https://www.franceinfo.fr/pictures/0-79xg0KULC1jl-w-MkAyXyI0ss/0x29:971x576/432x243/filters:format(jpg)/2026/03/08/jnjnjnj-klk-69ade9e92e750058642062.jpg"
         }
       ]
     },
@@ -38,46 +38,46 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Rapatriements du Moyen-Orient payants",
-          "summary": "Des Français rapatriés dénoncent le manque de prise en charge financière de l'État.",
+          "title": "Rapatriements: Les Français payent de leur poche?",
+          "summary": "Controverse autour des frais de rapatriement des citoyens français du Moyen-Orient, laissés à leur charge.",
           "url": "https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492",
           "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~08~b02ccf7a-4cff-47bb-9ab6-423c66f35192.jpg/1200x900/quality/80/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche.jpg"
         },
         {
-          "title": "Incendie criminel en Gironde",
-          "summary": "Un supermarché dévasté par un incendie, la piste criminelle se précise.",
-          "url": "https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php",
-          "image": "https://www.sudouest.fr/images/2026/03/09/7810793_1670923057.jpg?v=1.0&w=640&h=360"
+          "title": "Autoroutes à 150 km/h: Bientôt une réalité en France?",
+          "summary": "Le débat sur l'augmentation des limitations de vitesse sur les autoroutes françaises est relancé.",
+          "url": "https://www.journaldugeek.com/2026/03/09/autoroutes-a-150-km-h-en-france-pourrez-vous-bientot-rouler-plus-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/vitesse-1280x853.jpg"
         },
         {
-          "title": "Cross-country : pas de titre pour la Dordogne",
-          "summary": "Déception aux championnats de France de cross-country pour les athlètes périgourdins.",
-          "url": "https://www.dordognelibre.fr/sport/athletisme/athletisme-finale-des-championnats-de-france-de-cross-country-pas-de-titre-pour-la-dordogne-28188704.php",
-          "image": "https://media.dordognelibre.fr/28188704/1200x600/79851b8e-d804-47f8-a89d-34864fad82ed.jpg"
+          "title": "Gironde: Supermarché détruit par les flammes, piste criminelle",
+          "summary": "Un incendie majeur a ravagé un supermarché en Gironde, l'enquête s'oriente vers un acte criminel.",
+          "url": "https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php",
+          "image": null
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
-      "emoji": "💻",
+      "label": "Tech",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Poco F8 Ultra : une offre choc",
-          "summary": "Le nouveau smartphone haut de gamme Poco F8 Ultra promet performances et autonomie à -31%.",
+          "title": "Poco F8 Ultra: La puissance à prix réduit",
+          "summary": "Découvrez le nouveau smartphone Poco F8 Ultra avec des specs haut de gamme et une offre à -31%.",
           "url": "https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/",
           "image": "https://l-echo.info/wp-content/uploads/2026/03/poco-f8-ultra.jpg"
         },
         {
-          "title": "Steam Machine, sortie incertaine en 2026",
-          "summary": "Valve exprime des doutes sur la disponibilité de sa console dès 2026. L'attente continue.",
+          "title": "Steam Machine: Valve doute de sa sortie 2026",
+          "summary": "Valve exprime des doutes sur la disponibilité de sa console Steam Machine avant la fin de l'année 2026.",
           "url": "https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/",
           "image": "https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-17-122637-1280x853.jpg"
         },
         {
-          "title": "Airbus, Rheinmetall, OHB s'unissent",
-          "summary": "Alliance stratégique pour le \"Starlink de l'armée allemande\", un marché lucratif en jeu.",
-          "url": "https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738",
-          "image": "https://media.lesechos.com/api/v1/images/view/69ad6364eb093a54860d6172/640x360/0180922390703-web-tete.jpg"
+          "title": "4 jeux vidéo français à découvrir",
+          "summary": "Tour d'horizon de quatre productions vidéoludiques françaises prometteuses qui méritent votre attention.",
+          "url": "https://www.journaldugeek.com/2026/03/09/voici-4-jeux-video-francais-a-surveiller-de-pres/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/pyla-1280x853.jpg"
         }
       ]
     },
@@ -86,22 +86,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama, déjà un MVP ?",
-          "summary": "Les fans de San Antonio s'enflamment et réclament le titre de meilleur joueur pour Wembanyama.",
+          "title": "Wembanyama MVP: Les fans en délire après sa démonstration",
+          "summary": "Victor Wembanyama continue d'impressionner, les fans de San Antonio réclamant déjà le titre de MVP pour la star.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html",
           "image": "https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg"
         },
         {
-          "title": "Cécile Hernandez : l'or paralympique !",
-          "summary": "Émue aux larmes, Cécile Hernandez décroche l'or en snowboard cross aux Jeux Paralympiques.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html",
-          "image": "https://images.bfmtv.com/Rh27uf8obBQESEgvdn1LVQH5N4Q=/10x117:2042x1260/800x0/images/Cecile-Hernandez-a-decroche-la-medaille-d-or-en-snowboardcross-aux-Jeux-paralympiques-de-Milan-Cortina-2026-2248656.jpg"
-        },
-        {
-          "title": "Karalis, un bond historique à la perche",
-          "summary": "Emmanouil Karalis signe une performance historique au saut à la perche avec 6,17m.",
+          "title": "Record en perche: Karalis entre dans l'histoire à 6,17m",
+          "summary": "Le Grec Emmanouil Karalis réalise un bond exceptionnel à 6,17m, devenant le deuxième meilleur perchiste mondial.",
           "url": "https://rmcsport.bfmtv.com/athletisme/un-bon-a-6-17m-le-grec-emmanouil-karalis-entre-dans-l-histoire-et-devient-le-deuxieme-meilleur-performeur-mondial-de-l-histoire-du-saut-a-la-perche_AV-202602280338.html",
           "image": "https://images.bfmtv.com/sIytBJL-kXWrIRrtkfEp4b0XtbA=/0x61:2048x1213/800x0/images/Emmanouil-Karalis-lors-du-All-Star-Perche-le-22-fevrier-2026-2243941.jpg"
+        },
+        {
+          "title": "Paralympiques: Cécile Hernandez championne en snowboard cross",
+          "summary": "Émotion et performance aux Jeux Paralympiques : Cécile Hernandez décroche la médaille d'or en snowboard cross.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/direct-jeux-paralympiques-2026-curling-fauteuil-para-biathlon-para-snowboard-suivez-les-epreuves-de-ce-dimanche-8-mars_LN-202603080041.html",
+          "image": "https://images.bfmtv.com/tFjao8iWyzf7Y3lXHPHQHdSZ8rU=/0x142:2032x1285/800x0/images/La-snowboardeuse-francaise-Cecile-Hernandez-aux-Jeux-paralympiques-le-7-mars-2026-2248565.jpg"
         }
       ]
     }
