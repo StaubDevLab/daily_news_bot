@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Mathilde",
+  "global_summary": "L'actualité mondiale est dominée par des enjeux géopolitiques majeurs, notamment au Moyen-Orient. Le successeur du guide suprême iranien est désormais connu, tandis que les appels se multiplient pour éviter une escalade régionale du conflit, qui continue d'affecter les ressortissants français. En France, au-delà des considérations internationales, des questions de société et d'infrastructure retiennent l'attention. \n\nSur le front sportif, l'exploit est au rendez-vous : Victor Wembanyama enflamme la NBA et les Jeux Paralympiques célèbrent des performances exceptionnelles. Le monde de la tech n'est pas en reste, avec de nouvelles révélations sur les smartphones et l'avenir du gaming, marquant une journée riche en défis et en réussites.",
+  "running_advice": "Aujourd'hui, Sainte Mathilde nous offre une journée placée sous le signe de la pluie, avec des températures oscillant entre 5.7°C et 11.1°C. Un taux de pluie de 100% signifie qu'il faudra embrasser l'eau ! Ne laissez pas cela vous arrêter : avec un équipement adapté (veste imperméable, chaussures de trail ou bonne adhérence), la course sous la pluie peut être vivifiante et renforcer votre mental. L'indice UV de 4.1 est modéré, mais une protection solaire reste pertinente, surtout si le ciel s'éclaircit par intermittence. \n\nPour votre séance, je vous suggère de viser la fin de matinée ou le début d'après-midi, entre 10h00 et 14h00. Vous bénéficierez potentiellement des températures les plus clémentes de la journée. Chaussez vos meilleures baskets, et rappelez-vous : chaque goutte de pluie est une goutte de persévérance ! Sortez et conquérez cette journée, le corps vous remerciera !",
+  "weather_string": "🌧️ Pluie (5.7°C / 11.1°C)",
+  "weather_stats": {
+    "temp": "11.1°C",
+    "rain": "100%",
+    "uv": "4.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Mojtaba Khamenei: Le nouveau guide suprême iranien",
+          "summary": "Qui est l'homme qui succède à son père et prend les rênes du pouvoir en Iran, au cœur des tensions régionales ?",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien",
+          "image": "https://s.france24.com/media/display/b47ecf18-17f3-11f1-980d-005056a90284/w:1024/p:16x9/AP26063304147652.jpg"
+        },
+        {
+          "title": "Dubaï alerte : Éviter l'escalade au Moyen-Orient",
+          "summary": "Alors que les tensions sont vives, Dubaï insiste sur l'urgence de contenir le conflit et préserver la stabilité régionale.",
+          "url": "http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go",
+          "image": "https://images.euronews.com/articles/stories/09/67/84/56/1200x675_cmsv2_d4fb0586-a99a-5951-8478-c98c19472a94-9678456.jpg"
+        },
+        {
+          "title": "Moyen-Orient : Rapatriements de Français en cours",
+          "summary": "La crise persistante dans la région nécessite de nouvelles opérations pour sécuriser et ramener les citoyens français.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-encore-des-francais-a-rapatrier_7854404.html",
+          "image": "https://www.franceinfo.fr/pictures/0-79xg0KULC1jl-w-MkAyXyI0ss/0x29:971x576/432x243/filters:format(jpg)/2026/03/08/jnjnjnj-klk-69ade9e92e750058642062.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Rapatriés du Moyen-Orient : Frais à la charge des Français",
+          "summary": "Les citoyens français évacués de la zone de conflit se voient contraints de couvrir eux-mêmes leurs frais de retour.",
+          "url": "https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~08~b02ccf7a-4cff-47bb-9ab6-423c66f35192.jpg/1200x900/quality/80/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche.jpg"
+        },
+        {
+          "title": "150 km/h sur autoroute : Vers une vitesse accrue ?",
+          "summary": "La question d'une augmentation de la vitesse maximale sur les autoroutes françaises refait surface. Qu'en est-il ?",
+          "url": "https://www.journaldugeek.com/2026/03/09/autoroutes-a-150-km-h-en-france-pourrez-vous-bientot-rouler-plus-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/vitesse-1280x853.jpg"
+        },
+        {
+          "title": "Cross-country : La Dordogne sans titre national",
+          "summary": "Les championnats de France d'athlétisme se sont achevés sans couronne pour les athlètes de Dordogne.",
+          "url": "https://www.dordognelibre.fr/sport/athletisme/athletisme-finale-des-championnats-de-france-de-cross-country-pas-de-titre-pour-la-dordogne-28188704.php",
+          "image": "https://media.dordognelibre.fr/28188704/1200x600/79851b8e-d804-47f8-a89d-34864fad82ed.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Poco F8 Ultra : Performance et offre exceptionnelle",
+          "summary": "Un nouveau smartphone doté d'un puissant processeur et d'une batterie impressionnante, disponible avec une réduction.",
+          "url": "https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/",
+          "image": "https://l-echo.info/wp-content/uploads/2026/03/poco-f8-ultra.jpg"
+        },
+        {
+          "title": "Steam Machine 2026 : Doutes sur sa sortie",
+          "summary": "Valve exprime des incertitudes quant à la disponibilité de sa console Steam Machine pour l'année prochaine.",
+          "url": "https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-17-122637-1280x853.jpg"
+        },
+        {
+          "title": "Jeux vidéo : 4 pépites françaises à découvrir",
+          "summary": "Plein phare sur l'innovation française avec quatre titres prometteurs du jeu vidéo à suivre attentivement.",
+          "url": "https://www.journaldugeek.com/2026/03/09/voici-4-jeux-video-francais-a-surveiller-de-pres/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/pyla-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Défense",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Airbus, Rheinmetall, OHB : Union pour \"Starlink\" allemand",
+          "summary": "Une alliance inattendue se forme pour remporter le contrat du système satellitaire de défense allemand, le \"Starlink\" militaire.",
+          "url": "https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738",
+          "image": "https://media.lesechos.com/api/v1/images/view/69ad6364eb093a54860d6172/640x360/0180922390703-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualités Régionales",
+      "emoji": "🏘️",
+      "articles": [
+        {
+          "title": "Gironde : Supermarché incendié, piste criminelle",
+          "summary": "Un incendie dévastateur a détruit un supermarché en Gironde, les enquêteurs penchent vers l'origine criminelle.",
+          "url": "https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama MVP : Les fans en délire !",
+          "summary": "Après une performance étincelante, les supporters de San Antonio exigent le titre de meilleur joueur pour Victor Wembanyama.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html",
+          "image": "https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg"
+        },
+        {
+          "title": "Paralympiques : Or et émotion pour Cécile Hernandez",
+          "summary": "Cécile Hernandez remporte l'or en snowboard cross aux Jeux Paralympiques, partageant un moment émouvant avec sa fille.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html",
+          "image": "https://images.bfmtv.com/Rh27uf8obBQESEgvdn1LVQH5N4Q=/10x117:2042x1260/800x0/images/Cecile-Hernandez-a-decroche-la-medaille-d-or-en-snowboardcross-aux-Jeux-paralympiques-de-Milan-Cortina-2026-2248656.jpg"
+        },
+        {
+          "title": "Athlétisme : Karalis s'envole à 6,17m !",
+          "summary": "Le perchiste grec Emmanouil Karalis réalise un exploit historique, signant la deuxième meilleure performance mondiale de tous les temps.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-bon-a-6-17m-le-grec-emmanouil-karalis-entre-dans-l-histoire-et-devient-le-deuxieme-meilleur-performeur-mondial-de-l-histoire-du-saut-a-la-perche_AV-202602280338.html",
+          "image": "https://images.bfmtv.com/sIytBJL-kXWrIRrtkfEp4b0XtbA=/0x61:2048x1213/800x0/images/Emmanouil-Karalis-lors-du-All-Star-Perche-le-22-fevrier-2026-2243941.jpg"
+        }
+      ]
+    }
+  ]
+}
