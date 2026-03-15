@@ -1,0 +1,121 @@
+{
+  "ephemeride": "Sainte Louise",
+  "global_summary": "L'actualité mondiale est marquée par des développements géopolitiques significatifs, notamment la désignation de Mojtaba Khamenei comme nouveau Guide suprême de l'Iran, un événement aux implications régionales et internationales cruciales. En parallèle, les tensions persistantes au Moyen-Orient incitent Dubaï à presser pour une désescalade urgente afin d'éviter une extension du conflit. Dans ce contexte, la question de la prise en charge des citoyens français rapatriés de la région met en lumière des préoccupations humanitaires et logistiques. \n\nSur le plan national, la France débat de possibles augmentations de vitesse sur autoroute et fait face à des faits divers marquants, tel qu'un incendie criminel en Gironde. Heureusement, le sport apporte une touche d'inspiration, avec les performances exceptionnelles de Victor Wembanyama en NBA, les médailles obtenues aux Jeux Paralympiques, et de nouveaux records impressionnants en athlétisme, célébrant l'esprit de dépassement.",
+  "running_advice": "Alors, prête ou prêt à dompter cette journée, champion(ne) ? Aujourd'hui, on a une météo quasi parfaite pour chausser les baskets et aller chercher cette dose d'énergie ! Avec un ciel peu nuageux et des températures idéales oscillant entre 4.5°C et 12.9°C, les conditions sont optimales pour une sortie vivifiante. Pas une goutte de pluie à l'horizon, donc aucune excuse pour rester sur le canapé ! Je te conseille vivement de viser la fin de matinée ou le début d'après-midi, entre 10h00 et 15h00, pour profiter de la douceur maximale. Mais attention, l'indice UV est de 4.8, ce qui est suffisant pour que le soleil laisse sa marque. Alors, pense à la crème solaire et à une casquette légère, même sous un ciel voilé. Chaque foulée est une victoire, chaque souffle un pas vers tes objectifs ! Alors, on y va ? C'est le moment de briller !",
+  "weather_string": "🌤️ Peu nuageux (4.5°C / 12.9°C)",
+  "weather_stats": {
+    "temp": "12.9°C",
+    "rain": "0%",
+    "uv": "4.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Iran : Qui est le nouveau Guide suprême Mojtaba Khamenei ?",
+          "summary": "Le fils d'Ali Khamenei hérite d'un pouvoir immense et d'un pays en pleine crise géopolitique.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien",
+          "image": "https://s.france24.com/media/display/b47ecf18-17f3-11f1-980d-005056a90284/w:1024/p:16x9/AP26063304147652.jpg"
+        },
+        {
+          "title": "Dubaï alerte : stopper l'escalade militaire au Moyen-Orient",
+          "summary": "Les Émirats appellent à la désescalade pour éviter une expansion régionale du conflit actuel.",
+          "url": "http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go",
+          "image": "https://images.euronews.com/articles/stories/09/67/84/56/1200x675_cmsv2_d4fb0586-a99a-5951-8478-c98c19472a94-9678456.jpg"
+        },
+        {
+          "title": "Iran : Appel à protéger l'équipe féminine de football",
+          "summary": "Le fils du dernier Chah d'Iran sollicite l'Australie pour assurer la sécurité des joueuses iraniennes.",
+          "url": "https://rmcsport.bfmtv.com/societe/le-fils-du-dernier-chah-d-iran-appelle-l-australie-a-proteger-l-equipe-feminine-de-football-iranienne_AV-202603090240.html",
+          "image": "https://images.bfmtv.com/Nd2lJdxIcv_vxf5Fd1PuddtR_Bk=/2x1:1410x793/800x0/images/Les-joueuses-iraniennes-chantent-leur-hymne-national-le-5-mars-2026-2246829.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Rapatriés du Moyen-Orient : des Français ont payé leur retour",
+          "summary": "Absence de prise en charge : des citoyens français ont dû financer leur propre rapatriement du Moyen-Orient.",
+          "url": "https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~08~b02ccf7a-4cff-47bb-9ab6-423c66f35192.jpg/1200x900/quality/80/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche.jpg"
+        },
+        {
+          "title": "Gironde : un supermarché incendié, piste criminelle évoquée",
+          "summary": "Un incendie majeur a détruit un supermarché en Gironde, les enquêteurs penchent vers l'acte criminel.",
+          "url": "https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php",
+          "image": null
+        },
+        {
+          "title": "Bientôt 150 km/h sur autoroute en France ?",
+          "summary": "La question d'augmenter la vitesse maximale sur les autoroutes françaises est à nouveau débattue.",
+          "url": "https://www.journaldugeek.com/2026/03/09/autoroutes-a-150-km-h-en-france-pourrez-vous-bientot-rouler-plus-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/vitesse-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Poco F8 Ultra : La puissance à prix réduit",
+          "summary": "Un nouveau smartphone haut de gamme promet performances, audio Bose et batterie imposante avec offre spéciale.",
+          "url": "https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/",
+          "image": "https://l-echo.info/wp-content/uploads/2026/03/poco-f8-ultra.jpg"
+        },
+        {
+          "title": "Steam Machine : Valve doute de sa sortie en 2026",
+          "summary": "Le géant Valve exprime des incertitudes quant à la disponibilité de sa console Steam Machine cette année.",
+          "url": "https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-17-122637-1280x853.jpg"
+        },
+        {
+          "title": "4 jeux vidéo français à surveiller",
+          "summary": "Découvrez les créations hexagonales prometteuses qui feront vibrer les gamers dans les mois à venir.",
+          "url": "https://www.journaldugeek.com/2026/03/09/voici-4-jeux-video-francais-a-surveiller-de-pres/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/pyla-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Airbus s'allie pour le \"Starlink allemand\"",
+          "summary": "Airbus, Rheinmetall et OHB unissent leurs forces pour un projet de constellation satellitaire militaire allemande.",
+          "url": "https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738",
+          "image": "https://media.lesechos.com/api/v1/images/view/69ad6364eb093a54860d6172/640x360/0180922390703-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : Wembanyama, déjà un MVP pour les fans",
+          "summary": "Après une nouvelle démonstration, les supporters de San Antonio clament déjà Victor Wembanyama MVP.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html",
+          "image": "https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg"
+        },
+        {
+          "title": "Paralympiques : Cécile Hernandez en or avec émotion",
+          "summary": "Cécile Hernandez décroche l'or en snowboard cross aux Jeux Paralympiques, partageant des larmes de joie avec sa fille.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html",
+          "image": "https://images.bfmtv.com/Rh27uf8obBQESEgvdn1LVQH5N4Q=/10x117:2042x1260/800x0/images/Cecile-Hernandez-a-decroche-la-medaille-d-or-en-snowboardcross-aux-Jeux-paralympiques-de-Milan-Cortina-2026-2248656.jpg"
+        },
+        {
+          "title": "Athlétisme : Karalis bondit à 6,17m à la perche",
+          "summary": "Le Grec Emmanouil Karalis réalise un saut historique, devenant le deuxième meilleur performeur mondial.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-bon-a-6-17m-le-grec-emmanouil-karalis-entre-dans-l-histoire-et-devient-le-deuxieme-meilleur-performeur-mondial-de-l-histoire-du-saut-a-la-perche_AV-202602280338.html",
+          "image": "https://images.bfmtv.com/sIytBJL-kXWrIRrtkfEp4b0XtbA=/0x61:2048x1213/800x0/images/Emmanouil-Karalis-lors-du-All-Star-Perche-le-22-fevrier-2026-2243941.jpg"
+        }
+      ]
+    }
+  ]
+}
