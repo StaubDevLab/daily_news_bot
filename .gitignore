@@ -13,4 +13,5 @@ yarn-error.log*
 
 # Système
 .DS_Store
-Thumbs.db%   
+# Build
+dist/
