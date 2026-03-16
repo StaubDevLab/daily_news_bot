@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Bénédicte",
+  "global_summary": "L'actualité de ce jour est fortement marquée par les bouleversements géopolitiques au Moyen-Orient. La succession à la tête de l'Iran, avec Mojtaba Khamenei, est un événement majeur qui redessine les dynamiques régionales. Dans ce contexte tendu, les appels à la désescalade se multiplient, tandis que les répercussions du conflit continuent de toucher nos concitoyens, notamment via des opérations de rapatriement qui ne sont pas sans défis. \nSur le front national et sportif, la France est traversée par des débats sociétaux, comme celui sur les limitations de vitesse. Le monde de la technologie poursuit son effervescence avec de nouvelles annonces de smartphones et de jeux vidéo prometteurs. Mais c'est surtout le sport qui brille, avec les performances impressionnantes de Victor Wembanyama en NBA et les médailles émouvantes de nos athlètes aux Jeux Paralympiques, incarnant dépassement et émotion.",
+  "running_advice": "Absolument ! Quelle magnifique journée s'annonce pour enfiler vos baskets et booster votre énergie. Avec des températures allant de 6.1°C à 14.4°C et un ciel peu nuageux, les conditions sont quasi parfaites pour une session de course revigorante. Le risque de pluie est minime (13%), donc pas d'excuse pour ne pas profiter de l'air frais ! Le créneau idéal se situe entre 10h et 16h : la chaleur monte doucement sans être accablante et vous profiterez d'une belle luminosité. L'indice UV est de 3.8, alors même si le ciel est un peu voilé, n'oubliez pas d'appliquer une crème solaire et de penser à une casquette. C'est le moment de vous dépasser, de sentir chaque foulée et de faire le plein de vitalité. Allez, on y va ! Chaque pas vous rapproche de vos objectifs.",
+  "weather_string": "🌤️ Peu nuageux (6.1°C / 14.4°C)",
+  "weather_stats": {
+    "temp": "14.4°C",
+    "rain": "13%",
+    "uv": "3.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Iran: Qui est le nouveau guide suprême ?",
+          "summary": "Mojtaba Khamenei succède à son père, un événement clé pour l'avenir politique et religieux de l'Iran.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260308-qui-est-mojtaba-khamenei-le-nouveau-guide-supr%C3%AAme-iranien",
+          "image": "https://s.france24.com/media/display/b47ecf18-17f3-11f1-980d-005056a90284/w:1024/p:16x9/AP26063304147652.jpg"
+        },
+        {
+          "title": "Dubaï exhorte à la désescalade régionale",
+          "summary": "Face aux tensions croissantes, Dubaï souligne l'urgence d'éviter une propagation du conflit au Moyen-Orient.",
+          "url": "http://fr.euronews.com/2026/03/08/selon-dubai-la-priorite-est-dempecher-la-guerre-de-setendre-a-lensemble-de-la-region-du-go",
+          "image": "https://images.euronews.com/articles/stories/09/67/84/56/1200x675_cmsv2_d4fb0586-a99a-5951-8478-c98c19472a94-9678456.jpg"
+        },
+        {
+          "title": "Nouveaux rapatriements de Français du Moyen-Orient",
+          "summary": "La France continue d'organiser le retour de ses ressortissants face à l'escalade des tensions dans la région.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-encore-des-francais-a-rapatrier_7854404.html",
+          "image": "https://www.franceinfo.fr/pictures/0-79xg0KULC1jl-w-MkAyXyI0ss/0x29:971x576/432x243/filters:format(jpg)/2026/03/08/jnjnjnj-klk-69ade9e92e750058642062.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Rapatriés du Moyen-Orient, des Français déboursent",
+          "summary": "Des citoyens français ont dû financer eux-mêmes leur retour du Moyen-Orient, interpellant les autorités.",
+          "url": "https://www.capital.fr/economie-politique/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche-1524492",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~08~b02ccf7a-4cff-47bb-9ab6-423c66f35192.jpg/1200x900/quality/80/aucune-prise-en-charge-les-francais-rapatries-du-moyen-orient-ont-du-payer-de-leur-poche.jpg"
+        },
+        {
+          "title": "Vers des autoroutes françaises à 150 km/h ?",
+          "summary": "La possibilité d'augmenter la vitesse sur autoroute en France relance le débat public et politique.",
+          "url": "https://www.journaldugeek.com/2026/03/09/autoroutes-a-150-km-h-en-france-pourrez-vous-bientot-rouler-plus-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/vitesse-1280x853.jpg"
+        },
+        {
+          "title": "Cross-country: la Dordogne sans titre national",
+          "summary": "Les finales des championnats de France de cross-country n'ont pas couronné de compétiteur de Dordogne.",
+          "url": "https://www.dordognelibre.fr/sport/athletisme/athletisme-finale-des-championnats-de-france-de-cross-country-pas-de-titre-pour-la-dordogne-28188704.php",
+          "image": "https://media.dordognelibre.fr/28188704/1200x600/79851b8e-d804-47f8-a89d-34864fad82ed.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Poco F8 Ultra: puissance et autonomie record",
+          "summary": "Le nouveau smartphone Poco F8 Ultra promet des performances de pointe et une batterie impressionnante, à prix réduit.",
+          "url": "https://l-echo.info/poco-f8-ultra-snapdragon-8-elite-gen-5-audio-bose-batterie-6500-mah-et-une-offre-exceptionnelle-a-31/",
+          "image": "https://l-echo.info/wp-content/uploads/2026/03/poco-f8-ultra.jpg"
+        },
+        {
+          "title": "L'avenir incertain des Steam Machines",
+          "summary": "Valve émet des doutes quant à la sortie de sa console Steam Machine en 2026, refroidissant les attentes.",
+          "url": "https://www.journaldugeek.com/2026/03/09/steam-machine-valve-lui-meme-ne-semble-pas-confiant-sur-la-sortie-de-la-console-en-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-17-122637-1280x853.jpg"
+        },
+        {
+          "title": "4 jeux vidéo français à ne pas manquer",
+          "summary": "Découvrez une sélection prometteuse de jeux vidéo développés en France, à suivre de très près.",
+          "url": "https://www.journaldugeek.com/2026/03/09/voici-4-jeux-video-francais-a-surveiller-de-pres/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/pyla-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Airbus, Rheinmetall, OHB : alliance spatiale",
+          "summary": "Une coalition inattendue se forme pour décrocher le contrat du \"Starlink militaire\" allemand.",
+          "url": "https://www.lesechos.fr/industrie-services/air-defense/union-surprise-dairbus-rheinmetall-et-ohb-pour-rafler-le-starlink-de-larmee-allemande-2219738",
+          "image": "https://media.lesechos.com/api/v1/images/view/69ad6364eb093a54860d6172/640x360/0180922390703-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Supermarché incendié en Gironde : piste criminelle",
+          "summary": "Un supermarché girondin a été ravagé par les flammes, l'enquête s'oriente vers une origine criminelle.",
+          "url": "https://www.sudouest.fr/gironde/hourtin/video-un-supermarche-detruit-par-le-feu-en-gironde-la-piste-criminelle-se-confirme-28198919.php",
+          "image": "https://www.sudouest.fr/img/no-image.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama, phénomène MVP en NBA",
+          "summary": "Les fans des Spurs plébiscitent Wembanyama pour le titre de MVP après une performance exceptionnelle.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-mvp-mvp-les-fans-de-san-antonio-reclament-le-titre-de-meilleur-pour-wembanyama-apres-sa-nouvelle-demonstration_AV-202603090054.html",
+          "image": "https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg"
+        },
+        {
+          "title": "Or et émotion pour Cécile Hernandez",
+          "summary": "Cécile Hernandez remporte l'or en snowboardcross aux Jeux Paralympiques, partageant un moment émouvant avec sa fille.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-pour-cecile-hernandez-de-l-or-et-des-larmes-avec-sa-fille_AV-202603080297.html",
+          "image": "https://images.bfmtv.com/Rh27uf8obBQESEgvdn1LVQH5N4Q=/10x117:2042x1260/800x0/images/Cecile-Hernandez-a-decroche-la-medaille-d-or-en-snowboardcross-aux-Jeux-paralympiques-de-Milan-Cortina-2026-2248656.jpg"
+        },
+        {
+          "title": "Rugby: Oscar Jegou risque une lourde suspension",
+          "summary": "Le joueur français Oscar Jegou est sous le coup d'une procédure disciplinaire pour un geste controversé lors du match Ecosse-France.",
+          "url": "https://rmcsport.bfmtv.com/rugby/tournoi-des-6-nations/ecosse-france-de-12-a-208-semaines-de-suspension-ce-que-risque-oscar-jegou-cite-pour-une-fourchette_AV-202603090298.html",
+          "image": "https://images.bfmtv.com/VTyuCvTFTDCYoeFi96m8u7IvlmE=/0x38:2048x1190/800x0/images/Oscar-Jegou-lors-du-match-Ecosse-France-50-40-Tournoi-des-6-Nations-le-7-mars-2026-2248935.jpg"
+        }
+      ]
+    }
+  ]
+}
