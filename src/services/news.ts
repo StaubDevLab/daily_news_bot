@@ -28,18 +28,22 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
 
   try {
     if (fs.existsSync(cachePath)) {
-      const stats = fs.statSync(cachePath);
-      const isCacheValid = (new Date().getTime() - stats.mtime.getTime()) < CACHE_TTL;
+      const cacheData = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+      
+      // On utilise un timestamp interne car en CI (GitHub Actions), 
+      // la date de modification du fichier est réinitialisée au moment du checkout.
+      const lastUpdated = cacheData.timestamp || 0;
+      const isCacheValid = (Date.now() - lastUpdated) < CACHE_TTL;
 
-      if (isCacheValid) {
+      if (isCacheValid && cacheData.news) {
         console.log("⚡ [CACHE] Utilisation des actualités en cache (économise le quota d'API !)");
-        return JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+        return cacheData.news;
       } else {
-        console.log("♻️ [CACHE] Le cache a expiré (> 3 heures). Récupération des nouveautés...");
+        console.log("♻️ [CACHE] Le cache a expiré ou est invalide. Récupération des nouveautés...");
       }
     }
   } catch (error) {
-    console.warn("⚠️ Impossible de lire le cache, récupération forcée...");
+    console.warn("⚠️ Impossible de lire ou analyser le cache, récupération forcée...");
   }
 
   const baseURL = 'https://newsdata.io/api/1/latest';
@@ -139,7 +143,11 @@ export async function fetchDailyNews(apiKey: string): Promise<DailyNews> {
   };
 
   try {
-    fs.writeFileSync(cachePath, JSON.stringify(dailyNews), 'utf8');
+    const cacheData = {
+      timestamp: Date.now(),
+      news: dailyNews
+    };
+    fs.writeFileSync(cachePath, JSON.stringify(cacheData), 'utf8');
   } catch (err) {
     console.error("⚠️ Impossible d'écrire le cache :", err);
   }
