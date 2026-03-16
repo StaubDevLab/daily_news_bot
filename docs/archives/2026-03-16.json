@@ -1,7 +1,7 @@
 {
   "ephemeride": "Sainte Bénédicte",
-  "global_summary": "Chers lecteurs, même si l'actualité mondiale se présente aujourd'hui avec une apparente quiétude, la veille informative demeure primordiale. Chaque jour apporte son lot de développements, grands ou petits, qui façonnent notre compréhension du monde. Notre rôle est de décrypter ces signaux pour vous.\nDans cette édition, nous mettrons l'accent sur l'importance de rester connecté aux dynamiques globales. Ces informations sont essentielles pour anticiper les tendances et prendre des décisions éclairées, tant dans votre vie personnelle que professionnelle. Restez engagés et curieux.",
-  "running_advice": "Quelle belle journée s'annonce pour booster votre énergie ! Avec des températures douces allant de 6.1°C à 14.4°C et un ciel peu nuageux, les conditions sont idéales pour une session de running revigorante. La probabilité de pluie est minime (13%), donc pas d'excuses pour ne pas chausser vos baskets !\nPour profiter au maximum de cette fenêtre météo parfaite, visez une sortie en fin de matinée ou début d'après-midi, entre 10h00 et 16h00. Vous bénéficierez ainsi des températures les plus clémentes et d'une belle luminosité. Attention cependant, l'indice UV de 3.8 est à surveiller : n'oubliez pas votre crème solaire et une casquette pour vous protéger efficacement du soleil. C'est le moment de vous dépasser !",
+  "global_summary": "L'actualité de ce jour est largement dominée par les élections municipales de 2026 en France, avec des résultats serrés dans de grandes villes comme Paris et Marseille, et une montée en puissance du Rassemblement National et de la France Insoumise. Cette dynamique politique est observée de près à l'étranger et s'accompagne d'une abstention record, un signal fort pour notre démocratie. La scène internationale retient son souffle avec la réouverture partielle du point de passage de Rafah et l'accueil en Australie de footballeuses iraniennes. En France, les affaires judiciaires de Nicolas Sarkozy et le procès Justine Vayrac captent l'attention. Côté technologie, les prix des composants s'envolent tandis que de nouvelles fonctionnalités Samsung se dévoilent. Enfin, le monde du sport vibre au rythme des exploits de Wembanyama, du record d'Armand Duplantis et du passage de flambeau des Jeux Paralympiques à la France.",
+  "running_advice": "Prêt à booster votre énergie ? Aujourd'hui, c'est une excellente journée pour chausser vos baskets ! Avec des températures agréables oscillant entre 6.1°C et 14.4°C et un ciel peu nuageux, les conditions sont idéales. La probabilité de pluie est minime (seulement 13%), vous pouvez donc courir l'esprit léger. L'heure parfaite pour profiter de la douceur et de la lumière serait entre 10h et 16h. Et comme l'indice UV atteint 3.8, n'oubliez pas une petite protection solaire et une casquette pour une séance en toute sérénité. Allez, on fonce !",
   "weather_string": "🌤️ Peu nuageux (6.1°C / 14.4°C)",
   "weather_stats": {
     "temp": "14.4°C",
@@ -14,10 +14,124 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Focus sur l'actualité internationale",
-          "summary": "Un article clé met en lumière les dynamiques mondiales, offrant une perspective essentielle sur les enjeux actuels.",
-          "url": "http://test.com",
-          "image": null
+          "title": "Gaza : Rafah partiellement rouvert",
+          "summary": "Israël annonce la réouverture partielle du point de passage de Rafah, offrant une lueur d'espoir pour l'aide humanitaire.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/palestine/gaza-israel-annonce-une-reouverture-partielle-du-point-de-passage-de-rafah-a-partir-de-mercredi_AD-202603150419.html",
+          "image": "https://images.bfmtv.com/N1GGqU5OPj1YqKLwXwfOj6ZFoaU=/13x222:2045x1365/800x0/images/Des-ambulances-sont-stationnees-devant-le-point-de-passage-de-Rafah-cote-egyptien-pour-entrer-dans-la-bande-de-Gaza-le-2-fevrier-2026-2227757.jpg"
+        },
+        {
+          "title": "Municipales 2026 : RN et LFI en force",
+          "summary": "Les municipales de 2026 voient le RN et LFI progresser, avec Emmanuel Grégoire en tête à Paris, reflétant des dynamiques politiques fortes.",
+          "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-municipales-2026-emmanuel-gregoire-en-tete-a-paris-le-rn-et-lfi-en-force-dans-de-nombreuses-villes_241785_1",
+          "image": "https://focus.courrierinternational.com/2026/03/15/0/0/7489/4994/644/0/60/0/b1980b2_ftp-1-eisc9mvmhqi7-afp-a3cu2mk.jpg"
+        },
+        {
+          "title": "Asile pour footballeuses iraniennes : Trump réagit",
+          "summary": "Cinq joueuses iraniennes obtiennent l'asile en Australie, déclenchant une réaction de Donald Trump, prêt à les accueillir aux États-Unis.",
+          "url": "https://rmcsport.bfmtv.com/societe/guerre-en-iran-cinq-joueuses-iraniennes-ont-obtenu-l-asile-en-australie-trump-hausse-le-ton-et-se-dit-pret-a-les-accueillir_AN-202603090656.html",
+          "image": "https://images.bfmtv.com/SoUdtCxIbpOX370YOEvOJySxoqg=/2x1:1410x793/800x0/images/Les-joueuses-iraniennes-le-5-mars-2026-2246830.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Sarkozy : nouvel appel dans l'affaire libyenne",
+          "summary": "Après son incarcération, Nicolas Sarkozy tente un ultime recours en appel dans l'affaire du financement libyen de sa campagne.",
+          "url": "https://www.sudouest.fr/justice/affaire-libyenne-apres-le-seisme-de-son-incarceration-nicolas-sarkozy-joue-son-va-tout-en-appel-28230105.php",
+          "image": ""
+        },
+        {
+          "title": "Procès Justine Vayrac : homme jugé",
+          "summary": "Le procès du suspect du viol et meurtre de Justine Vayrac, disparue après une soirée en 2022, s'ouvre.",
+          "url": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/justine-vayrac-un-homme-juge-pour-le-viol-et-le-meurtre-de-la-jeune-femme-apres-une-soiree-en-discotheque-en-2022-28307400.php",
+          "image": ""
+        },
+        {
+          "title": "Municipales Marseille : Payan et Allisio au coude à coude",
+          "summary": "À Marseille, le premier tour des municipales voit le maire sortant Benoît Payan lutter serré face au candidat RN Franck Allisio.",
+          "url": "https://www.leprogres.fr/elections/2026/03/15/resultats-du-premier-tour-a-marseille-le-maire-sortant-benoit-payan-et-le-rn-franck-allisio-au-coude-a-coude",
+          "image": "https://cdn-s-www.leprogres.fr/images/5925abc1-de47-4525-9cfe-7e7d202dc965/NW_listA/benoit-payan-maire-socialiste-de-marseille-depuis-2020-photo-sipa-alain-robert-1772206938.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Samsung One UI 9 : premières infos",
+          "summary": "Découvrez les premières informations sur One UI 9, avec trois nouveautés majeures attendues pour votre Samsung Galaxy.",
+          "url": "https://www.lesnumeriques.com/telephone-portable/one-ui-9-partage-ses-premieres-informations-3-nouveautes-qui-attendent-votre-samsung-galaxy-n253048.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/253048/72e9e25a-one-ui-9-partage-ses-premieres-informations-3-nouveautes-qui-attendent-votre-samsung-galaxy__800_800__545-0-2548-2003_wtmk.jpg"
+        },
+        {
+          "title": "Prix Tech : RAM et SSD flambent",
+          "summary": "Les prix des composants électroniques comme la RAM et les SSD sont en hausse, prévoyant une augmentation future des coûts.",
+          "url": "https://www.journaldugeek.com/2026/03/16/ram-ssd-pourquoi-les-prix-de-lelectronique-pourraient-grimper-encore-plus-fort/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/windows-11-pilote-nvme-nvmedisk-performances-ssd-1280x720.jpg"
+        },
+        {
+          "title": "Économisez du temps avec ce Cookeo",
+          "summary": "Découvrez comment ce multicuiseur Cookeo Moulinex en promotion peut vous faire gagner deux heures en cuisine chaque jour.",
+          "url": "https://www.bfmtv.com/tech/bons-plans/comment-economiser-2h-en-cuisine-avec-ce-multicuiseur-cookeo-moulinex-a-prix-casse_AB-202603150012.html",
+          "image": "https://images.bfmtv.com/f7pKa--ISpRTdZJhbazCqUMIfqk=/0x0:1600x900/800x0/images/Comment-economiser-2h-en-cuisine-avec-ce-multicuiseur-Cookeo-Moulinex-a-prix-casse-2251415.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Municipales 2026 : Abstention record",
+          "summary": "Les élections municipales de 2026 enregistrent un taux d'abstention historique, le plus élevé hors période de crise sanitaire.",
+          "url": "https://www.lemonde.fr/politique/article/2026/03/15/elections-municipales-2026-l-abstention-n-a-jamais-ete-aussi-forte-hors-crise-sanitaire_6671326_823448.html",
+          "image": "https://img.lemde.fr/2026/03/15/960/0/7680/3840/644/322/60/0/4975b6b_upload-1-k9c06jxns6qo-lewisjoly-lemonde-15-03-2026-071.JPG"
+        }
+      ]
+    },
+    {
+      "label": "Culture",
+      "emoji": "🎨",
+      "articles": [
+        {
+          "title": "Banksy démasqué : enquête révèle identité",
+          "summary": "Une enquête exclusive prétend avoir révélé l'identité tant convoitée de Banksy, le mystérieux street artist mondialement connu.",
+          "url": "https://www.journaldugeek.com/2026/03/16/banksy-demasque-une-enquete-devoile-lidentite-du-street-artist-le-plus-celebre-au-monde/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/banksy-1280x853.jpg"
+        },
+        {
+          "title": "Oscars 2026 : les temps forts",
+          "summary": "Retrouvez l'essentiel des Oscars 2026, entre surprises, hommages et moments marquants, incluant des références à KPop et Avengers.",
+          "url": "https://www.journaldugeek.com/2026/03/16/oscars-2026-kpop-demon-hunters-une-bataille-apres-lautre-et-un-clin-doeil-a-avengers-doomsday-tout-ce-quil-fallait-retenir/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/oscars-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama vise le titre de MVP",
+          "summary": "Nouvelle performance éclatante de Wembanyama avec les Spurs, qui affiche clairement son ambition de devenir MVP.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-nouvelle-demonstration-pour-wembanyama-avec-les-spurs-qui-declare-vouloir-gagner-le-titre-de-mvp_AV-202603150112.html",
+          "image": "https://images.bfmtv.com/5sPfR9poysrJ0pVV-DYvHvvRNi4=/0x139:2048x1291/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Detroit-145-120-le-8-mars-2026-2248763.jpg"
+        },
+        {
+          "title": "Duplantis : 15e record du monde",
+          "summary": "Armand Duplantis continue d'écrire l'histoire en franchissant 6,31 m, signant son 15e record du monde au saut à la perche.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-armand-duplantis-franchit-6-31m-son-15e-record-du-monde_AN-202603120888.html",
+          "image": "https://images.bfmtv.com/Um51jTsUYWmPuSB7pK-1Fskg4BA=/0x235:2048x1387/800x0/images/Armand-Duplantis-franchit-6-31m-son-15e-record-du-monde-le-12-03-2026-2251637.jpg"
+        },
+        {
+          "title": "Paralympiques : Relais à la France 2030",
+          "summary": "Milan-Cortina a officiellement passé le flambeau des Jeux Paralympiques d'hiver à la France, hôte de l'édition 2030.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-paralympiques-2026-milan-cortina-a-passe-le-relais-a-la-france-pour-2030_AV-202603150518.html",
+          "image": "https://images.bfmtv.com/tfJq28vq49REm6eA7xwUECaJM6U=/0x0:2048x1152/800x0/images/La-ceremonie-d-ouverture-des-Jeux-paralympiques-de-Milan-Cortina-le-6-mars-2026-2247977.jpg"
         }
       ]
     }
