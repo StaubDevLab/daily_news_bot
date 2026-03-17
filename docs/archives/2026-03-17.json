@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Patrice",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux sportifs, judiciaires et politiques intenses. Sur la scène internationale, un procès concernant des supporters de la CAN 2025 se poursuit, tandis qu'une sanction sévère pour dopage frappe le monde du tennis, et les événements au Moyen-Orient continuent de capter l'attention mondiale. \nEn France, les élections municipales génèrent un vif intérêt avec des alliances stratégiques qui se dessinent. Parallèlement, le secteur technologique est secoué par un scandale de fuite de données, rappelant l'importance de la cybersécurité. Enfin, le monde du sport célèbre un nouveau record mondial en athlétisme et d'importantes évolutions pour les ligues et compétitions internationales.",
+  "running_advice": "Aujourd'hui, c'est une journée en or pour chausser vos baskets ! Avec un ciel peu nuageux, des températures qui montent jusqu'à 19.2°C et aucune pluie à l'horizon, les conditions sont parfaites. Pour profiter au maximum de la fraîcheur matinale sans les UV les plus intenses, je vous conseille une sortie entre 7h11 et 10h. Si vous préférez l'après-midi, visez l'approche du coucher du soleil vers 18h-19h. Quel que soit votre choix, l'indice UV de 5.05 impose une crème solaire et une casquette pour vous protéger. Allez, on se motive, l'énergie est au rendez-vous pour battre votre record personnel !",
+  "weather_string": "🌤️ Peu nuageux (6.4°C / 19.2°C)",
+  "weather_stats": {
+    "temp": "19.2°C",
+    "rain": "0%",
+    "uv": "5.05"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Procès CAN 2025 : Supporters Sénégalais au Maroc",
+          "summary": "Le procès en appel de 18 supporters sénégalais s'est ouvert et a été reporté au Maroc.",
+          "url": "https://www.france24.com/fr/sports/20260316-can-2025-ouverture-et-report-du-proces-en-appel-de-18-supporters-senegalais-au-maroc",
+          "image": "https://s.france24.com/media/display/e8557ea0-2166-11f1-a472-005056bfb2b6/w:1024/p:16x9/2026-02-28T154534Z-76671616-RC2XUJAMIENU-RTRMADP-3-SENEGAL-MOROCCO-PROTEST.jpg"
+        },
+        {
+          "title": "Dopage Tennis : Lourdement Sanctionné pour Refus de Coopération",
+          "summary": "Un ex-tennisman est suspendu 4 ans pour dopage, après avoir refusé de coopérer et prétexté la maladie.",
+          "url": "https://www.ladepeche.fr/2026/03/16/dopage-il-a-refuse-de-cooperer-et-se-disait-malade-un-ancien-joueur-de-tennis-lourdement-sanctionne-et-suspendu-4-ans-13276094.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/69b84a66c5c774782f076b90/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Moyen-Orient : Récapitulatif Quotidien de la Situation",
+          "summary": "Découvrez les points clés et événements marquants de la journée du 16 mars au Moyen-Orient.",
+          "url": "https://www.courrierinternational.com/article/recapitulatif-guerre-au-moyen-orient-ce-qu-il-faut-retenir-de-la-journee-du-lundi-16-mars_241841",
+          "image": "https://focus.courrierinternational.com/2026/03/16/0/0/4000/2666/644/0/60/0/a3802ae_ftp-1-qejrmu37v7ro-afp-a3ex2bg.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Municipales Brest : La Droite Soutient Stéphane Roudaut",
+          "summary": "Les maires de droite de Brest unissent leurs forces pour soutenir Stéphane Roudaut en vue des élections.",
+          "url": "https://www.letelegramme.fr/elections/municipales/les-maires-de-droite-de-la-metropole-brestoise-apportent-tout-leur-soutien-a-stephane-roudaut-7006140.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/69b851ae3d3d508ade0e4a4e/web_golden_xl/69b851ae3d3d508ade0e4a4e.1"
+        },
+        {
+          "title": "Besançon 2026 : L'Union de la Gauche Contre Fagaut",
+          "summary": "À Besançon, les forces de gauche s'allient pour le second tour des élections municipales.",
+          "url": "https://www.estrepublicain.fr/elections/2026/03/16/a-besancon-la-gauche-s-unit-pour-battre-ludovic-fagaut",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/C2A44534-F1F8-4580-898C-F57842DF84AF/FB1200/photo-1773688247.jpg"
+        },
+        {
+          "title": "Grenoble : Accord Technique pour le Second Tour Municipal",
+          "summary": "Brunon et Ruffin confirment un accord à Grenoble en vue du second tour des municipales.",
+          "url": "https://www.francebleu.fr/auvergne-rhone-alpes/isere-38/grenoble/municipales-a-grenoble-allan-brunon-et-laurence-ruffin-confirment-un-accord-technique-en-vue-du-second-tour-4509341",
+          "image": "https://www.francebleu.fr/pikapi/images/b24b6afb-cf44-41d3-bef8-cace85431359/1200x680?webp=false"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Scandale Quittr : Fuite Massive de Données Utilisateurs",
+          "summary": "L'application anti-porno Quittr a exposé les secrets de centaines de milliers d'utilisateurs.",
+          "url": "https://www.generation-nt.com/actualites/quittr-application-fuite-donnees-cybersecurite-manosphere-2072553",
+          "image": "https://img.generation-nt.com/smartphone_0298000001721521.jpg"
+        },
+        {
+          "title": "AirPods Max 2 : Les 5 Différences Clés Dévoilées",
+          "summary": "Découvrez les cinq différences majeures entre les nouveaux AirPods Max 2 et l'ancienne génération.",
+          "url": "https://www.lesnumeriques.com/casque-bluetooth/airpods-max-2-vs-airpods-max-les-5-veritables-differences-n253102.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/253102/1f6ab78b-airpods-max-2-vs-airpods-max-les-5-veritables-differences__800_800__501-0-2213-1712_wtmk.jpg"
+        },
+        {
+          "title": "Influence Marketing : De la Visibilité à la Crédibilité",
+          "summary": "L'influence marketing évolue, passant de la simple visibilité à un rôle de crédibilité accrue.",
+          "url": "https://www.cbnews.fr/tribune/visibilite-credibilite-nouveau-role-influence-marketing",
+          "image": "https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2026-03/suite1.png?itok=eP-Podu1"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Science",
+      "emoji": "🍿",
+      "articles": [
+        {
+          "title": "Oscars 2026 : Où Voir les Films Primés ?",
+          "summary": "Retrouvez la liste des plateformes et cinémas pour découvrir les films récompensés aux Oscars.",
+          "url": "https://www.journaldugeek.com/2026/03/16/oscars-2026-ou-voir-les-films-recompenses-lors-de-la-ceremonie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/oscars-ou-voir-les-films-recompenses-1280x853.jpg"
+        },
+        {
+          "title": "Saga Jurassic : Classement du Pire au Meilleur Film",
+          "summary": "Découvrez notre classement exhaustif des films Jurassic Park et Jurassic World, du moins bon au chef-d'œuvre.",
+          "url": "https://www.journaldugeek.com/2026/03/16/jurassic-park-et-jurassic-world-on-a-classe-la-saga-du-pire-au-meilleur/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/07/jurassic-classement-films-1280x853.jpg"
+        },
+        {
+          "title": "Lune : Un Mystère de 50 Ans du Magnétisme Résolu",
+          "summary": "Des scientifiques pensent avoir enfin percé le secret du magnétisme lunaire, vieux de cinquante ans.",
+          "url": "https://www.journaldugeek.com/2026/03/16/mystere-vieux-50-ans-magnetisme-lune-enfin-resolu/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Surface-lunaire-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Duplantis : 15e Record du Monde à 6,31m",
+          "summary": "Armand Duplantis continue d'écrire l'histoire avec un incroyable 15e record du monde à 6,31 mètres.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-armand-duplantis-franchit-6-31m-son-15e-record-du-monde_AN-202603120888.html",
+          "image": "https://images.bfmtv.com/Um51jTsUYWmPuSB7pK-1Fskg4BA=/0x235:2048x1387/800x0/images/Armand-Duplantis-franchit-6-31m-son-15e-record-du-monde-le-12-03-2026-2251637.jpg"
+        },
+        {
+          "title": "6 Nations : Bilan Complet des Joueurs du XV de France",
+          "summary": "Découvrez l'analyse détaillée des performances du XV de France après un Tournoi des 6 Nations intense.",
+          "url": "https://rmcsport.bfmtv.com/rugby/tournoi-des-6-nations/6-nations-2026-qui-a-marque-des-points-qui-en-a-perdu-le-gros-bilan-des-joueurs-du-xv-de-france-a-l-issue-du-tournoi_AV-202603160877.html",
+          "image": "https://images.bfmtv.com/N59HCiGRlAQq24SdXrvcDwxyFQw=/0x106:2048x1258/800x0/images/Les-joueurs-du-XV-de-France-apres-la-victoire-lors-du-Tournoi-des-6-nations-le-14-mars-2026-2253710.jpg"
+        },
+        {
+          "title": "Asile pour Joueuses Iraniennes : Trump Prêt à Accueillir",
+          "summary": "Cinq footballeuses iraniennes obtiennent l'asile en Australie; Trump se dit prêt à les recevoir aux USA.",
+          "url": "https://rmcsport.bfmtv.com/societe/guerre-en-iran-cinq-joueuses-iraniennes-ont-obtenu-l-asile-en-australie-trump-hausse-le-ton-et-se-dit-pret-a-les-accueillir_AN-202603090656.html",
+          "image": "https://images.bfmtv.com/SoUdtCxIbpOX370YOEvOJySxoqg=/2x1:1410x793/800x0/images/Les-joueuses-iraniennes-le-5-mars-2026-2246830.jpg"
+        }
+      ]
+    }
+  ]
+}
