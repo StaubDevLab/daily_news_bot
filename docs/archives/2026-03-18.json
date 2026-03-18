@@ -1,0 +1,172 @@
+{
+  "ephemeride": "Saint Cyrille",
+  "global_summary": "L'actualité mondiale est dominée par des tensions persistantes au Moyen-Orient, soulevant de graves préoccupations environnementales et humanitaires, tandis que l'affaire Epstein refait surface sur la scène politique américaine. En France, un scandale d'escroquerie à MaPrimeRénov' met en lumière la vigilance nécessaire face aux détournements de fonds publics, et le Piton de la Fournaise offre un spectacle naturel majestueux, contrastant avec les défis politiques locaux et les avancées technologiques.\n\nSur le front économique et technologique, un nouvel ETF crypto bouscule le marché, et de fascinantes découvertes spatiales nous rappellent l'immensité de l'univers. Le monde du sport est en ébullition avec les exploits d'Armand Duplantis battant son 15e record du monde et l'ambition démesurée de Victor Wembanyama, sans oublier la solidarité envers les joueuses iraniennes cherchant asile, prouvant que le sport est aussi une tribune pour les valeurs humaines.",
+  "running_advice": "Prépare tes baskets, champion(ne) ! Aujourd'hui est une journée absolument splendide et idéale pour ta session running. Avec un ciel dégagé et des températures allant de 10.2°C à 22.3°C, tu as toutes les conditions pour un entraînement optimal et revigorant. Je te conseille vivement de t'élancer en fin de matinée, vers 10h-11h, ou en fin d'après-midi, entre 17h et 18h, pour profiter pleinement de la douceur de l'air et d'une lumière parfaite. Attention cependant, l'indice UV est de 5.1 : n'oublie pas d'appliquer une protection solaire généreuse et de porter une casquette. Hydrate-toi bien et va chercher tes objectifs ! Fais de chaque foulée une victoire !",
+  "weather_string": "☀️ Ciel dégagé (10.2°C / 22.3°C)",
+  "weather_stats": {
+    "temp": "22.3°C",
+    "rain": "0%",
+    "uv": "5.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Paris : Vaste escroquerie à MaPrimeRénov’",
+          "summary": "Des prévenus ont flairé l'aubaine d'un système à détourner, orchestrant une fraude à MaPrimeRénov'.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/03/17/escroquerie-a-maprimerenov-les-prevenus-avaient-un-role-bien-defini-et-ont-flaire-l-aubaine",
+          "image": "https://cdn-s-www.lalsace.fr/images/6BF48421-4500-400E-90C8-E0ECE19A7C37/MF_contenu/escroquerie-a-maprimerenov-les-prevenus-avaient-un-role-bien-defini-et-ont-flaire-l-aubaine-1773772635.jpg"
+        },
+        {
+          "title": "Guerre en Iran : Alerte sur les dégâts environnementaux",
+          "summary": "Le potentiel de destruction écologique dans le golfe Persique est jugé très élevé en cas de conflit.",
+          "url": "https://www.lemonde.fr/planete/article/2026/03/17/guerre-en-iran-le-potentiel-de-degats-environnementaux-dans-le-golfe-persique-est-tres-eleve_6671786_3244.html",
+          "image": "https://img.lemde.fr/2026/03/08/456/0/5472/2736/644/322/60/0/c3ea51a_ftp-1-fpwkck3jw65j-2026-03-08t091752z-148067549-rc240kasghd1-rtrmadp-3-iran-crisis.JPG"
+        },
+        {
+          "title": "Affaire Epstein : La Ministre américaine de la Justice convoquée",
+          "summary": "L'ancien avocat de Trump, ministre de la Justice américaine, est convoquée par le Congrès.",
+          "url": "https://www.sudouest.fr/faits-divers/affaire-epstein/affaire-epstein-la-ministre-de-la-justice-americaine-ancien-avocat-de-trump-convoquee-par-le-congres-28332083.php"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "La Réunion : Spectacle grandiose au Piton de la Fournaise",
+          "summary": "La lave du volcan se jette dans l'océan, offrant des images incroyables et un phénomène fascinant.",
+          "url": "https://www.centrepresseaveyron.fr/2026/03/17/video-limage-du-jour-quand-les-coulees-de-lave-du-piton-de-la-fournaise-se-jettent-dans-locean-a-la-reunion-13277440.php",
+          "image": "https://images.centrepresseaveyron.fr/api/v1/images/view/69b96d0c25327d55cc02a8ae/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Sainte-Suzanne : Les élus prêts à collaborer",
+          "summary": "Après l'élection du nouveau maire, les élus de Sainte-Suzanne expriment leur volonté de travailler ensemble.",
+          "url": "https://www.larepubliquedespyrenees.fr/pyrenees-atlantiques/orthez/sainte-suzanne-les-elus-veulent-travailler-avec-le-nouveau-maire-28329108.php",
+          "image": "https://media.larepubliquedespyrenees.fr/28329108/1200x600/20260317-182834.jpg"
+        },
+        {
+          "title": "Oubliez Bitcoin, un ETF crypto déferle",
+          "summary": "Un nouvel ETF cryptomonnaie surpasse discrètement le marché, attirant tous les regards des investisseurs.",
+          "url": "https://fr.benzinga.com/crypto/oubliez-bitcoin-cet-etf-crypto-ecrase-discrement-le-marche/",
+          "image": "https://cdn.benzinga.com/files/images/story/2026/03/17/Circle-Internet-Group--Inc-.jpeg?width=2048&height=1536"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Le Soleil a fui le centre de la galaxie",
+          "summary": "Une étude révèle que notre Soleil s'est déplacé, emportant des milliers de jumeaux stellaires.",
+          "url": "https://www.generation-nt.com/actualites/soleil-migration-voie-lactee-gaia-vie-terre-2072627",
+          "image": "https://img.generation-nt.com/soleil_01705971.jpg"
+        },
+        {
+          "title": "Insolite : Une Renault 5 vendue 47.000 euros",
+          "summary": "Un collectionneur a déboursé une somme incroyable pour s'offrir une Renault 5 ancienne.",
+          "url": "https://www.autoplus.fr/actualite/insolite/il-debourse-47-000-euros-pour-une-vieille-renault-5-1431302.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/03/captura-de-pantalla-2026-03-17-a-las-18.11.43.png"
+        },
+        {
+          "title": "Rappel Skoda : Airbags Takata défectueux",
+          "summary": "Sept modèles Skoda sont rappelés en raison de problèmes avec leurs airbags Takata. Vérifiez si le vôtre est concerné !",
+          "url": "https://www.capital.fr/auto/skoda-rappelle-sept-modeles-de-voitures-les-airbags-takata-en-cause-decouvrez-les-modeles-concernes-1524769",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~17~657f97d6-978a-4870-98cc-17e9e92b40a8.jpeg/1200x900/quality/80/skoda-rappelle-sept-modeles-de-voitures-les-airbags-takata-en-cause-decouvrez-les-modeles-concernes.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Neufchâteau : Alerte sur le manque de néphrologues",
+          "summary": "Aucun établissement local n'a de néphrologue permanent, une situation préoccupante pour la santé.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/03/17/ici-aucun-etablissement-n-a-de-nephrologue-permanent",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/B19CB1FD-7AFA-47F6-AF35-F945E1F4579E/MF_contenu/ici-aucun-etablissement-n-a-de-nephrologue-permanent-1773773223.jpg"
+        },
+        {
+          "title": "Liffol-le-Grand : Les Amis des Vergères en action",
+          "summary": "L'association prépare activement sa nouvelle saison, promettant de belles activités pour la communauté.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/03/17/les-amis-des-vergeres-preparent-la-nouvelle-saison",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/517CCE29-96B4-4C3A-9AF2-E851ABBB8166/MF_contenu/les-amis-des-vergeres-preparent-la-nouvelle-saison-1773773222.jpg"
+        },
+        {
+          "title": "Plombières : De nouveaux usages pour les chalots",
+          "summary": "Des projets sont envisagés pour préserver et donner vie à ces constructions emblématiques du patrimoine local.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/03/17/de-nouveaux-usages-envisages-pour-ne-pas-voir-disparaitre-les-chalots",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/32145709-3403-4E03-AE0A-A5488F60B712/MF_contenu/de-nouveaux-usages-envisages-pour-ne-pas-voir-disparaitre-les-chalots-1773773217.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Brésil : Une Française tuée, corps retrouvé brûlé",
+          "summary": "Le corps d'une Française a été retrouvé brûlé dans une valise au Brésil, son compagnon interpellé.",
+          "url": "https://www.sudouest.fr/international/bresil/bresil-une-francaise-tuee-par-son-compagnon-son-corps-retrouve-brule-dans-une-valise-28334312.php"
+        },
+        {
+          "title": "Bordeaux : Saisie record de cigarettes contrefaites",
+          "summary": "Deux femmes et un jeune homme interpellés à la gare avec 5 000 paquets de cigarettes contrefaits.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-deux-femmes-et-un-jeune-homme-interpelles-a-la-gare-avec-5-000-paquets-de-cigarettes-contrefaits-28330471.php"
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🤓",
+      "articles": [
+        {
+          "title": "Espace : Risque de thrombose pour les astronautes",
+          "summary": "Une étude révèle un risque caché de thrombose chez les femmes astronautes, défiant la santé spatiale.",
+          "url": "https://www.journaldugeek.com/2026/03/17/espace-etude-revele-risque-cache-thrombose-femmes-astronautes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Femme-astronaute-1280x853.jpg"
+        },
+        {
+          "title": "Test Realme 16 Pro+ : Une excellente surprise",
+          "summary": "Le nouveau Realme 16 Pro+ s'impose comme un smartphone redoutable, écrasant le marché par sa qualité.",
+          "url": "https://www.journaldugeek.com/test/test-du-realme-16-pro-une-excellente-surprise/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/realme-16-pro-plus-header-1280x853.jpg"
+        },
+        {
+          "title": "Big Bang : Un état de matière insoupçonné",
+          "summary": "Un état de matière étrange, né après le Big Bang, pourrait encore exister aujourd'hui, fascinant les scientifiques.",
+          "url": "https://www.journaldugeek.com/2026/03/17/etrange-etat-matiere-apres-big-bang-encore-exister-aujourdhui/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Big-Bang-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Duplantis : 15e record du monde à la perche",
+          "summary": "Armand Duplantis franchit 6,31 m, battant son propre record du monde pour la 15e fois !",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-armand-duplantis-franchit-6-31m-son-15e-record-du-monde_AN-202603120888.html",
+          "image": "https://images.bfmtv.com/Um51jTsUYWmPuSB7pK-1Fskg4BA=/0x235:2048x1387/800x0/images/Armand-Duplantis-franchit-6-31m-son-15e-record-du-monde-le-12-03-2026-2251637.jpg"
+        },
+        {
+          "title": "Wembanyama : \"J'en veux au moins 60\" victoires",
+          "summary": "Les Spurs atteignent les 50 victoires, mais Wembanyama, insatiable, vise déjà de nouveaux sommets.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/j-en-veux-au-moins-60-les-spurs-atteignent-les-50-victoires-mais-wembanyama-vise-bien-plus-haut_AV-202603170208.html",
+          "image": "https://images.bfmtv.com/0tR9LQrPpZyURrUCSW3Dm8H2I9U=/0x76:2048x1228/800x0/images/Victor-Wembanyama-lors-de-la-victoire-des-San-Antonio-Spurs-sur-le-terrain-des-Los-Angeles-Clippers-115-119-le-16-mars-2026-2253931.jpg"
+        },
+        {
+          "title": "Joueuses iraniennes : Asile politique en Australie",
+          "summary": "Cinq joueuses ont obtenu l'asile après avoir refusé de chanter l'hymne, Trump se dit prêt à les accueillir.",
+          "url": "https://rmcsport.bfmtv.com/societe/guerre-en-iran-cinq-joueuses-iraniennes-ont-obtenu-l-asile-en-australie-trump-hausse-le-ton-et-se-dit-pret-a-les-accueillir_AN-202603090656.html",
+          "image": "https://images.bfmtv.com/SoUdtCxIbpOX370YOEvOJySxoqg=/2x1:1410x793/800x0/images/Les-joueuses-iraniennes-le-5-mars-2026-2246830.jpg"
+        }
+      ]
+    }
+  ]
+}
