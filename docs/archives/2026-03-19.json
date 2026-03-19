@@ -1,0 +1,178 @@
+{
+  "ephemeride": "Saint Joseph",
+  "global_summary": "L'actualité de ce jour est marquée par des tensions géopolitiques persistantes, notamment autour de l'Iran et de ses capacités militaires, ainsi que des préoccupations humanitaires liées au détroit d'Ormuz. Parallèlement, la Russie continue ses activités d'espionnage en Europe, témoignant d'un climat international sous haute surveillance. En France, la politique locale agite les esprits à Lyon, tandis que la justice est saisie par des affaires sensibles, illustrant la complexité des défis internes et internationaux.\n\nSur le front sportif, l'excellence française et internationale brille : Armand Duplantis continue d'écrire l'histoire avec un nouveau record du monde en saut à la perche, et Victor Wembanyama, malgré un débat sur son titre de MVP, affiche une ambition débordante en NBA. Des joueuses iraniennes obtiennent l'asile, un acte fort de résistance. Ces performances rappellent la capacité humaine à se dépasser, offrant une source d'inspiration au milieu des défis quotidiens.",
+  "running_advice": "C'est une journée FANTASTIQUE pour enfiler vos baskets et booster votre énergie, champion ! Avec un ciel peu nuageux, des températures idéales entre 8.9°C et 19°C et zéro goutte de pluie, toutes les conditions sont réunies pour une session de running au top. Pour profiter au maximum de cette météo clémente et éviter les heures les plus chaudes, je te conseille de viser tôt le matin, juste après le lever du soleil vers 7h30, ou en fin d'après-midi, entre 17h et 18h. L'indice UV est de 5.05, ce qui est modéré à élevé, donc n'oublie pas ta crème solaire et une casquette ! Allez, sors et respire, l'endorphine t'attend !",
+  "weather_string": "🌤️ Peu nuageux (8.9°C / 19°C)",
+  "weather_stats": {
+    "temp": "19°C",
+    "rain": "0%",
+    "uv": "5.05"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Iran : Potentiel militaire élevé",
+          "summary": "L'Iran dispose d'un arsenal conséquent (missiles, drones, mines) pour poursuivre ses conflits, selon les analyses.",
+          "url": "https://www.lopinion.fr/international/missiles-drones-et-mines-liran-a-de-quoi-continuer-la-guerre",
+          "image": "https://beymedias.brightspotcdn.com/4f/a8/aa4001f14a2e9d378ddf8fad4faa/sipa-01102661-000009.jpg"
+        },
+        {
+          "title": "Vienne, plaque tournante de l'espionnage russe",
+          "summary": "La Russie utiliserait Vienne comme centre névralgique pour ses opérations d'espionnage en Europe, révèlent des sources.",
+          "url": "https://www.lexpress.fr/monde/europe/cest-leur-plaque-tournante-en-europe-comment-la-russie-espionne-depuis-vienne-DLGJRUY4CZBMBC24EW6QYSBV4Q/",
+          "image": "https://www.lexpress.fr/resizer/v2/L36UYSST6VFLRLKFGMB4ZNMP2A.jpg?auth=8fa48ebbdeda0414beeb2b327ab5676c20208143c54428e2b5c21c2c70675aa8&smart=true&width=5315&height=3555"
+        },
+        {
+          "title": "Détroit d'Ormuz et famine menaçante",
+          "summary": "Le détroit d'Ormuz, verrou logistique, menace 45 millions de personnes de famine, complexifiant l'aide humanitaire.",
+          "url": "https://www.la-croix.com/international/45-millions-de-personnes-menacees-par-la-faim-le-detroit-d-ormuz-un-verrou-qui-bouleverse-la-logistique-humanitaire-20260318",
+          "image": "https://i.la-croix.com/x/smart/2026/03/18/2380168-une-infirmiere-dans-un-service-de-malnutrition-de-.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Municipales Lyon : Duel Doucet-Aulas pimenté",
+          "summary": "À Lyon, l'alliance avec LFI pimente le duel entre Grégory Doucet et Jean-Michel Aulas pour les municipales 2026.",
+          "url": "https://www.tf1info.fr/elections/municipales-2026-a-lyon-le-duel-gregory-doucet-jean-michel-aulas-pimente-par-l-alliance-avec-la-france-insoumise-lfi-2430986.html",
+          "image": "https://photos.tf1info.fr/images/1280/720/affiches-doucet-aulas-lyon-municipales-2026-e880e2-0@1x.jpeg"
+        },
+        {
+          "title": "Jihadiste Sabri Essid : Sort incertain",
+          "summary": "Le sort du jihadiste Sabri Essid, jugé par défaut à Paris pour le génocide des Yazidis, demeure incertain.",
+          "url": "https://www.laprovence.com/article/france-monde/2283512761252714/le-sort-incertain-du-jihadiste-sabri-essid-juge-par-defaut-a-paris-pour-le-genocide-des-yazidis",
+          "image": "https://pictures.laprovence.com/cdn-cgi/image//media/afp/25498172a90672dd7de0359200c087dbeb3383fa.jpg"
+        },
+        {
+          "title": "Macron : Porte-avions \"France Libre\"",
+          "summary": "Emmanuel Macron a nommé le futur porte-avions \"France Libre\", marquant une étape clé pour l'industrie navale.",
+          "url": "https://www.lesechos.fr/industrie-services/air-defense/richelieu-jeanne-darc-ou-jean-moulin-pourquoi-macron-a-prefere-nommer-france-libre-le-futur-porte-avions-2221752",
+          "image": "https://media.lesechos.com/api/v1/images/view/69baed268ff17de7950cfe03/1280x720/01801417269958-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "NordVPN : Anniversaire et grosse promo",
+          "summary": "NordVPN célèbre son anniversaire avec 76% de remise et 3 mois offerts, une affaire à ne pas manquer.",
+          "url": "https://www.bfmtv.com/tech/bons-plans/vpn/nord-vpn-fete-son-anniversaire-et-personne-n-en-parle-76-de-remise-et-3-mois-offerts_AB-202603180022.html",
+          "image": "https://images.bfmtv.com/r8v_bBIj2DNSAAbW1_CBs2j73xE=/0x0:1600x900/1600x0/images/Offre-NordVPN-2254072.jpg"
+        },
+        {
+          "title": "Doigby lance On Refait Internet",
+          "summary": "L'influenceur Doigby lance \"On Refait Internet\", un nouveau média pour ceux en quête d'infos et vérité.",
+          "url": "https://www.numerama.com/tech/2212367-doigby-lance-on-refait-internet-les-gens-sont-en-quete-dinfos-et-de-verite.html",
+          "image": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/03/doigby-ori.jpg?resize=1600,900&key=5cacf6f5&watermark"
+        },
+        {
+          "title": "Opel : Une marque entre deux mondes",
+          "summary": "L'histoire d'Opel révèle une marque automobile emblématique, souvent coincée entre héritage et modernité.",
+          "url": "https://www.autoplus.fr/destins-automobiles/opel-histoire-une-marque-coincee-entre-deux-mondes-1431593.html",
+          "image": "https://sf2.autoplus.fr/wp-content/uploads/autoplus/2021/08/31-opel-astra-histoire-3.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Carburants de synthèse : Les compagnies aériennes se dressent",
+          "summary": "Les compagnies aériennes critiquent le règlement européen sur les carburants de synthèse, soulevant des enjeux économiques.",
+          "url": "https://www.la-croix.com/economie/carburants-de-synthese-le-reglement-europeen-dans-le-viseur-des-compagnies-aeriennes-20260318",
+          "image": "https://i.la-croix.com/x/smart/2026/03/18/2380009-les-compagnies-aeriennes-europeennes-se-dressent-c.jpg"
+        },
+        {
+          "title": "Pont-de-Claix : Futur Espace papeteries",
+          "summary": "La première pierre du futur Espace Papeteries est posée au Pont-de-Claix, marquant un projet de développement local.",
+          "url": "https://www.ledauphine.com/economie/2026/03/18/premiere-pierre-posee-pour-le-futur-espace-papeteries",
+          "image": "https://cdn-s-www.ledauphine.com/images/0122A317-3439-46E0-B47D-BEE79E8D0900/MF_contenu/premiere-pierre-posee-pour-le-futur-espace-papeteries-1773859435.jpg"
+        },
+        {
+          "title": "Romans-sur-Isère : Nouvelles collaborations lycéennes",
+          "summary": "Le lycée Bouvet de Romans-sur-Isère accueille deux nouveaux partenaires pour renforcer ses offres éducatives et professionnelles.",
+          "url": "https://www.ledauphine.com/economie/2026/03/18/deux-nouveaux-partenaires-au-lycee-bouvet",
+          "image": "https://cdn-s-www.ledauphine.com/images/2AFEC824-E7A2-490C-8894-0B0446E8F009/MF_contenu/deux-nouveaux-partenaires-au-lycee-bouvet-1773859424.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🍷",
+      "articles": [
+        {
+          "title": "Landes : Viole d'enfant, 30 ans après",
+          "summary": "Une cour d'assises des Landes juge une affaire de viols sur mineur, trente ans après les faits.",
+          "url": "https://www.sudouest.fr/landes/cour-d-assises-des-landes-une-affaire-de-viols-sur-mineur-jugee-trente-ans-apres-les-faits-28340833.php"
+        },
+        {
+          "title": "Bordeaux : Plainte contre pianiste classée",
+          "summary": "La plainte pour viol sur fillette contre le pianiste Jacky Terrasson à Bordeaux a été classée sans suite.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-la-plainte-pour-viol-sur-une-fillette-contre-le-pianiste-jacky-terrasson-classee-sans-suite-selon-ses-avocats-28338828.php"
+        },
+        {
+          "title": "Aramburú : Questions sur la surveillance",
+          "summary": "La mère du rugbyman Federico Martín Aramburú s'interroge sur l'absence de surveillance des suspects.",
+          "url": "https://www.sudouest.fr/faits-divers/mort-de-federico-martin-aramburu-pourquoi-le-priol-et-bouvier-n-etaient-ils-pas-surveilles-s-interroge-la-mere-du-rugbyman-28335580.php"
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Crimson Desert : Hype ou déception ?",
+          "summary": "Notre test révèle que le jeu Crimson Desert peine à surpasser l'énorme attente qu'il avait générée.",
+          "url": "https://www.journaldugeek.com/test/test-crimson-desert/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Kliff-1280x720.jpg"
+        },
+        {
+          "title": "Dyson HushJet : Le purificateur discret",
+          "summary": "Test du Dyson HushJet, un purificateur d'air innovant qui promet une efficacité silencieuse.",
+          "url": "https://www.journaldugeek.com/test/test-dyson-hushjet-le-purificateur-dair-qui-chuchote/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/dyson-hushjet-02-1280x960.jpg"
+        },
+        {
+          "title": "GTA 6 : La pub in-game arrive ?",
+          "summary": "Faut-il s'attendre à l'intégration de publicités directement dans le très attendu jeu GTA 6 ?",
+          "url": "https://www.journaldugeek.com/2026/03/18/gta-6-est-ce-quil-faut-sattendre-a-avoir-de-la-pub-in-game/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/pub-gta-6-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Duplantis : 15e record du monde !",
+          "summary": "Armand Duplantis franchit 6,31 m en saut à la perche, son incroyable 15e record du monde.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-armand-duplantis-franchit-6-31m-son-15e-record-du-monde_AN-202603120888.html",
+          "image": "https://images.bfmtv.com/Um51jTsUYWmPuSB7pK-1Fskg4BA=/0x235:2048x1387/800x0/images/Armand-Duplantis-franchit-6-31m-son-15e-record-du-monde-le-12-03-2026-2251637.jpg"
+        },
+        {
+          "title": "Wembanyama : 50 victoires, objectif 60",
+          "summary": "Les Spurs atteignent 50 victoires ; Wembanyama vise bien plus haut, avec au moins 60 succès.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/j-en-veux-au-moins-60-les-spurs-atteignent-les-50-victoires-mais-wembanyama-vise-bien-plus-haut_AV-202603170208.html",
+          "image": "https://images.bfmtv.com/0tR9LQrPpZyURrUCSW3Dm8H2I9U=/0x76:2048x1228/800x0/images/Victor-Wembanyama-lors-de-la-victoire-des-San-Antonio-Spurs-sur-le-terrain-des-Los-Angeles-Clippers-115-119-le-16-mars-2026-2253931.jpg"
+        },
+        {
+          "title": "Footballeuses iraniennes : Asile en Australie",
+          "summary": "Cinq joueuses iraniennes obtiennent l'asile en Australie après avoir refusé de chanter leur hymne.",
+          "url": "https://rmcsport.bfmtv.com/societe/guerre-en-iran-cinq-joueuses-iraniennes-ont-obtenu-l-asile-en-australie-trump-hausse-le-ton-et-se-dit-pret-a-les-accueillir_AN-202603090656.html",
+          "image": "https://images.bfmtv.com/SoUdtCxIbpOX370YOEvOJySxoqg=/2x1:1410x793/800x0/images/Les-joueuses-iraniennes-le-5-mars-2026-2246830.jpg"
+        }
+      ]
+    }
+  ]
+}
