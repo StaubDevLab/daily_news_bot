@@ -1,0 +1,178 @@
+{
+  "ephemeride": "Saint Herbert",
+  "global_summary": "L'actualité mondiale est dominée par des tensions économiques et géopolitiques palpables. Le Moyen-Orient continue d'influencer directement les marchés, avec la BCE anticipant un pic d'inflation et un ralentissement de la croissance, tandis que la solidité de l'économie américaine est scrutée de près face à ces chocs. L'aide européenne à l'Ukraine reste également un point d'interrogation, conditionnée par des échéances électorales hongroises. \nSur le plan national, la politique française est secouée par des controverses, notamment autour de LFI et d'un incident lors d'une commémoration. Les faits divers rappellent la fragilité de nos quotidiens, avec un accident tragique impliquant un nourrisson. Côté sport, les performances sont au rendez-vous avec le 15ème record du monde d'Armand Duplantis et les prouesses de Wembanyama en NBA, animant les débats sur son potentiel de MVP.",
+  "running_advice": "Foncez, champions et championnes ! Aujourd'hui, Saint Herbert nous offre des conditions idéales pour libérer l'athlète qui sommeille en vous. Avec des températures allant de 7.7°C à un agréable 19.5°C et un ciel peu nuageux, l'air sera juste parfait pour vos poumons. Zéro risque de pluie, donc aucune excuse ! Pour profiter au maximum de cette belle journée sans les rayons les plus intenses, je vous conseille une session dynamique entre 7h05 et 9h00, ou alors un run vivifiant en fin de journée, de 17h00 à 19h14. Attention tout de même, l'indice UV est de 5.2, pensez à votre crème solaire et à un chapeau pour protéger votre peau. Équipez-vous et allez chercher vos objectifs !",
+  "weather_string": "🌤️ Peu nuageux (7.7°C / 19.5°C)",
+  "weather_stats": {
+    "temp": "19.5°C",
+    "rain": "0%",
+    "uv": "5.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Moyen-Orient : Économie US face à la crise",
+          "summary": "La solidité de l'économie américaine est interrogée face à l'inflation et la guerre au Moyen-Orient.",
+          "url": "https://www.lexpress.fr/economie/prix-du-petrole-inflation-leconomie-americaine-est-elle-assez-solide-face-a-la-guerre-au-moyen-X2ZVQIAE4JH2FMAWKMHHVT4PEU/",
+          "image": "https://www.lexpress.fr/resizer/v2/3HDJ7YSWQBASXLZKJ7G2TYNUQM.JPG?auth=31ce88611b1c9bf448146f9d7b70778c6061fe0abce689fdd442606da5ba6336&smart=true&width=5500&height=3668"
+        },
+        {
+          "title": "BCE : Choc économique post-Moyen-Orient",
+          "summary": "La Banque Centrale Européenne prévoit un bond de l'inflation et un creux de la croissance.",
+          "url": "https://www.lemonde.fr/economie/article/2026/03/19/pour-la-banque-centrale-europeenne-le-choc-du-conflit-au-moyen-orient-entrainera-un-bond-de-l-inflation-et-un-creux-de-la-croissance_6672463_3234.html",
+          "image": "https://img.lemde.fr/2026/03/19/0/0/5500/2750/644/322/60/0/b648e6d_ftp-1-t3gxdbry5e9m-2026-03-19t143511z-1511111646-rc2q7kaadm4d-rtrmadp-3-ecb-policy.JPG"
+        },
+        {
+          "title": "Ukraine : L'aide européenne suspendue",
+          "summary": "L'avenir de l'aide de l'UE à l'Ukraine dépend des prochaines élections hongroises.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/19/l-aide-de-l-union-europeenne-a-l-ukraine-reste-suspendue-aux-elections-hongroises_6672464_3210.html",
+          "image": "https://img.lemde.fr/2026/03/19/330/0/4856/2428/644/322/60/0/1b95447_upload-1-9gvmvqs3npkp-family-004.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "LFI : La controverse politique continue",
+          "summary": "L'éditorial du Figaro dénonce les \"limites\" de LFI en plein climat de tensions politiques.",
+          "url": "https://www.lefigaro.fr/vox/politique/l-editorial-d-yves-threard-lfi-sans-limites-20260319",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/03/19/d143a23ed138a46e072a7b9bbb71d056e342520e2392acfd0a5060e5fed47c5e.jpg"
+        },
+        {
+          "title": "Toulouse : LFI hué lors d'hommage",
+          "summary": "Un candidat LFI chahuté lors d'une commémoration d'attentats antisémites à Toulouse.",
+          "url": "https://www.rtl.fr/actu/politique/ce-moment-a-ete-souille-candidat-aux-municipales-a-toulouse-piquemal-lfi-hue-lors-d-une-commemoration-d-attentats-antisemites-7900614287",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1825041-le-candidat-aux-municipales-a-toulouse-francois-piquemal-lfi-a-ete-hue-lors-d-une-commemoration-d-attentats-antisemites.jpg"
+        },
+        {
+          "title": "Accident fatal : Un nourrisson projeté",
+          "summary": "Un nourrisson meurt après un accident, le grand-père ivre au volant de l'ambulance.",
+          "url": "https://www.midilibre.fr/2026/03/19/le-grand-pere-ivre-prend-le-volant-de-lambulance-un-nourrisson-meurt-projete-par-le-pare-brise-dans-un-violent-accident-13281519.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/69bc1943ad3bea077f039f2c/hd/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Galaxy S24 : L'offre incroyable",
+          "summary": "Cdiscount enflamme les ventes avec un Samsung Galaxy S24 sous les 400 euros.",
+          "url": "https://www.bfmtv.com/tech/bons-plans/ce-samsung-galaxy-s24-a-moins-de-400-euros-enflamme-les-ventes-de-cdiscount-la-concurrence-est-depassee_AB-202603190009.html",
+          "image": "https://images.bfmtv.com/vCS0okNkGLPKP3SNWBoB5TMqJlc=/0x0:1600x900/1600x0/images/Ce-Samsung-Galaxy-S24-a-moins-de-400-euros-enflamme-les-ventes-de-Cdiscount-la-concurrence-est-depassee-2254299.jpg"
+        },
+        {
+          "title": "Xiaomi 15T Pro : Prix secret",
+          "summary": "Un site vend le Xiaomi 15T Pro à un prix fou en toute discrétion.",
+          "url": "https://www.01net.com/bons-plans/xiaomi-15t-pro-pour-eviter-la-bousculade-ce-site-le-vend-en-toute-discretion-a-prix-fou.html",
+          "image": "https://www.01net.com/app/uploads/2025/10/xiaomi-15t-pro-gris-1600x900.jpg"
+        },
+        {
+          "title": "Radar caché : Amendes en série",
+          "summary": "Des policiers placent un radar discret sur un rond-point, provoquant une pluie d'amendes.",
+          "url": "https://www.autoplus.fr/actualite/insolite/les-policiers-mettent-un-radar-cache-sur-un-rond-point-les-amendent-pleuvent-1432051.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/03/captura-de-pantalla-2026-03-19-a-las-19.29.10.png"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Rochefort : Nina ferme boutique",
+          "summary": "La boutique \"Nina\" à Rochefort met la clé sous la porte avec l'arrivée du printemps.",
+          "url": "https://www.sudouest.fr/charente-maritime/rochefort/rochefort-nina-plie-boutique-avec-le-printemps-28357774.php",
+          "image": "https://media.sudouest.fr/28357774/1200x600/20260319-174938.jpg"
+        },
+        {
+          "title": "EHPAD : Fusion à 12 millions",
+          "summary": "Les EHPAD de Segonzac et Lignières-Ambleville fusionnent dans un projet coûteux.",
+          "url": "https://www.charentelibre.fr/charente/segonzac/l-ehpad-de-segonzac-va-fusionner-avec-celui-de-lignieres-ambleville-un-projet-a-12-millions-d-euros-28357462.php",
+          "image": "https://media.charentelibre.fr/28357462/1200x600/img-0293.jpg"
+        },
+        {
+          "title": "Ventoux : Saison touristique en vue",
+          "summary": "Les équipes de tourisme du Ventoux préparent activement la saison estivale.",
+          "url": "https://www.ledauphine.com/economie/2026/03/19/les-equipes-de-tourisme-du-ventoux-preparent-la-saison",
+          "image": "https://cdn-s-www.ledauphine.com/images/F472F14D-DBF9-496F-AFA5-191057068CC3/MF_contenu/les-equipes-de-tourisme-du-ventoux-preparent-la-saison-1773945577.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "DZ Mafia : Procès sous haute sécurité",
+          "summary": "Les chefs présumés de la DZ Mafia sont jugés à Aix sous très haute sécurité.",
+          "url": "https://www.sudouest.fr/faits-divers/narcotrafic/dz-mafia-proces-sous-tres-haute-securite-a-aix-trois-des-quatre-chefs-presumes-juges-a-partir-de-lundi-28363171.php"
+        },
+        {
+          "title": "Roubaix : Maire sortant agressé",
+          "summary": "Une enquête ouverte après des violences contre le maire sortant de Roubaix.",
+          "url": "https://www.sudouest.fr/elections/municipales/elections-municipales-une-enquete-ouverte-pour-violence-contre-le-maire-sortant-de-roubaix-28359953.php"
+        },
+        {
+          "title": "Bordeaux : Incendie de voiture tragique",
+          "summary": "Payés pour incendier une voiture, des ados subissent des blessures graves près de Bordeaux.",
+          "url": "https://www.sudouest.fr/faits-divers/pres-de-bordeaux-elle-a-paye-des-ados-pour-incendier-sa-voiture-l-un-des-jeunes-a-perdu-un-oeil-et-le-feu-s-est-propage-28358055.php"
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🤓",
+      "articles": [
+        {
+          "title": "Firefox intègre un VPN gratuit",
+          "summary": "Firefox annonce l'intégration d'un VPN gratuit, mais un hic est à signaler.",
+          "url": "https://www.journaldugeek.com/2026/03/19/firefox-va-integrer-un-vpn-gratuit-au-navigateur-mais-il-y-a-un-couac/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/firefox-vpn-navigateur-1280x853.jpg"
+        },
+        {
+          "title": "KPop Demon Hunters en tournée mondiale",
+          "summary": "Les Huntr/x, groupe de KPop Demon Hunters, préparent-ils une tournée mondiale ?",
+          "url": "https://www.journaldugeek.com/2026/03/19/kpop-demon-hunters-bientot-une-tournee-mondiale-pour-les-huntr-x/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/concert-kpop-demon-hunters-1280x853.jpg"
+        },
+        {
+          "title": "Peaky Blinders : La critique finale",
+          "summary": "Analyse si \"L'Immortel\" offre une conclusion digne de la série culte Peaky Blinders.",
+          "url": "https://www.journaldugeek.com/critique/critique-peaky-blinders-limmortel-une-conclusion-indigne-de-la-serie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Peaky-blinders-le-film-critique-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Duplantis : 15ème record du monde",
+          "summary": "Armand Duplantis continue d'écrire l'histoire en franchissant 6,31m à la perche.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-armand-duplantis-franchit-6-31m-son-15e-record-du-monde_AN-202603120888.html",
+          "image": "https://images.bfmtv.com/Um51jTsUYWmPuSB7pK-1Fskg4BA=/0x235:2048x1387/800x0/images/Armand-Duplantis-franchit-6-31m-son-15e-record-du-monde-le-12-03-2026-2251637.jpg"
+        },
+        {
+          "title": "Bielle-Biarrey, atout majeur du XV ?",
+          "summary": "Le débat fait rage : Bielle-Biarrey est-il devenu l'élément clé du XV de France ?",
+          "url": "https://rmcsport.bfmtv.com/rugby/video-il-est-magique-bielle-biarrey-est-il-devenu-l-atout-majeur-du-xv-de-france_VN-202603180615.html",
+          "image": "https://images.bfmtv.com/eCDYWRQ5PTCFbi-3sr8U3uM9RvY=/0x0:1280x720/800x0/images/Il-est-MAGIQUE-Bielle-Biarrey-est-il-devenu-l-atout-majeur-du-xv-de-france-2254999.jpg"
+        },
+        {
+          "title": "Wembanyama MVP : Le débat s'anime",
+          "summary": "Pourquoi certains experts ne croient pas encore à un titre de MVP pour Wembanyama cette saison.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/wembanyama-mvp-de-la-saison-reguliere-en-nba-pourquoi-fred-weis-et-stephen-brun-n-y-croient-pas_AV-202603170612.html",
+          "image": "https://images.bfmtv.com/BlDSOBsYVx7kHhmg9sTdkXItgXM=/0x482:2048x1634/800x0/images/Victor-Wembanyama-le-6-mars-2026-en-NBA-2248114.jpg"
+        }
+      ]
+    }
+  ]
+}
