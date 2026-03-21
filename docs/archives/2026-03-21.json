@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Clémence",
+  "global_summary": "Ce jour est marqué par des contrastes saisissants entre les défis mondiaux et les avancées de l'innovation. L'Himalaya sonne l'alarme climatique avec une fonte accélérée, tandis que la Hongrie interroge les fondements de sa démocratie, rappelant l'importance de la vigilance citoyenne. En France, les actualités oscillent entre des affaires judiciaires marquantes, comme les condamnations liées au trafic de stupéfiants, et des débats sociétaux autour des politiques locales.\nParallèlement, le monde de la tech et de la science nous émerveille avec la résurrection du CD doté de capacités de stockage inédites et une découverte majeure au CERN. Le secteur économique, quant à lui, navigue entre dynamisme local et ajustements boursiers. Enfin, le sport nous offre son lot d'émotions fortes, de l'exploit historique de Wembanyama en NBA à l'insolite mésaventure d'un marathonien en Chine, prouvant que chaque jour réserve son lot de surprises et de leçons.",
+  "running_advice": "Amis runners, préparez-vous : c'est une journée exceptionnelle pour chausser vos baskets ! Avec un ciel dégagé et des températures idéales qui grimperont jusqu'à 18.6°C, les conditions sont parfaites pour pulvériser vos objectifs. Pour profiter pleinement et éviter les heures les plus intenses, visez une sortie vivifiante entre 7h03 et 10h00, ou optez pour une session énergisante en fin d'après-midi, entre 17h00 et 19h00. Attention, l'indice UV de 5.15 est à prendre au sérieux : n'oubliez pas votre crème solaire, un chapeau et des lunettes de soleil pour protéger votre peau et vos yeux. Hydratez-vous bien et laissez l'énergie de cette belle journée vous porter vers de nouveaux sommets !",
+  "weather_string": "☀️ Ciel dégagé (5.7°C / 18.6°C)",
+  "weather_stats": {
+    "temp": "18.6°C",
+    "rain": "0%",
+    "uv": "5.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "L'Himalaya fond à vitesse alarmante",
+          "summary": "Le \"troisième pôle\" terrestre subit un dégel accéléré, menaçant des milliards de vies et l'équilibre écologique mondial.",
+          "url": "https://www.lemonde.fr/planete/article/2026/03/20/l-himalaya-troisieme-pole-de-la-terre-perd-ses-glaces-de-plus-en-plus-vite_6672774_3244.html",
+          "image": "https://img.lemde.fr/2026/03/20/456/0/5472/2736/644/322/60/0/7054726_upload-1-rpguelnp4x9j-resource-ponkar-glacier-with-dudh-khola-sudan-bikash-maharjan.JPG"
+        },
+        {
+          "title": "Hongrie : Démocratie sous surveillance",
+          "summary": "Le pays est sous les projecteurs, son système démocratique étant remis en question par plusieurs observateurs internationaux.",
+          "url": "https://www.franceinfo.fr/monde/europe/hongrie-une-democratie-en-trompe-l-oeil_7882298.html",
+          "image": "https://www.franceinfo.fr/pictures/QfXX_t0oKPizEJALArVJVEzCrBQ/fit-in/1200x675/filters:upscale():fill(black)/2026/03/20/minia-shuffle-69bd5f5c7fed6179394625.jpg"
+        },
+        {
+          "title": "Corruption aux Baumettes : surveillant condamné",
+          "summary": "Un surveillant marseillais a été condamné pour avoir introduit illégalement des biens en prison.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/03/20/il-faisait-entrer-des-sacs-un-surveillant-de-la-prison-des-baumettes-condamne-pour-corruption",
+          "image": "https://cdn-s-www.lalsace.fr/images/7A38C35D-FB94-40C9-AD07-3DCA94C48FCD/MF_contenu/il-faisait-entrer-des-sacs-un-surveillant-de-la-prison-des-baumettes-condamne-pour-corruption-1774029664.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Stupéfiants en barres chocolatées à Strasbourg",
+          "summary": "Un trafic de drogue astucieux via des barres chocolatées démantelé à Strasbourg, menant à de lourdes peines.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/03/20/du-shit-cache-dans-des-barres-chocolatees-jusqu-a-six-ans-de-prison",
+          "image": "https://cdn-s-www.lalsace.fr/images/6B38B0C4-74A4-4F45-8684-DD9046001047/MF_contenu/du-shit-cache-dans-des-barres-chocolatees-jusqu-a-six-ans-de-prison-1774030503.jpg"
+        },
+        {
+          "title": "Refus d'obtempérer et drogues à Pau",
+          "summary": "À Pau, un passager arrêté après une course-poursuite était en possession de stupéfiants, un incident préoccupant.",
+          "url": "https://www.larepubliquedespyrenees.fr/faits-divers/pau-le-passager-d-un-vehicule-interpelle-apres-un-refus-d-obtemperer-en-possession-de-stupefiants-28372544.php",
+          "image": "https://media.larepubliquedespyrenees.fr/28372544/1200x600/rep-1493-hd16340.jpg"
+        },
+        {
+          "title": "Contestations municipales en Franche-Comté",
+          "summary": "24 protestations ont été déposées après le premier tour des élections municipales en Franche-Comté.",
+          "url": "https://www.estrepublicain.fr/elections/2026/03/20/24-protestations-apres-le-premier-tour-en-franche-comte-dont-une-a-valentigney",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/D620CC33-A8AF-42A6-B5B8-15B8A51FD75A/MF_contenu/24-protestations-apres-le-premier-tour-en-franche-comte-dont-une-a-valentigney-1774031584.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Le CD revient avec un stockage fou",
+          "summary": "Des chercheurs ont réussi à ressusciter le CD en lui offrant une capacité de stockage de données inégalée.",
+          "url": "https://www.journaldugeek.com/2026/03/20/des-chercheurs-ressuscitent-le-cd-avec-une-capacite-de-stockage-hallucinante/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/01/cd-1280x853.jpg"
+        },
+        {
+          "title": "CERN : une particule rare découverte",
+          "summary": "Le CERN annonce une découverte majeure : une particule rarissime, quatre fois plus lourde qu'un proton.",
+          "url": "https://www.journaldugeek.com/2026/03/20/cern-decouvre-particule-rarissime-quatre-fois-plus-lourde-proton/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Molecule-1280x853.jpg"
+        },
+        {
+          "title": "Ferrari collabore avec la NASA pour son VE",
+          "summary": "Ferrari innove pour son premier véhicule électrique, en s'associant à la NASA pour maîtriser l'accélération.",
+          "url": "https://www.automobile-magazine.fr/voitures-electriques/article/51382-pour-sa-premiere-voiture-electrique-ferrari-fait-appel-a-la-nasa-pour-maitriser-lacceleration",
+          "image": "https://static.ncr.re/img/1200x675/ae/aec01c2131fc5d8af2f0c70dc1ab01eb.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Vente aux enchères de vins à Bollène",
+          "summary": "La 44e édition de la vente aux enchères de vins à Bollène attire les connaisseurs et amateurs.",
+          "url": "https://www.ledauphine.com/economie/2026/03/20/les-amateurs-de-vins-sont-attendus-a-la-44-sup-e-sup-edition-de-la-vente-aux-encheres",
+          "image": "http://cdn-files.prsmedia.fr/files/LDL/fr/images/LDL_placeholder.png"
+        },
+        {
+          "title": "Bédarrides : La Clairière Numérique s'implante",
+          "summary": "Un nouveau commerce de réparation d'ordinateurs et téléphones ouvre ses portes à Bédarrides.",
+          "url": "https://www.ledauphine.com/economie/2026/03/20/echo-du-commerce-la-clairiere-numerique-repare-ordinateurs-et-telephones",
+          "image": "https://cdn-s-www.ledauphine.com/images/2068595C-EFAA-4A77-9377-8BD44BF1862D/MF_contenu/echo-du-commerce-la-clairiere-numerique-repare-ordinateurs-et-telephones-1774031555.jpg"
+        },
+        {
+          "title": "AT&T à son plus bas annuel",
+          "summary": "L'action AT&T a atteint son niveau le plus bas en 52 semaines, signalant une période de turbulence boursière.",
+          "url": "https://fr.investing.com/news/company-news/laction-att-atteint-un-plus-bas-de-52-semaines-a-2154-usd-93CH-3326480",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEA6606G_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama mène les Spurs aux playoffs",
+          "summary": "Avec un short tâché de vin, Victor Wembanyama signe un exploit historique, qualifiant les Spurs en playoffs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-le-short-tache-de-vin-envoie-les-san-antonio-spurs-en-play-offs-pour-la-premiere-fois-depuis-2019_AV-202603200200.html",
+          "image": "https://images.bfmtv.com/G9lcy7m1d1cj3bhI3w2y1EzXRa4=/0x83:2032x1226/800x0/images/Victor-Wembanyama-lors-du-match-entre-les-Los-Angeles-Clippers-et-les-San-Antonio-Spurs-115-119-le-16-mars-2026-2256168.jpg"
+        },
+        {
+          "title": "Un marathonien éjecté juste avant la fin !",
+          "summary": "Scène incroyable : un vainqueur de marathon en Chine a été éjecté du parcours à quelques mètres de l'arrivée.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/ejecte-du-parcours-par-un-officiel-juste-devant-la-ligne-d-arrivee-la-mesaventure-lunaire-d-un-vainqueur-de-marathon-en-chine_AV-202603170438.html",
+          "image": "https://images.bfmtv.com/DRQX9CSzq1f2O7SCjdEZ_2JnopY=/1x315:625x666/800x0/images/Sheng-Xue-Li-ejecte-par-un-officiel-devant-la-ligne-d-arrivee-du-marathon-du-lac-Wanzhou-le-15-mars-2026-2254130.jpg"
+        },
+        {
+          "title": "Combinaison JO : l'arnaque à 195 000€",
+          "summary": "Une combinaison olympique vendue une fortune s'avère n'avoir jamais été portée par l'athlète concernée.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-2026-la-combinaison-de-jutta-leerdam-vendue-aux-encheres-a-195-000-euros-n-a-finalement-jamais-ete-portee-par-la-neerlandaise_AV-202603191006.html",
+          "image": "https://images.bfmtv.com/uy_JXLynMQkQ-FQIwjX5Jh_7Nzs=/0x146:2048x1298/800x0/images/Jutta-Leerdam-a-l-entrainement-lors-des-Jeux-olympiques-d-hiver-de-Milan-Cortina-le-3-fevrier-2026-2232223.jpg"
+        }
+      ]
+    }
+  ]
+}
