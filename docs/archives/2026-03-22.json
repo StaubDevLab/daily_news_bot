@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Léa",
-  "global_summary": "L'actualité de ce jour est un mélange dynamique d'exploits sportifs mondiaux et d'enjeux sociopolitiques complexes. Tandis que des milliers de citoyens manifestent à Prague et que le Moyen-Orient reste sous tension, la scène sportive vibre avec des records d'athlétisme et des avancées marquantes en NBA. La technologie continue de surprendre avec des innovations allant des gymnases intelligents aux missions spatiales audacieuses. \nEn France, la vie locale se dessine entre élections, performances sportives régionales et l'économie du quotidien. Cette effervescence est complétée par des décisions de justice importantes, reflétant la diversité des défis et des réussites qui façonnent notre monde.",
-  "running_advice": "Excellente nouvelle, amis runners ! La journée s'annonce idéale pour chausser vos baskets et vous dépasser. Avec des températures allant de 6.3°C à 16.7°C et un ciel peu nuageux, les conditions sont parfaites pour une session vivifiante. Je vous conseille de privilégier votre course en matinée, dès le lever du soleil à 7h01 pour profiter de la fraîcheur, ou en fin d'après-midi avant le coucher à 19h17 pour une douce lumière. Attention, l'indice UV est de 5.2 : pensez à appliquer une crème solaire et à porter une casquette. Hydratez-vous bien et profitez de chaque foulée pour booster votre énergie !",
-  "weather_string": "🌤️ Peu nuageux (6.3°C / 16.7°C)",
+  "global_summary": "L'actualité de ce jour nous plonge dans un tourbillon d'événements, allant des revendications citoyennes aux exploits sportifs retentissants. Tandis que des milliers de personnes se mobilisent à Prague pour défendre la démocratie, le monde observe également avec attention les tensions persistantes au Moyen-Orient, rappelant la complexité des enjeux géopolitiques actuels. \nParallèlement, la scène sportive et technologique brille par son dynamisme : de nouveaux records mondiaux sont établis, l'innovation s'invite jusque dans les entraînements des athlètes avec l'intelligence artificielle, et la perspective de parcs d'attractions futuristes nous transporte déjà vers demain. C'est un panorama qui mêle défis planétaires et avancées inspirantes, invitant à la réflexion autant qu'à l'admiration.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour vous dépasser ! Avec des températures douces oscillant entre 5.9°C et 16.4°C et un ciel peu nuageux, toutes les conditions sont réunies pour une session de course revitalisante. \nJe vous conseille de chausser vos baskets et de profiter de cette fenêtre idéale entre 10h00 et 16h00, lorsque la température est la plus agréable. N'oubliez pas, l'indice UV est de 5.2, alors appliquez une protection solaire sur les zones exposées et pensez à une casquette. C'est le moment parfait pour booster votre énergie et atteindre vos objectifs ! Go, go, go !",
+  "weather_string": "🌤️ Peu nuageux (5.9°C / 16.4°C)",
   "weather_stats": {
-    "temp": "16.7°C",
+    "temp": "16.4°C",
     "rain": "0%",
     "uv": "5.2"
   },
@@ -14,46 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Prague: La foule se lève contre le populisme",
-          "summary": "Des milliers de Tchèques manifestent à Prague contre leur gouvernement, exigeant des changements démocratiques.",
+          "title": "Prague : Des milliers contre le gouvernement populiste",
+          "summary": "Des milliers de Tchèques manifestent pour la démocratie et contre la politique du gouvernement actuel à Prague.",
           "url": "https://www.la-croix.com/international/a-prague-des-milliers-de-personnes-rassemblees-contre-le-gouvernement-populiste-20260321",
           "image": "https://i.la-croix.com/x/smart/2026/03/21/2383535-manifestation-massive-a-prague-ce-samedi-21-mars-p.jpg"
         },
         {
-          "title": "Moyen-Orient: La tension persiste avec l'Iran",
-          "summary": "Les experts anticipent plusieurs mois de frappes iraniennes, exacerbant la crise régionale au Moyen-Orient.",
+          "title": "Moyen-Orient : Tensions accrues, l'Iran peut frapper",
+          "summary": "Un expert alerte sur la capacité de l'Iran à maintenir une pression militaire intense dans la région.",
           "url": "https://www.lepoint.fr/monde/guerre-au-moyen-orient-les-iraniens-peuvent-encore-frapper-pendant-deux-a-quatre-mois-ZTG4DC35QVBNPLM5ISCUWIHFAM/",
           "image": "https://www.lepoint.fr/resizer/v2/WURDPZTQQVOKPA5XH3LSGXI5TA.jpg?auth=b1f8802b59fefd4cba20819c1358bd5bfb18e1ddeea502e75b6e45f3ccff4481&smart=true&width=1200&height=900"
         },
         {
-          "title": "NBA: Le Thunder snobe la Maison Blanche",
-          "summary": "Pour des raisons 'de calendrier', l'équipe du Thunder d'Oklahoma City refuse de rencontrer le Président Trump.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/le-thunder-d-oklahoma-city-boude-trump-et-la-maison-blanche-et-invoque-des-soucis-de-calendrier_AD-202603210139.html",
-          "image": "https://images.bfmtv.com/xpvCnx7j1g0ZZ_fnqJEVgvzPTMA=/0x71:2048x1223/800x0/images/Shai-Gilgeous-Alexander-lors-du-match-de-NBA-entre-le-OKC-Thunder-et-les-Sacramento-Kings-le-25-03-2025-2059520.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Sport",
-      "emoji": "🏆",
-      "articles": [
-        {
-          "title": "Record du monde : Ehammer brille en heptathlon",
-          "summary": "Le Suisse Simon Ehammer pulvérise le record du monde de l'heptathlon avec 6 670 points. Un exploit !",
+          "title": "Record du monde : Simon Ehammer entre dans l'histoire",
+          "summary": "Le Suisse Simon Ehammer établit un nouveau record mondial à l'heptathlon avec 6 670 points.",
           "url": "https://www.lalsace.fr/sport/2026/03/21/le-suisse-simon-ehammer-bat-le-record-du-monde-de-l-heptathlon-avec-6-670-points",
           "image": "https://cdn-s-www.lalsace.fr/images/F9552E6D-1ADB-4A09-8D94-1221AD7F687F/MF_contenu/le-suisse-simon-ehammer-bat-le-record-du-monde-de-l-heptathlon-avec-6-670-points-1774118392.jpg"
-        },
-        {
-          "title": "Wembanyama mène les Spurs en playoffs",
-          "summary": "Avec un short taché de vin et un talent fou, Wembanyama qualifie les Spurs en playoffs. Incroyable !",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-le-short-tache-de-vin-envoie-les-san-antonio-spurs-en-play-offs-pour-la-premiere-fois-depuis-2019_AV-202603200200.html",
-          "image": "https://images.bfmtv.com/G9lcy7m1d1cj3bhI3w2y1EzXRa4=/0x83:2032x1226/800x0/images/Victor-Wembanyama-lors-du-match-entre-les-Los-Angeles-Clippers-et-les-San-Antonio-Spurs-115-119-le-16-mars-2026-2256168.jpg"
-        },
-        {
-          "title": "Duplantis: 4ème titre mondial en salle !",
-          "summary": "Le perchiste Armand Duplantis conserve sa couronne pour la quatrième fois consécutive. Un géant !",
-          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-armand-duplantis-champion-du-monde-en-salle-pour-la-4e-fois-de-suite-sans-tenter-un-record-du-monde_AV-202603210307.html",
-          "image": "https://images.bfmtv.com/9xgF_RFVfjyPwOk1PsAekmK35uQ=/0x0:2048x1152/800x0/images/Armand-Duplantis-lors-des-Mondiaux-en-salle-le-21-mars-2026-2256941.jpg"
         }
       ]
     },
@@ -62,91 +38,70 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Rouffach: Le nouveau maire tend la main",
-          "summary": "Auguste Ott, tout juste élu maire de Rouffach, appelle à l'unité en proposant une collaboration avec l'opposition.",
+          "title": "Rouffach : Le nouveau maire tend la main",
+          "summary": "Auguste Ott, fraîchement élu maire de Rouffach, appelle à l'unité en proposant la main à l'opposition.",
           "url": "https://www.dna.fr/elections/2026/03/21/rouffach-auguste-ott-a-peine-elu-tend-la-main-a-l-opposition",
           "image": "https://cdn-s-www.dna.fr/images/F0DBC024-C13D-4CC6-AE50-07242E73A351/MF_contenu/rouffach-auguste-ott-a-peine-elu-tend-la-main-a-l-opposition-1774118398.jpg"
         },
         {
-          "title": "Triathlon: Passemard excelle en Chine",
-          "summary": "Baptiste Passemard réalise une nouvelle performance remarquable en triathlon en Chine. Bravo l'artiste !",
-          "url": "https://www.estrepublicain.fr/sport/2026/03/21/encore-une-belle-performance-pour-baptiste-passemard-en-chine",
-          "image": "https://cdn-s-www.estrepublicain.fr/images/343EC110-089C-41ED-9014-CD4F212C3C0F/MF_contenu/encore-une-belle-performance-pour-baptiste-passemard-en-chine-1774118345.jpg"
-        },
-        {
-          "title": "F1: La trêve d'avril profitable à Cadillac",
-          "summary": "Valtteri Bottas estime que la pause d'avril sera 'bénéfique' pour le développement de l'écurie Cadillac en F1.",
+          "title": "F1 : Bottas voit Cadillac bénéficier d'une trêve",
+          "summary": "Valtteri Bottas estime que la pause d'avril sera cruciale pour les progrès de l'écurie Cadillac en F1.",
           "url": "https://www.lefigaro.fr/sports/formule-1/formule-1-bottas-assure-que-la-treve-d-avril-sera-benefique-pour-cadillac-20260321",
           "image": "https://i.f1g.fr/media/cms/orig/2026/03/21/b042dd7ddc30c7fb76a2b62eb89dc94b10f7996f40f09bfa787d215eab2eb7e4.jpg"
+        },
+        {
+          "title": "Triathlon : Baptiste Passemard brille en Chine",
+          "summary": "Belle performance pour le triathlète français Baptiste Passemard, qui confirme son potentiel en Chine.",
+          "url": "https://www.estrepublicain.fr/sport/2026/03/21/encore-une-belle-performance-pour-baptiste-passemard-en-chine",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/343EC110-089C-41ED-9014-CD4F212C3C0F/MF_contenu/encore-une-belle-performance-pour-baptiste-passemard-en-chine-1774118345.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
-      "emoji": "💡",
+      "label": "Tech & Culture Geek",
+      "emoji": "💻",
       "articles": [
         {
-          "title": "Leclerc: Son gymnase futuriste piloté par l'IA",
-          "summary": "Le pilote de F1 Charles Leclerc révèle son gymnase personnel révolutionnaire, entièrement géré par intelligence artificielle.",
+          "title": "Minecraft World : Un parc d'attractions arrive",
+          "summary": "Un parc thématique inspiré de l'univers Minecraft ouvrira ses portes au Royaume-Uni en 2027.",
+          "url": "https://www.journaldugeek.com/2026/03/21/un-parc-dattractions-minecraft-a-2-h-de-paris-arrive-tres-bientot/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/HANDOUT_Minecraft-World_2-1280x720.jpg"
+        },
+        {
+          "title": "Charles Leclerc ouvre son gymnase IA",
+          "summary": "Le pilote de F1 Charles Leclerc révèle son gymnase personnel révolutionnaire, optimisé par l'intelligence artificielle.",
           "url": "https://www.autoplus.fr/actualite/insolite/charles-leclerc-ouvre-les-portes-de-son-gymnase-controle-par-lia-1432318.html",
           "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/03/captura-de-pantalla-2026-03-21-a-las-17.52.16.png"
         },
         {
-          "title": "ESA: Le satellite Proba-3 est sauvé !",
-          "summary": "Soulagement à l'ESA : le satellite Proba-3, un temps perdu, a finalement renvoyé un signal de vie.",
-          "url": "https://www.generation-nt.com/actualites/esa-proba-3-satellite-contact-couronne-solaire-2072839",
-          "image": "https://img.generation-nt.com/proba-3-esa_01721474.jpg"
-        },
-        {
-          "title": "Astéroïde: Un sac géant pour le capturer ?",
-          "summary": "Une idée audacieuse propose de capturer les astéroïdes en utilisant un sac géant. Science-fiction ou futur ?",
-          "url": "https://www.journaldugeek.com/2026/03/21/capturer-un-asteroide-avec-un-sac-geant-une-idee-folle-pas-si-bete/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/03/transastra-1280x853.jpg"
+          "title": "Parrot décroche un contrat OTAN pour ses drones",
+          "summary": "Le français Parrot obtient ses premières commandes de l'OTAN pour ses mini-drones, signe de reconnaissance.",
+          "url": "https://www.journaldugeek.com/2026/03/21/parrot-decroche-les-premieres-commandes-de-lotan-pour-son-mini-drone/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/parrot-mini-drone-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Économie & Local",
-      "emoji": "🏘️",
+      "label": "Sport",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "Boisset-Saint-Priest: Un atelier couture créatif",
-          "summary": "L'atelier 'Au fil du Zéphyr' à Boisset-Saint-Priest fait preuve d'une grande inventivité dans la couture locale.",
-          "url": "https://www.leprogres.fr/economie/2026/03/21/au-fil-du-zephyr-un-atelier-couture-imaginatif",
-          "image": "https://cdn-s-www.leprogres.fr/images/7070B84F-42B6-4E06-8255-B0C8DF327510/MF_contenu/au-fil-du-zephyr-un-atelier-couture-imaginatif-1774118181.jpg"
+          "title": "LeBron James : Nouveau record NBA historique",
+          "summary": "Le 'King' LeBron James continue d'écrire l'histoire en battant le record de matchs joués en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/un-nouveau-record-pour-le-king-le-bron-james-s-empare-du-record-de-matchs-disputes-en-nba_AV-202603210353.html",
+          "image": "https://images.bfmtv.com/et5-W8HPt_bJMREvvfsPvvPvHt8=/0x0:2048x1152/800x0/images/LeBron-James-avec-les-Lakers-en-mars-2026-2256979.jpg"
         },
         {
-          "title": "Ménarmont: Patricia Thaller prend sa retraite",
-          "summary": "Après de bons et loyaux services, Patricia Thaller, secrétaire de mairie, a pris sa retraite à Ménarmont.",
-          "url": "https://www.vosgesmatin.fr/societe/2026/03/21/la-secretaire-de-mairie-patricia-thaller-est-partie-a-la-retraite",
-          "image": "https://cdn-s-www.vosgesmatin.fr/images/44A6663C-F2F3-4201-9001-70E667F18655/MF_contenu/la-secretaire-de-mairie-patricia-thaller-est-partie-a-la-retraite-1774118058.jpg"
+          "title": "Wembanyama mène les Spurs en playoffs",
+          "summary": "Victor Wembanyama, phénomène de la NBA, qualifie les San Antonio Spurs pour les playoffs, une première depuis 2019.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-le-short-tache-de-vin-envoie-les-san-antonio-spurs-en-play-offs-pour-la-premiere-fois-depuis-2019_AV-202603200200.html",
+          "image": "https://images.bfmtv.com/G9lcy7m1d1cj3bhI3w2y1EzXRa4=/0x83:2032x1226/800x0/images/Victor-Wembanyama-lors-du-match-entre-les-Los-Angeles-Clippers-et-les-San-Antonio-Spurs-115-119-le-16-mars-2026-2256168.jpg"
         },
         {
-          "title": "Bruyères: Apéro-rencontre pour plus d'échanges",
-          "summary": "Un apéro-rencontre est organisé à Bruyères pour favoriser les échanges et les liens au sein de la communauté.",
-          "url": "https://www.vosgesmatin.fr/societe/2026/03/21/un-apero-rencontre-pour-echanger",
-          "image": "https://cdn-s-www.vosgesmatin.fr/images/431BED50-54D5-4544-8113-AF3A1D395AE8/MF_contenu/un-apero-rencontre-pour-echanger-1774118058.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Justice & Région",
-      "emoji": "⚖️",
-      "articles": [
-        {
-          "title": "Affaire Vayrac: 30 ans de réclusion",
-          "summary": "Le jeune homme accusé du meurtre de Justine Vayrac a été condamné à 30 ans de réclusion criminelle.",
-          "url": "https://www.sudouest.fr/justice/affaire-justine-vayrac-l-accuse-condamne-a-30-ans-de-reclusion-criminelle-28388692.php"
-        },
-        {
-          "title": "Charente-Maritime: Cinq dossiers criminels jugés",
-          "summary": "La cour criminelle de Charente-Maritime jugera cinq dossiers graves incluant viols et vols avec violence.",
-          "url": "https://www.sudouest.fr/lot-et-garonne/taillebourg/viols-vol-avec-arme-vol-avec-violence-cinq-dossiers-juges-devant-la-cour-criminelle-de-charente-maritime-a- partir-de-ce-lundi-23-mars-28370487.php"
-        },
-        {
-          "title": "Procès Hambli-Thierry: Une question clé",
-          "summary": "Au cœur du procès Hambli-Thierry, une question interpelle : l'ampleur des faits aurait-elle dû alerter ?",
-          "url": "https://www.sudouest.fr/justice/proces-hambli-thierry-vous-ne-vous-etes-pas-dit-que-ce-truc-la-c-etait-un-peu-trop-gros-28373834.php"
+          "title": "Duplantis : 4e titre mondial sans record",
+          "summary": "Armand Duplantis conserve son titre mondial en salle pour la 4ème fois consécutive, confirmant sa domination.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-armand-duplantis-champion-du-monde-en-salle-pour-la-4e-fois-de-suite-sans-tenter-un-record-du-monde_AV-202603210307.html",
+          "image": "https://images.bfmtv.com/9xgF_RFVfjyPwOk1PsAekmK35uQ=/0x0:2048x1152/800x0/images/Armand-Duplantis-lors-des-Mondiaux-en-salle-le-21-mars-2026-2256941.jpg"
         }
       ]
     }
