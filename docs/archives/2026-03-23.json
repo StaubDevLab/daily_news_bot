@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Victorien",
+  "global_summary": "Le monde reste en tension maximale avec une situation explosive au Moyen-Orient. Des missiles iraniens ont mis à l'épreuve les défenses israéliennes, tandis que Téhéran menace les infrastructures énergétiques du Golfe, ravivant les craintes d'une escalade et provoquant une chute des marchés financiers. En France, les résultats des élections municipales de 2026 commencent à se dessiner, révélant de nouveaux visages politiques à l'échelle locale. \n\nDu côté de l'innovation, le secteur tech est en pleine mutation, des géants comme Steam étant confrontés à des défis légaux, aux avancées spectaculaires des véhicules électriques et du path tracing dans les jeux vidéo. L'impact grandissant de l'intelligence artificielle sur l'emploi en France est également au cœur des préoccupations. Enfin, le sport nous offre des performances exceptionnelles : LeBron James bat un nouveau record NBA, Wembanyama mène les Spurs en playoffs, et Duplantis continue de dominer l'athlétisme mondial.",
+  "running_advice": "Préparez vos baskets, champion ! C'est une journée fantastique pour courir, avec un ciel peu nuageux et des températures parfaites, de 6°C à 16.7°C, sans la moindre goutte de pluie. Votre corps va adorer ces conditions optimales. Pour une course énergisante et pour éviter le pic d'UV (indice de 5.25), je vous conseille de chausser vos sneakers entre 17h00 et 18h00, juste avant le coucher du soleil. N'oubliez pas une bonne crème solaire et des lunettes de soleil pour protéger votre peau et vos yeux ! Allez, on y va, on ne lâche rien !",
+  "weather_string": "🌤️ Peu nuageux (6°C / 16.7°C)",
+  "weather_stats": {
+    "temp": "16.7°C",
+    "rain": "0%",
+    "uv": "5.25"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Missiles iraniens : La défense israélienne mise à l'épreuve",
+          "summary": "Deux missiles iraniens ont échappé au bouclier antimissile israélien, suscitant une vive inquiétude malgré l'absence de victimes.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/deux-missiles-iraniens-echappent-a-la-defense-anti-aerienne-israelienne_7886585.html",
+          "image": "https://www.franceinfo.fr/pictures/seutLTt0PaHDGQA3jaXobj-BM7w/1200x675/2026/03/22/20h-frappes-sur-israel-69c03a9deb8d0169392914.jpg"
+        },
+        {
+          "title": "Escalade au Moyen-Orient : Téhéran menace les infrastructures énergétiques",
+          "summary": "Suite à l'ultimatum de Donald Trump, l'Iran brandit la menace de cibler les infrastructures énergétiques cruciales du Golfe.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/teheran-menace-de-viser-les-infrastructures-energetiques-du-golfe-apres-l-ultimatum-de-donald-trump_7886564.html",
+          "image": "https://www.franceinfo.fr/pictures/2uJNXsTrdW0htqxXxXK4-X30YYM/1200x675/2026/03/22/20h-ultimatum-trump-69c037228a21c005073268.jpg"
+        },
+        {
+          "title": "Bouclier antimissile fissuré : Un miracle en Israël",
+          "summary": "Des tirs iraniens ont mis à mal la défense israélienne, ne causant pas de morts par miracle, soulignant la tension extrême.",
+          "url": "https://www.la-croix.com/international/dans-le-sud-d-israel-des-tirs-iraniens-fissurent-le-bouclier-antimissile-cest-un-miracle-quil-ny-ait-pas-eu-de-morts-20260322",
+          "image": "https://i.la-croix.com/x/smart/2026/03/22/2384136-a-dimona-le-dimanche-22-mars-2026-le-missile-irani.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Municipales 2026 : David Guiraud élu maire à Roubaix",
+          "summary": "David Guiraud (LFI) prend la mairie de Roubaix avec 54% des voix, marquant un résultat notable pour le parti.",
+          "url": "https://www.lefigaro.fr/elections/municipales/resultats-elections-municipales-a-roubaix-david-guiraud-lfi-elu-maire-a-avec-54-des-voix-selon-de-premieres-estimations-20260322",
+          "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/03/22/ed78f0ddafa02f88f7ff4cd59089cd9608e3ca2c9f13fd634a5af31254d36ec7.jpg"
+        },
+        {
+          "title": "Élections municipales : Les résultats nationaux actualisés",
+          "summary": "Les premiers résultats actualisés des élections municipales de 2026 sont tombés, dessinant une nouvelle carte politique.",
+          "url": "https://lejournaldemayotte.yt/2026/03/22/resultats-des-elections-municipales-actualise/",
+          "image": "https://lejournaldemayotte.yt/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-22-at-16.20.08.jpeg"
+        },
+        {
+          "title": "Municipales 2026 : Résultats contrastés pour les personnalités sportives",
+          "summary": "D'anciennes figures du sport se sont lancées en politique, avec des fortunes diverses aux municipales de 2026.",
+          "url": "https://rmcsport.bfmtv.com/societe/municipales-2026-aulas-blanco-ferrari-micoud-lapilus-les-resultats-contrastes-des-personnalites-sportives_AV-202603160406.html",
+          "image": "https://images.bfmtv.com/U7hcbuCIhZzUfh4q2cIbk_rqcTs=/0x118:2048x1270/800x0/images/Jean-Michel-Aulas-pendant-un-match-de-l-OL-en-Ligue-1-contre-Nantes-le-30-novembre-2025-2216145.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Steam attaqué : Le monopole de Valve en question",
+          "summary": "Des millions de joueurs poursuivent Steam en justice, remettant en cause le quasi-monopole de Valve sur le marché PC.",
+          "url": "https://www.lesnumeriques.com/gaming/des-millions-de-joueurs-attaquent-steam-le-monopole-ecrasant-de-valve-sur-pc-touche-t-il-enfin-a-sa-fin-n253376.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/253376/eea01e0e-des-millions-de-joueurs-attaquent-steam-le-monopole-ecrasant-de-valve-sur-pc-touche-t-il-enfin-a-sa-fin__800_800__1380-451-4144-3215.jpg"
+        },
+        {
+          "title": "Révolution électrique : L'utilitaire qui ne s'arrête jamais",
+          "summary": "Une nouvelle technologie promet de rouler en véhicule électrique utilitaire sans besoin de recharge, une avancée majeure.",
+          "url": "https://www.automobile-magazine.fr/utilitaires-news/article/51385-rouler-en-electrique-sans-sarreter-cest-meme-possible-avec-un-utilitaire",
+          "image": "https://static.ncr.re/img/1200x675/24/24dcc4703131ea91b353f6b2eb21bc05.jpg"
+        },
+        {
+          "title": "Path Tracing : Le futur immersif du jeu vidéo",
+          "summary": "Explorez le path tracing, cette technologie révolutionnaire qui transforme la qualité graphique et le réalisme de nos jeux vidéo.",
+          "url": "https://www.frandroid.com/actualites-generales/2987549_le-path-tracing-quest-ce-que-cest-et-quest-ce-que-ca-change-dans-nos-jeux-video",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2023/10/alan-wake-2-ext-path-tracing-on.jpeg?resize=1600,900&key=9b85c1a9&watermark"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Les marchés financiers dévissent face aux tensions au Moyen-Orient",
+          "summary": "Le risque d'escalade au Moyen-Orient provoque une chute des marchés de taux, impactant l'économie mondiale.",
+          "url": "https://www.agefi.fr/news/economie-marches/les-marches-de-taux-devissent-sur-le-risque-denlisement-au-moyen-orient",
+          "image": "https://beymedias.brightspotcdn.com/a7/88/f76fc77e7b3cb101691f17914f3e/blancs-gestion-transaction-cotation-echange-bourse-lme-london-metal-exchange-photo-european-union.jpg"
+        },
+        {
+          "title": "Logement social : La SIFAG inaugure une résidence à Macouria",
+          "summary": "La SIFAG réalise sa première résidence à Macouria, un pas concret pour le logement des salariés en Guyane.",
+          "url": "https://www.franceguyane.fr/actualite/economie-consommation/action-logement-et-la-sifag-a-loeuvre-pour-le-logement-des-salaries-en-guyane-1073041.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/69c0347dec6e8941d10bcc1c/width_1000/image.jpg"
+        },
+        {
+          "title": "IA et emploi : 5 millions de postes impactés en France",
+          "summary": "L'intelligence artificielle progresse en France, soulevant des questions sur son impact potentiel sur 5 millions d'emplois.",
+          "url": "https://www.journaldugeek.com/2026/03/22/jusqua-5-millions-demplois-concernes-lia-avance-a-pas-feutres-en-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/ia-traveil-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "LeBron James bat un record de matchs en NBA",
+          "summary": "Le \"King\" LeBron James continue d'écrire l'histoire en NBA, s'emparant du record absolu de matchs disputés.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/un-nouveau-record-pour-le-king-le-bron-james-s-empare-du-record-de-matchs-disputes-en-nba_AV-202603210353.html",
+          "image": "https://images.bfmtv.com/et5-W8HPt_bJMREvvfsPvvPvHt8=/0x0:2048x1152/800x0/images/LeBron-James-avec-les-Lakers-en-mars-2026-2256979.jpg"
+        },
+        {
+          "title": "Wembanyama mène les Spurs en play-offs",
+          "summary": "Victor Wembanyama, avec un panache certain, propulse les San Antonio Spurs en play-offs pour la première fois depuis 2019.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-le-short-tache-de-vin-envoie-les-san-antonio-spurs-en-play-offs-pour-la-premiere-fois-depuis-2019_AV-202603200200.html",
+          "image": "https://images.bfmtv.com/G9lcy7m1d1cj3bhI3w2y1EzXRa4=/0x83:2032x1226/800x0/images/Victor-Wembanyama-lors-du-match-entre-les-Los-Angeles-Clippers-et-les-San-Antonio-Spurs-115-119-le-16-mars-2026-2256168.jpg"
+        },
+        {
+          "title": "Duplantis : 4e titre mondial sans record",
+          "summary": "Armand Duplantis s'impose pour la 4ème fois champion du monde en salle au saut à la perche, confirmant sa domination sans record.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-armand-duplantis-champion-du-monde-en-salle-pour-la-4e-fois-de-suite-sans-tenter-un-record-du-monde_AV-202603210307.html",
+          "image": "https://images.bfmtv.com/9xgF_RFVfjyPwOk1PsAekmK35uQ=/0x0:2048x1152/800x0/images/Armand-Duplantis-lors-des-Mondiaux-en-salle-le-21-mars-2026-2256941.jpg"
+        }
+      ]
+    }
+  ]
+}
