@@ -1,7 +1,7 @@
 {
   "ephemeride": "Sainte Karine",
-  "global_summary": "L'actualité mondiale reste focalisée sur les tensions persistantes au Moyen-Orient, où l'absence d'une insurrection espérée et les mises en garde d'Emmanuel Macron contre toute occupation ou colonisation soulignent la complexité de la situation. Parallèlement, l'Union Européenne demande des explications à Budapest concernant de possibles fuites d'informations vers la Russie, accentuant les préoccupations diplomatiques et sécuritaires. \n\nEn France, le deuil touche le monde politique avec l'émotion suscitée par la disparition de Lionel Jospin, tandis que des faits divers comme la condamnation d'un ancien gendarme pour inceste rappellent des réalités plus sombres. Le monde du sport, quant à lui, est en pleine effervescence avec les exploits de stars comme LeBron James battant de nouveaux records et l'ambition affirmée de Victor Wembanyama visant le titre de MVP. Enfin, la technologie progresse avec l'encadrement du numérique en santé, et des histoires insolites continuent de surprendre, comme celle d'une Lamborghini rachetée après regret.",
-  "running_advice": "Prêt(e) à enfiler vos baskets ? C'est une journée magnifique qui s'annonce pour votre session running ! Avec des températures agréables oscillant entre 5.9°C le matin et 18°C en journée, et un ciel peu nuageux sans aucune pluie, les conditions sont tout simplement idéales pour vous dépasser. Je vous conseille vivement de privilégier le début de matinée, juste après le lever du soleil à 06h58, ou la fin d'après-midi, avant le coucher à 19h19, pour profiter de la fraîcheur et d'une lumière douce. Attention cependant à l'indice UV de 5.4 : pensez à appliquer une crème solaire et à porter une casquette si vous courez en plein soleil ! Hydratez-vous bien et GO, donnez le meilleur de vous-même !",
+  "global_summary": "L'actualité mondiale reste tendue avec des dynamiques complexes au Moyen-Orient où l'insurrection espérée ne s'est pas concrétisée, suscitant des déclarations diplomatiques importantes. Pendant ce temps, l'Europe est confrontée à ses propres défis de sécurité, avec des soupçons de fuites d'informations vers la Russie qui interrogent la cohésion de l'UE. Ces événements soulignent la fragilité et la complexité des équilibres géopolitiques actuels.\nSur le plan national, la France fait ses adieux à une figure politique majeure, tandis que des affaires judiciaires importantes et des initiatives économiques locales rythment le quotidien. Dans le domaine sportif, les exploits s'enchaînent, avec des records battus et des ambitions affichées par les plus grands athlètes, rappelant l'esprit de dépassement constant. Ces contrastes entre défis et réussites dessinent un tableau d'ensemble à la fois complexe et inspirant.",
+  "running_advice": "Excellente nouvelle, ami(e) sportif(ve) ! C'est une journée fantastique pour enfiler vos baskets et vous dépasser. Avec des températures idéales (5.9°C à 18°C), un ciel peu nuageux et aucune pluie en vue, les conditions sont parfaites pour une session revitalisante. L'heure idéale pour votre course se situe soit tôt le matin, juste après le lever du soleil (autour de 7h-8h), soit en fin d'après-midi/début de soirée (vers 17h-18h). Attention cependant à l'indice UV de 5.4 : si vous courez aux heures intermédiaires, n'oubliez pas votre crème solaire et une casquette pour vous protéger. Allez, on bouge et on profite de cette énergie !",
   "weather_string": "🌤️ Peu nuageux (5.9°C / 18°C)",
   "weather_stats": {
     "temp": "18°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Moyen-Orient : Insurrection espérée non venue",
-          "summary": "Le Proche-Orient reste sous tension; l'insurrection attendue par certains ne s'est pas matérialisée.",
+          "title": "Moyen-Orient : l'insurrection espérée n'a pas eu lieu",
+          "summary": "Une analyse géopolitique révèle l'absence d'une insurrection régionale attendue, soulignant la complexité du conflit actuel.",
           "url": "https://www.lexpress.fr/monde/guerre-au-moyen-orient-cette-insurrection-esperee-qui-nest-pas-venue-4HOPSAVFDJHC5LBTYMWOQ3E5PM/",
-          "image": "https://www.lexpress.fr/resizer/v2/HWCABWP7HZFITDMW226FHOHZGI.JPG?auth=052c282f10939d958bd2bb31381d4b4f8f422ea40c047d5c6a1c0d8290370e99&smart=true&width=3984&height=2656"
+          "image": "https://www.lexpress.fr/resizer/v2/HWCABWP7HZFITDMW226FHOHGZI.JPG?auth=052c282f10939d958bd2bb31381d4b4f8f422ea40c047d5c6a1c0d8290370e99&smart=true&width=3984&height=2656"
         },
         {
-          "title": "Macron : Pas d'occupation au Moyen-Orient",
-          "summary": "Emmanuel Macron met en garde: sécurité non assurée par l'occupation ou la colonisation dans la région.",
+          "title": "Macron rejette occupation et colonisation au Moyen-Orient",
+          "summary": "Emmanuel Macron affirme qu'aucune occupation ne garantit la sécurité, précisant la position française sur le conflit.",
           "url": "https://www.bfmtv.com/international/moyen-orient/video-aucune-occupation-aucune-forme-de-colonisation-ne-saurait-assurer-la-securite-de-qui-que-ce-soit-assure-emmanuel-macron-a-propos-de-la-situation-au-moyen-orient_VN-202603230873.html",
           "image": "https://images.bfmtv.com/U9EX1Au3rOySL6D4ES-Ngor9YRw=/0x0:1280x720/1280x0/images/Aucune-occupation-aucune-forme-de-colonisation-ne-saurait-assurer-la-securite-de-qui-que-ce-soit-assure-Emmanuel-Macron-a-propos-de-la-situation-au-moyen-orient-2258175.jpg"
         },
         {
-          "title": "L'UE interroge Budapest sur des fuites",
-          "summary": "L'Union Européenne demande des explications à la Hongrie suite à de possibles fuites d'informations vers la Russie.",
+          "title": "L'UE interroge Budapest sur des fuites vers Russie",
+          "summary": "L'Union Européenne demande des explications à la Hongrie concernant de possibles fuites d'informations sensibles vers Moscou.",
           "url": "http://fr.euronews.com/my-europe/2026/03/23/lue-demande-a-budapest-de-sexpliquer-apres-la-revelations-de-possibles-fuites-dinformation",
           "image": "https://images.euronews.com/articles/stories/09/69/53/27/1440x810_cmsv2_7cca5800-89c0-5992-8118-d05ad46aaf54-9695327.jpg"
         }
@@ -38,20 +38,20 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Lionel Jospin : l'émotion d'un village",
-          "summary": "Le village d'Ars-en-Ré est en deuil, regrettant la perte de son ancien voisin, Lionel Jospin.",
+          "title": "Décès de Lionel Jospin : l'émotion d'un village",
+          "summary": "Le village d'Ars-en-Ré partage son émotion suite au décès de l'ancien Premier ministre Lionel Jospin, « un voisin ».",
           "url": "https://www.parismatch.com/actu/politique/mort-de-lionel-jospin-a-ars-en-re-lemotion-dun-village-qui-perd-un-voisin-266418",
           "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/03/23/19/bestimage_00113025_000011.jpg?VersionId=Q9Ok4XAPYcK8A3yNFBFBKPQi.nEGURpa"
         },
         {
-          "title": "Inceste : ancien gendarme condamné",
-          "summary": "Un ancien gendarme a été condamné par le tribunal correctionnel de Saint-Nazaire pour inceste.",
+          "title": "Inceste : un ancien gendarme condamné",
+          "summary": "Le tribunal de Saint-Nazaire a condamné un ex-gendarme pour inceste, rappelant l'importance de la justice.",
           "url": "https://actu.fr/pays-de-la-loire/saint-gildas-des-bois_44161/inceste-un-ancien-gendarme-condamne-par-le-tribunal-correctionnel-de-saint-nazaire_64043812.html",
           "image": "https://static.actu.fr/uploads/2026/03/37957a9bd75962b957a9bd759fe957v.jpg"
         },
         {
-          "title": "Balbuzards aperçus en Val de Loire",
-          "summary": "Un couple de balbuzards a été observé près du pont Val de Loire, un signe encourageant pour la biodiversité.",
+          "title": "Balbuzards aperçus près du pont Val de Loire",
+          "summary": "Un couple de balbuzards, ces magnifiques rapaces, a été observé près de Mardié, signe d'une nature préservée.",
           "url": "https://www.larep.fr/mardie-45430/actualites/un-couple-de-balbuzards-apercu-a-proximite-du-pont-val-de-loire-a-mardie_14940968/",
           "image": "https://img.centrefrance.com/L3GQ69pcXk3yauDJT32ZrmeKoAXbuQHBmgXTEU6xjZM/rs:auto:1200:800:1:0/g:sm/bG9jYWw6Ly8vMDAvMDAvMDcvNjcvODIvMjAwMDAwNzY3ODIwMA.webp"
         }
@@ -62,20 +62,20 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "CNIL et HAS encadrent le numérique santé",
-          "summary": "La CNIL et la Haute Autorité de Santé s'associent pour réguler le numérique en santé, protégeant les données.",
+          "title": "CNIL et HAS encadrent le numérique en santé",
+          "summary": "La CNIL et la Haute Autorité de santé unissent leurs forces pour sécuriser l'usage du numérique en santé.",
           "url": "https://www.generation-nt.com/actualites/cnil-has-sante-numerique-donnees-personnelles-ia-2072941",
           "image": "https://img.generation-nt.com/medecin-ordinateur_01718208.jpg"
         },
         {
-          "title": "Lamborghini Diablo : vendue puis rachetée",
-          "summary": "Après avoir vendu leur Lamborghini Diablo unique, des collectionneurs regrettent et la rachètent.",
+          "title": "Ils rachètent leur Lamborghini Diablo unique",
+          "summary": "Un couple réalise son erreur et rachète l'exceptionnelle Lamborghini Diablo qu'il avait précédemment vendue.",
           "url": "https://www.autoplus.fr/actualite/insolite/apres-avoir-vendu-une-lamborghini-diablo-unique-ils-regrettent-leur-decision-et-la-rachetent-1432567.html",
           "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/03/captura-de-pantalla-2026-03-23-a-las-18.37.57.png"
         },
         {
-          "title": "VinFast : vision rigoureuse au Canada",
-          "summary": "La conférence de VinFast souligne une stratégie solide pour sa pérennité sur le marché canadien de l'automobile.",
+          "title": "VinFast : une vision rigoureuse pour l'avenir",
+          "summary": "La conférence de VinFast révèle une stratégie rigoureuse, gage de pérennité au Canada pour le constructeur automobile.",
           "url": "http://www.businesswire.com/news/home/20260323853386/fr/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA%3D%3D",
           "image": "https://mms.businesswire.com/media/20260323853386/fr/1869049/22/V3D_Black.jpg"
         }
@@ -86,44 +86,68 @@
       "emoji": "💼",
       "articles": [
         {
-          "title": "Narbonne : former les citoyens journalistes",
-          "summary": "Un lycée de Narbonne forme les jeunes au sens critique, essentiel pour les futurs citoyens journalistes.",
+          "title": "Narbonne : un lycée forme aux citoyens journalistes",
+          "summary": "À Narbonne, un lycée innove en formant les jeunes au sens critique, essentiel pour le journalisme de demain.",
           "url": "https://www.lindependant.fr/2026/03/23/ce-lycee-de-narbonne-forme-les-citoyens-journalistes-de-demain-car-le-sens-critique-nest-pas-une-option-13289026.php",
           "image": "https://images.lindependant.fr/api/v1/images/view/69c18662bfd7425d3104532f/hd/image.jpg?v=1"
         },
         {
-          "title": "Gironde : nouvelle cave à vins Bazas",
-          "summary": "Une nouvelle cave à vins ouvre ses portes à Bazas, promettant découvertes œnologiques en Gironde.",
+          "title": "Une nouvelle cave à vins ouvre à Bazas",
+          "summary": "Nouveauté en Gironde : Bazas accueille une nouvelle cave à vins, promettant de belles découvertes gustatives.",
           "url": "https://actu.fr/nouvelle-aquitaine/bazas_33036/nouveaute-en-gironde-on-a-pousse-la-porte-de-la-nouvelle-cave-a-vins-de-bazas_64043801.html",
           "image": "https://static.actu.fr/uploads/2026/03/3dc1d32c71c9641d1d32c71c915d1dv.jpg"
         },
         {
-          "title": "Malte : 25 000€ pour abandonner sa voiture",
-          "summary": "Malte offre une prime généreuse aux jeunes conducteurs pour réduire les embouteillages en abandonnant leur voiture.",
+          "title": "Malte offre 25 000€ pour abandonner la voiture",
+          "summary": "Pour désengorger ses routes, Malte propose une prime de 25 000 euros aux jeunes renonçant à leur voiture cinq ans.",
           "url": "https://www.ladepeche.fr/2026/03/23/pour-reduire-les-embouteillages-malte-offre-25-000-euros-aux-jeunes-conducteurs-qui-abandonnent-leur-voiture-pendant-cinq-ans-13289084.php",
           "image": "https://images.ladepeche.fr/api/v1/images/view/69c18815c3f99bbfec0d0e4e/hd/image.jpg?v=1"
         }
       ]
     },
     {
-      "label": "Culture Geek",
-      "emoji": "🎮",
+      "label": "Gironde",
+      "emoji": "🍷",
+      "articles": [
+        {
+          "title": "Trafic de cocaïne démantelé Guyane-Bordeaux",
+          "summary": "Un important réseau de trafic de cocaïne entre la Guyane et Bordeaux a été démantelé par les autorités.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/un-trafic-de-cocaine-demantele-entre-la-guyane-et-bordeaux-28422199.php",
+          "image": null
+        },
+        {
+          "title": "Assises Dordogne : condamnés de Gironde libres",
+          "summary": "Deux jeunes condamnés en Gironde pour complicité de meurtre comparaissent libres aux Assises de la Dordogne.",
+          "url": "https://www.sudouest.fr/justice/assises-de-la-dordogne-les-deux-jeunes-condamnes-en-gironde-pour-complicite-de-meurtre-comparaissent-libres-28420854.php",
+          "image": null
+        },
+        {
+          "title": "Procès Hambli : 20 ans requis, Thierry relaxé",
+          "summary": "Le parquet de Bordeaux a requis 20 ans de prison contre Sofiane Hambli, demandant la relaxe pour François Thierry.",
+          "url": "https://www.sudouest.fr/justice/le-parquet-de-bordeaux-requiert-20-ans-de-prison-contre-sofiane-hambli-et-la-relaxe-pour-francois-thierry-28421965.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🤓",
       "articles": [
         {
           "title": "Vaiana live action : Dwayne Johnson choque",
-          "summary": "Dwayne Johnson en Maui pour le live-action de Vaiana suscite des réactions, au-delà de sa coiffure.",
+          "summary": "La première image de Dwayne Johnson en Maui pour le live-action de Vaiana divise déjà les internautes.",
           "url": "https://www.journaldugeek.com/2026/03/24/vaiana-live-action-dwayne-johnson-en-maui-choque-et-ce-nest-pas-quune-question-de-coiffure/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/vaiana-disney-live-action-premiere-images-1280x853.jpeg"
         },
         {
-          "title": "Mars : une étrange pyramide affole",
-          "summary": "Une mystérieuse pyramide sur Mars captive les réseaux sociaux, alimentant les théories de l'étrange.",
+          "title": "Pyramide sur Mars : le mystère affole le web",
+          "summary": "Une étrange pyramide martienne alimente les théories sur les réseaux sociaux, intriguant les internautes.",
           "url": "https://www.journaldugeek.com/2026/03/23/cette-etrange-pyramide-sur-mars-affole-les-reseaux-sociaux-de-quoi-sagit-il-vraiment/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/Pyramide-1280x853.jpg"
         },
         {
-          "title": "One Piece : remake de l'anime se précise",
-          "summary": "Le remake de l'anime One Piece est confirmé, mais son utilité divise encore les fans de l'œuvre.",
+          "title": "One Piece : un remake vraiment nécessaire ?",
+          "summary": "Le remake de l'anime One Piece se précise, suscitant le débat parmi les fans sur sa pertinence.",
           "url": "https://www.journaldugeek.com/2026/03/23/one-piece-le-remake-de-lanime-se-precise-mais-etait-ce-vraiment-necessaire/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/the-one-piece-netflix-1280x853.jpg"
         }
@@ -134,20 +158,20 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "LeBron James bat un nouveau record NBA",
-          "summary": "Le 'King' LeBron James s'empare du record de matchs disputés en NBA, marquant l'histoire du basket.",
+          "title": "LeBron James bat le record de matchs NBA",
+          "summary": "Le « King » LeBron James entre dans l'histoire en devenant le joueur avec le plus de matchs joués en NBA.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/un-nouveau-record-pour-le-king-le-bron-james-s-empare-du-record-de-matchs-disputes-en-nba_AV-202603210353.html",
           "image": "https://images.bfmtv.com/et5-W8HPt_bJMREvvfsPvvPvHt8=/0x0:2048x1152/800x0/images/LeBron-James-avec-les-Lakers-en-mars-2026-2256979.jpg"
         },
         {
-          "title": "Wembanyama vise le titre de MVP",
-          "summary": "Victor Wembanyama est clair : il veut le titre de MVP de la NBA dès cette saison, sans débat possible.",
+          "title": "Wembanyama vise le titre de MVP cette saison",
+          "summary": "Victor Wembanyama, confiant, exprime clairement son ambition de remporter le titre de MVP dès cette saison.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-je-fais-en-sorte-qu-il-n-y-ait-plus-aucun-debat-victor-wembanyama-veut-le-titre-de-mvp-des-cette-saison_AV-202603240132.html",
           "image": "https://images.bfmtv.com/gMidKL_z2xl15BoGnAHE-UfESFs=/0x0:2048x1152/800x0/images/Victor-Wembanyama-lors-du-match-Miami-San-Antonio-111-136-le-23-mars-2026-2258337.jpg"
         },
         {
-          "title": "Athlétisme : Duplantis champion du monde",
-          "summary": "Armand Duplantis décroche son 4ème titre mondial en salle, sans même tenter un record cette fois-ci.",
+          "title": "Duplantis champion du monde, sans record",
+          "summary": "Armand Duplantis décroche son 4ème titre mondial en salle à la perche, sans toutefois tenter un nouveau record.",
           "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-armand-duplantis-champion-du-monde-en-salle-pour-la-4e-fois-de-suite-sans-tenter-un-record-du-monde_AV-202603210307.html",
           "image": "https://images.bfmtv.com/9xgF_RFVfjyPwOk1PsAekmK35uQ=/0x0:2048x1152/800x0/images/Armand-Duplantis-lors-des-Mondiaux-en-salle-le-21-mars-2026-2256941.jpg"
         }
