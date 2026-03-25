@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Sainte Anne",
+  "global_summary": "Le paysage international reste en ébullition, marqué par la violence des attaques aériennes en Ukraine et la complexité de la situation en Iran, où les témoignages sont rares et le rôle de l'Europe crucial mais discret. Les questions de défense et d'armement face aux nouvelles menaces, comme les drones, sont également au cœur des préoccupations mondiales, soulignant l'urgence de l'adaptation militaire.\nEn France, l'actualité oscille entre des affaires judiciaires marquantes, les stratégies nationales contre la délinquance et les répercussions d'événements financiers internationaux, tel l'emprunt secret du Sénégal. Pendant ce temps, l'univers sportif célèbre des exploits individuels, des records établis et des avancées notables en matière de parité, offrant des points lumineux et inspirants à l'agenda du jour.",
+  "running_advice": "Aujourd'hui, chaussez vos baskets, c'est une journée fantastique pour courir et libérer votre énergie ! Avec des températures douces allant de 6.1°C à 13.4°C et un ciel majoritairement peu nuageux, les conditions sont parfaites pour une séance revitalisante. Le risque de pluie est infime (seulement 10%), vous laissant libre de vous concentrer sur vos performances. Pour optimiser votre sortie, je vous recommande la fin de matinée, entre 10h00 et 12h00, ou l'après-midi, de 16h00 à 18h00. Et attention, avec un indice UV de 4.35, n'oubliez pas une protection solaire légère et des lunettes de soleil. Hydratez-vous à fond et allez décrocher votre victoire personnelle !",
+  "weather_string": "🌤️ Peu nuageux (6.1°C / 13.4°C)",
+  "weather_stats": {
+    "temp": "13.4°C",
+    "rain": "10%",
+    "uv": "4.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Ukraine : Attaque aérienne russe d'une violence inédite",
+          "summary": "L'Ukraine subit l'une des pires attaques aériennes russes en plein jour, intensifiant le conflit.",
+          "url": "https://www.rfi.fr/fr/europe/20260324-l-ukraine-vis%C3%A9e-par-une-des-pires-attaques-a%C3%A9riennes-en-plein-jour-de-l-arm%C3%A9e-russe",
+          "image": "https://s.rfi.fr/media/display/e87dcd0a-27b1-11f1-8063-005056a97e36/w:1280/p:16x9/2026-03-24T182327Z-741185002-RC24BKAIONI8-RTRMADP-3-UKRAINE-CRISIS-ATTACK-LVIV.jpg"
+        },
+        {
+          "title": "Iran : Pourquoi si peu de témoignages ?",
+          "summary": "Les témoignages directs d'Iran sont rares, révélant un contrôle strict de l'information et des communications.",
+          "url": "https://www.franceinfo.fr/monde/iran/pourquoi-il-y-peu-de-temoignages-d-iran_7891676.html",
+          "image": "https://www.franceinfo.fr/pictures/6-i5Lmddz4ZGtVBTBp7fZJ_ITag/fit-in/1200x675/filters:upscale():fill(black)/2026/03/24/cover-insta-new-7-69c2d8ec39857455483815.jpg"
+        },
+        {
+          "title": "Drones iraniens : L'arme anti-drone manque aux Rafale",
+          "summary": "Face aux drones iraniens, les Rafale français manquent de roquettes laser, un atout défensif crucial.",
+          "url": "https://www.lopinion.fr/international/face-aux-drones-iraniens-les-roquettes-laser-larme-qui-manque-aux-rafale",
+          "image": "https://beymedias.brightspotcdn.com/c4/e7/daf141514835b28a5d3c9ec95e78/sipa-01245181-000039.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Procès 'bébés congelés' : Le 'réflexe' macabre de la mère",
+          "summary": "Le procès des 'bébés congelés' de Bédoin révèle les sombres motivations de la mère.",
+          "url": "https://www.ledauphine.com/faits-divers-justice/2026/03/24/proces-des-bebes-congeles-de-bedoin-le-macabre-reflexe-de-leur-mere",
+          "image": "https://cdn-s-www.ledauphine.com/images/1BACDA06-392B-4B7E-8CD2-7B8D05A60148/MF_contenu/proces-des-bebes-congeles-de-bedoin-le-macabre-reflexe-de-leur-mere-1774376083.jpg"
+        },
+        {
+          "title": "Trump : Guerre gagnée, position de négociation excellente",
+          "summary": "Trump estime la guerre 'gagnée' et vante une 'très bonne position de négociation' concernant l'Iran.",
+          "url": "https://fr.benzinga.com/news/france/general/le-president-trump-declare-que-cette-guerre-a-ete-gagnee-je-deteste-dire-que-nous-sommes-dans-une-tres-bonne-position-de-negociation-larabie-saoudite-les-emirats-arabes-unis-et-le-qatar-ont-ete/",
+          "image": "https://global-assets.benzinga.com/fr/2024/09/20165539/main_default.png"
+        },
+        {
+          "title": "Délincance : Nuñez veut un choc d'autorité",
+          "summary": "Laurent Nuñez propose un 'choc d'autorité' contre la délinquance, visant protoxyde et rodéos.",
+          "url": "https://www.sudouest.fr/justice/protoxyde-d-azote-rodeos-stupefiants-laurent-nunez-veut-creer-un-choc-d-autorite-contre-la-delinquance-28436061.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Sénégal : Prêt secret de 650M€ pour éviter défaut",
+          "summary": "Le Sénégal aurait secrètement emprunté 650 millions d'euros pour échapper à un défaut de paiement imminent.",
+          "url": "https://www.lefigaro.fr/flash-eco/le-senegal-a-emprunte-650-millions-d-euros-secretement-pour-eviter-un-defaut-de-paiement-selon-le-financial-times-20260324",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/03/24/27b0b7c2100ee17a5a4c524908b803e858c858637058163705ee1645a8c30bd6.jpg"
+        },
+        {
+          "title": "La Bentley de Giorgio Armani en vente",
+          "summary": "L'ancienne Bentley personnelle du styliste Giorgio Armani est mise en vente, un objet de collection unique.",
+          "url": "https://www.autoplus.fr/actualite/insolite/lancienne-bentley-de-giorgio-armani-est-en-vente-1432740.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/03/captura-de-pantalla-2026-03-24-a-las-18.01.09.png"
+        },
+        {
+          "title": "Ferrari 612 Scaglietti : Une sportive à contre-courant",
+          "summary": "Retour sur l'histoire de la Ferrari 612 Scaglietti, un modèle atypique et audacieux.",
+          "url": "https://www.autoplus.fr/destins-automobiles/ferrari-612-scaglietti-lhistoire-dune-ferrari-a-contre-courant-1432758.html",
+          "image": "https://sf2.autoplus.fr/wp-content/uploads/autoplus/2026/03/ferrari-612_scaglietti_wallpaper-2006-front_three-quarter.6e51ef14.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek & Tests",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Daredevil S2 : Toujours la meilleure série Marvel ?",
+          "summary": "La saison 2 de Daredevil Born Again est-elle toujours la meilleure série Marvel ? L'avis des experts.",
+          "url": "https://www.journaldugeek.com/critique/on-a-vu-la-saison-2-de-daredevil-born-again-est-ce-que-cest-toujours-la-meilleure-serie-marvel/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/daredevil-critique-marvel-1280x853.jpg"
+        },
+        {
+          "title": "Harry Potter : Le guide complet de la série HBO",
+          "summary": "Découvrez tout sur la future série Harry Potter de HBO : date, casting, intrigue et plus encore.",
+          "url": "https://www.journaldugeek.com/dossier/harry-potter-la-serie-est-officielle-date-intrigue-tout-savoir/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/harry-potter-tout-savoir-sur-la-serie-hbo-max-1280x853.jpg"
+        },
+        {
+          "title": "Test Suzuki e-Vitara : Surprises et défauts",
+          "summary": "Le nouveau Suzuki e-Vitara révèle des défauts, mais aussi une surprise inattendue lors de notre test.",
+          "url": "https://www.journaldugeek.com/test/test-suzuki-e-vitara-on-a-trouve-ses-gros-defauts-mais-aussi-une-surprise/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/e-Vitara-couv-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Région : Bordeaux",
+      "emoji": "🍷",
+      "articles": [
+        {
+          "title": "Bordeaux : Vol de voiture, un suspect interpellé",
+          "summary": "Un individu a été interpellé près de Bordeaux après le vol d'une voiture, l'enquête progresse.",
+          "url": "https://www.sudouest.fr/gironde/merignac/interpelle-apres-avoir-vole-une-voiture-pres-de-bordeaux-28434922.php",
+          "image": null
+        },
+        {
+          "title": "Règlement de comptes à Chantecrit devant le tribunal",
+          "summary": "Les protagonistes d'un règlement de comptes survenu à Chantecrit comparaissent devant le tribunal bordelais.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-les-acteurs-d-un-reglement-de-comptes-a-chantecrit-devant-le-tribunal-28433849.php",
+          "image": null
+        },
+        {
+          "title": "Délincance : Laurent Nuñez veut un choc d'autorité",
+          "summary": "Laurent Nuñez propose un 'choc d'autorité' contre la délinquance, visant protoxyde et rodéos.",
+          "url": "https://www.sudouest.fr/justice/protoxyde-d-azote-rodeos-stupefiants-laurent-nunez-veut-creer-un-choc-d-autorite-contre-la-delinquance-28436061.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : Objectif clair pour le titre de MVP",
+          "summary": "Victor Wembanyama affirme viser le titre de MVP, voulant 'qu'il n'y ait plus de débat' dès cette saison.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-nba-faire-en-sorte-qu-il-n-y-ait-plus-de-debat-wembanyama-clair-sur-le-titre-mvp_VN-202603240506.html",
+          "image": "https://images.bfmtv.com/XySdjuTsldZZrYcBRbEr_pRkxlI=/0x0:1280x720/800x0/images/NBA-Faire-en-sorte-qu-il-n-y-ait-plus-de-debat-Wembanyama-clair-sur-le-titre-MVP-2258640.jpg"
+        },
+        {
+          "title": "Rugby : Hollie Davidson arbitre historique en Top 14",
+          "summary": "Hollie Davidson devient la première femme à arbitrer un match de Top 14, marquant l'histoire du rugby.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/hollie-davidson-va-devenir-la-premiere-femme-a-arbitrer-un-match-de-top-14_AV-202603240975.html",
+          "image": "https://images.bfmtv.com/bny8XEMHb0RXNoqnPBNHOHlDXj0=/0x11:2048x1163/800x0/images/Hollie-Davidson-lors-de-France-Angleterre-au-Tournoi-des-6-Nations-le-14-mars-2026-2258951.jpg"
+        },
+        {
+          "title": "Athlétisme : Duplantis champion du monde pour la 4ème fois",
+          "summary": "Armand Duplantis décroche son 4ème titre mondial en salle à la perche, confirmant sa domination sans record.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-armand-duplantis-champion-du-monde-en-salle-pour-la-4e-fois-de-suite-sans-tenter-un-record-du-monde_AV-202603210307.html",
+          "image": "https://images.bfmtv.com/9xgF_RFVfjyPwOk1PsAekmK35uQ=/0x0:2048x1152/800x0/images/Armand-Duplantis-lors-des-Mondiaux-en-salle-le-21-mars-2026-2256941.jpg"
+        }
+      ]
+    }
+  ]
+}
