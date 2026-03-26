@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Sainte Larissa",
+  "global_summary": "L'actualité de ce mercredi est riche et contrastée, oscillant entre les tensions géopolitiques avec la guerre au Moyen-Orient et un rôle de l'OTAN en mutation, et des défis sociétaux majeurs en France, de la dynamique de l'emploi à l'impact des réseaux sociaux sur la jeunesse. Un verdict inédit aux États-Unis souligne d'ailleurs les enjeux d'addiction liés à ces plateformes, tandis que le Sénat français légifère sur leur accès aux mineurs.\nDans un registre plus léger, le monde du sport offre des performances inspirantes, avec Victor Wembanyama qui mène son équipe vers les sommets et les exploits du XV de France salués par la légende Jonny Wilkinson. Cependant, la résilience est également mise à l'honneur avec le témoignage poignant d'une athlète face à la maladie. Ces récits divers nous invitent à rester engagés et informés face à un monde en constante évolution.",
+  "running_advice": "Aujourd'hui, avec des températures entre 4°C et 12.6°C et un ciel peu nuageux (3% de pluie), c'est une excellente journée pour courir ! Visez l'aube (après 06h54) ou la fin d'après-midi (vers 17h-18h) pour une fraîcheur optimale. Avec un indice UV de 5.5, la protection solaire (crème, casquette) est indispensable. Profitez de ce temps idéal pour booster votre énergie !",
+  "weather_string": "🌤️ Peu nuageux (4°C / 12.6°C)",
+  "weather_stats": {
+    "temp": "12.6°C",
+    "rain": "3%",
+    "uv": "5.5"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Moyen-Orient : Bilan de la journée",
+          "summary": "Retrouvez les faits marquants de ce mercredi concernant le conflit et la situation géopolitique complexe.",
+          "url": "https://www.courrierinternational.com/article/recapitulatif-guerre-au-moyen-orient-ce-qu-il-faut-retenir-de-la-journee-du-mercredi-25-mars_242214",
+          "image": "https://focus.courrierinternational.com/2026/03/25/0/0/6000/4000/644/0/60/0/3679a89_ftp-1-hjyqjl1e3eim-2026-03-25t172509z-403700009-rc2nbkarn2up-rtrmadp-3-iran-crisis-lebanon-israel.JPG"
+        },
+        {
+          "title": "OTAN : L'Europe prend le relais des USA",
+          "summary": "Le chef du comité militaire de l'OTAN souligne l'engagement croissant des nations européennes sur d'autres fronts.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/25/giuseppe-cavo-dragone-chef-du-comite-militaire-de-l-otan-les-nations-europeennes-prennent-le-relais-des-etats-unis-chaque-fois-qu-ils-doivent-s-impliquer-sur-un-autre-front_6674268_3210.html",
+          "image": "https://img.lemde.fr/2026/03/25/394/0/5500/2750/644/322/60/0/eb7fb9d_upload-1-2mue5dgjnpqx-2026-01-22t125351z-1798718027-rc2b6jalxxz2-rtrmadp-3-ukraine-crisis-nato.JPG"
+        },
+        {
+          "title": "Aveyron : Une cavale et deux femmes tuées",
+          "summary": "L'affaire des disparitions en Aveyron révèle une cavale internationale, avec deux enfants sains et saufs.",
+          "url": "https://www.franceinfo.fr/faits-divers/une-cavale-jusqu-au-portugal-deux-enfants-sains-et-saufs-deux-femmes-tuees-ce-que-l-on-sait-de-l-affaire-des-disparitions-en-aveyron_7893839.html",
+          "image": "https://www.franceinfo.fr/pictures/ImgDk_MXX5dVlgZr5o0t7NYEQfI/1200x675/2026/03/25/maxnewsworldfive739331-1-69c42328299c0468799916.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Vidéosurveillance, clé des enquêtes",
+          "summary": "Découvrez comment la vidéosurveillance devient un outil indispensable pour résoudre de nombreuses enquêtes.",
+          "url": "https://www.tf1info.fr/high-tech/videos/videosurveillance-la-cle-pour-resoudre-les-enquetes-14620-2432367.html",
+          "image": "https://photos.tf1info.fr/images/1280/720/videosurveillance-la-cle-pour-resoudre-les-enquetes-92b245-0@1x.jpeg"
+        },
+        {
+          "title": "Réseaux sociaux : Ban aux moins de 15 ans",
+          "summary": "Le Sénat adopte l'interdiction des réseaux sociaux pour les moins de 15 ans, une mesure sociétale forte.",
+          "url": "https://www.franceguyane.fr/actualite/societe-social-emploi/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-adoptee-au-senat-1073603.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/69c42d0fd4837deae5088c75/width_1000/image.jpg"
+        },
+        {
+          "title": "Sauces : Le difficile choix",
+          "summary": "Face à une offre pléthorique, choisir la bonne sauce pour accompagner vos plats devient un vrai défi culinaire.",
+          "url": "https://www.tf1info.fr/conso/videos/video-sauces-le-plus-difficile-c-est-de-choisir-39384-2432392.html",
+          "image": "https://photos.tf1info.fr/images/1280/720/sauces-le-plus-difficile-c-est-de-choisir-60825b-0@1x.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Réseaux sociaux : Instagram et YouTube condamnés",
+          "summary": "Un verdict historique condamne Instagram et YouTube pour avoir contribué à l'addiction de leurs utilisateurs.",
+          "url": "https://www.sudouest.fr/economie/reseaux-sociaux/proces-des-reseaux-sociaux-un-verdict-inedit-condamne-instagram-et-youtube-pour-addiction-28446019.php",
+          "image": "https://media.sudouest.fr/28446019/1200x600/20251210004904-879512.jpg"
+        },
+        {
+          "title": "RED by SFR : Offres mobiles au top",
+          "summary": "Découvrez les dernières offres mobiles de RED by SFR qui bousculent le marché de la téléphonie.",
+          "url": "https://www.01net.com/bons-plans/red-by-sfr-sort-le-grand-jeu-avec-ses-offres-mobiles.html",
+          "image": "https://www.01net.com/app/uploads/2025/03/RED-by-SFR-offre-fibre-1500x900.jpg"
+        },
+        {
+          "title": "Voiture détruite par vol de catalyseur",
+          "summary": "L'insolite mésaventure d'un automobiliste dont la voiture a été saccagée par des voleurs de catalyseur.",
+          "url": "https://www.autoplus.fr/actualite/insolite/sa-voiture-est-detruite-par-des-voleurs-de-catalyseur-1432889.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/03/captura-de-pantalla-2026-03-25-a-las-17.11.30.png"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💸",
+      "articles": [
+        {
+          "title": "Emploi : Le focus du jour",
+          "summary": "Un point essentiel sur les dernières tendances et chiffres de l'emploi en France ce 25 mars.",
+          "url": "https://www.bfmtv.com/lyon/replay-emissions/bonsoir-lyon/video-le-focus-emploi-du-25-mars_VN-202603250842.html",
+          "image": "https://images.bfmtv.com/81eBVVPrhOteJMQel7qaNF-WixY=/0x0:1280x720/1280x0/images/Le-Focus-Emploi-du-25-mars-2259539.jpg"
+        },
+        {
+          "title": "Lapalud : Nouvelle boutique de vêtements",
+          "summary": "Un nouveau magasin de vêtements ouvre ses portes, dynamisant le centre du village de Lapalud.",
+          "url": "https://www.ledauphine.com/economie/2026/03/25/un-magasin-de-vetements-vient-d-ouvrir-au-centre-du-village",
+          "image": "https://cdn-s-www.ledauphine.com/images/E6BCCC80-C6EC-413B-9B9B-8D3626649F20/NW_listB/un-magasin-de-vetements-vient-d-ouvrir-au-centre-du-village-1774465031.jpg"
+        },
+        {
+          "title": "Maxime Morel, nouveau président Cuma",
+          "summary": "Maxime Morel prend les rênes de la Cuma Saint-Ferréol à Bollène, un changement clé pour l'économie locale.",
+          "url": "https://www.ledauphine.com/economie/2026/03/25/maxime-morel-est-le-nouveau-president-de-la-cuma-saint-ferreol",
+          "image": "https://cdn-s-www.ledauphine.com/images/D977CB14-9914-4897-B67A-B26BAA061BAB/NW_listB/maxime-morel-est-le-nouveau-president-de-la-cuma-saint-ferreol-1774465032.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🗺️",
+      "articles": [
+        {
+          "title": "Villeneuve-sur-Lot : L'incendiaire mis en examen",
+          "summary": "L'auteur d'un incendie à Villeneuve-sur-Lot est mis en examen pour tentative de meurtre.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/villeneuve-sur-lot-l-incendiaire-mis-en-examen-pour-tentative-de-meurtre-28444574.php",
+          "image": null
+        },
+        {
+          "title": "Béarn : Éleveurs sous tension après attaques",
+          "summary": "Plusieurs attaques contre des brebis ravivent les tensions parmi les éleveurs du Béarn.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/bearn/bearn-apres-plusieurs-attaques-contre-des-brebis-la-situation-se-tend-du-cote-des-eleveurs-28439192.php",
+          "image": null
+        },
+        {
+          "title": "Gironde : Panne de courant après incendie",
+          "summary": "Un transformateur électrique en feu prive 30 foyers de courant en Gironde.",
+          "url": "https://www.sudouest.fr/gironde/pugnac/gironde-un-transformateur-electrique-prend-feu-30-foyers-sans-courant-28447441.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture & Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Harry Potter : La série retardée",
+          "summary": "Mauvaise nouvelle pour les fans : la série tant attendue Harry Potter n'arrivera pas en 2027.",
+          "url": "https://www.journaldugeek.com/2026/03/25/la-bande-annonce-de-la-serie-harry-potter-est-enfin-la/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/harry-potter-remake-1280x853.jpg"
+        },
+        {
+          "title": "Daredevil S2 : Qui est M. Charles ?",
+          "summary": "Plongée dans l'univers de Daredevil: Born Again saison 2 pour décrypter le mystère de M. Charles.",
+          "url": "https://www.journaldugeek.com/2026/03/25/daredevil-born-again-saison-2-qui-est-m-charles-et-pourquoi-est-il-si-puissant/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/M.-Charles-1280x853.jpg"
+        },
+        {
+          "title": "Vie sur Mars : Effets irréversibles ?",
+          "summary": "Une étude révèle les potentiels effets irréversibles sur le corps humain d'une vie prolongée sur Mars.",
+          "url": "https://www.journaldugeek.com/2026/03/25/vivre-mars-effets-irreversibles-corps-etude/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/Mars-colonie-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : Les Spurs en tête !",
+          "summary": "Victor Wembanyama et les Spurs sont en pleine ascension, fonçant vers la première place à l'Ouest en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-de-wembanyama-fondent-sur-la-premiere-place-a-l-ouest_AV-202603260080.html",
+          "image": "https://images.bfmtv.com/mf0Q_TEv_nW9WwP1yvmfWPMGw4Q=/0x80:2048x1232/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-a-Memphis-98-123-le-25-mars-2026-2259628.jpg"
+        },
+        {
+          "title": "Elisa Pineau : Le combat contre le cancer",
+          "summary": "La vice-championne de France de l'heptathlon, Elisa Pineau, annonce courageusement son cancer du sein à 27 ans.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/vice-championne-de-france-de-l-heptathlon-elisa-pineau-annonce-avoir-un-cancer-du-sein-a-27-ans_AV-202603250279.html",
+          "image": "https://images.bfmtv.com/HzAU1tkMUGCjiUL00DbMPo-9A6c=/0x78:2048x1230/800x0/images/Elisa-Pineau-lors-des-Championnats-de-France-de-l-heptathlon-le-3-aout-2025-2259117.jpg"
+        },
+        {
+          "title": "XV de France : Wilkinson épaté",
+          "summary": "Jonny Wilkinson salue le XV de France, affirmant que Bielle-Biarrey et Dupont révolutionnent le rugby.",
+          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/xv-de-france-bielle-biarrey-et-dupont-sont-en-train-de-revolutionner-ce-sport-jonny-wilkinson-epate-par-le-tournoi-des-bleus_AV-202603250819.html",
+          "image": "https://images.bfmtv.com/63IKcizw-PAGTNqTttV775YdURg=/0x212:2048x1364/800x0/images/Antoine-Dupont-et-Louis-Bielle-Biarrey-lors-du-match-France-Angleterre-48-46-6-Nations-le-14-mars-2026-2256297.jpg"
+        }
+      ]
+    }
+  ]
+}
