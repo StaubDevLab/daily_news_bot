@@ -1,8 +1,8 @@
 {
   "ephemeride": "Saint Habib",
-  "global_summary": "L'actualité de ce jour est marquée par des enjeux mondiaux intenses, avec les déclarations controversées de Donald Trump sur la justice et une politique migratoire européenne jugée \"dangereuse\" qui polarise les débats. Sur le plan environnemental, la lutte contre le frelon asiatique continue de mobiliser, tandis qu'en France, la protection des vignes contre le gel est une priorité, soulignant la vulnérabilité de nos écosystèmes.\n\nParallèlement, le domaine technologique et économique met en lumière une explosion de la cybercriminalité, avec une forte hausse du hameçonnage et des arnaques bancaires, appelant à une vigilance accrue des consommateurs, déjà impactés par des hausses tarifaires comme celles de Netflix. Le sport, quant à lui, navigue entre annonces importantes du CIO concernant les athlètes transgenres, des témoignages poignants de résilience face à la maladie chez nos athlètes, et les performances éclatantes du XV de France, nous rappelant la force de l'esprit sportif.",
-  "running_advice": "Félicitations, champion(ne) ! Aujourd'hui, la météo est votre alliée pour une session de course parfaite. Avec un ciel peu nuageux, des températures douces oscillant entre 4°C et 12.3°C, et zéro pluie à l'horizon, les conditions sont optimales pour enfiler vos baskets et vous dépasser. Je vous recommande de viser le créneau de fin de matinée ou début d'après-midi, idéalement entre **10h et 16h**, pour profiter d'une luminosité agréable et des températures les plus clémentes. Attention cependant, l'indice UV de 5.65 n'est pas négligeable : n'oubliez pas votre crème solaire et une casquette pour vous protéger efficacement. C'est le moment de booster votre énergie et d'atteindre vos objectifs ! Allez, on y va !",
-  "weather_string": "🌤️ Peu nuageux (4°C / 12.3°C)",
+  "global_summary": "L'actualité du jour est marquée par des tensions politiques internationales, avec les propos virulents de Donald Trump sur la Cour Suprême et l'adoption par le Parlement européen d'une mesure controversée sur les \"hubs de retour\" pour les migrants. Ces débats soulignent les défis majeurs auxquels le monde est confronté, tout comme la lutte persistante contre le frelon asiatique. En France, la cybersécurité reste une préoccupation majeure, avec une explosion alarmante de l'hameçonnage et des fuites de données en 2025.\nMalgré ces enjeux, l'innovation et l'inspiration sont présentes. La station polaire Tara repart en mission, et le monde sportif nous offre des récits de courage, comme celui d'Elisa Pineau face à la maladie. Les décisions du CIO sur les athlètes transgenres et les exploits de Wembanyama en NBA témoignent des évolutions constantes. La résilience économique locale est aussi visible, avec la station de Réallon prolongeant sa saison de ski après un record.",
+  "running_advice": "Aujourd'hui, c'est une journée magnifique pour chausser vos baskets et vous lancer ! Avec des températures douces allant de 3.7°C à 12.3°C et un ciel peu nuageux, les conditions sont quasiment parfaites. L'absence totale de pluie est une invitation à profiter de l'extérieur. Pour tirer le meilleur parti de cette journée, je vous conseille une séance de course entre 10h00 et 16h00. Vous profiterez d'une température agréable et d'une belle luminosité. Attention cependant, l'indice UV est de 5.65 : n'oubliez pas votre crème solaire et un chapeau ou une casquette pour vous protéger du soleil. Allez, on se motive et on va chercher cette énergie !",
+  "weather_string": "🌤️ Peu nuageux (3.7°C / 12.3°C)",
   "weather_stats": {
     "temp": "12.3°C",
     "rain": "0%",
@@ -14,94 +14,142 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Trump attaque la Cour Suprême",
-          "summary": "Les propos controversés de Trump sur la Cour Suprême révèlent une vision tendue de la justice américaine.",
+          "title": "Trump critique la Cour Suprême",
+          "summary": "Les propos incisifs de Donald Trump révèlent sa vision tendue et personnelle de la justice américaine.",
           "url": "https://www.huffingtonpost.fr/international/article/ils-me-degoutent-ces-propos-de-trump-sur-la-cour-supreme-disent-beaucoup-de-son-rapport-a-la-justice_261953.html",
           "image": "https://focus.huffingtonpost.fr/2026/03/25/350/0/6718/3778/0/0/60/0/b1134d1_upload-1-yry4bymsdwvq-afp-20260324-a4kh8a6-v1-highres-uspresidentdonaldtrumpswearsinthenewsecretaryof.jpg"
         },
         {
-          "title": "Migrants : L'Europe adopte les 'hubs de retour'",
-          "summary": "Le Parlement européen valide une politique migratoire controversée, suscitant des inquiétudes sur les droits humains.",
+          "title": "L'UE approuve les hubs de retour migrants",
+          "summary": "Le Parlement européen valide une mesure controversée pour les migrants, qualifiée de \"tournant dangereux\".",
           "url": "https://www.nouvelobs.com/monde/20260326.OBS113638/un-tournant-dangereux-le-parlement-europeen-approuve-la-creation-de-hubs-de-retour-pour-migrants.html",
           "image": "https://focus.nouvelobs.com/2026/03/26/0/0/1200/800/1200/800/0/0/02f4b4c_upload-1-wtua4lhc55gx-afp-20251101-82qb3xw-v1-midres-albaniaitalymigrationpoliticsdemo.jpg"
         },
         {
-          "title": "Frelon asiatique : Une lutte sans fin ?",
-          "summary": "L'éradication du frelon asiatique, espèce nuisible, est-elle une mission possible ? Votre avis compte.",
+          "title": "Frelon asiatique : éradication possible ?",
+          "summary": "Le débat fait rage sur la faisabilité d'éliminer cette espèce invasive qui menace la biodiversité locale.",
           "url": "https://www.leprogres.fr/environnement/2026/03/26/frelon-asiatique-pensez-vous-que-l-eradication-de-cette-espece-nuisible-est-possible",
-          "image": "https://cdn-s-www.leprogres.fr/images/2483C87D-9F64-4699-9F0D-32210DE9B27/NW_listB/frelon-asiatique-pensez-vous-que-l-eradication-de-cette-espece-nuisible-est-possible-1685551857.jpg"
+          "image": "https://cdn-s-www.leprogres.fr/images/2483C87D-9F64-4699-9F0D-32210DE9B2F7/NW_listB/frelon-asiatique-pensez-vous-que-l-eradication-de-cette-espece-nuisible-est-possible-1685551857.jpg"
         }
       ]
     },
     {
-      "label": "France & Régions",
+      "label": "France",
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Gel : Vignerons en guerre contre le froid",
-          "summary": "Les vignerons français se mobilisent massivement pour protéger leurs précieuses récoltes du gel printanier.",
+          "title": "La lutte contre le gel dans les vignobles",
+          "summary": "Les viticulteurs mettent en œuvre des stratégies coûteuses pour sauver leurs précieuses récoltes du gel printanier.",
           "url": "https://www.tf1info.fr/meteo/videos/video-gel-proteger-les-vignes-a-tout-prix-82819-2432612.html",
           "image": "https://photos.tf1info.fr/images/1280/720/gel-proteger-les-vignes-a-tout-prix-22402d-0@1x.jpeg"
         },
         {
-          "title": "Tara : Nouvelle odyssée polaire",
-          "summary": "La célèbre goélette Tara repart pour une mission scientifique cruciale dans les régions polaires.",
+          "title": "La station Tara repart pour une mission polaire",
+          "summary": "La goélette scientifique Tara entame une nouvelle expédition cruciale pour l'étude des écosystèmes polaires.",
           "url": "https://www.tf1info.fr/sciences-et-innovation/videos/video-tara-nouveau-depart-pour-la-station-polaire-63515-2432625.html",
           "image": "https://photos.tf1info.fr/images/1280/720/tara-nouveau-depart-pour-la-station-polaire-8f05c2-0@1x.jpeg"
         },
         {
-          "title": "Périgord noir : La délinquance en chiffres",
-          "summary": "Analyse des données de la délinquance en Périgord noir pour 2025, un bilan local détaillé.",
-          "url": "https://www.sudouest.fr/dordogne/terrasson-lavilledieu/perigord-noir-ce-qu-il-faut-retenir-des-chiffres-de-la-delinquance-en-2025-28458021.php",
+          "title": "Meal prep : gagner du temps en cuisine",
+          "summary": "Organiser ses repas à l'avance est une astuce efficace pour optimiser son temps et manger sainement au quotidien.",
+          "url": "https://www.tf1info.fr/conso/videos/video-preparer-ses-repas-en-avance-pour-gagner-du-temps-85077-2432614.html",
+          "image": "https://photos.tf1info.fr/images/1280/720/preparer-ses-repas-en-avance-pour-gagner-du-temps-7c12d4-0@1x.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Sécurité",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Explosion de l'hameçonnage en France",
+          "summary": "Les cyberattaques par hameçonnage ont bondi de 70% en 2025, suite à une augmentation des fuites de données personnelles.",
+          "url": "https://www.bfmtv.com/tech/actualites/cybersecurite/cybersecurite-en-2025-les-francais-ont-subi-une-explosion-du-hameconnage-en-hausse-de-70-consequence-directe-d-un-doublement-des-fuites-de-donnees-par-rapport-a-2024_AD-202603260856.html",
+          "image": "https://images.bfmtv.com/x5UcUcJnD3qGqc-oI7syfT-xQkk=/0x53:1024x629/1024x0/images/Image-illustration-cybersecurite-2260212.jpg"
+        },
+        {
+          "title": "Procès d'une méga-arnaque aux faux banquiers",
+          "summary": "Des escrocs comparaissent à Paris pour une fraude de 740 000 euros, utilisant la ruse des faux conseillers bancaires.",
+          "url": "https://www.generation-nt.com/actualites/faux-conseiller-bancaire-arnaque-carte-proces-paris-ingenierie-sociale-fraude-spoofing-2073158",
+          "image": "https://img.generation-nt.com/carte-paiement-ordinateur_04B002A301700977.webp"
+        },
+        {
+          "title": "Banque en ligne : la meilleure offre ?",
+          "summary": "Découvrez les banques en ligne qui combinent absence de frais, cash-back et rémunération du compte courant.",
+          "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/aucun-frais-du-saveback-et-un-compte-courant-qui-remunere-quelle-banque-en-ligne-fait-mieux_AB-202603260007.html",
+          "image": "https://images.bfmtv.com/gK5CoYYCJoq089stgi9bFbzADC8=/0x106:2048x1258/2048x0/images/Meilleure-banque-en-ligne-gratuite-comment-la-choisir-et-sur-quels-criteres-2102035.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Régions",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Saison record : Réallon prolonge le ski",
+          "summary": "La station de Réallon fête une saison hivernale exceptionnelle et étend son ouverture grâce à la fréquentation.",
+          "url": "https://www.ledauphine.com/economie/2026/03/26/grace-a-une-saison-record-la-station-de-reallon-prolonge-la-glisse",
+          "image": "https://cdn-s-www.ledauphine.com/images/7CFF7870-6083-4C84-B6AB-87C328FD4BBD/NW_listB/grace-a-une-saison-record-la-station-de-reallon-prolonge-la-glisse-1774551386.jpg"
+        },
+        {
+          "title": "Véronique Sarselli élue présidente de Lyon",
+          "summary": "Un nouveau visage à la tête de la Métropole de Lyon, avec l'élection de Véronique Sarselli.",
+          "url": "https://www.bfmtv.com/lyon/replay-emissions/lyon-politiques/video-lyon-politiques-veronique-sarselli-elue-presidente-de-la-metropole-de-lyon_VN-202603260857.html",
+          "image": "https://images.bfmtv.com/QHtBNUFdyAywpQ78ueMUoAqGl9E=/0x0:1280x720/1280x0/images/Lyon-Politiques-Veronique-Sarselli-elue-presidente-de-la-Metropole-de-Lyon-2260256.jpg"
+        },
+        {
+          "title": "Pays basque : lourdes peines pour trafiquants",
+          "summary": "Sept membres d'un réseau de trafiquants bayonnais ont été condamnés à de la prison ferme.",
+          "url": "https://www.sudouest.fr/faits-divers/pays-basque-sept-trafiquants-d-un-meme-reseau-bayonnais-28456595.php",
           "image": null
         }
       ]
     },
     {
-      "label": "Tech, Économie & Société",
-      "emoji": "💡",
+      "label": "Sports",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "Cyber : Explosion du hameçonnage en France",
-          "summary": "La France subit une hausse fulgurante de 70% du phishing en 2025. Restez vigilant face aux cybermenaces !",
-          "url": "https://www.bfmtv.com/tech/actualites/cybersecurite/cybersecurite-en-2025-les-francais-ont-subi-une-explosion-du-hameconnage-en-hausse-de-70-consequence-directe-d-un-doublement-des-fuites-de-donnees-par-rapport-a-2024_AD-202603260856.html",
-          "image": "https://images.bfmtv.com/x5UcUcJnD3qGqc-oI7syfT-xQkk=/0x53:1024x629/1024x0/images/Image-illustration-cybersecurite-2260212.jpg"
-        },
-        {
-          "title": "Banque en ligne : Quelle est la meilleure offre ?",
-          "summary": "Frais réduits, saveback, compte rémunéré : découvrez la banque en ligne la plus compétitive du marché.",
-          "url": "https://www.bfmtv.com/tech/bons-plans/banque-en-ligne/aucun-frais-du-saveback-et-un-compte-courant-qui-remunere-quelle-banque-en-ligne-fait-mieux_AB-202603260007.html",
-          "image": "https://images.bfmtv.com/gK5CoYYCJoq089stgi9bFbzADC8=/0x106:2048x1258/2048x0/images/Meilleure-banque-en-ligne-gratuite-comment-la-choisir-et-sur-quels-criteres-2102035.jpg"
-        },
-        {
-          "title": "Netflix : Tarifs en hausse, abonnés illégaux",
-          "summary": "L'augmentation des prix de Netflix pousse de nombreux abonnés vers des solutions de streaming illégales.",
-          "url": "https://www.journaldugeek.com/2026/03/27/netflix-augmente-encore-ses-tarifs-les-abonnes-se-tournent-vers-des-solutions-illegales/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/01/Netflix-telecommande-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Sport & Bien-être",
-      "emoji": "🏋️‍♀️",
-      "articles": [
-        {
-          "title": "JO : Le CIO interdit les athlètes transgenres",
-          "summary": "Le CIO durcit ses règles pour les JO 2028, interdisant les athlètes transgenres et rétablissant les tests.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-olympiques-le-cio-interdit-les-athletes-transgenres-et-retablit-les-tests-de-feminite-avant-los-angeles-2028_AV-202603260602.html",
-          "image": "https://images.bfmtv.com/OH1-uv0gkWODjI2Yw_9Cc_h-C6E=/0x29:2048x1181/800x0/images/Imane-Khelif-lors-de-sa-victoire-aux-Jeux-olympiques-de-Paris-le-9-aout-2024-1917636.jpg"
-        },
-        {
-          "title": "Elisa Pineau : La championne face au cancer",
-          "summary": "Vice-championne de France d'heptathlon, Elisa Pineau annonce son combat courageux contre le cancer du sein à 27 ans.",
+          "title": "Elisa Pineau révèle son cancer",
+          "summary": "La vice-championne de France d'heptathlon, Elisa Pineau, partage son combat contre un cancer du sein à 27 ans.",
           "url": "https://rmcsport.bfmtv.com/athletisme/vice-championne-de-france-de-l-heptathlon-elisa-pineau-annonce-avoir-un-cancer-du-sein-a-27-ans_AV-202603250279.html",
           "image": "https://images.bfmtv.com/HzAU1tkMUGCjiUL00DbMPo-9A6c=/0x78:2048x1230/800x0/images/Elisa-Pineau-lors-des-Championnats-de-France-de-l-heptathlon-le-3-aout-2025-2259117.jpg"
         },
         {
-          "title": "XV de France : Dupont et Bielle-Biarrey éblouissent",
-          "summary": "Jonny Wilkinson salue l'impact révolutionnaire de Dupont et Bielle-Biarrey sur le rugby français. Exceptionnel !",
-          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/xv-de-france-bielle-biarrey-et-dupont-sont-en-train-de-revolutionner-ce-sport-jonny-wilkinson-epate-par-le-tournoi-des-bleus_AV-202603250819.html",
-          "image": "https://images.bfmtv.com/63IKcizw-PAGTNqTttV775YdURg=/0x212:2048x1364/800x0/images/Antoine-Dupont-et-Louis-Bielle-Biarrey-lors-du-match-France-Angleterre-48-46-6-Nations-le-14-mars-2026-2256297.jpg"
+          "title": "JO : CIO bannit athlètes transgenres",
+          "summary": "Le CIO révise sa politique, interdisant les athlètes transgenres et rétablissant les tests de féminité pour les JO 2028.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-olympiques-le-cio-interdit-les-athletes-transgenres-et-retablit-les-tests-de-feminite-avant-los-angeles-2028_AV-202603260602.html",
+          "image": "https://images.bfmtv.com/OH1-uv0gkWODjI2Yw_9Cc_h-C6E=/0x29:2048x1181/800x0/images/Imane-Khelif-lors-de-sa-victoire-aux-Jeux-olympiques-de-Paris-le-9-aout-2024-1917636.jpg"
+        },
+        {
+          "title": "Wembanyama et les Spurs visent le sommet",
+          "summary": "Les San Antonio Spurs, menés par Wembanyama, réalisent une remontée spectaculaire en NBA et se rapprochent de la 1ère place.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-de-wembanyama-fondent-sur-la-premiere-place-a-l-ouest_AV-202603260080.html",
+          "image": "https://images.bfmtv.com/mf0Q_TEv_nW9WwP1yvmfWPMGw4Q=/0x80:2048x1232/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-a-Memphis-98-123-le-25-mars-2026-2259628.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Geek & Culture",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Netflix : hausses de prix, abonnés piratent",
+          "summary": "Face à l'augmentation continue des tarifs, de nombreux abonnés Netflix se tournent vers des alternatives illégales.",
+          "url": "https://www.journaldugeek.com/2026/03/27/netflix-augmente-encore-ses-tarifs-les-abonnees-se-tournent-vers-des-solutions-illegales/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/01/Netflix-telecommande-1280x853.jpg"
+        },
+        {
+          "title": "Ukraine : des exosquelettes pour les soldats",
+          "summary": "Des technologies d'exosquelettes sont expérimentées sur le front ukrainien pour soutenir et soulager les troupes.",
+          "url": "https://www.journaldugeek.com/2026/03/26/guerre-en-ukraine-des-exosquelettes-testes-en-premiere-ligne-pour-soulager-les-soldats/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Soldat-ukrainien-1280x853.jpg"
+        },
+        {
+          "title": "Série Harry Potter : les différences révélées",
+          "summary": "Les premières images du remake de la série Harry Potter dévoilent déjà des divergences notables avec les films.",
+          "url": "https://www.journaldugeek.com/dossier/les-differences-majeures-entre-la-serie-harry-potter-et-les-films-ce-que-les-images-revelent-deja-du-remake/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/harry-potter-quidditch-tenues-differences-1280x853.jpg"
         }
       ]
     }
