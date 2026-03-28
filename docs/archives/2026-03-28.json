@@ -1,0 +1,166 @@
+{
+  "ephemeride": "Saint Gontran",
+  "global_summary": "La journée s'annonce riche en actualités, mêlant les défis géopolitiques mondiaux aux préoccupations économiques nationales. La crise au Moyen-Orient continue de s'intensifier, avec l'Iran menaçant de bloquer le détroit d'Ormuz, une situation qui résonne jusqu'en Ukraine, complexifiant davantage le conflit. En France, la hausse des prix du carburant pousse le gouvernement à annoncer des aides ciblées, tandis que les transporteurs expriment leur mécontentement, illustrant la pression économique actuelle. Des affaires judiciaires, comme une vaste arnaque bancaire, soulignent aussi des enjeux de société. \n\nSur un ton plus léger, le monde de la technologie s'intéresse à l'IA et aux véhicules électriques, tandis que la culture geek se projette vers de nouveaux films attendus. Le sport, quant à lui, navigue entre performances attendues avec Wembanyama et des récits poignants de résilience, comme l'annonce du cancer d'Elisa Pineau. C'est une mosaïque d'événements qui nous rappelle la complexité et la diversité du monde qui nous entoure.",
+  "running_advice": "Aujourd'hui, Saint Gontran nous apporte un défi rafraîchissant pour votre run ! Avec 98% de chance de pluie et des températures oscillant entre 5.4°C et 13.4°C, il est clair que la motivation sera votre meilleur allié. N'ayez crainte, une averse n'a jamais arrêté un vrai champion ! Habillez-vous en conséquence avec une couche imperméable et des vêtements techniques pour rester au sec et au chaud. L'indice UV de 5.1 est notable pour une journée pluvieuse, donc même si les nuages sont là, une légère protection solaire (crème ou casquette) est conseillée pour les peaux sensibles. Le créneau idéal pour profiter de la lumière du jour et éviter les fortes pluies semble être en milieu de journée, **entre 12h00 et 14h00**, où la température sera la plus clémente. Transformez ce temps gris en opportunité de vous surpasser, car chaque goutte de pluie est une raison de plus de sentir la puissance de votre corps !",
+  "weather_string": "🌧️ Pluie (5.4°C / 13.4°C)",
+  "weather_stats": {
+    "temp": "13.4°C",
+    "rain": "98%",
+    "uv": "5.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Immigration et Mondialisation: Une Relation Complexée",
+          "summary": "Un économiste décrypte comment l'immigration est rendue responsable de problèmes liés au rejet de la mondialisation.",
+          "url": "https://www.lemonde.fr/international/article/2026/03/27/el-mouhoub-mouhoud-economiste-on-rend-l-immigration-responsable-de-problemes-lies-au-rejet-de-la-mondialisation_6674679_3210.html",
+          "image": "https://img.lemde.fr/2026/03/27/310/0/3720/1860/644/322/60/0/d996f13_upload-1-1gnfgilzqcux-2020-4-1-a.jpg"
+        },
+        {
+          "title": "Détroit d'Ormuz : L'Iran Manœuvre Géoéconomique",
+          "summary": "En pleine guerre, l'Iran menace de bloquer le détroit d'Ormuz, une arme potentielle aux conséquences mondiales.",
+          "url": "https://www.rfi.fr/fr/podcasts/accents-du-monde/20260327-guerre-au-moyen-orient-le-d%C3%A9troit-d-ormuz-bloqu%C3%A9-par-l-iran-une-arme-g%C3%A9o%C3%A9conomique",
+          "image": "https://s.rfi.fr/media/display/a9cdcf52-1d6a-11f1-868c-005056bfb2b6/w:1280/p:16x9/2026-03-11T155526Z-494624930-RC2B2KA40MAJ-RTRMADP-3-IRAN-CRISIS-MINES.jpg"
+        },
+        {
+          "title": "Guerre au Moyen-Orient : Impact sur l'Ukraine",
+          "summary": "Le conflit en cours au Moyen-Orient complexifie dangereusement le soutien et la situation de l'Ukraine.",
+          "url": "https://www.la-croix.com/international/comment-la-guerre-au-moyen-orient-complique-le-combat-de-l-ukraine-20260327",
+          "image": "https://i.la-croix.com/x/smart/2026/03/27/2391263-volodymyr-zelensky-s-est-rendu-en-arabie-saoudite-.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Vaste Arnaque Bancaire : Des Milliers Envolés",
+          "summary": "Un procès révèle une escroquerie massive aux faux conseillers bancaires, causant des pertes considérables.",
+          "url": "https://www.la-croix.com/societe/j-ai-ete-debite-de-17-414-au-tribunal-de-paris-une-vaste-arnaque-aux-faux-conseillers-bancaires-20260327",
+          "image": "https://i.la-croix.com/x/smart/2026/03/27/2391264-cette-escroquerie-aux-faux-conseillers-bancaires-a.jpg"
+        },
+        {
+          "title": "Appel à Témoins : Kyara, 14 Ans, Disparue",
+          "summary": "La police lance un appel urgent pour retrouver Kyara, une adolescente portée disparue à La Seyne-sur-Mer.",
+          "url": "https://www.midilibre.fr/2026/03/27/disparition-inquietante-de-kyara-a-la-seyne-sur-mer-un-appel-a-temoins-lance-pour-retrouver-ladolescente-de-14-ans-13296532.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/69c6cf2effb4810acc03d9d5/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Marco Rubio à Paris pour l'Iran",
+          "summary": "Le sénateur américain Marco Rubio tente d'influencer la position européenne sur le dossier iranien depuis Paris.",
+          "url": "https://www.lefigaro.fr/international/a-paris-marco-rubio-tente-d-inflechir-la-position-europeenne-sur-l-iran-20260327",
+          "image": "https://i.f1g.fr/media/cms/2999x1687_crop/2026/03/27/4a66e40bdba96600b08e750156b316a8fda6a9f5adf03efa3329e4ab88e48a34.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Technologie",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Ford Transit City : L'Électrique Abordable",
+          "summary": "Le nouveau fourgon électrique de Ford surprend par son prix, mais sacrifie un atout majeur en Europe.",
+          "url": "https://www.automobile-magazine.fr/utilitaires-news/article/51447-ford-transit-city-le-fourgon-electrique-abordable-qui-fait-limpasse-sur-un-argument-essentiel-en-europe",
+          "image": "https://static.ncr.re/img/1200x675/ef/ef34d090f78ac2b325ced5a904d91d1d.jpg"
+        },
+        {
+          "title": "IA et Musique : Le Jugement Qui Fait Débat",
+          "summary": "Une décision judiciaire relance les discussions sur l'impact de l'intelligence artificielle dans l'édition phonographique.",
+          "url": "https://www.sudouest.fr/justice/edition-phonographique-un-jugement-qui-rouvre-le-debat-sur-l-intelligence-artificielle-et-la-musique-28476700.php"
+        },
+        {
+          "title": "Pourquoi \"Artemis\" pour le Programme Lunaire ?",
+          "summary": "Découvrez l'origine du nom \"Artemis\" choisi par la NASA pour son ambitieux programme de retour sur la Lune.",
+          "url": "https://www.journaldugeek.com/2026/03/27/pourquoi-nasa-choisi-baptiser-programme-artemis/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Artemis-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Carburants : 70 Millions d'Aides Ciblées",
+          "summary": "Le gouvernement débloque 70 millions d'euros d'aides ciblées pour faire face à la hausse des prix des carburants.",
+          "url": "https://www.la-croix.com/carburants-le-gouvernement-promet-des-aides-ciblees-20260327",
+          "image": "https://i.la-croix.com/x/smart/2026/03/27/2391203-le-ministre-de-l-economie-et-des-finances-roland-l.jpg"
+        },
+        {
+          "title": "Carburant : Les Transporteurs en Colère",
+          "summary": "À Toulouse, les transporteurs manifestent contre l'explosion du coût du carburant, avec des surcoûts records.",
+          "url": "https://www.ladepeche.fr/2026/03/27/le-surcout-est-de-1-500-euros-par-mois-et-par-camion-les-transporteurs-manifestent-mercredi-a-toulouse-contre-la-hausse-du-prix-du-carburant-13296394.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/69c6cce5184663fdaa063c0c/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Bpifrance : Prêts \"Hausse Carburant\"",
+          "summary": "Des prêts spécifiques de 50 000 euros seront disponibles via Bpifrance pour les entreprises impactées par le coût du carburant.",
+          "url": "https://www.lesechos.fr/industrie-services/energie-environnement/crise-de-lenergie-des-aides-de-20-centimes-par-litre-pour-les-transporteurs-et-les-pecheurs-les-plus-en-difficulte-2223521",
+          "image": "https://media.lesechos.com/api/v1/images/view/69c6ca27629175f2100974c4/1280x720/01801873635602-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Pau : Alerte Maltraitances au Nid Béarnais",
+          "summary": "Un collectif de parents dénonce des maltraitances et dangers au sein de la crèche \"Le Nid Béarnais\" à Pau.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/pau-un-collectif-de-parents-alerte-sur-des-maltraitances-et-la-mise-en-danger-d-enfants-au-nid-bearnais-28466939.php"
+        },
+        {
+          "title": "Menaces Post-Accident : Prison Ferme",
+          "summary": "Un homme écope de prison ferme pour avoir menacé les amis de sa belle-fille, décédée en Lot-et-Garonne.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/prison-ferme-apres-avoir-menace-de-mort-les-amis-de-sa-belle-fille-decedee-dans-un-accident-de-la-route-en-lot-et-garonne-28457472.php"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Super Mario Galaxy : Le Film Arrive",
+          "summary": "Toutes les informations clés sur le très attendu film \"Super Mario Galaxy\" : date, casting, intrigue.",
+          "url": "https://www.journaldugeek.com/2026/03/28/super-mario-galaxy-le-film-date-de-sortie-casting-intrigue-tout-savoir-sur-le-film/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/super-mario-galaxy-le-film-tout-savoir-1280x853.jpg"
+        },
+        {
+          "title": "Ryan Gosling : Nouveau Projet Majeur",
+          "summary": "Après \"Projet Dernière Chance\", Ryan Gosling rejoint le casting d'un film très attendu par le public.",
+          "url": "https://www.journaldugeek.com/2026/03/27/apres-projet-derniere-chance-ryan-gosling-rejoint-un-film-tres-attendu/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/critique-projet-derniere-chance-5-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama en Direct : Spurs vs Bucks",
+          "summary": "Ne manquez pas le match NBA de Wembanyama : horaire et chaîne TV pour suivre les Spurs contre les Bucks.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/spurs-bucks-a-quelle-heure-et-sur-quelle-chaine-tv-regarder-le-match-nba-de-wembanyama-en-direct_AN-202603280022.html",
+          "image": "https://images.bfmtv.com/giHgfaH288N-gaR3MkoHTdxdUQw=/0x0:1600x900/800x0/images/Spurs-Bucks-a-quelle-heure-et-sur-quelle-chaine-TV-regarder-le-match-nba-de-wembanyama-en-direct-2259408.jpg"
+        },
+        {
+          "title": "Elisa Pineau : Lutte Contre le Cancer",
+          "summary": "La vice-championne de France d'heptathlon, Elisa Pineau, révèle son diagnostic de cancer du sein à 27 ans.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/vice-championne-de-france-de-l-heptathlon-elisa-pineau-annonce-avoir-un-cancer-du-sein-a-27-ans_AV-202603250279.html",
+          "image": "https://images.bfmtv.com/HzAU1tkMUGCjiUL00DbMPo-9A6c=/0x78:2048x1230/800x0/images/Elisa-Pineau-lors-des-Championnats-de-France-de-l-heptathlon-le-3-aout-2025-2259117.jpg"
+        },
+        {
+          "title": "Stephen Curry Chausse Decathlon !",
+          "summary": "Surprise en NBA : Stephen Curry, superstar du basket, apparaît avec des chaussures de la marque Decathlon.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-surprise-stephen-curry-s-affiche-avec-des-chaussures-decathlon_AV-202603260858.html",
+          "image": "https://images.bfmtv.com/wOSEK891sF0s2MNVP_xmPYWP8o8=/0x55:2048x1207/800x0/images/Stephen-Curry-face-a-Portland-le-14-decembre-2025-2201021.jpg"
+        }
+      ]
+    }
+  ]
+}
