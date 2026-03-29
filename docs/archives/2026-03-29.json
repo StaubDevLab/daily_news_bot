@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Sainte Gwladys",
+  "global_summary": "L'actualité de ce jour nous plonge dans un mélange captivant de défis géopolitiques et de prouesses sportives. Les tensions mondiales persistent, avec les services de renseignement préoccupés par les messageries chiffrées et les critiques envers la politique étrangère américaine. Pendant ce temps, la tech navigue entre bonnes affaires et questions légales, tandis que l'actualité locale se dessine entre événements communautaires et faits divers. \n\nSur le front sportif, la NBA est en pleine effervescence avec les exploits de Victor Wembanyama et un moment historique pour LeBron et Bronny James. Les histoires humaines touchent également, comme l'annonce courageuse d'une athlète de son combat contre le cancer. Cette diversité d'informations nous rappelle la richesse et la complexité d'un monde en constante évolution, entre enjeux majeurs et moments de vie quotidiens.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets, champion(ne) ! Avec des températures allant de 4.6°C à 12.8°C et un ciel \"peu nuageux\", les conditions sont parfaites pour une session revigorante. Pour éviter l'indice UV modéré à élevé (5.55), je te recommande de viser ta course tôt le matin, juste après le lever du soleil à 07:48, ou en fin d'après-midi/début de soirée avant le coucher à 20:26. N'oublie pas la crème solaire, une casquette et des lunettes de soleil pour te protéger efficacement. Alors, prêt(e) à te dépasser et à faire le plein d'énergie ?",
+  "weather_string": "🌤️ Peu nuageux (4.6°C / 12.8°C)",
+  "weather_stats": {
+    "temp": "12.8°C",
+    "rain": "0%",
+    "uv": "5.55"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Messageries chiffrées : les services de renseignement inquiets",
+          "summary": "La popularité des messageries sécurisées comme WhatsApp pose des défis croissants aux agences de renseignement mondiales.",
+          "url": "https://www.franceinfo.fr/replay-radio/nouveau-monde/whatsapp-signal-telegram-ces-messageries-grand-public-inquietent-les-services-de-renseignement_7867244.html",
+          "image": "https://www.franceinfo.fr/pictures/MmMDbtI0in2mo3CjOPcwqGXk8R8/1200x675/2026/03/28/69c8231d44ba9255885463.jpg"
+        },
+        {
+          "title": "Iran : les conseillers de Trump sous le feu des critiques",
+          "summary": "Des experts mettent en garde contre le manque d'expertise sur le Moyen-Orient au sein de l'entourage de Trump.",
+          "url": "https://www.lepoint.fr/monde/guerre-en-iran-trump-est-entoure-de-beni-oui-oui-qui-nont-aucune-connaissance-serieuse-du-moyen-FOHIFIWHENAAHHPRV5UBIMTZ2A/",
+          "image": "https://www.lepoint.fr/resizer/v2/4B7PG7UOIZOCNBPQO434JLM2WM.jpg?auth=b13e6ff6c46ed8df6e0522bf4a5e562f302d14026c18f9fdd858b04ffd850985&smart=true&width=1200&height=900"
+        },
+        {
+          "title": "Auberges de jeunesse : une expérience à tenter ?",
+          "summary": "Un sondage interroge sur l'expérience des séjours en auberge de jeunesse, un mode de voyage unique.",
+          "url": "https://www.leprogres.fr/societe/2026/03/28/avez-vous-deja-sejourne-dans-une-auberge-de-jeunesse",
+          "image": "http://cdn-files.prsmedia.fr/files/LPR/fr/images/LPR_placeholder.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "L'essentiel de l'actu avec Yves Calvi",
+          "summary": "Retrouvez le résumé des actualités marquantes de la journée dans l'émission d'Yves Calvi.",
+          "url": "https://www.tf1info.fr/replay-lci/videos/video-18h-yves-calvi-du-samedi-28-mars-2026-2432949.html",
+          "image": "https://photos.tf1info.fr/images/1280/720/18h-yves-calvi-du-samedi-28-mars-2026-077ff0-0@1x.jpeg"
+        },
+        {
+          "title": "Isabelle Mergault : révélations de Gérard Jugnot",
+          "summary": "Gérard Jugnot partage des confidences sur la disparition d'Isabelle Mergault, émouvant le public.",
+          "url": "https://www.planet.fr/people-mort-disabelle-mergault-les-revelations-de-gerard-jugnot.2995890.21141.html",
+          "image": "https://www.planet.fr/sites/default/files/styles/pano_xxl/public/2026-03/ABACA_668955_011%20%281%29-20260328195739-725829c9.jpg.webp?itok=feyb4xyq"
+        },
+        {
+          "title": "Montargis en fête : la foire bat son plein",
+          "summary": "La foire de Montargis célèbre ses 70 ans avec un programme riche, attirant la foule jusqu'à dimanche.",
+          "url": "https://www.larep.fr/montargis-45200/loisirs/la-foire-fete-ses-70-ans-il-fallait-que-je-le-tente-a-montargis-la-grande-fete-du-printemps-bat-son-plein-jusqu-a-dimanche-29-mars_14945063/",
+          "image": "https://img.centrefrance.com/OqiGXe4CWOH0KN9dm0Mn3iQHz-BM4Ki4fOi1WXnjFJg/rs:auto:1200:800:1:0/g:sm/bG9jYWw6Ly8vMDAvMDAvMDcvNjgvMjcvMjAwMDAwNzY4MjczNQ.webp"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Écouteurs JBL à prix choc chez Electro Dépôt",
+          "summary": "Une offre exceptionnelle sur les écouteurs JBL fait sensation, une potentielle erreur de prix à saisir vite.",
+          "url": "https://www.bfmtv.com/tech/bons-plans/cet-arrivage-electro-depot-ressemble-a-une-erreur-de-prix-les-ecouteurs-jbl-cartonnent_AB-202603280028.html",
+          "image": "https://images.bfmtv.com/jzn7PTKIE0pxWv-aMODx0R8REnQ=/0x0:1600x900/1600x0/images/Electro-Depot-offres-2250461.jpg"
+        },
+        {
+          "title": "Téléphone-GPS au volant : la justice condamne",
+          "summary": "Une conductrice écope d'une amende pour usage de son smartphone comme GPS, rappelant la loi.",
+          "url": "https://www.autoplus.fr/actualite/insolite/elle-utilisait-son-telephone-comme-gps-la-justice-la-condamne-1433656.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/03/captura-de-pantalla-2026-03-28-a-las-19.23.35.png"
+        },
+        {
+          "title": "Écran gaming OLED à prix réduit chez Boulanger",
+          "summary": "Une affaire à ne pas manquer sur un écran gaming OLED ultra-performant, disponible avec une belle remise.",
+          "url": "https://www.frandroid.com/bons-plans/3040965_cet-ecran-gaming-oled-240-hz-003-ms-equipe-de-lambiglow-peut-se-trouver-pour-130-euros-de-moins-chez-boulanger",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2025/03/philips-evnia-27m2n8500-ecran-allume-scaled.jpg?resize=1600,900&key=a3cb3873&watermark"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Local",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Vagney : Décès d'Yvonne Gremillet",
+          "summary": "La communauté de Vagney est en deuil suite au décès d'Yvonne Gremillet, une figure locale.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/03/28/deces-d-yvonne-gremillet",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/9487CA50-A603-4241-9D56-C3B197796EEA/NW_listB/deces-d-yvonne-gremillet-1774723798.jpg"
+        },
+        {
+          "title": "La Bresse : le moto club en pleine forme",
+          "summary": "Le moto club La Bressaude affiche une vitalité impressionnante, preuve d'une association dynamique.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/03/28/le-moto-club-la-bressaude-est-plus-en-forme-que-jamais",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/727FAA34-5D6C-4795-9603-515693436CF8/NW_listB/le-moto-club-la-bressaude-est-plus-en-forme-que-jamais-1774723796.jpg"
+        },
+        {
+          "title": "Torreilles : la plage s'invite au village",
+          "summary": "Une initiative originale fait venir l'ambiance balnéaire au cœur de Torreilles, pour le plaisir de tous.",
+          "url": "https://www.lindependant.fr/2026/03/28/quand-la-plage-sinvite-au-village-a-torreilles-13297928.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/69c81e151b0334f32104a693/hd/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Gironde : Faits Divers",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Assassinat de Mehdi Kessaci : six écroués",
+          "summary": "Six individus ont été mis en examen et écroués suite à l'assassinat de Mehdi Kessaci à Marseille.",
+          "url": "https://www.sudouest.fr/faits-divers/assassinat-de-mehdi-kessaci-a-marseille-six-personnes-mises-en-examen-et-ecrouees-28492279.php",
+          "image": null
+        },
+        {
+          "title": "Loge Athanor : procès pour affaire criminelle",
+          "summary": "Des membres d'une loge maçonnique font face aux assises pour une affaire criminelle complexe et tentaculaire.",
+          "url": "https://www.sudouest.fr/justice/francs-macons-barbouzes-et-dgse-des-membres-de-la-loge-athanor-devant-les-assises-28456634.php",
+          "image": null
+        },
+        {
+          "title": "Braqueur de tabac : \"Je m'excuse vraiment\"",
+          "summary": "L'auteur du braquage d'un bureau de tabac en Charente-Maritime exprime de sincères regrets devant la justice.",
+          "url": "https://www.sudouest.fr/charente-maritime/saint-savinien/charente-maritime-le-braqueur-du-bureau-de-tabac-de-taillebourg-s-excuse-vraiment-28476391.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Geek & Innovations",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Roadrunner : un robot ultra-rapide",
+          "summary": "Découvrez Roadrunner, un robot conçu pour la vitesse, privilégiant l'efficacité à l'humanoïde.",
+          "url": "https://www.journaldugeek.com/2026/03/28/roadrunner-un-robot-qui-file-a-toute-allure-sans-se-prendre-pour-un-humain/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/roadrunner-1280x853.jpg"
+        },
+        {
+          "title": "LG Display : écrans 1 Hz pour autonomie record",
+          "summary": "LG révolutionne l'autonomie des PC portables avec des écrans innovants capables de fonctionner à 1 Hz.",
+          "url": "https://www.journaldugeek.com/2026/03/28/lg-display-des-ecrans-a-1-hz-pour-booster-lautonomie-des-pc-portables/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/lg-display-1280x853.jpg"
+        },
+        {
+          "title": "Star Fox fait son grand retour sur Switch 2",
+          "summary": "Les fans de la saga Star Fox peuvent se réjouir, un nouvel opus est attendu cet été sur la Switch 2.",
+          "url": "https://www.journaldugeek.com/2026/03/28/le-grand-retour-de-star-fox-attendu-cet-ete-sur-switch-2/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/star-fox-switch-2-ete-2026-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama enflamme la NBA avec les Spurs",
+          "summary": "Victor Wembanyama continue d'impressionner et de briller, les Spurs affichent une belle sérénité en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-sereins-victor-wembanyama-fait-le-show_AD-202603290072.html",
+          "image": "https://images.bfmtv.com/mf0Q_TEv_nW9WwP1yvmfPMGw4Q=/0x80:2048x1232/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-a-Memphis-98-123-le-25-mars-2026-2259628.jpg"
+        },
+        {
+          "title": "LeBron & Bronny : histoire gravée en NBA",
+          "summary": "Une action mémorable marque l'entrée historique de LeBron James et son fils Bronny dans les annales de la NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/l-action-qui-fait-entrer-le-bron-james-et-son-fils-bronny-dans-l-histoire-de-la-nba_AV-202603280132.html",
+          "image": "https://images.bfmtv.com/AC80B_T0UiXC-vSwSKYgyG7whyk=/0x5:2048x1157/800x0/images/Bronny-James-le-27-mars-2026-2261023.jpg"
+        },
+        {
+          "title": "Elisa Pineau, athlète, révèle son cancer du sein",
+          "summary": "L'athlète Elisa Pineau, vice-championne de France, annonce courageusement son combat contre un cancer du sein.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/vice-championne-de-france-de-l-heptathlon-elisa-pineau-annonce-avoir-un-cancer-du-sein-a-27-ans_AV-202603250279.html",
+          "image": "https://images.bfmtv.com/HzAU1tkMUGCjiUL00DbMPo-9A6c=/0x78:2048x1230/800x0/images/Elisa-Pineau-lors-des-Championnats-de-France-de-l-heptathlon-le-3-aout-2025-2259117.jpg"
+        }
+      ]
+    }
+  ]
+}
