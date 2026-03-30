@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Amédée",
-  "global_summary": "L'actualité mondiale reste dominée par des tensions géopolitiques complexes, notamment au Moyen-Orient avec l'Iran au cœur de plusieurs développements, allant de témoignages inédits sur sa population à des soupçons d'implication dans un attentat déjoué à Paris. Sur la scène nationale, la France fait face à des défis économiques, comme le ralentissement des ouvertures d'usines, tout en s'engageant contre les violences sexistes et sexuelles dans les transports.\nCependant, l'esprit humain continue de briller à travers des performances sportives exceptionnelles, de Victor Wembanyama en NBA aux récits personnels d'athlètes paralympiques. Des innovations technologiques prometteuses émergent également, offrant un aperçu des avancées qui façonneront notre futur et divertiront nos esprits, tout en ouvrant des débats importants sur les enjeux sociétaux.",
-  "running_advice": "Prêts à défier les éléments, champions ? Aujourd'hui, Saint Amédée nous offre une journée entre fraîcheur et averses ! Avec des températures allant de 6.5°C à 14.9°C et 85% de chances de pluie, enfilez votre équipement imperméable, votre coupe-vent et n'oubliez pas une couche thermique. L'indice UV de 4 suggère de penser à une crème solaire même sous les nuages et la pluie, car les rayons peuvent toujours passer. Le meilleur moment pour votre session running serait en fin de matinée ou début d'après-midi, idéalement entre 10h00 et 15h00, pour profiter des températures les plus clémentes et d'une luminosité correcte. Malgré la pluie, c'est l'occasion parfaite de vous prouver que rien ne vous arrête ! Chaque goutte est une motivation supplémentaire. Alors, lacez vos baskets et sortez conquérir la route !",
-  "weather_string": "🌧️ Pluie (6.5°C / 14.9°C)",
+  "global_summary": "La scène internationale reste tendue, avec l'Iran au cœur des préoccupations suite à des témoignages sur sa population et une piste avancée dans un attentat déjoué à Paris. Le conflit au Moyen-Orient continue de s'étendre, affectant des universités et provoquant une extension de zone tampon. En France, l'actualité navigue entre des événements locaux, des préoccupations économiques comme la baisse d'ouvertures d'usines et des incidents sociaux importants. Notons aussi le nombre record de décès en centres de détention pour migrants aux États-Unis, une actualité sociale forte. \n\nCôté sport, l'euphorie est palpable avec les performances exceptionnelles de Victor Wembanyama et un moment historique en NBA pour LeBron James. Des récits inspirants d'athlètes et des débats sur l'éthique sportive aux JO animent également les discussions. Le monde tech et business n'est pas en reste, entre innovations, défis agricoles impactés par le gel et une vigilance accrue face aux cyberattaques et vols de données. Une journée riche en enjeux et en émotions diverses.",
+  "running_advice": "Aujourd'hui, Saint Amédée nous invite à la persévérance ! Avec des températures clémentes (6.5°C à 15°C) et un indice UV modéré de 4, c'est une opportunité à saisir pour bouger. Prépare-toi pour des averses annoncées à 85% : équipe-toi d'une tenue imperméable et de chaussures adaptées. Le créneau idéal ? Je te suggérerais de viser le milieu d'après-midi, entre 14h et 16h. C'est le moment où la température est la plus agréable et où tu auras la meilleure luminosité avant le coucher du soleil à 20h27. N'oublie pas une crème solaire, même par temps couvert, pour cet indice UV de 4 ! Reste motivé(e), chaque goutte de sueur compte, fais-en un défi personnel !",
+  "weather_string": "🌦️ Averses (6.5°C / 15°C)",
   "weather_stats": {
-    "temp": "14.9°C",
+    "temp": "15°C",
     "rain": "85%",
     "uv": "4"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "L'Iran entre doutes et espoirs",
-          "summary": "Plongez au cœur des réalités iraniennes à travers des récits exclusifs, entre incertitude et désir de changement.",
+          "title": "Iran: doutes et espoirs d'une population divisée",
+          "summary": "Découvrez des témoignages poignants d'Iraniens, révélant une nation déchirée entre attentes et incertitudes.",
           "url": "https://www.franceinfo.fr/monde/iran/iran-temoignages-inedits-d-une-population-partagee-entre-doutes-et-espoirs_7902635.html",
           "image": "https://www.franceinfo.fr/pictures/3BlLevGg3tZoS9_2otYhZH0r5M0/1200x675/2026/03/29/69c970e39d99b125488978.jpg"
         },
         {
-          "title": "Attentat déjoué : piste iranienne",
-          "summary": "Une enquête cruciale progresse à Paris après un attentat déjoué, pointant vers une possible implication iranienne.",
+          "title": "Attentat déjoué à Paris: la piste iranienne explorée",
+          "summary": "Une enquête cruciale progresse, révélant une potentielle implication iranienne dans un complot terroriste à Paris.",
           "url": "https://www.franceinfo.fr/faits-divers/attentat-dejoue-a-paris-la-piste-iranienne-avancee_7902632.html",
           "image": "https://www.franceinfo.fr/pictures/fxLGuQFzse44LUzVbK9OJAuCavg/1200x675/2026/03/29/69c974bd2a83b549841858.jpg"
         },
         {
-          "title": "Moyen-Orient : L'escalade continue",
-          "summary": "La situation au Moyen-Orient s'intensifie avec des universités ciblées et l'expansion d'une zone tampon israélienne.",
+          "title": "Moyen-Orient: le conflit s'intensifie, Israël étend sa zone tampon",
+          "summary": "La guerre au Moyen-Orient vise désormais des universités. Israël étend sa zone tampon au Liban, aggravant les tensions.",
           "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-des-universites-ciblees-israel-etend-sa-zone-tampon-au-liban-ce-qu-il-faut-retenir-de-la-journee-du-dimanche-29-mars_7902476.html",
           "image": "https://www.franceinfo.fr/pictures/sNZ2l2undfN1dlDVJWPtMZAbAIE/1200x675/2026/03/29/69c973a91a4b8065759989.jpg"
         }
@@ -38,68 +38,107 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Emmanuel Grégoire, nouveau maire de Paris",
-          "summary": "Le nouveau maire de Paris, Emmanuel Grégoire, célèbre son intronisation lors d'un événement populaire.",
-          "url": "https://www.parismatch.com/actu/politique/le-nouveau-maire-de-paris-emmanuel-gregoire-fete-son-intronisation-a-la-foire-du-trone-266723",
-          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/03/29/21/resize_994048_030.jpg?VersionId=EVq7lsQAFo8Z2yNaWChymqOU2wTuGES8"
+          "title": "États-Unis: décès records en centres de détention migrants",
+          "summary": "Le nombre de décès dans les centres de détention pour migrants aux États-Unis atteint un niveau sans précédent.",
+          "url": "https://www.rfi.fr/fr/am%C3%A9riques/20260329-%C3%A9tats-unis-le-nombre-de-d%C3%A9c%C3%A8s-dans-les-centres-de-d%C3%A9tention-pour-migrants-atteint-un-niveau-record",
+          "image": "https://s.rfi.fr/media/display/18e1c42e-b9b7-11f0-b6e1-005056a97e36/w:1280/p:16x9/000-73Y89JJ.jpg"
         },
         {
-          "title": "Caen : L'actu du dimanche",
-          "summary": "Retrouvez les dernières informations locales de Caen, des indemnités des élus aux travaux en cours.",
+          "title": "Caen: infos locales, indemnités élus et rodéos urbains",
+          "summary": "Découvrez les dernières nouvelles de Caen : polémiques sur les indemnités d'élus, travaux et rodéos préoccupent.",
           "url": "https://actu.fr/normandie/caen_14118/indemnites-des-elus-travaux-rodeos-les-infos-du-dimanche-29-mars-a-caen_64070388.html",
           "image": "https://static.actu.fr/uploads/2026/03/f599400b29c96d999400b29c9bd994v-1.jpeg"
         },
         {
-          "title": "Transports : Lutte anti-violences",
-          "summary": "L'État et le secteur des transports s'unissent pour une action forte contre les violences sexistes et sexuelles.",
-          "url": "https://www.sudouest.fr/economie/transports/transports-l-etat-et-les-acteurs-du-secteur-s-unissent-contre-les-violences-sexistes-et-sexuelles-28505237.php",
-          "image": ""
+          "title": "Emmanuel Grégoire fête son intronisation à Paris",
+          "summary": "Le nouveau maire de Paris, Emmanuel Grégoire, célèbre son arrivée à la Foire du Trône.",
+          "url": "https://www.parismatch.com/actu/politique/le-nouveau-maire-de-paris-emmanuel-gregoire-fete-son-intronisation-a-la-foire-du-trone-266723",
+          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/03/29/21/resize_994048_030.jpg?VersionId=EVq7lsQAFo8Z2yNaWChymqOU2wTuGES8"
         }
       ]
     },
     {
-      "label": "Économie",
-      "emoji": "📈",
-      "articles": [
-        {
-          "title": "Baisse alarmante d'ouvertures d'usines",
-          "summary": "Les chiffres de Bercy révèlent une diminution drastique des nouvelles implantations d'usines en France.",
-          "url": "https://www.capital.fr/economie-politique/bercy-recense-45-fois-moins-d-ouvertures-d-usines-l-an-dernier-1525122",
-          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~03~29~122c68da-a55a-4f8d-b441-8095779b4041.jpeg/1200x900/quality/80/bercy-recense-4-5-fois-moins-d-ouvertures-d-usines-l-an-dernier.jpg"
-        },
-        {
-          "title": "Gelées dévastatrices pour les vignobles varois",
-          "summary": "Les jeunes pousses des domaines viticoles du Var ont été brûlées par le gel, impactant la récolte future.",
-          "url": "https://www.nicematin.com/economie/agriculture/les-jeunes-feuilles-deja-etalees-ont-ete-brulees-par-le-gel-les-domaines-viticoles-varois-touches-par-des-gelees-10674798",
-          "image": "https://assets.nicematin.com/articles/10/67/47/98/OG-10674798-1200-800-39488a7_upload-from-url-1-qzcopz1zeq7d-data-art-17411031.jpg"
-        },
-        {
-          "title": "« De Ferme en ferme » renforce les liens",
-          "summary": "La 27e édition en Ardèche met en lumière le lien essentiel et direct entre producteurs et consommateurs.",
-          "url": "https://www.ledauphine.com/economie/2026/03/29/de-ferme-en-ferme-une-27-sup-e-sup-edition-pour-faire-le-lien-entre-la-fourche-et-la-fourchette",
-          "image": "https://cdn-s-www.ledauphine.com/images/B2EC4468-446A-4A67-81DC-BED0D403C723/NW_listB/de-ferme-en-ferme-une-27e-edition-pour-faire-le-lien-entre-la-fourche-et-la-fourchette-1774810387.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Tech & Innovation",
+      "label": "Tech",
       "emoji": "💻",
       "articles": [
         {
-          "title": "Cyberattaque sur Europa.eu",
-          "summary": "Un vol de données majeur a été constaté sur la plateforme Europa.eu, impactant la Commission européenne.",
+          "title": "Vol de données sur la plateforme Europa.eu",
+          "summary": "La Commission européenne confirme un vol de données impactant sa plateforme Europa.eu, exigeant une vigilance accrue.",
           "url": "https://www.larevuedudigital.com/vol-de-donnees-sur-la-plateforme-europa-eu-de-la-commission-europeenne/",
           "image": "https://www.larevuedudigital.com/wp-content/uploads/2023/07/Commission-europeenne-2-BF2.jpg"
         },
         {
-          "title": "Lunettes connectées pour discours",
-          "summary": "Une innovation révolutionnaire : des lunettes connectées qui vous assistent en direct pour trouver les mots justes.",
+          "title": "MacGeneration: découvrez le programme de la journée",
+          "summary": "Ne manquez rien ! Le programme complet de la Journée MacGeneration est désormais disponible.",
+          "url": "https://www.macg.co/macgeneration/2026/03/journee-macgeneration-demandez-le-programme-307713",
+          "image": "https://cdn.mgig.fr/2026/03/mga-eaa3af39-w375-w1500-w750_accroche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Bernin: la passion de la truffe unit les producteurs",
+          "summary": "À Bernin, des producteurs partagent une passion commune pour la truffe, renforçant la filière locale.",
+          "url": "https://www.ledauphine.com/economie/2026/03/29/unis-par-leur-passion-pour-la-truffe",
+          "image": "https://cdn-s-www.ledauphine.com/images/95E0FD2A-A2C0-4A42-9661-EFEF57C72F30/NW_listB/unis-par-leur-passion-pour-la-truffe-1774811363.jpg"
+        },
+        {
+          "title": "Ardèche: \"De Ferme en ferme\", 27e édition réussie",
+          "summary": "La 27e édition de \"De Ferme en ferme\" en Ardèche réussit à lier la fourche à la fourchette.",
+          "url": "https://www.ledauphine.com/economie/2026/03/29/de-ferme-en-ferme-une-27-sup-e-sup-edition-pour-faire-le-lien-entre-la-fourche-et-la-fourchette",
+          "image": "https://cdn-s-www.ledauphine.com/images/B2EC4468-446A-4A67-81DC-BED0D403C723/NW_listB/de-ferme-en-ferme-une-27e-edition-pour-faire-le-lien-entre-la-fourche-et-la-fourchette-1774810387.jpg"
+        },
+        {
+          "title": "Var: gelées dévastatrices pour les vignobles",
+          "summary": "Les jeunes pousses des domaines viticoles varois ont été brûlées par le gel, menaçant la récolte.",
+          "url": "https://www.nicematin.com/economie/agriculture/les-jeunes-feuilles-deja-etalees-ont-ete-brulees-par-le-gel-les-domaines-viticoles-varois-touches-par-des-gelees-10674798",
+          "image": "https://assets.nicematin.com/articles/10/67/47/98/OG-10674798-1200-800-39488a7_upload-from-url-1-qzcopz1zeq7d-data-art-17411031.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🗺️",
+      "articles": [
+        {
+          "title": "Pays Basque: excès de vitesse, deux chauffards interceptés",
+          "summary": "Sur l'A63, deux automobilistes ont été flashés à 186 et 169 km/h, immédiatement interceptés par la gendarmerie.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/anglet/pays-basque-186-et-169-km-h-sur-l-a-63-deux-automobilistes-interceptes-par-les-gendarmes-28503141.php"
+        },
+        {
+          "title": "Transports: contre les violences sexistes et sexuelles",
+          "summary": "L'État et les acteurs des transports s'unissent pour lutter contre les violences sexistes et sexuelles.",
+          "url": "https://www.sudouest.fr/economie/transports/transports-l-etat-et-les-acteurs-du-secteur-s-unissent-contre-les-violences-sexistes-et-sexuelles-28505237.php"
+        },
+        {
+          "title": "Skipper Kévin Escoffier jugé pour agressions sexuelles",
+          "summary": "Le célèbre skipper Kévin Escoffier sera jugé ce lundi pour quatre accusations d'agressions sexuelles.",
+          "url": "https://www.sudouest.fr/france/le-skipper-kevin-escoffier-juge-ce-lundi-pour-quatre-agressions-sexuelles-28505183.php"
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Lunettes connectées: les bons mots au bon moment",
+          "summary": "Une innovation surprenante : des lunettes connectées qui vous soufflent discrètement les mots justes.",
           "url": "https://www.journaldugeek.com/2026/03/30/ces-lunettes-connectees-vous-soufflent-les-bons-mots-au-bon-moment/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/Even-G2-1280x853.jpg"
         },
         {
-          "title": "Monorail autonome : Révolution des rails",
-          "summary": "Un projet innovant propose de réutiliser les voies ferrées délaissées avec un système de monorail autonome.",
+          "title": "God of War: tout sur la série LIVE Action",
+          "summary": "Découvrez toutes les infos clés : date, casting, et intrigue de la très attendue série God of War.",
+          "url": "https://www.journaldugeek.com/2026/03/30/god-of-war-date-de-sortie-casting-intrigue-tout-savoir-sur-la-serie-live-action/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/god-of-war-prime-video-tout-savoir-1280x853.jpg"
+        },
+        {
+          "title": "Monorail autonome réactive les rails abandonnés",
+          "summary": "Un projet innovant de monorail autonome vise à redonner vie aux anciennes voies ferrées inutilisées.",
           "url": "https://www.journaldugeek.com/2026/03/30/un-monorail-autonome-veut-remettre-les-rails-abandonnes-sur-la-carte/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/monocab-1280x853.jpg"
         }
@@ -110,44 +149,20 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama enflamme la NBA !",
-          "summary": "Victor Wembanyama continue d'impressionner en NBA, menant les Spurs avec un spectacle mémorable.",
+          "title": "NBA: Wembanyama fait le show avec les Spurs",
+          "summary": "Victor Wembanyama continue d'impressionner avec les Spurs, signant une performance mémorable en NBA.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-sereins-victor-wembanyama-fait-le-show_AD-202603290072.html",
           "image": "https://images.bfmtv.com/mf0Q_TEv_nW9WwP1yvmfWPMGw4Q=/0x80:2048x1232/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-a-Memphis-98-123-le-25-mars-2026-2259628.jpg"
         },
         {
-          "title": "LeBron et Bronny James, duo historique",
-          "summary": "LeBron et son fils Bronny James ont marqué l'histoire de la NBA avec une action légendaire.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/l-action-qui-fait-entrer-le-bron-james-et-son-fils-bronny-dans-l-histoire-de-la-nba_AV-202603280132.html",
-          "image": "https://images.bfmtv.com/AC80B_T0UiXC-vSwSKYgyG7whyk=/0x5:2048x1157/800x0/images/Bronny-James-le-27-mars-2026-2261023.jpg"
+          "title": "Athlétisme: le soutien-gorge qui booste les performances",
+          "summary": "Une athlète paralympique améliore ses performances grâce à un soutien-gorge adapté. Un conseil inattendu !",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-maintenir-correctement-la-poitrine-aide-reellement-a-courir-plus-vite-une-athlete-paralympique-change-de-soutien-gorge-et-ameliore-ses-performances_AV-202603290184.html",
+          "image": "https://images.bfmtv.com/wcsXzU_PUKNC1eDqGXw85wYMnBM=/7x99:2039x1242/800x0/images/Danielle-Aitchison-lors-des-Jo-de-Paris-2024-2261367.jpg"
         },
         {
-          "title": "Top 14 : Stade Français écrase Clermont",
-          "summary": "Le Stade Français inflige une déculottée à Clermont (64-20), laissant Jauneau et son équipe \"vexés\".",
-          "url": "https://rmcsport.bfmtv.com/rugby/top-14/video-stade-francais-64-20-clermont-ca-fait-mal-au-c-jauneau-vexe-de-la-deculottee_VN-202603300300.html",
-          "image": "https://images.bfmtv.com/okqq4Ir1nsNIM5axxlz0ncBSeUM=/0x0:1280x720/800x0/images/Stade-Francais-64-20-Clermont-Ca-fait-mal-au-c-Jauneau-vexe-de-la-deculottee-2261700.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Société & Tendances",
-      "emoji": "🤝",
-      "articles": [
-        {
-          "title": "Kévin Escoffier jugé",
-          "summary": "Le célèbre skipper Kévin Escoffier fait face à la justice pour quatre accusations d'agressions sexuelles.",
-          "url": "https://www.sudouest.fr/france/le-skipper-kevin-escoffier-juge-ce-lundi-pour-quatre-agressions-sexuelles-28505183.php",
-          "image": ""
-        },
-        {
-          "title": "Wembanyama, sportif préféré des jeunes",
-          "summary": "Victor Wembanyama et Olivier Giroud dominent le classement des sportifs préférés des 7-14 ans.",
-          "url": "https://rmcsport.bfmtv.com/societe/victor-wembanyama-et-olivier-giroud-sportifs-preferes-des-7-14-ans_AD-202603190803.html",
-          "image": "https://images.bfmtv.com/SQJqEvnk8A0o1q59CLLSrR4BclU=/0x0:2048x1152/800x0/images/Victor-Wembanyama-avec-les-San-Antonio-Spurs-le-23-decembre-2025-2249468.jpg"
-        },
-        {
-          "title": "Tests de féminité : Semenya réagit",
-          "summary": "Caster Semenya dénonce les tests de féminité pour les JO 2028, les qualifiant de \"manque de respect\".",
+          "title": "JO 2028: Semenya dénonce les tests de féminité",
+          "summary": "Caster Semenya critique les tests de féminité pour les JO 2028, les jugeant irrespectueux envers les femmes.",
           "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-2028-les-tests-de-feminite-sont-un-manque-de-respect-envers-les-femmes-estime-caster-semenya_AD-202603290189.html",
           "image": "https://images.bfmtv.com/h4GX_Lgydl2qh5JDYhtGYkL4T_A=/0x123:2048x1275/800x0/images/Caster-Semenya-le-20-juillet-2022-2261366.jpg"
         }
