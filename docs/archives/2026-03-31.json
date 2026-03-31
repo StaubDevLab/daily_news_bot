@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Benjamin",
+  "global_summary": "Le monde navigue entre tensions géopolitiques et enjeux économiques. La guerre au Moyen-Orient continue de marquer l'actualité mondiale, avec des répercussions en Europe et des débats internes aux États-Unis sur l'intervention militaire. Pendant ce temps, Israël adopte une loi controversée sur la peine de mort, suscitant de vives réactions. Sur le plan économique, les coûts de voyage augmentent et de nouvelles stratégies d'abonnement et de publicité testent le marché technologique, tandis que l'insécurité fait débat dans certaines villes françaises.",
+  "running_advice": "Absolument ! C'est une journée parfaite pour enfiler vos baskets, Saint Benjamin vous donne le top départ ! Avec des températures douces entre 6.2°C et 14.4°C et un ciel peu nuageux, les conditions sont idéales pour votre course. Je vous conseille de viser la fin d'après-midi, entre 17h00 et 19h00, pour profiter de la douceur du soleil couchant et minimiser l'exposition aux UV. N'oubliez pas une bonne crème solaire et des lunettes de soleil, même par temps légèrement couvert, car avec un indice UV de 5.65, la protection est de mise. Hydratez-vous bien et donnez le meilleur de vous-même pour cette session revigorante !",
+  "weather_string": "🌤️ Peu nuageux (6.2°C / 14.4°C)",
+  "weather_stats": {
+    "temp": "14.4°C",
+    "rain": "8%",
+    "uv": "5.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Moyen-Orient: L'Europe sous tension",
+          "summary": "La guerre au Moyen-Orient continue d'impacter l'Europe, tandis que les États-Unis débattent de leur intervention.",
+          "url": "https://www.rfi.fr/fr/podcasts/accents-d-europe/20260330-l-europe-impact%C3%A9e-par-la-guerre-au-moyen-orient",
+          "image": "https://s.rfi.fr/media/display/bded2f98-0792-11f1-98c9-005056a90284/w:1280/p:16x9/000-93GE3F4.jpg"
+        },
+        {
+          "title": "USA: Pas de troupes en Iran",
+          "summary": "Aux États-Unis, les soutiens de Donald Trump s'opposent à l'envoi de troupes en Iran, priorisant les enjeux nationaux.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/s-il-y-a-une-bataille-a-mener-c-est-dans-notre-republique-aux-etats-unis-les-soutiens-de-donald-trump-ne-veulent-pas-envoyer-de-troupes-au-sol-en-iran_7895768.html",
+          "image": "https://www.franceinfo.fr/pictures/r23R-_Yy9XU48BEUVIXcpAhGtsU/1200x675/2026/03/30/69cac770c8f7a197794351.jpg"
+        },
+        {
+          "title": "Israël: Peine de mort adoptée",
+          "summary": "Malgré les vives critiques internationales, Israël adopte une loi instaurant la peine de mort pour les actes terroristes.",
+          "url": "https://www.huffingtonpost.fr/international/article/malgre-les-critiques-israel-adopte-la-peine-de-mort-pour-les-actes-terroristes_262088.html",
+          "image": "https://focus.huffingtonpost.fr/2026/03/30/422/0/8100/4556/0/0/60/0/e551abd_upload-1-sbg3qkarrh8d-afp-20260319-a3yl2pz-v2-highres-israelusiranwarnetanyahu.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "La Princesse Élisabeth incognito",
+          "summary": "La princesse Élisabeth de Belgique a vécu une vie d'étudiante ordinaire à Harvard, loin des projecteurs royaux.",
+          "url": "https://www.parismatch.com/Royal-Blog/elisabeth-de-belgique-a-harvard-elle-a-eu-lopportunite-de-vivre-comme-une-jeune-etudiante-lambda-266775",
+          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/03/30/20/bestimage_00736465_000026.jpg?VersionId=W3_J0e56oZxaPl9cKWM6Oc1fecHq.bi4"
+        },
+        {
+          "title": "Alerte en Plaine de l'Ain",
+          "summary": "Un exercice de sécurité majeur est prévu ce mardi dans la Plaine de l'Ain, avec sirènes et secours visibles.",
+          "url": "https://www.ledauphine.com/economie/2026/03/30/sirenes-et-secours-visibles-ce-mardi-ce-sera-un-exercice-de-securite",
+          "image": "http://cdn-files.prsmedia.fr/files/LDL/fr/images/LDL_placeholder.png"
+        },
+        {
+          "title": "Municipales 2026: L'Échec des Sportifs",
+          "summary": "Les personnalités sportives engagées aux municipales 2026 ont rencontré des fortunes diverses, souvent contrastées.",
+          "url": "https://rmcsport.bfmtv.com/societe/municipales-2026-aulas-blanco-ferrari-micoud-lapilus-les-resultats-contrastes-des-personnalites-sportives_AV-202603160406.html",
+          "image": "https://images.bfmtv.com/U7hcbuCIhZzUfh4q2cIbk_rqcTs=/0x118:2048x1270/800x0/images/Jean-Michel-Aulas-pendant-un-match-de-l-OL-en-Ligue-1-contre-Nantes-le-30-novembre-2025-2216145.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Marennes: Festival Esprit Critique",
+          "summary": "Le Festival Cerv’Odyssée à Marennes invite à exercer son esprit critique pour une pensée libre et éclairée.",
+          "url": "https://www.sudouest.fr/sciences-et-technologie/festival-cerv-odyssee-a-marennes-exercer-son-esprit-critique-c-est-etre-libre-de-penser-28501074.php",
+          "image": "https://media.sudouest.fr/28501074/1200x600/matthieu-villatelle-2.jpg"
+        },
+        {
+          "title": "Voiture volée, assurance muette",
+          "summary": "Un automobiliste subit le vol de sa voiture, mais son assurance refuse de l'indemniser, soulevant des questions.",
+          "url": "https://www.autoplus.fr/actualite/insolite/on-lui-vole-sa-voiture-lassurance-ne-veut-pas-lindemniser-1433809.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/03/captura-de-pantalla-2026-03-30-a-las-19.21.03.png"
+        },
+        {
+          "title": "Artemis 2: 56 ans après Apollo 11",
+          "summary": "Découvrez quatre faits clés sur la mission historique Artemis 2, 56 ans après le légendaire Apollo 11.",
+          "url": "https://www.journaldugeek.com/2026/03/31/artemis-2-4-infos-mission-historique-apollo-11/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/nasa-artemis-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Instagram Plus: Meta teste l'abonnement",
+          "summary": "Meta explore un abonnement 'Instagram Plus' sur certains marchés, potentiellement une nouvelle source de revenus.",
+          "url": "https://fr.investing.com/news/stock-market-news/meta-teste-labonnement-instagram-plus-sur-certains-marches-93CH-3338854",
+          "image": "https://i-invdn-com.investing.com/news/facebook_2_800x533_L_1412668233.jpg"
+        },
+        {
+          "title": "JetBlue augmente ses tarifs bagages",
+          "summary": "Face à la hausse des coûts du carburant, JetBlue augmente les frais de premier bagage enregistré à 49$.",
+          "url": "https://fr.investing.com/news/stock-market-news/jetblue-augmente-les-frais-de-premier-bagage-enregistre-a-49-en-raison-de-la-hausse-des-couts-de-carburant-93CH-3338857",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEB5F0HP_L.jpg"
+        },
+        {
+          "title": "Honor: Publicités envahissantes",
+          "summary": "L'intégration de publicités sur les smartphones Honor risque de braquer les utilisateurs, une stratégie risquée.",
+          "url": "https://www.frandroid.com/marques/honor/3046179_publicite-sur-les-smartphones-honor-la-mauvaise-idee-qui-va-braquer-les-utilisateurs",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/01/honor-magic-8-pro-2.jpg?resize=1600,900&key=bae87945&watermark"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Gironde: Prison ferme pour médecin",
+          "summary": "Prison ferme requise contre un généraliste girondin accusé d'avoir fourni des stupéfiants aux frais de la Sécu.",
+          "url": "https://www.sudouest.fr/justice/pendant-des-annees-ils-ont-eu-des-stupefiants-aux-frais-de-la-secu-prison-ferme-requise-contre-un-generaliste-girondin-28513829.php",
+          "image": null
+        },
+        {
+          "title": "Bordeaux 2025: Bilan de la délinquance",
+          "summary": "En 2025, Bordeaux voit moins de vols, des violences stables mais une forte hausse des escroqueries.",
+          "url": "https://www.sudouest.fr/gironde/delinquance-dans-la-metropole-de-bordeaux-en-2025-moins-de-vols-autant-de-violence-beaucoup-plus-d-escroqueries-28512224.php",
+          "image": null
+        },
+        {
+          "title": "Insécurité à Bordeaux: Le juste milieu",
+          "summary": "Bordeaux n'est ni ultra-violente ni épargnée par l'insécurité, se situant dans un entre-deux complexe.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/insecurite-a-bordeaux-ni-en-proie-a-l-ultra-violence-ni-epargnee-la-ville-au-milieu-du-gue-28512153.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Mario Galaxy: Le film révèle un secret",
+          "summary": "Le film Super Mario Galaxy mettrait en lumière un personnage majeur encore méconnu du grand public.",
+          "url": "https://www.journaldugeek.com/2026/03/31/super-mario-galaxy-le-film-qui-est-ce-personnage-majeur-que-personne-ne-connait/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/star-fox-super-mario-galaxy-film-1280x853.jpg"
+        },
+        {
+          "title": "Canal+: Attention aux réglages !",
+          "summary": "Dès aujourd'hui, les abonnés Canal+ devront être attentifs à un réglage crucial impactant leur expérience.",
+          "url": "https://www.journaldugeek.com/2026/03/30/canal-il-va-falloir-faire-attention-de-ce-reglage-a-partir-daujourdhui/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/canal-plus-changement-1280x853.jpg"
+        },
+        {
+          "title": "Wembanyama/Giroud: Idoles des jeunes",
+          "summary": "Victor Wembanyama et Olivier Giroud s'imposent comme les sportifs préférés des 7-14 ans, stars des cours de récré.",
+          "url": "https://rmcsport.bfmtv.com/societe/victor-wembanyama-et-olivier-giroud-sportifs-preferes-des-7-14-ans_AD-202603190803.html",
+          "image": "https://images.bfmtv.com/SQJqEvnk8A0o1q59CLLSrR4BclU=/0x0:2048x1152/800x0/images/Victor-Wembanyama-avec-les-San-Antonio-Spurs-le-23-decembre-2025-2249468.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama: Favori au MVP?",
+          "summary": "L'impact défensif 'surréaliste' de Wembanyama en NBA le propulse parmi les favoris pour le titre de MVP.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/les-mecs-mettent-le-frein-a-main-l-impact-defensif-surrealiste-de-wembanyama-qui-fait-de-lui-l-un-des-favoris-au-titre-de-mvp_AV-202603300527.html",
+          "image": "https://images.bfmtv.com/G9lcy7m1d1cj3bhI3w2y1EzXRa4=/0x83:2032x1226/800x0/images/Victor-Wembanyama-lors-du-match-entre-les-Los-Angeles-Clippers-et-les-San-Antonio-Spurs-115-119-le-16-mars-2026-2256168.jpg"
+        },
+        {
+          "title": "Dopage: Marathonien de New York suspendu",
+          "summary": "Le Kényan Albert Korir, vainqueur du marathon de New York, écope de cinq ans de suspension pour dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-kenyan-albert-korir-vainqueur-du-marathon-de-new-york-suspendu-cinq-ans-pour-dopage_AD-202603300603.html",
+          "image": "https://images.bfmtv.com/GyaUO_a3gAe-j1RFVf0SyDbIRxI=/0x65:768x497/800x0/images/La-joie-du-Kenyan-Albert-Korir-vainqueur-de-la-50e-edition-du-marathon-de-New-York-le-7-novembre-2021-1162177.jpg"
+        },
+        {
+          "title": "JO 2030: Épreuves de glace à Nice",
+          "summary": "La ministre des Sports apaise les tensions concernant les épreuves de glace des JO 2030 à Nice après des passes d'armes.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-2030-la-ministre-des-sports-calme-le-jeu-pour-les-epreuves-de-glace-a-nice-apres-la-passe-d-armes-entre-ciotti-et-muselier_AV-202603300830.html",
+          "image": "https://images.bfmtv.com/tYheVe7a20AnLd0QadQP0F7Qm5g=/0x212:2048x1364/800x0/images/L-Allianz-Riviera-de-Nice-en-mars-2026-2262072.jpg"
+        }
+      ]
+    }
+  ]
+}
