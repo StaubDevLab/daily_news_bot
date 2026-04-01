@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Hugues",
-  "global_summary": "La scène mondiale est marquée par un mélange d'histoires humaines profondes, d'une part avec un documentaire argentin explorant les douleurs autochtones, et de l'autre, la fin d'une cavale pour un narcotrafiquant français très recherché, ainsi qu'une anecdote surprenante aux États-Unis. Domestiquement, la France met en lumière des initiatives solidaires pour la jeunesse et aborde des enjeux sociaux cruciaux. Le vote du Sénat sur l'accès des mineurs aux réseaux sociaux et la mise en lumière des circonstances tragiques autour de l'affaire Cédric Chouviat résonnent particulièrement.\n\nDans le monde de la tech et de l'économie, des innovations et des mouvements de marché dynamiques se côtoient, tandis que le sport est en ébullition avec l'ascension fulgurante de Victor Wembanyama dans la course au MVP. Des affaires de dopage et des nouvelles inquiétantes concernant un rugbyman disparu viennent compléter ce panorama, offrant une actualité riche en contrastes et en émotions.",
-  "running_advice": "Aujourd'hui, Saint Hugues nous offre une météo quasi parfaite pour chausser vos baskets ! Avec des températures douces oscillant entre 9.2°C et 16°C et un ciel peu nuageux, les conditions sont idéales. Le risque de pluie est infime (3%), donc pas d'excuses pour ne pas sortir et vous dépasser.\n\nL'indice UV de 4.95 est modéré à élevé, pensez donc à une protection solaire légère (crème solaire adaptée, casquette) pour vos sessions prolongées. Le lever du soleil à 07:43 et le coucher à 20:30 vous offrent une large fenêtre, mais l'heure idéale pour profiter de la fraîcheur matinale avant l'affluence ou de la douce lumière du soir serait entre 08:00 et 10:00, ou alors entre 18:00 et 20:00. Allez, on se motive, l'énergie et les bienfaits vous attendent sur les sentiers !",
-  "weather_string": "🌤️ Peu nuageux (9.2°C / 16°C)",
+  "global_summary": "Aujourd'hui, l'actualité nous plonge dans un mélange saisissant d'histoires humaines et de défis sociétaux. Entre la fin spectaculaire d'une cavale de narcotrafiquant et un gagnant de loterie qui vire au cambrioleur aux États-Unis, le monde nous rappelle que la fortune peut parfois surprendre de bien des manières. Nous notons également une mise en lumière poignante des douleurs autochtones en Argentine et des initiatives solidaires en France qui œuvrent pour un avenir meilleur et plus juste. \n\nDans le domaine économique et technologique, les débats s'intensifient autour de l'interdiction des réseaux sociaux pour les moins de 15 ans, tandis que des entreprises comme Afyren et Tesla affichent une dynamique prometteuse. Côté sport, l'ascension fulgurante de Victor Wembanyama passionne, même si le dopage continue de jeter son ombre sur l'athlétisme. Une actualité riche qui nous invite à la réflexion et, pourquoi pas, à l'action.",
+  "running_advice": "Amis runners, préparez vos baskets ! Avec des températures douces oscillant entre 9.1°C et 16.3°C et un ciel peu nuageux, c'est une excellente journée pour prendre l'air. Le faible risque de pluie (3%) est un atout, et le soleil sera au rendez-vous. Pour éviter les heures où l'indice UV (4.95) est le plus fort, je vous conseille une session en fin de journée, idéalement entre 17h00 et le coucher du soleil à 20h30. N'oubliez pas une bonne crème solaire et une casquette, même si les températures sont agréables, votre peau vous remerciera ! C'est le moment de vous dépasser, la journée est parfaite pour pulvériser vos objectifs !",
+  "weather_string": "🌤️ Peu nuageux (9.1°C / 16.3°C)",
   "weather_stats": {
-    "temp": "16°C",
+    "temp": "16.3°C",
     "rain": "3%",
     "uv": "4.95"
   },
@@ -14,21 +14,21 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Docu Argentin : Voix Autochtones",
-          "summary": "Un film puissant explore les souffrances des peuples autochtones, offrant une perspective essentielle sur leur histoire.",
+          "title": "Docu argentin sur les douleurs autochtones",
+          "summary": "\"Nuestra Tierra\" explore avec brio les souffrances des peuples premiers, une œuvre à ne pas manquer.",
           "url": "https://www.courrierinternational.com/article/en-salle-nuestra-tierra-un-docu-argentin-qui-explore-avec-brio-les-douleurs-autochtones_241708",
           "image": "https://focus.courrierinternational.com/2026/03/16/0/0/3840/2160/644/0/60/0/21dad1e_upload-1-9modvbnh8mqr-nuestra-tierra-tucuman.jpg"
         },
         {
-          "title": "Fin de Cavale : Narcotrafiquant Arrêté",
-          "summary": "Un des narcotrafiquants français les plus recherchés a été appréhendé, mettant fin à une longue cavale.",
+          "title": "Fin de cavale pour un narcotrafiquant recherché",
+          "summary": "Joël Soudron, l'un des plus grands narcotrafiquants français, a enfin été interpellé après une longue cavale.",
           "url": "https://www.charentelibre.fr/societe/drogue/fin-de-cavale-pour-joel-soudron-un-des-narcotrafiquants-francais-les-plus-recherches-28523632.php",
           "image": "https://media.charentelibre.fr/28523632/1200x600/ofast-afp.jpg"
         },
         {
-          "title": "Loterie puis Cambriolage aux USA",
-          "summary": "Un millionnaire soudainement chanceux s'est transformé en cambrioleur, une histoire rocambolesque aux États-Unis.",
-          "url": "https://www.leprogres.fr/faits-divers-justice/2026/03/31/il-gagne-167-millions-d-euros-a-la-loterie-et-va-cambrioler-une-maison-quelques-mois-plus-tard",
+          "title": "Riche gagnant de loterie devient cambrioleur",
+          "summary": "Aux USA, un millionnaire à la loterie a été arrêté pour cambriolage, une chute vertigineuse et inattendue.",
+          "url": "https://www.leprogres.fr/faits-divers-justice/2026/03/31/il-gagne-167-millions-d-euros-a-la-loterie-et-va-cambrioler-une-maison-quelques-mois-plus- tard",
           "image": "https://cdn-s-www.leprogres.fr/images/490D1C4F-A098-4EE4-AD4A-211CEFF90E99/NW_listB/il-gagne-167-millions-d-euros-a-la-loterie-et-va-cambrioler-une-maison-quelques-mois-plus-tard-1774976718.jpg"
         }
       ]
@@ -38,92 +38,92 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Jeunes d'Elbeuf en Solidaire au Sénégal",
-          "summary": "Une association normande a mené un projet solidaire au Sénégal, offrant une expérience enrichissante aux jeunes.",
+          "title": "Elbeuf : projet solidaire de jeunes au Sénégal",
+          "summary": "Une association d'Elbeuf a mené un projet solidaire inspirant, offrant une expérience enrichissante aux jeunes.",
           "url": "https://actu.fr/normandie/elbeuf_76231/elbeuf-cette-association-a-emmene-des-jeunes-dans-un-projet-solidaire-au-senegal_64080973.html",
           "image": "https://static.actu.fr/uploads/2026/03/2cf50c51e7b9650060c51e7b954060v.jpg"
         },
         {
-          "title": "Mort Cédric Chouviat : Force Disproportionnée",
-          "summary": "La Défenseure des droits dénonce l'usage excessif de la force policière dans l'affaire tragique de Cédric Chouviat.",
-          "url": "https://www.sudouest.fr/ile-de-france/paris/j-etouffe-mort-de-cedric-chouviat-en-2020-la-defenseure-des-droits-pointe-un-usage-disproportionne-de-la-force-par-les-policiers-28529981.php",
-          "image": ""
+          "title": "Une BYD insolite s'écrase à Marseille",
+          "summary": "Une voiture BYD \"façon château de cartes\" a été découverte à Marseille, intrigant les passants.",
+          "url": "https://www.caradisiac.com/une-byd-facon-chateau-de-cartes-surprise-a-marseille-221247.htm",
+          "image": "https://images.caradisiac.com/logos/3/6/1/8/293618/S8-une-byd-facon-chateau-de-cartes-surprise-a-marseille-221247.jpg"
         },
         {
-          "title": "Incendie : Casino d'Evian Dévasté",
-          "summary": "Un spectaculaire incendie a ravagé partiellement le casino historique d'Evian-les-Bains, laissant des dégâts importants.",
-          "url": "https://www.sudouest.fr/france/video-le-casino-d-evian-les-bains-partiellement-detruit-par-un-spectaculaire-incendie-28530220.php",
-          "image": ""
+          "title": "Éditorial : Donald Trump, pompier pyromane",
+          "summary": "Un éditorial français décrypte la stratégie paradoxale de Donald Trump sur la scène internationale.",
+          "url": "https://www.sudouest.fr/international/iran/editorial-donald-trump-pompier-pyromane-28524867.php",
+          "image": "https://media.sudouest.fr/28524867/1200x600/julien-rousset-edito.jpg"
         }
       ]
     },
     {
-      "label": "Technologie & Culture",
-      "emoji": "💻",
+      "label": "Tech",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "Super Mario Galaxy : Le Film",
-          "summary": "Le film Super Mario Galaxy reçoit sa critique, explorant si Nintendo a trouvé la bonne formule.",
+          "title": "Afyren rachète sa bioraffinerie NEOXY",
+          "summary": "Afyren finalise le rachat de 100% de sa bioraffinerie NEOXY pour 11,3 millions d'euros, stimulant l'innovation.",
+          "url": "https://fr.investing.com/news/global-filings/afyren-rachete-100-de-sa-bioraffinerie-neoxy-pour-113-millions-deuros-93CH-3341097",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg"
+        },
+        {
+          "title": "Critique du film Super Mario Galaxy",
+          "summary": "Plongez dans l'univers stellaire de Mario avec la critique du nouveau film, Nintendo en pleine forme.",
           "url": "https://www.journaldugeek.com/critique/critique-super-mario-galaxy-le-film-nintendo-en-hyperglycemie/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/super-mario-galaxy-critique-1600x900.jpg"
         },
         {
-          "title": "Star Wars : Le Retour du Jeu Oublié",
-          "summary": "Des nouvelles prometteuses pour \"Star Wars Zero Company\", un titre que beaucoup pensaient définitivement perdu.",
-          "url": "https://www.journaldugeek.com/2026/04/01/star-wars-zero-company-enfin-des-bonnes-nouvelles-pour-le-jeu-que-tout-le-monde-a-oublie/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/03/star-wars-zero-company-1280x853.jpg"
-        },
-        {
-          "title": "Le Mystère du Curseur Incliné",
-          "summary": "Une explication fascinante sur l'inclinaison à 45° du curseur de souris, un détail souvent ignoré.",
+          "title": "Le mystère du curseur de souris incliné",
+          "summary": "Découvrez pourquoi l'icône de votre curseur de souris est inclinée à 45 degrés, une histoire fascinante.",
           "url": "https://www.journaldugeek.com/2026/03/31/pourquoi-le-curseur-de-votre-souris-est-incline-a-45/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/curseur-souris-incline-45-degres-histoire-1280x853.jpeg"
         }
       ]
     },
     {
-      "label": "Économie & Société",
-      "emoji": "📈",
+      "label": "Business",
+      "emoji": "💰",
       "articles": [
         {
-          "title": "Réseaux Sociaux : Limite 15 Ans",
-          "summary": "Le Sénat a voté l'interdiction des réseaux sociaux aux moins de 15 ans, un enjeu majeur pour la jeunesse.",
+          "title": "Réseaux sociaux interdits aux moins de 15 ans",
+          "summary": "Le Sénat vote l'interdiction des réseaux sociaux pour les moins de 15 ans, une mesure forte pour protéger les jeunes.",
           "url": "https://www.sudouest.fr/economie/reseaux-sociaux/le-senat-vote-a-son-tour-l-interdiction-des-reseaux-de-sociaux-pour-les-moins-de-15-ans-28525235.php",
           "image": "https://media.sudouest.fr/28525235/1200x600/20260127192016-davt131.jpg"
         },
         {
-          "title": "Afyren Rachète Bioraffinerie NEOXY",
-          "summary": "Afyren finalise le rachat de sa bioraffinerie NEOXY pour 11,3 millions d'euros, une opération stratégique.",
-          "url": "https://fr.investing.com/news/global-filings/afyren-rachete-100-de-sa-bioraffinerie-neoxy-pour-113-millions-deuros-93CH-3341097",
+          "title": "BOA Concept : chiffre d'affaires 2025 en hausse",
+          "summary": "BOA Concept annonce une croissance de 19% de son chiffre d'affaires 2025, signe de sa vitalité économique.",
+          "url": "https://fr.investing.com/news/global-filings/boa-concept-affiche-un-chiffre-daffaires-2025-en-hausse-de-19-93CH-3341103",
           "image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg"
         },
         {
-          "title": "Tesla : Pourquoi l'Action Bondit ?",
-          "summary": "L'action Tesla connaît une hausse spectaculaire, suscitant des interrogations sur les raisons de cette envolée.",
+          "title": "L'action Tesla s'envole aujourd'hui",
+          "summary": "Découvrez les raisons derrière le bond spectaculaire de l'action Tesla en bourse ce jour.",
           "url": "https://fr.investing.com/news/company-news/pourquoi-laction-tesla-bonditelle-aujourdhui--93CH-3341104",
           "image": "https://i-invdn-com.investing.com/news/LYNXNPEE5424U_L.jpg"
         }
       ]
     },
     {
-      "label": "Sports",
+      "label": "Sport",
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wemby MVP : La Course S'Enflamme",
-          "summary": "Victor Wembanyama bouscule les pronostics et s'impose comme un candidat sérieux au titre de MVP.",
+          "title": "Wembanyama renverse la course au MVP",
+          "summary": "Victor Wembanyama s'impose avec force, bouleversant les pronostics pour la course au titre de MVP.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/bon-sang-il-m-a-fait-changer-d-avis-comment-wembanyama-a-completement-retourne-la-course-au-mvp-en-faisant-campagne_AV-202603310727.html",
-          "image": "https://images.bfmtv.com/SQJqEvnk8A0o1q59CLLSrR4BclU=/0x0:2048x1152/800x0/images/Victor-Wembanyama-avec-les-San-Antonio-Spurs-le-23-decembre-2025-2249468.jpg"
+          "image": "https://images.bfmtv.com/SQJqEvnk8A0o1q59CLLSrR4BclU=/0x0:2048x1152/800x0/images/Victor-Wembanyama-avec-les-San-Antonio-Spurs-le-23-decembre-2025-en-NBA-2249468.jpg"
         },
         {
-          "title": "Marathon : Dopage à New York",
+          "title": "Marathon de New York : Korir suspendu 5 ans",
           "summary": "Albert Korir, vainqueur du marathon de New York, écope de cinq ans de suspension pour dopage.",
           "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-kenyan-albert-korir-vainqueur-du-marathon-de-new-york-suspendu-cinq-ans-pour-dopage_AD-202603300603.html",
           "image": "https://images.bfmtv.com/GyaUO_a3gAe-j1RFVf0SyDbIRxI=/0x65:768x497/800x0/images/La-joie-du-Kenyan-Albert-Korir-vainqueur-de-la-50e-edition-du-marathon-de-New-York-le-7-novembre-2021-1162177.jpg"
         },
         {
-          "title": "Rugby : Joueur Français Disparu",
-          "summary": "L'inquiétude grandit après la disparition d'un jeune rugbyman français en Nouvelle-Zélande.",
+          "title": "Un jeune rugbyman français disparu",
+          "summary": "L'inquiétude grandit en Nouvelle-Zélande après la disparition signalée d'un jeune joueur de rugby français.",
           "url": "https://rmcsport.bfmtv.com/rugby/un-jeune-joueur-de-rugby-francais-porte-disparu-en-nouvelle-zelande_AV-202603310153.html",
           "image": "https://images.bfmtv.com/HeCrwl4aPlAw6pCE0mbimy4EbSs=/6x112:694x499/800x0/images/Antoine-Richard-jeune-joueur-de-rugby-francais-porte-disparu-en-Nouvelle-Zelande-depuis-21-mars-2026-2262246.jpg"
         }
