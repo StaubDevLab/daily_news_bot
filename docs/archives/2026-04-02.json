@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Sainte Sandrine",
+  "global_summary": "L'actualité de ce jour est marquée par une mosaïque de tensions géopolitiques et de défis sociétaux. À l'international, les débats autour de la citoyenneté américaine et la situation au Liban côtoient une grève générale en Cisjordanie contre le rétablissement de la peine de mort en Israël, soulignant des enjeux de fond. Sur le plan national, la justice est secouée par une grève des avocats tandis que les pouvoirs des agents de sécurité des transports sont renforcés, signe d'une volonté de maîtrise des espaces publics.\nParallèlement, le monde économique oscille entre succès technologiques et rappels massifs, tandis que le sport nous offre des performances exceptionnelles de Wembanyama, mais aussi des rappels à l'ordre sévères contre le dopage et des nouvelles tragiques. Cette diversité d'informations nous invite à rester informés et réactifs face à un environnement en perpétuelle évolution, où chaque secteur connaît son lot de transformations et d'adaptations.",
+  "running_advice": "Excellente nouvelle, champion(ne) ! Aujourd'hui, les conditions sont parfaites pour une session running énergisante. Avec une température agréable oscillant entre 8.5°C et 15°C et un ciel peu nuageux, l'air sera vivifiant. Le risque de pluie est minime (18%), donc pas d'excuse ! Pour profiter pleinement de cette belle journée, je te conseille de chausser tes baskets en fin d'après-midi, vers 17h00-19h00. C'est le créneau idéal pour bénéficier de la douceur sans l'intensité du soleil de midi. Attention, l'indice UV est de 4.05 : n'oublie pas ta crème solaire et une casquette pour te protéger, même par temps couvert, on ne transige pas avec la sécurité ! Allez, go, donne tout et savoure chaque foulée !",
+  "weather_string": "🌤️ Peu nuageux (8.5°C / 15°C)",
+  "weather_stats": {
+    "temp": "15°C",
+    "rain": "18%",
+    "uv": "4.05"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Le rôle de l'armée libanaise",
+          "summary": "Plongée dans les défis et l'influence actuelle des forces armées libanaises au cœur d'une région complexe.",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/liban/quel-role-joue-aujourd-hui-l-armee-reguliere-libanaise_7909337.html",
+          "image": "https://www.franceinfo.fr/pictures/KfoU2DLHaNE9UtLDnlJR7T2NiTM/fit-in/1200x675/filters:upscale():fill(black)/2026/04/01/69cd5ceaa0111763868540.jpg"
+        },
+        {
+          "title": "Citoyenneté américaine : la Cour suprême face à Trump",
+          "summary": "La Cour suprême sceptique face à la volonté de Trump de redéfinir la citoyenneté américaine, un enjeu clé.",
+          "url": "https://www.franceguyane.fr/actualite/international/la-cour-supreme-se-montre-sceptique-face-a-la-volonte-de-trump-de-redefinir-la-citoyennete-americaine-1074433.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/69cd668ea33d5d3e1f0cf483/width_1000/image.jpg"
+        },
+        {
+          "title": "Peine de mort en Israël : grève en Cisjordanie",
+          "summary": "La Cisjordanie en grève générale, protestant contre le rétablissement de la peine de mort en Israël, jugée injuste.",
+          "url": "https://www.franceinfo.fr/monde/israel/reportage-c-est-une-loi-injuste-la-cisjordanie-occupee-en-greve-generale-pour-protester-contre-le-retablissement-de-la-peine-de-mort-en-israel_7909178.html",
+          "image": "https://www.franceinfo.fr/pictures/zzG6pLMT9KE0RA8jpG_xTdjdTIE/1200x675/2026/04/01/69cd44aa6e8be095479883.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Avocats en grève contre la loi SURE",
+          "summary": "Les avocats de Mâcon entament une grève illimitée pour protester contre le projet de loi \"SURE\" impactant la justice.",
+          "url": "https://www.lejsl.com/faits-divers-justice/2026/04/01/projet-de-loi-sure-les-avocats-du-barreau-de-macon-en-greve-jusqu-a-nouvel-ordre",
+          "image": "https://cdn-s-www.lejsl.com/images/84B4C3CC-9F8F-4B19-9E2A-1ABF2BEE3F14/NW_listB/projet-de-loi-sure-les-avocats-du-barreau-de-macon-en-greve-jusqu-a-nouvel-ordre-1775070098.jpg"
+        },
+        {
+          "title": "Pernod Ricard cède ses vignobles californiens",
+          "summary": "Pernod Ricard finalise la vente stratégique de Mumm Napa et Kenwood en Californie, marquant un repositionnement clair.",
+          "url": "https://fr.investing.com/news/global-filings/pernod-ricard-finalise-la-cession-de-mumm-napa-et-kenwood-en-californie-93CH-3343188",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg"
+        },
+        {
+          "title": "Nouveaux pouvoirs pour agents SNCF/RATP",
+          "summary": "Les agents de sécurité SNCF et RATP obtiennent de nouveaux pouvoirs. Quel est leur champ d'action lors des contrôles ?",
+          "url": "https://www.capital.fr/economie-politique/les-agents-de-securite-sncf-et-ratp-sont-dotes-de-nouveaux-pouvoirs-jusquou-peuvent-ils-aller-en-cas-de-controle-1525223",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~01~e35197eb-6a65-4bb6-af54-141936e8c2fb.jpg/1200x900/focus-point/1502%2C1156/les-agents-de-securite-sncf-et-ratp-sont-dotes-de-nouveaux-pouvoirs-jusqu-ou-peuvent-ils-aller-en-cas-de-controle.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Apple fête ses 50 ans : prototypes cultes",
+          "summary": "Pour les 50 ans d'Apple, Tim Cook révèle des prototypes iconiques, offrant un aperçu unique de l'innovation passée.",
+          "url": "https://www.macg.co/aapl/2026/04/pour-les-50-ans-dapple-tim-cook-revient-sur-quelques-prototypes-iconiques-dapple-en-interview-307805",
+          "image": "https://cdn.mgig.fr/2026/04/mga-6664ef40-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "Black Mirror Experience : la VR immersive",
+          "summary": "Plongez dans Black Mirror Experience, une aventure VR inédite où vous incarnez le personnage principal interactif.",
+          "url": "https://www.presse-citron.net/plongez-black-mirror-experience-laventuree-vr-vous-devenez-personnage-principal/",
+          "image": "https://www.presse-citron.net/app/uploads/2026/04/Liminal-space-1600x900.jpg"
+        },
+        {
+          "title": "Laser cosmique : une découverte lointaine",
+          "summary": "Un \"laser\" cosmique fascinant détecté à 8 milliards d'années-lumière, ouvrant de nouvelles perspectives scientifiques.",
+          "url": "https://www.journaldugeek.com/2026/04/01/laser-cosmique-detecte-8-milliards-dannees-lumiere-quoi-sagit-il/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Laser-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Odyssée Technologies : résultats solides",
+          "summary": "Odyssée Technologies annonce un bénéfice net de 1,5 M€ et prévoit une croissance de 10% en 2026.",
+          "url": "https://fr.investing.com/news/global-filings/odyssee-technologies-affiche-un-resultat-net-de-15-m-et-anticipe-10-de-croissance-en-2026-93CH-3343189",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg"
+        },
+        {
+          "title": "Herc Holdings : nouveau plus bas en bourse",
+          "summary": "L'action Herc Holdings chute à un plus bas de 52 semaines à 96,16 USD, inquiétant les investisseurs.",
+          "url": "https://fr.investing.com/news/company-news/laction-herc-holdings-atteint-un-plus-bas-de-52-semaines-a-9616-usd-93CH-3343203",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPECBE0OL_L.jpg"
+        },
+        {
+          "title": "Aide CAF : jusqu'à 500€ pour votre voiture",
+          "summary": "Découvrez comment obtenir jusqu'à 500 euros de la CAF pour réparer ou assurer votre véhicule.",
+          "url": "https://www.sudouest.fr/economie/mon-argent/jusqu-a-500-euros-pour-reparer-ou-assurer-votre-voiture-comment-beneficier-de-cette-aide-meconnue-de-la-caf-28520741.php",
+          "image": "https://media.sudouest.fr/28520741/1200x600/pexels-artempodrez-8986137.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Mario : Top 10 des éditions rares",
+          "summary": "Découvrez le classement des éditions de jeux Mario les plus rares et convoitées par les collectionneurs passionnés.",
+          "url": "https://www.journaldugeek.com/2026/04/01/top-10-des-editions-mario-rares-que-les-collectionneurs-sarrachent/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/mario-editions-limitees-encheres-record-prix-1280x853.jpeg"
+        },
+        {
+          "title": "Rappel Stellantis : 212 000 hybrides",
+          "summary": "Stellantis rappelle 212 000 voitures hybrides en France. Un risque d'incendie force cette opération majeure.",
+          "url": "https://www.journaldugeek.com/2026/04/01/peugeot-citroen-fiat-opel-stellantis-rappelle-pour-la-enieme-fois-212-000-voitures-hybrides-en-france-pour-risque-dincendie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/07/Peugeot-5008-Electrique-210ch-2024-7-1403x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualités Locales (Gironde)",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Landes : un octogénaire condamné après accident",
+          "summary": "Un octogénaire écope d'un an avec sursis après avoir tué sa compagne dans un accident de la route.",
+          "url": "https://www.sudouest.fr/landes/dax/landes-il-tue-sa-compagne-dans-un-accident-de-la-route-un-octogenaire-condamne-a-un-an-de-prison-avec-sursis-28535478.php",
+          "image": null
+        },
+        {
+          "title": "Dordogne : incendie dans une ferme",
+          "summary": "Un incendie détruit un hangar agricole en Dordogne, servant également au logement de saisonniers.",
+          "url": "https://www.sudouest.fr/faits-divers/en-dordogne-le-hangar-d-une-exploitation-agricole-servant-a-loger-des-saisonniers-prend-feu-28541319.php",
+          "image": null
+        },
+        {
+          "title": "Landes : accident grave, homme héliporté",
+          "summary": "Un accident de la route dans les Landes a conduit à l'héliportage d'un homme gravement blessé.",
+          "url": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/landes-un-homme-heliporte-apres-un-accident-de-la-route-28541215.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performance",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama bat son record de points",
+          "summary": "Toujours aussi impressionnant, Victor Wembanyama établit un nouveau record personnel de points cette saison en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-toujours-en-feu-victor-wembanyama-bat-son-record-de-points-de-la-saison_AV-202603310110.html",
+          "image": "https://images.bfmtv.com/EqUUS-4W7sr7mHTmXc1R2Mius_0=/0x0:2048x1152/800x0/images/Victor-Wembanyama-contre-les-Los-Angeles-Clippers-le-16-mars-2026-2262212.jpg"
+        },
+        {
+          "title": "Marathon de NY : Korir dopé, suspendu",
+          "summary": "Albert Korir, vainqueur du marathon de New York, écope de cinq ans de suspension pour dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-kenyan-albert-korir-vainqueur-du-marathon-de-new-york-suspendu-cinq-ans-pour-dopage_AD-202603300603.html",
+          "image": "https://images.bfmtv.com/GyaUO_a3gAe-j1RFVf0SyDbIRxI=/0x65:768x497/800x0/images/La-joie-du-Kenyan-Albert-Korir-vainqueur-de-la-50e-edition-du-marathon-de-New-York-le-7-novembre-2021-1162177.jpg"
+        },
+        {
+          "title": "Décès d'Antoine Richard, rugbyman français",
+          "summary": "Le club d'Antoine Richard annonce le décès du jeune rugbyman français, dont le corps a été retrouvé.",
+          "url": "https://rmcsport.bfmtv.com/rugby/disparition-d-antoine-richard-un-corps-a-ete-retrouve-dans-un-lac-le-club-de-rugby-du-francais-annonce-sa-mort_AN-202604010571.html",
+          "image": "https://images.bfmtv.com/HeCrwl4aPlAw6pCE0mbimy4EbSs=/6x112:694x499/800x0/images/Antoine-Richard-jeune-joueur-de-rugby-francais-porte-disparu-en-Nouvelle-Zelande-depuis-21-mars-2026-2262246.jpg"
+        }
+      ]
+    }
+  ]
+}
