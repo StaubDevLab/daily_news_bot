@@ -1,0 +1,121 @@
+{
+  "ephemeride": "Saint Richard",
+  "global_summary": "L'actualité mondiale est dominée par l'escalade des tensions au Moyen-Orient, impactant directement l'économie globale avec la hausse des prix du carburant et des alertes bancaires. Des drames humains secouent également la RD-Congo et la mémoire de Marioupol reste vive, soulignant la gravité des conflits actuels.\nEn parallèle, la France fait face à des discussions économiques sur les aides face aux prix de l'énergie et des enjeux sociaux importants. Le secteur de la tech présente ses innovations, d'Apple aux véhicules électriques, mais doit aussi gérer des défis comme les \"ghost guns\". Le sport, lui, oscille entre les coups durs pour les stars de la NBA et les performances remarquables d'athlètes français en rugby et aviron, le tout sur fond de lutte antidopage.",
+  "running_advice": "Salut champion ! Aujourd'hui, on ne se laisse pas abattre par la météo. Avec des températures oscillant entre 8.1°C et 13°C et 50% de chances de pluie, c'est l'occasion de tester ta détermination ! Enfile ta tenue imperméable et tes chaussures de running : la fin de journée, **autour de 18h-19h**, juste avant le coucher du soleil à 20h32, sera parfaite. L'air sera plus doux et la lumière déclinante ajoutera une touche de sérénité à ton effort. L'indice UV est bas (1.8), pas besoin de crème solaire, mais un bon échauffement est de mise. Rappelle-toi : chaque goutte de pluie te rend plus fort ! Allez, on y va !",
+  "weather_string": "🌧️ Pluie (8.1°C / 13°C)",
+  "weather_stats": {
+    "temp": "13°C",
+    "rain": "50%",
+    "uv": "1.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "La guerre fait grimper les prix de l'essence en Chine",
+          "summary": "Les compagnies aériennes chinoises répercutent la hausse du carburant liée à la guerre au Moyen-Orient.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-apres-les-vols-internationaux-les-compagnies-aeriennes-chinoises-repercutent-la-hausse-des-prix-du-carburant-sur-les-liaisons-interieures_7911614.html",
+          "image": "https://www.franceinfo.fr/pictures/OzaWuSt9DXk0LJwboNBSGC9ZiUg/1200x675/2025/04/16/20250224-073036-67ffc5445db57892735795.jpg"
+        },
+        {
+          "title": "43 morts dans une attaque rebelle en RD-Congo",
+          "summary": "Des rebelles ADF liés à l'État islamique ont commis une attaque meurtrière, causant la mort de 43 personnes.",
+          "url": "https://www.la-croix.com/international/rd-congo-43-morts-dans-une-attaque-des-rebelles-adf-lies-a-l-etat-islamique-20260402",
+          "image": "https://i.la-croix.com/x/smart/2026/04/02/2397585-l-armee-reguliere-congolaise-a-affirme-que-quarant.jpg"
+        },
+        {
+          "title": "Les banques américaines en alerte à Paris",
+          "summary": "Les établissements bancaires américains à Paris sont en alerte maximale face à la guerre en Iran.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/a-paris-les-banques-americaines-en-alerte-maximale-sur-fond-de-guerre-en-iran_7911668.html",
+          "image": "https://www.franceinfo.fr/pictures/9RnpqkOKnQMwu3_pNwgBDFXrV_M/1200x675/2026/04/02/69ceb531105c611737542.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Marioupol : l'enfer d'un hôpital revisité",
+          "summary": "Quatre ans après, un reportage poignant plonge dans les cauchemars des survivants de l'hôpital de Marioupol.",
+          "url": "https://www.liberation.fr/international/europe/marioupol-a-hante-mes-cauchemars-quatre-ans-apres-plongee-dans-lenfer-de-lhopital-de-la-ville-ukrainienne-20260402_JXII64R2LRECJEW2Z6ZBN6RZC4/",
+          "image": "https://www.liberation.fr/resizer/v2/O4AH4UBTEFFMPK3YLVAAUP4Z4U.jpg?auth=c1912646486433f45582c76780192ae9b46d795ec5986923b68c01c5665cafab&smart=true&width=1024&height=682"
+        },
+        {
+          "title": "Aides carburant : l'argent magique n'existe pas",
+          "summary": "Clément Beaune déclare l'impossibilité de fonds illimités pour les aides face aux prix du carburant.",
+          "url": "https://www.franceinfo.fr/replay-jt/franceinfo/jt-tout-est-politique/aides-face-aux-prix-du-carburant-on-ne-peut-pas-faire-croire-qu-il-y-a-de-l-argent-magique-declare-clement-beaune-haut-commissaire-a-la-strategie-et-au-plan_7911680.html",
+          "image": "https://www.franceinfo.fr/pictures/GFLLdUknlauzJ5TvuqGxKZaZ_-I/1200x675/2026/04/02/69ceb89c5456d431208502.jpg"
+        },
+        {
+          "title": "Rugby Pro D2 : derby pour la suprématie régionale",
+          "summary": "Suivez le derby FCG - VRDR au stade des Alpes, un match crucial pour la suprématie régionale.",
+          "url": "https://www.ledauphine.com/sport/2026/04/02/fcg-vrdr-a-qui-la-suprematie-regionale-suivez-le-derby",
+          "image": "https://cdn-s-www.ledauphine.com/images/A84D7354-6B36-4689-BE89-AEF94A50BE3D/NW_listB/fcg-vrdr-c-est-parti-au-stade-des-alpes-a-qui-la-suprematie-regionale-1775146294.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Mégaprofite des pétroliers : les grands gagnants ?",
+          "summary": "Une enquête questionne si les compagnies pétrolières profitent massivement de l'actuelle crise énergétique.",
+          "url": "https://www.franceinfo.fr/economie/les-milliards-de-la-guerre-les-compagnies-petrolieres-sont-elles-les-grandes-gagnantes-de-la-crise-energetique_7911683.html",
+          "image": "https://www.franceinfo.fr/pictures/a0H5M2NRZjQJ8PZFw4VuO5izCP8/1200x675/2026/04/02/69cebad4ddb1c681982962.png"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Le nouveau chargeur Apple incompatible",
+          "summary": "Un nouveau chargeur Apple de 140W se généralise, mais est incompatible avec les anciens embouts.",
+          "url": "https://www.macg.co/mac/2026/04/un-nouveau-chargeur-140-w-se-generalise-chez-apple-incompatible-avec-les-anciens-embouts-pour-prise-murale-307833",
+          "image": "https://cdn.mgig.fr/2026/04/mga-ba63f2cb-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "New York déclare la guerre aux \"ghost guns\"",
+          "summary": "La ville de New York s'attaque aux armes à feu imprimées en 3D, les redoutés \"ghost guns\".",
+          "url": "https://www.generation-nt.com/actualites/new-york-impression-3d-armes-ghost-guns-loi-2073490",
+          "image": "https://img.generation-nt.com/armes-imprim-eacute-es-02_04B002A301721001.webp"
+        },
+        {
+          "title": "Harry Potter : tout sur la nouvelle série HBO",
+          "summary": "Découvrez le guide complet 2026 sur la série très attendue de Harry Potter par HBO.",
+          "url": "https://www.journaldugeek.com/dossier/harry-potter-la-serie-est-officielle-date-intrigue-tout-savoir/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/harry-potter-tout-savoir-sur-la-serie-hbo-max-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : le MVP en péril ?",
+          "summary": "Le forfait surprise de Wembanyama met en danger sa course pour le titre de MVP de la NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-pourquoi-le-forfait-surprise-de-wembanyama-contre-les-clippers-met-en-danger-sa-course-au-titre-de-mvp_AV-202604030279.html",
+          "image": "https://images.bfmtv.com/4d9gerz8ixNpH5iyBMQY4kswZjI=/0x0:1856x1044/800x0/images/Victor-Wembanyama-lors-d-un-match-NBA-avec-les-Spurs-de-San-Antonio-le-16-mars-2026-2264356.jpg"
+        },
+        {
+          "title": "Bielle-Biarrey, meilleur joueur du Tournoi",
+          "summary": "Louis Bielle-Biarrey est élu meilleur joueur du Tournoi des 6 Nations pour la deuxième fois consécutive.",
+          "url": "https://rmcsport.bfmtv.com/rugby/tournoi-des-6-nations/6-nations-2026-bielle-biarrey-elu-meilleur-joueur-du-tournoi-pour-la-deuxieme-fois-consecutive_AV-202604020905.html",
+          "image": "https://images.bfmtv.com/O8KOsJ_va85iJMyXrLiAPH9NLNM=/0x114:2048x1266/800x0/images/Louis-Bielle-Biarrey-marque-un-essai-lors-de-France-Angleterre-Tournoi-des-6-nations-14-mars-2026-2252591.jpg"
+        },
+        {
+          "title": "L'histoire des rameurs français à la Boat Race",
+          "summary": "Deux étudiants français dirigeront les équipes d'Oxford et Cambridge dans la célèbre course d'aviron.",
+          "url": "https://rmcsport.bfmtv.com/societe/pendant-cette-semaine-c-est-l-ennemi-deux-etudiants-francais-meneront-les-equipes-d-oxford-et-cambridge-pendant-la-celebre-course-d-aviron-une-grande-premiere_AN-202604030040.html",
+          "image": "https://images.bfmtv.com/vmU7Li8JG4zKChefuWOu9aPPj48=/226x80:1938x1043/800x0/images/Les-Francais-Noam-Mouelle-et-Tobias-Bernard-avant-la-course-d-aviron-entre-Cambridge-et-Oxford-mars-2026-2263306.jpg"
+        }
+      ]
+    }
+  ]
+}
