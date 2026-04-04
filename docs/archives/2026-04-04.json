@@ -1,8 +1,8 @@
 {
   "ephemeride": "Saint Isidore",
-  "global_summary": "La scène internationale reste chargée d'incertitudes avec un incident aérien majeur en Iran et le conflit ukrainien qui piétine, rappelant la fragilité de la géopolitique mondiale. En France, l'actualité oscille entre les coulisses étonnantes de Pékin Express et des enjeux plus sérieux comme l'audition de Rima Hassan ou la menace d'effondrement à Honfleur, soulignant un quotidien fait de divertissement et de défis structurels.\n\nLe monde des affaires s'inquiète des marges des raffineries et des enquêtes environnementales sur Le Creuset, tandis que la sphère tech innove avec des appels spatiaux, tout en faisant face à des restructurations massives chez Oracle. Côté sport, les gros titres sont marqués par le dopage, des verdicts judiciaires sévères dans le rugby et l'impact décisif des forfaits de stars comme Wembanyama, illustrant la dualité entre performance et controverse.",
-  "running_advice": "Coach sportif ici ! Excellente nouvelle pour nos runners : c'est une journée idéale pour enfiler vos baskets ! Avec des températures parfaites allant de 8.6°C à 20.5°C et aucun risque de pluie, les conditions sont optimales. Le brouillard matinal se dissipera pour une course agréable. Je vous conseille de viser la fin d'après-midi, entre 17h00 et 19h00, pour profiter d'une lumière plus douce et d'une température encore clémente. Attention cependant, l'indice UV est de 5.9 : protégez votre peau avec une crème solaire, même par temps couvert, et n'oubliez pas votre casquette ou vos lunettes. Allez, on sort et on respire à fond !",
-  "weather_string": "🌫️ Brouillard (8.6°C / 20.5°C)",
+  "global_summary": "L'actualité de ce jour est marquée par une tension internationale persistante, avec un incident aérien majeur en Iran et la situation stagnante en Ukraine. En France, les questions politiques et judiciaires se mêlent aux préoccupations locales concernant l'infrastructure d'Honfleur et les pratiques industrielles. Le monde économique est également sous la loupe, notamment avec les enquêtes sur les marges des carburants et la pollution industrielle, soulignant des défis majeurs à l'échelle nationale et mondiale.\nCependant, des éclairs de progrès et d'accomplissement percent cette grisaille, comme le prochain appel spatial d'Artémis. Le sport offre son lot d'émotions, des performances individuelles de Wembanyama aux exploits collectifs à l'aviron, sans oublier les rappels à l'éthique avec les affaires de dopage et les enjeux judiciaires régionaux. C'est une journée où les défis et les espoirs se côtoient, nous invitant à rester informés et engagés face à un kaléidoscope d'événements.",
+  "running_advice": "Amis sportifs, c'est une excellente journée pour chausser vos baskets ! Avec des températures allant de 8.3°C à 20.5°C et aucune pluie à l'horizon, les conditions sont idéales. Le brouillard matinal devrait vite laisser place à un ciel plus clair. Je vous conseille de viser un créneau entre 10h00 et 16h00, une fois le brouillard dissipé, pour profiter de la douceur. Mais attention, l'indice UV est de 5.9, alors n'oubliez pas votre crème solaire et une casquette ! C'est le moment parfait pour booster votre énergie et prendre un grand bol d'air frais. Allez, on se motive, chaque foulée compte !",
+  "weather_string": "🌫️ Brouillard (8.3°C / 20.5°C)",
   "weather_stats": {
     "temp": "20.5°C",
     "rain": "0%",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Avion US abattu en Iran, équipage recherché",
-          "summary": "Un chasseur américain a été abattu en Iran, l'armée recherche activement son équipage dans une zone de tension.",
+          "title": "Avion US abattu en Iran",
+          "summary": "Un incident tendu secoue la scène internationale; l'armée américaine recherche activement l'équipage après la destruction de son appareil.",
           "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/un-avion-de-combat-americain-abattu-en-iran-l-armee-recherche-l-equipage_7913846.html",
           "image": "https://www.franceinfo.fr/pictures/OH1NO9WtC3FgtakDwHTdsPI79-Y/1200x675/2026/04/03/69d00761417a3197395613.jpg"
         },
         {
-          "title": "La Russie piétine en Ukraine après 2 ans et demi",
-          "summary": "Pour la première fois depuis longtemps, les forces russes stagnent en Ukraine, marquant un tournant sur le front.",
+          "title": "Ukraine : la Russie ralentit",
+          "summary": "Après des années d'avancée, l'armée russe marque le pas en Ukraine, un tournant stratégique majeur dans le conflit.",
           "url": "https://www.huffingtonpost.fr/international/article/la-russie-pietine-en-ukraine-pour-la-premiere-fois-depuis-deux-ans-et-demi_262277.html",
           "image": "https://focus.huffingtonpost.fr/2025/05/12/122/0/4591/2582/0/0/60/0/3225497_sirius-fs-upload-1-xr6d34xbphts-1747055628743-000-468q6cq.jpg"
         },
         {
-          "title": "Vote esclavage: députés interpellent la France",
-          "summary": "Des députés questionnent l'abstention de la France lors d'un vote important sur l'esclavage à l'Assemblée.",
+          "title": "Vote esclavage : la France interpellée",
+          "summary": "L'abstention de la France lors d'un vote crucial sur l'esclavage suscite l'indignation et des questions parlementaires.",
           "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/des-deputes-interpellent-la-france-sur-son-abstention-lors-d-un-vote-sur-l-esclavage_7913483.html",
           "image": "https://www.franceinfo.fr/pictures/A6Yb2laJUWzD2XlUxXAP4J5yJP8/fit-in/1200x675/filters:upscale():fill(black)/2026/04/03/69cfce5d99dd7572686966.png"
         }
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Pékin Express: une étape créée en catastrophe",
-          "summary": "La production de Pékin Express a dû improviser une étape d'urgence, un vrai défi logistique pour l'équipe.",
-          "url": "https://www.ozap.com/actu/pour-la-logistique-cest-lenfer-comment-la-production-de-pekin-express-2026-a-improvise-et-cree-une-etape-en-catastrophe/654447",
-          "image": "https://static1.ozap.com/uploads/32/7f/0f/6f/904819eacccbb397-1200x0-1.jpg"
-        },
-        {
-          "title": "Rima Hassan dénonce un \"harcèlement\" policier et politique",
-          "summary": "L'eurodéputée Rima Hassan s'est dite victime d'un harcèlement judiciaire et politique après son audition.",
+          "title": "Rima Hassan : harcèlement dénoncé",
+          "summary": "L'eurodéputée Rima Hassan dénonce un « harcèlement judiciaire et politique » après son audition par la police.",
           "url": "https://www.europe1.fr/police-justice/rima-hassan-entendue-par-la-police-je-fais-lobjet-dun-veritable-harcelement-judiciaire-et-politique-denonce-leurodeputee-920689",
           "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/04/03/19/000_a6pn3n2_1_1_69cff52534f32.jpg"
         },
         {
-          "title": "Honfleur: risque d'effondrement sur le quai",
-          "summary": "Le quai Sainte-Catherine à Honfleur est sous la menace d'un nouvel effondrement, évacuation en cours.",
+          "title": "Honfleur : quai menacé d'effondrement",
+          "summary": "Le quai Sainte-Catherine à Honfleur est de nouveau sous la menace d'un effondrement, une situation critique.",
           "url": "https://actu.fr/normandie/honfleur_14333/honfleur-le-spectre-de-leffondrement-plane-a-nouveau-sur-le-quai-sainte-catherine_64101532.html",
           "image": "https://static.actu.fr/uploads/2026/04/d47900924dc96f87900924dc9bc790v-1.jpg"
+        },
+        {
+          "title": "Pékin Express : improvisation extrême",
+          "summary": "La production de \"Pékin Express\" a dû improviser une étape en catastrophe, un défi logistique colossal.",
+          "url": "https://www.ozap.com/actu/pour-la-logistique-cest-lenfer-comment-la-production-de-pekin-express-2026-a-improvise-et-cree-une-etape-en-catastrophe/654447",
+          "image": "https://static1.ozap.com/uploads/32/7f/0f/6f/904819eacccbb397-1200x0-1.jpg"
         }
       ]
     },
@@ -62,14 +62,14 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Allo l'ISS? Ici Artemis! Un appel spatial mardi",
-          "summary": "Un événement historique: un appel depuis l'Espace, avec Sophie Adenot, est prévu pour mardi.",
+          "title": "Artémis et l'ISS : appel spatial",
+          "summary": "Un appel inédit de l'espace est prévu mardi avec Artémis et Sophie Adenot, connectant la Terre à l'ISS.",
           "url": "https://www.20minutes.fr/high-tech/sciences/artemis/4216676-20260403-allo-iss-artemis-coup-fil-espace-mardi-sophie-adenot",
           "image": "https://img.20mn.fr/rak-uwfnSb67VQx0AqbPayk/1444x920_vue-de-la-terre-depuis-la-sonde-orion-de-la-nasa-alors-qu-elle-orbite-au-dessus-de-la-planete-lors-du-vol-d-essai-artemis-ii-les-astronautes-de-la-nasa-le-commandant-reid-wiseman-le-pilote-victor-glover-la-specialiste-de-mission-christina-koch-et-le-specialiste-de-mission-de-l-asc-agence-spatiale-canadienne-jeremy-hansen-ont-decolle-a-18-h-35-hae-le-mercredi-1er-avril-2026-pour-une-mission-d-environ-10-jours-autour-de-la-lune-et-retour-sur-terre-photo-nasa-upi-via-news-com-upi-photos-three136170-upi-newscom-sipa-2604022253"
         },
         {
-          "title": "Oracle licencie par e-mail, sans contact humain",
-          "summary": "La plus grande vague de licenciements chez Oracle a été annoncée par simple e-mail, sans réunion.",
+          "title": "Licenciements Oracle : l'ère de l'e-mail",
+          "summary": "Oracle réalise ses plus grands licenciements via un simple e-mail, soulevant des questions éthiques en entreprise.",
           "url": "https://oracle.developpez.com/actu/381823/La-plus-grande-vague-de-licenciements-jamais-organisee-par-Oracle-ne-s-est-pas-accompagnee-d-un-appel-telephonique-d-une-reunion-ou-d-un-entretien-avec-un-responsable-mais-seulement-d-un-e-mail/",
           "image": "https://www.developpez.com/images/logos/oracle.png"
         }
@@ -80,56 +80,62 @@
       "emoji": "💰",
       "articles": [
         {
-          "title": "Carburants: enquête sur les marges des raffineries",
-          "summary": "Roland Lescure demande une enquête européenne sur les marges des raffineries face à la hausse des prix.",
+          "title": "Carburants : enquête sur les marges",
+          "summary": "Une enquête européenne est demandée sur les marges des raffineries pour comprendre la hausse des prix du carburant.",
           "url": "https://www.la-croix.com/economie/prix-des-carburants-roland-lescure-demande-une-enquete-europeenne-sur-les-marges-des-raffineries-20260403",
           "image": "https://i.la-croix.com/x/smart/2026/04/03/2398646-roland-lescure-demande-a-la-commission-d-enqueter-.jpg"
         },
         {
-          "title": "Le Creuset: enquête pour rejets de cadmium",
-          "summary": "Une enquête est ouverte contre l'usine Le Creuset suite à des rejets polluants de cadmium dans l'Aisne.",
+          "title": "Le Creuset : enquête sur rejets",
+          "summary": "Une enquête est ouverte concernant des rejets de cadmium par l'usine Le Creuset, soulevant des enjeux environnementaux.",
           "url": "https://www.lemonde.fr/planete/article/2026/04/03/rejets-de-cadmium-une-enquete-ouverte-sur-l-usine-du-fabricant-de-cocottes-le-creuset-dans-l-aisne_6676413_3244.html",
           "image": "https://img.lemde.fr/2026/04/03/219/0/4196/2098/644/322/60/0/c1a44a3_upload-1-nakopkb3v729-000-43zj4nz.jpg"
         }
       ]
     },
     {
-      "label": "Région",
+      "label": "Gironde",
       "emoji": "📍",
       "articles": [
         {
-          "title": "Agen: des automobilistes ivres même le matin",
-          "summary": "La sécurité routière à Agen révèle des cas d'alcoolémie choquants, même aux premières heures du jour.",
-          "url": "https://www.sudouest.fr/lot-et-garonne/agen/securite-routiere-a-agen-des-automobilistes-bien-arroses-meme-en-matinee-28560254.php",
+          "title": "Rugbymen condamnés pour viol",
+          "summary": "Les peines de 12 à 14 ans de prison pour viol en réunion contre d'anciens rugbymen de Grenoble sont confirmées.",
+          "url": "https://www.sudouest.fr/justice/ex-rugbymen-de-grenoble-condamnes-pour-viol-en-reunion-12-a-14-ans-de-prison-les-peines-confirmes-en-appel-28563981.php",
           "image": null
         },
         {
-          "title": "Elio Darmon, témoin-clé de l'affaire Boulin, retrouvé mort",
-          "summary": "La mort d'Elio Darmon, témoin crucial de l'affaire Boulin, relance les spéculations sur ce dossier complexe.",
+          "title": "Affaire Boulin : témoin retrouvé mort",
+          "summary": "Elio Darmon, témoin-clé de l'affaire Boulin, a été retrouvé mort, relançant les interrogations sur ce dossier.",
           "url": "https://www.sudouest.fr/justice/bientot-il-ne-restera-plus-personne-qui-etait-elio-darmon-temoin-cle-de-l-affaire-boulin-retrouve-mort-a-son-domicile-28560179.php",
+          "image": null
+        },
+        {
+          "title": "Agen : alcool au volant le matin",
+          "summary": "Des contrôles à Agen révèlent des automobilistes en état d'ivresse dès le matin, un constat alarmant pour la sécurité.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/agen/securite-routiere-a-agen-des-automobilistes-bien-arroser-meme-en-matinee-28560254.php",
           "image": null
         }
       ]
     },
     {
-      "label": "Culture Geek",
+      "label": "JDG",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Super Mario Galaxy: 3 références incontournables",
-          "summary": "Décryptez les clins d'œil cachés dans Super Mario Galaxy qui ont marqué les fans du jeu vidéo.",
+          "title": "Mario Galaxy : 3 références cultes",
+          "summary": "Plongez dans les secrets de Super Mario Galaxy en découvrant trois références clés qui ont marqué les fans.",
           "url": "https://www.journaldugeek.com/2026/04/03/super-mario-galaxy-avez-vous-compris-ces-3-references-cles/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/04/super-mario-galaxy-ref-1280x853.jpg"
         },
         {
-          "title": "Disneyland Paris: éviter l'attente au land Reine des Neiges",
-          "summary": "Découvrez des astuces pour profiter du nouveau land Reine des Neiges sans les longues files d'attente.",
+          "title": "Disneyland : astuces Reine des Neiges",
+          "summary": "Découvrez les meilleures astuces pour profiter du land Reine des Neiges à Disneyland Paris sans files d'attente interminables.",
           "url": "https://www.journaldugeek.com/2026/04/03/disneyland-paris-toutes-les-astuces-pour-eviter-dattendre-avant-dentrer-dans-le-land-reine-des-neiges-et-faire-lattraction-sans-attendre-2-heures/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/DSC05036-1280x853.jpg"
         },
         {
-          "title": "Cartouche Pokémon: comment démasquer le vrai du faux",
-          "summary": "Un guide essentiel pour distinguer une vraie cartouche Pokémon d'une contrefaçon et éviter les arnaques.",
+          "title": "Cartouche Pokémon : vraie ou fausse ?",
+          "summary": "Apprenez à distinguer une vraie cartouche Pokémon d'une contrefaçon grâce à des astuces simples et efficaces.",
           "url": "https://www.journaldugeek.com/2026/04/03/comment-savoir-si-votre-cartouche-pokemon-est-vraie-ou-fausse/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/DSC05406-1280x776.jpg"
         }
@@ -140,22 +146,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Dopage: Albert Korir suspendu 5 ans",
-          "summary": "Le vainqueur du marathon de New York, Albert Korir, écope de cinq ans de suspension pour dopage.",
+          "title": "Wembanyama : MVP en danger ?",
+          "summary": "Le forfait surprise de Wembanyama face aux Clippers pourrait compromettre sa course au prestigieux titre de MVP.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-pourquoi-le-forfait-surprise-de-wembanyama-contre-les-clippers-met-en-danger-sa-course-au-titre-de-mvp_AV-202604030279.html",
+          "image": "https://images.bfmtv.com/4d9gerz8ixNpH5iyBMQY4kswZjI=/0x0:1856x1044/800x0/images/Victor-Wembanyama-lors-d-un-match-NBA-avec-les-Spurs-de-San-Antonio-le-16-mars-2026-2264356.jpg"
+        },
+        {
+          "title": "Marathon de New York : Dopage",
+          "summary": "Le vainqueur du marathon de New York, Albert Korir, est suspendu cinq ans pour dopage, ternissant sa victoire.",
           "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-kenyan-albert-korir-vainqueur-du-marathon-de-new-york-suspendu-cinq-ans-pour-dopage_AD-202603300603.html",
           "image": "https://images.bfmtv.com/GyaUO_a3gAe-j1RFVf0SyDbIRxI=/0x65:768x497/800x0/images/La-joie-du-Kenyan-Albert-Korir-vainqueur-de-la-50e-edition-du-marathon-de-New-York-le-7-novembre-2021-1162177.jpg"
         },
         {
-          "title": "Rugby: peines confirmées pour viol collectif",
-          "summary": "Lourdes peines requises et confirmées en appel contre trois ex-rugbymen accusés de viol en réunion.",
-          "url": "https://rmcsport.bfmtv.com/rugby/de-lourdes-peines-requises-en-appel-contre-les-trois-rugbymen-accuses-de-viol-collectif_AD-202604030588.html",
-          "image": "https://images.bfmtv.com/SkNFXBDJ_lr2s3nS4xNXTHMbkzw=/14x45:2030x1179/800x0/images/Loick-Jammes-lors-du-proces-en-2024-2264627.jpg"
-        },
-        {
-          "title": "Wembanyama forfait: la course au MVP menacée",
-          "summary": "Le forfait surprise de Wembanyama face aux Clippers pourrait compromettre sa course au titre de MVP.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-pourquoi-le-forfait-surprise-de-wembanyama-contre-les-clippers-met-en-danger-sa-course-au-titre-de-mvp_AV-202604030279.html",
-          "image": "https://images.bfmtv.com/4d9gerz8ixNpH5iyBMQY4kswZjI=/0x0:1856x1044/800x0/images/Victor-Wembanyama-lors-d-un-match-NBA-avec-les-Spurs-de-San-Antonio-le-16-mars-2026-2264356.jpg"
+          "title": "Boat Race : duel français en aviron",
+          "summary": "Deux étudiants français dirigeront les équipes d'Oxford et Cambridge dans la mythique Boat Race, une première historique.",
+          "url": "https://rmcsport.bfmtv.com/societe/pendant-cette-semaine-c-est-l-ennemi-deux-etudiants-francais-meneront-les-equipes-d-oxford-et-cambridge-pendant-la-celebre-course-d-aviron-une-grande-premiere_AN-202604030040.html",
+          "image": "https://images.bfmtv.com/vmU7Li8JG4zKChefuWOu9aPPj48=/226x80:1938x1043/800x0/images/Les-Francais-Noam-Mouelle-et-Tobias-Bernard-avant-la-course-d-aviron-entre-Cambridge-et-Oxford-mars-2026-2263306.jpg"
         }
       ]
     }
