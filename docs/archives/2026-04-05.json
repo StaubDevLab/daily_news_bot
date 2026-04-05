@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Irène",
+  "global_summary": "L'actualité de ce jour est marquée par une tension persistante sur la scène internationale, avec l'inquiétante recherche d'un pilote américain abattu, risquant de devenir un tournant géopolitique majeur. En France, les faits divers tragiques continuent de faire la une, tandis que le débat sur l'écologie s'intensifie, axé sur la santé et le pouvoir d'achat. Localement, des événements marquants se dessinent en Drôme et à Flêtre, illustrant la diversité des préoccupations nationales. \n\nLe monde des affaires et de la technologie navigue entre innovations prometteuses en IA chez Schneider Electric et des restructurations significatives chez Oracle, montrant une dualité entre investissements d'avenir et défis économiques. Côté sport, les prouesses de Victor Wembanyama côtoient les scandales de dopage et les histoires inspirantes d'étudiants français menant la célèbre Boat Race, soulignant la complexité et la richesse de ce domaine.",
+  "running_advice": "Absolument ! C'est une excellente journée pour chausser vos baskets et vous dépasser ! Avec des températures douces allant de 9.7°C à 19.3°C et aucune pluie à l'horizon, les conditions sont idéales pour votre séance. Le léger brouillard matinal se dissipera pour laisser place à une atmosphère parfaite. Je vous conseille vivement de courir en fin de matinée ou en début d'après-midi, entre 10h00 et 16h00, pour profiter de la meilleure chaleur et d'une luminosité agréable. Attention, avec un indice UV de 5.95, le soleil peut être trompeur même à travers le brouillard : n'oubliez pas votre crème solaire et une casquette pour une protection optimale. Allez, on se motive, l'énergie vous attend sur le bitume !",
+  "weather_string": "🌫️ Brouillard (9.7°C / 19.3°C)",
+  "weather_stats": {
+    "temp": "19.3°C",
+    "rain": "0%",
+    "uv": "5.95"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "F-15 abattu : pilote recherché, tension maximale",
+          "summary": "La recherche du pilote d'un F-15 américain abattu en Iran intensifie les craintes d'escalade géopolitique.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/f-15-americain-abattu-ou-se-trouve-le-pilote-et-est-il-toujours-en-vie_7915778.html",
+          "image": "https://www.franceinfo.fr/pictures/v3V6vITLt-AdnJcICDb05LyX3yg/1200x675/2026/04/04/69d15793ab04d010911548.png"
+        },
+        {
+          "title": "Pilote US en Iran : vers un tournant majeur",
+          "summary": "Un géopolitologue avertit des risques d'un tournant crucial suite à la disparition du pilote américain en Iran.",
+          "url": "https://www.franceinfo.fr/replay-radio/tout-est-politique/recherche-d-un-pilote-americain-en-iran-ca-peut-etre-un-tournant-estime-dominique-moisi-geopolitologue_7915769.html",
+          "image": "https://www.franceinfo.fr/pictures/k7WJv3jNhnVpgJEzNNHSOvEjvCA/1200x675/2026/04/04/69d151052b9dd025224434.jpg"
+        },
+        {
+          "title": "Drôme : un jeune tué à l'arme blanche",
+          "summary": "Un homme de 25 ans a été mortellement blessé dans la Drôme, deux suspects sont en garde à vue.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/04/04/un-homme-de-25-ans-tue-a-l-arme-blanche-deux-personnes-interpellees",
+          "image": "https://cdn-s-www.lalsace.fr/images/90BB6830-E0D4-47D6-81F7-29C09803091D/NW_listB/un-homme-de-25-ans-tue-a-l-arme-blanche-deux-personnes-interpellees-1775327808.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Femme défenestrée : piste du suicide à Paris",
+          "summary": "Le mari réalisateur mis hors de cause, l'enquête à Paris s'oriente vers un suicide de la femme défenestrée.",
+          "url": "https://www.parismatch.com/actu/faits-divers/info-paris-match-femme-defenestree-a-paris-son-mari-realisateur-mis-hors-de-cause-la-piste-du-suicide-privilegiee-267043",
+          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/04/03/11/feminicide.jpeg?VersionId=76S84IsjcSa49exyZNm2dTSWYLasWqPN"
+        },
+        {
+          "title": "Écologie : santé et pouvoir d'achat clés",
+          "summary": "Selon Théodore Tallent, l'écologie s'impose par la santé publique et le pouvoir d'achat des citoyens.",
+          "url": "https://www.mediapart.fr/journal/politique/040426/theodore-tallent-il-y-deux-manieres-aujourd-hui-de-rentrer-dans-l-ecologie-la-sante-et-le-pouvoir-d-ach",
+          "image": "https://static.mediapart.fr/etmagine/default/files/2026/04/03/260403-img-theodore-tallant.jpg"
+        },
+        {
+          "title": "Malaise municipal à Flêtre après l'élection",
+          "summary": "À Flêtre, l'élection de Philippe Masquelier est ternie par des tensions lors de la nomination des adjoints.",
+          "url": "http://www.nordlittoral.fr/281709/article/2026-04-04/fletre-philippe-masquelier-elu-par-le-conseil-municipal-mais-un-premier-malaise",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/04/04/node_281709/3728787/public/2026/04/04/69466142.jpeg?itok=73fIiKpE1775328957"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Schneider Electric optimise l'IA",
+          "summary": "Schneider Electric dévoile sa stratégie pour monétiser l'intelligence artificielle et ses applications concrètes.",
+          "url": "https://www.larevuedudigital.com/schneider-electric-sa-methode-pour-rentabiliser-les-cas-dusage-en-ia/",
+          "image": "https://www.larevuedudigital.com/wp-content/uploads/2026/04/Schneider-Electric-3-BF2-.jpg"
+        },
+        {
+          "title": "Oracle investit massivement dans l'IA",
+          "summary": "Alors qu'Oracle réduit ses effectifs, l'entreprise investit des sommes colossales dans la recherche en IA.",
+          "url": "https://www.journaldugeek.com/2026/04/04/oracle-coupe-dans-ses-effectifs-mais-depense-sans-compter-pour-lia/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/oracle-1280x853.jpg"
+        },
+        {
+          "title": "Gagnez 500€ en louant votre voiture",
+          "summary": "Une nouvelle tendance permet de rentabiliser sa voiture en la louant un mois, rapportant jusqu'à 500 euros.",
+          "url": "https://www.autoplus.fr/actualite/insolite/louer-sa-voiture-durant-un-mois-peut-vous-rapporter-500-euros-1435006.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/04/captura-de-pantalla-2026-04-04-a-las-18.24.10.png"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Ardèche : La friche du Dahu transformée",
+          "summary": "Des travaux d'aménagement débutent en Ardèche pour revitaliser la friche du Dahu, promettant des changements locaux.",
+          "url": "https://www.ledauphine.com/economie/2026/04/04/les-travaux-d-amenagement-de-la-friche-du-dahu-demarrent-ce-qui-va-changer",
+          "image": "https://cdn-s-www.ledauphine.com/images/B1E31CB9-56E6-4118-AFF3-74C64C076097/NW_listB/les-travaux-d-amenagement-de-la-friche-du-dahu-demarrent-ce-qui-va-changer-1775329337.jpg"
+        },
+        {
+          "title": "Dompaire : forte mobilisation pour le don de sang",
+          "summary": "La communauté de Dompaire a montré une participation record à la dernière collecte de sang, un bel élan solidaire.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/04/04/participation-elevee-pour-la-collecte-de-sang",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/E116B15B-7C71-4FB2-902A-9A6FDF81CAF7/NW_listB/participation-elevee-pour-la-collecte-de-sang-1775328171.jpg"
+        },
+        {
+          "title": "Hymont : Bienvenue au petit Émile",
+          "summary": "Une heureuse nouvelle à Hymont avec la naissance du petit Émile, saluée par toute la communauté.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/04/04/bienvenue-a-emile",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/D2735BEC-309D-4E29-A495-AB23E6D1645C/NW_listB/bienvenue-a-emile-1775328172.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama vs Jokic : duel de géants NBA",
+          "summary": "San Antonio perd sa série malgré un grand Wembanyama face à un Jokic impressionnant dans un match épique.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-de-serie-pour-san-antonio-malgre-un-grand-wembanyama_AD-202604050108.html",
+          "image": "https://images.bfmtv.com/F2nn0PiT0x8FDhQK1LHHVVdrqp0=/0x80:2048x1232/800x0/images/Nikola-Jokic-face-a-Victor-Wembanyama-lors-du-match-de-NBA-entre-Denver-et-San-Antonio-le-4-avril-2026-2265155.jpg"
+        },
+        {
+          "title": "Marathon : Korir suspendu 5 ans pour dopage",
+          "summary": "Le vainqueur du marathon de New York, Albert Korir, écope d'une suspension de cinq ans pour dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-kenyan-albert-korir-vainqueur-du-marathon-de-new-york-suspendu-cinq-ans-pour-dopage_AD-202603300603.html",
+          "image": "https://images.bfmtv.com/GyaUO_a3gAe-j1RFVf0SyDbIRxI=/0x65:768x497/800x0/images/La-joie-du-Kenyan-Albert-Korir-vainqueur-de-la-50e-edition-du-marathon-de-New-York-le-7-novembre-2021-1162177.jpg"
+        },
+        {
+          "title": "Aviron Oxford-Cambridge : deux Français capitaines",
+          "summary": "Grande première : deux étudiants français dirigeront les équipes d'Oxford et Cambridge dans la mythique Boat Race.",
+          "url": "https://rmcsport.bfmtv.com/societe/pendant-cette-semaine-c-est-l-ennemi-deux-etudiants-francais-meneront-les-equipes-d-oxford-et-cambridge-pendant-la-celebre-course-d-aviron-une-grande-premiere_AN-202604030040.html",
+          "image": "https://images.bfmtv.com/vmU7Li8JG4zKChefuWOu9aPPj48=/226x80:1938x1043/800x0/images/Les-Francais-Noam-Mouelle-et-Tobias-Bernard-avant-la-course-d-aviron-entre-Cambridge-et-Oxford-mars-2026-2263306.jpg"
+        }
+      ]
+    }
+  ]
+}
