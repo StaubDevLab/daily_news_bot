@@ -1,0 +1,132 @@
+{
+  "ephemeride": "Saint Marcellin",
+  "global_summary": "Le monde navigue en eaux troubles, entre tensions géopolitiques exacerbées au Moyen-Orient et analyses des bouleversements mondiaux qui pourraient avoir des répercussions planétaires, notamment sur des points stratégiques comme le Détroit d'Ormuz. Cette instabilité globale appelle à une veille constante et une compréhension approfondie des enjeux. \n\nSur le front national, la France fait face à des révélations et des débats sociétaux majeurs, tandis que l'innovation technologique côtoie les défis du marché immobilier. Le monde du sport, quant à lui, nous offre des moments de haute intensité et des rappels importants sur l'éthique, mêlant exploits individuels et compétitions acharnées.",
+  "running_advice": "Absolument ! Avec des températures parfaites oscillant entre 10°C et 27.6°C sous un ciel peu nuageux et sans une goutte de pluie, c'est une journée idéale pour enfiler vos baskets ! Pour un entraînement optimal et pour éviter la chaleur du milieu de journée, je vous conseille de viser tôt le matin, juste après le lever du soleil vers 7h30, ou en fin d'après-midi, entre 17h00 et 19h00. Attention cependant, l'indice UV de 6 est élevé : n'oubliez pas votre crème solaire, vos lunettes et une casquette pour vous protéger. Hydratez-vous bien et profitez de chaque foulée !",
+  "weather_string": "🌤️ Peu nuageux (10°C / 27.6°C)",
+  "weather_stats": {
+    "temp": "27.6°C",
+    "rain": "0%",
+    "uv": "6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Géopolitique : Haski analyse le monde",
+          "summary": "Pierre Haski décrypte les grandes secousses mondiales, offrant une perspective essentielle pour comprendre les dynamiques actuelles.",
+          "url": "https://www.rfi.fr/fr/podcasts/g%C3%A9opolitique/20260405-les-bouleversements-du-monde-analys%C3%A9s-par-pierre-haski",
+          "image": "https://s.rfi.fr/media/display/cfeac45c-22af-11f1-b398-005056bfb2b6/w:1280/p:16x9/2026-03-08T233543Z-1266266262-RC24MHAEKSCY-RTRMADP-3-USA-CHINA-SUMMIT.jpg"
+        },
+        {
+          "title": "Détroit d'Ormuz : risque mondial",
+          "summary": "Le blocage du détroit d'Ormuz pourrait déclencher une crise mondiale majeure, aux répercussions économiques et stratégiques immenses.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/detroit-d-ormuz-bloque-une-deflagration-mondiale_7917692.html",
+          "image": "https://www.franceinfo.fr/pictures/cyHcZI7ia6rusKOsRB6bntJ4miM/1200x675/2026/04/05/69d2b2155c987143994143.jpg"
+        },
+        {
+          "title": "Moyen-Orient : Trump menace, tensions s'aggravent",
+          "summary": "La situation au Moyen-Orient s'intensifie avec les menaces de Trump envers l'Iran et des sites énergétiques touchés.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-donald-trump-menace-teheran-le-pilote-americain-secouru-en-iran-des-sites-energetiques-touches-dans-le-golfe-ce-qu-il-faut-retenir-de-la-journee-de-dimanche-5-avril_7917650.html",
+          "image": "https://www.franceinfo.fr/pictures/DBJiv3mF9Pwy0qwT-wcNZImMnzU/1200x675/2026/04/05/69d2af62cfde3030207589.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Opération Cactus : le piège du gouvernement ?",
+          "summary": "Une \"Opération Cactus\" interroge : le gouvernement aurait-il piégé des millions de Français, suscitant d'amples interrogations nationales ?",
+          "url": "https://www.journaldugeek.com/2026/04/06/operation-cactus-pourquoi-le-gouvernement-a-piege-92-millions-de-francais/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/pirataga-operation-cactus-1280x853.jpg"
+        },
+        {
+          "title": "Terrorisme misogyne : appel à l'action",
+          "summary": "L'affaire Prizzon met en lumière l'urgence d'intégrer le terrorisme misogyne dans nos doctrines de sécurité nationales.",
+          "url": "https://www.sudouest.fr/societe/egalite-femmes-hommes/affaire-cedric-prizzon-le-terrorisme-misogyne-doit-etre-integre-dans-les-doctrines-de-securite-28576130.php"
+        },
+        {
+          "title": "Chambres de bonne : business polémique",
+          "summary": "Le marché des chambres de bonne explose, générant profits et controverses avec des milliers de demandes quotidiennes.",
+          "url": "https://www.capital.fr/immobilier/le-business-tres-rentable-et-polemique-des-chambres-de-bonne-a-louer-avec-1-000-demandes-en-une-journee-1525323",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~05~202a744e-5a4d-4a75-b1ea-b10786f0946d.jpg/1200x900/quality/80/le-business-tres-rentable-et-polemique-des-chambres-de-bonne-a-louer-avec-1-000-demandes-en-une-journee.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Peinture automobile : l'or s'invite",
+          "summary": "Une nouvelle peinture automobile intègre de l'or, alliant luxe et technologie pour des véhicules exclusifs.",
+          "url": "https://www.autoplus.fr/actualite/insolite/cette-peinture-de-voiture-contient-de-lor-1435071.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/04/captura-de-pantalla-2026-04-05-a-las-19.11.08.png"
+        },
+        {
+          "title": "iCloud : problèmes après Pâques",
+          "summary": "Les services iCloud rencontrent des difficultés techniques, provoquant des perturbations pour les utilisateurs après les fêtes de Pâques.",
+          "url": "https://www.macg.co/services/2026/04/les-services-icloud-semblent-avoir-une-digestion-difficile-des-oeufs-de-paques-307861",
+          "image": "https://cdn.mgig.fr/2026/04/mga-c726d619-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "Logement en Bitcoin : Coinbase innove",
+          "summary": "Coinbase propose d'acheter un logement via Bitcoin, une innovation prometteuse mais soulevant des questions de sécurité.",
+          "url": "https://www.journaldugeek.com/2026/04/06/acheter-un-logement-avec-ses-bitcoins-la-nouvelle-idee-dangereuse-de-coinbase/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/07/bitcoin-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Collectivités : l'État augmente ses aides",
+          "summary": "En 2026, l'État français accroît son soutien aux collectivités territoriales, avec 327 millions d'euros supplémentaires alloués.",
+          "url": "https://www.leprogres.fr/economie/2026/04/05/en-2026-l-etat-donne-un-peu-plus-aux-collectivites-territoriales-plus-de-327-millions-d-euros",
+          "image": "http://cdn-files.prsmedia.fr/files/LPR/fr/images/LPR_placeholder.png"
+        },
+        {
+          "title": "Olenbee innove les titres restaurants",
+          "summary": "La startup Olenbee révolutionne l'Open Banking en fluidifiant la gestion de trésorerie des titres restaurants pour les entreprises.",
+          "url": "https://www.larevuedudigital.com/open-banking-la-startup-olenbee-renove-et-fluidifie-la-tresorerie-des-titres-restaurants/",
+          "image": "https://www.larevuedudigital.com/wp-content/uploads/2026/04/Olenbee-1-BF2-.jpg"
+        },
+        {
+          "title": "Carburant : les pêcheurs alertent",
+          "summary": "Face à la crise du carburant, les pêcheurs méditerranéens demandent une rencontre immédiate avec le Premier ministre.",
+          "url": "https://www.midilibre.fr/2026/04/05/crise-des-prix-du-carburant-les-pecheurs-de-mediterranee-reclament-une-rencontre-urgente-avec-le-premier-ministre-13309918.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/69d284dd3ab5de809e0bb621/hd/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "UBB-Toulouse : un quart explosif !",
+          "summary": "L'UBB, après sa victoire éclatante, affrontera Toulouse en quart de Champions Cup, promettant un choc au sommet.",
+          "url": "https://rmcsport.bfmtv.com/rugby/video-ubb-64-14-leicester-de-l-excitation-lucu-impatient-d-affronter-toulouse-en-quarts_VN-202604050299.html",
+          "image": "https://images.bfmtv.com/7t4XTgwiOu_1tEfaWet5GLNA4uI=/0x0:1280x720/800x0/images/UBB-64-14-Leicester-De-l-excitation-Lucu-impatient-d-affronter-Toulouse-en-Quarts-2265311.jpg"
+        },
+        {
+          "title": "NBA : Wembanyama défie Jokic",
+          "summary": "San Antonio voit sa série prendre fin malgré un grand Wembanyama face à un Jokic impérial en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-de-serie-pour-san-antonio-malgre-un-grand-wembanyama_AD-202604050108.html",
+          "image": "https://images.bfmtv.com/F2nn0PiT0x8FDhQK1LHHVVdrqp0=/0x80:2048x1232/800x0/images/Nikola-Jokic-face-a-Victor-Wembanyama-lors-du-match-de-NBA-entre-Denver-et-San-Antonio-le-4-avril-2026-2265155.jpg"
+        },
+        {
+          "title": "Dopage : Korir suspendu 5 ans",
+          "summary": "Albert Korir, vainqueur du marathon de New York, est suspendu cinq ans pour dopage, un coup dur pour l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-kenyan-albert-korir-vainqueur-du-marathon-de-new-york-suspendu-cinq-ans-pour-dopage_AD-202603300603.html",
+          "image": "https://images.bfmtv.com/GyaUO_a3gAe-j1RFVf0SyDbIRxI=/0x65:768x497/800x0/images/La-joie-du-Kenyan-Albert-Korir-vainqueur-de-la-50e-edition-du-marathon-de-New-York-le-7-novembre-2021-1162177.jpg"
+        }
+      ]
+    }
+  ]
+}
