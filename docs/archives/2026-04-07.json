@@ -1,0 +1,145 @@
+{
+  "ephemeride": "Saint Jean-Baptiste de la Salle",
+  "global_summary": "L'actualité du jour est un kaléidoscope de récits, allant des dynamiques géopolitiques complexes aux curiosités culturelles insolites. Tandis que les analystes décortiquent les déclarations d'un ex-président américain sur le Moyen-Orient, l'exploration de modes de vie extrêmes et de célébrations uniques nous rappellent la diversité de notre monde.\nEn France, l'audace spatiale avec Artémis II côtoie des discussions importantes sur l'image corporelle et des alertes environnementales. Le sport n'est pas en reste, entre performances d'athlètes de haut niveau, rebondissements inattendus et confidences personnelles, offrant une riche palette d'émotions et de réflexions sur notre société et les défis qu'elle relève.",
+  "running_advice": "Bonjour, champion(ne) ! Il semble que nos capteurs météo soient en mode \"mystère\" aujourd'hui, avec une température, un ciel et un indice UV non définis. Mais une chose est sûre : votre énergie et votre motivation, elles, ne sont jamais nulles ! Qu'importe les conditions exactes, chaque jour est une opportunité de se dépasser. Écoutez votre corps, équipez-vous en fonction de votre intuition (l'hydratation est toujours une bonne idée !), et visez le créneau horaire qui vous convient le mieux, que ce soit pour un réveil dynamique ou une déconnexion revigorante. L'essentiel, c'est de chausser vos baskets et de transformer cette incertitude météo en une aventure personnelle. Allez, on y va, et on fait de cette journée une victoire !",
+  "weather_string": "undefined undefined (undefined°C / undefined°C)",
+  "weather_stats": {
+    "temp": "undefined°C",
+    "rain": "undefined%",
+    "uv": "undefined"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Japon: Parade insolite de pénis géants pour la fertilité",
+          "summary": "Une tradition ancestrale japonaise célèbre la fertilité et la prospérité avec un festival haut en couleurs et symboles.",
+          "url": "https://www.franceinfo.fr/monde/japon/au-japon-une-parade-de-penis-geants-pour-celebrer-la-fertilite_7919186.html",
+          "image": "https://www.franceinfo.fr/pictures/Tr-VFxcRYjwV5MF3g_kaA4q7I-s/fit-in/1200x675/filters:upscale():fill(black)/2026/04/06/69d39b220b45f411973434.png"
+        },
+        {
+          "title": "Grand Nord Canadien: Survivre à -30°C, un défi quotidien",
+          "summary": "Plongée fascinante dans la vie des habitants du Grand Nord canadien, confrontés aux rigueurs de l'hiver extrême.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/le-grand-nord-canadien-comment-vivre-par-moins-30-degres_7919576.html",
+          "image": "https://www.franceinfo.fr/pictures/b97opCz96dnqSMQNJvm-hq_rH7c/1200x675/2026/04/06/69d40111f1b7e255445771.jpg"
+        },
+        {
+          "title": "Trump et le Moyen-Orient: Une conférence de presse analysée",
+          "summary": "Les débats autour de la conférence de presse de Donald Trump sur le Moyen-Orient animent l'actualité politique internationale.",
+          "url": "https://www.franceinfo.fr/replay-radio/les-informes-de-france-info/moyen-orient-la-conference-de-presse-de-donald-trump-les-informes-de-franceinfo-du-lundi-06-avril-2026_7888049.html",
+          "image": "https://www.franceinfo.fr/pictures/ARxKiMpBfaGsX17qncFm8D77krM/1200x675/2026/04/06/69d402ff93109940723765.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Artémis II: Un vol lunaire historique dépasse Apollo",
+          "summary": "La mission Artémis II repousse les limites de l'exploration spatiale en atteignant une distance record autour de la Lune.",
+          "url": "https://www.charentelibre.fr/sciences-et-technologie/espace/lune-plus-loin-qu-apollo-artemis-ii-entre-dans-l-histoire-a-406-000-km-28590180.php",
+          "image": "https://media.charentelibre.fr/28590180/1200x600/20260406204903-955812.jpg"
+        },
+        {
+          "title": "Vaimalama Chaves: Miss France assume sa prise de poids",
+          "summary": "L'ex-Miss France Vaimalama Chaves partage un message fort de body-positivisme en parlant ouvertement de son évolution physique.",
+          "url": "https://www.midilibre.fr/2026/04/06/jai-pris-20-kg-et-en-fait-ca-me-va-bien-miss-france-2019-vaimalama-chaves-evoque-sa-prise-de-poids-a-ses-fans-13312500.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/69d402d673f59f25800b056e/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Cadmium: La France face à une contamination record",
+          "summary": "Des niveaux de cadmium alarmants sont détectés en France, soulevant de sérieuses inquiétudes environnementales et sanitaires.",
+          "url": "https://www.journaldugeek.com/2026/04/06/la-france-atteint-des-records-alarmants-de-contamination-au-cadmium/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/champ-traitement-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Elon Musk: Une Tesla \"consciente\" promise... encore?",
+          "summary": "Elon Musk promet une Tesla \"consciente\" pour bientôt, une annonce qui suscite les habituelles interrogations et sarcasmes.",
+          "url": "https://www.journaldugeek.com/2026/04/06/elon-musk-promet-une-tesla-consciente-dici-la-fin-de-semaine-mais-il-a-dit-ca-combien-de-fois-deja/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/Capture-decran-2025-11-07-115219-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Marmande: Une agence de voyages qui promet l'évasion",
+          "summary": "Une nouvelle agence de voyages s'installe à Marmande, offrant une expérience immersive dès le pas de la porte pour les vacanciers.",
+          "url": "https://www.sudouest.fr/economie/commerces/des-qu-on-passe-le-pas-de-la-porte-on-est-deja-en-vacances-une-agence-de-voyages-a-ouvert-en-centre-ville-de-marmande-28454189.php",
+          "image": "https://media.sudouest.fr/28454189/1200x600/valerie-guilbaud-promovacances-marmande-3.jpg"
+        },
+        {
+          "title": "RENN Fund: Le président Stahl achète des actions",
+          "summary": "Le président du RENN Fund, M. Stahl, effectue un achat d'actions, un signal observé par les investisseurs.",
+          "url": "https://fr.investing.com/news/insider-trading-news/le-president-du-renn-fund-stahl-achete-des-actions-pour-3708-93CH-3346942",
+          "image": "https://i-invdn-com.investing.com/news/World_News_10_800x533_L_1420026292.jpg"
+        },
+        {
+          "title": "Horizon Kinetics investit dans Texas Pacific Land",
+          "summary": "Horizon Kinetics acquiert des actions Texas Pacific Land, marquant une nouvelle étape dans sa stratégie d'investissement.",
+          "url": "https://fr.investing.com/news/insider-trading-news/horizon-kinetics-achete-une-action-texas-pacific-land-tpl-a-443-93CH-3346944",
+          "image": "https://i-invdn-com.investing.com/news/news_pile_69x52._800x533_L_1419494209.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Guadeloupe: Un père mis en examen pour meurtre",
+          "summary": "Un père a été placé en garde à vue pour le meurtre présumé de son fils de deux ans et demi en Guadeloupe, choc.",
+          "url": "https://www.sudouest.fr/france/outre-mer/un-pere-place-en-garde-a-vue-pour-le-meurtre-de-son-fils-de-deux-ans-et-demi-en-guadeloupe-28592353.php",
+          "image": null
+        },
+        {
+          "title": "Arcachon: Un piéton mortellement renversé",
+          "summary": "Un accident tragique sur le bassin d'Arcachon coûte la vie à un piéton renversé par une voiture, suscitant l'émotion.",
+          "url": "https://www.sudouest.fr/faits-divers/un-pieton-meurt-renverse-par-une-voiture-sur-le-bassin-d-arcachon-28592329.php",
+          "image": null
+        },
+        {
+          "title": "Gironde: Accident de motocross, un jeune blessé",
+          "summary": "Un adolescent a été sérieusement blessé dans un accident de motocross en Gironde, nécessitant une intervention rapide.",
+          "url": "https://www.sudouest.fr/faits-divers/gironde-un-jeune-homme-serieusement-blesse-dans-un-accident-de-motocross-28589286.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama blessé: La course au MVP compromise?",
+          "summary": "Victor Wembanyama face à la pression après une blessure, menaçant ses chances de remporter le titre de MVP de la NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-blesse-contre-philadelphie-wembanyama-sous-grosse-pression-pour-le-titre-de-mvp_AV-202604070062.html",
+          "image": "https://images.bfmtv.com/gMidKL_z2xl15BoGnAHE-UfESFs=/0x0:2048x1152/800x0/images/Victor-Wembanyama-lors-du-match-Miami-San-Antonio-111-136-le-23-mars-2026-2258337.jpg"
+        },
+        {
+          "title": "Dopage: Le marathonien Korir suspendu 5 ans",
+          "summary": "Albert Korir, vainqueur du marathon de New York, écope d'une lourde suspension de cinq ans pour dopage, secouant l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-kenyan-albert-korir-vainqueur-du-marathon-de-new-york-suspendu-cinq-ans-pour-dopage_AD-202603300603.html",
+          "image": "https://images.bfmtv.com/GyaUO_a3gAe-j1RFVf0SyDbIRxI=/0x65:768x497/800x0/images/La-joie-du-Kenyan-Albert-Korir-vainqueur-de-la-50e-edition-du-marathon-de-New-York-le-7-novembre-2021-1162177.jpg"
+        },
+        {
+          "title": "Papadakis: La fin du duo de patinage, une thérapie",
+          "summary": "Gabriella Papadakis révèle avoir eu recours à une thérapie de couple pour gérer la fin de son emblématique duo de patinage avec Guillaume Cizeron.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/patinage-artistique-j-ai-initie-une-therapie-de-couple-gabriella-papadakis-se-livre-sur-la-fin-de-son-duo-avec-guillaume-cizeron_AV-202604060398.html",
+          "image": "https://images.bfmtv.com/Uybdz2oom3W1ha0U78dfHOND218=/0x0:2048x1152/800x0/images/La-patineuse-Gabriella-Papadakis-en-janvier-2026-2234888.jpg"
+        }
+      ]
+    }
+  ]
+}
