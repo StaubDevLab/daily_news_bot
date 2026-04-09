@@ -1,0 +1,154 @@
+{
+  "ephemeride": "Saint Gautier",
+  "global_summary": "L'actualité de ce jour est marquée par une recrudescence des tensions géopolitiques, avec une \"journée meurtrière\" au Liban et son exclusion des trêves, soulignant une situation régionale alarmante. Aux États-Unis, le marché du travail fait face à un défi inattendu, une proportion croissante de personnes choisissant de s'en retirer. En France, l'incertitude économique persiste, avec la nécessité de maintenir les objectifs de déficit malgré un contexte international tendu.\nAu-delà des défis, l'innovation technologique continue de progresser, avec des avancées en IA qui soulèvent des débats éthiques mais aussi des améliorations concrètes pour le quotidien, comme les nouvelles fonctionnalités de Chrome. Le monde du sport, quant à lui, nous offre des nouvelles rassurantes pour nos athlètes comme Wembanyama, et des récits de résilience et d'ambition, à l'image de Cassandre Beaugrand, qui nous rappellent l'importance de la persévérance. C'est un mélange de vigilance et d'opportunités qui façonne notre quotidien.",
+  "running_advice": "Aujourd'hui, Saint Gautier nous invite à l'action, et la météo vous y encourage ! Avec des températures oscillant entre 8.8°C et 27.3°C, et pas une goutte de pluie, c'est une excellente journée pour chausser vos baskets. Le brouillard matinal pourrait ajouter une touche mystique à vos premiers kilomètres, mais il devrait se dissiper rapidement. Je vous conseille vivement une sortie matinale, juste après le lever du soleil à 07:28 pour profiter de la fraîcheur et de l'ambiance unique. Alternativement, une session en fin d'après-midi, vers 18h-19h, sera également parfaite pour éviter la chaleur maximale et terminer votre journée sur une note dynamique. Attention, l'indice UV de 6.2 est modéré à élevé : n'oubliez pas votre crème solaire et une casquette, même par temps voilé ! C'est le moment de booster votre énergie et de conquérir la journée, une foulée à la fois !",
+  "weather_string": "🌫️ Brouillard (8.8°C / 27.3°C)",
+  "weather_stats": {
+    "temp": "27.3°C",
+    "rain": "0%",
+    "uv": "6.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Liban: Journée Meurtrière et Cent Frappes",
+          "summary": "Une escalade violente frappe le Liban avec plus de 100 frappes aériennes en dix minutes, marquant une journée tragique.",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/liban/100-frappes-en-10-minutes-journee-meu-triere-au-liban_7924769.html",
+          "image": "https://www.franceinfo.fr/pictures/uDh-NHy33q-B_FpDW_YbiHmXPjE/fit-in/1200x675/filters:upscale():fill(black)/2026/04/08/69d6a479c9a19876434929.jpg"
+        },
+        {
+          "title": "Liban Exclu de la Trêve Actuelle",
+          "summary": "Le Liban reste exclu des accords de trêve régionaux, soulevant des questions cruciales sur son avenir sécuritaire.",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/liban/pourquoi-le-liban-est-exclu-de-la-treve_7924754.html",
+          "image": "https://www.franceinfo.fr/pictures/F3qQxL5xVNUfVmtvpOsA6Sm83oE/fit-in/1200x675/filters:upscale():fill(black)/2026/04/08/69d6a4130eb90473400140.jpg"
+        },
+        {
+          "title": "L'Amérique Face à sa Grande Démission",
+          "summary": "Une tendance croissante aux États-Unis voit de plus en plus de travailleurs quitter le marché, impactant l'économie.",
+          "url": "https://www.lexpress.fr/economie/emploi/pourquoi-de-plus-en-plus-de-personnes-quittent-le-marche-du-travail-aux-etats-unis-4AKEUOXSBVDU7HUN7TGAVQF6YQ/",
+          "image": "https://www.lexpress.fr/resizer/v2/ECGIII2RYRA2XCHSG7ID5MC7IQ.JPG?auth=6855eabcae61024ea680417bef58014f7174fa5c5a032c00e478eb8b173ebc1a&smart=true&width=2200&height=1261"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Monte-Carlo: Échec Français en Huitièmes",
+          "summary": "Aucun joueur français n'atteint les huitièmes de finale à Monte-Carlo, marquant une déception pour le tennis tricolore.",
+          "url": "https://www.europe1.fr/sport/monte-carlo-arthur-rinderknech-corentin-moutet-et-terence-atmane-elimines-aucun-francais-en-8e-922336",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/04/08/20/020_2270384311_1_69d69eb82fdf2.jpg"
+        },
+        {
+          "title": "Perpignan: Cambriolages Absurdes pour 150€",
+          "summary": "Quatre restaurants cambriolés pour un maigre butin de 150 euros, interrogeant sur l'audace des malfaiteurs.",
+          "url": "https://www.lindependant.fr/2026/04/08/tribunal-de-perpignan-en-une-soiree-ils-cassent-quatre-restaurants-de-cette-commune-de-la-cote-pour-un-butin-de-150-eur-13315316.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/69d62e34baf56f065c09b8ea/hd/image.jpg?v=1"
+        },
+        {
+          "title": "OpenAI Prépare un Plan Anti-Danger IA",
+          "summary": "OpenAI dévoile des stratégies pour contrer les risques potentiels de l'intelligence artificielle, un enjeu mondial majeur.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-open-ai-un-plan-contre-le-danger-de-l-ia-par-lea-benaim-08-04_VN-202604080887.html",
+          "image": "https://images.bfmtv.com/gVhLdsCOGz1CEOiKqM2eY_pWbOg=/0x0:1280x720/1280x0/images/Le-Tech-Flash-OpenAI-un-plan-contre-le-danger-de-l-IA-par-Lea-Benaim-08-04-2267019.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "YouTube Attaque Apple sur l'IA",
+          "summary": "Des chaînes YouTube portent plainte contre Apple, contestant l'utilisation de leur contenu pour entraîner l'IA.",
+          "url": "https://www.generation-nt.com/actualites/chaines-youtube-apple-justice-ia-entrainement-2073639",
+          "image": "https://img.generation-nt.com/youtube-retrait-chaine_01716983.jpg"
+        },
+        {
+          "title": "Chrome Révolutionne les Onglets Verticaux",
+          "summary": "Google Chrome déploie des onglets verticaux, promettant une nouvelle ère d'organisation et de productivité pour les utilisateurs.",
+          "url": "https://www.journaldugeek.com/2026/04/08/les-onglets-verticaux-arrivent-sur-google-chrome-et-transforment-votre-maniere-de-travailler/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/Google-Chrome-PC-1280x853.jpg"
+        },
+        {
+          "title": "Artemis II: La NASA Révèle la Lune",
+          "summary": "La NASA partage des clichés époustouflants de la mission Artemis II, offrant des vues inédites de notre satellite.",
+          "url": "https://www.journaldugeek.com/2026/04/09/nasa-4-photos-artemis-ii-lune/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/lune-terre-nasa-artemis-2-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "France: Objectif Déficit Maintenu Malgré Tensions",
+          "summary": "La France confirme ses prévisions de déficit 2026, malgré un contexte géopolitique incertain au Moyen-Orient.",
+          "url": "https://fr.investing.com/news/economy-news/la-france-maintient-son-objectif-de-deficit-pour-2026-face-a-lincertitude-au-moyenorient-93CH-3350639",
+          "image": "https://i-invdn-com.investing.com/news/indicatornews_6_800x533_L_1412601562.jpg"
+        },
+        {
+          "title": "Southwest Gas Atteint un Record en Bourse",
+          "summary": "L'action Southwest Gas enregistre un pic sur 52 semaines, signe d'une performance robuste sur le marché.",
+          "url": "https://fr.investing.com/news/company-news/laction-southwest-gas-atteint-un-sommet-de-52-semaines-a-9003-usd-93CH-3350638",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NI_L.jpg"
+        },
+        {
+          "title": "Cuisinons pour Demain: Créativité Végétale",
+          "summary": "Un concours culinaire met à l'honneur la créativité végétale, anticipant les tendances gastronomiques futures.",
+          "url": "https://www.lalsace.fr/culture-loisirs/2026/04/08/creativite-vegetale-au-menu-de-cuisinons-pour-demain-2026",
+          "image": "https://cdn-s-www.lalsace.fr/images/2683A3AB-D265-46EA-B5F1-5D44E2A5368B/NW_listB/creativite-vegetale-au-menu-de-cuisinons-pour-demain-2026-1775674955.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Bordeaux: Agression aux Trottinettes, Deux Interpellées",
+          "summary": "Deux jeunes filles arrêtées à Bordeaux pour agressions et vols de trottinettes, mettant fin à une série d'incidents.",
+          "url": "https://www.sudouest.fr/faits-divers/a-bordeaux-des-jeunes-filles-agressaient-des-femmes-pour-leur-voler-leur-trottinette-deux-suspectes-interpellees-28614635.php"
+        },
+        {
+          "title": "Dordogne: Un Local du Secours Populaire Incendié",
+          "summary": "Un incendie dévaste un local du Secours Populaire en Dordogne, menaçant l'aide aux plus démunis.",
+          "url": "https://www.sudouest.fr/dordogne/pays-de-belves/en-dordogne-un-local-du-secours-populaire-detruit-par-un-incendie-28615459.php"
+        },
+        {
+          "title": "Bordeaux: Agression au Couteau au Tram",
+          "summary": "Une agression à l'arme blanche survient à un arrêt de tram à Bordeaux, renforçant les inquiétudes sécuritaires.",
+          "url": "https://www.sudouest.fr/faits-divers/bordeaux-agression-au-couteau-a-un-arret-de-tram-28614911.php"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama: Blessure Côte, Nouvelles Rassurantes",
+          "summary": "Des nouvelles positives pour Victor Wembanyama après sa blessure, apaisant les craintes des fans NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-des-nouvelles-rassurantes-pour-wembanyama-apres-sa-blessure-a-une-cote_AV-202604070932.html",
+          "image": "https://images.bfmtv.com/P_7askRY5U8PEht91HwRsVYFjsU=/381x0:1917x864/800x0/images/Victor-Wembanyama-pendant-un-match-des-Spurs-en-NBA-le-27-decembre-2025-2224594.jpg"
+        },
+        {
+          "title": "Cassandre Beaugrand: Record et Nouveau Rêve",
+          "summary": "Après un record de France au 10km, Cassandre Beaugrand évoque sa transition ambitieuse vers l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/c-est-l-un-de-mes-reves-apres-son-record-de-france-sur-10km-cassandre-beaugrand-raconte-son-passage-du-triathlon-a-l-athletisme_AV-202604050291.html",
+          "image": "https://images.bfmtv.com/vSHGVhYWfKbR4RXo0LuvoY-998s=/0x129:2048x1281/800x0/images/Cassandre-Beaugrand-aux-JO-de-Paris-2024-2264938.jpg"
+        },
+        {
+          "title": "Dopage: Korir Suspendu Cinq Ans",
+          "summary": "Albert Korir, vainqueur du Marathon de New York, écope d'une lourde suspension de cinq ans pour dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-kenyan-albert-korir-vainqueur-du-marathon-de-new-york-suspendu-cinq-ans-pour-dopage_AD-202603300603.html",
+          "image": "https://images.bfmtv.com/GyaUO_a3gAe-j1RFVf0SyDbIRxI=/0x65:768x497/800x0/images/La-joie-du-Kenyan-Albert-Korir-vainqueur-de-la-50e-edition-du-marathon-de-New-York-le-7-novembre-2021-1162177.jpg"
+        }
+      ]
+    }
+  ]
+}
