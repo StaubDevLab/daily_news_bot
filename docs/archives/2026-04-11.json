@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Stanislas",
+  "global_summary": "Le panorama international est marqué par des mouvements géopolitiques complexes, avec des chiffres délicats pour Donald Trump avant des négociations cruciales avec l'Iran, tandis que la Chine et la Corée du Nord renforcent leur alliance face à un \"chaos\" mondial perçu. Sur le front économique, l'Europe pourrait voir le secteur ferroviaire s'ouvrir davantage à la concurrence, et les marchés financiers anticipent des divergences dans les politiques de taux entre la Fed et la BCE.\n\nEn France, des décisions impactantes se profilent, comme l'interdiction des chaudières à gaz dans les nouvelles constructions d'ici 2027 et des préoccupations autour de la facture de gaz. Le monde de la tech est également en effervescence, entre une faille découverte dans Apple Intelligence et des poursuites majeures contre Meta pour addiction. Enfin, le sport nous offre son lot de drames et d'exploits, soulignant la ténacité et la performance à tous les niveaux.",
+  "running_advice": "Aujourd'hui, Saint Stanislas nous invite à la persévérance, et c'est exactement l'état d'esprit qu'il vous faudra pour votre run ! Avec des températures douces entre 9.9°C et 15.7°C, le mercure est idéal. Cependant, notre amie la pluie sera au rendez-vous avec 80% de probabilité, et le ciel est couvert. L'indice UV est bas (2.5), donc pas de souci côté soleil, mais pensez à une tenue imperméable et des chaussures adaptées pour éviter les flaques. Le meilleur créneau pour courir aujourd'hui, afin d'éviter le plus gros de la pluie et de profiter d'un peu de luminosité avant la tombée de la nuit, serait entre 17h00 et 19h00. Équipez-vous bien et transformez ce ciel gris en une occasion de renforcer votre détermination ! Allez, on lâche rien !",
+  "weather_string": "🌧️ Pluie (9.9°C / 15.7°C)",
+  "weather_stats": {
+    "temp": "15.7°C",
+    "rain": "80%",
+    "uv": "2.5"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump : Chiffres critiques avant négociations Iran.",
+          "summary": "De mauvais chiffres pèsent sur Donald Trump, rendant ses prochaines négociations avec l'Iran particulièrement délicates.",
+          "url": "https://www.huffingtonpost.fr/international/article/pour-donald-trump-ces-chiffres-tombent-tres-mal-avant-les-negociations-avec-l-iran_262492.html",
+          "image": "https://focus.huffingtonpost.fr/2026/04/10/220/0/8256/4644/0/0/60/0/71bd759_upload-1-g6tefsxepipt-afp-20260406-a6w393b-v1-highres-uspresidentdonaldtrumpholdspresseramidiranwar.jpg"
+        },
+        {
+          "title": "Chine et Corée du Nord renforcent leurs liens.",
+          "summary": "Face aux tensions mondiales, la Chine et la Corée du Nord accélèrent leur rapprochement diplomatique.",
+          "url": "https://www.la-croix.com/international/face-au-chaos-mondial-la-chine-et-la-coree-du-nord-poursuivent-leur-rapprochement-20260410",
+          "image": "https://i.la-croix.com/x/smart/2026/04/10/2404941-le-ministre-chinois-des-affaires-etrangeres-wang-y.jpg"
+        },
+        {
+          "title": "SNCF bientôt forcée de vendre des billets concurrents ?",
+          "summary": "La SNCF pourrait devoir vendre des billets de Trenitalia et Renfe, bouleversant le paysage ferroviaire européen.",
+          "url": "https://www.dna.fr/economie/2026/04/10/trenitalia-renfe-la-sncf-bientot-oblige-a-vendre-les-billets-de-train-de-ses-concurrents",
+          "image": "https://cdn-s-www.dna.fr/images/90FF107E-384C-49B8-B2C2-45C205667C0D/NW_listB/trenitalia-renfe-la-sncf-bientot-oblige-a-vendre-les-billets-de-train-de-ses-concurrents-1775833899.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Meta bloque pubs d'avocats luttant contre l'addiction.",
+          "summary": "Meta interdit les publicités des avocats qui la poursuivent pour addiction aux réseaux sociaux, suscitant la controverse.",
+          "url": "https://fr.qz.com/meta-interdit-les-annonces-de-recrutement-de-plaignants-poursuites-pour-addiction-aux-rseaux-sociaux-040926",
+          "image": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/GettyImages-1975322989.jpg"
+        },
+        {
+          "title": "Fin des chaudières à gaz neuves en 2027.",
+          "summary": "Le ministre Sébastien Lecornu annonce l'interdiction des chaudières à gaz dans les nouvelles constructions dès 2027.",
+          "url": "https://www.capital.fr/economie-politique/crise-climatique-sebastien-lecornu-annonce-l-interdiction-des-chaudieres-a-gaz-dans-les-nouvelles-constructions-d-ici-2027-1525483",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~10~6f26054d-7253-4d46-acd0-40a85b2eac71.png/1200x900/focus-point/851%2C310/crise-climatique-sebastien-lecornu-annonce-l-interdiction-des-chaudieres-a-gaz-dans-les-nouvelles-constructions-d-ici-2027.jpg"
+        },
+        {
+          "title": "Hausse facture gaz en mai : les astuces.",
+          "summary": "Alors qu'une hausse de la facture de gaz approche en mai, découvrez comment anticiper et réduire l'impact.",
+          "url": "https://www.journaldugeek.com/2026/04/10/facture-de-gaz-comment-eviter-la-hausse-qui-arrive-en-mai/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/09/gaz-1403x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Science",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Apple Intelligence piratée : une faille découverte.",
+          "summary": "Des chercheurs révèlent avoir réussi à pirater l'IA d'Apple Intelligence, soulevant des questions de sécurité.",
+          "url": "https://www.generation-nt.com/actualites/apple-intelligence-faille-securite-ia-iphone-mac-2073837",
+          "image": "https://img.generation-nt.com/siri-apple-intelligence_01704866.jpg"
+        },
+        {
+          "title": "Astéroïde frôle la Terre, sans danger.",
+          "summary": "Un astéroïde de taille conséquente a frôlé la Terre cette nuit, mais sans présenter de danger majeur.",
+          "url": "https://www.journaldugeek.com/2026/04/10/asteroide-gros-maison-frole-terre-nuit-fallait-sinquieter/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Asteroide-1280x853.jpg"
+        },
+        {
+          "title": "Artemis II : suivez le retour d'Orion.",
+          "summary": "Ne manquez pas le retour en direct de la capsule Orion sur Terre cette nuit avec la mission Artemis II.",
+          "url": "https://www.journaldugeek.com/2026/04/10/artemis-ii-comment-suivre-direct-retour-capsule-orion-terre/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Capsule-Orion-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Taux : Fed à la baisse, BCE à la hausse ?",
+          "summary": "Les experts prévoient une baisse des taux pour la Fed et une hausse pour la BCE cette année, marquant une divergence.",
+          "url": "https://www.agefi.fr/news/economie-marches/nous-anticipons-plutot-une-baisse-de-taux-pour-la-fed-cette-annee-et-une-hausse-pour-la-bce",
+          "image": "https://beymedias.brightspotcdn.com/1f/61/cc7f92f04525a705864c62be8831/drut-bastien-2.jpg"
+        },
+        {
+          "title": "Europlasma en difficulté vend sa défense.",
+          "summary": "En crise, la société Europlasma cherche à céder ses activités stratégiques liées au secteur de la défense.",
+          "url": "https://actu.fr/bretagne/caudan_56036/en-difficulte-europlasma-repreneur-en-serie-veut-vendre-ses-activites-liees-a-la-defense_64129040.html",
+          "image": "https://static.actu.fr/uploads/2026/04/eb72513a7cd36df72513a7cd362825v.jpg"
+        },
+        {
+          "title": "Surinam Airways modifie ses horaires de vol.",
+          "summary": "Surinam Airways annonce des bouleversements dans ses horaires de vol pour le week-end, prévoyez vos ajustements.",
+          "url": "https://www.franceguyane.fr/actualite/economie-consommation/surinam-airways-bouleverse-ses-horaires-de-vol-pour-ce-week-end-1075400.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/69d944c8c0a3f3e4360e12a1/width_1000/image.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : Embiid opéré, forfait pour les playoffs.",
+          "summary": "Coup dur pour la NBA : Joel Embiid opéré d'une crise d'appendicite juste avant le début des play-offs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-joel-embiid-victime-d-une-crise-d-appendicite-et-opere-juste-avant-le-debut-des-play-offs_AV-202604100139.html",
+          "image": "https://images.bfmtv.com/DUXNNgbwzNU65B0-EBOs8M_X7VI=/13x217:2013x1342/800x0/images/Joel-Embiid-lors-du-match-Philadelphie-Miami-124-117-le-26-fevrier-2026-2267797.jpg"
+        },
+        {
+          "title": "Dupont questionne les tests commotions rugby.",
+          "summary": "Antoine Dupont exprime ses doutes sur la fiabilité des tests commotions, interpellant le monde du rugby.",
+          "url": "https://rmcsport.bfmtv.com/rugby/coupe-d-europe/stade-toulousain-on-doute-un-peu-de-la-fiabilite-dupont-repond-a-fickou-sur-les-tricheries-pendant-les-tests-commotions_AV-202604100328.html",
+          "image": "https://images.bfmtv.com/C8JDUa7vEeHi8l7FOIiBSVN1n7g=/270x173:1774x1019/800x0/images/Antoine-Dupont-pensif-un-match-du-Stade-Toulousain-en-Champions-Cup-le-4-avril-2026-2267906.jpg"
+        },
+        {
+          "title": "Cassandre Beaugrand bat le record de France 10km.",
+          "summary": "Après son record de France sur 10km, Cassandre Beaugrand partage ses ambitions entre triathlon et athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/c-est-l-un-de-mes-reves-apres-son-record-de-france-sur-10km-cassandre-beaugrand-raconte-son-passage-du-triathlon-a-l-athletisme_AV-202604050291.html",
+          "image": "https://images.bfmtv.com/vSHGVhYWfKbR4RXo0LuvoY-998s=/0x129:2048x1281/800x0/images/Cassandre-Beaugrand-aux-JO-de-Paris-2024-2264938.jpg"
+        }
+      ]
+    }
+  ]
+}
