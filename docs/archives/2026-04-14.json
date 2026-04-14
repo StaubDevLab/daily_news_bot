@@ -1,0 +1,109 @@
+{
+  "ephemeride": "Saint Maxime",
+  "global_summary": "L'actualité mondiale est marquée par des secousses politiques majeures, notamment en Hongrie où Peter Magyar promet de détrôner Viktor Orbán, annonçant une nouvelle ère. Parallèlement, les tensions internationales s'intensifient avec les menaces de Donald Trump sur le blocus iranien, créant un climat géopolitique sous haute surveillance. Même le Vatican n'est pas épargné, le Pape Léon XIV répondant avec audace aux critiques de l'ancien président américain. \nSur le front national, la France voit le gouvernement renoncer aux modifications du travail le 1er Mai, tandis que la solidarité s'organise après un incendie à Bordeaux. Côté économie, une légère baisse des prix des carburants apporte un bref répit, et l'univers tech s'interroge sur le coût du Game Pass. Enfin, le sport brille avec la draft prometteuse de Nell Angloma en WNBA et l'incroyable record de Gout Gout, mais fait aussi face à des scandales avec la démission au CNOSF, montrant que même les plus grands domaines ne sont pas à l'abri des défis.",
+  "running_advice": "Aujourd'hui, Saint Maxime nous bénit avec une météo idéale pour vos baskets ! Avec des températures oscillant entre 4.6°C et un doux 17.8°C, et seulement 10% de chance de pluie, les conditions sont parfaites pour vous dépasser. Malgré un léger brouillard matinal, l'après-midi sera votre meilleure alliée. Je vous conseille de chausser vos baskets entre 16h et 19h, une fenêtre optimale avant le coucher du soleil à 20h46. L'indice UV est de 5.95, alors n'oubliez pas votre crème solaire et une casquette pour une protection maximale ! Lancez-vous, l'énergie est au rendez-vous !",
+  "weather_string": "🌫️ Brouillard (4.6°C / 17.8°C)",
+  "weather_stats": {
+    "temp": "17.8°C",
+    "rain": "10%",
+    "uv": "5.95"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Chute de Viktor Orbán en Hongrie",
+          "summary": "Peter Magyar bouscule la scène politique hongroise, promettant une nouvelle ère loin du \"Roi-Soleil\".",
+          "url": "https://www.franceinfo.fr/monde/je-serai-un-premier-ministre-qui-ne-sera-pas-le-roi-soleil-en-hongrie-peter-magyar-fait-tomber-viktor-orban-de-son-trone_7935230.html",
+          "image": "https://www.franceinfo.fr/pictures/FIe1lCYF8IvNXVFN3t5wKSXJjaw/1200x675/2026/04/13/69dd5033613cb136295625.jpg"
+        },
+        {
+          "title": "Trump menace de blocus iranien",
+          "summary": "Donald Trump avertit de la destruction de navires militaires forçant le blocus des ports iraniens, intensifiant les tensions.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260413-donald-trump-menace-de-d%C3%A9truire-tout-navire-militaire-for%C3%A7ant-le-blocus-des-ports-iraniens",
+          "image": "https://s.france24.com/media/display/df0f2408-3774-11f1-87df-005056a97e36/w:1280/p:16x9/000-A7KV7G3.jpg"
+        },
+        {
+          "title": "Le pape Léon XIV défie Donald Trump",
+          "summary": "Le pape Léon XIV répond avec fermeté aux critiques de Donald Trump, affirmant \"Je n'ai pas peur\".",
+          "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/je-n-ai-pas-peur-le-pape-leon-xiv-repond-aux-vives-critiques-donald-trump_7935224.html",
+          "image": "https://www.franceinfo.fr/pictures/XrNPvBeFiyrW9ytAV64B0uhPuJc/1200x675/2026/04/13/69dd4f57ab864491652016.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Le gouvernement renonce au travail le 1er Mai",
+          "summary": "Pas de changement de loi cette année pour le travail le 1er mai, le gouvernement recule face aux tensions.",
+          "url": "https://www.capital.fr/economie-politique/travail-le-1er-mai-le-gouvernement-renonce-a-changer-la-loi-cette-annee-1525567",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~13~e968f61d-770d-4541-b7f8-c3c4b39f0e0c.png/1200x900/focus-point/820%2C433/travail-le-1er-mai-le-gouvernement-renonce-a-changer-la-loi-cette-annee.jpg"
+        },
+        {
+          "title": "Incendie à Bordeaux : 25 évacués",
+          "summary": "Un incendie à Bordeaux force l'évacuation d'urgence de 25 habitants, relogés par la mairie.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/incendie-a-bordeaux-25-habitants-evacues-en-urgence-de-leur-appartement-28684664.php",
+          "image": ""
+        },
+        {
+          "title": "Panne de connexion aux services publics",
+          "summary": "Impossibilité de se connecter aux impôts, sécu ou CAF ce matin ? C'est normal, voici les raisons.",
+          "url": "https://www.journaldugeek.com/2026/04/14/impots-secu-caf-si-vous-narrivez-pas-a-vous-connecter-ce-matin-cest-normal-et-voici-pourquoi/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/france-connect-panne-services-publics-avril-2026-1280x853.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Tech",
+      "emoji": "💡📈",
+      "articles": [
+        {
+          "title": "Prix des carburants en baisse",
+          "summary": "Le prix des carburants diminue, mais l'incertitude plane sur la durée de cette tendance.",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/le-prix-des-carburants-en-baisse-mais-jusqu-a-quand_7935176.html",
+          "image": "https://www.franceinfo.fr/pictures/Te9KQAKXO8DFKEW3sJ4M8zHazqE/1200x675/2026/04/13/69dd4cffa5f27872306511.jpg"
+        },
+        {
+          "title": "Une Porsche à 20 000€, une déception",
+          "summary": "L'achat d'une Porsche à prix cassé tourne au regret pour un acheteur, \"bonne affaire\" contestée.",
+          "url": "https://www.lesnumeriques.com/voiture/il-achete-une-porsche-a-seulement-20-000-et-regrette-sa-bonne-affaire-n254307.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/254307/e6962902-il-achete-une-porsche-a-seulement-20-000-dollars-et-regrette-sa-bonne-affaire__800_800__515-0-1915-1400.jpg"
+        },
+        {
+          "title": "Xbox admet un Game Pass coûteux",
+          "summary": "La patronne de Xbox, Asha Sharma, reconnaît que l'abonnement Game Pass \"pique un peu\" pour les utilisateurs.",
+          "url": "https://www.journaldugeek.com/2026/04/14/asha-sharma-la-patronne-de-xbox-admet-que-labonnement-game-pass-pique-un-peu/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/10/black-ops-6-game-pass-1403x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Nell Angloma draftée en WNBA",
+          "summary": "La jeune Française Nell Angloma réalise un rêve en étant choisie en 12e position à la draft WNBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/basket-la-francaise-nell-angloma-draftee-en-12e-position-en-wnba_AV-202604140055.html",
+          "image": "https://images.bfmtv.com/O8jS7MuejQNsSrOSbrK6blBUUrk=/0x106:2048x1258/800x0/images/Nell-Angloma-lors-de-la-demi-finale-d-Eurocoupe-entre-Montpellier-Lattes-et-Mersin-68-70-le-26-fevrier-2026-2269687.jpg"
+        },
+        {
+          "title": "Gout Gout, plus rapide qu'Usain Bolt",
+          "summary": "Le jeune athlète Gout Gout bat le record du monde U20 du 200m, devançant même Usain Bolt au même âge.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/plus-rapide-qu-usain-bolt-au-meme-age-gout-gout-explose-le-record-du-monde-u20-du-200m_AV-202604120109.html",
+          "image": "https://images.bfmtv.com/gt73t0fjBA-y5GWD4G9Dc6AfkiE=/0x212:2048x1364/800x0/images/Gout-Gout-apres-sa-victoire-sur-100m-lors-des-championnats-U20-du-Queensland-Australie-le-15-mars-2025-2101370.jpg"
+        },
+        {
+          "title": "Scandale aux JO 2024 : démission",
+          "summary": "Le vice-président du CNOSF démissionne suite à un embarrassant business de reliques des JO 2024.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/epingle-pour-un-embarrassant-business-de-reliques-des-jo-2024-sous-un-pseudonyme-le-vice-president-du-cnosf-demissionne_AN-202604130531.html",
+          "image": "https://images.bfmtv.com/Bqm5gtGzjVkRVzypXHjvEwK1M6Q=/0x212:2048x1364/800x0/images/Le-Village-olympique-des-JO-de-Paris-2024-en-Seine-Saint-Denis-1909118.jpg"
+        }
+      ]
+    }
+  ]
+}
