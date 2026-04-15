@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Saint Paterne",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques, avec le franchissement du détroit d'Ormuz et les répercussions sur les plans de vacances des Français. Sur le plan national, une cyberattaque a touché le ministère de l'Éducation, tandis qu'une affaire de dérive sectaire secoue les Alpes-de-Haute-Provence. Le débat sur les prix du carburant continue d'agiter l'Europe, soulignant des enjeux économiques persistants. \n\nDans le monde de la tech, une exclusivité Xbox fait sensation sur PS5, et une rivalité intense agite les géants de l'IA, OpenAI et Anthropic. Les innovations spatiales progressent avec Blue Origin transformant la poussière lunaire en oxygène. Côté sport, Victor Wembanyama prépare ses playoffs, et l'athlétisme voit émerger de nouveaux talents, dont un jeune athlète plus rapide qu'Usain Bolt au même âge, offrant de belles promesses pour l'avenir. Une actualité riche en défis et en performances !",
+  "running_advice": "Salut les athlètes ! Aujourd'hui, on a une météo clémente pour chausser les baskets. Avec des températures idéales entre 11°C et 19.9°C, vos muscles vont adorer ! Le brouillard matinal pourrait réduire la visibilité, mais pas de quoi décourager un champion. Le risque de pluie est modéré (30%), alors un petit échauffement dynamique vous gardera au sec si quelques gouttes s'invitent. L'indice UV est de 4.8, ce qui est significatif : n'oubliez pas votre crème solaire et une casquette ! L'heure idéale pour votre run ? Visez la fin de matinée ou le milieu d'après-midi, entre 10h et 17h. Vous profiterez d'une visibilité améliorée et éviterez le pic d'UV tout en bénéficiant de la douceur ambiante. Alors, on y va ? Chaque pas compte !",
+  "weather_string": "🌫️ Brouillard (11°C / 19.9°C)",
+  "weather_stats": {
+    "temp": "19.9°C",
+    "rain": "30%",
+    "uv": "4.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Détroit d'Ormuz : trafic intense",
+          "summary": "Plus de 20 bateaux ont franchi ce passage stratégique, signe de tensions géopolitiques persistantes.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-selon-le-wall-street-journal-plus-de-20-bateaux-ont-franchi-le-detroit-d-ormuz_VN-202604140902.html",
+          "image": "https://images.bfmtv.com/cAetE4UjwdJPnZIhnQVHG__0S0Y=/0x0:1280x720/860x0/images/Selon-le-Wall-Street-Journal-plus-de-20-bateaux-ont-franchi-le-detroit-d-Ormuz-2270268.jpg"
+        },
+        {
+          "title": "Carburant : l'Europe face aux prix",
+          "summary": "Tour d'horizon des mesures européennes pour contenir la flambée des prix à la pompe.",
+          "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-du-carburant-que-font-les-autres-pays-europeens_7937675.html",
+          "image": "https://www.franceinfo.fr/pictures/16H2MpaQzJY7HBhd8zBnp4qF0Po/1200x675/2026/04/14/69dea54e266cb958060148.png"
+        },
+        {
+          "title": "Allemagne : traquer le passé nazi",
+          "summary": "Un moteur de recherche inédit aide les Allemands à enquêter sur l'histoire de leurs aïeux.",
+          "url": "https://www.franceinfo.fr/monde/europe/allemagne/allemagne-un-moteur-de-recherche-pour-savoir-si-grand-pere-etait-nazi_7937672.html",
+          "image": "https://www.franceinfo.fr/pictures/WO11qAReR_l-Ns-j-d-O10Hg4lc/fit-in/1200x675/filters:upscale():fill(black)/2026/04/14/69dea4d2eba2a820356855.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Dérive sectaire : un gourou présumé écroué",
+          "summary": "Haim Goël, suspecté de diriger une secte à Bellaffaire, a été placé en détention provisoire.",
+          "url": "https://www.ledauphine.com/faits-divers-justice/2026/04/14/suspicions-de-derive-sectaire-a-bellaffaire-le-gourou-presume-haim-goel-place-en-detention-provisoire",
+          "image": "https://cdn-s-www.ledauphine.com/images/112D32FD-ACE2-45B1-B4D7-5D20775FE6A5/NW_listB/suspicions-de-derive-sectaire-a-bellaffaire-le-gourou-presume-haim-goel-place-en-detention-provisoire-1776200036.jpg"
+        },
+        {
+          "title": "OL Lyonnes : qualifications contrastées",
+          "summary": "Soirée mitigée pour les attaquantes lyonnaises en qualifications pour la Coupe du monde.",
+          "url": "https://www.leprogres.fr/sport/2026/04/14/qualifications-pour-la-coupe-du-monde-une-soiree-contrastee-pour-les-attaquantes-d-ol-lyonnes",
+          "image": "https://cdn-s-www.leprogres.fr/images/E744FE5B-91F2-4DBA-939F-7A32FFD79214/NW_listB/qualifications-pour-la-coupe-du-monde-une-soiree-contrastee-pour-les-attaquantes-d-ol-lyonnes-1776199838.jpg"
+        },
+        {
+          "title": "Punaises de lit : un insecticide interdit",
+          "summary": "Le \"Sniper 1000\", dangereux et inefficace, a été banni en France par les autorités.",
+          "url": "https://www.sudouest.fr/ile-de-france/punaises-de-lit-qu-est-ce-que-le-sniper-1000-cet-insecticide-interdit-en-france-par-la-repression-des-fraudes-28698327.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Xbox cartonne sur PS5",
+          "summary": "Une exclusivité Xbox inattendue fait fureur sur la console concurrente de Sony.",
+          "url": "https://www.lesnumeriques.com/jeux-video/xbox-fait-un-carton-sur-ps5-avec-une-exclusivite-qu-on-ne-pensait-jamais-voir-sur-la-console-sony-n254368.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/254368/696e0e92-xbox-fait-un-carton-sur-ps5-avec-une-exclusivite-qu-on-ne-pensait-jamais-voir-sur-la-console-sony__800_800__198-0-1289-1091_wtmk.jpg"
+        },
+        {
+          "title": "Guerre d'IA : OpenAI accuse Anthropic",
+          "summary": "OpenAI attaque son rival Anthropic pour triche, révélant ses projets internes.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/openai-accuse-anthropic-de-triche-tacle-microsoft-et-revele-ses-projets-dans-une-note-interne-20260414",
+          "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/04/14/49e8b0eca55f0d8349be4faa1ba5883a81d44cdc4ac245d219b49162c8fd86ce.jpg"
+        },
+        {
+          "title": "Cyberattaque au ministère de l'Éducation",
+          "summary": "Le système informatique de l'Éducation Nationale a été la cible d'une attaque majeure.",
+          "url": "https://www.capital.fr/economie-politique/une-cyberattaque-frappe-le-ministere-de-leducation-nationale-1525608",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~14~b0e1f2e1-2525-43f1-b0a7-cef0faed2ee8.jpeg/1200x900/quality/80/une-cyberattaque-frappe-le-ministere-de-l-education-nationale.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Vacances : les Français changent leurs plans",
+          "summary": "La guerre au Moyen-Orient pousse les Français à modifier leurs destinations de voyage.",
+          "url": "https://www.franceinfo.fr/economie/inflation/sejour-reporte-destination-revue-les-francais-changent-leurs-plans-de-vacances-avec-la-guerre-au-moyen-orient_7937654.html",
+          "image": "https://www.franceinfo.fr/pictures/9uOY9SQcqD3cfbsyx5X8GUn5VPw/1200x675/2026/04/14/69dea01079980697604987.jpg"
+        },
+        {
+          "title": "Sphere Entertainment Co au sommet",
+          "summary": "L'action de Sphere Entertainment Co atteint un nouveau record historique à la bourse.",
+          "url": "https://fr.investing.com/news/company-news/laction-de-sphere-entertainment-co-atteint-un-sommet-historique-a-13354-usd-93CH-3358273",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_L.jpg"
+        },
+        {
+          "title": "Appli broderie : PXF Express à Cogolin",
+          "summary": "Une nouvelle application simplifie la gestion des ateliers de broderie dans le Var.",
+          "url": "https://www.nicematin.com/economie/a-cogolin-l-appli-pxf-express-veut-faciliter-la-vie-des-ateliers-de-broderie-10676920",
+          "image": "https://assets.nicematin.com/articles/10/67/69/20/OG-10676920-1200-800-548a672_upload-1-ajscfd9peom2-img-4503.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Tags racistes à Agen : l'opposition réagit",
+          "summary": "L'opposition de droite s'exprime suite aux tags racistes découverts à Agen.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/agen/tags-racistes-a-agen-l-opposition-de-droite-reagit-28698287.php",
+          "image": null
+        },
+        {
+          "title": "Orthez : un corps sans vie retrouvé",
+          "summary": "Un drame secoue Orthez : un corps a été découvert dans l'incendie d'une maison.",
+          "url": "https://www.sudouest.fr/faits-divers/orthez-un-corps-sans-vie-retrouve-dans-l-incendie-d-une-maison-28697865.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Lune : Blue Origin fabrique de l'oxygène",
+          "summary": "Une avancée majeure pour la vie lunaire, en transformant la poussière en oxygène.",
+          "url": "https://www.journaldugeek.com/2026/04/15/blue-origin-transforme-poussiere-de-l-lune-oxygene-etape-decisive-vivre/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Poussiere-Lune-1280x853.jpg"
+        },
+        {
+          "title": "Netflix retire des fonctions Apple TV",
+          "summary": "Des fonctionnalités appréciées des utilisateurs Apple TV disparaissent sans explication de Netflix.",
+          "url": "https://www.journaldugeek.com/2026/04/15/netflix-supprime-des-fonctionnalites-apple-tv-adorees-des-utilisateurs-sans-aucune-explication/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Netflix-Unsplash-1280x720.jpg"
+        },
+        {
+          "title": "Godzilla Minus Zero vise New York",
+          "summary": "Le célèbre Kaiju est de retour, menaçant la ville américaine dans ce nouveau film.",
+          "url": "https://www.journaldugeek.com/2026/04/15/godzilla-minus-zero-le-kaiju-est-de-retour-et-il-vise-new-york/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/godzilla-minus-zero-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama : son adversaire en playoffs",
+          "summary": "Les Spurs de Victor Wembanyama connaissent leur premier défi pour les play-offs NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-de-wembanyama-connaissent-leur-adversaire-au-premier-tour-des-play-offs_AV-202604150242.html",
+          "image": "https://images.bfmtv.com/UWbBMJWNegVNFKWXoeI_07PYnsA=/0x0:1648x927/800x0/images/Victor-Wembanyama-lors-du-match-de-NBA-entre-les-San-Antonio-Spurs-et-les-Los-Angeles-Clippers-le-16-mars-2026-2268880.jpg"
+        },
+        {
+          "title": "Gout Gout : plus rapide qu'Usain Bolt",
+          "summary": "Ce jeune athlète de 16 ans a pulvérisé le record du monde U20 du 200m.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/plus-rapide-qu-usain-bolt-au-meme-age-gout-gout-explode-le-record-du-monde-u20-du-200m_AV-202604120109.html",
+          "image": "https://images.bfmtv.com/gt73t0fjBA-y5GWD4G9Dc6AfkiE=/0x212:2048x1364/800x0/images/Gout-Gout-apres-sa-victoire-sur-100m-lors-des-championnats-U20-du-Queensland-Australie-le-15-mars-2025-2101370.jpg"
+        },
+        {
+          "title": "Gymnastique : Djenna Laroui porte plainte",
+          "summary": "Harcelée après son choix de représenter l'Algérie, la gymnaste saisit la justice.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/gymnastique-harcelee-apres-avoir-quitte-l-equipe-de-france-pour-representer-l-algerie-djenna-laroui-va-porter-plainte_AV-202604140315.html",
+          "image": "https://images.bfmtv.com/Zipaflj-PvfbxI4NCCmFHsKlQV8=/0x212:2048x1364/800x0/images/Djenna-Laroui-aux-Mondiaux-d-Antwerp-le-29-septembre-2026-2269865.jpg"
+        }
+      ]
+    }
+  ]
+}
