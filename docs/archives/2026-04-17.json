@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Anicet",
+  "global_summary": "L'actualité mondiale est marquée par des avancées diplomatiques délicates au Moyen-Orient, avec des pourparlers pour un cessez-le-feu entre Israël et le Liban, tandis que Donald Trump réaffirme sa position sur l'uranium iranien. En France, le passé judiciaire refait surface avec la remise d'un suspect clé de l'attentat de la rue des Rosiers, et le quotidien local est traversé par des faits divers allant de l'ouverture d'une armurerie à des vagues de cambriolages. \nSur le front de l'innovation, la France renforce ses liens avec AMD pour l'IA, et les géants du numérique comme TikTok et Spotify déploient de nouvelles fonctionnalités qui transforment nos usages. Économiquement, le pays se penche sur la révision des calculs de déficits des retraites et sur l'impact financier de plateformes comme Airbnb. Côté sportif, entre les ambitions NBA de Victor Wembanyama et les préparatifs des JO d'hiver 2030, la communauté est aussi touchée par le deuil au Marathon des Sables, rappelant la nature parfois imprévisible du sport.",
+  "running_advice": "Coach, quelle journée fantastique s'annonce pour dévorer les kilomètres ! Avec des températures idéales oscillant entre 10.6°C et 25.2°C et un ciel peu nuageux, les conditions sont parfaites pour enfiler vos baskets et pulvériser vos objectifs. Pour une performance optimale et pour profiter au maximum de la lumière sans les rayons les plus intenses, je vous conseille de viser les créneaux suivants : soit tôt le matin, juste après le lever du soleil vers 7h15 pour profiter de la fraîcheur et du calme, soit en fin d'après-midi, entre 17h00 et le coucher du soleil à 20h50, pour une énergie renouvelée. Attention, l'indice UV est de 6.45, ce qui est élevé ! Protégez impérativement votre peau avec une crème solaire adaptée, même par ciel légèrement voilé, et n'oubliez pas votre casquette ainsi que vos lunettes de soleil. Hydratez-vous bien et allez chercher cette énergie positive, le terrain vous attend ! Chaque foulée est une victoire !",
+  "weather_string": "🌤️ Peu nuageux (10.6°C / 25.2°C)",
+  "weather_stats": {
+    "temp": "25.2°C",
+    "rain": "0%",
+    "uv": "6.45"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump sur Moyen-Orient : cessez-le feu et uranium Iranien",
+          "summary": "L'ex-président américain fait des annonces clés concernant la trêve israélo-libanaise et l'enrichissement d'uranium iranien.",
+          "url": "https://www.ladepeche.fr/2026/04/16/donald-trump-cessez-le-feu-entre-le-liban-et-israel-uranium-iranien-ce-quil-faut-retenir-des-annonces-du-president-americain-13329433.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/69e13269d3531cac54004073/hd/image.jpg?v=4"
+        },
+        {
+          "title": "Le Drian réagit aux négociations Israël-Liban",
+          "summary": "L'ancien ministre français des Affaires étrangères commente les pourparlers délicats pour une trêve au Moyen-Orient.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-treve-entre-israel-et-le-liban-la-reaction-de-jean-yves-le-drian-sur-les-negociations-en-cours_VN-202604160873.html",
+          "image": "https://images.bfmtv.com/_Z_k6pSwimk6pbYnAgV7iJ6EEi4=/0x0:1280x720/860x0/images/Treve-entre-Israel-et-le-Liban-la-reaction-de-Jean-Yves-Le-Drian-sur-les-negociations-en-cours-2271510.jpg"
+        },
+        {
+          "title": "Attentat Rue des Rosiers : un suspect remis",
+          "summary": "Plus de quarante ans après, un suspect majeur de l'attentat de 1982 est enfin livré à la justice française.",
+          "url": "https://www.france24.com/fr/france/20260416-attentat-de-la-rue-des-rosiers-l-un-des-principaux-suspects-remis-%C3%A0-la-justice-fran%C3%A7aise",
+          "image": "https://s.france24.com/media/display/6750020a-39c4-11f1-a95b-005056a97e36/w:1280/p:16x9/542b005b2546a137487482d06e690b148f305a3f.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Une armurerie ouvre ses portes à Elbeuf",
+          "summary": "L'ouverture d'une nouvelle armurerie à Elbeuf suscite curiosité et questionnements dans la ville normande.",
+          "url": "https://actu.fr/normandie/elbeuf_76231/il-y-a-pas-mal-de-curieux-larmurerie-this-is-my-gun-a-ouvert-ses-portes-dans-le-centre-delbeuf_64154986.html",
+          "image": "https://static.actu.fr/uploads/2026/04/ad348ca8edd96f1448ca8edd916448v.jpg"
+        },
+        {
+          "title": "Vague de cambriolages dans le Chalonnais",
+          "summary": "La gendarmerie lance un appel à la vigilance suite à une série de cambriolages impactant plusieurs communes.",
+          "url": "https://www.lejsl.com/faits-divers-justice/2026/04/16/de-nombreux-cambriolages-signales-la-gendarmerie-appelle-a-la-vigilance-plusieurs-communes-impactees",
+          "image": "https://cdn-s-www.lejsl.com/images/6150702B-8CC3-479E-989C-A10D71F3BE8D/NW_listB/de-nombreux-cambriolages-signales-la-gendarmerie-appelle-a-la-vigilance-plusieurs-communes-impactees-1776367532.jpg"
+        },
+        {
+          "title": "Arnaque à la CAF : usurpation d'identité Lacazette",
+          "summary": "Un individu à Nice a escroqué 200 000 euros à la CAF en utilisant l'identité du footballeur Alexandre Lacazette.",
+          "url": "https://rmcsport.bfmtv.com/societe/200-000-euros-escroques-un-nicois-rattrape-par-la-caf-apres-avoir-usurpe-l-identite-d-alexandre-lacazette_AN-202604150920.html",
+          "image": "https://images.bfmtv.com/hM5O0C0nxKDPpPri1VFZ0dYvgHI=/0x106:2048x1258/800x0/images/Alexandre-Lacazette-lors-de-son-dernier-match-avec-l-OL-contre-Angers-en-Ligue-1-le-17-mai-2025-au-Groupama-Stadium-2083024.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "La France renforce son partenariat IA avec AMD",
+          "summary": "Le gouvernement français cherche à intensifier sa collaboration avec le géant AMD pour développer l'intelligence artificielle.",
+          "url": "https://www.larevuedudigital.com/le-gouvernement-francais-veut-renforcer-sa-collaboration-avec-amd-sur-lia/",
+          "image": "https://www.larevuedudigital.com/wp-content/uploads/2026/04/Processeur-AMD-1-BF2-.jpg"
+        },
+        {
+          "title": "L'IA de TikTok, terrifiant Hollywood, accessible",
+          "summary": "L'intelligence artificielle de TikTok, capable de créer des vidéos, est désormais disponible pour le grand public.",
+          "url": "https://www.journaldugeek.com/2026/04/17/lia-de-tiktok-qui-terrifie-hollywood-est-maintenant-ouverte-a-tous/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/TikTok-Unsplash-1280x853.jpg"
+        },
+        {
+          "title": "Spotify : nouvelle interface pour tablettes",
+          "summary": "Le géant du streaming musical modernise son application pour tablettes avec une interface utilisateur rafraîchie.",
+          "url": "https://www.journaldugeek.com/2026/04/17/spotify-donne-un-serieux-coup-de-frais-a-son-app-tablette/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/spotify-tablettes-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Finance",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Airbnb : 600 000€ de taxe en Saône-et-Loire",
+          "summary": "La plateforme Airbnb a reversé une somme significative en taxe de séjour, soulignant son impact économique local.",
+          "url": "https://www.lejsl.com/economie/2026/04/16/en-2025-airbnb-a-reverse-plus-de-600-000-de-taxe-de-sejour-en-saone-et-loire",
+          "image": "https://cdn-s-www.lejsl.com/images/CE8D23F3-F6ED-4C02-B929-40A91CC14F13/NW_listB/en-2025-airbnb-a-reverse-plus-de-600-000-de-taxe-de-sejour-en-saone-et-loire-1776367533.jpg"
+        },
+        {
+          "title": "Retraites : le COR revoit ses calculs de déficits",
+          "summary": "Le Conseil d'orientation des retraites ajuste ses prévisions de déficits, impactées par des données démographiques récentes.",
+          "url": "https://www.bfmtv.com/economie/baisse-du-taux-de-fecondite-et-du-solde-migratoire-hausse-moderee-de-l-esperance-de-vie-le-conseil-d-orientation-des-retraites-revise-ses-indicateurs-de-calcul-des-deficits-a-venir_AD-202604160883.html",
+          "image": "https://images.bfmtv.com/I3HmhaWS0HY76rr6NTUyw6eAwO8=/0x0:2048x1152/2048x0/images/France-Clonas-sur-Vareze-02-01-2024-Illustration-revalorisation-des-pensions-de-retraite-Photographie-de-Romain-Doucelin-Hans-Lucas-2269458.jpg"
+        },
+        {
+          "title": "Moody’s Analytics nomme une nouvelle DG",
+          "summary": "Christina Kosmowski prend la tête de Moody’s Analytics, une nomination clé dans le secteur de l'analyse financière.",
+          "url": "http://www.businesswire.com/news/home/20260413533542/fr/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya3izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+          "image": "https://mms.businesswire.com/media/20260413533542/fr/2093450/22/mdy_logo_cmyk_moodysblue.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performance",
+      "emoji": "💪",
+      "articles": [
+        {
+          "title": "Wembanyama rêve des Spurs champions NBA",
+          "summary": "Victor Wembanyama exprime son rêve de voir les Spurs décrocher le titre NBA, malgré un premier tour difficile.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/les-spurs-champions-nba-je-ne-peux-pas-m-empecher-d-en-rever-lance-victor-wembanyama_AV-202604160390.html",
+          "image": "https://images.bfmtv.com/G9lcy7m1d1cj3bhI3w2y1EzXRa4=/0x83:2032x1226/800x0/images/Victor-Wembanyama-lors-du-match-entre-les-Los-Angeles-Clippers-et-les-San-Antonio-Spurs-115-119-le-16-mars-2026-2256168.jpg"
+        },
+        {
+          "title": "Marathon des Sables : un décès regrettable",
+          "summary": "Le célèbre Marathon des Sables est marqué par le décès tragique d'un participant durant l'épreuve d'endurance.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/running-le-marathon-des-sables-endeuille-par-la-mort-d-un-participant_AV-202604150528.html",
+          "image": "https://images.bfmtv.com/8OkqbzO3aWLZDAteudQ3Ux2lnLc=/14x222:2046x1365/800x0/images/Un-concurrent-sur-le-marathon-des-Sables-le-24-avril-2023-2270641.jpg"
+        },
+        {
+          "title": "JO Alpes 2030 : la France prête, assure la ministre",
+          "summary": "La ministre des Sports confirme la capacité de la France à organiser les Jeux d'hiver 2030, apaisant les inquiétudes.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-alpes-2030-la-france-sera-en-capacite-de-livrer-ces-jeux-le-discours-rassurant-de-la-ministre-des-sports_AV-202604150615.html",
+          "image": "https://images.bfmtv.com/s8nX2pAQnqnSijlwRsGxNlQB4JQ=/0x106:2048x1258/800x0/images/Le-logo-des-Jeux-olympiques-JO-image-d-illustration-2114475.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde & Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Bayonne : 700 cartouches de cigarettes saisies",
+          "summary": "Deux femmes ont été arrêtées à Bayonne avec une importante quantité de cigarettes de contrebande.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/bayonne-deux-femmes-interpellees-en-possession-de-700-cartouches-de-cigarettes-de-contrebande-28723790.php",
+          "image": null
+        },
+        {
+          "title": "Accident tragique en Gironde : précisions du procureur",
+          "summary": "Le procureur livre de nouvelles informations sur l'accident fatal en Gironde où un adolescent a perdu la vie.",
+          "url": "https://www.sudouest.fr/faits-divers/adolescent-mort-brule-dans-un-accident-de-voiture-en-gironde-vehicule-des-parents-vitesse-les-precisions-du-procureur-28723527.php",
+          "image": null
+        },
+        {
+          "title": "Affaire Boulin : Libournais attendent des réponses",
+          "summary": "46 ans après, l'affaire Robert Boulin continue de susciter des attentes fortes pour la vérité à Libourne.",
+          "url": "https://www.sudouest.fr/gironde/libourne/affaire-robert-boulin-plus-de-46-ans-apres-sa-mort-les-libournais-attendent-legitimement-des-reponses-claires-28718978.php",
+          "image": null
+        }
+      ]
+    }
+  ]
+}
