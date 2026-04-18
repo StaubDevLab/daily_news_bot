@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Parfait",
+  "global_summary": "L'actualité de ce jour révèle une scène mondiale en pleine mutation, oscillant entre les décisions politiques marquantes aux États-Unis, les tensions géopolitiques persistantes autour du détroit d'Ormuz, et des découvertes scientifiques majeures en Italie. Sur le plan national, la France est traversée par des affaires sociétales troublantes, mêlant criminalité liée aux cryptos et drames familiaux aux répercussions internationales. \nLa technologie continue de progresser à grands pas avec l'émergence de nouveaux acteurs du cloud et des innovations dans le design et les objets connectés. L'économie, quant à elle, fait face à des défis importants, du coût colossal du Covid long aux pannes électriques, tandis que le monde du sport vibre au rythme des play-offs NBA et des parcours inspirants d'athlètes hors norme. Une journée riche en informations, qui nous pousse à rester informés et agiles.",
+  "running_advice": "Mets tes baskets, champion(ne) ! C'est une journée magnifique qui t'attend pour exploser tes chronos ou simplement profiter de l'air frais ! Avec des températures idéales entre 11.6°C et 21.8°C et un ciel \"Peu nuageux\", pas de pluie à l'horizon pour freiner ton élan. Pour un run parfait, je te conseille de viser le début de soirée, entre 18h et le coucher du soleil à 20h51. La chaleur sera plus douce et la lumière sublime. Attention, l'indice UV est de 6.1, alors n'oublie pas ta crème solaire et une casquette pour te protéger, et hydrate-toi bien ! Allez, fonce et savoure chaque foulée !",
+  "weather_string": "🌤️ Peu nuageux (11.6°C / 21.8°C)",
+  "weather_stats": {
+    "temp": "21.8°C",
+    "rain": "0%",
+    "uv": "6.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump choisit une pro-vaccins pour la santé US",
+          "summary": "Donald Trump nomme une figure pro-vaccination à la tête de l'agence sanitaire américaine, marquant un signal fort.",
+          "url": "https://www.lexpress.fr/monde/amerique/a-la-tete-de-lagence-sanitaire-americaine-donald-trump-choisit-une-pro-vaccins-face-a-kennedy-TRPCRENRURBVFPJIECRFQBCUFA/",
+          "image": "https://www.lexpress.fr/resizer/v2/WHMG6VSLJ5CABLTLDRXZWR5MZY.JPG?auth=b5f10ee8e4fea5c496a57842ad1ae9a801039de470362f38821b5f30d355136b&smart=true&width=6500&height=4385"
+        },
+        {
+          "title": "Détroit d'Ormuz : réouverture sous haute tension",
+          "summary": "La réouverture du détroit d'Ormuz montre une dynamique positive mais reste vulnérable aux grains de sable iraniens.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/israel/video-reouverture-du-detroit-d-ormuz-il-y-a-une-dynamique-qui-est-plutot-positive-mais-il-suffit-d-un-grain-de-sable-dans-le-desert-iranien-pour-gripper-la-machine-note-antoine-basbous-directeur-de-l-observatoire-des-pays-arabes_VN-202604170864.html",
+          "image": "https://images.bfmtv.com/-lupgx5OWB6Z9aju0LGIb-LMJTc=/0x0:1280x720/860x0/images/Reouverture-du-detroit-d-Ormuz-Il-y-a-une-dynamique-qui-est-plutot-positive-mais-il-suffit-d-un-grain-de-sable-dans-le-desert-iranien-pour-gripper-la-machine-note-Antoine-Basbous-directeur-de-l-Observatoire-des-pays-arabes-2272154.jpg"
+        },
+        {
+          "title": "Italie : un méga-réservoir de magma découvert",
+          "summary": "Des scientifiques italiens ont découvert un vaste réservoir de magma, soulevant des questions sur une mégaéruption future.",
+          "url": "https://www.journaldugeek.com/2026/04/17/en-italie-des-scientifiques-viennent-de-decouvrir-un-gigantesque-reservoir-de-magma-une-megaeruption-est-elle-possible/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Toscane-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Enlèvement crypto : six jeunes mis en examen",
+          "summary": "Six personnes, de 17 à 20 ans, sont mises en examen pour un enlèvement de mère et fils sur fond de cryptomonnaie.",
+          "url": "https://www.lefigaro.fr/flash-actu/enlevement-d-une-mere-et-son-fils-sur-fond-de-crypto-six-personnes-agees-de-17-a-20-ans-mises-en-examen-20260417",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/04/17/edbd0f5cd9a5b27e9150a2773b053e0897b75e255322dd4de51fac34e53d4993.JPG"
+        },
+        {
+          "title": "Affaire ICE : un beau-fils dénonce sa mère de 85 ans",
+          "summary": "Le beau-fils d'une octogénaire française détenue par l'ICE est soupçonné de l'avoir dénoncée pour l'héritage.",
+          "url": "https://www.slate.fr/monde/ice-arrestation-veuve-francaise-octogenaire-etats-unis-beau-fils-heritage-denonciation-immigration",
+          "image": "https://cdn.slate.fr/uploads/store/story_272631/original_272631.jpg"
+        },
+        {
+          "title": "L'actrice Nadia Farès décédée après un accident",
+          "summary": "Plongée dans le coma après un accident en piscine, l'actrice de 57 ans Nadia Farès est décédée.",
+          "url": "https://www.sudouest.fr/france/nadia-fares-l-actrice-de-57-ans-plongee-dans-le-coma-apres-un-accident-en-piscine-est-decedee-28734870.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "L'Europe choisit ses champions du cloud",
+          "summary": "Un contrat de 180 millions d'euros est attribué pour le cloud souverain européen, renforçant l'indépendance numérique.",
+          "url": "https://www.generation-nt.com/actualites/commission-europeenne-cloud-souverain-ovhcloud-contrat-souverainete-numerique-2074229",
+          "image": "https://img.generation-nt.com/europe_01696933.jpg"
+        },
+        {
+          "title": "Claude Design démocratise le design IA",
+          "summary": "Anthropic lance \"Claude Design\", rendant le design assisté par IA accessible à tous, faisant chuter l'action Figma.",
+          "url": "https://www.journaldugeek.com/2026/04/18/claude-design-anthropic-design-accessible-a-tous/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Claude-Design-1-1280x853.jpg"
+        },
+        {
+          "title": "Lunettes connectées Android et Gucci pour 2027",
+          "summary": "Google et Gucci s'allient pour lancer des lunettes connectées innovantes, attendues sur le marché en 2027.",
+          "url": "https://www.journaldugeek.com/2026/04/17/vous-ne-revez-pas-des-lunettes-connectees-android-et-gucci-arrivent-en-2027/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Android-XR-Glass-Droid-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Société",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Canal de Panama : 4 millions pour passer devant",
+          "summary": "Un coût record de 4 millions de dollars est payé pour prendre la tête du convoi au Canal de Panama, révélant les enjeux logistiques.",
+          "url": "https://www.lefigaro.fr/conjoncture/quatre-millions-de-dollars-pour-passer-en-tete-du-convoi-du-canal-de-panama-20260417",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/04/17/9d7759e4d425be28a8a2cc2bedb61316121c9b404c7977b39b94dcdb03289162.jpg"
+        },
+        {
+          "title": "Panne géante Espagne : enquête de concurrence",
+          "summary": "L'autorité espagnole ouvre des procédures contre l'opérateur du réseau et des entreprises suite à une panne électrique massive.",
+          "url": "https://www.bfmtv.com/economie/entreprises/energie/dans-l-affaire-de-la-panne-electrique-geante-en-espagne-l-autorite-nationale-de-la-concurrence-ouvre-des-procedures-contre-l-operateur-du-reseau-electrique-et-plusieurs-entreprises_AD-202604170865.html",
+          "image": "https://images.bfmtv.com/EILJRrZnp9ZKk_0hATcNgGyy-Ik=/0x40:768x472/768x0/images/Des-voyageurs-attendent-sur-le-quai-de-monter-dans-un-train-a-la-gare-de-Seville-le-29-avril-2025-en-Espagne-au-lendemain-d-unepanne-massive-d-electricite-qui-a-affecte-la-peninsule-iberique-et-le-sud-de-la-France-2073667.jpg"
+        },
+        {
+          "title": "Covid long : un coût annuel de 135 milliards $",
+          "summary": "Selon un rapport de l'OCDE, le coût du Covid long est estimé à 135 milliards de dollars par an, un fardeau majeur.",
+          "url": "https://www.rtbf.be/article/le-cout-du-covid-long-estime-a-135-milliards-de-dollars-par-an-selon-un-rapport-de-l-ocde-11711546",
+          "image": "https://static-content.rtbf.be/article/image/770x433/9/3/3/b3a52669928b378622bd08f2ecf748d3.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : Curry et les Warriors éliminés",
+          "summary": "Stephen Curry et les Golden State Warriors prennent la porte face aux Suns, manquant les play-offs NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/barrages-nba-curry-et-les-warriors-prennent-la-porte-face-aux-suns-orlando-rejoint-les-play-offs_AV-202604180101.html",
+          "image": "https://images.bfmtv.com/EEIQBD6tI8FndfGqwSMtqbK3CEM=/0x106:2048x1258/800x0/images/Stephen-Curry-le-17-avril-2026-2272245.jpg"
+        },
+        {
+          "title": "Le basketteur Oscar Schmidt est décédé",
+          "summary": "Oscar Schmidt, meilleur joueur de l'histoire à n'avoir jamais posé les pieds en NBA, est mort à 68 ans.",
+          "url": "https://rmcsport.bfmtv.com/basket/meilleur-joueur-de-l-histoire-a-n-avoir-jamais-pose-les-pieds-en-nba-oscar-schmidt-est-mort_AV-202604170930.html",
+          "image": "https://images.bfmtv.com/53X4ylsQdovQ1vhmhzsSWGj_8bk=/0x212:2048x1364/800x0/images/Oscar-Schmidt-lors-d-une-ceremonie-a-Rio-de-Janeiro-le-10-decembre-2019-2272197.jpg"
+        },
+        {
+          "title": "Wembanyama : la quête du rugby pour l'intersaison",
+          "summary": "Victor Wembanyama explore le rugby pour l'intersaison, y voyant des transpositions utiles à son jeu au basket.",
+          "url": "https://rmcsport.bfmtv.com/basket/ca-peut-se-transposer-a-ce-que-je-fais-au-basket-le-rugby-la-nouvelle-quete-secondaire-de-wembanyama-pour-l-intersaison_AV-202604170842.html",
+          "image": "https://images.bfmtv.com/Kufe2fBwkrzvxrozrRlE_J2ablA=/0x106:2048x1258/800x0/images/Victor-Wembanyama-le-2-avril-2026-2272133.jpg"
+        }
+      ]
+    }
+  ]
+}
