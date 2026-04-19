@@ -1,0 +1,163 @@
+{
+  "ephemeride": "Sainte Emma",
+  "global_summary": "L'actualité mondiale reste tendue, marquée par le déploiement des conflits au Moyen-Orient avec le décès tragique d'un militaire français au Liban et l'impasse des négociations entre l'Iran et les États-Unis. Les enjeux géopolitiques sont palpables, notamment autour du détroit d'Ormuz où les grandes puissances cherchent à imposer leurs stratégies.\nEn parallèle, la France se penche sur des défis économiques internes avec l'annonce d'importantes économies budgétaires. Sur le front de l'innovation, l'intelligence artificielle continue de repousser les limites en s'attaquant à la recherche médicale, tandis que le monde du sport vibre entre performances historiques et rebondissements inattendus. Les ligues majeures connaissent des tournants décisifs, comme en NBA, et de jeunes talents émergent avec une vitesse fulgurante. Cette journée offre un mélange de réalités complexes et d'inspirations à saisir.",
+  "running_advice": "Aujourd'hui, Sainte Emma nous sourit, et la météo est votre meilleure alliée pour une séance de running exceptionnelle ! Avec des températures allant de 11.8°C à un maximum agréable de 22.3°C et un ciel peu nuageux, sans aucune goutte de pluie à l'horizon, les conditions sont parfaites pour chausser vos baskets. Pour une performance optimale et profiter au mieux de la douceur printanière, je vous conseille vivement de courir en fin d'après-midi, entre 17h et 19h, lorsque les températures sont les plus clémentes et que la lumière devient magnifique. Attention cependant, l'indice UV atteint 6.45 : n'oubliez pas votre crème solaire et une casquette pour vous protéger du soleil. Allez, on se motive, l'air frais et le ciel dégagé vous attendent pour pulvériser vos objectifs !",
+  "weather_string": "🌤️ Peu nuageux (11.8°C / 22.3°C)",
+  "weather_stats": {
+    "temp": "22.3°C",
+    "rain": "0%",
+    "uv": "6.45"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Militaire français tué au Liban : l'embuscade",
+          "summary": "Un soldat français a perdu la vie au Liban lors d'une embuscade, intensifiant les tensions régionales.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/soldat-tue-au-liban-le-militaire-francais-pris-dans-une-embuscade_7948178.html",
+          "image": "https://www.franceinfo.fr/pictures/2zjQjrccEko5uwDIAo1PCpBcQHM/fit-in/1200x675/filters:upscale():fill(black)/2026/04/18/69e3d63063558451281747.jpg"
+        },
+        {
+          "title": "Détroit d'Ormuz : Trump veut un accord à tout prix",
+          "summary": "Donald Trump cherche à imposer un accord sur le détroit d'Ormuz, zone stratégique sous tension.",
+          "url": "https://www.lejdd.fr/International/detroit-dormuz-trump-veut-son-deal-a-tout-prix-171855",
+          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/04/18/20/trump-star_star_455123_012-c-polaris-_-starface_master.jpg?VersionId=Og1CRnzCeP4OucqCEhHN4iZetnypqyzN"
+        },
+        {
+          "title": "Iran/USA : négociations dans l'impasse",
+          "summary": "L'espoir de négociations entre l'Iran et les États-Unis s'amenuise, selon un expert militaire.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-iran-etats-unis-je-suis-moins-optimiste-sur-la-tenue-de-negociations-explique-le-vice-amiral-michel-olhagaray-ancien-directeur-du-centre-des-hautes-etudes-militaires_VN-202604180329.html",
+          "image": "https://images.bfmtv.com/-E4qMQfm3DLYuUGRt2JIBdk85Vg=/0x0:1280x720/860x0/images/Iran-Etats-Unis-Je-suis-moins-optimiste-sur-la-tenue-de-negociations-explique-le-vice-amiral-Michel-Olhagaray-ancien-directeur-du-centre-des-hautes-etudes-militaires-2272403.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Bercy annonce 4 milliards d'économies supplémentaires",
+          "summary": "Le ministère de l'Économie prévoit de révéler de nouvelles coupes budgétaires de 4 milliards d'euros.",
+          "url": "https://www.capital.fr/economie-politique/budget-bercy-s-apprete-a-devoiler-4-milliards-d-euros-d-economies-supplementaires-qui-est-vise-1525744",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~18~220be4ee-d915-4a77-8969-a83558bac4e7.jpeg/1200x900/quality/80/budget-bercy-s-apprete-a-devoiler-4-milliards-d-euros-d-economies-supplementaires-qui-est-vise.jpg"
+        },
+        {
+          "title": "Deux pleines lunes en mai, dont une bleue",
+          "summary": "Un phénomène rare : le mois de mai verra deux pleines lunes, la seconde étant une \"lune bleue\".",
+          "url": "https://actu.fr/sciences-technologie/un-phenomene-assez-rare-il-y-aura-deux-pleines-lunes-au-mois-de-mai-et-l-une-d-elles-sera-bleue_64145186.html",
+          "image": "https://static.actu.fr/uploads/2026/04/adobestock-346861030.jpeg"
+        },
+        {
+          "title": "Ivre, il se rend à un faux contrôle de police",
+          "summary": "Un conducteur ivre et sans permis s'est spontanément arrêté pour un contrôle non sollicité.",
+          "url": "https://www.autoplus.fr/actualite/insolite/ivre-et-sans-permis-il-se-soumet-a-un-controle-de-police-que-les-agents-navaient-pas-demande-1437664.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/04/captura-de-pantalla-2026-04-18-a-las-19.14.16.png"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "OpenAI lance GPT-Rosalind pour la science",
+          "summary": "OpenAI introduit GPT-Rosalind, une IA dédiée à l'accélération de la recherche scientifique et médicale.",
+          "url": "https://www.generation-nt.com/actualites/openai-gpt-rosalind-intelligence-artificielle-recherche-scientifique-2074218",
+          "image": "https://img.generation-nt.com/openai-gpt-rosalind-intelligence-artificielle-recherche_04B002A301723427.webp"
+        },
+        {
+          "title": "PS6 : premières révélations sur la future console",
+          "summary": "Les premières informations sur la PlayStation 6 commencent à fuiter, dévoilant son potentiel.",
+          "url": "https://www.journaldugeek.com/2026/04/19/ps6-premieres-infos-fenetre-de-sortie-prix-annonces-tout-ce-que-lon-sait-a-ce-jour/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/02/dossier-jdg-ps6-1280x853.jpg"
+        },
+        {
+          "title": "Le Pixel 11 pourrait copier un design concurrent",
+          "summary": "Des rumeurs suggèrent que le futur Pixel 11 de Google pourrait s'inspirer d'une autre marque.",
+          "url": "https://www.journaldugeek.com/2026/04/18/le-design-du-pixel-11-pourrait-sinspirer-dune-autre-marque-et-ce-nest-pas-apple/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/google-pixel-10a-photo-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Le Cheylard : journée pour l'entrepreneuriat",
+          "summary": "Une journée est organisée au Cheylard pour soutenir et accompagner l'écosystème entrepreneurial local.",
+          "url": "https://www.ledauphine.com/economie/2026/04/18/une-journee-pour-accompagner-l-entrepreneuriat-a-poleyrieux",
+          "image": "https://cdn-s-www.ledauphine.com/images/84013600-65FC-4AB1-8D8C-94BC6F1BA666/NW_listB/une-journee-pour-accompagner-l-entrepreneuriat-a-poleyrieux-1776539233.jpg"
+        },
+        {
+          "title": "Carburant : le gouvernement appelle à baisser les prix",
+          "summary": "Le gouvernement exhorte les distributeurs à répercuter les baisses des prix du carburant.",
+          "url": "https://www.nicematin.com/conso/prix-des-carburants/les-stations-service-doivent-repercuter-les-baisses-constatees-sur-les-marches-le-gouvernement-appelle-les-distributeurs-a-baisser-les-prix-du-carburant-10677454",
+          "image": "https://assets.nicematin.com/articles/10/67/74/54/OG-10677454-1200-800-c90a7f7_ftp-1-6e82e6vfvhc9-20260415bpu6893.jpg"
+        },
+        {
+          "title": "Amende record pour locations touristiques illégales",
+          "summary": "Une société immobilière écope d'une amende de 585 000 euros pour des locations illégales.",
+          "url": "https://www.ladepeche.fr/2026/04/18/elle-avait-transforme-une-residence-sociale-en-locations-touristiques-illegales-une-societe-immobiliere-condamnee-a-une-amende-record-de-585-000-euros-13332823.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/672d0e2e2648675fe42d8778/hd/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Incendie près de Bordeaux : résidents évacués",
+          "summary": "Un feu dans un local poubelle a provoqué l'évacuation de résidents près de Bordeaux.",
+          "url": "https://www.sudouest.fr/gironde/floirac/pres-de-bordeaux-un-feu-dans-un-local-poubelle-provoque-un-incendie-les-residents-evacues-28746250.php",
+          "image": null
+        },
+        {
+          "title": "Gironde : un corps de ferme en proie aux flammes",
+          "summary": "Soixante pompiers ont été mobilisés pour maîtriser l'incendie d'un corps de ferme en Gironde.",
+          "url": "https://www.sudouest.fr/gironde/prechac/gironde-un-corps-de-ferme-prend-feu-soixante-pompiers-mobilises-28746195.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Divertissement/Gaming",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Tomb Raider : tout sur la série Live Action",
+          "summary": "Découvrez les premières informations sur la série Tomb Raider en prise de vues réelles.",
+          "url": "https://www.journaldugeek.com/2026/04/18/tomb-raider-date-de-sortie-casting-intrigue-tout-savoir-sur-la-serie-live-action/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/01/serie-tomb-raider-amazon-prime-tout-savoir-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "NBA : Curry et les Warriors éliminés",
+          "summary": "Stephen Curry et les Warriors sont éliminés des barrages NBA par les Suns, fin de parcours.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/barrages-nba-curry-et-les-warriors-prennent-la-porte-face-aux-suns-orlando-rejoint-les-play-offs_AV-202604180101.html",
+          "image": "https://images.bfmtv.com/EEIQBD6tI8FndfGqwSMtqbK3CEM=/0x106:2048x1258/800x0/images/Stephen-Curry-le-17-avril-2026-2272245.jpg"
+        },
+        {
+          "title": "Gout Gout bat Bolt : record du monde U20 200m",
+          "summary": "Gout Gout pulvérise le record du monde U20 du 200m, plus rapide qu'Usain Bolt au même âge.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/plus-rapide-qu-usain-bolt-au-meme-age-gout-gout-explose-le-record-du-monde-u20-du-200m_AV-202604120109.html",
+          "image": "https://images.bfmtv.com/gt73t0fjBA-y5GWD4G4Dc6AfkiE=/0x212:2048x1364/800x0/images/Gout-Gout-apres-sa-victoire-sur-100m-lors-des-championnats-U20-du-Queensland-Australie-le-15-mars-2025-2101370.jpg"
+        },
+        {
+          "title": "Top 14 : Clermont s'impose avec bonus",
+          "summary": "Clermont réalise une \"grosse opération\" en Top 14 en battant Lyon avec une victoire bonifiée.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/top-14-grosse-operation-pour-clermont-qui-finit-par-faire-plier-lyon-et-s-offre-une-victoire-bonifiee_AV-202604180333.html",
+          "image": "https://images.bfmtv.com/DLppQCpneohyNNujcG1ktRHB-tA=/0x106:2048x1258/800x0/images/Leon-Darricarrere-avec-Clermont-contre-Lyon-le-18-avril-2026-2272407.jpg"
+        }
+      ]
+    }
+  ]
+}
