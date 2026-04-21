@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Anselme",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques avec l'intervention américaine dans le détroit d'Ormuz, ainsi que par un puissant séisme au Japon. En parallèle, la tech navigue entre des succès prometteurs dans l'électrique et des revers spatiaux, tandis que des changements majeurs se profilent pour nos applications quotidiennes. \nSur le front national, la France fait face à des défis importants, de la cybersécurité avec une fuite de données massive, à l'invasion d'espèces exotiques. Le monde du sport, lui, est en effervescence avec les exploits de Victor Wembanyama et l'ambitieuse candidature des Alpes pour les JO d'hiver 2030, reflétant un dynamisme persistant malgré les obstacles.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets ! Avec des températures agréables allant de 10.8°C à 26.2°C et un ciel peu nuageux, les conditions sont optimales pour une séance de course vivifiante. Pour profiter au mieux de cette fenêtre météo, je vous recommande une course tôt le matin après 7h07, pour profiter de la fraîcheur, ou en fin d'après-midi, avant le coucher du soleil à 20h55, lorsque les températures sont encore très clémentes. Attention cependant, l'indice UV est de 6.6 : n'oubliez pas votre crème solaire, une casquette et des lunettes pour protéger votre peau et vos yeux. Sortez et faites le plein d'énergie !",
+  "weather_string": "🌤️ Peu nuageux (10.8°C / 26.2°C)",
+  "weather_stats": {
+    "temp": "26.2°C",
+    "rain": "5%",
+    "uv": "6.6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Atterrissage d'urgence en Californie",
+          "summary": "Spectaculaire : une montgolfière a effectué un atterrissage d'urgence imprévu dans un jardin californien, sans faire de blessés.",
+          "url": "https://www.franceinfo.fr/monde/usa/une-montgolfiere-atterrit-d-urgence-dans-un-jardin-en-californie_7952180.html",
+          "image": "https://www.franceinfo.fr/pictures/sTZrXODqYtHRb44nIo101bmQzY0/fit-in/1200x675/filters:upscale():fill(black)/2026/04/20/69e67c4d888da701281565.jpg"
+        },
+        {
+          "title": "Tension militaire dans le détroit d'Ormuz",
+          "summary": "Les forces américaines ont intercepté un porte-conteneurs iranien, intensifiant les tensions dans cette zone maritime stratégique.",
+          "url": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/l-armee-americaine-attaque-un-porte-conteneurs-iranien-dans-le-detroit-d-ormuz_7952168.html",
+          "image": "https://www.franceinfo.fr/pictures/L1_m9ciNgiP80jwCjMQKy0eCBRQ/1200x675/2026/04/20/69e67bd442c38342105198.jpg"
+        },
+        {
+          "title": "Japon sous alerte tsunami après séisme",
+          "summary": "Un puissant séisme de magnitude 7,7 a frappé le Japon, entraînant une alerte au tsunami et des craintes pour la population côtière.",
+          "url": "https://www.franceinfo.fr/monde/japon/japon-un-seisme-de-magnitude-7-7-declenche-une-alerte-au-tsunami_7952165.html",
+          "image": "https://www.franceinfo.fr/pictures/0M-77cKwbaTg_Dnl6pf_BZobYsQ/1200x675/2026/04/20/69e67b9e0e865718061919.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Cyberattaque ANTS : 19 millions de Français concernés",
+          "summary": "Une vaste fuite de données potentielle sur le site de l'ANTS alerte sur la sécurité des informations personnelles de millions de citoyens.",
+          "url": "https://www.journaldugeek.com/2026/04/21/cyberattaque-du-site-ants-ce-que-lon-sait-de-la-fuite-qui-concerne-19-millions-de-francais/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Passeport-Pixabay-1280x860.jpg"
+        },
+        {
+          "title": "Invasion de la fourmi électrique en France",
+          "summary": "Une nouvelle espèce de fourmi envahissante, aux piqûres douloureuses, menace les écosystèmes français et nécessite une réponse urgente.",
+          "url": "https://www.generation-nt.com/actualites/france-stopper-invasion-fourmi-2074255",
+          "image": "https://img.generation-nt.com/fourmi-electrique-02_04B002A301723480.webp"
+        },
+        {
+          "title": "Marseille : le théâtre de l'œuvre rénové",
+          "summary": "Le célèbre Théâtre de l'Œuvre à Marseille s'offre une cure de jouvence, promettant une nouvelle ère pour la culture locale.",
+          "url": "https://www.bfmtv.com/marseille/videos/video-marseille-un-lifting-pour-le-theatre-de-l-uvre_VN-202604200818.html",
+          "image": "https://images.bfmtv.com/fFQXahgLr8Q5LCuOG53O7uc09DQ=/0x0:1280x720/860x0/images/Marseille-un-lifting-pour-le-theatre-de-l-oeuvre-2273234.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Échec spatial pour Blue Origin",
+          "summary": "Mauvaise nouvelle pour Jeff Bezos : sa fusée Blue Origin a échoué à placer un satellite de 6 tonnes en orbite.",
+          "url": "https://www.capital.fr/economie-politique/blue-origin-la-fusee-de-jeff-bezos-echoue-a-mettre-en-orbite-un-satellite-de-6-tonnes-1525796",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~20~a8d78c73-9600-4869-a8a4-d1231242687d.jpg/1200x900/focus-point/827%2C381/blue-origin-la-fusee-de-jeff-bezos-echoue-a-mettre-en-orbite-un-satellite-de-6-tonnes.jpg"
+        },
+        {
+          "title": "WhatsApp ne sera bientôt plus gratuit",
+          "summary": "Changement majeur pour WhatsApp : la messagerie populaire va introduire un abonnement, et son prix a déjà fuité.",
+          "url": "https://www.journaldugeek.com/2026/04/21/cest-bientot-la-fin-du-whatsapp-100-gratuit-et-le-prix-de-labonnement-a-deja-fuite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/WhatsApp-smartphone-2-1280x853.jpg"
+        },
+        {
+          "title": "Hyundai et TVS s'associent pour l'électrique",
+          "summary": "Un nouveau partenariat majeur vise à dynamiser le marché indien des trois-roues électriques, signe d'une transition énergétique mondiale.",
+          "url": "http://www.businesswire.com/news/home/20260420493989/fr/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+          "image": "https://mms.businesswire.com/media/20260420493989/fr/2779051/22/Image_2.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Leasing social électrique : le retour !",
+          "summary": "Le dispositif de leasing social pour voitures électriques à 100€ est de retour, offrant une opportunité à saisir rapidement pour les foyers éligibles.",
+          "url": "https://www.journaldugeek.com/2026/04/21/voiture-electrique-a-100e-le-leasing-social-revients-mais-il-va-falloir-faire-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/voiture-electrique-1-1280x853.jpg"
+        },
+        {
+          "title": "Mountain Planet cherche solutions pour la montagne",
+          "summary": "Le salon Mountain Planet à Grenoble réunit les acteurs pour innover et trouver des réponses durables aux défis de l'économie montagnarde.",
+          "url": "https://www.ledauphine.com/economie/2026/04/20/isere-grenoble-mountain-planet-trois-jours-pour-trouver-des-solutions-pour-la-montagne",
+          "image": "https://cdn-s-www.ledauphine.com/images/96A87055-9CF9-475D-A28B-2AB82B12F0A9/NW_listB/mountain-planet-trois-jours-pour-trouver-des-solutions-pour-la-montagne-1776712394.jpg"
+        },
+        {
+          "title": "Les Lynx de Valence menacés de ne pas monter",
+          "summary": "Malgré leur titre de champions D2, les Lynx de Valence pourraient voir leur accession en D1 compromise par un manque de financement crucial.",
+          "url": "https://www.ledauphine.com/sport/2026/04/20/plenet-il-nous-manque-environ-400-000-euros-pour-monter",
+          "image": "https://cdn-s-www.ledauphine.com/images/0EBD5BC4-E38D-4A1A-9C30-A7F20F6C5980/NW_listB/il-nous-manque-environ-400-000-euros-champions-de-d2-les-lynx-de-valence-pourraient-ne-pas-monter-en-d1-1776712073.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama, meilleur défenseur NBA",
+          "summary": "Victor Wembanyama décroche le titre de meilleur défenseur de l'année en NBA à l'unanimité, confirmant son statut de phénomène.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/un-trophee-de-prestige-pour-victor-wembanyama-le-geant-des-san-antonio-spurs-elu-meilleur-defenseur-de-l-annee-en-nba_AV-202604200902.html",
+          "image": "https://images.bfmtv.com/1jDLvLUFYTLvwWTlKwaqYYmnVic=/0x166:2032x1309/800x0/images/Victor-Wembanyama-avec-les-Spurs-de-San-Antonio-le-16-mars-2026-2273286.jpg"
+        },
+        {
+          "title": "Un robot bat le record du semi-marathon",
+          "summary": "Une prouesse technologique : un robot humanoïde a pulvérisé le record du semi-marathon, ouvrant de nouvelles perspectives pour l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/en-50-minutes-et-26-secondes-un-robot-humanoide-bat-a-pekin-le-record-humain-du-semi-marathon_AN-202604190146.html",
+          "image": "https://images.bfmtv.com/YW_T3lted4rKvGCOx2oHggILk1g=/0x65:2048x1217/800x0/images/Un-robot-sur-le-semi-marathon-de-Pekin-le-19-avril-2026-2272517.jpg"
+        },
+        {
+          "title": "JO Hiver 2030 : La candidature française avance",
+          "summary": "La candidature des Alpes françaises pour les JO d'hiver 2030 progresse, malgré des défis logistiques comme le feuilleton du hockey à Nice.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/les-alpes-francaises-seules-candidates-pour-les-jo-d-hiver-2030_DN-202311290846.html",
+          "image": "https://images.bfmtv.com/2VBCrg0CdhADZxBFNZRiAz6kamU=/0x77:768x509/800x0/images/La-France-va-savoir-mercredi-si-elle-a-convaincu-le-CIO-de-rester-en-lice-pour-organiser-les-JO-d-hiver-en-2030-un-pari-ose-alors-que-Paris-accueille-les-JO-d-ete-dans-huit-mois-1757612.jpg"
+        }
+      ]
+    }
+  ]
+}
