@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Alexandre",
+  "global_summary": "L'actualité mondiale et nationale est marquée par des défis numériques et économiques significatifs. Une cyberattaque majeure a touché l'ANTS, exposant les données de millions de comptes français, soulevant des questions cruciales sur la sécurité en ligne. Sur le plan géopolitique, les tensions persistent avec l'Iran qui refuse toute négociation avec les États-Unis, tandis qu'une enquête criminelle aux USA implique OpenAI et ChatGPT. Ces événements soulignent une période de complexité, entre enjeux de souveraineté numérique et diplomatie internationale délicate. En France, les débats économiques s'intensifient autour des dépenses sociales et des positions du Medef, reflétant des préoccupations internes fortes.\nCôté innovation, OpenAI continue de repousser les limites avec ChatGPT Images 2.0, bien que l'IA soit aussi au cœur de controverses. Le monde du sport nous offre des récits entre performances humaines et exploits technologiques, avec l'inquiétude autour de Victor Wembanyama et un robot défiant les records de semi-marathon. Des baisses de prix sur le Xbox Game Pass réjouissent les amateurs de gaming, illustrant la dynamique du secteur tech. Le business est rythmé par les extensions stratégiques d'entreprises comme Alpaca et les rappels de produits alimentaires, montrant la vigilance nécessaire des consommateurs. Enfin, les actualités régionales nous rappellent les réalités locales, des faits divers aux incidents routiers, ancrant le quotidien dans ces grandes tendances.",
+  "running_advice": "Aujourd'hui, Saint Alexandre nous bénit d'une météo globalement clémente pour bouger ! Avec des températures allant de 14.2°C à 27°C et un ciel peu nuageux, c'est une excellente journée pour chausser vos baskets. Pour une performance optimale et un confort maximal, visez une sortie tôt le matin après le lever du soleil à 07:05, ou en fin d'après-midi, début de soirée avant le coucher à 20:56. Ces créneaux vous permettront d'éviter les pics de chaleur et de profiter d'un soleil moins agressif. Attention toutefois, l'indice UV de 6.35 est significatif : n'oubliez pas votre crème solaire, un chapeau et des lunettes de soleil pour protéger votre peau et vos yeux. Sortez, respirez, dépassez-vous ! Le corps est fait pour le mouvement, alors faites-lui honneur !",
+  "weather_string": "🌤️ Peu nuageux (14.2°C / 27°C)",
+  "weather_stats": {
+    "temp": "27°C",
+    "rain": "5%",
+    "uv": "6.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "La Reine Élisabeth II aurait eu 100 ans",
+          "summary": "Le monde se souvient de la monarque britannique, figure emblématique de résilience et de dévouement.",
+          "url": "https://www.franceinfo.fr/monde/royaume-uni/elisabeth-ii-aurait-eu-100-ans_7953980.html",
+          "image": "https://www.franceinfo.fr/pictures/pYmOJu_KrncpWXJVxfkaaTvujRU/fit-in/1200x675/filters:upscale():fill(black)/2026/04/21/69e79d35951ed181308717.png"
+        },
+        {
+          "title": "Iran : négociations bloquées avec les États-Unis",
+          "summary": "Téhéran refuse de négocier tant que le blocus des ports iraniens est maintenu, accentuant les tensions diplomatiques.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-l-iran-ne-souhaiterait-pas-negocier-avec-les-etats-unis-tant-qu-ils-maintiennent-leur-blocus-des-ports-iraniens_VN-202604210873.html",
+          "image": "https://images.bfmtv.com/wIPgyAJ91q6W3KX90lAHBRsxQJ4=/0x0:1280x720/860x0/images/L-Iran-ne-souhaiterait-pas-negocier-avec-les-Etats-Unis-tant-qu-ils-maintiennent-leur-blocus-des-ports-iraniens-2273912.jpg"
+        },
+        {
+          "title": "OpenAI : enquête criminelle après des tirs mortels",
+          "summary": "ChatGPT et OpenAI font l'objet d'une enquête aux États-Unis, suite à des allégations de lien avec des événements tragiques.",
+          "url": "https://www.la-croix.com/international/etats-unis-une-enquete-criminelle-sur-openai-et-chatgpt-ouverte-en-lien-avec-des-tirs-mortels-20260421",
+          "image": "https://i.la-croix.com/x/smart/2026/04/21/2415827-le-procureur-de-floride-james-uthmeier-a-ouvert-ma.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Cyberattaque ANTS : 12 millions de comptes impactés",
+          "summary": "Une cyberattaque massive a exposé les données de près de 12 millions de comptes ANTS en France, alertant sur la sécurité numérique.",
+          "url": "https://www.dna.fr/faits-divers-justice/2026/04/21/cyberattaque-de-l-ants-les-donnees-de-pres-de-12-millions-de-comptes-concernees",
+          "image": "https://cdn-s-www.dna.fr/images/FC846E84-D15A-49D9-B3CE-42CB7917508D/NW_listB/cyberattaque-de-l-ants-les-donnees-de-pres-de-12-millions-de-comptes-concernees-1776798440.jpg"
+        },
+        {
+          "title": "Le Medef sous le feu des critiques",
+          "summary": "Un éditorial dénonce le cynisme et les reniements du Medef, ravivant le débat sur le patronat français.",
+          "url": "https://www.charentelibre.fr/economie/medef/le-cynisme-et-les-reniements-du-medef-l-editorial-de-cl-28777619.php",
+          "image": "https://media.charentelibre.fr/28777619/1200x600/20260420135515-36212.jpg"
+        },
+        {
+          "title": "Lisnard alerte sur les dépenses sociales",
+          "summary": "David Lisnard exige une réduction massive des 900 milliards de dépenses sociales, relançant un débat économique majeur.",
+          "url": "https://www.capital.fr/economie-politique/on-a-900-milliards-de-depenses-sociales-david-lisnard-demande-un-plan-massif-de-reduction-de-la-depense-1525836",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~21~33443325-a755-4137-a806-b761bb2d6a9c.jpg/1200x900/focus-point/743%2C311/on-a-900-milliards-de-depenses-sociales-david-lisnard-demande-un-plan-massif-de-reduction-de-la-depense.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Gaming",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "ChatGPT Images 2.0 défie Google",
+          "summary": "OpenAI lance ChatGPT Images 2.0, un concurrent direct pour Google et ses outils d'IA, promettant des innovations visuelles.",
+          "url": "https://www.numerama.com/tech/2237621-avec-chatgpt-images-2-0-openai-declare-la-guerre-a-google-et-veut-vous-faire-oublier-nano-banana.html",
+          "image": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/01/chatgpt-logo.jpg?resize=1600,900&key=8b8d67b9&watermark"
+        },
+        {
+          "title": "Xbox Game Pass : les prix baissent enfin",
+          "summary": "Excellente nouvelle pour les gamers : Microsoft réduit les tarifs du Xbox Game Pass Ultimate et PC, rendant le jeu plus accessible.",
+          "url": "https://www.journaldugeek.com/2026/04/22/prix-xbox-game-pass-ultimate-pc-game-pass-baisser/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/xbox-game-pass-avril-1280x853.jpg"
+        },
+        {
+          "title": "Sennheiser HD 480 PRO : l'audio pro",
+          "summary": "Sennheiser dévoile son nouveau casque studio HD 480 PRO, conçu pour un confort et une polyvalence exceptionnels.",
+          "url": "https://www.journaldugeek.com/2026/04/22/sennheiser-hd-480-pro-un-casque-studio-ferme-pour-concilier-confort-et-polyvalence/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/sennheiser-HD-480-PRO-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Fed : appel à un «changement de régime»",
+          "summary": "Kevin Warsh exhorte la Réserve fédérale à un changement de gouvernance majeur, signalant des enjeux économiques cruciaux.",
+          "url": "https://www.agefi.fr/news/economie-marches/kevin-warsh-appelle-a-un-changement-de-regime-a-la-fed",
+          "image": "https://beymedias.brightspotcdn.com/0d/67/952abbc24929870afeae6ec843ee/431928066.jpg"
+        },
+        {
+          "title": "Rappel d'avocats Carrefour : trop de cadmium",
+          "summary": "Carrefour retire des rayons des avocats contaminés au cadmium, un rappel produit à l'échelle nationale.",
+          "url": "https://actu.fr/economie/carrefour-des-avocats-encore-rappeles-massivement-partout-en-france-ils-contiennent-trop-de-cadmium_64172711.html",
+          "image": "https://static.actu.fr/uploads/2026/04/pixabay-avocats-avocat-fruit-fruits-carrefour-rappel-de-produits-produit-sante-alimentation-aliment-cadmium.jpg"
+        },
+        {
+          "title": "Alpaca s'étend en Europe et acquiert WealthKernel",
+          "summary": "Alpaca renforce sa présence européenne avec l'acquisition de WealthKernel, ouvrant la voie au trading d'actions européennes.",
+          "url": "http://www.businesswire.com/news/home/20260421997990/fr/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya3izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+          "image": "https://mms.businesswire.com/media/20260421997990/fr/2779350/22/01-primary-alpaca-logo.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualités Régionales",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Drame familial à Castres : un mort",
+          "summary": "Une dispute de famille a viré au drame devant une clinique à Castres, faisant un mort et deux blessés.",
+          "url": "https://www.sudouest.fr/faits-divers/castres-un-mort-et-deux-blesses-par-arme-blanche-et-arme-a-feu-lors-d-une-dispute-de-famille-devant-une-clinique-28781013.php",
+          "image": null
+        },
+        {
+          "title": "Tirs à Mont-de-Marsan : un couple arrêté",
+          "summary": "Un couple a été maintenu en détention après des tirs à la carabine, semant l'inquiétude à Mont-de-Marsan.",
+          "url": "https://www.sudouest.fr/landes/mont-de-marsan/tirs-a-la-carabine-a-mont-de-marsan-un-couple-maintenu-en-detention-28774320.php",
+          "image": null
+        },
+        {
+          "title": "Affaissement de chaussée à Lavardac",
+          "summary": "Un affaissement de chaussée à Lavardac a entraîné la coupure de la D108, perturbant la circulation locale.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/lavardac/lavardac-la-circulation-coupee-sur-la-d-108-apres-un-affaissement-de-la-chaussee-28777053.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : commotion cérébrale",
+          "summary": "Inquiétude pour Victor Wembanyama, sorti sur protocole commotion après la défaite des Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-inquietude-pour-wembanyama-sorti-sur-protocole-commotion-lors-de-la-defaite-des-spurs-contre-portland_AV-202604220053.html",
+          "image": "https://images.bfmtv.com/xW371G7KfXzAxZi6h7T1U9WvcHE=/242x267:1938x1221/800x0/images/Victor-Wembanyama-avec-les-Spurs-le-21-avril-2026-2273970.jpg"
+        },
+        {
+          "title": "Un robot bat le record du semi-marathon !",
+          "summary": "Un robot humanoïde a réalisé une performance incroyable, battant le record humain du semi-marathon à Pékin.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/en-50-minutes-et-26-secondes-un-robot-humanoide-bat-a-pekin-le-record-humain-du-semi-marathon_AN-202604190146.html",
+          "image": "https://images.bfmtv.com/YW_T3lted4rKvGCOx2oHggILk1g=/0x65:2048x1217/800x0/images/Un-robot-sur-le-semi-marathon-de-Pekin-le-19-avril-2026-2272517.jpg"
+        },
+        {
+          "title": "Phénomène : une sprinteuse de 14 ans",
+          "summary": "Une jeune athlète américaine de 14 ans stupéfie le monde en signant un chrono incroyable sur 100 mètres.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-une-sprinteuse-americaine-de-14-ans-claque-un-chrono-stratospherique-sur-100m_AV-202604190273.html",
+          "image": "https://images.bfmtv.com/mGKErrxhvn-YwvU6I9C33X7ix7Y=/5x306:581x630/800x0/images/Melanie-Doggett-2272608.jpg"
+        }
+      ]
+    }
+  ]
+}
