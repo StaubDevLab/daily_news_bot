@@ -1,0 +1,151 @@
+{
+  "ephemeride": "Saint Georges",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques persistantes, notamment autour du détroit d'Ormuz, et la triste confirmation du décès d'un deuxième militaire français de la FINUL. Des incidents majeurs, comme la collision d'avions de chasse en Corée du Sud, rappellent la fragilité des équilibres. Sur le plan national, la France navigue entre préoccupations économiques liées aux prix du carburant, des annonces d'entreprise importantes comme l'arrêt des bus BlaBlaCar, et les performances sportives du PSG. \n\nLe monde de la technologie est partagé entre innovation, avec Google qui repense nos réunions, et défis de cybersécurité, illustrés par le piratage d'un compte Signal parlementaire en Allemagne. Dans le sport, Victor Wembanyama continue de faire parler de lui après une commotion, tandis que l'on assiste à des exploits inédits, comme un robot humanoïde battant le record humain du semi-marathon. Les tendances culturelles et les découvertes insolites complètent ce panorama varié.",
+  "running_advice": "Prépare-toi à une session running exceptionnelle aujourd'hui, champion(ne) ! Avec des températures allant de 12.7°C à 25.4°C et un ciel peu nuageux, les conditions sont optimales pour enchaîner les kilomètres. Zéro goutte de pluie en vue, c'est le moment de te surpasser ! L'heure idéale pour chausser tes baskets se situe tôt le matin, juste après le lever du soleil à 07:04, pour profiter de la fraîcheur, ou en fin d'après-midi, vers 18h-19h, avant le coucher du soleil à 20:57. Attention, l'indice UV est de 6.65 : n'oublie absolument pas ta crème solaire et une casquette pour te protéger du soleil. Allez, on fonce, l'énergie est au rendez-vous !",
+  "weather_string": "🌤️ Peu nuageux (12.7°C / 25.4°C)",
+  "weather_stats": {
+    "temp": "25.4°C",
+    "rain": "0%",
+    "uv": "6.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Ormuz : Vers un nouvel ordre maritime mondial ?",
+          "summary": "Le détroit d'Ormuz est au cœur de tensions, redessinant les équilibres géopolitiques maritimes.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260422-ormuz-vers-un-nouvel-ordre-maritime",
+          "image": "https://s.france24.com/media/display/09a8ad86-3e6b-11f1-99c6-005056a97e36/w:1280/p:16x9/FRAN260422-1815-Live-CS1815.jpg"
+        },
+        {
+          "title": "Liban : Un militaire français succombe à l'attaque",
+          "summary": "Un second militaire français de la FINUL est décédé, ravivant l'émotion suite à une attaque.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/attaque-de-la-finul-un-deuxieme-militaire-francais-est-decede_7957379.html",
+          "image": "https://www.franceinfo.fr/pictures/r_nCAA3PKH0q6PT1E3AKasTKv_I/fit-in/1200x675/filters:upscale():fill(black)/2026/04/22/69e918b58a980192877274.jpg"
+        },
+        {
+          "title": "Corée du Sud : Collision de F-15K, un pilote distrait",
+          "summary": "Deux avions de chasse F-15K se percutent en plein vol, un pilote faisait des photos.",
+          "url": "https://www.20minutes.fr/monde/coree_du_sud/4219816-20260422-coree-sud-pilotes-faisait-photos-deux-chasse-f-15k-percutent-plein-vol",
+          "image": "https://img.20mn.fr/MBAsB0ZwQ4mQcPKiOw_IaSk/1444x920_credit-obligatoire-photo-du-ministere-de-la-defense-zuma-press-wire-14599119f-23-juillet-2024-seoul-coree-du-sud-usmc-f-a-18-super-hornet-f-35b-et-rok-af-k-f-16-fa-50-f-15k-participent-a-un-exercice-conjoint-pres-de-south-korea-sky-la-coree-du-sud-et-les-etats-unis-ont-entame-mardi-un-exercice-aerien-combine-a-annonce-l-armee-de-l-air-dans-le-but-de-renforcer-les-capacites-de-combat-conjointes-contre-les-menaces-changeantes-de-la-coree-du-nord-exercice-conjoint-de-l-armee-de-l-air-de-la-republique-de-coree-des-etats-unis-seoul-coree-du-sud-23-juillet-2024-shutterstock-editorial-rok-usa-air-force-joint-drill-14599119f-2407231035"
+        }
+      ]
+    },
+    {
+      "label": "Actualité Nationale",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Ligue 1 : PSG écrase Nantes, Kvaratskhelia brille",
+          "summary": "Le PSG s'impose face à Nantes, avec une performance remarquable de Kvaratskhelia et Doué.",
+          "url": "https://www.lefigaro.fr/sports/football/ligue-1/psg-nantes-kvaratskhelia-au-sommet-de-son-art-la-mission-impossible-des-canaris-les-tops-et-flops-20260422",
+          "image": "https://i.f1g.fr/media/cms/1918x1079_crop/2026/04/22/090657e019bda39a4f0b364b12c9b4972be3a64f2bf554ef67ea9ca5fd625bbe.jpg"
+        },
+        {
+          "title": "Carburant : Les aides ne convainquent pas les automobilistes",
+          "summary": "Malgré les aides, le prix de l'essence reste une source d'insatisfaction pour les Français.",
+          "url": "https://www.europe1.fr/societe/prix-de-lessence-pourquoi-les-aides-du-gouvernement-ne-convainquent-pas-les-automobilistes-927343",
+          "image": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Carburant/grichka_beysson-leandri_hans_lucas_hans_lucas_via_afp_69c4ec91a1b59.jpg"
+        },
+        {
+          "title": "BlaBlaCar stoppe ses bus en France, 40 postes menacés",
+          "summary": "BlaBlaCar annonce l'arrêt de son activité de bus en France, avec des suppressions de postes.",
+          "url": "https://www.capital.fr/entreprises-marches/blablacar-va-arreter-son-activite-de-bus-en-france-et-supprimer-40-postes-1525886",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~22~4447983c-2e24-44ca-b4ca-02169ce41c59.jpg/1200x900/focus-point/687%2C498/blablacar-va-arreter-son-activite-de-bus-en-france-et-supprimer-40-postes.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Économie",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Bouygues : Avantages B&You Max appliqués automatiquement",
+          "summary": "Bouygues Telecom active de nouveaux avantages B&You Max par défaut pour ses clients.",
+          "url": "https://www.generation-nt.com/actualites/bouygues-telecom-betyou-max-avantage-automatique-2074509",
+          "image": "https://img.generation-nt.com/logo-bouygues-telecom_01698585.jpg"
+        },
+        {
+          "title": "Allemagne : Le compte Signal d'une présidente piraté",
+          "summary": "Le compte sécurisé Signal de la présidente du Parlement allemand a été piraté.",
+          "url": "https://www.lefigaro.fr/flash-actu/allemagne-le-compte-signal-de-la-presidente-de-la-chambre-basse-du-parlement-pirate-20260422",
+          "image": "https://i.f1g.fr/media/cms/1790x1006_crop/2026/04/22/4774b94d3decd1d8f63b5762def599879724edd70281c4de96f04f11b2b833b6.jpg"
+        },
+        {
+          "title": "Google révolutionne vos réunions : Fini les prises de notes",
+          "summary": "Google propose de nouvelles solutions pour des réunions plus agréables, sans la corvée des notes.",
+          "url": "https://www.journaldugeek.com/2026/04/23/prendre-notes-google-rend-vos-reunions-plus-agreables/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/google-pixel-10a-accueil-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Local",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Lot-et-Garonne : Un ex-bodybuilder dealer pour culturistes",
+          "summary": "Un ancien bodybuilder s'est reconverti en dealer d'ordonnances pour culturistes en Lot-et-Garonne.",
+          "url": "https://www.sudouest.fr/sport/dopage/j-ai-vu-que-la-pharmacienne-etait-peu-regardante-sur-les-ordonnances-en-lot-et-garonne-l-ancien-bodybuilder-s-etait-reconverti-en-dealer-pour-culturistes-28789369.php",
+          "image": null
+        },
+        {
+          "title": "Langon : Incendie dévastateur dans un garage, 19 véhicules détruits",
+          "summary": "Un violent incendie a ravagé un garage automobile à Langon, détruisant 19 véhicules.",
+          "url": "https://www.sudouest.fr/gironde/langon/langon-un-incendie-se-declare-dans-un-garage-automobile-19-vehicules-detruits-par-les-flammes-28793579.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture & Tendances",
+      "emoji": "🌐",
+      "articles": [
+        {
+          "title": "Stranger Things : Critique des Chroniques de 1985",
+          "summary": "Une nouvelle critique évalue si \"Chroniques de 1985\" surpasse la saison 5 de Stranger Things.",
+          "url": "https://www.journaldugeek.com/critique/critique-stranger-things-chroniques-de-1985-mieux-que-lepisode-9-de-la-saison-5/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/stranger-things-chroniques-de-1985-critique-1-1280x853.jpg"
+        },
+        {
+          "title": "\"Six-Seven\" : L'expression virale qui enflamme les jeunes",
+          "summary": "Découvrez la signification de \"Six-Seven\", la nouvelle expression absurde qui fait fureur.",
+          "url": "https://www.journaldugeek.com/2026/04/23/six-seven-cest-quoi-cette-expression-absurde-et-virale-qui-fait-fureur-chez-les-jeunes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/67-1280x853.jpg"
+        },
+        {
+          "title": "Jackpot ! Un lingot d'or découvert dans un coffre",
+          "summary": "Un Allemand achète un coffre-fort d'occasion à 15€ et y trouve un lingot d'or !",
+          "url": "https://www.huffingtonpost.fr/international/article/un-allemand-achete-un-coffre-fort-d-occasion-pour-15-euros-et-decouvre-un-lingot-d-or_262975.html",
+          "image": "https://focus.huffingtonpost.fr/2023/12/21/0/0/1920/1080/0/0/60/0/364decb_1703171668316-douanes.png"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "NBA : Wembanyama voyage avec les Spurs après commotion",
+          "summary": "Après sa commotion, Victor Wembanyama devrait voyager avec les Spurs, bonne nouvelle pour les playoffs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-devrait-voyager-a-portland-avec-les-spurs-apres-sa-commotion-une-bonne-nouvelle-pour-la-suite-des-playoffs_AV-202604220883.html",
+          "image": "https://images.bfmtv.com/PA6BDd0TwwLI4pzXtRuxijM8rIM=/3x99:1859x1143/800x0/images/Victor-Wembanyama-le-16-mars-2026-2274609.jpg"
+        },
+        {
+          "title": "Record humain : Un robot bat le semi-marathon !",
+          "summary": "Un robot humanoïde a réalisé un chrono stratosphérique, battant le record humain du semi-marathon.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/en-50-minutes-et-26-secondes-un-robot-humanoide-bat-a-pekin-le-record-humain-du-semi-marathon_AN-202604190146.html",
+          "image": "https://images.bfmtv.com/YW_T3lted4rKvGCOx2oHggILk1g=/0x65:2048x1217/800x0/images/Un-robot-sur-le-semi-marathon-de-Pekin-le-19-avril-2026-2272517.jpg"
+        },
+        {
+          "title": "Hyrox au Grand Palais : Préparez-vous à la compétition !",
+          "summary": "Découvrez comment se préparer à Hyrox, la compétition de fitness tendance qui arrive au Grand Palais.",
+          "url": "https://rmcsport.bfmtv.com/societe/hyrox-au-grand-palais-comment-se-preparer-pour-la-competition-tendance-du-moment_AN-202604220816.html",
+          "image": "https://images.bfmtv.com/TDx_afPPhArAdLy8vV_UNP_z6D4=/0x212:2048x1364/800x0/images/Des-pratiquants-d-Hyrox-a-Cologne-en-avril-2026-2274556.jpg"
+        }
+      ]
+    }
+  ]
+}
