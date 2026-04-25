@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Marc",
+  "global_summary": "La scène internationale est marquée par des enjeux de taille, allant des tensions géopolitiques avec de nouvelles sanctions américaines contre la Chine, aux avancées cruciales pour les droits des femmes en Roumanie. Des mystères intrigants captivent également, comme la disparition de scientifiques aux États-Unis, tandis qu'en France, des phénomènes naturels inexpliqués et des aides humanitaires ponctuent l'actualité. L'aide apportée à des Afghans coupés du monde souligne une solidarité essentielle face aux conflits. \n\nLe monde de la technologie ne cesse de nous surprendre, entre les défis de la cybersécurité et les débats sur l'impact de l'IA sur nos capacités cognitives, sans oublier l'avenir de projets technologiques majeurs. Côté économie, les marchés suivent les mouvements des grandes entreprises et de l'énergie. Enfin, le sport, au-delà des performances, est confronté à des questions profondes de sécurité, de justice et de lutte contre les discriminations, nous rappelant l'importance de l'intégrité et du bien-être des athlètes.",
+  "running_advice": "Aujourd'hui, c'est une journée fantastique pour enfiler vos baskets et vous dépasser ! Avec des températures parfaites allant de 14.3°C à 22.3°C et un ciel peu nuageux, les conditions sont optimales pour une belle séance. Pour profiter au mieux de cette fenêtre idéale et éviter le pic d'UV (indice de 6.2), je vous conseille de viser votre course en milieu de matinée, après 7h, ou en fin d'après-midi, avant 21h. N'oubliez surtout pas une bonne crème solaire, un chapeau et des lunettes de soleil pour vous protéger efficacement. C'est le moment de faire le plein d'énergie et de vous sentir vivant ! Allez, on y va !",
+  "weather_string": "🌤️ Peu nuageux (14.3°C / 22.3°C)",
+  "weather_stats": {
+    "temp": "22.3°C",
+    "rain": "3%",
+    "uv": "6.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Sanctions US contre la Chine pour pétrole iranien",
+          "summary": "La Chine fait face à de nouvelles sanctions américaines pour des achats de pétrole iranien, intensifiant les tensions géopolitiques.",
+          "url": "https://fr.investing.com/news/world-news/hengli-petrochemical-de-chine-fait-face-a-des-sanctions-americaines-pour-des-achats-de-pétrole-iranien-93CH-3376356",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_L.jpg"
+        },
+        {
+          "title": "La Roumanie agit contre les féminicides",
+          "summary": "Une nouvelle loi est mise en place en Roumanie pour endiguer le fléau persistant des féminicides.",
+          "url": "https://www.la-croix.com/international/roumanie-une-loi-pour-tenter-d-enrayer-le-fleau-des-feminicides-20260424",
+          "image": "https://i.la-croix.com/x/smart/2026/04/24/2418942-des-manifestants-participent-a-un-rassemblement-en.jpg"
+        },
+        {
+          "title": "Disparitions mystérieuses de scientifiques aux États-Unis",
+          "summary": "Les États-Unis sont le théâtre de mystérieuses disparitions de scientifiques, soulevant de nombreuses interrogations.",
+          "url": "https://www.franceinfo.fr/monde/usa/etats-unis-mysterieuses-disparitions-de-scientifiques_7962146.html",
+          "image": "https://www.franceinfo.fr/pictures/3WtBUwPt9Ktl6sqoknImf95yBbg/fit-in/1200x675/filters:upscale():fill(black)/2026/04/24/69eba30c2bd86028430573.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Aide d'urgence pour Afghans coupés du monde",
+          "summary": "Après des semaines de guerre, des Afghans reçoivent enfin une aide d'urgence en France.",
+          "url": "https://www.laprovence.com/article/france-monde/1239221003452515/apres-des-semaines-coupes-du-monde-par-la-guerre-des-afghans-recoivent-une-aide-durgence",
+          "image": "https://pictures.laprovence.com/cdn-cgi/image//media/afp/1afb8f7d023f3b47baebb3768871f6f8be63c9a4.jpg"
+        },
+        {
+          "title": "Phénomène lumineux mystérieux à Vence",
+          "summary": "Un phénomène lumineux spectaculaire a été observé dans le ciel nocturne à Vence, intriguant les habitants.",
+          "url": "https://www.nicematin.com/societe/sciences/quel-etait-ce-phenomene-lumineux-spectaculaire-observe-dans-le-ciel-nocturne-a-vence-10678206",
+          "image": "https://assets.nicematin.com/articles/10/67/82/06/OG-10678206-1200-800-be3baa9_upload-from-url-1-0iu3bfsvuqzh-data-art-17556247.jpg"
+        },
+        {
+          "title": "Lorànt Deutsch tourne à Rodez",
+          "summary": "L'historien Lorànt Deutsch tourne un épisode de 'À Toute Berzingue' dans les rues historiques de Rodez.",
+          "url": "https://www.centrepresseaveyron.fr/2026/04/24/video-a-toute-berzingue-quand-lorant-deutsch-feru-de-lhistoire-de-france-tourne-dans-les-rues-de-rodez-13342325.php",
+          "image": "https://images.centrepresseaveyron.fr/api/v1/images/view/69ebbb3c19632b91ed083741/hd/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Un négociateur en ransomware trahit sa confiance",
+          "summary": "Un négociateur en cybersécurité est accusé d'un effroyable double jeu avec des rançongiciels, révélant une trahison.",
+          "url": "https://www.generation-nt.com/actualites/ransomware-negociateur-blackcat-trahison-2074625",
+          "image": "https://img.generation-nt.com/ransomware_04B002A301685777.webp"
+        },
+        {
+          "title": "SCAF : Macron assure la poursuite du projet",
+          "summary": "Emmanuel Macron affirme que le projet d'avion de combat SCAF n'est \"pas du tout\" mort, discussions avec Berlin en cours.",
+          "url": "https://www.capital.fr/economie-politique/scaf-le-projet-n-est-pas-du-tout-mort-affirme-emmanuel-macron-des-discussions-en-cours-entre-paris-et-berlin-1525976",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~24~36da6a84-df3b-4bca-ac23-9d9840110e2b.jpg/1200x900/quality/80/scaf-le-projet-n-est-pas-du-tout-mort-affirme-emmanuel-macron-des-discussions-en-cours-entre-paris-et-berlin.jpg"
+        },
+        {
+          "title": "L'IA nous rend-elle idiots ?",
+          "summary": "Des chercheurs alertent sur le \"syndrome de la grenouille bouillie\", craignant un impact de l'IA sur notre intelligence.",
+          "url": "https://www.journaldugeek.com/2026/04/24/syndrome-grenouille-bouillie-lia-nous-rend-idiots-chercheurs/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Grenouille-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "L'Oréal augmente son dividende",
+          "summary": "L'Oréal annonce une hausse de son dividende de 2,9%, le portant à 7,20 euros par action, une bonne nouvelle pour les investisseurs.",
+          "url": "https://fr.investing.com/news/global-filings/loreal-releve-son-dividende-de-29-a-720-euros-par-action-93CH-3376344",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg"
+        },
+        {
+          "title": "Les foreurs américains reprennent l'activité",
+          "summary": "Les foreurs américains ajoutent des plateformes pour la première fois en trois semaines, signalant une reprise du secteur.",
+          "url": "https://fr.investing.com/news/commodities-news/les-foreurs-americains-ajoutent-des-plateformes-pour-la-premiere-fois-en-trois-semaines-93CH-3376345",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0G0AA_L.jpg"
+        },
+        {
+          "title": "Charter Communications à son plus bas annuel",
+          "summary": "L'action de Charter Communications atteint un plus bas de 52 semaines à 180,30$, inquiétant les marchés.",
+          "url": "https://fr.investing.com/news/company-news/laction-de-charter-communications-atteint-un-plus-bas-de-52-semaines-a-18030-93CH-3376346",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Violences dans le sport : chiffres alarmants",
+          "summary": "Les signalements pour violences dans le sport ont connu une augmentation massive et inquiétante en 2025.",
+          "url": "https://rmcsport.bfmtv.com/societe/une-augmentation-massive-les-chiffres-inquietants-des-signalements-pour-violences-dans-le-sport-en-2025_AN-202604230405.html",
+          "image": "https://images.bfmtv.com/mU-RkiszTIaTNsZZJCj2CEMX5Eg=/0x22:2048x1174/800x0/images/Marina-Ferrari-ministre-des-Sports-le-19-janvier-2026-2222431.jpg"
+        },
+        {
+          "title": "Djenna Laroui, victime de racisme, championne",
+          "summary": "Cyberharcelée et victime de racisme, Djenna Laroui remporte un titre avec l'Algérie après avoir quitté l'équipe de France.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/gymnastique-cyberharcelee-et-victime-de-racisme-djenna-laroui-s-offre-deja-un-premier-grand-titre-avec-l-algerie-deux-semaines-apres-son-depart-de-l-equipe-de-france_AN-202604240754.html",
+          "image": "https://images.bfmtv.com/_1QE6oDPR6sRNk-TCwFyuq632ww=/0x106:2048x1258/800x0/images/Djenna-Laroui-2275808.jpg"
+        },
+        {
+          "title": "La FFR mise en examen après un décès",
+          "summary": "La Fédération Française de Rugby est mise en examen pour homicide involontaire après la disparition de Medhi Narjissi.",
+          "url": "https://rmcsport.bfmtv.com/rugby/disparition-de-medhi-narjissi-la-federation-francaise-de-rugby-mise-en-examen-pour-homicide-involontaire_AN-202604240745.html",
+          "image": "https://images.bfmtv.com/TY-yFhpAgMwvLaMOx6gChrmGR3s=/71x264:999x786/800x0/images/Le-portait-de-Medhi-Narjissi-au-Stade-de-France-avant-France-Galles-le-31-janvier-2025-2025173.jpg"
+        }
+      ]
+    }
+  ]
+}
