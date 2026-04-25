@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Marc",
-  "global_summary": "La scène internationale est marquée par des enjeux de taille, allant des tensions géopolitiques avec de nouvelles sanctions américaines contre la Chine, aux avancées cruciales pour les droits des femmes en Roumanie. Des mystères intrigants captivent également, comme la disparition de scientifiques aux États-Unis, tandis qu'en France, des phénomènes naturels inexpliqués et des aides humanitaires ponctuent l'actualité. L'aide apportée à des Afghans coupés du monde souligne une solidarité essentielle face aux conflits. \n\nLe monde de la technologie ne cesse de nous surprendre, entre les défis de la cybersécurité et les débats sur l'impact de l'IA sur nos capacités cognitives, sans oublier l'avenir de projets technologiques majeurs. Côté économie, les marchés suivent les mouvements des grandes entreprises et de l'énergie. Enfin, le sport, au-delà des performances, est confronté à des questions profondes de sécurité, de justice et de lutte contre les discriminations, nous rappelant l'importance de l'intégrité et du bien-être des athlètes.",
-  "running_advice": "Aujourd'hui, c'est une journée fantastique pour enfiler vos baskets et vous dépasser ! Avec des températures parfaites allant de 14.3°C à 22.3°C et un ciel peu nuageux, les conditions sont optimales pour une belle séance. Pour profiter au mieux de cette fenêtre idéale et éviter le pic d'UV (indice de 6.2), je vous conseille de viser votre course en milieu de matinée, après 7h, ou en fin d'après-midi, avant 21h. N'oubliez surtout pas une bonne crème solaire, un chapeau et des lunettes de soleil pour vous protéger efficacement. C'est le moment de faire le plein d'énergie et de vous sentir vivant ! Allez, on y va !",
-  "weather_string": "🌤️ Peu nuageux (14.3°C / 22.3°C)",
+  "global_summary": "L'actualité mondiale de ce jour est marquée par des tensions géopolitiques, avec les sanctions américaines contre une entreprise chinoise pour ses achats de pétrole iranien, et par des avancées sociales cruciales, comme l'adoption d'une loi roumaine contre les féminicides. Parallèlement, le mystère s'invite avec des disparitions de scientifiques aux États-Unis et un phénomène lumineux inexpliqué en France, témoignant d'une journée riche en contrastes et en interrogations.\n\nDu côté des affaires, le dynamisme économique se poursuit avec des acquisitions dans l'aéronautique et des mouvements sur les marchés boursiers, tandis que le monde du sport oscille entre exploits spectaculaires, comme les performances de LeBron James et un robot battant un record de semi-marathon, et des révélations préoccupantes sur l'augmentation des violences. Cette diversité de sujets, allant des enjeux locaux aux défis mondiaux, souligne la complexité et la vitalité de notre société.",
+  "running_advice": "Avis aux runners et à toutes celles et ceux qui veulent bouger ! Aujourd'hui est une journée absolument splendide pour enfiler vos baskets ! Avec des températures idéales, allant de 14.2°C à 21.4°C, et un ciel peu nuageux, les conditions sont parfaites pour une sortie énergisante. Pour profiter au maximum de cette météo sans risquer les coups de soleil (l'indice UV est de 6.2 !), je vous conseille de courir tôt le matin, juste après le lever du soleil à 7h, ou de viser la fin d'après-midi et le début de soirée, avant que le soleil ne se couche à 21h. N'oubliez pas une bonne crème solaire et une casquette ! C'est le moment de vous dépasser, d'écouter votre corps et de savourer chaque foulée. Votre objectif vous attend !",
+  "weather_string": "🌤️ Peu nuageux (14.2°C / 21.4°C)",
   "weather_stats": {
-    "temp": "22.3°C",
+    "temp": "21.4°C",
     "rain": "3%",
     "uv": "6.2"
   },
@@ -15,19 +15,19 @@
       "articles": [
         {
           "title": "Sanctions US contre la Chine pour pétrole iranien",
-          "summary": "La Chine fait face à de nouvelles sanctions américaines pour des achats de pétrole iranien, intensifiant les tensions géopolitiques.",
-          "url": "https://fr.investing.com/news/world-news/hengli-petrochemical-de-chine-fait-face-a-des-sanctions-americaines-pour-des-achats-de-pétrole-iranien-93CH-3376356",
+          "summary": "Une firme chinoise fait face à des sanctions américaines pour ses achats de pétrole iranien, intensifiant les tensions géopolitiques.",
+          "url": "https://fr.investing.com/news/world-news/hengli-petrochemical-de-chine-fait-face-a-des-sanctions-americaines-pour-des-achats-de-petrole-iranien-93CH-3376356",
           "image": "https://i-invdn-com.investing.com/news/LYNXNPEB8506G_L.jpg"
         },
         {
-          "title": "La Roumanie agit contre les féminicides",
-          "summary": "Une nouvelle loi est mise en place en Roumanie pour endiguer le fléau persistant des féminicides.",
+          "title": "Roumanie : nouvelle loi contre les féminicides",
+          "summary": "La Roumanie adopte une loi cruciale pour tenter d'enrayer le fléau croissant des féminicides et protéger les femmes.",
           "url": "https://www.la-croix.com/international/roumanie-une-loi-pour-tenter-d-enrayer-le-fleau-des-feminicides-20260424",
           "image": "https://i.la-croix.com/x/smart/2026/04/24/2418942-des-manifestants-participent-a-un-rassemblement-en.jpg"
         },
         {
-          "title": "Disparitions mystérieuses de scientifiques aux États-Unis",
-          "summary": "Les États-Unis sont le théâtre de mystérieuses disparitions de scientifiques, soulevant de nombreuses interrogations.",
+          "title": "États-Unis : Des scientifiques disparaissent mystérieusement",
+          "summary": "Une vague de disparitions inexpliquées de scientifiques américains sème l'inquiétude et relance les spéculations.",
           "url": "https://www.franceinfo.fr/monde/usa/etats-unis-mysterieuses-disparitions-de-scientifiques_7962146.html",
           "image": "https://www.franceinfo.fr/pictures/3WtBUwPt9Ktl6sqoknImf95yBbg/fit-in/1200x675/filters:upscale():fill(black)/2026/04/24/69eba30c2bd86028430573.png"
         }
@@ -38,94 +38,142 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Aide d'urgence pour Afghans coupés du monde",
-          "summary": "Après des semaines de guerre, des Afghans reçoivent enfin une aide d'urgence en France.",
+          "title": "Aide d'urgence pour Afghans isolés par la guerre",
+          "summary": "Des Afghans, isolés par la guerre, reçoivent enfin une aide humanitaire vitale après des semaines difficiles.",
           "url": "https://www.laprovence.com/article/france-monde/1239221003452515/apres-des-semaines-coupes-du-monde-par-la-guerre-des-afghans-recoivent-une-aide-durgence",
           "image": "https://pictures.laprovence.com/cdn-cgi/image//media/afp/1afb8f7d023f3b47baebb3768871f6f8be63c9a4.jpg"
         },
         {
-          "title": "Phénomène lumineux mystérieux à Vence",
-          "summary": "Un phénomène lumineux spectaculaire a été observé dans le ciel nocturne à Vence, intriguant les habitants.",
+          "title": "Phénomène lumineux mystérieux dans le ciel de Vence",
+          "summary": "Un spectacle lumineux étonnant a intrigué les habitants de Vence, suscitant interrogations et fascination nocturne.",
           "url": "https://www.nicematin.com/societe/sciences/quel-etait-ce-phenomene-lumineux-spectaculaire-observe-dans-le-ciel-nocturne-a-vence-10678206",
           "image": "https://assets.nicematin.com/articles/10/67/82/06/OG-10678206-1200-800-be3baa9_upload-from-url-1-0iu3bfsvuqzh-data-art-17556247.jpg"
         },
         {
-          "title": "Lorànt Deutsch tourne à Rodez",
-          "summary": "L'historien Lorànt Deutsch tourne un épisode de 'À Toute Berzingue' dans les rues historiques de Rodez.",
+          "title": "Lorànt Deutsch tourne son émission historique à Rodez",
+          "summary": "L'historien Lorànt Deutsch, passionné de France, explore les rues de Rodez pour sa célèbre émission.",
           "url": "https://www.centrepresseaveyron.fr/2026/04/24/video-a-toute-berzingue-quand-lorant-deutsch-feru-de-lhistoire-de-france-tourne-dans-les-rues-de-rodez-13342325.php",
           "image": "https://images.centrepresseaveyron.fr/api/v1/images/view/69ebbb3c19632b91ed083741/hd/image.jpg?v=1"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
+      "label": "Tech",
       "emoji": "💻",
       "articles": [
         {
-          "title": "Un négociateur en ransomware trahit sa confiance",
-          "summary": "Un négociateur en cybersécurité est accusé d'un effroyable double jeu avec des rançongiciels, révélant une trahison.",
+          "title": "AAR acquiert une société d'ingénierie aéronautique",
+          "summary": "AAR renforce sa position dans l'aéronautique avec l'acquisition stratégique d'une entreprise d'ingénierie clé.",
+          "url": "https://fr.investing.com/news/company-news/aar-finalise-lacquisition-dune-societe-dingenierie-aeronautique-93CH-3376352",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_L.jpg"
+        },
+        {
+          "title": "Double jeu d'un négociateur de ransomware révélé",
+          "summary": "Un négociateur en rançongiciel accusé de trahison et de collaboration secrète avec les cybercriminels.",
           "url": "https://www.generation-nt.com/actualites/ransomware-negociateur-blackcat-trahison-2074625",
           "image": "https://img.generation-nt.com/ransomware_04B002A301685777.webp"
         },
         {
-          "title": "SCAF : Macron assure la poursuite du projet",
-          "summary": "Emmanuel Macron affirme que le projet d'avion de combat SCAF n'est \"pas du tout\" mort, discussions avec Berlin en cours.",
+          "title": "SCAF : Macron rassure, discussions Paris-Berlin",
+          "summary": "Le président Macron réaffirme la vitalité du projet SCAF, avec des négociations actives entre la France et l'Allemagne.",
           "url": "https://www.capital.fr/economie-politique/scaf-le-projet-n-est-pas-du-tout-mort-affirme-emmanuel-macron-des-discussions-en-cours-entre-paris-et-berlin-1525976",
           "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~04~24~36da6a84-df3b-4bca-ac23-9d9840110e2b.jpg/1200x900/quality/80/scaf-le-projet-n-est-pas-du-tout-mort-affirme-emmanuel-macron-des-discussions-en-cours-entre-paris-et-berlin.jpg"
-        },
-        {
-          "title": "L'IA nous rend-elle idiots ?",
-          "summary": "Des chercheurs alertent sur le \"syndrome de la grenouille bouillie\", craignant un impact de l'IA sur notre intelligence.",
-          "url": "https://www.journaldugeek.com/2026/04/24/syndrome-grenouille-bouillie-lia-nous-rend-idiots-chercheurs/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Grenouille-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Business & Économie",
-      "emoji": "📈",
+      "label": "Business",
+      "emoji": "💼",
       "articles": [
         {
-          "title": "L'Oréal augmente son dividende",
-          "summary": "L'Oréal annonce une hausse de son dividende de 2,9%, le portant à 7,20 euros par action, une bonne nouvelle pour les investisseurs.",
+          "title": "L'Oréal augmente son dividende par action",
+          "summary": "Bonne nouvelle pour les actionnaires : L'Oréal relève son dividende de près de 3%, atteignant 7,20 euros par action.",
           "url": "https://fr.investing.com/news/global-filings/loreal-releve-son-dividende-de-29-a-720-euros-par-action-93CH-3376344",
           "image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg"
         },
         {
-          "title": "Les foreurs américains reprennent l'activité",
-          "summary": "Les foreurs américains ajoutent des plateformes pour la première fois en trois semaines, signalant une reprise du secteur.",
+          "title": "Les foreurs US augmentent leurs plateformes",
+          "summary": "Après trois semaines de stabilité, les foreurs américains reprennent l'activité et ajoutent de nouvelles plateformes pétrolières.",
           "url": "https://fr.investing.com/news/commodities-news/les-foreurs-americains-ajoutent-des-plateformes-pour-la-premiere-fois-en-trois-semaines-93CH-3376345",
           "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0G0AA_L.jpg"
         },
         {
-          "title": "Charter Communications à son plus bas annuel",
-          "summary": "L'action de Charter Communications atteint un plus bas de 52 semaines à 180,30$, inquiétant les marchés.",
+          "title": "Charter Communications au plus bas en bourse",
+          "summary": "L'action Charter Communications chute à son niveau le plus bas depuis un an, atteignant 180,30$.",
           "url": "https://fr.investing.com/news/company-news/laction-de-charter-communications-atteint-un-plus-bas-de-52-semaines-a-18030-93CH-3376346",
           "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_L.jpg"
         }
       ]
     },
     {
-      "label": "Sport",
-      "emoji": "🏅",
+      "label": "Gironde",
+      "emoji": "📍",
       "articles": [
         {
-          "title": "Violences dans le sport : chiffres alarmants",
-          "summary": "Les signalements pour violences dans le sport ont connu une augmentation massive et inquiétante en 2025.",
+          "title": "Député RN sous enquête pour conduite en état d'ivresse",
+          "summary": "Un député RN impliqué dans un accident est ciblé par une enquête pour suspicion de conduite sous l'emprise de l'alcool.",
+          "url": "https://www.sudouest.fr/france/le-depute-rn-antoine-villedieu-implique-dans-un-accident-de-la-route-vise-par-une-enquete-pour-conduite-en-etat-d-ivresse-28816138.php",
+          "image": ""
+        },
+        {
+          "title": "Lycéen condamné pour meurtre de sa professeure",
+          "summary": "Le jeune accusé de l'assassinat d'Agnès Lassalle est condamné à quinze ans de réclusion criminelle.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/meurtre-d-agnes-lassalle-au-pays-basque-le-lyceen-condamne-a-quinze-ans-de-prison-pour-avoir-tue-sa-professeure-28810835.php",
+          "image": ""
+        },
+        {
+          "title": "Disparition Manon Relandeau : conjoint suspecté",
+          "summary": "Le conjoint de Manon Relandeau, déjà condamné pour violences, est sous le feu des projecteurs après sa disparition.",
+          "url": "https://www.sudouest.fr/faits-divers/disparition/disparition-de-manon-relandeau-qui-est-karim-b-son-conjoint-deja-condamne-pour-des-violences-conjugales-28815315.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "L'IA nous rend-elle idiots ?",
+          "summary": "Des chercheurs alertent sur le \"syndrome de la grenouille bouillie\", craignant que l'IA diminue notre intelligence.",
+          "url": "https://www.journaldugeek.com/2026/04/24/syndrome-grenouille-bouillie-lia-nous-rend-idiots-chercheurs/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Grenouille-1280x853.jpg"
+        },
+        {
+          "title": "Test : DJI Power 1000 Mini, look GameCube",
+          "summary": "La nouvelle batterie DJI Power 1000 Mini impressionne par sa compacité et son design rétro inspiré de la GameCube.",
+          "url": "https://www.journaldugeek.com/test/test-dji-power-1000-mini-la-batterie-au-look-de-gamecube-la-plus-compacte-du-marche/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/DSC06438-1280x853.jpg"
+        },
+        {
+          "title": "Blue Origin : une mini Tour Eiffel sur la Lune",
+          "summary": "Blue Origin dévoile un projet ambitieux et coûteux : ériger une \"mini Tour Eiffel\" sur la surface lunaire.",
+          "url": "https://www.journaldugeek.com/2026/04/24/mini-tour-eiffel-blue-origin-millions-dollars/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/blue-origin-espace-lunarsaber-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "LeBron James héroïque, les Lakers presque qualifiés",
+          "summary": "Grâce à une performance épique de LeBron James à Houston, les Lakers sont à un pas de la qualification en playoffs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-le-bron-james-heroique-a-houston-les-lakers-a-une-victoire-de-la-qualification_AV-202604250104.html",
+          "image": "https://images.bfmtv.com/vF9I2UywKcRFgM_325D1-ircezo=/0x106:2048x1258/800x0/images/LeBron-James-le-24-avril-2026-2275987.jpg"
+        },
+        {
+          "title": "Un robot bat le record humain du semi-marathon",
+          "summary": "Une prouesse technologique : un robot humanoïde dépasse le record humain au semi-marathon de Pékin en 50 minutes.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/en-50-minutes-et-26-secondes-un-robot-humanoide-bat-a-pekin-le-record-humain-du-semi-marathon_AN-202604190146.html",
+          "image": "https://images.bfmtv.com/YW_T3lted4rKvGCOx2oHggILk1g=/0x65:2048x1217/800x0/images/Un-robot-sur-le-semi-marathon-de-Pekin-le-19-avril-2026-2272517.jpg"
+        },
+        {
+          "title": "Augmentation alarmante des violences dans le sport",
+          "summary": "Les signalements de violences dans le milieu sportif ont massively augmenté en 2025, un constat préoccupant.",
           "url": "https://rmcsport.bfmtv.com/societe/une-augmentation-massive-les-chiffres-inquietants-des-signalements-pour-violences-dans-le-sport-en-2025_AN-202604230405.html",
           "image": "https://images.bfmtv.com/mU-RkiszTIaTNsZZJCj2CEMX5Eg=/0x22:2048x1174/800x0/images/Marina-Ferrari-ministre-des-Sports-le-19-janvier-2026-2222431.jpg"
-        },
-        {
-          "title": "Djenna Laroui, victime de racisme, championne",
-          "summary": "Cyberharcelée et victime de racisme, Djenna Laroui remporte un titre avec l'Algérie après avoir quitté l'équipe de France.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/gymnastique-cyberharcelee-et-victime-de-racisme-djenna-laroui-s-offre-deja-un-premier-grand-titre-avec-l-algerie-deux-semaines-apres-son-depart-de-l-equipe-de-france_AN-202604240754.html",
-          "image": "https://images.bfmtv.com/_1QE6oDPR6sRNk-TCwFyuq632ww=/0x106:2048x1258/800x0/images/Djenna-Laroui-2275808.jpg"
-        },
-        {
-          "title": "La FFR mise en examen après un décès",
-          "summary": "La Fédération Française de Rugby est mise en examen pour homicide involontaire après la disparition de Medhi Narjissi.",
-          "url": "https://rmcsport.bfmtv.com/rugby/disparition-de-medhi-narjissi-la-federation-francaise-de-rugby-mise-en-examen-pour-homicide-involontaire_AN-202604240745.html",
-          "image": "https://images.bfmtv.com/TY-yFhpAgMwvLaMOx6gChrmGR3s=/71x264:999x786/800x0/images/Le-portait-de-Medhi-Narjissi-au-Stade-de-France-avant-France-Galles-le-31-janvier-2025-2025173.jpg"
         }
       ]
     }
