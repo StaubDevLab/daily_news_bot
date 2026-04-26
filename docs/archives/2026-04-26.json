@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Sainte Alida",
+  "global_summary": "Le climat international demeure tendu ce jour, marqué par une escalade des combats au Mali et des frappes israéliennes au Liban en réponse à des violations de cessez-le-feu. Donald Trump ajoute à l'incertitude géopolitique en critiquant l'inaction de certains alliés de l'OTAN, soulignant des frictions persistantes sur la scène mondiale. Ces événements dessinent un tableau complexe où la stabilité reste un défi majeur.\n\nSur le front national, l'actualité est contrastée, entre le verdict poignant d'une affaire criminelle et les débats parlementaires sous tension. La sphère technologique n'est pas en reste, avec un blackout radio suite à des éruptions solaires et des innovations comme la BMW i7. Côté sport, les performances humaines et robotiques repoussent les limites, offrant des récits de résilience et de progrès au milieu d'un flux d'informations dense et varié.",
+  "running_advice": "Coach ici ! Aujourd'hui, c'est une journée fantastique pour chausser vos baskets ! Avec des températures allant de 11.6°C à 23.2°C et un ciel peu nuageux, sans une goutte de pluie, les conditions sont idéales pour une session revigorante. Pour maximiser votre confort et éviter la chaleur de la mi-journée, visez votre run tôt le matin après le lever du soleil (06:59) ou en fin d'après-midi, vers 18h-19h, avant le coucher (21:01). L'indice UV est de 5.8, pensez à appliquer une protection solaire et à bien hydrater votre corps. Allez, on y va, donnez tout !",
+  "weather_string": "🌤️ Peu nuageux (11.6°C / 23.2°C)",
+  "weather_stats": {
+    "temp": "23.2°C",
+    "rain": "0%",
+    "uv": "5.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Combats intenses au Mali",
+          "summary": "L'armée malienne affronte des « groupes terroristes », signalant une recrudescence des violences dans la région.",
+          "url": "https://www.huffingtonpost.fr/international/article/au-mali-d-importants-combats-eclatent-entre-l-armee-et-des-groupes-terroristes_263088.html",
+          "image": "https://focus.huffingtonpost.fr/2026/04/25/270/0/5184/2916/0/0/60/0/68bb288_upload-1-wryfe3h2q932-afp-20260425-a8xp2ke-v1-highres.jpg"
+        },
+        {
+          "title": "Liban: Netanyahou ordonne des frappes",
+          "summary": "Le Premier ministre israélien dénonce des violations du cessez-le-feu et lance des attaques contre le Hezbollah.",
+          "url": "https://www.franceinfo.fr/monde/israel/guerre-au-liban-benyamin-netanyahou-denonce-des-violations-du-cessez-le-feu-et-ordonne-des-attaques-contre-le-hezbollah_7964180.html",
+          "image": "https://www.franceinfo.fr/pictures/mHUHovnI1ChU0KfXUkeh12iqOGc/1200x675/2026/04/25/69ed05e2710db892892031.jpg"
+        },
+        {
+          "title": "Trump fustige l'OTAN",
+          "summary": "Donald Trump critique ouvertement l'inaction de certains alliés de l'OTAN, ravivant les tensions au sein de l'alliance.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/donald-trump-fustige-l-inaction-de-certains-de-ses-allies-de-l-otan_7964195.html",
+          "image": "https://www.franceinfo.fr/pictures/6dA0JhPO5GcSHP9E1cOe9yEOWYs/1200x675/2026/04/25/69ed0b5802bdd065306426.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Affaire Lassalle: le compagnon témoigne",
+          "summary": "Au lendemain du verdict, le compagnon d'Agnès Lassalle exprime son besoin de solitude après cette épreuve.",
+          "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-une-envie-de-se-retrouver-tout-seul-pendant-au-moins-quinze-jours-au-lendemain-du-verdict-dans-le-proces-du-meurtre-d-agnes-lassalle-son-compagnon-temoigne-dans-un-entretien-exclusif-62095-2438149.html",
+          "image": "https://photos.tf1info.fr/images/1280/720/au-lendemain-du-verdict-dans-le-proces-du-meurtre-d-agnes-lassalle-son-compagnon-temoigne-0545e4-0@1x.jpeg"
+        },
+        {
+          "title": "Parlement sous tension: les défis du ministre",
+          "summary": "Laurent Panifous répond aux interrogations face à un Parlement fragmenté et des textes législatifs sous pression.",
+          "url": "https://www.lejdd.fr/politique/parlement-en-tension-majorite-fragile-textes-sous-pression-les-reponses-du-ministre-laurent-panifous-172404",
+          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/04/25/17/panifous-photo-principale-canthony-quittot_master.jpg?VersionId=VAcH.ydwTOD7n.ozmPlfGVpxCzCv6UV_"
+        },
+        {
+          "title": "\"De ferme en ferme\": météo exceptionnelle en Vienne",
+          "summary": "Un temps parfait a favorisé un afflux record pour l'événement \"De ferme en ferme\" dans la Vienne.",
+          "url": "https://www.lanouvellerepublique.fr/vienne/commune/nouaille-maupertuis/meteo-parfaite-pour-de-ferme-en-ferme-dans-la-vienne-c-est-exceptionnel-cette-annee-1777144603",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/69ed1319c63c220d148b45b1"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Éruption solaire: blackout radio mondial",
+          "summary": "Une double éruption solaire majeure frappe la Terre, entraînant un blackout radio confirmé.",
+          "url": "https://www.generation-nt.com/actualites/soleil-eruption-tempete-x-flare-blackout-radio-2074649",
+          "image": "https://img.generation-nt.com/soleil_01705971.jpg"
+        },
+        {
+          "title": "BMW i7 2027: le luxe électrique",
+          "summary": "La nouvelle berline de luxe électrique de BMW, l'i7 2027, vise à dominer le marché avec des innovations audacieuses.",
+          "url": "https://www.generation-nt.com/actualites/bmw-i7-berline-electrique-luxe-2074606",
+          "image": "https://img.generation-nt.com/bmw-i7-01_01723729.jpg"
+        },
+        {
+          "title": "NordVPN: offre choc à moins de 3€",
+          "summary": "NordVPN bouscule le marché des VPN en proposant un abonnement défiant toute concurrence à prix réduit.",
+          "url": "https://www.bfmtv.com/tech/bons-plans/vpn/nord-vpn-defie-la-concurrence-en-affichant-son-abonnement-a-moins-de-3-euros-par-mois_AB-202604250013.html",
+          "image": "https://images.bfmtv.com/-HciXFdGvBPNFBHV_VDCBr7Uoxc=/0x0:1600x900/1600x0/images/Si-un-VPN-vous-interesse-cette-offre-NordVPN-est-sans-doute-l-une-des-meilleures-1844536.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Trump: 51 M$+ investis en obligations",
+          "summary": "Les déclarations de Donald Trump révèlent des investissements massifs en obligations pour le mois de mars.",
+          "url": "https://fr.investing.com/news/stock-market-news/les-declarations-de-trump-montrent-51-m-investis-en-obligations-en-mars-3376734",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL44028_L.jpg"
+        },
+        {
+          "title": "Saint-Félicien: le Caillé doux en quête d'excellence",
+          "summary": "Un fromage artisanal de Vanosc, le Caillé doux de Saint-Félicien, vise la reconnaissance de son savoir-faire.",
+          "url": "https://www.ledauphine.com/economie/2026/04/25/le-caille-doux-de-saint-felicien-en-quete-d-excellence",
+          "image": "https://cdn-s-www.ledauphine.com/images/C3846DC1-2E9B-4FEF-9ABF-862E0826CE51/NW_listB/le-caille-doux-de-saint-felicien-en-quete-d-excellence-1777144079.jpg"
+        },
+        {
+          "title": "Gazole: l'impact saisonnier",
+          "summary": "Découvrez ce qui différencie le gazole été du gazole hiver et son importance pour votre véhicule.",
+          "url": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/gazole-ete-ou-hiver-qu-est-ce-que-ca-change_7962155.html",
+          "image": "https://www.franceinfo.fr/pictures/mctjoRuIde3v8SQB0VwSRni3SS4/fit-in/1200x675/filters:upscale():fill(black)/2026/04/24/69eba4644d3c6803979128.png"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Bordeaux: une jeune femme agressée",
+          "summary": "Une jeune femme a été victime d'une agression en pleine rue à Bordeaux, provoquant l'émoi local.",
+          "url": "https://www.sudouest.fr/faits-divers/bordeaux-une-jeune-femme-agressee-dans-la-rue-28827501.php",
+          "image": ""
+        },
+        {
+          "title": "Sainte-Hélène: accident mortel",
+          "summary": "Un homme a tragiquement perdu la vie dans un accident de la route survenu à Sainte-Hélène.",
+          "url": "https://www.sudouest.fr/gironde/sainte-helene/sainte-helene-un-homme-decede-dans-un-accident-de-la-route-28832020.php",
+          "image": ""
+        },
+        {
+          "title": "Drame routier: 4 adolescents tués",
+          "summary": "Un grave accident de la route dans la Marne a coûté la vie à quatre adolescents, provoquant un choc national.",
+          "url": "https://www.sudouest.fr/faits-divers/quatre-adolescents-meurent-dans-un-grave-accident-de-la-route-dans-la-marne-28831994.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Meta veut alimenter son IA au gaz",
+          "summary": "Le géant Meta explore l'utilisation du gaz pour répondre aux besoins énergétiques croissants de son intelligence artificielle.",
+          "url": "https://www.journaldugeek.com/2026/04/26/meta-veut-alimenter-son-ia-avec-du-gaz/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/meta-hyperion-1280x853.jpg"
+        },
+        {
+          "title": "Réseau IPTV pirate démantelé",
+          "summary": "Le leader d'un réseau IPTV illégal, pesant des millions, a été arrêté et risque de lourdes peines.",
+          "url": "https://www.journaldugeek.com/2026/04/26/iptv-pirate-le-patron-dun-reseau-a-plusieurs-millions-tombe-et-ca-lui-coute-cher/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/iptv-1280x853.jpg"
+        },
+        {
+          "title": "Geekeries: la sélection BD du mois",
+          "summary": "Découvrez notre sélection de bandes dessinées, mangas et romans, entre philosophie, superhéros et mondes enchantés.",
+          "url": "https://www.journaldugeek.com/dossier/philo-superheros-et-fees-a-paillettes-on-a-lu-quoi-ce-mois-ci/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/selection-BD-avril-2026-livres-manga-roman-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama incertain pour match 4",
+          "summary": "Victor Wembanyama reste sous protocole commotion, incertain pour le quatrième match des playoffs NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-toujours-incertain-pour-le-match-4-apres-son-protocole-commotion_AD-202604260058.html",
+          "image": "https://images.bfmtv.com/i9vXNJGXGEXTj8DCPQxgrj12r_E=/0x106:2048x1258/800x0/images/Victor-Wembanyama-le-16-mars-2026-2274425.jpg"
+        },
+        {
+          "title": "Un robot bat le record du semi-marathon",
+          "summary": "Un robot humanoïde défie les records humains en bouclant un semi-marathon à Pékin en 50 minutes et 26 secondes.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/en-50-minutes-et-26-secondes-un-robot-humanoide-bat-a-pekin-le-record-humain-du-semi-marathon_AN-202604190146.html",
+          "image": "https://images.bfmtv.com/YW_T3lted4rKvGCOx2oHggILk1g=/0x65:2048x1217/800x0/images/Un-robot-sur-le-semi-marathon-de-Pekin-le-19-avril-2026-2272517.jpg"
+        },
+        {
+          "title": "Djenna Laroui: le titre après le cyberharcèlement",
+          "summary": "Victime de racisme, Djenna Laroui remporte un titre avec l'Algérie, deux semaines après son départ de la France.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/gymnastique-cyberharcelee-et-victime-de-racisme-djenna-laroui-s-offre-deja-un-premier-grand-titre-avec-l-algerie-deux-semaines-apres-son-depart-de-l-equipe-de-france_AN-202604240754.html",
+          "image": "https://images.bfmtv.com/_1QE6oDPR6sRNk-TCwFyuq632ww=/0x106:2048x1258/800x0/images/Djenna-Laroui-2275808.jpg"
+        }
+      ]
+    }
+  ]
+}
