@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Boris",
+  "global_summary": "L'actualité de ce jour est marquée par une intense effervescence sportive, des parquets de la NBA où Rudy Gobert brille, aux courts de badminton avec une médaille mondiale historique pour la France, sans oublier les chocs européens en football. L'innovation technologique continue d'électriser le marché automobile avec une poussée des ventes de véhicules électriques, notamment chinois.\n\nSur le plan international, les tensions économiques refont surface avec les menaces tarifaires de Trump, tandis que la politique européenne est agitée par des affaires internes. En France, les faits divers tragiques côtoient des histoires plus insolites, et la préparation des JO 2030 suscite déjà des débats autour des infrastructures, dessinant un tableau riche et varié des défis et réussites du moment.",
+  "running_advice": "Salut, champion(ne) ! Aujourd'hui, Saint Boris vous accompagne sous un ciel... incertain ! Avec 88% de chances de pluie et des températures douces (13°C à 20.6°C), préparez-vous à une course rafraîchissante. Équipez-vous d'une veste imperméable et de chaussures adaptées pour embrasser la pluie ! L'indice UV de 4.75 est modéré : si le soleil fait une apparition surprise, une crème solaire légère est recommandée. Le meilleur moment pour vous lancer ? Visez le début de l'après-midi, entre 14h00 et 16h00, lorsque les températures sont les plus clémentes et que les averses peuvent parfois s'estomper. Transformez cette météo en une opportunité unique de vous dépasser et de ressentir la puissance de chaque foulée. Votre corps est votre plus belle machine, faites-la vibrer !",
+  "weather_string": "🌧️ Pluie (13°C / 20.6°C)",
+  "weather_stats": {
+    "temp": "20.6°C",
+    "rain": "88%",
+    "uv": "4.75"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Choc des titans en Ligue des Champions",
+          "summary": "PSG-Bayern et Arsenal-Atlético, les géants européens s'affrontent avant les matchs retour décisifs.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20260501-ligue-des-champions-psg-bayern-et-arsenal-atl%C3%A9tico-un-choc-des-styles-avant-les-retours",
+          "image": "https://s.france24.com/media/display/92f1db02-4592-11f1-8e15-005056bfb2b6/w:1280/p:16x9/capture-25753052969f4fc955f0296-15529011.jpg"
+        },
+        {
+          "title": "Trump menace l'UE de nouveaux droits de douane",
+          "summary": "L'ex-président propose 25% de taxes sur les voitures et camions européens, ravivant les tensions commerciales.",
+          "url": "http://fr.euronews.com/my-europe/2026/05/01/trump-annonce-25-de-droits-de-douane-americains-sur-les-voitures-et-les-camions-de-lue",
+          "image": "https://images.euronews.com/articles/stories/09/74/39/83/1440x810_cmsv2_83193626-d9d3-57a8-b715-05a52a985c79-9743983.jpg"
+        },
+        {
+          "title": "Scandale politique en Hongrie",
+          "summary": "Péter Magyar défend la nomination controversée de son futur beau-frère au ministère de la Justice.",
+          "url": "http://fr.euronews.com/my-europe/2026/05/01/peter-magyar-defend-la-nomination-de-son-futur-beau-frere-au-ministere-de-la-justice-hongr",
+          "image": "https://images.euronews.com/articles/stories/09/74/37/20/1440x810_cmsv2_10d7340d-b536-5322-bafb-194a21b0aef7-9743720.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Terrible accident : cinq morts en Ardèche",
+          "summary": "Un tragique accident de la route a coûté la vie à cinq personnes. L'enquête est en cours.",
+          "url": "https://www.20minutes.fr/faits_divers/4221426-20260501-victimes-sortie-route-sait-terrible-accident-fait-cinq-morts-ardeche",
+          "image": "https://img.20mn.fr/KA8nR9xkR1-KvkBYAYxo2Ck/1444x920_bourgoin-jallieu-le-24-06-2024-un-incendie-a-ravage-l-ancienne-piscine-le-tournesol-de-bourgoi-jallieu-en-isere-allilimourad-1306-6138-credit-mourad-allili-sipa-2406261158"
+        },
+        {
+          "title": "Surveillante et détenu : un baiser interdit",
+          "summary": "En Savoie, une surveillante éprise d'un détenu a été surprise en train de l'embrasser en prison.",
+          "url": "https://www.ledauphine.com/faits-divers-justice/2026/05/01/eprise-d-un-detenu-la-surveillante-a-ete-surprise-en-train-de-l-embrasser",
+          "image": "https://cdn-s-www.ledauphine.com/images/623BE339-A75F-4D15-AAE6-616A1B2BFCBE/NW_listB/eprise-d-un-detenu-la-surveillante-a-ete-surprise-en-train-de-l-embrasser-1777663333.jpg"
+        },
+        {
+          "title": "JO 2030 : la patinoire s'éloigne de Nice",
+          "summary": "Le projet de patinoire à Nice est écarté, le Cojop étudie des alternatives à Paris ou Lyon.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-2030-le-cojop-ecarte-le-projet-de-patinoire-a-nice-et-etudie-des-options-a-paris-ou-lyon_AV-202604280394.html",
+          "image": "https://images.bfmtv.com/4pJSsFX6fz3c16dpC-Yzh4GBoG8=/0x212:2048x1364/800x0/images/L-Allianz-Riviera-a-Nice-en-mars-2026-2273254.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Explosion des ventes de voitures électriques",
+          "summary": "Les ventes de VE connaissent une forte hausse début 2026, avec les constructeurs chinois en tête.",
+          "url": "https://www.europe1.fr/economie/voitures-electriques-hausse-importante-des-ventes-sur-les-quatre-premiers-mois-de-2026-les-constructeurs-chinois-en-profitent-930494",
+          "image": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Voiture/borne_dc_ve_mathieu_thomasset_hans_lucas_hans_lucas_via_afp_69e2103fab8f9.jpg"
+        },
+        {
+          "title": "Mini-voiture sans permis pour tous",
+          "summary": "Une mini-voiture française révolutionne le marché du sans-permis, attirant bien plus que les ados.",
+          "url": "https://www.automobile-magazine.fr/voitures-electriques/article/51790-cette-mini-voiture-francaise-montre-que-le-sans-permis-ne-vise-plus-seulement-les-ados",
+          "image": "https://static.ncr.re/img/1200x675/3f/3f4363dc88a23a21a74d021470f065eb.jpg"
+        },
+        {
+          "title": "Calder et son secret automobile révélé",
+          "summary": "Découvrez le lien insoupçonné entre l'artiste Calder et le monde de l'automobile lors de sa rétrospective.",
+          "url": "https://www.caradisiac.com/ne-voyez-pas-la-retrospective-calder-sans-connaitre-son-secret-automobile-221789.htm",
+          "image": "https://images.caradisiac.com/logos/4/0/8/5/294085/S8-ne-voyez-pas-la-retrospective-calder-sans-connaitre-son-secret-automobile-221789.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Euromillions : le tirage du 1er mai dévoilé",
+          "summary": "Découvrez les résultats du tirage Euromillions de ce vendredi 1er mai 2026. La cagnotte était énorme !",
+          "url": "https://www.linternaute.com/actualite/societe/10395941-resultat-euromillions-fdj-le-tirage-du-vendredi-1er-mai-2026-40-millions-d-euros-etaient-en-jeu/",
+          "image": "https://img-4.linternaute.com/BgQHHqvVeiTOfmUAqB19v_XmMio=/1500x/smart/f9125dba0980479c8aae0a40a655f505/ccmcms-linternaute/89155284.jpg"
+        },
+        {
+          "title": "Nice : débat sur les subventions Ironman",
+          "summary": "2,2 millions d'euros économisés, mais des retombées en question après le retrait de subventions.",
+          "url": "https://rmcsport.bfmtv.com/societe/2-2-millions-d-euros-economises-par-nice-des-retombees-bien-superieures-bataille-de-chiffres-apres-le-retrait-de-subventions-a-l-ironman-et-l-ultra-trail-par-eric-ciotti_AV-202604250159.html",
+          "image": "https://images.bfmtv.com/I8flXhITVZU8YyGz0grXwpwhh6k=/0x106:2048x1258/800x0/images/Les-Mondiaux-d-Ironman-a-Nice-en-2025-illustration-2276023.jpg"
+        },
+        {
+          "title": "Élan Jardin ouvre ses portes pour plants bio",
+          "summary": "L'association Élan Jardin de Nance organise une grande vente de plants bio pour la saison.",
+          "url": "https://www.leprogres.fr/economie/2026/05/01/l-association-elan-jardin-ouvre-ses-portes-et-organise-une-grande-vente-de-plants-bio",
+          "image": "https://cdn-s-www.leprogres.fr/images/7B8917E8-4791-4790-AA08-20BCFD7D23EC/NW_listB/l-association-elan-jardin-ouvre-ses-portes-et-organise-une-grande-vente-de-plants-bio-1777662708.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Landes : cinq intoxiqués dans un incendie",
+          "summary": "Cinq personnes ont été intoxiquées suite à l'incendie d'une maison dans les Landes.",
+          "url": "https://www.sudouest.fr/landes/onesse-et-laharie/landes-cinq-personnes-intoxiquees-dans-l-incendie-d-une-maison-28904423.php",
+          "image": "https://www.sudouest.fr/landes/onesse-et-laharie/landes-cinq-personnes-intoxiquees-dans-l-incendie-d-une-maison-28904423.php"
+        },
+        {
+          "title": "Villeneuve-sur-Lot : policier frappé et mordu",
+          "summary": "Un individu a violemment agressé un policier en le frappant et le mordant en sortie de discothèque.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/agen/villeneuve-sur-lot-un-individu-frappe-et-mord-un-policier-a-la-sortie-d-une-discotheque-28898871.php",
+          "image": "https://www.sudouest.fr/lot-et-garonne/agen/villeneuve-sur-lot-un-individu-frappe-et-mord-un-policier-a-la-sortie-d-une-discotheque-28898871.php"
+        },
+        {
+          "title": "Dordogne : deux blessés légers après tonneaux",
+          "summary": "Deux personnes ont été légèrement blessées après une série de tonneaux à Nanteuil-Auriac-de-Bourzac.",
+          "url": "https://www.sudouest.fr/dordogne/dordogne-deux-blesses-legers-apres-plusieurs-tonneaux-a-nanteuil-auriac-de-bourzac-28904409.php",
+          "image": "https://www.sudouest.fr/dordogne/dordogne-deux-blesses-legers-apres-plusieurs-tonneaux-a-nanteuil-auriac-de-bourzac-28904409.php"
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Supergirl : tout sur l'événement DC Comics",
+          "summary": "Date de sortie, casting, histoire... découvrez les détails essentiels du prochain événement DC.",
+          "url": "https://www.journaldugeek.com/dossier/supergirl-date-de-sortie-casting-histoire-tout-ce quil-faut-savoir-sur-levenement-dc/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/supergirl-dossier-1-1280x853.jpg"
+        },
+        {
+          "title": "Hogwarts Legacy gratuit, dépêchez-vous !",
+          "summary": "Le célèbre jeu Hogwarts Legacy est disponible gratuitement, mais l'offre est de très courte durée !",
+          "url": "https://www.journaldugeek.com/2026/05/01/hogwarts-legacy-est-gratuit-ici-mais-il-va-falloir-faire-vite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/hogwarts-legacy-2--1280x853.jpg"
+        },
+        {
+          "title": "007 First Light : liens avec Casino Royale",
+          "summary": "Le nouveau jeu James Bond tissera des liens étroits avec les films emblématiques Casino Royale et Skyfall.",
+          "url": "https://www.journaldugeek.com/2026/05/01/007-first-light-des-liens-etroits-entre-le-jeu-casino-royale-et-skyfall/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/08/james-bond-amazon-mgm-scenariste-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : Gobert et les Wolves éliminent les Nuggets",
+          "summary": "Rudy Gobert et Minnesota créent la sensation en sortant les champions en titre, les Denver Nuggets.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-wolves-de-gobert-eliminent-les-nuggets-et-joueront-face-aux-spurs-au-2e-tour-des-play-offs_AV-202605010128.html",
+          "image": "https://images.bfmtv.com/ao9AM-p1NSbHX_fQKLs7UJvxnec=/0x146:2048x1298/800x0/images/Rudy-Gobert-le-30-avril-2026-2279141.jpg"
+        },
+        {
+          "title": "Badminton : la France décroche une médaille historique",
+          "summary": "Toma Junior Popov et les Bleus du badminton s'offrent une médaille mondiale, un exploit inédit !",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/le-reve-n-a-plus-de-limite-toma-junior-popov-et-les-bleus-du-badminton-ont-assure-une-medaille-mondiale-historique_AV-202605010712.html",
+          "image": "https://images.bfmtv.com/G1LcUdDv9NDMk81X98IR_-pbILk1g=/0x0:2048x1152/800x0/images/Toma-Jr-Popov-aux-championnats-du-monde-de-badminton-27-aout-2025-2279544.jpg"
+        },
+        {
+          "title": "Un robot bat le record humain du semi-marathon",
+          "summary": "Impressionnant ! Un robot humanoïde a pulvérisé le record humain du semi-marathon à Pékin en 50 minutes.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/en-50-minutes-et-26-secondes-un-robot-humanoide-bat-a-pekin-le-record-humain-du-semi-marathon_AN-202604190146.html",
+          "image": "https://images.bfmtv.com/YW_T3lted4rKvGCOx2oHggILk1g=/0x65:2048x1217/800x0/images/Un-robot-sur-le-semi-marathon-de-Pekin-le-19-avril-2026-2272517.jpg"
+        }
+      ]
+    }
+  ]
+}
