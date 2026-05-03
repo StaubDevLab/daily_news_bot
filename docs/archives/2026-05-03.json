@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Philippe",
-  "global_summary": "L'actualité mondiale est marquée par la persistance des tensions géopolitiques, entre les déclarations énigmatiques de Trump sur l'Iran et un conflit israélo-palestinien perçu comme éternel. En Europe, l'Allemagne suit la tendance à la réduction des taxes sur les carburants, un sujet d'actualité également en France où le gouvernement encourage TotalEnergies à plafonner ses prix.\nSur le plan national, la politique française s'anime déjà pour 2027 avec les ambitions de Gabriel Attal, tandis que l'actualité locale voit des faits divers et des enjeux de sécurité. Le monde du sport, quant à lui, est à la fois témoin d'exploits humains avec une médaille historique en badminton et de prouesses technologiques, un robot ayant battu un record au semi-marathon. Des révélations sur la santé de Maradona nous rappellent la complexité de nos icônes.",
-  "running_advice": "Avis aux athlètes ! Aujourd'hui, ne laissez pas la météo dicter votre motivation. Avec des températures allant de 14.6°C à 20.2°C, les conditions sont globalement douces, parfaites pour l'effort. Attention cependant aux averses, la probabilité de pluie étant de 85%. Chaussez vos meilleures chaussures, enfilez une veste légère et étanche, et affrontez les éléments ! Pour profiter au mieux de cette fenêtre de fraîcheur et de luminosité avant les averses probables, visez le créneau de fin d'après-midi, entre 18h et 19h. L'indice UV de 6.65 reste élevé, même sous les nuages, donc n'oubliez pas votre crème solaire et une casquette. C'est l'occasion de prouver votre résilience, chaque goutte de pluie est une raison de plus de vous dépasser ! Allez, on y va !",
+  "global_summary": "Cette journée est marquée par une actualité dense, où les défis géopolitiques et économiques se croisent. Sur la scène internationale, les tensions persistent au Moyen-Orient avec des analyses soulignant la complexité du conflit et des manœuvres diplomatiques délicates autour de l'Iran. Pendant ce temps, l'Europe, notamment l'Allemagne, prend des mesures pour alléger le fardeau des prix du carburant, un enjeu économique majeur pour les ménages.\n\nEn France, le paysage politique est déjà en effervescence à l'approche de 2027, avec des figures comme Gabriel Attal qui affirment leurs ambitions. Les discussions sur le pouvoir d'achat, notamment autour des prix du carburant, restent au cœur des préoccupations. Malgré ces turbulences, l'innovation technologique continue son chemin, et le monde du sport offre des moments inspirants, avec des performances remarquables et des équipes françaises qui brillent sur la scène internationale, démontrant la capacité humaine à se dépasser.",
+  "running_advice": "Salut les athlètes ! La météo du jour nous réserve des averses et des températures douces, entre 14.6°C et 20.2°C. C'est le genre de journée qui peut vous donner envie de rester au sec, mais le running sous la pluie, c'est aussi un super boost pour le mental et une expérience unique ! Préparez un imperméable léger et vos chaussures de running adaptées, car le terrain sera potentiellement glissant. L'heure idéale pour chausser vos baskets ? Visez la fin de matinée ou le début d'après-midi, entre 10h et 15h, pour profiter des températures les plus clémentes avant que les averses ne s'intensifient. Et attention, même sous les nuages, l'indice UV est de 6.65 : n'oubliez pas d'appliquer une protection solaire et de porter une casquette. C'est le moment de prouver votre détermination et de transformer ce défi en une victoire personnelle ! Allez, on y va !",
   "weather_string": "🌦️ Averses (14.6°C / 20.2°C)",
   "weather_stats": {
     "temp": "20.2°C",
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Allemagne : Taxe Carburant Réduite",
-          "summary": "L'Allemagne réduit les taxes sur les carburants, une mesure impactant le pouvoir d'achat européen face aux prix élevés.",
+          "title": "Carburant: L'Allemagne allège aussi ses taxes",
+          "summary": "Après la France, l'Allemagne réduit ses taxes sur les carburants pour soulager le pouvoir d'achat face à la flambée des prix.",
           "url": "https://www.franceinfo.fr/economie/automobile/essence/prix-des-carburants-l-allemagne-reduit-a-son-tour-les-taxes_7979051.html",
           "image": "https://www.franceinfo.fr/pictures/pN_2AiiphhQz1DkXMSeRuU09Lxw/1200x675/2026/05/02/69f64c3f2e38b134351212.png"
         },
         {
-          "title": "Iran : Trump sème le doute",
-          "summary": "Donald Trump multiplie les déclarations ambigües, semant le doute sur ses réelles intentions face à l'Iran.",
-          "url": "https://www.lepoint.fr/monde/iran-trump-multiplie-les-declarations-pour-semer-le-doute-sur-ses-reelles-capacites-RPXOYOPLYNHNVEZPV5I3X3DQLM/",
-          "image": "https://www.lepoint.fr/resizer/v2/KRY7F4FDJNJUPG2UFWN2RXWTZA.jpg?auth=8978c6bbd5c503484ed513edb9646092b847b13f9c32bf08214d261a0c2de030&smart=true&width=1200&height=900"
-        },
-        {
-          "title": "Israël-Gaza : La Guerre Éternelle",
-          "summary": "Un historien qualifie le conflit entre Israël et Gaza de \"guerre éternelle\", soulignant l'impasse historique.",
+          "title": "Israël-Gaza: La \"guerre éternelle\" selon un historien",
+          "summary": "Un historien analyse le conflit israélo-palestinien, suggérant une absence de résolution rapide et un enracinement profond.",
           "url": "https://www.franceinfo.fr/replay-jt/franceinfo/jt-tout-est-politique/c-est-la-guerre-eternelle-estime-vincent-lemire-historien-a-propos-du-conflit-entre-israel-et-gaza_7979000.html",
           "image": "https://www.franceinfo.fr/pictures/tdex4cx35hnpJRsWaEBW5Y-LXsA/1200x675/2026/05/02/69f63a5dc818b665920763.jpg"
+        },
+        {
+          "title": "Trump sème le doute sur l'Iran",
+          "summary": "L'ancien président américain Donald Trump multiplierait les déclarations pour brouiller les pistes concernant l'Iran.",
+          "url": "https://www.lepoint.fr/monde/iran-trump-multiplie-les-declarations-pour-semer-le-doute-sur-ses-reelles-capacites-RPXOYOPLYNHNVEZPV5I3X3DQLM/",
+          "image": "https://www.lepoint.fr/resizer/v2/KRY7F4FDJNJUPG2UFWN2RXWTZA.jpg?auth=8978c6bbd5c503484ed513edb9646092b847b13f9c32bf08214d261a0c2de030&smart=true&width=1200&height=900"
         }
       ]
     },
@@ -38,100 +38,86 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Carburants : Lecornu exhorte TotalEnergies",
-          "summary": "Le ministre Sébastien Lecornu pousse TotalEnergies à un plafonnement \"généreux\" des prix des carburants à la pompe.",
+          "title": "Carburant: Lecornu exhorte TotalEnergies",
+          "summary": "Le ministre Sébastien Lecornu pousse TotalEnergies à un plafonnement \"généreux\" des prix à la pompe pour les Français.",
           "url": "https://www.europe1.fr/politique/carburant-sebastien-lecornu-encourage-totalenergies-a-un-plafonnement-genereux-des-prix-a-la-pompe-930728",
           "image": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Sebastien%20Lecornu/sebastien_lecornu_quentin_de_groeve_hans_lucas_hans_lucas_via_afp_69e79d90ad395.jpg"
         },
         {
-          "title": "Présidentielle 2027 : Attal veut s'imposer",
-          "summary": "Gabriel Attal travaille activement à imposer sa stature en vue de la présidentielle de 2027, affûtant sa stratégie.",
+          "title": "Présidentielle 2027: Attal prépare le terrain",
+          "summary": "Gabriel Attal affiche ses ambitions pour 2027, cherchant à imposer sa stature sur la scène politique nationale.",
           "url": "https://www.lejdd.fr/politique/presidentielle-2027-gabriel-attal-veut-imposer-sa-stature-172977",
           "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/05/02/19/abaca_998436_032_master.jpeg?VersionId=FLB5paIWPKDxsdSMcSnS7lyn3CcqHgi9"
         },
         {
-          "title": "Iran : Visite Surprise à Téhéran",
-          "summary": "Le vice-président iranien effectue une visite surprise à Téhéran, des images diffusées par les médias français.",
-          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-les-images-du-vice-president-iranien-en-visite-surprise-a-teheran_VN-202605020324.html",
-          "image": "https://images.bfmtv.com/JfXzKy1GpSc8YJIz30rlBkkEdI8=/0x0:1280x720/860x0/images/Les-images-du-vice-president-iranien-en-visite-surprise-a-Teheran-2279756.jpg"
+          "title": "Sarah El Haïry menacée en ligne",
+          "summary": "La haute-commissaire à l'Enfance Sarah El Haïry porte plainte suite à des menaces subies sur un forum en ligne.",
+          "url": "https://www.sudouest.fr/faits-divers/sarah-el-hairy-menacee-sur-le-forum-legarcon-net-la-haute-commissaire-a-l-enfance-va-porter-plainte-28915612.php"
         }
       ]
     },
     {
-      "label": "Tech",
-      "emoji": "💻",
+      "label": "Tech & Innovation",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "US-Qatar : Missiles Patriot approuvés",
-          "summary": "Les États-Unis approuvent la vente de missiles Patriot au Qatar, renforçant la défense au Moyen-Orient.",
+          "title": "Sendy Audio Egret: Le casque premium",
+          "summary": "Un nouveau casque audiophile promet une expérience sonore exceptionnelle pour les amateurs de haute-fidélité.",
+          "url": "https://fr.ign.com/sendy-audio-egret/88111/sendy-audio-egret-un-casque-premium-pour-completer-une-configuration-deja-audiophile",
+          "image": "https://sm.ign.com/ign_fr/screenshot/default/img-4968_sch1.jpg"
+        },
+        {
+          "title": "Un kit de phishing alerte les experts",
+          "summary": "Un nouveau kit de phishing sophistiqué fait trembler les experts en cybersécurité par son efficacité redoutable.",
+          "url": "https://www.journaldugeek.com/2026/05/02/ce-kit-de-phishing-fait-trembler-les-experts/",
+          "image": "https://www.journaldugeek.com/app/uploads/2022/10/copie-de-ajouter-un-titre-96.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Missiles Patriot: Vente US-Qatar approuvée",
+          "summary": "Les États-Unis approuvent la vente stratégique de missiles Patriot au Qatar, un accord commercial majeur au Moyen-Orient.",
           "url": "https://www.capital.fr/economie-politique/guerre-au-moyen-orient-les-etats-unis-approuvent-la-vente-de-missiles-patriot-au-qatar-1526186",
           "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~02~8843357c-7d86-4141-b5a6-16854db6ccff.jpg/1200x900/quality/80/guerre-au-moyen-orient-les-etats-unis-approuvent-la-vente-de-missiles-patriot-au-qatar.jpg"
         },
         {
-          "title": "Sendy Audio Egret : Casque Premium",
-          "summary": "Découvrez le Sendy Audio Egret, un casque audio premium conçu pour les audiophiles exigeants.",
-          "url": "https://fr.ign.com/sendy-audio-egret/88111/sendy-audio-egret-un-casque-premium-pour-completer-une-configuration-deja-audiophile",
-          "image": "https://sm.ign.com/ign_fr/screenshot/default/img-4968_sch1.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Business",
-      "emoji": "📈",
-      "articles": [
-        {
-          "title": "Entreprises Françaises : Facturation Électronique",
-          "summary": "Nouvelle obligation de facturation électronique pour les entreprises françaises à l'étranger, un enjeu majeur.",
-          "url": "https://lepetitjournal.com/ho-chi-minh/entreprise/francaises-etranger-obligation-facturation-electronique-441959",
-          "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-05/entreprises-francaises-etranger-obligation-facturation-electronique.jpg"
+          "title": "Nice: Subventions Ironman réduites",
+          "summary": "La ville de Nice réalise 2,2 millions d'euros d'économies en retirant des subventions à l'Ironman et l'Ultra Trail.",
+          "url": "https://rmcsport.bfmtv.com/societe/2-2-millions-d-euros-economises-par-nice-des-retombees-bien-superieures-bataille-de-chiffres-apres-le-retrait-de-subventions-a-l-ironman-et-l-ultra-trail-par-eric-ciotti_AV-202604250159.html",
+          "image": "https://images.bfmtv.com/I8flXhITVZU8YyGz0grXwpwhh6k=/0x106:2048x1258/800x0/images/Les-Mondiaux-d-Ironman-a-Nice-en-2025-illustration-2276023.jpg"
         },
         {
-          "title": "Nouvelle Boulangerie à Pezens",
-          "summary": "Une nouvelle boulangerie, \"2 pains sur la planche\", ouvre ses portes à Pezens, régalant les habitants.",
-          "url": "https://www.lindependant.fr/2026/05/02/2-pains-sur-la-planche-nouvelle-boulangerie-a-pezens-13353011.php",
-          "image": "https://images.lindependant.fr/api/v1/images/view/69f653a2a0b221c8be01cf4f/hd/image.jpg?v=1"
+          "title": "Facturation électronique: Obligation à l'étranger?",
+          "summary": "Les entreprises françaises à l'étranger s'interrogent sur l'obligation de la facturation électronique, un enjeu majeur.",
+          "url": "https://lepetitjournal.com/ho-chi-minh/entreprise/francaises-etranger-obligation-facturation-electronique-441959",
+          "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-05/entreprises-francaises-etranger-obligation-facturation-electronique.jpg"
         }
       ]
     },
     {
-      "label": "Gironde",
+      "label": "Régions",
       "emoji": "📍",
       "articles": [
         {
-          "title": "Sarah El Haïry Porte Plainte",
-          "summary": "La haute-commissaire à l'Enfance, Sarah El Haïry, va porter plainte suite à des menaces en ligne.",
-          "url": "https://www.sudouest.fr/faits-divers/sarah-el-hairy-menacee-sur-le-forum-legarcon-net-la-haute-commissaire-a-l-enfance-va-porter-plainte-28915612.php",
-          "image": null
-        },
-        {
-          "title": "Gironde : Toiture Effondrée",
-          "summary": "Effondrement d'une toiture d'immeuble en Gironde, causant de gros dégâts mais heureusement aucune victime.",
-          "url": "https://www.sudouest.fr/faits-divers/gironde-la-toiture-d-un-immeuble-s-effondre-de-gros-degats-mais-pas-de-victime-28910565.php",
-          "image": null
+          "title": "Gironde: Toiture d'immeuble effondrée",
+          "summary": "Un effondrement de toiture en Gironde cause de lourds dégâts matériels mais, heureusement, aucune victime n'est à déplorer.",
+          "url": "https://www.sudouest.fr/faits-divers/gironde-la-toiture-d-un-immeuble-s-effondre-de-gros-degats-mais-pas-de-victime-28910565.php"
         }
       ]
     },
     {
-      "label": "Journal du Geek",
-      "emoji": "🤓",
+      "label": "Culture Geek",
+      "emoji": "🎮",
       "articles": [
         {
-          "title": "007 First Light : Liens Cinématographiques",
-          "summary": "Le jeu 007 First Light dévoile des liens étroits avec les films emblématiques Casino Royale et Skyfall.",
+          "title": "007 First Light: Liens profonds révélés",
+          "summary": "Le nouveau jeu James Bond \"007 First Light\" promet des liens inédits avec les célèbres films Casino Royale et Skyfall.",
           "url": "https://www.journaldugeek.com/2026/05/02/007-first-light-des-liens-etroits-entre-le-jeu-casino-royale-et-skyfall/",
           "image": "https://www.journaldugeek.com/app/uploads/2025/08/james-bond-amazon-mgm-scenariste-1280x853.jpg"
-        },
-        {
-          "title": "RTE : Nouveau Pylône Discret",
-          "summary": "RTE présente son nouveau pylône électrique, conçu pour mieux s'intégrer discrètement dans le paysage.",
-          "url": "https://www.journaldugeek.com/2026/05/02/le-nouveau-pylone-electrique-de-rte-va-trouver-sa-place-dans-le-paysage/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/04/pylone-1280x853.jpg"
-        },
-        {
-          "title": "Phishing : Kit Dangereux Découvert",
-          "summary": "Un nouveau kit de phishing inquiète les experts, représentant une menace sérieuse pour la cybersécurité.",
-          "url": "https://www.journaldugeek.com/2026/05/02/ce-kit-de-phishing-fait-trembler-les-experts/",
-          "image": "https://www.journaldugeek.com/app/uploads/2022/10/copie-de-ajouter-un-titre-96.jpg"
         }
       ]
     },
@@ -140,22 +126,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Badminton France : Médaille Historique",
-          "summary": "L'équipe de France de badminton s'assure une médaille historique aux Mondiaux par équipes, jouera l'or.",
+          "title": "Badminton: La France vise l'or mondial",
+          "summary": "L'équipe de France de badminton s'assure une médaille historique et se prépare à disputer la finale mondiale.",
           "url": "https://rmcsport.bfmtv.com/jeux-olympiques/deja-assuree-d-une-medaille-historique-l-equipe-de-france-de-badminton-jouera-l-or-aux-mondiaux-par-equipes_AN-202605020327.html",
-          "image": "https://images.bfmtv.com/9PoDOoNtZBaWIP-jJRWDq0S6RM=/0x178:2048x1330/800x0/images/Le-joueur-francais-de-badminton-Christo-Popov-12-avril-2026-2279757.jpg"
+          "image": "https://images.bfmtv.com/9PoDOoNtZBaWIP-jJRWd0S6RM=/0x178:2048x1330/800x0/images/Le-joueur-francais-de-badminton-Christo-Popov-12-avril-2026-2279757.jpg"
         },
         {
-          "title": "Robot Humanoïde : Record au Semi-Marathon",
-          "summary": "Un robot humanoïde bat le record humain du semi-marathon à Pékin, performance incroyable en 50 minutes.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/en-50-minutes-et-26-secondes-un-robot-humanoide-bat-a-pekin-le-record-humain-du-semi-marathon_AN-202604190146.html",
-          "image": "https://images.bfmtv.com/YW_T3lted4rKvGCOx2oHggILk1g=/0x65:2048x1217/800x0/images/Un-robot-sur-le-semi-marathon-de-Pekin-le-19-avril-2026-2272517.jpg"
+          "title": "NBA: Embiid mène les 76ers à la victoire",
+          "summary": "Joel Embiid et les 76ers renversent les Celtics lors du premier tour des play-offs NBA, démontrant leur force.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-embiid-et-les-76ers-renversent-les-celtics-au-1er-tour-des-play-offs_AV-202605030079.html",
+          "image": "https://images.bfmtv.com/fuRc2FuShGcI_yVc-BBxMtrya0c=/0x106:2048x1258/800x0/images/Joel-Embiid-le-2-mai-2026-2279816.jpg"
         },
         {
-          "title": "Maxim Klitschko : Basketteur et Fils de Légende",
-          "summary": "Découvrez Maxim Klitschko, basketteur et fils de Vitali, partageant son quotidien marqué par la guerre.",
-          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/j-ai-vu-mon-pere-deux-ou-trois-fois-depuis-le-debut-de-la-guerre-a-la-decouverte-du-basketteur-maxim-klitschko-fils-de-vitali-legende-de-la-boxe-et-maire-de-kiev_AN-202605020049.html",
-          "image": "https://images.bfmtv.com/C1jVpATSPe9PaLsBNJ1pVTGon0E=/0x106:2048x1258/800x0/images/Maxim-Klitschko-a-Monaco-en-avril-2026-2279398.jpg"
+          "title": "Athlétisme: Prodige de 14 ans sur 100m",
+          "summary": "Une sprinteuse américaine de 14 ans réalise un chrono exceptionnel sur 100m, annonçant un grand futur talent.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-une-sprinteuse-americaine-de-14-ans-claque-un-chrono-stratospherique-sur-100m_AV-202604190273.html",
+          "image": "https://images.bfmtv.com/mGKErrxhvn-YwvU6I9C33X7ix7Y=/5x306:581x630/800x0/images/Melanie-Doggett-2272608.jpg"
         }
       ]
     }
