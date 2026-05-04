@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Sylvain",
+  "global_summary": "Ce jour, la scène internationale est marquée par des rendez-vous diplomatiques cruciaux, avec le 8e sommet de la Communauté Politique Européenne à Erevan et les réflexions sur une solution à deux États pour Jérusalem. Sur le plan national, la France s'interroge sur l'impact de l'IA sur ses secteurs culturels et de la presse, tout en activant des mesures sociales comme l'indemnité carburant pour les grands rouleurs. \nL'innovation technologique continue de surprendre, des satellites français pour la surveillance terrestre aux robots compostables, mais l'industrie du jeu vidéo connaît des turbulences. Les dynamiques économiques incluent une acquisition majeure en biotech et des avancées en énergie solaire. Enfin, le sport nous offre des performances inspirantes, de l'exploit du badminton français à l'incroyable record d'un robot au semi-marathon, rappelant que les limites sont faites pour être repoussées.",
+  "running_advice": "Aujourd'hui, Saint Sylvain nous invite à la persévérance ! Les températures (12.9°C à 17.3°C) sont parfaites pour une course, mais attention aux averses qui s'annoncent avec 95% de probabilité de pluie. Je te conseille vivement de t'équiper d'une tenue imperméable et de chaussures adaptées pour ne pas te laisser freiner par l'humidité. Pour profiter de la lumière du jour, vise le créneau du début de soirée, entre 18h00 et 19h00, la pluie pourrait être moins intense. Malgré les nuages potentiels, l'indice UV de 4.65 reste significatif : n'oublie pas ta crème solaire et une casquette pour une protection optimale. La pluie, c'est juste de l'eau ! Transforme chaque goutte en motivation et reviens plus fort ! Allez, fonce !",
+  "weather_string": "🌦️ Averses (12.9°C / 17.3°C)",
+  "weather_stats": {
+    "temp": "17.3°C",
+    "rain": "95%",
+    "uv": "4.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "L'Europe se réunit à Erevan",
+          "summary": "La Communauté Politique Européenne tient son 8e sommet en Arménie, rassemblant les dirigeants du continent.",
+          "url": "http://fr.euronews.com/my-europe/2026/05/03/dirigeants-mondiaux-en-armenie-pour-le-8e-sommet-de-la-cpe",
+          "image": "https://images.euronews.com/articles/stories/09/74/49/68/1440x810_cmsv2_a4aa40a1-f9d4-5b6f-aaf7-750fb510b1c6-9744968.jpg"
+        },
+        {
+          "title": "Jérusalem : vers deux États ?",
+          "summary": "Un expert propose Jérusalem comme laboratoire pour une solution à deux États au conflit israélo-palestinien.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260503-vincent-lemire-j%C3%A9rusalem-pourrait-%C3%AAtre-un-laboratoire-pour-une-solution-%C3%A0-deux-etats",
+          "image": "https://s.france24.com/media/display/ace4d524-4726-11f1-a368-005056a97e36/w:1280/p:16x9/FR-20260503-200728-202603-CS.jpg"
+        },
+        {
+          "title": "Hantavirus à bord d'une croisière",
+          "summary": "Trois décès sont signalés après la transmission d'un hantavirus par des rongeurs sur un bateau de croisière.",
+          "url": "https://www.huffingtonpost.fr/international/article/sur-un-bateau-de-croisiere-trois-morts-et-une-hospitalisation-en-soins-intensifs-apres-la-transmission-d-un-hantavirus-par-des-rongeurs_263344.html",
+          "image": "https://focus.huffingtonpost.fr/2026/05/03/0/0/1100/734/0/0/60/0/9697d29_upload-1-8tn3fznnttzy-media67d942cee31a7248108362.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "L'IA inquiète culture et presse",
+          "summary": "Des organisations professionnelles alertent le Parlement sur les enjeux et défis de l'IA pour leurs secteurs.",
+          "url": "https://www.dordognelibre.fr/dordogne/organisations-professionnelles-de-la-culture-et-de-la-presse-signent-une-tribune-pour-alerter-le-parlement-sur-l-ia-28924367.php",
+          "image": "https://media.dordognelibre.fr/28924367/1200x600/a1o1p0wj-400x400.jpg"
+        },
+        {
+          "title": "Indemnité carburant activée",
+          "summary": "Le dispositif d'indemnité carburant pour les grands rouleurs sera ouvert à partir du 27 mai prochain.",
+          "url": "https://www.sudouest.fr/economie/energie/indemnite-carburant-pour-les-grands-rouleurs-le-dispositif-ouvert-a-partir-du-27-mai-28923570.php",
+          "image": "https://media.sudouest.fr/28923570/1200x600/archive-quay-a1-35164967.jpg"
+        },
+        {
+          "title": "Aide à domicile : régularisation",
+          "summary": "Des seniors devront régulariser quatre mois de cotisation d'aide à domicile; vérifiez si vous êtes concerné.",
+          "url": "https://www.capital.fr/votre-argent/aide-a-domicile-faites-vous-partie-des-seniors-qui-devront-regulariser-quatre-mois-de-cotisation-1526200",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~03~01922243-9383-41b0-9b76-e035dd8038a5.jpeg/1200x900/quality/80/aide-a-domicile-faites-vous-partie-des-seniors-qui-devront-regulariser-quatre-mois-de-cotisation.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "🤖",
+      "articles": [
+        {
+          "title": "La France parie sur ses satellites",
+          "summary": "L'État a choisi un fabricant pour développer des satellites français de surveillance terrestre depuis l'espace.",
+          "url": "https://www.clubic.com/actualite-611518-l-etat-parie-sur-des-satellites-francais-pour-surveiller-la-terre-depuis-l-espace-et-il-vient-de-choisir-son-fabricant.html",
+          "image": "https://pic.clubic.com/v1/images/2408338/raw"
+        },
+        {
+          "title": "Des robots éco-responsables",
+          "summary": "Découvrez ces robots d'un nouveau genre qui disparaissent sans laisser de traces, une avancée écologique majeure.",
+          "url": "https://www.journaldugeek.com/2026/05/04/ces-robots-compostables-disparaissent-sans-laisser-de-traces/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/01/robot-psy-1280x853.jpg"
+        },
+        {
+          "title": "Nacon en difficulté : 70 emplois perdus",
+          "summary": "La chute du studio Spiders illustre les dangers de Nacon en redressement judiciaire, impactant l'emploi local.",
+          "url": "https://www.journaldugeek.com/2026/05/04/70-emplois-perdus-comment-la-chute-de-spiders-illustre-les-dangers-de-nacon-en-redressement-judiciaire/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/fermeture-studio-francais-spiders-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "UCB acquiert Candid Therapeutics",
+          "summary": "Le groupe pharmaceutique UCB va acquérir la biotech Candid Therapeutics pour plus de 2 milliards de dollars.",
+          "url": "https://www.lecho.be/entreprises/pharma-biotechnologie/ucb-va-acquerir-la-biotech-candid-therapeutics-pour-plus-de-2-milliards-de-dollars/10658990.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:13jT4BW4qpKBv8vy-MK_8u&context=ONLINE&ratio=16/9&width=640&u=1777839046000"
+        },
+        {
+          "title": "Ombrières solaires attirent industriels",
+          "summary": "Des ombrières photovoltaïques à Moussan suscitent l'intérêt des industriels par leur efficacité énergétique.",
+          "url": "https://www.lindependant.fr/2026/05/03/moussan-des-ombrieres-photovoltaiques-qui-attirent-linteret-des-industriels-13354142.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/69f7aaab79dcff00c70c26d3/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Peugeot 8008 : le luxe français",
+          "summary": "La Peugeot 8008 incarne un nouvel espoir pour le haut de gamme à la française, entre ambition et design.",
+          "url": "https://www.automobile-magazine.fr/toute-l-actualite/article/51752-peugeot-8008-encore-un-nouvel-espoir-du-haut-de-gamme-a-la-francaise",
+          "image": "https://static.ncr.re/img/1200x675/50/50d1229014f5dc65cc9d2d4e592e3829.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Affaire Epstein : les récits",
+          "summary": "D'anciennes mannequins révèlent les mécanismes de soumission orchestrés autour du criminel sexuel Jeffrey Epstein.",
+          "url": "https://www.sudouest.fr/faits-divers/affaire-epstein/affaire-epstein-deux-anciennes-mannequins-racontent-les-mecanismes-de-soumission-autour-du-criminel-sexuel-28926782.php",
+          "image": ""
+        },
+        {
+          "title": "Justice Rwanda : décision",
+          "summary": "La justice française se prononce sur le non-lieu accordé à Agathe Habyarimana dans l'affaire du génocide rwandais.",
+          "url": "https://www.sudouest.fr/international/afrique/genocide-au-rwanda-la-justice-francaise-se-prononce-sur-le-non-lieu-accorde-a-agathe-habyarimana-28926655.php",
+          "image": ""
+        },
+        {
+          "title": "Incendie à Bergerac",
+          "summary": "Un ancien garage automobile à Bergerac a été partiellement détruit par un violent incendie, causant d'importants dégâts.",
+          "url": "https://www.sudouest.fr/dordogne/bergerac-un-ancien-garage-automobile-partiellement-detruit-dans-un-incendie-28926735.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama, un pro exemplaire",
+          "summary": "Rudy Gobert partage une anecdote étonnante sur le professionnalisme et la curiosité de Victor Wembanyama en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-il-m-a-demande-quel-filtre-j-avais-a-la-maison-pour-l-eau-l-anecdote-de-gobert-sur-le-professionnalisme-de-wembanyama_AV-202605030223.html",
+          "image": "https://images.bfmtv.com/D16a6sz-Ux_KOGGc_ghb4tLgOJM=/0x0:2048x1152/800x0/images/Rudy-Gobert-et-Victor-Wembanyama-lors-de-la-finale-des-JO-2024-en-aout-2024-2279912.jpg"
+        },
+        {
+          "title": "L'UBB en finale de Champions Cup",
+          "summary": "Bordeaux-Bègles maîtrise Bath et se qualifie pour la finale de la Champions Cup, défendant son titre avec brio.",
+          "url": "https://rmcsport.bfmtv.com/rugby/coupe-d-europe/l-ubb-defendra-son-titre-bordeaux-maitrise-bath-et-rejoint-la-finale-de-la-champions-cup_LS-202605030206.html",
+          "image": "https://images.bfmtv.com/aNFjSAWgZbIGaYZTUoGDNcro80w=/0x0:2048x1152/800x0/images/Salesi-Rayasi-et-Louis-Bielle-Biarrey-le-3-mai-2026-2279949.jpg"
+        },
+        {
+          "title": "Un robot bat le record du semi-marathon",
+          "summary": "Un robot humanoïde a réalisé l'exploit de battre le record humain du semi-marathon à Pékin, en 50 minutes.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/en-50-minutes-et-26-secondes-un-robot-humanoide-bat-a-pekin-le-record-humain-du-semi-marathon_AN-202604190146.html",
+          "image": "https://images.bfmtv.com/YW_T3lted4rKvGCOx2oHggILk1g=/0x65:2048x1217/800x0/images/Un-robot-sur-le-semi-marathon-de-Pekin-le-19-avril-2026-2272517.jpg"
+        }
+      ]
+    }
+  ]
+}
