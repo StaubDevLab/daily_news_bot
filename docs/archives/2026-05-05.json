@@ -1,0 +1,169 @@
+{
+  "ephemeride": "Saint Judith",
+  "global_summary": "L'actualité mondiale est dominée par des tensions géopolitiques persistantes, entre les discussions sur le déblocage stratégique d'Ormuz et les déclarations musclées concernant l'Iran de Donald Trump. Parallèlement, l'espoir d'une accalmie est timide en Ukraine avec des annonces de cessez-le-feu unilatéraux pour la Journée de la Victoire. Sur le plan intérieur, la France navigue entre des événements sociaux majeurs et des découvertes scientifiques fascinantes, tandis que l'économie s'ajuste à des hausses inattendues des recettes fiscales.\nLe monde de la technologie voit l'administration Trump plancher sur la régulation de l'IA, pendant que le Pentagone s'allie aux géants du secteur. Le sport nous offre des moments d'héroïsme avec une médaille historique au badminton, des performances impressionnantes et des anecdotes inspirantes sur le professionnalisme des stars du basketball.",
+  "running_advice": "Aujourd'hui, chers athlètes, le ciel nous lance un défi ! Avec des averses prévues à 98% et des températures douces entre 11.9°C et 16.1°C, ce n'est pas la journée la plus ensoleillée pour un footing. Mais un véritable guerrier ne recule jamais devant un peu de pluie, n'est-ce pas ? Enfilez votre coupe-vent, vos chaussures imperméables et profitez de cette fraîcheur vivifiante ! L'indice UV de 6.4 reste significatif, même sous les nuages, donc n'oubliez pas une protection solaire légère et des lunettes si le ciel venait à s'éclaircir. Pour l'heure idéale, visez un créneau en fin de journée, vers 18h-19h (le soleil se couchant à 21h12), où les averses pourraient être moins intenses, ou au petit matin (dès 06h46) pour attaquer la journée avec énergie. Gardez le moral et transformez chaque goutte en motivation pure !",
+  "weather_string": "🌦️ Averses (11.9°C / 16.1°C)",
+  "weather_stats": {
+    "temp": "16.1°C",
+    "rain": "98%",
+    "uv": "6.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump peut-il débloquer Ormuz ?",
+          "summary": "Donald Trump pourrait influencer le détroit stratégique d'Ormuz, un enjeu géopolitique majeur mondial.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20260504-donald-trump-peut-il-d%C3%A9bloquer-ormuz",
+          "image": "https://s.france24.com/media/display/d6081576-47f1-11f1-b92a-005056bfb2b6/w:1280/p:16x9/couverture-vautravers.jpg"
+        },
+        {
+          "title": "Ukraine: Trêves unilatérales pour le Jour de la Victoire",
+          "summary": "Russie et Ukraine annoncent des cessez-le-feu pour le Jour de la Victoire, un espoir de pause.",
+          "url": "http://fr.euronews.com/my-europe/2026/05/04/la-russie-declare-une-treve-unilaterale-pour-le-jour-de-la-victoire-zelensky-annonce-un-ce",
+          "image": "https://images.euronews.com/articles/stories/09/74/64/31/1440x810_cmsv2_d35a6024-9672-5dbc-b3ce-19fd6d5ab026-9746431.jpg"
+        },
+        {
+          "title": "Trump affirme l'élimination de dirigeants iraniens",
+          "summary": "Donald Trump déclare que des leaders iraniens ont été 'éliminés', provoquant des ondes géopolitiques majeures.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-guerre-en-iran-les-dirigeants-iraniens-ont-ete-elimines-affirme-donald-trump_VN-202605040925.html",
+          "image": "https://images.bfmtv.com/M7-Snw1QUhgJCzGmrMbnpwtkQlY=/0x0:1280x720/860x0/images/Guerre-en-Iran-Les-dirigeants-iraniens-ont-ete-elimines-affirme-Donald-Trump-2280696.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Free Party: des milliers persistent dans le Cher",
+          "summary": "Des milliers de personnes sont toujours présentes sur le site d'une free party dans le Cher.",
+          "url": "https://www.franceinfo.fr/france/centre-val-de-loire/cher/dans-le-cher-des-milliers-de-personnes-sont-encore-sur-le-site-de-la-free-party_7983074.html",
+          "image": "https://www.franceinfo.fr/pictures/K3DhjlK9p-G8hT506u1rucHk94A/1200x675/2026/05/04/69f8f9afb5214123269287.jpg"
+        },
+        {
+          "title": "Une galaxie fantôme découverte dans la Voie lactée",
+          "summary": "Une nouvelle galaxie mystérieuse, baptisée 'fantôme', vient d'être découverte dans notre Voie lactée.",
+          "url": "https://www.slate.fr/sciences/galaxie-fantome-decouverte-voie-lactee-astronomie-espace-cannibalisme-etoiles-naines-blanches-soleil-cosmos-univers",
+          "image": "https://cdn.slate.fr/uploads/store/story_272720/original_272720.jpg"
+        },
+        {
+          "title": "Taxes carburant: surplus pour aides gouvernementales",
+          "summary": "190 millions d'euros de taxes carburant financeront intégralement les aides, annonce Sébastien Lecornu.",
+          "url": "https://www.bfmtv.com/economie/entreprises/energie/les-taxes-sur-les-carburants-ont-rapporte-190-millions-d-euros-de-plus-en-mars-et-avril-sebastien-lecornu-annonce-que-le-surplus-de-recettes-financera-integralement-les-aides-gouvernementales_AN-202605040923.html",
+          "image": "https://images.bfmtv.com/scyA7qHMd2C9yfaEYREVLDv5kWY=/0x106:2048x1258/2048x0/images/Photo-d-illustration-Le-Premier-ministre-francais-Sebastien-Lecornu-a-l-hotel-de-Matignon-a-Paris-le-10-avril-2026-2270224.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Trump veut superviser l'IA avant diffusion",
+          "summary": "L'administration Trump envisage de réguler l'intelligence artificielle avant sa mise à disposition publique.",
+          "url": "https://fr.investing.com/news/stock-market-news/ladministration-trump-envisage-une-supervision-de-lia-avant-sa-diffusion-publique--bloomberg-93CH-3393701",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEA601E0_L.jpg"
+        },
+        {
+          "title": "Le Pentagone signe avec 7 géants tech",
+          "summary": "Le Pentagone s'associe à sept géants technologiques pour des contrats clés, renforçant la défense numérique.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-le-pentagone-signe-avec-7-geants-de-la-tech-par-lea-benaim-04-05_VN-202605040924.html",
+          "image": "https://images.bfmtv.com/1ijGMVS6IJK6QSS9UEBF8WV1r_A=/0x0:1280x720/860x0/images/Le-Tech-Flash-Le-Pentagone-signe-avec-7-geants-de-la-tech-par-Lea-Benaim-04-05-2280695.jpg"
+        },
+        {
+          "title": "Enedis va déployer son Linky Pro",
+          "summary": "Après le succès de Linky, Enedis prépare le déploiement de sa version professionnelle, le Linky Pro.",
+          "url": "https://www.journaldugeek.com/2026/05/05/apres-linky-enedis-va-deployer-son-linky-pro/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/enedis-linky-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Droits de douane: Van Peteghem critique les modifications",
+          "summary": "Le ministre Van Peteghem trouve 'très étrange' les modifications unilatérales des accords commerciaux.",
+          "url": "https://www.rtbf.be/article/droits-de-douane-tres-etrange-qu-une-partie-modifie-les-conditions-d-un-accord-commercial-pense-le-ministre-van-peteghem-11719196",
+          "image": "https://static-content.rtbf.be/article/image/770x433/4/2/2/2a2e1ff7-b82c-40cc-a854-e81e87ceb08a.jpg"
+        },
+        {
+          "title": "Shoals Technologies face à un test crucial",
+          "summary": "Shoals Technologies entre dans une phase décisive avec son offensive stratégique dans les centres de données.",
+          "url": "https://fr.investing.com/news/earnings/shoals-technologies-face-a-un-test-crucial-alors-que-son-offensive-dans-les-centres-de-donnees-debute-93CH-3393687",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEC0409P_L.jpg"
+        },
+        {
+          "title": "Fortrea: résultats à venir, test de reprise",
+          "summary": "Fortrea attend ses résultats et se prépare à une reprise après plusieurs révisions à la baisse.",
+          "url": "https://fr.investing.com/news/earnings/fortrea--resultats-a-venir-test-de-reprise-apres-revisions-a-la-baisse-93CH-3393694",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Bergerac: Poids lourd renversé, rocade perturbée",
+          "summary": "Un poids lourd s'est renversé, perturbant gravement la circulation sur la rocade de Bergerac.",
+          "url": "https://www.sudouest.fr/faits-divers/un-poids-lourd-se-renverse-la-circulation-est-perturbee-sur-la-rocade-de-bergerac-28941564.php",
+          "image": null
+        },
+        {
+          "title": "Incendie en Gironde: Deux personnes en urgence",
+          "summary": "Un violent incendie a détruit un appartement en Gironde, laissant un homme et une femme en urgence absolue.",
+          "url": "https://www.sudouest.fr/faits-divers/un-incendie-detruit-un-appartement-en-gironde-un-homme-et-une-femme-en-urgence-absolue-28941187.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture & Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Saros: clin d'œil à un jeu culte",
+          "summary": "Le nouveau jeu Saros contient un clin d'œil à un titre très connu, promettant 33 expéditions.",
+          "url": "https://www.journaldugeek.com/2026/05/05/saros-fait-un-clin-doeil-a-un-jeu-tres-connu-qui-contient-33-expeditions/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/test-saros-1280x853.jpg"
+        },
+        {
+          "title": "SNCF lance un nouveau service pour l'été",
+          "summary": "La SNCF dévoile un service estival inédit promettant de révolutionner les voyages cet été.",
+          "url": "https://www.journaldugeek.com/2026/05/05/la-sncf-lance-un-nouveau-service-qui-va-tout-changer-cet-ete/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/velo-train-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Badminton: la France décroche l'argent historique",
+          "summary": "L'équipe de France de badminton s'illustre en remportant une médaille d'argent historique aux Mondiaux.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/mondiaux-de-badminton-par-equipes-l-equipe-de-france-decroche-une-medaille-d-argent-historique_AN-202605030369.html",
+          "image": "https://images.bfmtv.com/tfS0YVM837BBlqWrdq2irnQwT20=/0x66:2048x1218/800x0/images/L-equipe-de-France-de-badminton-apres-sa-qualification-pour-la-finale-des-Mondiaux-par-equipes-2-mai-2026-2280036.jpg"
+        },
+        {
+          "title": "Wembanyama, un professionnalisme salué par Gobert",
+          "summary": "Rudy Gobert révèle l'anecdote sur le professionnalisme exemplaire de Wembanyama, jusqu'aux filtres à eau.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-il-m-a-demande-quel-filtre-j-avais-a-la-maison-pour-l-eau-l-anecdote-de-gobert-sur-le-professionnalisme-de-wembanyama_AV-202605030223.html",
+          "image": "https://images.bfmtv.com/D16a6sz-Ux_KOGGc_ghb4tLgOJM=/0x0:2048x1152/800x0/images/Rudy-Gobert-et-Victor-Wembanyama-lors-de-la-finale-des-JO-2024-en-aout-2024-2279912.jpg"
+        },
+        {
+          "title": "Marathon: la victoire perdue pour célébration précoce",
+          "summary": "Un coureur de marathon célèbre trop tôt, se faisant dépasser spectaculairement juste avant l'arrivée.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-il-celebre-trop-tot-sa-victoire-au-marathon-et-se-fait-coiffer-au-poteau-en-mode-marc-raquil_VN-202604220341.html",
+          "image": "https://images.bfmtv.com/-k5kPA7A-GSPpaYNy95VAgGQrf4=/0x0:1280x720/800x0/images/Il-celebre-trop-tot-sa-victoire-au-marathon-et-se-fait-coiffer-au-poteau-en-mode-Marc-Raquil-2274188.jpg"
+        }
+      ]
+    }
+  ]
+}
