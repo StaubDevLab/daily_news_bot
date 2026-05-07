@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Gisèle",
+  "global_summary": "L'actualité de ce jour est marquée par une mosaïque d'événements, allant des tensions géopolitiques aux avancées technologiques. Sur la scène internationale, des discussions diplomatiques cruciales côtoient des alertes sur des dispositifs militaires inédits, soulignant une période de vigilance accrue. Parallèlement, le monde de la tech est en pleine effervescence, avec des batailles féroces entre géants et l'essor continu de l'intelligence artificielle qui redessine les paysages économiques.\nCôté France, des faits divers poignants et des débats de société occupent les esprits, rappelant la fragilité de nos équilibres. Heureusement, le sport apporte sa dose d'adrénaline et de fierté nationale : le PSG vise un doublé historique en Ligue des Champions, tandis que nos athlètes brillent sur la scène mondiale, offrant de belles émotions. Une journée riche en contrastes, où chaque catégorie d'information invite à la réflexion et à l'action.",
+  "running_advice": "Excellente nouvelle, champion ! Aujourd'hui est une journée parfaite pour enfiler vos baskets et attaquer votre séance de running. Avec des températures allant de 8.3°C à 20.3°C et aucune pluie à l'horizon, les conditions sont idéales. Le brouillard matinal pourrait ajouter une ambiance mystique à votre entraînement, mais il devrait se dissiper rapidement. Je vous conseille de viser votre course en fin de matinée, entre 10h00 et 13h00, pour profiter d'une température confortable et d'une visibilité optimale après la dissipation du brouillard. L'indice UV de 6.9 est élevé : n'oubliez pas votre crème solaire, vos lunettes et une casquette pour vous protéger. Hydratez-vous bien et donnez le meilleur de vous-même, l'énergie est à portée de foulée !",
+  "weather_string": "🌫️ Brouillard (8.3°C / 20.3°C)",
+  "weather_stats": {
+    "temp": "20.3°C",
+    "rain": "0%",
+    "uv": "6.9"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Iran : des \"dauphins kamikazes\" dans le détroit d'Ormuz ?",
+          "summary": "Une menace militaire iranienne inédite impliquant des dauphins \"entraînés\" est évoquée, soulevant de vives inquiétudes internationales.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260506-des-dauphins-kamikazes-iraniens-bient%C3%B4t-d%C3%A9ploy%C3%A9s-dans-le-d%C3%A9troit-d-ormuz",
+          "image": "https://s.france24.com/media/display/4fcb5356-498b-11f1-a0e2-005056bf30b7/w:1280/p:16x9/Francais-2026-05-06T19-22-49-590Z.jpg"
+        },
+        {
+          "title": "Ukraine : Contact rare entre Rubio et Lavrov",
+          "summary": "Premier entretien téléphonique depuis des mois entre un haut représentant américain et le ministre russe des Affaires étrangères sur l'Ukraine.",
+          "url": "https://www.epochtimes.fr/guerre-en-ukraine-rubio-sentretient-par-telephone-avec-lavrov-premier-contact-depuis-des-mois-3252907.html",
+          "image": "https://images-fr.epochtimes.fr/uploads/2026/05/GettyImages-2199658460.jpg"
+        },
+        {
+          "title": "Moyen-Orient : une étincelle peut tout embraser",
+          "summary": "Un expert de Sciences-Po alerte sur l'extrême fragilité du Moyen-Orient, où le moindre incident peut dégénérer.",
+          "url": "https://www.franceinfo.fr/replay-jt/franceinfo/jt-tout-est-politique/dans-ce-type-de-montage-une-mouche-une-petite-poussiere-peut-tout-remettre-en-cause-analyse-bertrand-badie-professeur-emerite-a-sciences-po-specialiste-des-questions-internationales-sur-le-conflit-au-moyen-orient_7987850.html",
+          "image": "https://www.franceinfo.fr/pictures/wmhR0ulAZMEOAGmuSvRryMFrYfA/1200x675/2026/05/06/69fbad06193e8358468130.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Collégienne tuée dans l'Aisne : l'horreur absolue",
+          "summary": "Émotion et recueillement devant le collège après la mort tragique d'une jeune fille, poignardée à l'arme blanche.",
+          "url": "https://www.sudouest.fr/france/collegienne-tuee-a-l-arme-blanche-dans-l-aisne-devant-son-college-le-silence-face-a-l-horreur-absolue-28967831.php",
+          "image": null
+        },
+        {
+          "title": "Banquets du Canon Français : Enquête à Caen",
+          "summary": "Une enquête est ouverte après les insultes envers la maire de Quimper lors de banquets de l'extrême droite.",
+          "url": "https://www.sudouest.fr/justice/banquets-du-canon-francais-la-maire-de-quimper-insultee-enquete-ouverte-a-caen-28968145.php",
+          "image": null
+        },
+        {
+          "title": "Arnaque aux stations-service : vigilance en mai",
+          "summary": "Attention aux escroqueries aux distributeurs de carburant pendant les vacances de mai. Restez vigilants !",
+          "url": "https://www.journaldugeek.com/2026/05/07/station-service-cette-redoutable-arnaque-est-de-retour/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Essence-voiture-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Microsoft s'attaque au MacBook Neo",
+          "summary": "Une étude controversée, financée par Microsoft, cherche à décrédibiliser le nouveau MacBook Neo d'Apple.",
+          "url": "https://www.frandroid.com/marques/3091569_microsoft-a-paye-une-etude-pour-demolir-le-macbook-neo-et-ca-se-voit",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/03/macbook-neo-frandroid-8.jpg?resize=1600,900&key=86272f5a&watermark"
+        },
+        {
+          "title": "Rothschild conseille les meilleures actions IA",
+          "summary": "Selon Rothschild, voici les actions d'intelligence artificielle à surveiller pour le réseautage, un secteur en plein boom.",
+          "url": "https://fr.investing.com/news/stock-market-news/les-meilleures-actions-ia-en-reseautage-a-surveiller-selon-rothschild-93CH-3400179",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_L.jpg"
+        },
+        {
+          "title": "Ethos Technologies : Forte croissance au T1 2026",
+          "summary": "Ethos Technologies annonce des résultats exceptionnels au premier trimestre 2026, avec une croissance impressionnante.",
+          "url": "https://fr.investing.com/news/transcripts/alerte-resultats--ethos-technologies-affiche-une-forte-croissance-au-t1-2026-93CH-3400248",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC180BO_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "PSG : Nasser vise la \"deuxième étoile\" en finale",
+          "summary": "Après sa qualification, le PSG, par la voix de Nasser al-Khelaïfi, affiche son ambition de remporter la LDC.",
+          "url": "https://www.90min.com/fr/bayern-psg-on-va-aller-chercher-la-deuxieme-etoile-nasser-al-khelaifi-lance-deja-la-finale-face-a-arsenal",
+          "image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_fr_international_web/01kqzk6ph0shga5dbxph.jpg"
+        },
+        {
+          "title": "NBA : Wembanyama superstar, Gobert \"surcoté\" ?",
+          "summary": "Un sondage anonyme révèle des avis tranchés de joueurs NBA sur Wembanyama comme superstar et Gobert \"surcoté\".",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-gobert-surcote-wembanyama-seul-au-monde-le-tres-croustillant-sondage-anonyme-des-joueurs-est-tombe_AN-202605060815.html",
+          "image": "https://images.bfmtv.com/xcnJ_V7JrqVZ5f_bFoJRCGEd3mw=/0x106:2048x1258/800x0/images/Victor-Wembanyama-et-Rudy-Gobert-en-NBA-le-11-janvier-2026-2215417.jpg"
+        },
+        {
+          "title": "Badminton : la France en argent, une première historique",
+          "summary": "L'équipe de France de badminton décroche une médaille d'argent aux Mondiaux par équipes, une performance inédite.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/mondiaux-de-badminton-par-equipes-l-equipe-de-france-decroche-une-medaille-d-argent-historique_AN-202605030369.html",
+          "image": "https://images.bfmtv.com/tfS0YVM837BBlqWrdq2irnQwT20=/0x66:2048x1218/800x0/images/L-equipe-de-France-de-badminton-apres-sa-qualification-pour-la-finale-des-Mondiaux-par-equipes-2-mai-2026-2280036.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Société",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "KPop Demon Hunters cartonne sur Netflix",
+          "summary": "Le phénomène Netflix \"KPop Demon Hunters\" continue de battre des records un an après sa sortie.",
+          "url": "https://www.journaldugeek.com/2026/05/07/kpop-demon-hunters-le-phenomene-netflix-continue-decraser-tous-les-records-un-an-apres/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/kpop-demon-hunters-2-mauvaise-nouvelle-1280x853.jpg"
+        },
+        {
+          "title": "Canal+ rend la télévision accessible à tous",
+          "summary": "Canal+ révolutionne l'accès à la télévision, promettant de la rendre disponible pour un public élargi.",
+          "url": "https://www.journaldugeek.com/2026/05/07/canal-la-revolution-qui-va-rendre-la-television-accessible-a-tous/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/canal-plus-freebox-1280x853.jpg"
+        },
+        {
+          "title": "Epstein : une lettre de suicide divulguée",
+          "summary": "Un juge rend publique une potentielle lettre de suicide d'Epstein, écrite lors d'une tentative ratée.",
+          "url": "https://www.sudouest.fr/faits-divers/affaire-epstein/jeffrey-epstein-un-juge-divulgue-une-potentielle-lettre-de-suicide-ecrite-lors-d-une-tentative-ratee-28968010.php",
+          "image": null
+        }
+      ]
+    }
+  ]
+}
