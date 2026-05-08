@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Armistice de 1945",
+  "global_summary": "L'actualité de ce jour nous plonge dans un tableau contrasté, où les enjeux géopolitiques et les luttes pour la liberté d'expression se côtoient. En Chine, des figures de haut rang sont confrontées à la justice pour corruption, tandis qu'en Tunisie, la situation de la presse indépendante soulève de vives inquiétudes. Sur le front économique, l'inflation continue de peser sur le quotidien des entreprises et des ménages, forçant des ajustements et des résiliations parfois douloureuses. Ces défis nous rappellent la constante adaptation nécessaire face aux dynamiques mondiales et nationales.\nPourtant, cette journée n'est pas dénuée d'éclat et d'innovation. Le monde du sport nous offre des moments de dépassement avec les exploits en NBA et l'ambition de record mondial en athlétisme, symboles d'une quête incessante d'excellence. Le secteur technologique, quant à lui, continue de repousser les limites avec des mises à jour majeures en intelligence artificielle et des avancées dans l'industrie du jeu vidéo. Entre défis et opportunités, l'information de ce jeudi 7 mai 2026 nous invite à rester vigilants et inspirés par le progrès.",
+  "running_advice": "Prêt(e) à chausser vos baskets ? Absolument ! Aujourd'hui, les températures sont idéales pour une course revigorante, oscillant entre 11.8°C et 23.4°C sous un ciel peu nuageux. Le défi du jour ? Une probabilité de pluie de 60% ! Mais un vrai champion ne recule devant rien : équipez-vous d'une casquette et d'une veste légère, et foncez ! Pour une expérience optimale et pour éviter le pic d'UV (indice 6.6), privilégiez les créneaux tôt le matin après 6h42 ou en fin de journée après 18h. N'oubliez pas votre crème solaire et l'hydratation. Le bitume vous attend, libérez votre énergie !",
+  "weather_string": "🌤️ Peu nuageux (11.8°C / 23.4°C)",
+  "weather_stats": {
+    "temp": "23.4°C",
+    "rain": "60%",
+    "uv": "6.6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Chine : Ex-ministres condamnés pour corruption",
+          "summary": "Deux anciens ministres de la Défense écopent de la peine de mort avec sursis, marquant un coup d'arrêt à la corruption.",
+          "url": "https://www.la-croix.com/international/chine-deux-ex-ministres-de-la-defense-condamnes-a-mort-avec-sursis-pour-corruption-20260507",
+          "image": "https://i.la-croix.com/x/smart/2026/05/07/2430615-l-ex-ministre-de-la-defense-chinois-li-shangfu-en-.jpg"
+        },
+        {
+          "title": "Tunisie : Journaliste indépendant emprisonné",
+          "summary": "Le journaliste Zied el-Heni est condamné à un an de prison, suscitant des craintes sur la liberté de la presse.",
+          "url": "https://www.la-croix.com/international/tunisie-le-journaliste-independant-zied-el-heni-condamne-a-un-an-de-prison-20260507",
+          "image": "https://i.la-croix.com/x/smart/2026/05/07/2430604-manifestation-en-soutien-a-zied-el-heni-a-tunis-de.jpg"
+        },
+        {
+          "title": "Trump et Lula : Rencontre sous haute tension",
+          "summary": "Les dirigeants américains et brésiliens se rencontrent, leurs échanges économiques et politiques scrutés de près.",
+          "url": "https://www.sudouest.fr/international/etats-unis-et-bresil-commerce-droits-douanes-elections-la-rencontre-entre-trump-et-lula-scrutee-de-pres-28976518.php",
+          "image": "https://media.sudouest.fr/28976518/1200x600/20251024163510-77969912.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Audiovisuel public : Réduire le budget ?",
+          "summary": "Un vote sur la réduction du budget de l'audiovisuel public interroge l'avenir du paysage médiatique français.",
+          "url": "https://www.dna.fr/format/2026/05/07/etes-vous-favorable-a-une-reduction-du-budget-de-l-audiovisuel-public",
+          "image": "http://cdn-files.prsmedia.fr/files/DNA/fr/images/DNA_placeholder.png"
+        },
+        {
+          "title": "Tempêtes : Météo France vous propose de nommer",
+          "summary": "Météo France ouvre les votes pour choisir le nom des prochaines tempêtes, une initiative citoyenne inédite.",
+          "url": "https://www.bfmtv.com/meteo/quel-nom-donneriez-vous-pour-une-tempete-meteo-france-vous-propose-de-choisir_AN-202605070837.html",
+          "image": "https://images.bfmtv.com/wgV23iXtXRVdx51jIhBGqOr9gso=/0x106:2048x1258/2048x0/images/Une-vague-s-ecrase-sur-une-jetee-du-port-du-Conquet-Finistere-lors-du-passage-de-la-tempete-Goretti-le-8-janvier-2026-2213361.jpg"
+        },
+        {
+          "title": "Impôts 2026 : Le seuil de non-imposition",
+          "summary": "Découvrez combien il faut gagner en 2026 pour être exonéré d'impôts, une information clé pour vos finances.",
+          "url": "https://www.journaldugeek.com/2026/05/08/combien-faut-il-gagner-pour-ne-pas-payer-dimpots-en-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/impots-1-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Air France dérouté : Panne moteur en vol",
+          "summary": "Un vol Air France Shanghai-Paris dérouté suite à un problème moteur, la sécurité aérienne au cœur des préoccupations.",
+          "url": "https://www.capital.fr/economie-politique/un-avion-air-france-shanghai-paris-deroute-a-cause-d-un-probleme-moteur-1526375",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~07~8fb4d275-be4e-40ed-a020-672e38da09d8.jpg/1200x900/quality/80/un-avion-air-france-shanghai-paris-deroute-a-cause-d-un-probleme-moteur.jpg"
+        },
+        {
+          "title": "Gemini : La mise à jour révolutionnaire est là !",
+          "summary": "La nouvelle mise à jour de Gemini offre 10 formats téléchargeables, boostant l'accessibilité de l'IA de Google.",
+          "url": "https://www.journaldugeek.com/2026/05/08/la-mise-a-jour-choc-de-gemini-10-formats-telechargeables-a-portee-de-main/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/google-gemini-1280x722.jpg"
+        },
+        {
+          "title": "Jeu vidéo : Les légendes entrent au panthéon",
+          "summary": "Angry Birds, Silent Hill, Dragon Quest et FIFA sont intronisés au prestigieux panthéon du jeu vidéo mondial.",
+          "url": "https://www.journaldugeek.com/2026/05/08/angry-birds-silent-hill-dragon-quest-et-fifa-decrochent-leur-place-au-pantheon-du-jeu-video/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/video-games-hall-of-fame-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Inflation : Un poissonnier face à la hausse",
+          "summary": "Un poissonnier témoigne de l'impact de l'inflation, forcé d'augmenter ses prix de 13% en un mois.",
+          "url": "https://www.bfmtv.com/economie/video-forum-bfmtv-inflation-depuis-un-mois-j-ai-du-augmenter-mes-prix-de-13-explique-kamal-poissonnier_VN-202605070838.html",
+          "image": "https://images.bfmtv.com/qOMdqMNchX36GWCINi-z7g5yzKg=/0x0:1280x720/1280x0/images/FORUM-BFMTV-Inflation-Depuis-un-mois-j-ai-du-augmenter-mes-prix-de-13-explique-Kamal-poissonnier-2282678.jpg"
+        },
+        {
+          "title": "Distillerie Pernot : Sept offres de reprise",
+          "summary": "La distillerie Pernot, en liquidation judiciaire, reçoit sept offres de reprise, un espoir pour l'emploi local.",
+          "url": "https://www.estrepublicain.fr/economie/2026/05/07/sept-offres-de-reprise-pour-la-distillerie-pernot-placee-en-liquidation-judiciaire",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/FE734EB8-A5DE-4425-8863-D1D8795F8262/NW_listB/sept-offres-de-reprise-pour-la-distillerie-pernot-placee-en-liquidation-judiciaire-1778181394.jpg"
+        },
+        {
+          "title": "Carburants : L'impact sur les clubs amateurs",
+          "summary": "La flambée des prix du carburant impacte lourdement les clubs sportifs amateurs, menaçant leurs déplacements essentiels.",
+          "url": "https://rmcsport.bfmtv.com/societe/de-890-euros-a-1-300-euros-pour-un-meme-deplacement-l-impact-de-la-flambee-des-prix-des-carburants-pour-les-clubs-sportifs-amateurs_AN-202605050335.html",
+          "image": "https://images.bfmtv.com/M7AFFMOMvcSraIiZ9wPU6qiQ_xU=/299x389:1851x1262/800x0/images/Une-illustration-d-un-ballon-de-football-pendant-un-match-de-Coupe-de-France-en-decembre-2024-2031005.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : Spurs égalisent en NBA !",
+          "summary": "Les Spurs de Wembanyama brillent en NBA, réalisant une réaction éclatante pour égaliser face aux Wolves.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-la-reaction-eclatante-des-spurs-de-wembanyama-qui-egalisent-face-aux-wolves_AN-202605070079.html",
+          "image": "https://images.bfmtv.com/yq7ZF5V9rnG8SFIfhfP1E5dH1G0=/0x41:2048x1193/800x0/images/Victor-Wembanyama-lors-du-match-San-Antonio-Minnesota-le-6-mai-2026-2282087.jpg"
+        },
+        {
+          "title": "Duplantis : Record du monde en ligne de mire",
+          "summary": "Armand Duplantis confie viser un nouveau record du monde de saut à la perche au Meeting Herculis.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
+          "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
+        },
+        {
+          "title": "JO : Biélorussie de nouveau acceptée",
+          "summary": "Le CIO lève les restrictions sur la Biélorussie pour les JO, décision majeure après le conflit ukrainien.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-olympiques-la-bielorussie-n-est-plus-visee-par-les-restrictions-du-cio-liees-a-la-guerre-en-ukraine_AD-202605070647.html",
+          "image": "https://images.bfmtv.com/zeDahaLuzAU7hX6ScCPK1cUZLJ8=/0x0:2048x1152/800x0/images/Le-drapeau-olympique-a-Albertville-le-23-fevrier-2026-2282522.jpg"
+        }
+      ]
+    }
+  ]
+}
