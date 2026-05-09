@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Pacôme",
+  "global_summary": "L'actualité de ce jour nous plonge dans un mélange captivant de politique internationale, d'innovations technologiques et de performances sportives exceptionnelles. Tandis que le Pays de Galles connaît un bouleversement électoral et que l'Europe célèbre son unité, des faits divers insolites et des affaires judiciaires complexes rythment l'Hexagone. \nSur le front de la technologie et des affaires, l'IA continue de remodeler les marchés, avec des annonces d'intégration majeures chez PlayStation et des contrats colossaux. Parallèlement, le monde du sport vibre au rythme des exploits de Victor Wembanyama en NBA et de la quête d'Armand Duplantis pour un nouveau record mondial, nous rappelant la capacité humaine à repousser les limites.",
+  "running_advice": "Préparez-vous à dynamiser votre journée, coach ! Avec des températures idéales variant de 13.5°C à 23.3°C, c'est une excellente fenêtre pour votre session running. Malgré une probabilité d'averses de 38%, le ciel variable pourrait offrir de belles éclaircies. \nPour éviter le pic d'UV (6.25, attention, c'est élevé !), je vous recommande de courir tôt le matin, entre 06:40 et 09:00, ou en fin d'après-midi, après 18:00, quand le soleil est moins intense. N'oubliez surtout pas une protection solaire forte, une casquette et des lunettes de soleil. Hydratez-vous bien et laissez cette énergie vous propulser vers de nouveaux objectifs !",
+  "weather_string": "🌦️ Averses (13.5°C / 23.3°C)",
+  "weather_stats": {
+    "temp": "23.3°C",
+    "rain": "38%",
+    "uv": "6.25"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Choucroute mania aux USA",
+          "summary": "Une déclaration de Robert F. Kennedy Jr. déclenche un engouement inattendu pour ce plat fermenté outre-Atlantique.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-etats-unis-passionnes-par-la-choucroute-apres-une-declaration-du-ministre-de-la-sante-robert-f-kennedy-jr_7992254.html",
+          "image": "https://www.franceinfo.fr/pictures/2EkyRf484LzSGNcbG5hYacgyNb1/1200x675/2026/05/08/69fe390b75c11073713729.jpg"
+        },
+        {
+          "title": "Pays de Galles : Indépendantistes en force",
+          "summary": "Le parti indépendantiste prend la tête des élections, marquant un revers significatif pour le Labour.",
+          "url": "https://www.20minutes.fr/monde/royaume-uni/4222633-20260508-pays-galles-parti-independantiste-tete-elections-apres-deroute-labour",
+          "image": "https://img.20mn.fr/HHo3NfxwRyWriP2WiVfwhyk/1444x920_llandudno-pays-de-galles-8-mai-le-leader-de-plaid-cymru-rhun-ap-iorwerth-prend-la-parole-apres-la-victoire-electorale-de-plaid-cymru-a-senned-a-venue-cymru-le-8-mai-2026-a-llandudno-au-pays-de-galles-les-elections-senedd-de-2026-marquent-une-refonte-majeure-du-parlement-gallois-le-nombre-de-membres-passant-de-60-a-96-dans-le-cadre-d-un-nouveau-systeme-proportionnel-les-electeurs-ont-vote-une-seule-fois-pour-une-liste-de-parti-dans-16-nouvelles-circonscriptions-chacune-elisant-six-representants-photo-de-matthew-horwood-getty-images-photo-de-matthew-horwood-getty-images-europe-getty-images-via-afp"
+        },
+        {
+          "title": "Le Pape à Pompéi et Naples",
+          "summary": "Le pape Léon XIV marque son premier anniversaire pontifical avec une visite symbolique en Italie.",
+          "url": "https://www.france24.com/fr/europe/20260508-le-pape-l%C3%A9on-xiv-c%C3%A9l%C3%A8bre-son-premier-anniversaire-%C3%A0-pomp%C3%A9i-et-%C3%A0-naples",
+          "image": "https://s.france24.com/media/display/675daa02-4b0f-11f1-8bc2-005056bf30b7/w:1280/p:16x9/000-B2B33N2.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Un criminel dirige depuis sa cellule",
+          "summary": "Révélations choquantes sur Hacène L., jugé pour avoir commandité des assassinats depuis sa prison.",
+          "url": "https://www.bfmtv.com/police-justice/info-bfmtv-moi-la-criminalite-je-ne-l-ai-pas-subie-je-l-ai-choisie-revelations-sur-hacene-l-commanditaire-presume-de-plusieurs-assassinats-depuis-sa-cellule-juge-lundi-a-paris_AN-202605080740.html",
+          "image": "https://images.bfmtv.com/svyxznGijsfnA-Gu5ZAjrzposzI=/0x40:768x472/768x0/images/Le-tout-nouveau-parquet-national-anti-criminalite-organisee-Pnaco-s-est-saisi-de-six-faits-d-enlevements-ou-sequestrations-lies-a-des-extorsions-de-cryptomonnaies-ayant-eu-lieu-entre-mi-decembre-et-mi-janvier-dans-diverses-regions-de-France-2226784.jpg"
+        },
+        {
+          "title": "Frelons : Un homme incendie sa maison",
+          "summary": "Une tentative désespérée de détruire un nid de frelons tourne au drame, sa maison prend feu.",
+          "url": "https://www.midilibre.fr/2026/05/08/il-voulait-aneantir-definitivement-les-frelons-en-tentant-de-detruire-leur-nid-un-homme-met-le-feu-a-sa-maison-13362478.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/69fe39d38a3301a63a00efa0/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Pourquoi fêter l'Europe le 9 mai ?",
+          "summary": "Comprenez l'histoire et la signification de cette journée annuelle dédiée à l'unité européenne.",
+          "url": "https://lepetitjournal.com/belgique/actualite/journee-europe-celebre-union-europeenne-le-9-mai",
+          "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-05/UE%20-%20Pixabay.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "\"SMS Blaster\" : Nouvelle arnaque",
+          "summary": "Découvrez cette escroquerie sophistiquée qui détourne les antennes-relais pour vous piéger.",
+          "url": "https://actu.fr/societe/sms-blaster-c-est-quoi-cette-arnaque-redoutable-qui-pirate-les-antennes-relais-pour-vous-escroquer_64242876.html",
+          "image": "https://static.actu.fr/uploads/2026/04/3448b8db034963848b8db03490c48bv.jpg"
+        },
+        {
+          "title": "Fastly propulsé par l'IA",
+          "summary": "Un analyste prévoit une forte croissance pour Fastly, stimulée par ses avancées en intelligence artificielle.",
+          "url": "https://fr.investing.com/news/stock-market-news/pourquoi-raymond-james-pense-que-fastly-pourrait-bondir-grace-a-lia-3406902",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL450ZT_L.jpg"
+        },
+        {
+          "title": "Native Instruments sauvée de justesse",
+          "summary": "Le géant des logiciels musicaux est racheté par InMusic, évitant un sort funeste.",
+          "url": "https://www.macg.co/ailleurs/2026/05/native-instruments-createur-de-traktor-et-reaktor-sauvee-au-dernier-moment-par-inmusic-308489",
+          "image": "https://cdn.mgig.fr/2026/05/mga-acd09f27-w375-w1500-w750_accroche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Anthropic : Mégacontrat cloud avec Akamai",
+          "summary": "Le spécialiste de l'IA Anthropic scelle un partenariat colossal de 1,8 milliard $ avec Akamai Technologies.",
+          "url": "https://fr.investing.com/news/stock-market-news/anthropic-signe-un-accord-cloud-de-18-milliard--avec-akamai-technologies-93CH-3406891",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEBAG0BO_L.jpg"
+        },
+        {
+          "title": "Cerebras fixe son prix d'IPO",
+          "summary": "La société Cerebras annonce la fourchette de prix de ses actions pour sa prochaine introduction en bourse.",
+          "url": "https://fr.investing.com/news/stock-market-news/cerebras-prevoit-une-fourchette-de-prix-dintroduction-en-bourse-entre-125-et-135action-432SI-3406896",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEBBR0PM_L.jpg"
+        },
+        {
+          "title": "Valero Energy : Changement de direction",
+          "summary": "Valero Energy annonce un départ clé et partage les résultats de son assemblée annuelle.",
+          "url": "https://fr.investing.com/news/sec-filings/valero-energy-annonce-le-depart-a-la-retraite-dun-dirigeant-et-publie-les-resultats-de-son-assemblee-annuelle-93CH-3406906",
+          "image": "https://i-invdn-com.investing.com/news/news_six_pile_69x52._800x533_L_1419494215.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gaming & Divertissement",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "PlayStation intègre l'IA",
+          "summary": "Sony annonce l'intégration de l'intelligence artificielle dans tous ses studios de développement de jeux.",
+          "url": "https://www.journaldugeek.com/2026/05/08/playstation-va-integrer-lia-dans-lensemble-de-ses-studios/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/ia-studios-playstation-1280x853.jpg"
+        },
+        {
+          "title": "Stranger Things : La suite confirmée",
+          "summary": "Netflix officialise une nouvelle saison de la célèbre série, \"Tales From 85\", pour le plus grand plaisir des fans.",
+          "url": "https://www.journaldugeek.com/2026/05/08/stranger-things-tales-from-85-netflix-confirme-la-suite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/stranger-things-tales-from-85-saison-2-1280x853.jpg"
+        },
+        {
+          "title": "PS6 : Prix et date inconnus",
+          "summary": "Sony révèle ne pas avoir encore défini le prix ou la date de lancement de sa prochaine console, la PS6.",
+          "url": "https://www.journaldugeek.com/2026/05/08/ps6-sony-en-parle-mais-na-pas-encore-decide-du-prix-ni-de-la-date-de-sortie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/09/premieres-infos-ps6-1403x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama enflamme les Playoffs NBA",
+          "summary": "Victor Wembanyama signe une performance historique, donnant l'avantage décisif aux Spurs en playoffs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/play-offs-nba-wembanyama-signe-une-prestation-rare-pour-donner-l-avantage-aux-spurs-face-aux-wolves_AN-202605090101.html",
+          "image": "https://images.bfmtv.com/P-66mwnKWuXwfAD5z2szufzGlF8=/140x342:1948x1359/800x0/images/Victor-Wembanyama-le-8-mai-2026-2283228.jpg"
+        },
+        {
+          "title": "Duplantis vise un nouveau record mondial !",
+          "summary": "Armand Duplantis se confie sur ses ambitions de battre son propre record du monde au saut à la perche.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-un-nouveau-record-du-monde-de-saut-a-la-perche-armand-duplantis-dit-tout-dans-le-super-moscato-show_VN-202605070619.html",
+          "image": "https://images.bfmtv.com/SDwnZKGApBQXfBgy_P3KbgJ30kc=/0x0:1280x720/800x0/images/Un-nouveau-record-du-monde-de-saut-a-la-perche-Armand-Duplantis-dit-tout-dans-le-Super-Moscato-Show-2282507.jpg"
+        },
+        {
+          "title": "JO : Biélorussie réintégrée par le CIO",
+          "summary": "Le CIO lève les restrictions sur la Biélorussie, marquant un tournant post-guerre en Ukraine.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-olympiques-la-bielorussie-n-est-plus-visee-par-les-restrictions-du-cio-liees-a-la-guerre-en-ukraine_AD-202605070647.html",
+          "image": "https://images.bfmtv.com/zeDahaLuzAU7hX6ScCPK1cUZLJ8=/0x0:2048x1152/800x0/images/Le-drapeau-olympique-a-Albertville-le-23-fevrier-2026-2282522.jpg"
+        }
+      ]
+    }
+  ]
+}
