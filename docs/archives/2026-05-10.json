@@ -1,7 +1,7 @@
 {
   "ephemeride": "Sainte Solange",
-  "global_summary": "Le monde est en ébullition cette semaine, avec des enjeux géopolitiques majeurs comme la guerre en Ukraine, où Vladimir Poutine évoque une fin proche du conflit, tandis que les accusations de violation du cessez-le-feu persistent. La scène politique internationale est également marquée par une percée de l'extrême droite au Royaume-Uni et une plainte pour homophobie contre Elon Musk, soulignant des défis sociétaux importants. \nSur le front économique et technologique, Porsche annonce des suppressions d'emplois, et l'UE cherche à juguler la crise du kérosène. Cependant, des notes positives émergent : l'évolution \"très positive\" d'une affaire française et les exploits sportifs de figures comme Wembanyama en NBA et Duplantis visant un nouveau record du monde, rappelant que l'humain et la performance continuent d'inspirer.",
-  "running_advice": "Félicitations, champion ! Aujourd'hui est une excellente journée pour chausser vos baskets et conquérir le bitume ou les sentiers. Avec des températures idéales variant de 13.9°C à 21°C et un ciel peu nuageux, les conditions sont parfaites pour une session énergisante.\n\nPour profiter au maximum et protéger votre peau, visez le créneau tôt le matin après le lever du soleil à 06h39, ou en fin d'après-midi, début de soirée, avant le coucher du soleil à 21h18. L'indice UV est à 6.95, alors n'oubliez pas votre crème solaire et une casquette ! C'est le moment de vous dépasser, à vous de jouer !",
+  "global_summary": "L'actualité de ce jour est un mélange intense de défis globaux et de performances remarquables. Sur la scène mondiale, la déclaration de Vladimir Poutine sur la fin proche du conflit en Ukraine côtoie la montée de l'extrême droite au Royaume-Uni, et en France, Elon Musk est visé par une plainte pour homophobie. Des drames humains sont également au cœur de l'attention, comme le procès pour meurtre dans les Yvelines et les évolutions positives dans l'affaire Gleizes.\n\nCôté économique et technologique, la crise du kérosène pousse l'UE à l'action, tandis que Porsche annonce des coupes d'emplois significatives. Les amateurs de sport, eux, vibrent avec les exploits de Victor Wembanyama en NBA et les ambitions de record mondial d'Armand Duplantis au saut à la perche. Cette diversité de nouvelles nous rappelle l'importance de rester informé et engagé, que ce soit face aux enjeux sociétaux ou aux exploits sportifs.",
+  "running_advice": "Absolument ! Quelle magnifique journée s'annonce pour nos runners ! Avec des températures idéales variant de 13.9°C à 21°C et un ciel peu nuageux, les conditions sont parfaites pour enfiler vos baskets. L'heure d'or pour votre session running ? Je vous conseille vivement de viser le début de soirée, entre 18h00 et 19h30. Vous profiterez d'une lumière douce et d'une chaleur agréable, juste avant le coucher du soleil. Attention cependant, l'indice UV est de 6.95, ce qui est élevé. N'oubliez pas votre crème solaire, une casquette et des lunettes de soleil pour vous protéger efficacement. Hydratez-vous bien et écoutez votre corps. Allez, on se motive, la course vous attend !",
   "weather_string": "🌤️ Peu nuageux (13.9°C / 21°C)",
   "weather_stats": {
     "temp": "21°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Musk Poursuivi pour Homophobie en France",
-          "summary": "Une association française attaque Elon Musk pour propos homophobes, relançant le débat sur la modération des plateformes.",
+          "title": "Plainte pour homophobie contre Elon Musk en France",
+          "summary": "Une association dépose plainte contre le milliardaire pour des propos jugés homophobes, relançant le débat sur la modération.",
           "url": "https://www.20minutes.fr/monde/4222687-20260509-association-francaise-porte-plainte-homophobie-contre-elon-musk",
           "image": "https://img.20mn.fr/tAdM7c5zSlKgcg5MeHPo_Ck/1444x920_elon-musk-a-gauche-fait-un-geste-alors-qu-il-traverse-un-couloir-du-tribunal-de-district-americain-d-oakland-en-californie-le-mercredi-29-avril-2026-ap-photo-godofredo-a-vasquez-cagv309-26119626427757-2604291951"
         },
         {
-          "title": "Royaume-Uni: L'Extrême Droite Progresse",
-          "summary": "Les élections locales voient une percée de l'extrême droite, révélant une division politique croissante au Royaume-Uni.",
+          "title": "Royaume-Uni : l'extrême droite progresse",
+          "summary": "L'extrême droite britannique remporte les élections locales, révélant une division politique accrue dans le pays.",
           "url": "https://www.franceinfo.fr/monde/royaume-uni/royaume-uni-l-extreme-droite-l-emporte-aux-elections-locales-le-pays-divise-politiquement_7993976.html",
           "image": "https://www.franceinfo.fr/pictures/cpEqka-k9lmsPpx_YQstlk232qg/1200x675/2026/05/09/69ff815bcf463685059195.jpg"
         },
         {
-          "title": "Ukraine: Poutine Prédit la Fin du Conflit",
-          "summary": "Poutine annonce la fin imminente du conflit en Ukraine; Kiev et Moscou s'accusent mutuellement de violer le cessez-le-feu.",
+          "title": "Poutine : La fin du conflit ukrainien approche",
+          "summary": "Vladimir Poutine affirme que le conflit en Ukraine touche à sa fin, tandis que les accusations mutuelles persistent.",
           "url": "https://www.lemonde.fr/international/live/2026/05/09/en-direct-guerre-en-ukraine-vladimir-poutine-assure-que-le-conflit-touche-a-sa-fin-kiev-et-moscou-s-accusent-de-violer-le-cessez-le-feu_6684995_3210.html",
           "image": "https://img.lemde.fr/2026/05/09/419/0/5356/2678/644/322/60/0/3ddf3a0_ftp-1-ayyzhjvjpkrp-5989973-01-06.jpg"
         }
@@ -38,45 +38,40 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Affaire Gleizes: Évolution \"Très Positive\"",
-          "summary": "Les parents de Christophe Gleizes partagent des nouvelles encourageantes sur France 24, laissant entrevoir une issue favorable.",
+          "title": "Affaire Gleizes : des nouvelles positives",
+          "summary": "Les parents de Christophe Gleizes s'expriment sur France 24, évoquant des évolutions \"très positives\" dans leur combat.",
           "url": "https://www.france24.com/fr/france/20260509-les-choses-%C3%A9voluent-de-mani%C3%A8re-tr%C3%A8s-positive-les-parents-de-christophe-gleizes-sur-france-24",
           "image": "https://s.france24.com/media/display/178e419c-4bde-11f1-892c-005056bfb2b6/w:1280/p:16x9/invite-f24-parents-gleizes.jpg"
         },
         {
-          "title": "Basket: L'ADA Blois en Play-offs",
-          "summary": "L'ADA Blois s'impose brillamment face à La Rochelle, assurant sa place pour les play-offs en Élite 2.",
+          "title": "L'ADA Blois en play-offs d'Élite 2",
+          "summary": "L'équipe de basket de Blois se qualifie pour les play-offs après une victoire décisive contre La Rochelle.",
           "url": "https://www.lanouvellerepublique.fr/blois/elite-2-l-ada-blois-file-en-play-offs-apres-son-succes-convainquant-contre-la-rochelle-1778356424",
           "image": "https://images.lanouvellerepublique.fr/image/upload/69ff90c6588c4e5a588b4589"
         },
         {
-          "title": "Yvelines: Un Meurtre en Procès",
-          "summary": "Un homme est jugé pour le meurtre tragique de sa jeune compagne de 18 ans dans les Yvelines.",
-          "url": "https://www.sudouest.fr/justice/morsure-et-coups-de-couteau-dans-les-yvelines-un-homme-juge-pour-le-meurtre-de-sa-compagne-de-18-ans-29004732.php"
+          "title": "Yvelines : Procès pour meurtre d'une jeune femme",
+          "summary": "Un homme est jugé pour le meurtre de sa compagne de 18 ans dans les Yvelines, un fait divers tragique.",
+          "url": "https://www.sudouest.fr/justice/morsure-et-coups-de-couteau-dans-les-yvelines-un-homme-juge-pour-le-meurtre-de-sa-compagne-de-18-ans-29004732.php",
+          "image": null
         }
       ]
     },
     {
       "label": "Tech",
-      "emoji": "📱",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "Test Bissell HydroScrub Pro Révélé",
-          "summary": "Le nettoyeur Bissell HydroScrub Pro excelle au lavage, mais son séchage laisse à désirer selon les tests.",
+          "title": "Test : Le nettoyeur Bissell HydroScrub Pro",
+          "summary": "L'aspirateur laveur Bissell est testé, notant son efficacité de lavage mais des performances de séchage limitées.",
           "url": "https://www.frandroid.com/produits-android/maison-connectee/aspirateurs-balais-sans-fil/aspirateur-laveur/3086239_test-du-bissell-crosswave-hydroscrub-pro-il-lave-plus-blanc-mais-seche-sur-le-banc",
           "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/05/image-16-17.jpg?resize=1600,900&key=0c7e2a26&watermark"
         },
         {
-          "title": "Mova M10: Le Nettoyeur Top Produit",
-          "summary": "Le nettoyeur de sol Mova M10 est désigné top produit, offrant un rapport qualité-prix imbattable à 219,60 €.",
-          "url": "https://www.lesnumeriques.com/nettoyeur-sol/top-produit-le-nettoyeur-de-sol-mova-m10-a-219-60-n255710.html",
-          "image": "https://cdn.lesnumeriques.com/optim/test/24/241801/0b2ba4b5-mova-m10-un-nettoyeur-de-sol-redoutable-et-au-rapport-qualite-prix-indeniable__800_800__600-0-2102-1502_wtmk.jpg"
-        },
-        {
-          "title": "Tesla FSD Promise Sans Date",
-          "summary": "Tesla annonce une mise à jour FSD pour ses anciens modèles, mais sans calendrier ni garanties concrètes.",
-          "url": "https://www.journaldugeek.com/2026/05/09/tesla-promet-une-mise-a-jour-fsd-pour-les-anciens-vehicules-sans-calendrier-ni-garanties/",
-          "image": "https://www.journaldugeek.com/app/uploads/2025/10/Tesla-voiture-1280x853.jpg"
+          "title": "Porsche supprime 500 emplois",
+          "summary": "Porsche ferme trois filiales, entraînant la suppression de 500 postes, un signal économique important.",
+          "url": "https://www.capital.fr/auto/porsche-annonce-la-fermeture-de-trois-filiales-500-emplois-vont-etre-supprimes-1526407",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~09~e03c7c9d-feca-4ede-8416-7d4f45fff51a.jpeg/1200x900/quality/80/porsche-annonce-la-fermeture-de-trois-filiales-500-emplois-vont-etre-supprimes.jpg"
         }
       ]
     },
@@ -85,20 +80,20 @@
       "emoji": "💰",
       "articles": [
         {
-          "title": "Kérosène: L'UE Assouplit les Règles",
-          "summary": "Face à la crise du kérosène, l'UE ajuste ses règles et explore de nouvelles sources pour prévenir les pénuries.",
+          "title": "Crise du kérosène : l'UE assouplit ses règles",
+          "summary": "L'Union Européenne adapte ses règles et cherche des solutions face à la crise du kérosène pour éviter les pénuries.",
           "url": "https://www.europe1.fr/international/crise-du-kerosene-lunion-europeenne-assouplit-ses-regles-et-cherche-de-nouvelles-sources-dapprovisionnement-pour-eviter-des-penuries-933101",
           "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/05/09/21/cr_frumm_john_hemis.fr_hemis_via_afp_69ce5ea89eac7_1_69efad5c6be35_69ff8cf02e3c3.jpg"
         },
         {
-          "title": "Porsche Supprime 500 Emplois",
-          "summary": "Porsche va fermer trois filiales, entraînant la suppression de 500 postes, un choc dans l'industrie automobile.",
-          "url": "https://www.capital.fr/auto/porsche-annonce-la-fermeture-de-trois-filiales-500-emplois-vont-etre-supprimes-1526407",
-          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~09~e03c7c9d-feca-4ede-8416-7d4f45fff51a.jpeg/1200x900/quality/80/porsche-annonce-la-fermeture-de-trois-filiales-500-emplois-vont-etre-supprimes.jpg"
+          "title": "YPF : bénéfices inférieurs aux attentes",
+          "summary": "Le bénéfice par action de YPF Sociedad Anonima n'atteint pas les prévisions, malgré un chiffre d'affaires supérieur.",
+          "url": "https://fr.investing.com/news/earnings/le-bpa-de-ypf-sociedad-anonima-a-manque-les-attentes-de-007-le-ca--a-surpasse-les-previsions-3407286",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_L.jpg"
         },
         {
-          "title": "Terreno Surpasse les Prévisions",
-          "summary": "Terreno Corporation a dépassé les prévisions de BPA et de chiffre d'affaires, signe de bonne santé financière.",
+          "title": "Terreno : Bénéfices et CA dépassent les prévisions",
+          "summary": "Terreno annonce des bénéfices et un chiffre d'affaires supérieurs aux attentes, affichant une solide performance financière.",
           "url": "https://fr.investing.com/news/earnings/le-bpa-de-terreno-a-depasse-les-attentes-de-032-le-ca--a-surpasse-les-previsions-3407287",
           "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3R08Z_L.jpg"
         }
@@ -109,38 +104,40 @@
       "emoji": "📍",
       "articles": [
         {
-          "title": "Cambriolage Choquant en Gironde",
-          "summary": "Deux adolescentes de 13 ans ont cambriolé une dame âgée de 99 ans en Gironde, provoquant l'indignation.",
-          "url": "https://www.sudouest.fr/gironde/eysines/eysines-deux-adolescentes-de-13-ans-cambriolent-le-domicile-d-une-vieille-dame-de-99-ans-28999789.php"
+          "title": "Eysines : Cambriolage chez une nonagénaire",
+          "summary": "Deux adolescentes de 13 ans sont impliquées dans le cambriolage du domicile d'une femme de 99 ans à Eysines.",
+          "url": "https://www.sudouest.fr/gironde/eysines/eysines-deux-adolescentes-de-13-ans-cambriolent-le-domicile-d-une-vieille-dame-de-99-ans-28999789.php",
+          "image": null
         },
         {
-          "title": "Incendie à Bordeaux Rive Droite",
+          "title": "Incendie à Bordeaux rive droite",
           "summary": "Un appartement prend feu rive droite à Bordeaux, entraînant l'évacuation de deux résidents vers l'hôpital.",
-          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-un-appartement-en-feu-rive-droite-deux-residents-evacues-a-l-hopital-29004684.php"
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-un-appartement-en-feu-rive-droite-deux-residents-evacues-a-l-hopital-29004684.php",
+          "image": null
         }
       ]
     },
     {
-      "label": "Journal du Geek",
+      "label": "Gaming & Tech",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Xbox Project Helix: Premières Infos",
-          "summary": "Les premières informations cruciales sur la \"Xbox Project Helix\", incluant sa sortie et son prix, sont dévoilées.",
+          "title": "Xbox Project Helix : Premières infos dévoilées",
+          "summary": "Premières révélations sur la \"Xbox Project Helix\", incluant fenêtre de sortie, prix potentiels et annonces.",
           "url": "https://www.journaldugeek.com/2026/05/09/xbox-prime-premieres-infos-fenetre-de-sortie-prix-annonces-tout-ce-que-lon-sait-a-ce-jour/",
           "image": "https://www.journaldugeek.com/app/uploads/2025/02/dossier-jdg-xbox-prime-1280x853.jpg"
         },
         {
-          "title": "PS6: Premières Révélations sur la Console",
-          "summary": "Les premières infos sur la PS6, de sa fenêtre de sortie à son prix, sont dévoilées.",
-          "url": "https://www.journaldugeek.com/2026/05/09/ps6-premieres-infos-fenetre-de-sortie-prix-annonces-tout-ce-que-lon-sait-a-ce-jour/",
-          "image": "https://www.journaldugeek.com/app/uploads/2025/02/dossier-jdg-ps6-1280x853.jpg"
-        },
-        {
-          "title": "Tesla FSD Promise Sans Date",
-          "summary": "Tesla annonce une mise à jour FSD pour ses anciens modèles, mais sans calendrier ni garanties concrètes.",
+          "title": "Tesla FSD : Mise à jour promise sans garantie",
+          "summary": "Tesla annonce une mise à jour FSD pour ses anciens véhicules, mais sans calendrier précis ni garanties concrètes.",
           "url": "https://www.journaldugeek.com/2026/05/09/tesla-promet-une-mise-a-jour-fsd-pour-les-anciens-vehicules-sans-calendrier-ni-garanties/",
           "image": "https://www.journaldugeek.com/app/uploads/2025/10/Tesla-voiture-1280x853.jpg"
+        },
+        {
+          "title": "PS6 : Premières informations révélées",
+          "summary": "Premières fuites et spéculations concernant la PS6, avec des détails sur sa sortie et son prix potentiel.",
+          "url": "https://www.journaldugeek.com/2026/05/09/ps6-premieres-infos-fenetre-de-sortie-prix-annonces-tout-ce-que-lon-sait-a-ce-jour/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/02/dossier-jdg-ps6-1280x853.jpg"
         }
       ]
     },
@@ -149,22 +146,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama Époustouflant en Playoffs NBA",
-          "summary": "Victor Wembanyama réalise une performance exceptionnelle, offrant un avantage crucial aux Spurs en playoffs NBA.",
+          "title": "Wembanyama brille en playoffs NBA",
+          "summary": "Victor Wembanyama réalise une performance exceptionnelle, offrant un avantage crucial aux Spurs en playoffs.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/play-offs-nba-wembanyama-signe-une-prestation-rare-pour-donner-l-avantage-aux-spurs-face-aux-wolves_AN-202605090101.html",
           "image": "https://images.bfmtv.com/P-66mwnKWuXwfAD5z2szufzGlF8=/140x342:1948x1359/800x0/images/Victor-Wembanyama-le-8-mai-2026-2283228.jpg"
         },
         {
-          "title": "Duplantis Vise un Record Mondial",
-          "summary": "Armand Duplantis vise un nouveau record mondial de saut à la perche au Meeting Herculis, un défi excitant.",
+          "title": "Duplantis vise le record du monde",
+          "summary": "Armand Duplantis confirme son intention de battre le record du monde de saut à la perche au Meeting Herculis.",
           "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
           "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
         },
         {
-          "title": "Rugby: Toulouse Impérial au Vélodrome",
-          "summary": "Le Stade Toulousain a offert une démonstration de force face à Toulon lors du choc au Vélodrome.",
-          "url": "https://rmcsport.bfmtv.com/rugby/top-14/direct-toulon-toulouse-suivez-le-choc-de-top-14-au-stade-velodrome-en-live_LS-202605090301.html",
-          "image": "https://images.bfmtv.com/Bv5p_Rd4AKt2_79JPeKPsAXVRT8=/0x25:2048x1177/800x0/images/Stade-Toulousain-RC-Toulon-en-Top-14-le-26-octobre-2025-2283376.jpg"
+          "title": "Maradona : 12h d'agonie selon un expert",
+          "summary": "Un médecin légiste estime que Diego Maradona aurait agonisé durant environ 12 heures avant son décès.",
+          "url": "https://rmcsport.bfmtv.com/societe/maradona-pourrait-avoir-agonise-environ-12-heures-estime-un-medecin-legiste-au-proces_AN-202605070819.html",
+          "image": "https://images.bfmtv.com/lX5UTGPKqJlUmE7nlQujc3fLYOU=/0x0:1024x576/800x0/images/-878791.jpg"
         }
       ]
     }
