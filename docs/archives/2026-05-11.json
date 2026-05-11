@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Estelle",
-  "global_summary": "La scène internationale reste tendue avec l'escalade des conflits au Moyen-Orient et la complexité croissante des enjeux migratoires. Le Sud-Liban est décrit comme un \"petit Gaza\" sous les frappes, tandis que l'Iran durcit le ton face aux puissances occidentales. Ces développements dessinent un tableau de forte incertitude géopolitique et de profondes mutations à l'échelle mondiale. \n\nSur le plan national, la France se tourne vers l'organisation des JO d'hiver 2030, tout en gérant l'impact de la flambée des prix des carburants sur le sport amateur. Le monde de la tech et du divertissement est en effervescence, entre innovations audacieuses, succès annoncés et stratégies d'acquisition massives. Enfin, des coups de filet dans la cryptomonnaie et des stratégies aériennes ambitieuses témoignent d'une économie en constante évolution.",
-  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous lancer, même si la vigilance est de mise ! Avec des températures très agréables oscillant entre 12°C et 19°C et un ciel partiellement couvert, les conditions sont idéales pour une séance d'endurance. La probabilité de pluie est modérée (55%), alors prévoyez un K-way léger pour rester au sec, mais ne laissez pas cela vous arrêter : quelques gouttes ne feront qu'ajouter à l'aventure !\n\nL'heure idéale pour votre run ? Visez la fin d'après-midi, entre 17h00 et 19h00. Vous bénéficierez d'une température très confortable, et l'indice UV, bien qu'encore à 6.85, sera un peu moins intense qu'en plein milieu de journée. Impérativement, appliquez une protection solaire (indice 30+ minimum) sur toutes les zones exposées et n'oubliez pas vos lunettes de soleil. Hydratez-vous bien avant, pendant et après l'effort. Votre corps est capable de tellement plus que ce que vous imaginez, alors sortez, respirez et dépassez vos limites !",
-  "weather_string": "🌤️ Peu nuageux (11.9°C / 18.8°C)",
+  "global_summary": "L'actualité mondiale est dominée par des tensions géopolitiques complexes, notamment au Moyen-Orient où la situation s'aggrave avec les déclarations de Walid Joumblatt et la réponse iranienne aux propositions américaines. Parallèlement, les dynamiques migratoires mondiales continuent de connaître des évolutions majeures, posant des défis constants. En France, l'actualité mêle faits divers locaux et débats nationaux, reflétant une vie quotidienne riche et variée. \n\nLe monde de la tech et des affaires surprend avec des innovations audacieuses, comme les biodrones russes, et des manœuvres économiques inattendues, telle l'ambition de GameStop. Sur le front sportif, les exploits individuels de géants comme Wembanyama et Duplantis font vibrer les fans, tandis que les championnats offrent des dénouements palpitants. Une journée entre enjeux globaux et performances exceptionnelles.",
+  "running_advice": "Aujourd'hui, Sainte Estelle nous offre une météo changeante mais prometteuse pour votre run ! Avec des températures douces oscillant entre 11.9°C et 18.9°C et un ciel partiellement nuageux, les conditions sont globalement favorables pour enfiler vos baskets. Attention cependant, une probabilité de pluie de 55% plane sur la journée, alors gardez un œil sur le ciel ou préparez un équipement léger. Le coup de cœur du coach ? C'est le moment idéal pour courir en fin d'après-midi, entre 17h00 et 19h00. Vous profiterez d'une lumière douce et de températures très agréables avant le coucher du soleil. Mais soyez vigilant : l'indice UV élevé à 6.85 nécessite une protection solaire indispensable. Crème solaire, casquette et lunettes de soleil sont vos meilleurs alliés pour cette session ! Alors, motivez-vous, respirez à fond et profitez de chaque foulée pour vous dépasser !",
+  "weather_string": "🌤️ Peu nuageux (11.9°C / 18.9°C)",
   "weather_stats": {
-    "temp": "18.8°C",
+    "temp": "18.9°C",
     "rain": "55%",
     "uv": "6.85"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Liban : \"Un petit Gaza\"",
-          "summary": "Walid Joumblatt alerte sur la situation dramatique au Sud-Liban, comparant la région à Gaza sous les frappes israéliennes.",
+          "title": "Joumblatt alerte : le Sud-Liban, un petit Gaza",
+          "summary": "Le leader libanais dénonce l'escalade des frappes israéliennes, transformant le Sud-Liban en zone de conflit intense.",
           "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260510-walid-joumblatt-isra%C3%ABl-frappe-partout-n-importe-o%C3%B9-le-sud-liban-est-devenu-un-petit-gaza",
           "image": "https://s.france24.com/media/display/84e2cdec-4c9e-11f1-8f70-005056bfb2b6/w:1280/p:16x9/FR-20260510-200642-202342-CS.jpg"
         },
         {
-          "title": "Iran hausse le ton",
-          "summary": "L'Iran répond aux propositions américaines et interpelle la France et le Royaume-Uni dans la crise au Moyen-Orient.",
+          "title": "L'Iran durcit le ton face à l'Occident",
+          "summary": "Téhéran réagit aux propositions US et interpelle la France et le Royaume-Uni, accentuant les tensions régionales.",
           "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-repond-a-la-proposition-americaine-et-hausse-le-ton-face-a-la-france-et-au-royaume-uni_7995752.html",
           "image": "https://www.franceinfo.fr/pictures/1t21c7kF3isMI1ZpTV6YdeqT2BU/1200x675/2026/05/10/6a00c226accc8212780177.jpg"
         },
         {
-          "title": "Migration illégale inversée",
-          "summary": "Un rapport analyse le \"grand inversement\" des flux de migration illégale, révélant de nouvelles dynamiques mondiales.",
+          "title": "Migration illégale : un \"grand inversement\" mondial",
+          "summary": "Les flux migratoires mondiaux connaissent une inversion majeure, défiant les politiques et les prévisions habituelles.",
           "url": "https://www.lepoint.fr/monde/migration-illegale-le-grand-inversement-KKTB7LXNI5FUNMFN7HOL57M5UU/",
           "image": "https://www.lepoint.fr/resizer/v2/44JBX3O5E5ISLCBOB3HK4CV4QU.jpg?auth=76c8c98d2bacfd07fa98c2ecca70f7574311fab1d4f41919a629e2c1778c550f&smart=true&width=1200&height=900"
         }
@@ -38,106 +38,46 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "JO 2030 : Alpes Françaises favorites",
-          "summary": "Les Alpes françaises sont les seules candidates pour accueillir les Jeux Olympiques et Paralympiques d'hiver de 2030.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/les-alpes-francaises-seules-candidates-pour-les-jo-d-hiver-2030_DN-202311290846.html",
-          "image": "https://images.bfmtv.com/2VBCrg0CdhADZxBFNZRiAz6kamU=/0x77:768x509/800x0/images/La-France-va-savoir-mercredi-si-elle-a-convaincu-le-CIO-de-rester-en-lice-pour-organiser-les-JO-d-hiver-en-2030-un-pari-ose-alors-que-Paris-accueille-les-JO-d-ete-dans-huit-mois-1757612.jpg"
-        },
-        {
-          "title": "Carburant : impact sur sport amateur",
-          "summary": "La flambée des prix du carburant pénalise lourdement les clubs sportifs amateurs, augmentant leurs frais de déplacement.",
-          "url": "https://rmcsport.bfmtv.com/societe/de-890-euros-a-1-300-euros-pour-un-meme-deplacement-l-impact-de-la-flambee-des-prix-des-carburants-pour-les-clubs-sportifs-amateurs_AN-202605050335.html",
-          "image": "https://images.bfmtv.com/M7AFFMOMvcSraIiZ9wPU6qiQ_xU=/299x389:1851x1262/800x0/images/Une-illustration-d-un-ballon-de-football-pendant-un-match-de-Coupe-de-France-en-decembre-2024-2031005.jpg"
-        },
-        {
-          "title": "PSG fête la victoire contre Brest",
-          "summary": "Le Paris Saint-Germain s'impose face à Brest, offrant une belle soirée de fête à ses supporters au Parc des Princes.",
-          "url": "https://www.lefigaro.fr/sports/football/ligue-1/psg-brest-doue-allume-la-lumiere-le-cup-fait-la-fete-des-brestois-inoffensifs-coups-de-coeur-et-coups-de-griffe-20260510",
-          "image": "https://i.f1g.fr/media/cms/1920x1080_crop/2026/05/10/a921618df183aa0af6f2c1b32408c8914fe2a2930b268b76725b73eee6cb3b68.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Tech & Innovation",
-      "emoji": "💡",
-      "articles": [
-        {
-          "title": "Biodrones pigeons russes",
-          "summary": "Une startup russe prétend créer des biodrones de surveillance en contrôlant le cerveau de pigeons pour l'espionnage.",
-          "url": "https://www.capital.fr/economie-politique/espionnage-une-start-up-russe-affirme-avoir-cree-des-biodrones-de-surveillance-en-prenant-le-controle-du-cerveau-de-pigeons-1526423",
-          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~10~6bd82f8f-025a-4026-a111-048f902fb400.jpg/1200x900/quality/80/espionnage-une-start-up-russe-affirme-avoir-cree-des-biodrones-de-surveillance-en-prenant-le-controle-du-cerveau-de-pigeons.jpg"
-        },
-        {
-          "title": "Microsoft arrête Copilot Xbox",
-          "summary": "Microsoft met fin à Copilot sur Xbox après seulement huit mois, révélant les raisons de cet échec inattendu.",
-          "url": "https://www.journaldugeek.com/2026/05/11/microsoft-tue-copilot-sur-xbox-apres-8-mois-les-vraies-raisons-de-cet-echec/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/copilot-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Business & Économie",
-      "emoji": "💰",
-      "articles": [
-        {
-          "title": "Coup de filet cryptomonnaie",
-          "summary": "Une vaste opération policière met fin à une affaire de séquestration liée à la cryptomonnaie, suite à un coup de filet.",
-          "url": "https://www.franceinfo.fr/economie/bitcoin/cryptomonnaie-coup-de-filet-apres-une-sequestration_7995863.html",
-          "image": "https://www.franceinfo.fr/pictures/jI07tMmMctdOMV4Hg6k-IRzHqSk/1200x675/2026/05/10/6a00f51fa8c59287692205.jpg"
-        },
-        {
-          "title": "American Airlines s'envole",
-          "summary": "American Airlines intensifie ses vols pour l'été 2026, ajoutant cinq nouvelles destinations européennes à son réseau.",
-          "url": "https://www.air-journal.fr/2026-05-10-ete-2026-american-airlines-frole-les-7-000-vols-par-jour-propose-5-nouvelles-destinations-europeennes-5275088.html",
-          "image": "https://www.air-journal.fr/wp-content/uploads/Air-journal-American-Airlines-decollage_Source-american-Airlines.jpg"
-        },
-        {
-          "title": "GameStop veut eBay",
-          "summary": "GameStop, autrefois en difficulté, vise l'acquisition d'eBay pour 13 milliards de dollars, une stratégie audacieuse.",
-          "url": "https://www.journaldugeek.com/2026/05/11/gamestop-veut-racheter-ebay-comment-une-enseigne-moribonde-vise-13-milliards/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/gamestop-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Région : Gironde",
-      "emoji": "🏞️",
-      "articles": [
-        {
-          "title": "Affaire Narjissi : le drame",
-          "summary": "Le président de la FFR, Florian Grill, réaffirme qu'une décision individuelle est à l'origine du drame Narjissi.",
+          "title": "Affaire Narjissi : la FFR pointe une décision individuelle",
+          "summary": "Le président de la FFR réagit à l'affaire Narjissi, insistant sur la responsabilité individuelle dans ce drame.",
           "url": "https://www.sudouest.fr/faits-divers/disparition/disparition-de-medhi-narjissi/affaire-narjissi-c-est-une-decision-individuelle-qui-a-cause-le-drame-reaffirme-florian-grill-president-de-la-ffr-29017750.php",
           "image": null
         },
         {
-          "title": "Fatal accident Saint-Magne",
-          "summary": "Un jeune conducteur de 21 ans perd la vie dans une violente collision routière à Saint-Magne en Gironde.",
-          "url": "https://www.sudouest.fr/gironde/saint-magne/gironde-un-conducteur-de-21-ans-meurt-dans-un-violent-accident-de-la-route-a-saint-magne-29017457.php",
+          "title": "Pays Basque : excès de vitesse à 176 km/h",
+          "summary": "Une conductrice flashée à 176 km/h sur une zone limitée à 110 km/h au Pays Basque.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/pays-basque-une-conductrice-interceptee-a-176-km-h-au-lieu-de-110-km-h-29017023.php",
           "image": null
         },
         {
-          "title": "Excessive vitesse Pays Basque",
-          "summary": "Une conductrice a été interceptée au Pays basque à 176 km/h, dépassant largement la limite autorisée de 110 km/h.",
-          "url": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/pays-basque-une-conductrice-interceptee-a-176-km-h-au-lieu-de-110-km-h-29017023.php",
+          "title": "Gironde : un jeune conducteur périt dans un accident",
+          "summary": "Un tragique accident à Saint-Magne coûte la vie à un conducteur de 21 ans après une violente collision.",
+          "url": "https://www.sudouest.fr/gironde/saint-magne/gironde-un-conducteur-de-21-ans-meurt-dans-un-violent-accident-de-la-route-a-saint-magne-29017457.php",
           "image": null
         }
       ]
     },
     {
-      "label": "Divertissement & Geek",
-      "emoji": "🎮",
+      "label": "Tech & Business",
+      "emoji": "💻💰",
       "articles": [
         {
-          "title": "Harry Potter : HBO y croit",
-          "summary": "HBO mise énormément sur le succès de sa nouvelle série très attendue tirée de l'univers Harry Potter.",
-          "url": "https://www.journaldugeek.com/2026/05/11/harry-potter-hbo-croit-vraiment-vraiment-beaucoup-au-succes-de-sa-nouvelle-serie/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/03/harry-potter-tout-savoir-sur-la-serie-hbo-max-1280x853.jpg"
+          "title": "Biodrones russes : des pigeons espions",
+          "summary": "Une start-up russe revendique le contrôle cérébral de pigeons pour créer des biodrones de surveillance inédits.",
+          "url": "https://www.capital.fr/economie-politique/espionnage-une-start-up-russe-affirme-avoir-cree-des-biodrones-de-surveillance-en-prenant-le-controle-du-cerveau-de-pigeons-1526423",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~10~6bd82f8f-025a-4026-a111-048f902fb400.jpg/1200x900/quality/80/espionnage-une-start-up-russe-affirme-avoir-cree-des-biodrones-de-surveillance-en-prenant-le-controle-du-cerveau-de-pigeons.jpg"
         },
         {
-          "title": "Prime Video révèle son casting",
-          "summary": "Prime Video lève le voile sur le casting de sa prochaine série tant attendue, adaptée d'un célèbre comics.",
-          "url": "https://www.begeek.fr/prime-video-devoile-le-casting-de-sa-prochaine-serie-adaptee-de-comics-et-lattente-monte-432012",
-          "image": "https://www.begeek.fr/app/uploads/2026/01/Sex-Criminals.jpg"
+          "title": "GameStop vise eBay : la surprise financière",
+          "summary": "L'enseigne GameStop, autrefois en difficulté, cherche à acquérir eBay pour 13 milliards de dollars.",
+          "url": "https://www.journaldugeek.com/2026/05/11/gamestop-veut-racheter-ebay-comment-une-enseigne-moribonde-vise-13-milliards/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/gamestop-1280x853.jpg"
+        },
+        {
+          "title": "Microsoft met fin à Copilot sur Xbox",
+          "summary": "Après seulement 8 mois, Microsoft abandonne Copilot sur Xbox, révélant les raisons de cet échec.",
+          "url": "https://www.journaldugeek.com/2026/05/11/microsoft-tue-copilot-sur-xbox-apres-8-mois-les-vraies-raisons-de-cet-echec/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/copilot-1280x853.jpg"
         }
       ]
     },
@@ -146,22 +86,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama exclu en NBA",
-          "summary": "Victor Wembanyama est exclu d'un match NBA pour un coup de coude, les Spurs perdent face à Minnesota.",
+          "title": "Wembanyama exclu : les Spurs sous pression",
+          "summary": "Victor Wembanyama reçoit une exclusion pour un coup de coude, laissant les Spurs en difficulté face à Minnesota.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-exclu-pour-un-coup-de-coude-minnesota-recolle-aux-spurs_AV-202605110036.html",
           "image": "https://images.bfmtv.com/9vttSFgmOi8I5dZntoEbS0m6HOA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-exclu-lors-du-match-4-de-la-demi-finale-de-conference-Ouest-perdu-par-San-Antonio-a-Minnesota-114-109-le-10-mai-2026-2283750.jpg"
         },
         {
-          "title": "Duplantis vise nouveau record",
-          "summary": "Armand Duplantis se confie sur son ambition de battre le record du monde de saut à la perche au Meeting Herculis.",
+          "title": "Duplantis : record du monde en vue à Herculis",
+          "summary": "Armand Duplantis annonce son intention de battre le record du monde de saut à la perche au Meeting Herculis.",
           "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
           "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
         },
         {
-          "title": "JO : Biélorussie réintégrée",
-          "summary": "Le CIO lève les restrictions sur la Biélorussie, l'autorisant à participer aux Jeux Olympiques, malgré le conflit ukrainien.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-olympiques-la-bielorussie-n-est-plus-visee-par-les-restrictions-du-cio-liees-a-la-guerre-en-ukraine_AD-202605070647.html",
-          "image": "https://images.bfmtv.com/zeDahaLuzAU7hX6ScCPK1cUZLJ8=/0x0:2048x1152/800x0/images/Le-drapeau-olympique-a-Albertville-le-23-fevrier-2026-2282522.jpg"
+          "title": "Barcelone champion d'Espagne face au Real",
+          "summary": "Le FC Barcelone décroche un nouveau titre de champion d'Espagne après sa victoire décisive contre le Real Madrid.",
+          "url": "https://www.lanouvellerepublique.fr/sports/un-nouveau-titre-de-champion-d-espagne-pour-barcelone-apres-son-succes-face-au-real-madrid-1778448192",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a00f73ed219fc96738b45f9"
         }
       ]
     }
