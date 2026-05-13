@@ -1,11 +1,11 @@
 {
   "ephemeride": "Sainte Rolande",
-  "global_summary": "L'actualité mondiale est marquée par des tensions persistantes et des événements dramatiques. Aux États-Unis, un gigantesque incendie dévaste les Everglades, soulignant l'urgence climatique. Au Proche-Orient, le conflit israélo-palestinien s'intensifie avec des accusations mutuelles de violences sexuelles, révélant des horreurs insoutenables. La France, quant à elle, fait face à des enquêtes nationales sensibles, notamment le décès en garde à vue à Béziers, tout en s'engageant sur la scène diplomatique internationale avec une initiative à l'ONU pour Ormuz.\n\nSur le front économique et technologique, Google dévoile ses avancées avec Gemini Intelligence pour Android, tandis que des débats animent les budgets militaires et les marchés boursiers. Enfin, le monde du sport vibre avec les exploits de Victor Wembanyama en NBA et la quête d'un nouveau record mondial pour Armand Duplantis. Cependant, des ombres planent avec des scandales de dopage touchant de jeunes athlètes, nous rappelant la face cachée de la performance. Une journée dense, entre défis planétaires, avancées technologiques et révélations humaines.",
-  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous lancer ! Avec des températures douces oscillant entre 11.8°C et 18.3°C et un ciel peu nuageux, les conditions sont quasiment parfaites pour une course revigorante. Le risque de pluie est faible (30%), alors n'hésitez pas à profiter de cette fenêtre. Pour optimiser votre sortie et éviter le pic d'UV (indice 6.5, qui est élevé), je vous conseille de courir tôt le matin, juste après le lever du soleil vers 6h35, ou en fin d'après-midi/début de soirée, idéalement entre 18h et 20h. N'oubliez pas votre protection solaire, même par temps couvert, et hydratez-vous bien. Allez, on se motive, chaque pas compte !",
+  "global_summary": "L'actualité mondiale est marquée par des défis environnementaux majeurs, à l'image de l'incendie géant qui ravage les Everglades, et des tensions géopolitiques persistantes, notamment autour du conflit israélo-palestinien avec des rapports alarmants sur des violences sexuelles. En France, l'agenda est partagé entre des initiatives diplomatiques cruciales, comme la proposition de mission neutre d'Emmanuel Macron à Ormuz, et des faits divers locaux qui interrogent, tel le décès en garde à vue à Béziers. \n\nLe monde des affaires et de la technologie ne reste pas en marge, avec l'arrivée de l'IA Gemini sur Android et d'importants votes budgétaires pour l'armée. Le sport, quant à lui, nous offre un tableau contrasté : des exploits comme les performances de Wembanyama et les tentatives de record de Duplantis côtoient des affaires plus sombres, telles que les accusations de dopage chez de jeunes athlètes, soulignant la complexité et la richesse de notre quotidien.",
+  "running_advice": "Aujourd'hui, l'énergie est au rendez-vous pour votre session running ! Avec des températures douces allant de 11.8°C à 18.3°C et un ciel peu nuageux, les conditions sont presque parfaites pour vous dépasser. Attention tout de même à une probabilité de pluie de 40% : un léger crachin ne doit pas vous arrêter, mais un coupe-vent léger sera votre meilleur allié. L'heure idéale ? Visez la fin de matinée (vers 10h-11h) ou la fin d'après-midi (vers 17h-19h) pour profiter des températures les plus agréables et éviter le pic d'UV. Avec un indice UV de 6.5, la protection solaire est impérative : crème solaire, casquette et lunettes de soleil sont de mise. Alors, enfilez vos baskets et allez chercher cette sensation de liberté !",
   "weather_string": "🌤️ Peu nuageux (11.8°C / 18.3°C)",
   "weather_stats": {
     "temp": "18.3°C",
-    "rain": "30%",
+    "rain": "40%",
     "uv": "6.5"
   },
   "categories": [
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Everglades en Flammes",
-          "summary": "Un incendie monstre dévaste les Everglades, un désastre environnemental aux États-Unis, alerte sur la fragilité des écosystèmes.",
+          "title": "Everglades en Flammes : Un Désastre Écologique",
+          "summary": "Un incendie dévastateur consume les célèbres Everglades, menaçant la biodiversité et l'équilibre environnemental de la région.",
           "url": "https://www.franceinfo.fr/monde/usa/etats-unis-un-incendie-geant-ravage-les-everglades_8000267.html",
           "image": "https://www.franceinfo.fr/pictures/8y7W_oDhxtCo2SNfOgD7Ly5TM70/1200x675/2026/05/12/6a038b689a369642203851.jpg"
         },
         {
-          "title": "Accusations de Violences Sexuelles au Proche-Orient",
-          "summary": "Israël critique le NYT suite à une enquête sur les violences sexuelles contre des détenus palestiniens. Un sujet brûlant.",
-          "url": "https://www.huffingtonpost.fr/international/article/israel-etrille-le-new-york-times-qui-a-enquete-sur-les-violences-sexuelles-contre-des-detenus-palestiniens_263658.html",
-          "image": "https://focus.huffingtonpost.fr/2025/12/04/856/0/8192/4608/0/0/60/0/39187c0_upload-1-dzdhieo5f0yf-afp-20250917-bender-notitle250916-np685-v1-highres-presidentdonaldtrumpfiles15b.jpg"
-        },
-        {
-          "title": "Rapport accablant sur les violences du 7-Octobre",
-          "summary": "Un rapport israélien dénonce des violences sexuelles \"systématiques\" du Hamas lors des attaques du 7-Octobre.",
+          "title": "Hamas Accusé de Violences Sexuelles Massives",
+          "summary": "Un rapport israélien révèle des violences sexuelles \"systématiques\" et \"à grande échelle\" lors des attaques du 7 octobre.",
           "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/attaques-du-7-octobre-un-rapport-israelien-accuse-le-hamas-de-violences-sexuelles-systematiques-et-a-grande-echelle_8000249.html",
           "image": "https://www.franceinfo.fr/pictures/AGmKezTlEgz9ZGaYFYQRwvMa79Y/1200x675/2026/05/12/6a038752b5707037173134.jpg"
+        },
+        {
+          "title": "Israël Critique le NYT sur Enquête Sensible",
+          "summary": "Israël réagit vivement à l'enquête du New York Times sur les allégations de violences sexuelles contre des détenus palestiniens.",
+          "url": "https://www.huffingtonpost.fr/international/article/israel-etrille-le-new-york-times-qui-a-enquete-sur-les-violences-sexuelles-contre-des-detenus-palestiniens_263658.html",
+          "image": "https://focus.huffingtonpost.fr/2025/12/04/856/0/8192/4608/0/0/60/0/39187c0_upload-1-dzdhieo5f0yf-afp-20250917-bender-notitle250916-np685-v1-highres-presidentdonaldtrumpfiles15b.jpg"
         }
       ]
     },
@@ -39,109 +39,109 @@
       "articles": [
         {
           "title": "Décès en Garde à Vue à Béziers",
-          "summary": "Un homme est décédé en garde à vue à Béziers, provoquant la blessure de deux policiers nationaux. Enquête en cours.",
+          "summary": "Un homme est décédé en garde à vue à Béziers, blessant deux policiers, soulevant des questions.",
           "url": "https://actu.fr/occitanie/agde_34003/deces-du-garde-a-vue-au-commissariat-de-beziers-deux-policiers-nationaux-blesses_64260254.html",
           "image": "https://static.actu.fr/uploads/2025/11/nzmzndu4ztatodayms00ngm3lwiymmytmtvjowqyytrhnwu1-dgpn-sicop-policier-brassard-1200px-960x576-1.jpg"
         },
         {
-          "title": "Macron S'engage pour Ormuz à l'ONU",
-          "summary": "Emmanuel Macron annonce une initiative française à l'ONU pour une mission \"neutre\" dans le détroit d'Ormuz.",
+          "title": "Macron Propose une Mission Neutre à Ormuz",
+          "summary": "Emmanuel Macron annonce une initiative française à l'ONU pour une mission neutre dans le détroit stratégique d'Ormuz.",
           "url": "https://www.i24news.tv/fr/actu/international/artc-ormuz-la-france-va-prendre-une-initiative-a-l-onu-sur-sa-proposition-de-mission-neutre-dit-emmanuel-macron",
           "image": "https://cdn.i24news.tv/uploads/8e/10/e0/7d/0e/c9/74/27/e1/6b/cf/69/3a/19/74/80/8e10e07d0ec97427e16bcf693a197480.png"
-        },
-        {
-          "title": "Faux Radars : Légalité en Question",
-          "summary": "Un maire installe de faux radars dans sa commune, une initiative dont la légalité est désormais débattue.",
-          "url": "https://www.capital.fr/auto/un-maire-fait-installer-de-faux-radars-dans-sa-commune-est-ce-legal-1526506",
-          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~12~49ee02f5-9e51-4d31-9837-ee42670e8109.jpeg/1200x900/quality/80/un-maire-fait-installer-de-faux-radars-dans-sa-commune-est-ce-legal.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
+      "label": "Tech",
       "emoji": "💡",
       "articles": [
         {
-          "title": "Google Dévoile Gemini Intelligence",
-          "summary": "Google lance Gemini Intelligence pour Android cet été, promettant une nouvelle ère d'IA mobile.",
+          "title": "Gemini AI Arrive sur Android",
+          "summary": "Google lance Gemini Intelligence sur Android cet été, promettant une révolution pour les smartphones.",
           "url": "https://fr.investing.com/news/stock-market-news/google-devoile-gemini-intelligence-pour-android-cet-ete-93CH-3413095",
           "image": "https://i-invdn-com.investing.com/news/LYNXNPEE2D0I6_L.jpg"
         },
         {
-          "title": "Intuitive Machines et la Space Force",
-          "summary": "Intuitive Machines décroche un contrat de surveillance majeur avec la Space Force, stimulant le secteur spatial.",
+          "title": "Faux Radars : Légal ou Non ?",
+          "summary": "Un maire installe de faux radars dans sa commune, posant la question de la légalité de cette initiative.",
+          "url": "https://www.capital.fr/auto/un-maire-fait-installer-de-faux-radars-dans-sa-commune-est-ce-legal-1526506",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~12~49ee02f5-9e51-4d31-9837-ee42670e8109.jpeg/1200x900/quality/80/un-maire-fait-installer-de-faux-radars-dans-sa-commune-est-ce-legal.jpg"
+        },
+        {
+          "title": "Intuitive Machines S'Envole avec Space Force",
+          "summary": "Intuitive Machines décroche un contrat crucial de surveillance pour la Space Force, un pas vers l'espace.",
           "url": "https://fr.investing.com/news/stock-market-news/intuitive-machines-remporte-un-contrat-de-surveillance-avec-la-space-force-93CH-3413194",
           "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0E0CQ_L.jpg"
         }
       ]
     },
     {
-      "label": "Économie & Business",
+      "label": "Business",
       "emoji": "💰",
       "articles": [
         {
-          "title": "Exxon Mobil Face aux Allégations",
-          "summary": "Exxon Mobil réfute les accusations du contrôleur de NYC concernant un transfert au Texas. Affaire à suivre.",
+          "title": "Budget Militaire Français S'Envole",
+          "summary": "L'Assemblée nationale vote 36 milliards d'euros supplémentaires pour l'armée, accentuant la militarisation.",
+          "url": "https://www.revolutionpermanente.fr/Militarisation-en-marche-l-Assemblee-vote-36-milliards-supplementaires-pour-l-armee",
+          "image": "https://www.revolutionpermanente.fr/IMG/logo/caesar_1-2-2.jpg"
+        },
+        {
+          "title": "Exxon Mobil Réfute Allégations de New York",
+          "summary": "Exxon Mobil conteste les accusations de New York concernant un transfert controversé de ses activités au Texas.",
           "url": "https://fr.investing.com/news/stock-market-news/exxon-mobil-refute-les-allegations-du-controleur-de-nyc-sur-le-transfert-au-texas-93CH-3413101",
           "image": "https://i-invdn-com.investing.com/news/LYNXMPEE0S1JA_L.jpg"
         },
         {
-          "title": "Chute de l'Action Red Cat",
-          "summary": "L'action Red Cat dégringole de 7% suite à l'annonce d'une offre publique, secouant les marchés.",
+          "title": "Chute de Red Cat en Bourse",
+          "summary": "L'action Red Cat dégringole de 7% suite à l'annonce d'une offre publique, alertant les marchés.",
           "url": "https://fr.investing.com/news/stock-market-news/laction-red-cat-chute-de-7-apres-lannonce-dune-offre-publique-93CH-3413159",
           "image": "https://i-invdn-com.investing.com/news/LYNXNPEB9M0BY_L.jpg"
-        },
-        {
-          "title": "Budget Militaire en Hausse",
-          "summary": "L'Assemblée vote 36 milliards supplémentaires pour l'armée, confirmant une militarisation en marche.",
-          "url": "https://www.revolutionpermanente.fr/Militarisation-en-marche-l-Assemblee-vote-36-milliards-supplementaires-pour-l-armee",
-          "image": "https://www.revolutionpermanente.fr/IMG/logo/caesar_1-2-2.jpg"
         }
       ]
     },
     {
-      "label": "Faits Divers Régionaux",
-      "emoji": "🚨",
+      "label": "Gironde",
+      "emoji": "🌳",
       "articles": [
         {
-          "title": "Cobra Venimeux Près de Toulouse",
-          "summary": "Un cobra aperçu près de Toulouse force la fermeture de lieux publics. Vigilance de rigueur.",
+          "title": "Cobra Venimeux près de Toulouse",
+          "summary": "Un cobra aperçu près de Toulouse force la fermeture de lieux publics par mesure de précaution.",
           "url": "https://www.sudouest.fr/societe/animaux/un-cobra-venimeux-apercu-dans-une-commune-pres-de-toulouse-plusieurs-lieux-publics-fermes-par-precaution-29042251.php",
           "image": null
         },
         {
-          "title": "Oubli Fatal de Repas à Pau",
-          "summary": "Un habitant de Pau s'endort avec son repas sur le feu, réveillé par les pompiers. Prudence en cuisine !",
+          "title": "Incendie Domestique : Endormi à Pau",
+          "summary": "Un habitant de Pau s'endort avec son repas sur le feu, réveillé heureusement par les pompiers.",
           "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/pau-il-met-son-repas-a-cuire-et-s-endort-avant-d-etre-reveille-par-les-pompiers-au-milieu-des-fumees-29042057.php",
           "image": null
         },
         {
-          "title": "Meurtre à Oléron : Était-ce évitable ?",
-          "summary": "Le meurtre à coups de nerfs de bœuf sur l'île d'Oléron soulève la question : cette tragédie aurait-elle pu être évitée ?",
+          "title": "Meurtre Tragique sur l'Île d'Oléron",
+          "summary": "Le meurtre brutal d'Oléron par nerfs de bœuf soulève des questions sur la prévention des violences.",
           "url": "https://www.sudouest.fr/charente-maritime/ile-d-oleron/saint-trojan-les-bains/ca-allait-mal-se-terminer-le-meurtre-a-coups-de-nerfs-de-boeuf-dans-l-ile-d-oleron-aurait-il-pu-etre-evite-29031866.php",
           "image": null
         }
       ]
     },
     {
-      "label": "Culture & Loisirs",
-      "emoji": "🎬",
+      "label": "Journal du Geek",
+      "emoji": "🎮",
       "articles": [
         {
-          "title": "Nouveautés Parcs d'Attractions 2026",
-          "summary": "Tour d'horizon des nouveautés passionnantes pour 2026 à Disneyland Paris, Astérix et Europa-Park.",
+          "title": "Nouveautés 2026 des Parcs d'Attractions",
+          "summary": "Découvrez les grandes nouveautés et attractions prévues pour 2026 dans les célèbres parcs à thème européens.",
           "url": "https://www.journaldugeek.com/2026/05/13/disneyland-paris-asterix-europa-park-et-parc-spirou-tour-dhorizon-des-nouveautes-2026/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/01/DSC_0137_006-1280x1060.jpg"
         },
         {
-          "title": "Devil May Cry Saison 2 : Le Débrief",
-          "summary": "Netflix conclut la saison 2 de Devil May Cry. Décryptage des liens avec les jeux vidéo.",
+          "title": "Fin de Devil May Cry Saison 2",
+          "summary": "Analyse de la conclusion de la série Netflix Devil May Cry et ses liens avec l'univers des jeux vidéo.",
           "url": "https://www.journaldugeek.com/dossier/devil-may-cry-saison-2-comment-se-termine-la-serie-netflix-quel-rapport-avec-les-jeux/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/devil-may-cry-saison-2-4-1280x853.jpg"
         },
         {
-          "title": "Critique : Punisher One Last Kill",
-          "summary": "Une critique du spécial Punisher : One Last Kill. Le héros se tire-t-il une balle dans le pied ?",
+          "title": "Critique Punisher: One Last Kill",
+          "summary": "Une nouvelle critique évalue le spécial Punisher: One Last Kill, divisant les fans de la franchise.",
           "url": "https://www.journaldugeek.com/critique/critique-punisher-one-last-kill-un-special-qui-se-tire-une-balle-dans-la-tete/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/punisher-one-last-kill-1-1280x853.jpg"
         }
@@ -149,23 +149,23 @@
     },
     {
       "label": "Sport",
-      "emoji": "🏆",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama en Feu en NBA",
-          "summary": "Victor Wembanyama enflamme la NBA, menant San Antonio à un match de la finale de conférence !",
+          "title": "Wembanyama Brille, Spurs en Finale ?",
+          "summary": "Victor Wembanyama excelle en NBA, menant San Antonio à un match de la finale de conférence.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-montre-les-muscles-san-antonio-a-un-match-de-la-finale-de-conference_AN-202605130066.html",
           "image": "https://images.bfmtv.com/74De9SBcEtfAOu0y0OluuGWdCoo=/0x167:2048x1319/800x0/images/Victor-Wembanyama-celebre-devant-Rudy-Gobert-lors-de-la-victoire-de-San-Antonio-contre-Minnesota-126-97-le-12-mai-2026-2285117.jpg"
         },
         {
-          "title": "Duplantis Vise un Nouveau Record !",
-          "summary": "Armand Duplantis révèle ses ambitions de nouveau record du monde de saut à la perche. L'exploit est proche !",
-          "url": "https://rmcsport.bfmtv.com/athletisme/video-un-nouveau-record-du-monde-de-saut-a-la-perche-armand-duplantis-dit-tout-dans-le-super-moscato-show_VN-202605070619.html",
-          "image": "https://images.bfmtv.com/SDwnZKGApBQXfBgy_P3KbgJ30kc=/0x0:1280x720/800x0/images/Un-nouveau-record-du-monde-de-saut-a-la-perche-Armand-Duplantis-dit-tout-dans-le-Super-Moscato-Show-2282507.jpg"
+          "title": "Duplantis Vise le Record du Monde",
+          "summary": "Armand Duplantis révèle son ambition de battre le record du monde de saut à la perche au Meeting Herculis.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
+          "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
         },
         {
-          "title": "Doping Jeunesse : Scandale CrossFit",
-          "summary": "Une prodige du crossfit de 14 ans dopée, ses parents mis en examen. Un scandale qui ébranle le sport.",
+          "title": "Prodige CrossFit Dopée à 14 Ans",
+          "summary": "Une jeune athlète de crossfit suspectée de dopage à 14 ans, ses parents sont mis en examen.",
           "url": "https://rmcsport.bfmtv.com/societe/dopee-a-14-ans-une-prodige-du-crossfit-confiee-a-une-famille-d-accueil-ses-parents-mis-en-examen_AN-202605120368.html",
           "image": "https://images.bfmtv.com/wtvFHjiUY0ZEr3aTH2yH5ITtrL4=/4x145:2036x1288/800x0/images/Une-salle-de-crossfit-a-Saint-Denis-a-La-Reunion-en-mars-2025-Illustration-2284637.jpg"
         }
