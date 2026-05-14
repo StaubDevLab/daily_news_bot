@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Matthias",
-  "global_summary": "Le monde est en pleine effervescence géopolitique, marqué par une concurrence accrue entre les États-Unis et la Chine, tant sur les terres agricoles stratégiques que dans la course à l'intelligence artificielle. Pendant ce temps, les tensions au Proche-Orient persistent, avec de nouvelles frappes tragiques au Liban, rappelant la fragilité de la paix internationale.\n\nEn France, l'actualité jongle entre les joies sportives comme la montée en Ligue 1 du Mans FC, les défis économiques liés à la hausse des carburants impactant les projets de vacances, et des interrogations sur la gestion locale. Le secteur tech continue d'innover avec des avancées en conduite autonome et l'IA, tandis que le monde du sport navigue entre performances éclatantes et scandales de gouvernance, nous rappelant l'importance de la vigilance et de l'intégrité.",
-  "running_advice": "Allez, champion(ne) ! Aujourd'hui, la météo nous met au défi avec des températures entre 9.9°C et 14°C et 100% de probabilité de pluie. Mais un vrai athlète ne recule devant rien ! Équipez-vous d'une veste imperméable légère et de chaussures adaptées. L'indice UV de 5.3 est modéré, mais par précaution, un peu de crème solaire et une casquette vous protégeront efficacement. L'heure idéale ? Entre 07:00 et 08:00, ou en fin d'après-midi, vers 17:00-18:00. Quelle que soit l'heure, transformez cette pluie en une opportunité de renforcer votre mental ! Chaque goutte est une motivation supplémentaire. En avant !",
+  "global_summary": "L'actualité de ce jour est marquée par une recrudescence des tensions géopolitiques mondiales, notamment l'intensification de la rivalité entre les États-Unis et la Chine, qui se manifeste par des enjeux territoriaux sensibles et une compétition acharnée pour la suprématie en intelligence artificielle. Le Proche-Orient reste un foyer de conflit avec des frappes meurtrières signalées au Liban. Ces événements dessinent un tableau d'un monde en pleine reconfiguration stratégique et technologique.\nSur le front national et sectoriel, l'économie française est impactée par la hausse des carburants, forçant des millions de ménages à revoir leurs plans de vacances. Le secteur technologique voit Netflix innover avec de nouvelles offres publicitaires et Tesla franchir une étape clé en conduite autonome, tandis que le sport célèbre des performances exceptionnelles comme celles de Wembanyama en NBA et de Duplantis en athlétisme, tout en étant confronté à des scandales éthiques qui rappellent l'importance de l'intégrité.",
+  "running_advice": "Aujourd'hui, Saint Matthias, le ciel nous offre un défi de taille pour votre séance de running ! Avec une pluie quasi certaine à 100% et des températures oscillant entre 9.9°C et 14°C, ce n'est pas la météo idéale pour une course en plein air. Cependant, un vrai champion ne recule jamais devant un peu d'eau ! Si vous décidez de braver la pluie, l'heure idéale pour courir serait entre 10h et 16h, afin de profiter des températures les plus clémentes de la journée. Malgré la pluie, l'indice UV est de 5.3, donc n'oubliez pas une protection solaire pour votre visage et toute peau exposée, et bien sûr, un bon imperméable et des vêtements techniques pour rester au sec. Allez, enfilez vos chaussures, chaque goutte de pluie est une goutte de motivation en plus !",
   "weather_string": "🌧️ Pluie (9.9°C / 14°C)",
   "weather_stats": {
     "temp": "14°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Chine aux USA: terres agricoles près des sites militaires",
-          "summary": "La présence d'entreprises chinoises près de sites militaires américains soulève des questions stratégiques.",
+          "title": "Chine s'implante aux USA, inquiétudes militaires",
+          "summary": "Des entreprises chinoises acquièrent des terres proches de sites militaires américains, soulevant des préoccupations sécuritaires.",
           "url": "https://www.franceinfo.fr/monde/usa/sur-les-terres-agricoles-aux-etats-unis-les-entreprises-chinoises-tres-presentes-aux-abords-des-sites-militaires_8002376.html",
           "image": "https://www.franceinfo.fr/pictures/7cMLniXUl51wnxWDg5GvpCxSsEo/1200x675/2026/05/13/6a04d59180701200906260.png"
         },
         {
-          "title": "USA-Chine: Bataille féroce pour l'IA et les robots",
-          "summary": "La course à la domination technologique entre les deux superpuissances s'intensifie.",
+          "title": "IA et robots: la bataille US-Chine s'intensifie",
+          "summary": "La course à la suprématie en intelligence artificielle et robotique est au cœur d'une rivalité accrue entre Washington et Pékin.",
           "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/entre-les-etats-unis-et-la-chine-la-bataille-pour-l-ia-et-les-robots-fait-rage_8002397.html",
           "image": "https://www.franceinfo.fr/pictures/WPIXelzLHB7MMVp13PBDp1k5K3c/1200x675/2026/05/13/6a04d9ccb0067424179562.jpg"
         },
         {
           "title": "Proche-Orient: 12 morts au Liban après frappes israéliennes",
-          "summary": "L'escalade des tensions tragiques continue avec de nouvelles frappes mortelles.",
+          "summary": "De nouvelles frappes israéliennes au Liban ont causé la mort de douze personnes, intensifiant les tensions régionales.",
           "url": "https://www.franceinfo.fr/monde/proche-orient/guerre/guerre-au-proche-orient-les-frappes-israelienne-font-12-morts-au-liban-annonce-le-ministere-de-la-sante_8002235.html",
           "image": "https://www.franceinfo.fr/pictures/UqD2lkq3taofir-xdEW-k0MFiL0/1200x675/2026/05/13/6a04da5720b34213529980.jpg"
         }
@@ -39,69 +39,69 @@
       "articles": [
         {
           "title": "Le Mans FC célèbre sa montée en Ligue 1",
-          "summary": "L'équipe du Mans est à l'honneur après son accession tant attendue à la Ligue 1.",
+          "summary": "L'équipe du Mans FC est célébrée à la mairie après sa promotion historique en Ligue 1, une fierté locale.",
           "url": "https://actu.fr/pays-de-la-loire/le-mans_72181/montee-en-ligue-1-toute-lequipe-du-mans-fc-a-lhonneur-a-la-mairie-et-une-pensee-pour-jean-claude-boulard_64266547.html",
           "image": "https://static.actu.fr/uploads/2026/05/2463bb9ad40a63863bb9ad40a0c63bv.jpeg"
         },
         {
-          "title": "Prix carburants: l'impact sur les vacances des Français",
-          "summary": "La hausse des carburants modifie les projets de vacances de six Français sur dix.",
+          "title": "Vidéoverbalisations : le bilan à Elbeuf",
+          "summary": "Un an après leur mise en place, les caméras ont généré un nombre important de contraventions à distance à Elbeuf.",
+          "url": "https://actu.fr/normandie/elbeuf_76231/videoverbalisations-en-un-an-combien-de-contraventions-a-distance-ont-ete-dressees-a-elbeuf_64260196.html",
+          "image": "https://static.actu.fr/uploads/2026/05/cb20c7b5810a62e20c7b5810a1230cv.jpg"
+        },
+        {
+          "title": "Carburant cher: les vacances des Français impactées",
+          "summary": "Six Français sur dix ont déjà modifié leurs projets de vacances face à la hausse persistante des prix du carburant.",
           "url": "https://www.bfmtv.com/economie/video-hausse-du-prix-des-carburants-six-francais-sur-dix-ont-deja-modifie-leurs-projets-de-vacances-selon-un-sondage-elabe_VN-202605130882.html",
           "image": "https://images.bfmtv.com/3G_me-KOzBK5JJYLXLeTK91I1yQ=/0x0:1280x720/1280x0/images/Hausse-du-prix-des-carburants-six-Francais-sur-dix-ont-deja-modifie-leurs-projets-de-vacances-selon-un-sondage-Elabe-2285710.jpg"
-        },
-        {
-          "title": "Déchets: le Smictom d'Amboise face à des défis persistants",
-          "summary": "Le changement de direction n'a pas résolu les problèmes de gestion des déchets.",
-          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/athee-sur-cher/dechets-le-smictom-d-amboise-change-de-tete-pas-de-problemes-1778704036",
-          "image": "https://images.lanouvellerepublique.fr/image/upload/6a04dea286c09921308b45ce"
         }
       ]
     },
     {
-      "label": "Tech",
-      "emoji": "💻",
+      "label": "Technologie",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "Tesla Model Y: Étape historique pour la conduite autonome",
-          "summary": "La Tesla Model Y franchit un cap mondial majeur dans l'autonomie.",
-          "url": "https://www.journaldugeek.com/2026/05/14/la-tesla-model-y-franchit-une-etape-historique-mondiale-pour-la-conduite-autonome/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/Model-Y-Standard-Hero-Desktop-EMEA-Black-1280x626.jpg"
-        },
-        {
-          "title": "\"Dis Robert\": Le dictionnaire lance son assistant IA",
-          "summary": "Le Robert intègre l'IA pour améliorer la maîtrise de la langue française.",
-          "url": "https://www.journaldugeek.com/2026/05/14/dis-robert-le-dico-robert-lance-un-assistant-ia-pour-mieux-parler-francais/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/dictionnaire-IA-1280x853.jpg"
-        },
-        {
-          "title": "L'avion solaire Solar Impulse 2 s'écrase en mer",
-          "summary": "L'ancien appareil de Bertrand Piccard a connu un crash inattendu en mer.",
-          "url": "https://www.sudouest.fr/sciences-et-technologie/l-ancien-avion-solaire-solar-impulse-2-de-bertrand-piccard-s-ecrase-en-mer-29059045.php",
-          "image": null
-        }
-      ]
-    },
-    {
-      "label": "Business",
-      "emoji": "📈",
-      "articles": [
-        {
-          "title": "Netflix Belgique lance une offre avec pub",
-          "summary": "Netflix suit Amazon Prime en introduisant un abonnement avec publicité en Belgique.",
+          "title": "Netflix lance une offre avec pub en Belgique",
+          "summary": "Après Amazon Prime, Netflix introduit un abonnement avec publicité en Belgique, une nouvelle stratégie de monétisation.",
           "url": "https://www.lecho.be/entreprises/medias-divertissement/apres-amazon-prime-netflix-annonce-une-offre-avec-pub-en-belgique/10660427.html",
           "image": "https://images.lecho.be/view?iid=Elvis:CokfHWi7qPKA3G2sSNURZ-&context=ONLINE&ratio=16/9&width=640&u=1778704027000"
         },
         {
-          "title": "eBay rejette l'offre de GameStop à 56 milliards $",
-          "summary": "eBay juge l'offre de rachat de GameStop de 56 milliards de dollars non crédible et peu attrayante.",
+          "title": "Tesla Model Y: avancée majeure en conduite autonome",
+          "summary": "La Tesla Model Y atteint un jalon mondial significatif pour l'intégration et la performance de sa conduite autonome.",
+          "url": "https://www.journaldugeek.com/2026/05/14/la-tesla-model-y-franchit-une-etape-historique-mondiale-pour-la-conduite-autonome/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/Model-Y-Standard-Hero-Desktop-EMEA-Black-1280x626.jpg"
+        },
+        {
+          "title": "Le Robert lance son assistant IA pour le français",
+          "summary": "Le célèbre dictionnaire \"Le Robert\" innove en proposant un assistant basé sur l'IA pour améliorer la pratique du français.",
+          "url": "https://www.journaldugeek.com/2026/05/14/dis-robert-le-dico-robert-lance-un-assistant-ia-pour-mieux-parler-francais/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/dictionnaire-IA-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "eBay rejette l'offre de rachat de GameStop",
+          "summary": "eBay a fermement refusé l'offre de rachat de 56 milliards de dollars de GameStop, jugeant l'offre non crédible.",
           "url": "https://jeux.developpez.com/actu/383189/eBay-rejette-l-offre-de-rachat-a-56-milliards-de-GameStop-la-qualifiant-de-ni-credible-ni-attrayante-en-invoquant-des-incertitudes-financieres-et-des-inquietudes-concernant-la-gouvernance-de-GameStop/",
           "image": "https://www.developpez.com/images/logos/jeux.png"
         },
         {
-          "title": "Kylotonn: 84 emplois menacés dans le jeu vidéo",
-          "summary": "Le studio de jeux Kylotonn, filiale de Nacon, fait face à une vague de suppressions d'emplois.",
+          "title": "Kylotonn : 84 emplois menacés dans le jeu vidéo",
+          "summary": "Le studio de jeux vidéo Kylotonn, filiale de Nacon, annonce la menace sur quatre-vingt-quatre emplois. Une situation critique.",
           "url": "https://www.lemonde.fr/pixels/article/2026/05/13/quatre-vingt-quatre-emplois-menaces-au-sein-du-studio-de-jeux-video-kylotonn-filiale-de-nacon_6688756_4408996.html",
           "image": "https://img.lemde.fr/2026/05/13/60/0/1920/960/644/322/60/0/a208c02_upload-1-p2ag45pv500e-ss-51183be29035f26c5f4c7d1705e41ba7dc529039-1920x1080.jpg"
+        },
+        {
+          "title": "Déchets Smictom Amboise: une nouvelle direction",
+          "summary": "Le Smictom d’Amboise change de direction, mais les défis liés à la gestion des déchets persistent localement.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/athee-sur-cher/dechets-le-smictom-d-amboise-change-de-tete-pas-de-problemes-1778704036",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a04dea286c09921308b45ce"
         }
       ]
     },
@@ -110,21 +110,21 @@
       "emoji": "🏆",
       "articles": [
         {
-          "title": "Wembanyama domine Gobert en NBA avec les Spurs",
-          "summary": "Wembanyama réalise une performance spectaculaire contre Gobert, menant les Spurs à la victoire.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-tour-sur-lui-meme-feinte-de-tir-wembanyama-fait-danser-gobert-lors-de-la-victoire-des-spurs-contre-les-wolves_AN-202605130387.html",
-          "image": "https://images.bfmtv.com/pqF_7jNKyDKp8ybvRovZsb-wxKA=/4x397:1364x1162/800x0/images/Victor-Wembanyama-et-Rudgy-Gobert-lors-de-San-Antonio-Minnesota-le-12-mai-2026-en-NBA-2285296.jpg"
+          "title": "NBA: Wembanyama enflamme les playoffs !",
+          "summary": "Victor Wembanyama domine et rapproche les Spurs d'une finale de conférence, éblouissant face à Gobert.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-montre-les-muscles-san-antonio-a-un-match-de-la-finale-de-conference_AN-202605130066.html",
+          "image": "https://images.bfmtv.com/74De9SBcEtfAOu0y0OluuGWdCoo=/0x167:2048x1319/800x0/images/Victor-Wembanyama-celebre-devant-Rudy-Gobert-lors-de-la-victoire-de-San-Antonio-contre-Minnesota-126-97-le-12-mai-2026-2285117.jpg"
         },
         {
           "title": "Duplantis vise un nouveau record mondial à la perche",
-          "summary": "Armand Duplantis se confie sur ses ambitions de battre son propre record du monde.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/video-un-nouveau-record-du-monde-de-saut-a-la-perche-armand-duplantis-dit-tout-dans-le-super-moscato-show_VN-202605070619.html",
-          "image": "https://images.bfmtv.com/SDwnZKGApBQXfBgy_P3KbgJ30kc=/0x0:1280x720/800x0/images/Un-nouveau-record-du-monde-de-saut-a-la-perche-Armand-Duplantis-dit-tout-dans-le-Super-Moscato-Show-2282507.jpg"
+          "summary": "Armand Duplantis se confie sur son objectif de battre le record du monde de saut à la perche au Meeting Herculis.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
+          "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
         },
         {
-          "title": "Scandale au CNOSF: un ancien responsable piégé",
-          "summary": "Un ancien responsable du CNOSF a été mis en garde à vue, ébranlant le monde sportif.",
-          "url": "https://rmcsport.bfmtv.com/societe/garde-a-vue-perquisition-du-domicile-dominique-bouvet-ancien-responsable-du-cnosf-piege-par-un-chasseur-de-pedophiles-s-est-rendu-a-la-police_AN-202605130704.html",
+          "title": "Scandale pédophilie: effroi au CNOSF",
+          "summary": "Un ancien responsable olympique piégé par un chasseur de pédocriminels provoque l'effroi au sein du CNOSF.",
+          "url": "https://rmcsport.bfmtv.com/societe/un-ancien-responsable-de-comite-departemental-olympique-tombe-dans-un-piege-a-pedophiles-effroi-au-cnosf_AN-202605120822.html",
           "image": "https://images.bfmtv.com/0ml4bTSUuyqPXb8OCyHdJwvblNY=/0x106:2048x1258/800x0/images/CNOSF-2074510.jpg"
         }
       ]
