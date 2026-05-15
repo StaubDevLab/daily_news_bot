@@ -1,0 +1,127 @@
+{
+  "ephemeride": "Sainte Denise",
+  "global_summary": "La scène internationale est marquée par la visite contrastée de Donald Trump en Chine, entre protocole fastueux et tensions diplomatiques sous-jacentes. En France, les préoccupations sociétales demeurent vives, comme en témoigne le projet de transfert des orques de Marineland et le témoignage poignant d'une étudiante sous OQTF à Bordeaux.\n\nSur le front sportif, l'actualité est à la fois exaltante, avec un Victor Wembanyama en pleine ascension en NBA et les ambitions de record mondial d'Armand Duplantis, mais aussi entachée par des affaires graves au sein des institutions sportives. Le monde de la technologie poursuit ses avancées discrètes tandis que les enjeux fiscaux se précisent pour les particuliers en 2026.",
+  "running_advice": "Attention, champion ! Aujourd'hui, la motivation sera votre meilleur équipement face à une météo exigeante : 🌧️ Pluie annoncée à 100%, avec des températures oscillant entre 8.5°C et 16.4°C. C'est une journée parfaite pour tester votre résilience et vous sentir vivant!\n\nPour un run optimal, privilégiez le début de journée, juste après le lever du soleil à 06h33, ou la fin d'après-midi avant le coucher à 21h24. Équipez-vous d'une tenue imperméable et de chaussures adaptées. Et même sous les nuages, l'indice UV est élevé (6.95) : une protection solaire résistante à l'eau est indispensable pour protéger votre peau. Chaque goutte de pluie est une dose de détermination supplémentaire ! ",
+  "weather_string": "🌧️ Pluie (8.5°C / 16.4°C)",
+  "weather_stats": {
+    "temp": "16.4°C",
+    "rain": "100%",
+    "uv": "6.95"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump en Chine: tapis rouge et pression diplomatique",
+          "summary": "Donald Trump a effectué une visite complexe en Chine, entre accueil fastueux et signaux politiques clairs.",
+          "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-en-chine-entre-tapis-rouge-et-coup-de-pression-dissimule_8004413.html",
+          "image": "https://www.franceinfo.fr/pictures/UqLz3DDb7C3k-VM1fTbM8iv92FY/1200x675/2026/05/14/6a062061d21d3520085436.png"
+        },
+        {
+          "title": "OQTF à Bordeaux: le cri d'une étudiante en détresse",
+          "summary": "Une étudiante sous OQTF à Bordeaux témoigne de sa situation précaire, privée de droits et d'aide.",
+          "url": "https://www.revolutionpermanente.fr/Bordeaux-Je-n-ai-ni-le-droit-de-travailler-ni-d-etre-aidee-une-etudiante-sous-OQTF-temoigne",
+          "image": "https://www.revolutionpermanente.fr/IMG/logo/img_1167-1.jpg"
+        },
+        {
+          "title": "JO: La Biélorussie libérée des restrictions du CIO",
+          "summary": "Le CIO lève les restrictions imposées à la Biélorussie, précédemment liées à la guerre en Ukraine.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-olympiques-la-bielorussie-n-est-plus-visee-par-les-restrictions-du-cio-liees-a-la-guerre-en-ukraine_AD-202605070647.html",
+          "image": "https://images.bfmtv.com/zeDahaLuzAU7hX6ScCPK1cUZLJ8=/0x0:2048x1152/800x0/images/Le-drapeau-olympique-a-Albertville-le-23-fevrier-2026-2282522.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Orques de Marineland: La France veut un départ rapide",
+          "summary": "La France accélère le dossier des orques d'Antibes, poussant à leur transfert rapide vers l'Espagne.",
+          "url": "https://www.20minutes.fr/societe/4223579-20260514-marineland-france-veut-rapidement-envoyer-espagne-orques-antibes",
+          "image": "https://img.20mn.fr/d2yJgGW_RduH34lYYU2PACk/1444x920_spectacle-d-orques-au-marineland-d-antibes-les-orques-de-marineland-n-iront-pas-au-japon-photos-de-stock-photos-prises-le-5-octobre-2011-francoisgloriescom-sipa-69640-credit-fbm-sipa-2412041747"
+        },
+        {
+          "title": "Mondial 2026: Deschamps dévoile une liste sobre",
+          "summary": "Didier Deschamps a présenté une sélection sans surprise pour le Mondial 2026, misant sur la sobriété.",
+          "url": "https://www.la-croix.com/societe/mondial-2026-didier-deschamps-une-derniere-liste-tout-en-sobriete-20260514",
+          "image": "https://i.la-croix.com/x/smart/2026/05/14/2436225-le-selectionneur-de-l-equipe-de-france-didier-desc.jpg"
+        },
+        {
+          "title": "Macron: le compte à rebours est lancé pour la politique",
+          "summary": "Un éditorial souligne le début du compte à rebours pour Emmanuel Macron face aux défis politiques nationaux.",
+          "url": "https://www.charentelibre.fr/editorial/pour-macron-le-compte-a-rebours-est-lance-l-editorial-de-cl-29070122.php",
+          "image": "https://media.charentelibre.fr/29070122/1200x600/000-b29f6bu.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Sony Xperia 1 VIII: buzz ou fausse note sur X?",
+          "summary": "Le dernier post X sur le Sony Xperia 1 VIII interroge: coup marketing brillant ou erreur de communication?",
+          "url": "https://www.frandroid.com/marques/sony/3099351_sony-xperia-1-viii-ce-post-x-est-il-une-bourde-ou-un-coup-de-genie",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/05/image-29-1.jpg?resize=1600,900&key=8ce20a64&watermark"
+        },
+        {
+          "title": "Intel et Apple: la production test a démarré",
+          "summary": "Des rumeurs indiquent qu'Intel aurait déjà débuté la production de puces test pour Apple.",
+          "url": "https://www.macg.co/aapl/2026/05/intel-aurait-deja-commence-la-production-test-pour-apple-308591",
+          "image": "https://cdn.mgig.fr/2026/05/mga-65e610c4-w375-w1500-w750_accroche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Photronics nomme son nouveau directeur financier",
+          "summary": "Christopher Dayton est nommé Directeur Financier de Photronics, une annonce clé pour l'entreprise.",
+          "url": "https://fr.investing.com/news/company-news/photronics-nomme-christopher-dayton-au-poste-de-directeur-financier-93CH-3418736",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEB280W7_L.jpg"
+        },
+        {
+          "title": "McEwen Copper: la Société Générale finance Los Azules",
+          "summary": "McEwen Copper a mandaté la Société Générale pour assurer le financement de son projet minier Los Azules.",
+          "url": "https://fr.investing.com/news/company-news/mcewen-copper-mandate-societe-generale-pour-le-financement-de-los-azules-93CH-3418738",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q0MJ_L.jpg"
+        },
+        {
+          "title": "Impôts 2026: le fisc vise de nouvelles cibles immobilières",
+          "summary": "Après piscines et garages, le fisc s'intéresse à de nouvelles structures immobilières pour l'imposition 2026.",
+          "url": "https://www.journaldugeek.com/2026/05/15/impots-2026-apres-les-piscines-et-les-garages-voici-la-nouvelle-cible-du-fisc/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/taxe-impots-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA: Wembanyama en furie, San Antonio près de la finale",
+          "summary": "Victor Wembanyama impressionne, propulsant San Antonio à un match de la finale de conférence NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-montre-les-muscles-san-antonio-a-un-match-de-la-finale-de-conference_AN-202605130066.html",
+          "image": "https://images.bfmtv.com/74De9SBcEtfAOu0y0OluuGWdCoo=/0x167:2048x1319/800x0/images/Victor-Wembanyama-celebre-devant-Rudy-Gobert-lors-de-la-victoire-de-San-Antonio-contre-Minnesota-126-97-le-12-mai-2026-2285117.jpg"
+        },
+        {
+          "title": "Duplantis vise le record du monde au Meeting Herculis",
+          "summary": "Armand Duplantis se confie sur son objectif clair: battre le record mondial de saut à la perche à Herculis.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
+          "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
+        },
+        {
+          "title": "CNOSF: ancien responsable mis en examen après un piège",
+          "summary": "Un ex-responsable du CNOSF a été mis en examen et incarcéré, piégé par un «chasseur de pédocriminels».",
+          "url": "https://rmcsport.bfmtv.com/societe/l-ancien-responsable-du-cnosf-piege-par-un-chasseur-de-pedocriminels-mis-en-examen-et-place-en-detention-provisoire_AV-202605140604.html",
+          "image": "https://images.bfmtv.com/qjAueEB7a4guQIMGokYveTfoj4M=/0x26:512x314/800x0/images/-180057.jpg"
+        }
+      ]
+    }
+  ]
+}
