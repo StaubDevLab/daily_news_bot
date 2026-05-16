@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Honoré",
-  "global_summary": "L'actualité de ce jour dresse le portrait d'un monde en pleine effervescence, où la diplomatie de haut niveau entre les géants comme les États-Unis et la Chine dicte une partie de l'agenda économique global, avec des enjeux majeurs pour l'aéronautique. Le secteur de la tech n'est pas en reste, bousculé par les avancées de l'intelligence artificielle et l'ambition spatiale d'entreprises innovantes. Sur le plan national, la France navigue entre des faits divers surprenants et des moments d'émotion partagée. \n\nLe sport nous offre des performances exceptionnelles, avec des talents français qui brillent sur la scène internationale du basketball et de l'athlétisme, promettant de nouveaux records. Mais au-delà des exploits, le monde sportif est aussi confronté à des décisions politiques complexes, des scandales éthiques et des défis d'inclusion, prouvant que chaque victoire est aussi le reflet d'une persévérance face aux obstacles.",
-  "running_advice": "Alors, prêt à transpirer ? Avec des températures douces entre 9.1°C et 16.5°C et un ciel peu nuageux, c'est une excellente journée pour chausser vos baskets ! La probabilité de pluie est de 48%, alors un imperméable léger pourrait être votre meilleur allié. Pour un run optimal, visez tôt le matin, juste après le lever du soleil à 06h32, pour profiter de la fraîcheur et d'une belle lumière. Si vous préférez l'après-midi, partez avant 18h. Mais attention, l'indice UV est de 5.4 : n'oubliez pas votre crème solaire et une casquette pour protéger votre peau ! C'est le moment de vous dépasser, la journée vous attend !",
+  "global_summary": "La scène mondiale est marquée par des enjeux diplomatiques et économiques majeurs, notamment autour des relations entre Donald Trump et Xi Jinping, avec des répercussions sur des secteurs clés comme l'aviation. En France, l'actualité oscille entre des événements insolites, comme la traque d'un cobra en liberté, et des faits plus graves, incluant une enquête internationale du FBI pour une ex-espionne. \n\nSur le plan technologique, l'IA continue son incursion dans nos vies, soulevant des questions d'intimité, tandis que le monde des affaires et du divertissement évolue à grande vitesse. Côté sport, les exploits s'enchaînent avec des performances NBA exceptionnelles et des records ambitieux, mais aussi des révélations plus sombres touchant à la gouvernance sportive.",
+  "running_advice": "Préparez-vous à une session énergique ! Aujourd'hui, avec des températures agréables (9.1°C à 16.5°C) et un ciel peu nuageux, c'est une excellente journée pour chausser vos baskets. Le risque de pluie de 48% ? Considérez-le comme un rafraîchissement potentiel, rien n'arrête les guerriers ! Votre créneau idéal pour courir sera en fin d'après-midi, entre 17h et 19h, profitant d'une douce lumière. Attention, l'indice UV est de 5.4 : appliquez une crème solaire et protégez vos yeux. Allez, on respire un grand coup et on va chercher cette victoire personnelle !",
   "weather_string": "🌤️ Peu nuageux (9.1°C / 16.5°C)",
   "weather_stats": {
     "temp": "16.5°C",
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Trump-Xi : Un sommet riche en enjeux",
-          "summary": "Donald Trump et Xi Jinping se sont rencontrés, abordant des sujets clés pour l'équilibre des pouvoirs mondiaux et les relations bilatérales.",
+          "title": "Trump et Xi Jinping : points clés de leur rencontre",
+          "summary": "La rencontre entre les deux dirigeants a abordé des sujets économiques et géopolitiques cruciaux, redéfinissant les équilibres mondiaux.",
           "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/ce-qu-il-faut-retenir-de-la-rencontre-donald-trump-xi-jinping_8006372.html",
           "image": "https://www.franceinfo.fr/pictures/iWpFPrqkOgxCksuZLdHYmTyBv_c/fit-in/1200x675/filters:upscale():fill(black)/2026/05/15/6a075255361f4179446397.jpg"
         },
         {
-          "title": "Chine-USA : Pékin, 'tour de force' diplomatique",
-          "summary": "Un expert analyse le rééquilibrage des rapports entre la Chine et les États-Unis comme une prouesse stratégique majeure de Pékin.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260515-marc-julienne-le-r%C3%A9%C3%A9quilibrage-du-rapport-avec-les-etats-unis-c-est-un-tour-de-force-de-la-chine",
-          "image": "https://s.france24.com/media/display/56b9a492-508e-11f1-908f-005056bf30b7/w:1280/p:16x9/Francais-2026-05-15T18-03-18-461Z.jpg"
-        },
-        {
-          "title": "Boeing en Chine : Retards malgré les commandes",
-          "summary": "L'annonce de 200 avions par Trump cache les retards de Boeing en Chine, signe des défis économiques persistants.",
+          "title": "Boeing face aux retards chinois après annonce Trump",
+          "summary": "Malgré une commande d'avions annoncée par Trump, Boeing subit d'importants retards de livraison en Chine, reflet de tensions.",
           "url": "https://www.lemonde.fr/economie/article/2026/05/15/derriere-l-annonce-par-donald-trump-d-une-commande-de-200-avions-les-retards-de-boeing-en-chine_6689494_3234.html",
           "image": "https://img.lemde.fr/2026/05/15/377/0/3000/1500/644/322/60/0/de06b75_upload-1-kxe6gyt2mrxd-000-b2cl7ac.jpg"
+        },
+        {
+          "title": "Chine-USA : un rééquilibrage stratégique en cours",
+          "summary": "Un expert analyse le \"tour de force\" de la Chine pour rééquilibrer ses relations avec les États-Unis.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260515-marc-julienne-le-r%C3%A9%C3%A9quilibrage-du-rapport-avec-les-etats-unis-c-est-un-tour-de-force-de-la-chine",
+          "image": "https://s.france24.com/media/display/56b9a492-508e-11f1-908f-005056bf30b7/w:1280/p:16x9/Francais-2026-05-15T18-03-18-461Z.jpg"
         }
       ]
     },
@@ -38,20 +38,20 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "FBI : Prime de 200 000 $ pour espionne",
-          "summary": "Le FBI offre une récompense record pour toute information menant à l'arrestation d'une ancienne espionne, déclenchant une chasse mondiale.",
+          "title": "Chasse à l'ex-espionne : le FBI offre 200 000 dollars",
+          "summary": "Une ex-espionne est activement recherchée par le FBI, qui promet une récompense pour toute information menant à son arrestation.",
           "url": "https://www.lefigaro.fr/international/le-fbi-promet-200-000-dollars-pour-toute-information-permettant-l-arrestation-d-une-ex-espionne-20260515",
           "image": "https://i.f1g.fr/media/cms/1875x1055_crop/2026/05/15/18404722f0cca06157203b1cdc676b067ee6f804840fc1afb1d9292f5e290b08.png"
         },
         {
-          "title": "Cobra en fuite : Drone et vigilance à Toulouse",
-          "summary": "Un cobra en liberté près de Toulouse est toujours recherché, mobilisant drones et citoyens pour une vigilance accrue.",
+          "title": "Cobra en liberté près de Toulouse : la traque continue",
+          "summary": "Le cobra échappé près de Toulouse a été revu, les recherches s'intensifient avec l'aide de drones. Vigilance de mise.",
           "url": "https://www.rtl.fr/actu/justice-faits-divers/nous-comptons-sur-votre-plus-grande-vigilance-le-cobra-en-liberte-pres-de-toulouse-a-de-nouveau-ete-apercu-les-recherches-se-poursuivent-avec-des-drones-7900635400",
           "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1838450-un-cobra-royal-illustration.jpg"
         },
         {
-          "title": "The Voice : Pagny ému, talent bouleversant",
-          "summary": "Une prestation émotionnelle a bouleversé Florent Pagny et les coachs de The Voice, marquant les esprits du public.",
+          "title": "Émotion intense à The Voice : un talent bouleverse tout",
+          "summary": "Une prestation incroyable a ému aux larmes Florent Pagny et les coachs de The Voice, marquant la soirée.",
           "url": "https://www.ozap.com/actu/lui-il-tarrache-les-larmes-florent-pagny-et-les-coachs-de-the-voice-bouleverses-par-la-prestation-dun-talent/655112",
           "image": "https://static1.ozap.com/uploads/27/e8/55/22/b24788497b281e48-1200x0-1.jpg"
         }
@@ -59,23 +59,23 @@
     },
     {
       "label": "Tech",
-      "emoji": "💻",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "ChatGPT : Accès bancaire, l'IA inquiète",
-          "summary": "ChatGPT pourrait bientôt accéder à nos comptes bancaires, soulevant des questions d'intrusion et de sécurité des données personnelles.",
+          "title": "ChatGPT accède aux comptes bancaires : IA toujours plus intrusive",
+          "summary": "ChatGPT pourrait bientôt accéder à vos données bancaires, soulevant des questions majeures sur la vie privée et l'IA.",
           "url": "https://www.lesnumeriques.com/intelligence-artificielle/chatgpt-pourra-acceder-a-votre-compte-bancaire-l-ia-devient-de-plus-en-plus-intrusive-n256010.html",
           "image": "https://cdn.lesnumeriques.com/optim/news/25/256010/88c8a248-chatgpt-pourra-acceder-a-votre-compte-bancaire-l-ia-devient-de-plus-en-plus-intrusive__800_800__484-0-1884-1400.jpg"
         },
         {
-          "title": "SpaceX : IPO imminente le 11 juin",
-          "summary": "Le géant de l'aérospatiale SpaceX, d'Elon Musk, prépare son entrée en bourse, prévue dès le 11 juin.",
+          "title": "SpaceX vise une IPO majeure le 11 juin",
+          "summary": "Le géant de l'aérospatial SpaceX pourrait lancer son introduction en bourse dès le 11 juin, un événement attendu.",
           "url": "https://www.lecho.be/entreprises/tech-science/spacex-voudrait-lancer-son-ipo-des-le-11-juin/10660688.html",
           "image": "https://images.lecho.be/view?iid=Elvis:3-D2Sx1L4wH9ID9e_ID-Rx&context=ONLINE&ratio=16/9&width=640&u=1778873461000"
         },
         {
-          "title": "Instagram lance 'Instants' : Nouvelle fonction",
-          "summary": "Instagram déploie 'Instants', une nouvelle fonctionnalité visible dans les DM, cherchant à redynamiser l'interaction.",
+          "title": "Instagram lance Instants, une nouvelle fonctionnalité éphémère",
+          "summary": "Instagram déploie \"Instants\" dans les DM, une nouveauté pour partager des moments spontanés entre amis.",
           "url": "https://actu.fr/sciences-technologie/instagram-lance-instants-comment-fonctionne-cette-enieme-nouveaute-visible-dans-les-dm_64268461.html",
           "image": "https://static.actu.fr/uploads/2026/05/instants-insta-1.png"
         }
@@ -86,20 +86,20 @@
       "emoji": "📈",
       "articles": [
         {
-          "title": "Magne ! Nouveau service de livraison à vélo",
-          "summary": "'Magne !', un innovant service de livraison à vélo, se lance dans l'Ouest-Var, promettant rapidité et écologie locale.",
+          "title": "Magne ! : un nouveau service de livraison à vélo",
+          "summary": "Un service de livraison à vélo innovant, \"Magne !\", se lance dans l'Ouest-Var, dynamisant l'économie locale.",
           "url": "https://www.nicematin.com/economie/commerce/magne-le-nouveau-service-de-livraison-a-velo-debarque-dans-l-ouest-var-10680801",
           "image": "https://assets.nicematin.com/articles/10/68/08/01/OG-10680801-1200-800-2b2e3e2_ftp-1-xalbujgzj4ye-seyxxq105-dr-coursier-a-velo-ouest-var-magne.jpg"
         },
         {
-          "title": "Collecte de laine de mouton en Haute-Loire",
-          "summary": "Une initiative de collecte de laine de mouton est organisée en Haute-Loire, valorisant l'économie circulaire locale.",
+          "title": "Collecte de laine en Haute-Loire : initiative locale",
+          "summary": "Plusieurs communes de Haute-Loire organisent une collecte de laine de mouton, valorisant l'économie circulaire rurale.",
           "url": "https://www.leprogres.fr/economie/2026/05/15/une-collecte-de-laine-de-mouton-prevue-a-yssingeaux-saint-paulien-landos-et-brioude",
           "image": "https://cdn-s-www.leprogres.fr/images/BE1003AC-2173-4C9E-929B-1CBD8465565D/NW_listB/une-collecte-de-laine-de-mouton-prevue-a-yssingeaux-saint-paulien-landos-et-brioude-1778874062.jpg"
         },
         {
-          "title": "Immobilier Vire : Honoraires réduits avec En Aparté",
-          "summary": "L'agence immobilière 'En Aparté' à Vire Normandie propose des honoraires réduits, une aubaine pour les transactions locales.",
+          "title": "Vire Normandie : En Aparté réduit les honoraires immobiliers",
+          "summary": "Une nouvelle agence immobilière à Vire Normandie propose des honoraires réduits, bousculant le marché local.",
           "url": "https://actu.fr/normandie/vire-normandie_14762/agence-immobiliere-a-vire-normandie-avec-en-aparte-les-honoraires-sont-reduits_64268386.html",
           "image": "https://static.actu.fr/uploads/2026/05/79920705130a67d920705130a41a20v.jpg"
         }
@@ -110,16 +110,22 @@
       "emoji": "📍",
       "articles": [
         {
-          "title": "Drame en parapente sur le bassin d’Arcachon",
-          "summary": "Un tragique accident de parapente a coûté la vie à un homme sur le bassin d'Arcachon, sous le choc des témoins.",
+          "title": "Accident mortel de parapente à Arcachon",
+          "summary": "Un homme a tragiquement perdu la vie lors d'un accident de parapente sur le bassin d'Arcachon.",
           "url": "https://www.sudouest.fr/faits-divers/un-homme-decede-dans-un-accident-de-parapente-sur-le-bassin-d-arcachon-29086329.php",
-          "image": ""
+          "image": "https://www.sudouest.fr/assets/images/placeholder_square.jpg"
         },
         {
-          "title": "Agen : Menaces après le maire, la mosquée visée",
-          "summary": "Après le maire, la mosquée d'Agen reçoit des menaces de mort anonymes, attisant l'inquiétude et la vigilance locale.",
+          "title": "Menaces à Agen : la mosquée ciblée après le maire",
+          "summary": "Après le maire, la mosquée d'Agen a reçu des menaces de mort anonymes, accentuant les inquiétudes locales.",
           "url": "https://www.sudouest.fr/lot-et-garonne/agen/menaces-de-mort-a-agen-apres-le-maire-la-mosquee-visee-par-une-lettre-anonyme-29083239.php",
-          "image": ""
+          "image": "https://www.sudouest.fr/assets/images/placeholder_square.jpg"
+        },
+        {
+          "title": "Français détenu au Sénégal pour \"actes contre-nature\"",
+          "summary": "Un citoyen français est détenu au Sénégal suite au durcissement des lois réprimant les relations homosexuelles.",
+          "url": "https://www.sudouest.fr/international/senegal-un-francais-en-detention-pour-actes-contre-nature-les-relations-homosexuelles-durement-reprimees-dans-le-pays-29082806.php",
+          "image": "https://www.sudouest.fr/assets/images/placeholder_square.jpg"
         }
       ]
     },
@@ -128,20 +134,20 @@
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Netflix : Une série d'action déjà culte",
-          "summary": "À peine lancée, cette nouvelle série d'action Netflix rencontre un succès retentissant, salué par les critiques et le public.",
+          "title": "Nouvelle série Netflix : un carton d'action mérité",
+          "summary": "Une nouvelle série d'action sur Netflix captive déjà les foules, saluée comme un succès mérité.",
           "url": "https://www.journaldugeek.com/critique/a-peine-sortie-cette-serie-daction-netflix-est-deja-un-carton-merite/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/nemesis-netflix-1-1280x853.jpg"
         },
         {
-          "title": "The Boys : Durée finale, la déception ?",
-          "summary": "La durée du dernier épisode de 'The Boys' a été révélée, laissant certains fans perplexes quant à son format.",
+          "title": "The Boys : le dernier épisode sera très court",
+          "summary": "La durée du final de \"The Boys\" a été révélée, surprenant les fans par sa brièveté inattendue.",
           "url": "https://www.journaldugeek.com/2026/05/16/the-boys-on-connait-la-duree-du-dernier-episode-et-cest-tres-peu/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/final-the-boys-1280x853.jpg"
         },
         {
-          "title": "Doom : Sa musique, patrimoine culturel",
-          "summary": "La bande-son emblématique du jeu vidéo 'Doom' est désormais officiellement reconnue comme un patrimoine culturel majeur.",
+          "title": "La musique de Doom reconnue patrimoine culturel",
+          "summary": "La bande-son emblématique du jeu vidéo \"Doom\" accède à la reconnaissance officielle comme patrimoine culturel.",
           "url": "https://www.journaldugeek.com/2026/05/16/grace-a-sa-musique-doom-devient-officiellement-un-patrimoine-culturel/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/doom-1280x853.jpg"
         }
@@ -149,25 +155,25 @@
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🥇",
       "articles": [
         {
-          "title": "Wembanyama mène les Spurs en finale NBA",
-          "summary": "Victor Wembanyama et les Spurs s'imposent face aux Wolves, se qualifiant pour la finale de conférence, exploit historique.",
+          "title": "Wembanyama mène les Spurs en finale de conférence NBA",
+          "summary": "Victor Wembanyama et les Spurs éliminent les Wolves, décrochant leur place en finale de conférence, exploit historique.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-de-victor-wembanyama-viennent-au-bout-des-wolves-et-filent-en-finale-de-conference_AV-202605160099.html",
           "image": "https://images.bfmtv.com/eaGOtUft-_MsqfZodqRLf2EyQZg=/333x309:2045x1272/800x0/images/Victor-Wembanyama-lors-de-Spurs-Blazers-le-28-avril-2026-2277999.jpg"
         },
         {
-          "title": "Duplantis vise un nouveau record mondial",
-          "summary": "Armand Duplantis se confie sur son objectif de battre le record du monde de saut à la perche au Meeting Herculis.",
+          "title": "Duplantis vise le record du monde à la perche",
+          "summary": "Armand Duplantis révèle son ambition de battre le record du monde de saut à la perche au Meeting Herculis.",
           "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
           "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
         },
         {
-          "title": "JO : Biélorussie, restrictions levées",
-          "summary": "Le CIO lève les restrictions sur la Biélorussie liées à la guerre en Ukraine pour les prochains Jeux Olympiques.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jeux-olympiques-la-bielorussie-n-est-plus-visee-par-les-restrictions-du-cio-liees-a-la-guerre-en-ukraine_AD-202605070647.html",
-          "image": "https://images.bfmtv.com/zeDahaLuzAU7hX6ScCPK1cUZLJ8=/0x0:2048x1152/800x0/images/Le-drapeau-olympique-a-Albertville-le-23-fevrier-2026-2282522.jpg"
+          "title": "CNOSF : ancien responsable mis en examen après piège en ligne",
+          "summary": "Un ex-responsable du CNOSF est mis en examen et détenu après avoir été piégé par un chasseur de pédocriminels.",
+          "url": "https://rmcsport.bfmtv.com/societe/l-ancien-responsable-du-cnosf-piege-par-un-chasseur-de-pedocriminels-mis-en-examen-et-place-en-detention-provisoire_AV-202605140604.html",
+          "image": "https://images.bfmtv.com/qjAueEB7a4guQIMGokYveTfoj4M=/0x26:512x314/800x0/images/-180057.jpg"
         }
       ]
     }
