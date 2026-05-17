@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Pascal",
-  "global_summary": "L'actualité mondiale reste dense, marquée par des tensions géopolitiques notables, comme l'absence de plusieurs pays à l'Eurovision en signe de protestation, et la poursuite des affrontements au Moyen-Orient. À Londres, deux manifestations de grande ampleur et aux idéologies opposées reflètent des clivages profonds. Sur le plan national, la scène politique française s'anime avec des appels à la candidature pour la présidentielle, soulignant les enjeux des prochaines échéances.\nSur le front économique, l'inflation et les craintes d'un ralentissement pèsent, tandis que des acteurs majeurs de l'industrie comme Mercedes et Volkswagen redéfinissent leurs stratégies face aux défis mondiaux. Enfin, le monde du sport vibre avec les exploits de Victor Wembanyama en NBA et les ambitions d'Armand Duplantis de battre de nouveaux records mondiaux, promettant des performances électriques malgré les controverses en matière de gouvernance sportive.",
-  "running_advice": "Aujourd'hui, l'ambiance sera fraîche avec des températures entre 11.5°C et 17.3°C, et surtout, attendez-vous à de nombreuses averses (98% de probabilité !). L'indice UV est de 6.4, ce qui est élevé, même par temps nuageux. Ce n'est pas la journée la plus simple pour chausser vos baskets, mais c'est précisément dans ces conditions que l'on forge un mental d'acier !\nSi vous êtes déterminé(e) à courir, visez le créneau post-lever du soleil vers 7h-8h ou en fin de journée, avant le coucher à 21h27, en espérant une petite accalmie. Préparez-vous à affronter la pluie : équipez-vous d'une veste imperméable légère et d'une casquette. Surtout, ne sous-estimez pas l'indice UV : appliquez impérativement de la crème solaire et protégez vos yeux. Chaque goutte de pluie sera une goutte de motivation supplémentaire ! Allez, on lâche rien !",
+  "global_summary": "Le monde reste sous tension, avec la finale de l'Eurovision marquée par des protestations liées à la participation d'Israël, et une escalade des conflits au Moyen-Orient. À Londres, des manifestations massives et opposées témoignent de profondes divisions sociétales. Sur le front national, la scène politique française s'anime déjà en vue des prochaines présidentielles, tandis que l'économie fait face à des défis majeurs comme l'inflation et des appels à des négociations salariales urgentes.\n\nParallèlement, le secteur technologique connaît des mutations stratégiques avec Mercedes-Benz qui lorgne l'industrie de la défense et Volkswagen confronté à la concurrence chinoise, sans oublier la France, cible grandissante de cyberattaques. Le sport, lui, nous offre des moments de gloire, comme les performances de Wembanyama en NBA et l'ambition de record de Duplantis, mais est également rattrapé par des affaires éthiques avec un ancien responsable du CNOSF mis en examen.",
+  "running_advice": "Chers athlètes, aujourd'hui, la motivation est votre meilleur imperméable ! Avec des températures douces entre 11.5°C et 17.3°C, l'air sera frais, idéal pour l'effort. Cependant, attention aux averses et à 98% de probabilité de pluie : prévoyez un équipement adapté et étanche pour rester au sec. L'indice UV de 6.4 est élevé même sous les nuages, donc n'oubliez pas une crème solaire et des lunettes de soleil si vous courez avant ou après les grosses pluies. Le meilleur créneau ? Visez une sortie entre 18h00 et 19h00, après les averses les plus intenses de la journée et pour profiter de la lumière du soir. Ne laissez pas quelques gouttes freiner vos ambitions : chaque pas sous la pluie est une victoire sur la procrastination ! Enfilez vos baskets, et transformez ces défis météo en force mentale !",
   "weather_string": "🌦️ Averses (11.5°C / 17.3°C)",
   "weather_stats": {
     "temp": "17.3°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Eurovision : finale sous tensions, des pays absents",
-          "summary": "Cinq pays ont boycotté la finale de l'Eurovision, dénonçant la participation controversée d'Israël.",
+          "title": "Eurovision sous tension géopolitique",
+          "summary": "La finale de l'Eurovision est perturbée par l'absence de pays protestant contre la participation d'Israël.",
           "url": "https://www.france24.com/fr/europe/20260516-eurovision-une-finale-marqu%C3%A9e-par-l-absence-de-cinq-pays-qui-d%C3%A9noncent-la-participation-d-isra%C3%ABl",
           "image": "https://s.france24.com/media/display/e1cb81da-514d-11f1-818a-005056a90284/w:1280/p:16x9/aa12a779e942bfecebc4e88f6d4e80e395752df4.jpg"
         },
         {
-          "title": "Un soldat israélien tué au Sud-Liban",
-          "summary": "Tsahal annonce la mort d'un de ses soldats suite à une attaque de drone du Hezbollah au Sud-Liban.",
+          "title": "Escalade au Sud-Liban",
+          "summary": "Tsahal déplore la mort d'un soldat israélien suite à une attaque de drone du Hezbollah, accentuant les tensions régionales.",
           "url": "https://www.bfmtv.com/international/moyen-orient/israel/video-tsahal-annonce-la-mort-d-un-de-ses-soldats-au-sud-liban-dans-une-attaque-de-drone-du-hezbollah-tsahal-annonce-la-mort-d-un-de-ses-soldats-au-sud-liban-dans-une-attaque-de-drone-du-hezbollah_VN-202605160339.html",
           "image": "https://images.bfmtv.com/E6GRsuiYDbBjDs_s11mR-kSBWD4=/0x0:1280x720/1280x0/images/Tsahal-annonce-la-mort-d-un-de-ses-soldats-au-Sud-Liban-dans-une-attaque-de-drone-du-HezbollahTsahal-annonce-la-mort-d-un-de-ses-soldats-au-Sud-Liban-dans-une-attaque-de-drone-du-Hezbollah-2287045.jpg"
         },
         {
-          "title": "Londres : 100 000 personnes pour des marches opposées",
-          "summary": "Près de 100 000 personnes ont manifesté à Londres lors de deux marches aux messages radicalement différents.",
+          "title": "Londres divisée par marches opposées",
+          "summary": "Près de 100 000 manifestants ont défilé à Londres pour deux causes diamétralement opposées, révélant de profondes divisions.",
           "url": "https://www.lepoint.fr/monde/pres-de-100-000-personnes-dans-les-rues-de-londres-pour-deux-marches-que-tout-oppose-5TELPVO5QNA7XKNLWZQJIQ3QKE/",
           "image": "https://www.lepoint.fr/resizer/v2/2XY7WFGX6FPP5ALJGP3WDUEFI4.jpg?auth=1395711c659b22754433b44636fb2a1d09e355c97c71c57feb86053d0ca69763&smart=true&width=1200&height=900"
         }
@@ -38,136 +38,94 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Basket : SLUC Nancy solide en défense",
-          "summary": "Après leur victoire 84-71 contre Saint-Quentin, Sylvain Lautié salue la défense \"très solide\" du SLUC Nancy.",
-          "url": "https://www.estrepublicain.fr/sport/2026/05/16/apres-sluc-nancy-saint-quentin-(84-71)-sylvain-lautie-notre-defense-a-ete-tres-solide",
-          "image": "https://cdn-s-www.estrepublicain.fr/images/64BC6869-BAF1-4544-90E1-1642E51F3C5E/MF_contenu/apres-sluc-nancy-saint-quentin-(84-71)-sylvain-lautie-notre-defense-a-ete-tres-solide-1778962143.jpg"
-        },
-        {
-          "title": "Élus exhortent Attal à la présidentielle",
-          "summary": "Une tribune signée par 500 élus locaux appelle Gabriel Attal à se présenter pour la prochaine élection présidentielle.",
-          "url": "https://www.lefigaro.fr/elections/presidentielles/il-a-la-force-de-l-experience-dans-une-tribune-500-elus-locaux-exhortent-gabriel-attal-a-se-presenter-a-la-presiden ti elle-20260516",
+          "title": "Attal poussé vers la Présidentielle",
+          "summary": "500 élus locaux signent une tribune pour exhorter Gabriel Attal à se présenter à la prochaine élection présidentielle.",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/il-a-la-force-de-l-experience-dans-une-tribune-500-elus-locaux-exhortent-gabriel-attal-a-se-presenter-a-la-presidentielle-20260516",
           "image": "https://i.f1g.fr/media/cms/2472x1391_crop/2026/05/16/2fdd934e0403afdc89b2d4186838b6125ea046c725f2dc73766875cea430d559.jpg"
         },
         {
-          "title": "David Lisnard pressenti pour la présidentielle",
-          "summary": "Des soutiens se mobilisent derrière David Lisnard, laissant entendre une potentielle candidature à la présidentielle.",
+          "title": "David Lisnard candidat potentiel",
+          "summary": "Le soutien s'organise autour de David Lisnard en vue d'une éventuelle candidature à la prochaine présidentielle.",
           "url": "http://www.lardennais.fr/id806117/article/2026-05-16/derriere-david-lisnard-pour-la-presidentielle",
           "image": "https://www.lardennais.fr/sites/all/themes/enabootstrap_rem_lardennais/images/logo_lardennais.svg"
-        }
-      ]
-    },
-    {
-      "label": "Tech",
-      "emoji": "💻",
-      "articles": [
-        {
-          "title": "Mercedes-Benz explore la défense industrielle",
-          "summary": "Le constructeur automobile Mercedes-Benz n'exclut pas de diversifier ses activités dans l'industrie de la défense.",
-          "url": "https://www.capital.fr/entreprises-marches/mercedes-benz-le-constructeur-allemand-nexclut-pas-de-se-diversifier-dans-lindustrie-de-la-defense-1526622",
-          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~16~0a66ff68-cbf0-441d-8ca6-93e76edc8920.jpeg/1200x900/quality/80/mercedes-benz-le-constructeur-allemand-n-exclut-pas-de-se-diversifier-dans-l-industrie-de-la-defense.jpg"
         },
         {
-          "title": "Volkswagen pourrait céder une usine au chinois Xpeng",
-          "summary": "Un potentiel accord entre Volkswagen et Xpeng menace l'industrie automobile allemande et son leadership.",
-          "url": "https://www.lesnumeriques.com/voiture-electrique/volkswagen-pourrait-ceder-une-usine-au-chinois-xpeng-un-coup-dur-pour-l-industrie-allemande-n256037.html",
-          "image": "https://cdn.lesnumeriques.com/optim/news/25/256037/ca728901-volkswagen-pourrait-ceder-une-usine-au-chinois-xpeng-un-coup-dur-pour-l-industrie-allemande__800_800__1739-598-5769-4628.jpg"
-        },
-        {
-          "title": "La France, cible croissante des cyberattaques",
-          "summary": "Malgré sa digitalisation, la France est de plus en plus visée par des cyberattaques, alertent les experts.",
+          "title": "Cyberattaques : la France menacée",
+          "summary": "Malgré sa digitalisation, la France est de plus en plus la cible de cyberattaques, alertant sur la sécurité numérique.",
           "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/la-france-est-un-pays-tres-digitalise-avec-une-economie-parmi-les-premieres-au-niveau-mondial-le-pays-de-plus-en-plus-cibles-par-les-cyberattaques_8008379.html",
           "image": "https://www.franceinfo.fr/pictures/M9IpxT_s2_XEBT3MYCEqV7OJZRg/1200x675/2026/05/16/6a08c156a995b047633511.png"
         }
       ]
     },
     {
-      "label": "Business",
-      "emoji": "💼",
+      "label": "Économie",
+      "emoji": "💰",
       "articles": [
         {
-          "title": "CFDT demande réouverture des négociations salariales",
-          "summary": "Face à l'inflation et au pouvoir d'achat, la CFDT juge \"impératif\" de relancer les négociations sur les salaires.",
-          "url": "https://www.tf1info.fr/societe/inflation-pouvoir-d-achat-smic-pour-la-cfdt-il-est-imperatif-de-rouvrir-des-negociations-salariales-2441914.html",
-          "image": "https://photos.tf1info.fr/images/1280/720/marylise-leon-cfdt-5ebb81-0@1x.jpeg"
-        },
-        {
-          "title": "Économie française : craintes d'effondrement",
-          "summary": "Inflation, chômage, faillites d'entreprises : l'économie française fait face à des signaux alarmants.",
+          "title": "L'économie française sous pression",
+          "summary": "L'inflation, le chômage et les faillites d'entreprises signalent une période critique pour l'économie française.",
           "url": "https://www.lejdd.fr/economie/inflation-chomage-faillites-dentreprises-leffondrement-de-leconomie-francaise-174138",
           "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/05/16/20/francois-villeroy-de-galhau-000_a4hd976_master.jpg?VersionId=rgJabV1Xn8cZsgeYiXG3AnNRkZRlEfx1"
         },
         {
-          "title": "L'UE veut faciliter le voyage en train",
-          "summary": "L'Union européenne veut obliger les compagnies à proposer les offres de leurs concurrents pour les trajets en train.",
+          "title": "CFDT exige négociations salariales",
+          "summary": "Face à l'inflation et la perte de pouvoir d'achat, la CFDT demande l'ouverture urgente de négociations salariales.",
+          "url": "https://www.tf1info.fr/societe/inflation-pouvoir-d-achat-smic-pour-la-cfdt-il-est-imperatif-de-rouvrir-des-negociations-salariales-2441914.html",
+          "image": "https://photos.tf1info.fr/images/1280/720/marylise-leon-cfdt-5ebb81-0@1x.jpeg"
+        },
+        {
+          "title": "L'UE favorise les voyages en train",
+          "summary": "L'Union européenne contraint les compagnies ferroviaires à partager leurs offres pour stimuler la concurrence et faciliter les voyages.",
           "url": "https://www.europe1.fr/economie/lunion-europeenne-veut-faciliter-les-voyages-en-train-en-obligeant-les-compagnies-a-proposer-les-offres-de-leurs-concurrents-935435",
           "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/05/16/21/080_hl_hcampos_3143248_1_69f3867c4de97_6a08cb926ac69.jpg"
         }
       ]
     },
     {
-      "label": "Gironde",
-      "emoji": "📍",
+      "label": "Tech & Innovation",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "La Rochelle : soutien à la flottille pour Gaza",
-          "summary": "Un bateau de la \"flottille pour Gaza\" a apporté son soutien à la manifestation pro-palestinienne à La Rochelle.",
-          "url": "https://www.sudouest.fr/charente-maritime/la-rochelle/la-rochelle-un-bateau-de-la-flottille-pour-gaza-en-soutien-a-la-manifestation-pro-palestinienne-29092295.php",
-          "image": null
+          "title": "Mercedes-Benz vise la défense",
+          "summary": "Le géant automobile Mercedes-Benz envisage une diversification stratégique vers l'industrie de la défense.",
+          "url": "https://www.capital.fr/entreprises-marches/mercedes-benz-le-constructeur-allemand-nexclut-pas-de-se-diversifier-dans-lindustrie-de-la-defense-1526622",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~16~0a66ff68-cbf0-441d-8ca6-93e76edc8920.jpeg/1200x900/quality/80/mercedes-benz-le-constructeur-allemand-n-exclut-pas-de-se-diversifier-dans-l-industrie-de-la-defense.jpg"
         },
         {
-          "title": "Bordeaux : police requise pour une promo Swatch",
-          "summary": "Une opération promotionnelle très prisée chez Swatch à Bordeaux a nécessité l'intervention des forces de police.",
-          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-une-operation-promotionnelle-chez-swatch-oblige-la-police-a-intervenir-29092548.php",
-          "image": null
-        }
-      ]
-    },
-    {
-      "label": "JDG",
-      "emoji": "🎮",
-      "articles": [
-        {
-          "title": "Star Wars : Fate of the Old Republic, les détails",
-          "summary": "Toutes les infos révélées à ce jour sur le très attendu jeu Star Wars : Fate of the Old Republic sont ici.",
-          "url": "https://www.journaldugeek.com/2026/05/17/star-wars-fate-of-the-old-republic-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-lieux-personnages/",
-          "image": "https://www.journaldugeek.com/app/uploads/2025/12/Dossiers-JDG-Fate-Of-The-Old-Republic-1280x853.jpg"
+          "title": "Volkswagen cède face à Xpeng",
+          "summary": "Volkswagen pourrait céder une usine à Xpeng, marquant un revers symbolique pour l'industrie automobile allemande.",
+          "url": "https://www.lesnumeriques.com/voiture-electrique/volkswagen-pourrait-ceder-une-usine-au-chinois-xpeng-un-coup-dur-pour-l-industrie-allemande-n256037.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/256037/ca728901-volkswagen-pourrait-ceder-une-usine-au-chinois-xpeng-un-coup-dur-pour-l-industrie-allemande__800_800__1739-598-5769-4628.jpg"
         },
         {
-          "title": "LG promet la 4K sans fil et sans compromis",
-          "summary": "LG innove avec une technologie d'image 4K de haute qualité sans aucun câble, une avancée majeure.",
+          "title": "LG innove : 4K sans câble",
+          "summary": "LG annonce une avancée technologique majeure avec une solution d'affichage 4K sans fil et sans compromis visuel.",
           "url": "https://www.journaldugeek.com/2026/05/16/lg-promet-une-image-4k-sans-compromis-et-sans-cable/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/lg-1280x853.jpg"
-        },
-        {
-          "title": "Steve Jobs immortalisé sur une pièce de monnaie",
-          "summary": "Aux États-Unis, une pièce de monnaie rend hommage à Steve Jobs, figure emblématique de la technologie.",
-          "url": "https://www.journaldugeek.com/2026/05/16/steve-jobs-a-sa-propre-piece-de-monnaie-aux-etats-unis/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/steve-jobs-piece-1280x853.jpg"
         }
       ]
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "NBA : Les Spurs de Wembanyama en finale de conférence",
-          "summary": "Les Spurs de Victor Wembanyama se sont imposés face aux Wolves et se qualifient pour la finale de conférence.",
+          "title": "Wembanyama porte les Spurs",
+          "summary": "Les Spurs de Victor Wembanyama battent les Wolves et se qualifient pour la finale de conférence NBA.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-de-victor-wembanyama-viennent-au-bout-des-wolves-et-filent-en-finale-de-conference_AV-202605160099.html",
           "image": "https://images.bfmtv.com/eaGOtUft-_MsqfZodqRLf2EyQZg=/333x309:2045x1272/800x0/images/Victor-Wembanyama-lors-de-Spurs-Blazers-le-28-avril-2026-2277999.jpg"
         },
         {
-          "title": "Duplantis vise un nouveau record du monde",
-          "summary": "Armand Duplantis se confie et ambitionne de battre son propre record du monde au saut à la perche lors du Meeting Herculis.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
-          "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
+          "title": "Duplantis vise nouveau record mondial",
+          "summary": "Armand Duplantis se confie sur son ambition de battre un nouveau record du monde au saut à la perche.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-un-nouveau-record-du-monde-de-saut-a-la-perche-armand-duplantis-dit-tout-dans-le-super-moscato-show_VN-202605070619.html",
+          "image": "https://images.bfmtv.com/SDwnZKGApBQXfBgy_P3KbgJ30kc=/0x0:1280x720/800x0/images/Un-nouveau-record-du-monde-de-saut-a-la-perche-Armand-Duplantis-dit-tout-dans-le-Super-Moscato-Show-2282507.jpg"
         },
         {
-          "title": "Rugby féminin : les Bleues visent le Grand Chelem",
-          "summary": "Face à l'Angleterre, l'équipe de France féminine nourrit l'espoir de décrocher le Grand Chelem au Tournoi des 6 Nations.",
-          "url": "https://rmcsport.bfmtv.com/rugby/feminin/tournoi-des-6-nations/france-angleterre-5-raisons-de-croire-en-l-exploit-des-bleues-et-le-grand-chelem-au-6-nations-feminin_AN-202605160379.html",
-          "image": "https://images.bfmtv.com/l5m2z7PwNHbO5FOYdE3nEPvzpj8=/0x106:2048x1258/800x0/images/La-France-face-a-l-Irlande-lors-du-Tournoi-des-VI-Nations-feminin-le-25-avril-2026-2286892.jpg"
+          "title": "Scandale : ex-CNOSF mis en examen",
+          "summary": "Un ancien responsable du CNOSF est mis en examen et détenu suite à un piège tendu par un chasseur de pédocriminels.",
+          "url": "https://rmcsport.bfmtv.com/societe/l-ancien-responsable-du-cnosf-piege-par-un-chasseur-de-pedocriminels-mis-en-examen-et-place-en-detention-provisoire_AV-202605140604.html",
+          "image": "https://images.bfmtv.com/qjAueEB7a4guQIMGokYveTfoj4M=/0x26:512x314/800x0/images/-180057.jpg"
         }
       ]
     }
