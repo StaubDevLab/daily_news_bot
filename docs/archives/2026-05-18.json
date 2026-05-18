@@ -1,0 +1,169 @@
+{
+  "ephemeride": "Saint Eric",
+  "global_summary": "L'actualité de ce jour est marquée par des tensions géopolitiques persistantes, notamment aux Émirats Arabes Unis suite à une frappe de drone, et des appels à l'action concernant l'Iran. Parallèlement, le monde du sport vibre avec les qualifications en Ligue Europa, les finales de conférence NBA et les ambitions de record mondial en athlétisme, tandis que des scandales éthiques touchent des institutions sportives.\n\nSur le front économique et technologique, la cybersécurité reste une préoccupation majeure avec des vols de données impactant le secteur du tourisme. L'innovation est à l'honneur avec les avancées en matière d'affichage télévisuel et l'intégration de l'IA dans divers domaines, tandis que des conseils financiers pratiques sont offerts pour optimiser retraite et fiscalité.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous dépasser, Saint Eric vous y encourage ! Avec des températures douces allant de 9.9°C à 16.8°C et un ciel peu nuageux, les conditions sont idéales pour une séance revigorante. Pour profiter au maximum de cette météo clémente tout en vous protégeant, je vous conseille de courir en milieu de matinée, après 9h, ou en fin d'après-midi, vers 17h-18h. L'indice UV de 6 signifie que le soleil est bien présent : n'oubliez pas votre crème solaire, un chapeau léger et des lunettes de soleil. Hydratez-vous bien et écoutez votre corps. Allez, on lâche rien, foncez !",
+  "weather_string": "🌤️ Peu nuageux (9.9°C / 16.8°C)",
+  "weather_stats": {
+    "temp": "16.8°C",
+    "rain": "10%",
+    "uv": "6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Escalade dangereuse aux Émirats",
+          "summary": "Les Émirats s'alarment d'une frappe de drone près d'une centrale, ravivant les tensions régionales.",
+          "url": "https://www.huffingtonpost.fr/international/article/les-emirats-s-alement-d-une-escalade-dangereuse-apres-une-frappe-de-drone-pres-d-une-centrale_263819.html",
+          "image": "https://focus.huffingtonpost.fr/2026/05/17/309/0/5923/3331/0/0/60/0/1d13ef9_upload-1-g6nztvsewapn-afp-20260305-2264958756-v3-highres-gulfstatescondemniranattacksandvowfirmrespon.jpg"
+        },
+        {
+          "title": "Ligue 1: Lens en force, Marseille en Europa League",
+          "summary": "Lens écrase Lyon lors de la dernière journée de Ligue 1; Marseille décroche sa qualification pour la Ligue Europa.",
+          "url": "https://www.france24.com/fr/sports/20260517-derni%C3%A8re-journ%C3%A9e-de-ligue-1-lens-pulv%C3%A9rise-lyon-marseille-se-qualifi%C3%A9-pour-la-ligue-europa",
+          "image": "https://s.france24.com/media/display/eaf137e8-5231-11f1-a248-005056a97e36/w:1280/p:16x9/000-B34Z2XL.jpg"
+        },
+        {
+          "title": "Iran: Trump doit agir, selon une experte",
+          "summary": "Une spécialiste du Moyen-Orient exhorte Donald Trump à prendre position ou à trouver un accord avec l'Iran.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-iran-il-est-temps-que-donald-trump-agisse-ou-arrive-a-un-accord-estime-maya-khadra-enseignante-et-journaliste-specialiste-du-moyen-orient_VN-202605170365.html",
+          "image": "https://images.bfmtv.com/IVKbmZxQkHT2faTR0-Pn8Ox8igU=/0x0:1280x720/1280x0/images/Iran-Il-est-temps-que-Donald-Trump-agisse-ou-arrive-a-un-accord-estime-Maya-Khadra-enseignante-et-journaliste-specialiste-du-Moyen-Orient-2287326.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Top 14: La Rochelle domine Toulouse",
+          "summary": "Analyse des tops et flops après la victoire de La Rochelle contre Toulouse en Top 14.",
+          "url": "https://www.lefigaro.fr/sports/rugby/top-14/la-rochelle-toulouse-alldritt-tout-puissant-le-secateur-lagivala-la-tiede-performance-toulousaine-les-tops-et-les-flops-20260517",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/05/17/3ee48b4a1d50d8eba0795cc46b046088ae84aa1ebb63856b45f8d2a8c5d33b4c.jpg"
+        },
+        {
+          "title": "Kagurabachi en pause surprise, fans inquiets",
+          "summary": "Le manga populaire Kagurabachi fait une pause inattendue dans Weekly Shonen Jump, préoccupant les lecteurs.",
+          "url": "https://www.fredzone.org/kagurabachi-marque-une-pause-inattendue-dans-weekly-shonen-jump-et-les-fans-sinquietent/",
+          "image": "https://www.fredzone.org/wp-content/uploads/2026/05/IMG_9868.jpeg"
+        },
+        {
+          "title": "Famille menacée quitte Carpentras",
+          "summary": "Menacée par des trafiquants, la famille d'un jeune dealer de Carpentras quitte la France pour la Tunisie.",
+          "url": "https://www.fdesouche.com/2026/05/17/carpentras-84-menacee-par-des-trafiquants-de-drogue-la-famille-dun-jeune-dealer-cumulant-dette-et-arrestations-compte-quitter-la-france-pour-repartir-en-tunisie/",
+          "image": "https://www.fdesouche.com/wp-content/uploads/2026/05/illustration-quartier-du-pous-du-plan-a-carpentras-tag-de-dealers-bienvenue-au-pous-du-plan-point-de-1746640204_e4cf81828ee7609cf81828ee7eccf8v_-740x417.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Le PER, atout majeur pour retraite et fiscalité",
+          "summary": "Le Plan Épargne Retraite confirme son succès pour préparer l'avenir et optimiser sa fiscalité.",
+          "url": "https://www.capital.fr/votre-argent/le-succes-du-per-ne-se-dement-pas-pour-preparer-sa-retraite-et-defiscaliser-1526637",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~17~78954a12-9e94-4553-a477-5a19bba5b168.jpeg/1200x900/quality/80/le-succes-du-per-ne-se-dement-pas-pour-preparer-sa-retraite-et-defiscaliser.jpg"
+        },
+        {
+          "title": "Volkswagen discute cession d'usine avec Xpeng",
+          "summary": "Volkswagen envisage de céder une de ses usines européennes à son partenaire chinois Xpeng.",
+          "url": "https://www.capital.fr/auto/volkswagen-en-discussion-avec-son-partenaire-chinois-xpeng-pour-lui-ceder-une-de-ses-usines-en-europe-1526636",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~17~874e4a54-4070-4fc1-bf26-ebb9b1e895bc.jpeg/1200x900/quality/80/volkswagen-en-discussion-avec-son-partenaire-chinois-xpeng-pour-lui-ceder-une-de-ses-usines-en-europe.jpg"
+        },
+        {
+          "title": "TCL repousse les limites du HDR10",
+          "summary": "Un nouveau téléviseur TCL atteint des sommets avec plus de 10 000 nits, redéfinissant le HDR.",
+          "url": "https://www.frandroid.com/marques/3101005_ce-televiseur-tcl-depasse-les-10-000-nits-et-defonce-le-plafond-du-hdr10",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/05/image-31-1.jpg?resize=1600,900&key=f6552226&watermark"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Gîtes de France victime de cyberattaque",
+          "summary": "Le réseau Gîtes de France est touché par un vol de données, affectant 389 000 clients.",
+          "url": "https://www.bfmtv.com/tech/cybersecurite/vol-de-donnees-dans-le-tourisme-le-reseau-gites-de-france-vise-a-son-tour-389-000-clients-concernes_AD-202605170368.html",
+          "image": "https://images.bfmtv.com/1BoWgbDNXrKB3lYnVdipn7se-yY=/1x18:337x207/336x0/images/1090882.jpg"
+        },
+        {
+          "title": "Roland-Garros 2026: une édition inédite",
+          "summary": "L'édition 2026 de Roland-Garros s'annonce singulière, promettant des surprises et des enjeux nouveaux.",
+          "url": "https://www.ecoreseau.fr/chronique-editorial/sport-business/roland-garros-une-edition-2026-pas-comme-les-autres-2026-05-17-122703",
+          "image": "https://www.ecoreseau.fr/wp-content/uploads/2026/05/shutterstock_285136694.jpg"
+        },
+        {
+          "title": "Évitez les erreurs fiscales: déclaration",
+          "summary": "Des oublis fréquents dans la déclaration de revenus peuvent faire perdre des avantages fiscaux précieux.",
+          "url": "https://www.ecoreseau.fr/expressions/tribune-libre/declaration-de-revenus-les-oublis-qui-vous-font-perdre-des-avantages-fiscaux-2026-05-17-122729",
+          "image": "https://www.ecoreseau.fr/wp-content/uploads/2026/05/shutterstock_2477168979.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "7 kg de cocaïne saisis à l'aéroport",
+          "summary": "Un passager est interpellé à l'aéroport de Bordeaux avec 7 kg de cocaïne, malgré sa \"non-déclaration\".",
+          "url": "https://www.sudouest.fr/faits-divers/a-l-aeroport-un-passager-interpelle-avec-7-kg-de-cocaine-dans-sa-valise-il-disait-n-avoir-rien-a-declarer-29117865.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Arnaque IA aux factures: soyez vigilants",
+          "summary": "Une nouvelle arnaque aux fausses factures dopée à l'IA met les utilisateurs en grand danger.",
+          "url": "https://www.journaldugeek.com/2026/05/18/cette-arnaque-aux-factures-dopee-a-lia-ne-vous-laisse-aucune-chance/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/facture-arnaque-1280x853.jpg"
+        },
+        {
+          "title": "L'IA remplace les médecins pour antidépresseurs",
+          "summary": "Dans un pays, l'IA délivre des renouvellements d'antidépresseurs via abonnement, soulevant des questions éthiques.",
+          "url": "https://www.journaldugeek.com/2026/05/18/dans-ce-pays-lia-remplace-les-medecins-avec-un-abonnement-pour-renouveler-ses-antidepresseurs/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/ChatGPT-Image-16-mai-2026-19_27_36-1280x720.jpg"
+        },
+        {
+          "title": "Hogwarts Legacy 2 bientôt annoncé ?",
+          "summary": "Des rumeurs grandissent autour d'une annonce imminente pour la suite très attendue de Hogwarts Legacy.",
+          "url": "https://www.journaldugeek.com/2026/05/18/hogwarts-legacy-2-va-bientot-etre-annonce/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/hogwarts-legacy-2-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama en finale de conférence NBA",
+          "summary": "Les Spurs de Victor Wembanyama triomphent et se qualifient pour la finale de conférence Ouest en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-de-victor-wembanyama-viennent-au-bout-des-wolves-et-filent-en-finale-de-conference_AV-202605160099.html",
+          "image": "https://images.bfmtv.com/eaGOtUft-_MsqfZodqRLf2EyQZg=/333x309:2045x1272/800x0/images/Victor-Wembanyama-lors-de-Spurs-Blazers-le-28-avril-2026-2277999.jpg"
+        },
+        {
+          "title": "Duplantis vise un nouveau record mondial",
+          "summary": "Armand Duplantis se confie sur son objectif de battre le record du monde de saut à la perche au Meeting Herculis.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
+          "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
+        },
+        {
+          "title": "Scandale CNOSF: un ancien responsable mis en examen",
+          "summary": "L'ancien responsable du CNOSF, piégé par un chasseur de pédocriminels, est mis en examen et détention provisoire.",
+          "url": "https://rmcsport.bfmtv.com/societe/l-ancien-responsable-du-cnosf-piege-en-ligne-par-un-chasseur-de-pedocriminels-mis-en-examen-et-place-en-detention-provisoire_AV-202605140604.html",
+          "image": "https://images.bfmtv.com/qjAueEB7a4guQIMGokYveTfoj4M=/0x26:512x314/800x0/images/-180057.jpg"
+        }
+      ]
+    }
+  ]
+}
