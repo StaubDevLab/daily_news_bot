@@ -1,0 +1,178 @@
+{
+  "ephemeride": "Saint Yves",
+  "global_summary": "L'actualité de ce jour nous plonge dans un mélange d'événements marquants, allant des drames humains aux prouesses sportives. À San Diego, la violence a de nouveau frappé une mosquée, rappelant la fragilité de la paix. Sur un front plus optimiste, le monde des affaires se restructure avec des méga-fusions influencées par l'IA, tandis que les prix des carburants continuent de battre des records, impactant directement le quotidien de chacun.\n\nEn parallèle, le sport nous offre des moments intenses : Wembanyama, vexé, a livré une performance monumentale, et Duplantis se prépare à défier un nouveau record du monde. Ces dynamiques, entre défis mondiaux, avancées technologiques et ambitions sportives, dessinent un tableau complexe mais riche, où chaque information nous invite à rester vigilants et engagés.",
+  "running_advice": "Aujourd'hui, Saint Yves nous rappelle qu'il faut se jeter à l'eau ! Et ça tombe bien, car la météo nous annonce de la pluie avec 65% de probabilité. Mais ne laissez pas quelques gouttes freiner votre élan ! Avec des températures douces, entre 11.7°C et 20.5°C, c'est une excellente journée pour une course rafraîchissante, à condition d'être bien équipé. L'heure idéale ? Visez entre 06:30 et 08:30 pour profiter d'une fraîcheur matinale, ou entre 19:00 et 20:30 pour une fin de journée dynamique. Gardez un œil sur le ciel et prévoyez une tenue imperméable légère. Et attention, même sous un ciel couvert, l'indice UV est de 4.2 : n'oubliez pas d'appliquer de la crème solaire et de porter des lunettes de soleil si vous courez en extérieur, pour protéger votre peau et vos yeux ! Transformez cette météo en une opportunité de prouver votre détermination !",
+  "weather_string": "🌧️ Pluie (11.7°C / 20.5°C)",
+  "weather_stats": {
+    "temp": "20.5°C",
+    "rain": "65%",
+    "uv": "4.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Attentat de San Diego: 3 morts à la mosquée",
+          "summary": "La violence frappe une mosquée de San Diego, laissant trois victimes et une communauté sous le choc.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/18/etats-unis-trois-personnes-tuees-dans-une-mosquee-de-san-diego-les-deux-tireurs-presumes-retrouves-morts_6691086_3210.html",
+          "image": "https://img.lemde.fr/2026/05/18/654/0/6000/3000/644/322/60/0/6c8c648_ftp-1-kg6usqus88qu-2026-05-18t212925z-419335694-rc2xbla2ju5g-rtrmadp-3-california-shooting.JPG"
+        },
+        {
+          "title": "Mondial 2026 : Neymar fait son grand retour !",
+          "summary": "La star brésilienne Neymar est de retour avec la Seleção, boostant les espoirs pour le Mondial 2026.",
+          "url": "https://www.france24.com/fr/sports/20260518-mondial-2026-la-star-br%C3%A9silienne-neymar-signe-son-grand-retour-avec-la-sele%C3%A7ao",
+          "image": "https://s.france24.com/media/display/0f0703f0-5300-11f1-94d5-005056bfb2b6/w:1280/p:16x9/52744695417ee777fd0fdfb62ec994e7cc695833.jpg"
+        },
+        {
+          "title": "Couples franco-allemands: leur vie au quotidien",
+          "summary": "Plongez dans le quotidien des couples franco-allemands, entre défis professionnels et éducation des enfants.",
+          "url": "https://www.franceinfo.fr/societe/travail-education-des-enfants-comment-vivent-les-couples-franco-allemands-au-quotidien_8012477.html",
+          "image": "https://www.franceinfo.fr/pictures/8HAUOb4JoyxpJkgVZ5AaBfgRk4k/1200x675/2026/05/18/6a0b7da573750205393030.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Iran: Trump optimiste sur le nucléaire",
+          "summary": "Donald Trump affirme des discussions \"très positives\" sur le nucléaire iranien, offrant une lueur d'espoir.",
+          "url": "https://www.lemonde.fr/international/live/2026/05/19/en-direct-guerre-au-moyen-orient-donald-trump-affirme-que-les-discussions-sur-le-nucleaire-iranien-evoluent-de-maniere-tres-positive_6688992_3210.html",
+          "image": "https://img.lemde.fr/2026/05/15/500/0/6000/3000/644/322/60/0/e6e1e6e_ftp-1-6a0sdjmtrklh-cd4abe695558448ebfe9c6a293032127-0-e662a31787784850a3497f060ffb197c.jpg"
+        },
+        {
+          "title": "Yan Niesing, candidat Maison France-Montréal",
+          "summary": "Découvrez Yan Niesing, le candidat de la liste Maison France-Montréal, pour les Français de l'étranger.",
+          "url": "https://lepetitjournal.com/montreal/communaute/yan-niesing-candidat-de-la-liste-maison-france-montreal-443502",
+          "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-05/Yan%20Niesing-LPJ.jpg"
+        },
+        {
+          "title": "Le Mékong-Lancang relie Cambodge et Chine",
+          "summary": "Le Caravan Tour du Mékong-Lancang renforce les liens entre le Cambodge et la Chine, une initiative régionale majeure.",
+          "url": "https://lepetitjournal.com/cambodge/le-mekong-lancang-caravan-tour-relie-le-cambodge-la-chine-443505",
+          "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-05/Le%20Mekong-Lancang%20Caravan%20Tour%20relie%20le%20Cambodge%20a%CC%80%20la%20Chine%20.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Licenciement IA: l'impact sur le travail",
+          "summary": "L'intelligence artificielle transforme le droit du travail, soulevant des questions cruciales sur le licenciement technologique.",
+          "url": "https://lepetitjournal.com/rome/actualites/licenciement-technologique-ia-perspectives-comparees-droit-travail-443453",
+          "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-05/marteau_justice_clavier.jpg"
+        },
+        {
+          "title": "Record de violations de données en 2025",
+          "summary": "La Cnil alerte : les violations de données ont atteint un niveau record en 2025, personne n'est épargné.",
+          "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/personne-n-est-epargne-le-nombre-de-violations-de-donnees-a-atteint-un-record-en-2025-affirme-la-cnil_8012426.html",
+          "image": "https://www.franceinfo.fr/pictures/6lp4X9wgMUNoQ83Vk4xuvy_NMZ0/1200x675/2026/05/18/6a0b6f29113c0158852470.jpg"
+        },
+        {
+          "title": "L'Allemagne renforce sa protection civile",
+          "summary": "Face à la guerre en Ukraine, l'Allemagne investit 10 milliards d'euros pour moderniser sa protection civile.",
+          "url": "https://www.capital.fr/economie-politique/guerre-en-ukraine-un-plan-d-investissement-de-10-milliards-deuros-comment-lallemagne-renforce-sa-protection-civile-1526674",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~18~6e620fdc-3abd-4927-8d76-45a428402717.jpg/1200x900/focus-point/2308%2C432/guerre-en-ukraine-un-plan-d-investissement-de-10-milliards-d-euros-comment-l-allemagne-renforce-sa-protection-civile.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Électricité US: NextEra rachète Dominion",
+          "summary": "Grandes manœuvres énergétiques aux États-Unis : NextEra acquiert Dominion pour 67 milliards, impacté par l'IA.",
+          "url": "https://www.lemonde.fr/economie/article/2026/05/18/grandes-man-uvres-dans-le-secteur-americain-de-l-electricite-de-plus-en-plus-sollicite-par-l-ia-nextera-rachete-dominion-pour-67-milliards-de-dollars_6691085_3234.html",
+          "image": "https://img.lemde.fr/2026/05/18/384/0/12288/6144/644/322/60/0/441bb8c_ftp-1-e47gpejsuuiy-ba4aa0ed0d5045738d7005f72d936935-0-1357c25fd4304ff0873bc55b49b15682.jpg"
+        },
+        {
+          "title": "Carburants: le sans-plomb atteint un record",
+          "summary": "Mauvaise nouvelle à la pompe : le prix du sans-plomb dépasse un nouveau record, pesant sur les budgets.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/prix-des-carburants-le-sans-plomb-depasse-un-nouveau-record_8012357.html",
+          "image": "https://www.franceinfo.fr/pictures/VfRrJCyt3lvVZEXQbJ2Sd0QLtm0/1200x675/2026/05/18/6a0b56fe2d64c924505338.jpg"
+        },
+        {
+          "title": "Indemnités élus locaux: le décret est publié",
+          "summary": "Le décret sur les indemnités des présidents d'EPCI et allocations de fin de mandat est enfin publié.",
+          "url": "http://www.maire-info.com/article.asp?param=30795",
+          "image": "https://medias.amf.asso.fr/mi/TMP_4770bb58898751f23f1086a321bbfc8d.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Narcotrafic: vaste opération dans le Rhône",
+          "summary": "Grande opération anti-narcotrafic dans le Rhône : un millier de forces de l'ordre mobilisées.",
+          "url": "https://www.sudouest.fr/faits-divers/narcotrafic/narcotrafic-une-vaste-operation-se-deroule-ce-mardi-dans-le-rhone-un-millier-de-policiers-et-gendarmes-mobilises-29132376.php"
+        },
+        {
+          "title": "Fuite de gaz à Tonneins: 30 personnes évacuées",
+          "summary": "Une fuite de gaz à Tonneins a nécessité l'évacuation d'une trentaine de personnes, dont 14 enfants.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/tonneins/fuite-de-gaz-a-tonneins-une-trentaine-de-personnes-evacuees-dont-14-enfants-29132442.php"
+        },
+        {
+          "title": "Mango: le fils du créateur interpellé",
+          "summary": "Le fils aîné du créateur de Mango a été interpellé en Espagne, suite à une affaire majeure.",
+          "url": "https://www.sudouest.fr/international/europe/espagne/mort-du-createur-de-mango-le-fils-aine-interpelle-29131989.php"
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Manger étoilé dans l'espace: un luxe!",
+          "summary": "Déguster un repas gastronomique en orbite est désormais possible, pour un demi-million de dollars.",
+          "url": "https://www.journaldugeek.com/2026/05/19/manger-etoile-dans-lespace-cest-possible-pour-un-demi-million-de-dollars/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/03/space-perspective-neptune-1403x935.jpg"
+        },
+        {
+          "title": "Looksmaxxing: les stéroïdes bovins sur TikTok",
+          "summary": "Alerte sur TikTok : des ados s'injectent des stéroïdes bovins pour \"looksmaxxing\", une tendance dangereuse.",
+          "url": "https://www.journaldugeek.com/2026/05/19/looksmaxxing-sur-tiktok-les-ados-sinjectent-des-steroides-bovins-pour-augmenter-leur-virilite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/steroide-vache-1280x853.jpg"
+        },
+        {
+          "title": "PlayStation Plus: hausse de prix annoncée",
+          "summary": "Sony augmente le prix de l'abonnement PlayStation Plus pour les nouveaux membres. Préparez votre portefeuille !",
+          "url": "https://www.journaldugeek.com/2026/05/19/playstation-plus-sony-annonce-une-hausse-de-prix-pour-les-nouveaux-abonnes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2022/02/disney-no-exit-8.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama se venge et brille en NBA",
+          "summary": "Vexé par sa 3e place MVP, Wembanyama a livré une performance stratosphérique contre OKC.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/bien-sur-que-c-etait-personnel-vexe-par-sa-3e-place-au-titre-de-mvp-wembanyama-s-est-venge-sur-okc_AN-202605190191.html",
+          "image": "https://images.bfmtv.com/MwKWEr1qulPXUSlXBYdMhC1YSLs=/0x20:2048x1172/800x0/images/Victor-Wembanyama-celebre-par-ses-partenaires-lors-de-la-victoire-de-San-Antonio-sur-le-terrain-d-Oklahoma-City-122-115-a-p-le-18-mai-2026-2288147.jpg"
+        },
+        {
+          "title": "Duplantis vise un nouveau record mondial",
+          "summary": "Armand Duplantis se confie : il prévoit de battre le record du monde de saut à la perche au Meeting Herculis.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/saut-a-la-perche-le-plan-c-est-de-battre-le-record-du-monde-au-meeting-herculis-armand-duplantis-se-confie-dans-le-super-moscato-show_AV-202605070603.html",
+          "image": "https://images.bfmtv.com/9WS8f0HtonTVRcCUCVkLrdSyyrk=/0x49:2048x1201/800x0/images/Arnaud-Duplantis-au-concours-de-saut-a-la-perche-des-Mondiaux-de-Tokyo-le-15-septembre-2025-2138029.jpg"
+        },
+        {
+          "title": "Lisa Barbelin prête à \"lâcher les chevaux\"",
+          "summary": "Après des JO 2024 difficiles, Lisa Barbelin (tir à l'arc) est déterminée à retrouver sa pleine forme.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/tir-a-l-arc-apres-des-jo-de-paris-2024-qui-ont-alourdi-ses-ailes-lisa-barbelin-veut-lacher-les-chevaux_AN-202605180869.html",
+          "image": "https://images.bfmtv.com/-LLXMNSzn_gGkd5kvqYOvYLJtag=/4x108:2036x1251/800x0/images/Lisa-Barbelin-lors-des-Jeux-olympiques-de-Paris-le-3-aout-2024-2287953.jpg"
+        }
+      ]
+    }
+  ]
+}
