@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Saint Bernardin",
+  "global_summary": "L'actualité de ce jour est marquée par des défis mondiaux majeurs, avec l'OMS qui lance une alerte préoccupante sur l'épidémie d'Ebola en République Démocratique du Congo, tandis que la diplomatie internationale voit la libération d'un détenu iranien après une décennie. En France, le mercure promet une flambée spectaculaire, annonçant une hausse de températures pouvant atteindre 15°C en moins de 72 heures, et l'affaire Patrick Bruel continue de faire les gros titres.\n\nSur le front de l'innovation, Google anticipe une ère nouvelle avec ses agents intelligents, tandis que le monde des affaires est secoué par le retour tant attendu de Fortnite sur les App Stores et l'expansion prometteuse d'Osmos X dans le spatial. Le sport, lui, nous offre des moments d'anthologie avec les exploits de Wembanyama en NBA et la détermination inébranlable de Kévin Mayer face aux critiques, prouvant que la persévérance est toujours la clé.",
+  "running_advice": "Excellente nouvelle pour les coureurs ! Aujourd'hui est une journée parfaite pour enfiler vos baskets. Avec des températures allant de 13°C à 23.1°C et un ciel peu nuageux, les conditions sont idéales. Cependant, l'indice UV est élevé (7.4), donc privilégiez vos runs le matin tôt, juste après le lever du soleil à 06:28, ou en fin d'après-midi/début de soirée avant le coucher à 21:30 pour éviter le pic d'ensoleillement. N'oubliez pas votre protection solaire : crème, lunettes et casquette sont vos alliés indispensables. Allez, on se motive, le bitume vous attend !",
+  "weather_string": "🌤️ Peu nuageux (13°C / 23.1°C)",
+  "weather_stats": {
+    "temp": "23.1°C",
+    "rain": "0%",
+    "uv": "7.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Alerte Ebola au Congo",
+          "summary": "L'OMS tire la sonnette d'alarme face à l'ampleur croissante de l'épidémie d'Ebola en RDC.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260519-l-oms-alerte-sur-l-ampleur-de-l-%C3%A9pid%C3%A9mie-d-ebola-en-r%C3%A9publique-d%C3%A9mocratique-du-congo",
+          "image": "https://s.france24.com/media/display/050ec234-53be-11f1-b2c9-005056a97e36/w:1280/p:16x9/FRAN260519-2140-Live-01.jpg"
+        },
+        {
+          "title": "Libération après 10 ans en Iran",
+          "summary": "Un détenu irano-américain a enfin retrouvé la liberté et les États-Unis après une décennie de détention.",
+          "url": "https://www.franceinfo.fr/monde/iran/un-detenu-iranien-libere-apres-dix-ans-de-prison-a-teheran-a-pu-rentrer-aux-etats-unis-ou-il-reside_8014661.html",
+          "image": "https://www.franceinfo.fr/pictures/nFSqjxrar7TEmAw3ysm-cR_orLw/1200x675/2026/05/19/6a0cc1b07bc98555061186.jpg"
+        },
+        {
+          "title": "L'Ordre du Mérite de l'UE",
+          "summary": "Une distinction européenne qui questionne son impact actuel, célébrant plus le passé que le futur.",
+          "url": "http://fr.euronews.com/my-europe/2026/05/19/lordre-du-merite-de-lue-une-distinction-qui-celebre-surtout-de-vieux-souvenirs",
+          "image": "https://images.euronews.com/articles/stories/09/76/44/03/1440x810_cmsv2_2b945bca-8f0f-57c4-930c-0a402a425b1e-9764403.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Vague de chaleur en approche",
+          "summary": "La France se prépare à une hausse spectaculaire des températures, gagnant jusqu'à 15°C en 72 heures.",
+          "url": "https://www.lefigaro.fr/meteo/meteo-pourquoi-les-temperatures-vont-gagner-jusqu-a-150c-en-moins-de-72-heures-20260519",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/05/19/e120d1f67e523235768528d6b69b48933e936e63b1ad35741acf77d37bae440f.jpg"
+        },
+        {
+          "title": "Sauvetage périlleux en Calvados",
+          "summary": "Les secours sont intervenus par hélicoptère pour extraire un homme après une chute dans une zone difficile.",
+          "url": "https://actu.fr/normandie/villerville_14755/calvados-encore-un-homme-helitreuille-apres-une-chute-dans-un-endroit-difficile-dacces-pour-les-secours_64287878.html",
+          "image": "https://static.actu.fr/uploads/2026/05/972ce4cbcc0a6ab2ce4cbcc0a8f2cev.jpg"
+        },
+        {
+          "title": "Trump : l'ultimatum décrypté",
+          "summary": "BFMTV analyse les implications d'un ultimatum de Trump, interrogeant la perspective d'une escalade.",
+          "url": "https://www.bfmtv.com/replay-emissions/les-emissions-speciales/video-edition-speciale-trump-apres-l-ultimatum-le-temps-des-bombes-19-05_VN-202605190935.html",
+          "image": "https://images.bfmtv.com/MYM12A-6Z4GL-iMRJUi6cAcyDpI=/0x0:1280x720/1280x0/images/Edition-Speciale-Trump-apres-l-ultimatum-le-temps-des-bombes-19-05-2288743.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Google et l'ère des agents IA",
+          "summary": "Google annonce une révolution avec ses agents intelligents, promettant des avancées technologiques inédites.",
+          "url": "https://www.lepoint.fr/high-tech-internet/les-agents-intelligents-selon-google-vous-navez-encore-rien-vu-QDGWEPXN45AAFLSVOQ2BMX5RIU/",
+          "image": "https://www.lepoint.fr/resizer/v2/7GEQTTFJMZLUXELM2XOFCNPMGY.jpg?auth=5f1253dc9590874036b95bf8733416d285f367e4aede3effa4bedaaf43de26c4&smart=true&width=1200&height=900"
+        },
+        {
+          "title": "TTEC Digital s'allie à Salesforce",
+          "summary": "TTEC Digital intègre le réseau de partenaires d'ingénierie de Salesforce, renforçant l'écosystème numérique.",
+          "url": "https://fr.benzinga.com/news/france/general/la-solution-numerique-de-ttec-ttec-digital-rejoindra-le-nouveau-reseau-de-partenaires-dingenierie-deployes-en-avant-de-salesforce/",
+          "image": "https://global-assets.benzinga.com/fr/2024/09/20165539/main_default.png"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Fortnite de retour sur App Store",
+          "summary": "Le géant du jeu vidéo Epic Games met fin à six ans de conflit avec Apple et relance Fortnite sur App Store.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-a-lire-sur-le-site-tech-co-apres-six-ans-de-conflit-avec-apple-fortnite-d-epic-games-fait-son-retour-sur-les-app-store-du-monde-entier-a-une-exception-pres-par-salome-ferraris-19-05_VN-202605190927.html",
+          "image": "https://images.bfmtv.com/xIsodYrenGXZmWTdX-bOiOpPhtU=/0x0:1280x720/1280x0/images/A-lire-sur-le-site-Tech-and-Co-Apres-six-ans-de-conflit-avec-Apple-Fortnite-d-Epic-Games-fait-son-retour-sur-les-App-Store-du-monde-entier-a-une-exception-pres-par-Salome-Ferraris-19-05-2288740.jpg"
+        },
+        {
+          "title": "Osmos X installe sa base à Toulouse",
+          "summary": "Osmos X choisit Toulouse pour développer son vaisseau orbital à propulsion plasma, une avancée majeure.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-arnaud-masson-osmos-x-osmos-x-s-implante-a-toulouse-pour-construire-son-vaisseau-orbital-a-propulsion-plasma-19-05_VN-202605190929.html",
+          "image": "https://images.bfmtv.com/bMdE4n3eHK80L0zumegIg7gH0Zs=/0x0:1280x720/1280x0/images/Arnaud-Masson-Osmos-X-Osmos-X-s-implante-a-Toulouse-pour-construire-son-vaisseau-orbital-a-propulsion-plasma-19-05-2288741.jpg"
+        },
+        {
+          "title": "Affaire Mango : le fils arrêté",
+          "summary": "Coup de théâtre après la mort du fondateur de Mango, son fils milliardaire est placé en détention.",
+          "url": "https://www.capital.fr/entreprises-marches/rebondissement-apres-la-mort-du-fondateur-de-mango-le-fils-du-milliardaire-arrete-1526724",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~19~abcf5f02-17ba-4f8d-94ad-fde89b60aee3.jpeg/1200x900/quality/80/rebondissement-apres-la-mort-du-fondateur-de-mango-le-fils-du-milliardaire-arrete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Affaire Bruel : impact régional",
+          "summary": "L'affaire Patrick Bruel, bien que centrée sur le Québec, résonne fortement en Gironde et dans le Sud-Ouest.",
+          "url": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/direct-affaire-patrick-bruel-une-premiere-serie-de-concerts-annulee-au-quebec-les-informations-de-ce-mardi-20-mai-2026-29146322.php",
+          "image": null
+        },
+        {
+          "title": "Cold case Khadidja Bengrine",
+          "summary": "Lumière sur le profil du suspect dans la disparition de Khadidja Bengrine, 20 ans après les faits.",
+          "url": "https://www.sudouest.fr/faits-divers/disparition-de-khadidja-bengrine-en-2004-tu-marches-ou-tu-creves-que-sait-on-du-profil-inquietant-du-suspect-dans-ce-cold-case-29145663.php",
+          "image": null
+        },
+        {
+          "title": "Feu maîtrisé dans les Landes",
+          "summary": "Les pompiers des Landes ont évité la propagation d'un feu de cellier, protégeant une habitation.",
+          "url": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/landes-l-intervention-des-sapeurs-pompiers-evite-qu-un-feu-de-cellier-se-propage-a-l-habitation-29145640.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Nouveau jeu Seigneur des Anneaux",
+          "summary": "Le studio derrière Kingdom Come Deliverance annonce un nouveau jeu épique dans l'univers de Tolkien.",
+          "url": "https://www.journaldugeek.com/2026/05/20/seigneur-des-anneaux-un-jeu-annonce-par-le-studio-de-kingdom-come-deliverance/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/08/le-seigneur-des-anneaux-version-longue-1280x853.jpg"
+        },
+        {
+          "title": "Directive 8020 : le dilemme",
+          "summary": "Une exploration fascinante de la 'Directive 8020' et la complexité morale des choix de survie.",
+          "url": "https://www.journaldugeek.com/2026/05/20/directive-8020-est-ce-possible-de-sauver-tout-le-monde/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/test-directive-8020-1-1280x853.jpg"
+        },
+        {
+          "title": "Sigourney Weaver rejoint Star Wars",
+          "summary": "Le mystère plane autour du nouveau personnage incarné par Sigourney Weaver dans l'univers Star Wars.",
+          "url": "https://www.journaldugeek.com/2026/05/20/star-wars-qui-est-ce-nouveau-personnage-joue-par-sigourney-weaver/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/the-mandalorian-and-grogu-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Knicks s'imposent après remontée",
+          "summary": "Les Knicks créent la sensation en finale de conférence NBA, arrachant le match 1 après une incroyable remontée.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nouveau-match-fou-en-finale-de-conference-de-nba-les-knicks-arrachent-le-match-1-apres-une-remontee-d-anthologie_AV-202605200068.html",
+          "image": "https://images.bfmtv.com/kLKikYNxmC69S-5s0SVuDiuT9BI=/6x111:2038x1254/800x0/images/Jalen-Brunson-lors-du-match-New-York-Knicks-Cleveland-115-104-a-p-le-19-mai-2026-2288780.jpg"
+        },
+        {
+          "title": "Wembanyama, performance iconique",
+          "summary": "Vexé de sa 3e place MVP, Wembanyama s'illustre par une performance magistrale face à OKC.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-nba-si-on-perd-ce-sera-de-notre-faute-wembanayama-met-les-pieds-dans-le-plat_VN-202605190539.html",
+          "image": "https://images.bfmtv.com/fmOsPWT__WOs4i_mELkkMQ_kuZI=/0x0:1280x720/800x0/images/NBA-Si-on-perd-ce-sera-de-notre-faute-Wembanayama-met-les-pieds-dans-le-plat-2288437.jpg"
+        },
+        {
+          "title": "Kévin Mayer répond aux critiques",
+          "summary": "Le décathlonien Kévin Mayer clame qu'il arrêtera sa carrière quand il le décidera, non sous la pression.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/arretez-de-me-dire-que-je-suis-fini-j-arreterais-quand-j-aurais-decide-la-grosse-mise-au-point-de-kevin-mayer-a-ses-detracteurs_AV-202605200036.html",
+          "image": "https://images.bfmtv.com/4ZCbFpJQ-O8FO41DeTuautMXGFc=/220x175:1900x1120/800x0/images/Kevin-Mayer-lors-des-championnats-du-monde-d-athletisme-a-Budapest-en-aout-2023-1767143.jpg"
+        }
+      ]
+    }
+  ]
+}
