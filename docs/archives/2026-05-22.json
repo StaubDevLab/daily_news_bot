@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Emile",
+  "global_summary": "L'actualité de ce jour dessine un tableau contrasté, mêlant des réflexions historiques profondes sur l'esclavage et les réparations à des défis économiques urgents, comme la révision à la baisse de la croissance européenne et l'inflation grandissante. En France, les préoccupations quotidiennes s'articulent autour de la cybersécurité avec l'explosion des arnaques en ligne et des faits divers régionaux qui captivent l'attention.\nParallèlement, le monde de la tech continue son essor fulgurant avec Apple intégrant toujours plus d'IA pour l'accessibilité et SpaceX visant une IPO ambitieuse en explorant de nouveaux horizons, y compris l'intelligence artificielle. Le sport, quant à lui, célèbre la résilience des athlètes comme Kévin Mayer et l'ascension fulgurante de jeunes talents, tout en ouvrant le débat sur l'éthique avec des compétitions où le dopage est autorisé, reflétant ainsi la diversité et la complexité de notre époque.",
+  "running_advice": "Prêt(e) à transpirer, champion(ne) ? Aujourd'hui, les conditions sont idéales pour courir, à condition de choisir le bon créneau ! Avec des températures allant de 16.9°C à un maximum de 32.1°C et un ciel peu nuageux, l'air sera agréable. Toutefois, l'indice UV élevé à 7.25 vous invite à la prudence. Je vous recommande chaudement une sortie matinale, dès 06:26, pour profiter de la fraîcheur ou une session en soirée, après 20h00, pour éviter le pic de chaleur et de soleil. N'oubliez surtout pas une protection solaire forte, un chapeau, et hydratez-vous abondamment ! Allez, on se dépasse !",
+  "weather_string": "🌤️ Peu nuageux (16.9°C / 32.1°C)",
+  "weather_stats": {
+    "temp": "32.1°C",
+    "rain": "0%",
+    "uv": "7.25"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Macron et les réparations de l'esclavage",
+          "summary": "Le président soutient l'abrogation du Code noir, ouvrant le débat sur les réparations mémorielles et matérielles.",
+          "url": "https://www.france24.com/fr/france/20260521-esclavage-macron-soutient-l-abrogation-du-code-noir-et-%C3%A9voque-la-question-des-r%C3%A9parations-taubira",
+          "image": "https://s.france24.com/media/display/c5da0086-554f-11f1-aeaf-005056bfb2b6/w:1280/p:16x9/AP26141624604131.jpg"
+        },
+        {
+          "title": "UE : Croissance ralentie, inflation en hausse",
+          "summary": "L'Europe ajuste ses prévisions de croissance à la baisse, l'inflation s'intensifiant avec la crise du détroit d'Ormuz.",
+          "url": "http://fr.euronews.com/my-europe/2026/05/21/lue-reduit-sa-prevision-de-croissance-2026-la-crise-du-detroit-dormuz-fait-monter-linflati",
+          "image": "https://images.euronews.com/articles/stories/09/74/64/13/1440x810_cmsv2_b57cf477-1cda-5490-91e2-62a1e27a259c-9746413.jpg"
+        },
+        {
+          "title": "Flottille pour Gaza : Témoignage poignant",
+          "summary": "La mère d'un militant emmené de force en Israël livre un témoignage déchirant suite à l'incident de la flottille pour Gaza.",
+          "url": "https://www.franceinfo.fr/monde/palestine/gaza/flottille-pour-gaza-savoir-que-c-est-votre-fils-qui-est-sous-les-coups-c-est-juste-insupportable-raconte-la-mere-d-un-militant-emmene-de-force-en-israel_8019086.html",
+          "image": "https://www.franceinfo.fr/pictures/Va8E82TxPszh7wn9ZgPMqs13KxA/1200x675/2026/05/21/6a0f5e3da7aa7612981260.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Arnaques en ligne : vigilance accrue",
+          "summary": "Les associations de consommateurs alertent sur l'explosion des arnaques financières via les réseaux sociaux.",
+          "url": "https://www.europe1.fr/societe/les-arnaques-financieres-pullulent-sur-les-reseaux-sociaux-selon-des-associations-de-consommateurs-937151",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/05/21/18/080_hl_gbeyson_3161169_1_6a0f34afe91c4.jpg"
+        },
+        {
+          "title": "Peste porcine : Un village catalan en émoi",
+          "summary": "Une star de cinéma et la peste porcine créent une polémique inattendue dans un village catalan.",
+          "url": "https://www.lindependant.fr/2026/05/21/une-star-du-cinema-qui-a-joue-dans-gladiator-une-super-production-hollywoodienne-et-la-peste-porcine-pourquoi-la-polemique-enfle-dans-ce-village-13382680.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/6a0f6a18494d870ea60ff530/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Escalade contre Cuba : Raúl Castro inculpé",
+          "summary": "L'inculpation de Raúl Castro et un déploiement naval signalent une poursuite de l'escalade contre Cuba.",
+          "url": "https://www.revolutionpermanente.fr/Inculpation-de-Raul-Castro-deploiement-d-un-porte-avions-l-escalade-imperialiste-contre-Cuba",
+          "image": "https://www.revolutionpermanente.fr/IMG/logo/signal-2026-05-21-220421_002.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Apple : l'IA au service de l'accessibilité",
+          "summary": "Apple intègre davantage d'intelligence artificielle dans iOS pour améliorer l'accessibilité des personnes handicapées.",
+          "url": "https://www.bfmtv.com/tech/apple/apple-continue-son-combat-pour-l-accessibilite-et-ajoute-encore-plus-d-ia-dans-i-os-pour-venir-en-aide-aux-personnes-en-situation-de-handicap_AN-202605210995.html",
+          "image": "https://images.bfmtv.com/qypfM3QSp1BYYzjVkBu0fbL-ymA=/0x0:2048x1152/2048x0/images/Apple-intelligence-2098098.jpg"
+        },
+        {
+          "title": "Starship : 12e vol, nouvelles avancées",
+          "summary": "SpaceX révèle les innovations majeures du 12e vol d'essai de Starship, plus grand et plus puissant.",
+          "url": "https://www.bfmtv.com/tech/innovation/nouveau-propulseur-fusee-encore-plus-grande-et-moteur-de-nouvelle-generation-ce-qu-il-faut-savoir-du-12e-vol-d-essai-de-starship_AV-202605210958.html",
+          "image": "https://images.bfmtv.com/q8g0HXYP9RhJDBYYgEn2OqlCg-8=/0x0:1920x1080/1920x0/images/Ce-que-l-on-sait-du-12e-vol-d-essai-de-Starship-2289789.jpg"
+        },
+        {
+          "title": "SpaceX se révèle : IPO et ambition IA",
+          "summary": "SpaceX dévoile ses comptes pour son IPO et annonce viser le marché colossal de l'IA.",
+          "url": "https://intelligence-artificielle.developpez.com/actu/383462/Repute-pour-son-opacite-financiere-SpaceX-ouvre-ses-comptes-pour-la-premiere-fois-en-vue-de-son-IPO-En-plus-de-l-espace-la-societe-vise-aussi-a-dominer-le-marche-de-l-IA-qu-elle-estime-a-26-500-Mds/",
+          "image": "https://www.developpez.com/images/logos/elon-musk-tesla.png"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Automobile : Le défi de l'électrique",
+          "summary": "Un reportage explore les enjeux et les défis de la transition vers le tout-électrique dans l'automobile.",
+          "url": "https://www.franceinfo.fr/replay-magazine/france-2/envoye-special/video-tous-a-l-electrique_8016017.html",
+          "image": "https://www.franceinfo.fr/pictures/ba2vBrR3cB0Aqud-Isf8mNoGMek/1200x675/2026/05/21/6a0f6f4261f95646139077.jpg"
+        },
+        {
+          "title": "IA : Nouveaux défis pour les datacenters",
+          "summary": "Les datacenters d'IA se tournent vers les semi-conducteurs de puissance pour répondre à leurs besoins.",
+          "url": "https://www.zonebourse.com/actualite-bourse/les-datacenters-d-ia-cherchent-leur-solution-dans-les-semi-conducteurs-de-puissance-ce7f5aded08eff2d",
+          "image": "https://cdn.zonebourse.com/static/resize/0/0/https://cdn.zonebourse.com/images/reuters/2026-02-03T122637Z_1_LYNXMPEM120RN_RTROPTP_4_AWS.JPG"
+        },
+        {
+          "title": "Grande distribution : soupçons d'abus",
+          "summary": "Des suspicions d'abus sur les marges de la grande distribution agitent le secteur et les consommateurs.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/grande-distribution-des-soupcons-d-abus-sur-les-marges_8019167.html",
+          "image": "https://www.franceinfo.fr/pictures/VQ_00lQy7nBrOW8pesNmtUD0dxA/1200x675/2026/05/21/6a0f6b6aafcfb455288098.png"
+        }
+      ]
+    },
+    {
+      "label": "Actualité Régionale",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Affaire Bruel : Nouvelles révélations",
+          "summary": "Des précisions émergent sur les auditions de Patrick Bruel, la tempête médiatique s'intensifiant autour de l'affaire.",
+          "url": "https://www.sudouest.fr/justice/affaire-patrick-bruel/affaire-patrick-bruel-je-peux-preciser-deux-ou-trois-choses-revelations-sur-ses-auditions-avec-les-enqueteurs-alors-que-la-tempete-mediatique-s-accentue-29177977.php",
+          "image": ""
+        },
+        {
+          "title": "Enfants abandonnés au Portugal : Le point",
+          "summary": "Le sort des deux jeunes enfants français abandonnés au Portugal et le profil de leur mère se précisent.",
+          "url": "https://www.sudouest.fr/faits-divers/enfants-francais-de-4-et-5-ans-abandonnes-au-portugal-profil-de-la-mere-comment-ont-ils-ete-recueillis-quel-avenir-ce-que-l-on-sait-29177703.php",
+          "image": ""
+        },
+        {
+          "title": "Pau : Libéré faute d'escorte",
+          "summary": "Un détenu est remis en liberté par le tribunal de Pau à cause d'un manquement d'escorte pénitentiaire.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/au-tribunal-de-pau-un-homme-remis-en-liberte-faute-d-escorte-depuis-la-prison-29169295.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Vie Pratique & Numérique",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "IPTV Pirate : Erreur fatale sur Revolut",
+          "summary": "Des clients d'IPTV pirates ont été identifiés par Revolut suite à une erreur de paiement.",
+          "url": "https://www.journaldugeek.com/2026/05/22/iptv-pirates-304-clients-trahis-par-leur-compte-revolut-a-cause-de-cette-erreur-toute-bete/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/iptv-1280x853.jpg"
+        },
+        {
+          "title": "ZFE : Vignette Crit’Air toujours utile",
+          "summary": "Les Zones à Faibles Émissions (ZFE) reviennent en force ; conservez votre vignette Crit'Air.",
+          "url": "https://www.journaldugeek.com/2026/05/22/ne-jetez-pas-votre-vignette-critair-les-zfe-sont-de-retour-dans-plusieurs-villes-de-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/zone-faible-emission-1280x853.jpg"
+        },
+        {
+          "title": "Métro Paris : Paiement par CB direct",
+          "summary": "La RATP déploie enfin le paiement direct par carte bancaire pour valider les titres de transport.",
+          "url": "https://www.journaldugeek.com/2026/05/22/la-validation-par-carte-bancaire-dans-le-metro-arrive-enfin-a-paris/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/carte-bancaire-navigo-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama : Match intense en NBA",
+          "summary": "Oklahoma City égalise face à San Antonio ; Wembanyama signe un double-double malgré un marquage musclé.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-oklahoma-city-repond-a-san-antonio-et-egalise-nouveau-double-double-pour-wembanyama_AV-202605210063.html",
+          "image": "https://images.bfmtv.com/qpOkYQcYwRXYbDYbbFImXdRN298=/0x0:2048x1152/800x0/images/Victor-Wembanyama-au-duel-avec-Isaiah-Hartenstein-lors-du-match-2-de-la-finale-de-conference-Ouest-OKC-Spurs-122-113-le-20-mai-2026-2289486.jpg"
+        },
+        {
+          "title": "Kévin Mayer : Réponse aux détracteurs",
+          "summary": "Kévin Mayer, décathlonien, met les choses au clair et affirme qu'il décidera lui-même de sa retraite sportive.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/arretez-de-me-dire-que-je-suis-fini-j-arreterais-quand-j-aurais-decide-la-grosse-mise-au-point-de-kevin-mayer-a-ses-detracteurs_AV-202605200036.html",
+          "image": "https://images.bfmtv.com/4ZCbFpJQ-O8FO41DeTuautMXGFc=/220x175:1900x1120/800x0/images/Kevin-Mayer-lors-des-championnats-du-monde-d-athletisme-a-Budapest-en-aout-2023-1767143.jpg"
+        },
+        {
+          "title": "Enhanced Games : Le sport controversé",
+          "summary": "Découvrez les \"Enhanced Games\", où le dopage est légal, et les controverses qu'ils soulèvent.",
+          "url": "https://rmcsport.bfmtv.com/societe/argent-epo-et-trumpisme-cinq-choses-a-avoir-sur-les-enhanced-games-ces-jeux-ou-le-dopage-est-autorise_AV-202605200557.html",
+          "image": "https://images.bfmtv.com/KOyAYmmSvvYDfl68CrT8KcPvnk8=/0x0:2032x1143/800x0/images/Fred-Kerley-2007367.jpg"
+        }
+      ]
+    }
+  ]
+}
