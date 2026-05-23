@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Didier",
+  "global_summary": "L'actualité de ce jour dévoile un mélange saisissant de défis sociétaux et d'avancées, de la salle d'audience aux terrains de sport. En France, une condamnation pour des faits graves et des débats politiques sur le populisme marquent le paysage, tandis qu'à l'échelle mondiale, la jeunesse indienne se dresse pour défier le pouvoir, signe d'une quête incessante de changement et de responsabilité. \nParallèlement, le monde technologique continue d'innover avec les mises à jour en réalité virtuelle tout en alertant sur des failles de cybersécurité majeures, impactant notre quotidien numérique. Côté sport, l'intensité est au rendez-vous avec les résultats des finales de football et les défis personnels des athlètes de haut niveau, le tout sur fond de discussions éthiques sur le dopage. Ce kaléidoscope d'événements témoigne de la richesse et de la complexité de notre monde actuel.",
+  "running_advice": "Avis du Coach : Prépare-toi à briller sous le soleil de Saint Didier ! ☀️ Avec des températures allant de 17.8°C à 32°C et un ciel peu nuageux, c'est une excellente journée pour chausser tes baskets. Le défi sera de gérer la chaleur, surtout l'après-midi. Pour une performance optimale et pour éviter les coups de chaud, je te recommande de courir soit très tôt le matin, juste après le lever du soleil à 06:25, quand la fraîcheur est encore de mise, soit en fin de journée, après 19h00, pour profiter du coucher de soleil et d'une baisse des températures. L'indice UV est de 7.4, ce qui est élevé : crème solaire indispensable, lunettes de soleil et casquette sont tes meilleurs alliés. Hydrate-toi massivement avant, pendant et après ta séance. Vas-y, l'énergie est au rendez-vous, dépasse-toi !",
+  "weather_string": "🌤️ Peu nuageux (17.8°C / 32°C)",
+  "weather_stats": {
+    "temp": "32°C",
+    "rain": "0%",
+    "uv": "7.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Jeunesse indienne : un défi au pouvoir en place",
+          "summary": "La jeunesse indienne exprime son mécontentement, questionnant l'autorité par des mouvements audacieux et symboliques.",
+          "url": "https://www.franceinfo.fr/monde/inde/le-parti-du-peuple-cafard-la-jeunesse-indienne-defie-le-pouvoir_8021435.html",
+          "image": "https://www.franceinfo.fr/pictures/Wy_n0y0xMTdYNrb3j5HSm7FQzGk/fit-in/1200x675/filters:upscale():fill(black)/2026/05/22/6a107b901a95b809461986.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Anesthésiste condamné pour viols et agression sexuelle",
+          "summary": "Un anesthésiste de l'Eure écope de cinq ans de prison ferme pour des faits graves, marquant une décision de justice importante.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/05/22/un-anesthesiste-condamne-a-cinq-ans-de-prison-pour-viols-et-agression-sexuelle",
+          "image": "https://cdn-s-www.lalsace.fr/images/23532400-D3F8-47D7-B86D-3642F4DAF74A/NW_listB/un-anesthesiste-condamne-a-cinq-ans-de-prison-pour-viols-et-agression-sexuelle-1779480434.jpg"
+        },
+        {
+          "title": "Roxana Mînzatu : l'anti-populisme par le social",
+          "summary": "Roxana Mînzatu propose des politiques sociales solides comme rempart essentiel contre la montée du populisme actuel.",
+          "url": "https://www.rfi.fr/fr/podcasts/ici-l-europe/20260522-roxana-m%C3%AEnzatu-la-r%C3%A9ponse-au-populisme-passe-par-des-politiques-sociales-efficaces-et-cr%C3%A9dibles",
+          "image": "https://s.rfi.fr/media/display/bbf52e78-5613-11f1-bc07-005056bf30b7/w:1280/p:16x9/PHOTO-ROXANA-M%C3%8ENZATU.jpg"
+        },
+        {
+          "title": "Ukraine : portrait du commandant des drones, cible russe",
+          "summary": "Robert Brovdi, figure clé de la guerre des drones en Ukraine, devient une cible prioritaire pour les forces russes.",
+          "url": "https://www.lefigaro.fr/international/robert-magyar-brovdi-commandant-de-la-guerre-des-drones-en-ukraine-l-homme-a-abattre-pour-les-russes-20260522",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/05/22/1a17b0e873951d1852904c09f48f2da98cf925163ec15be2a8ccf5549a13ce7e.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Meta Quest OS : rangements qui dérangent",
+          "summary": "La nouvelle mise à jour Horizon OS v2.4 pour Meta Quest réorganise les applications, bouleversant les habitudes.",
+          "url": "https://gamergen.com/actualites/meta-quest-horizon-os-v2-4-range-applis-mais-derange-habitudes-342354-1",
+          "image": "http://global-img.gamergen.com/meta-quest-horizon-os-v2-4-range-applis-mais-derange-habitudes_00FA009601057990.jpg"
+        },
+        {
+          "title": "Toulon teste une \"arme\" contre les fourmis électriques",
+          "summary": "Des granules toxiques sont testées à Toulon pour éradiquer les invasions de fourmis électriques, une menace locale.",
+          "url": "https://www.20minutes.fr/societe/4225023-20260522-fourmis-electriques-var-granules-toxiques-toulon-teste-nouvelle-arme-debarrasser",
+          "image": "https://img.20mn.fr/jzbZGcqGTGqi9vXxzrDxYCk/1444x920_3-mai-2026-elkton-oregon-etats-unis-une-immense-colonie-de-petites-fourmis-traverse-un-chemin-de-gravier-sur-une-colline-pres-d-elkton-dans-la-campagne-du-sud-ouest-de-l-oregon-les-fourmis-semblent-etre-une-espece-de-fourmi-acrobate-ou-de-fourmi-citronnelle-toutes-deux-communes-dans-le-nord-ouest-du-pacifique-bien-qu-il-soit-difficile-de-les-identifier-avec-precision-les-scientifiques-estiment-qu-il-y-a-environ-20-quadrillions-de-fourmis-sur-terre-soit-environ-2-5-millions-pour-chaque-personne-avec-une-biomasse-totale-egale-a-environ-un-cinquieme-de-tous-les-humains-reunis-image-de-credit-robin-loznak-zuma-press-wire-20260503-zaf-l31-002-zeus-2605041439"
+        },
+        {
+          "title": "Faille critique Chrome/Edge/Opera révélée par Google",
+          "summary": "Google a accidentellement dévoilé une faille majeure affectant Chrome, Edge et Opera, suscitant des inquiétudes de sécurité.",
+          "url": "https://www.capital.fr/economie-politique/cybersecurite-google-revele-par-erreur-une-faille-critique-touchant-chrome-edge-et-opera-faut-il-s-inquieter-1526874",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~22~336e7258-2efc-4d18-9533-aa2a32a31d20.jpg/1200x900/focus-point/1377%2C810/cybersecurite-google-revele-par-erreur-une-faille-critique-touchant-chrome-edge-et-opera-faut-il-s-inquieter.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Kaltura : directeur client cède des actions",
+          "summary": "Natan Israël, directeur client de Kaltura, a effectué une cession d'actions pour un montant de 5 407 dollars.",
+          "url": "https://fr.investing.com/news/insider-trading-news/le-directeur-client-de-kaltura-natan-israel-cede-des-actions-pour-5407-93CH-3431910",
+          "image": "https://i-invdn-com.investing.com/news/Kaltura_800x533_L_1659951841.jpg"
+        },
+        {
+          "title": "F&M Bancorp : administrateur vend des actions",
+          "summary": "Un administrateur de F&M Bancorp a vendu des actions de la société pour une valeur de 165 330 dollars.",
+          "url": "https://fr.investing.com/news/insider-trading-news/un-administrateur-de-fm-bancorp-vend-des-actions-pour-165330-93CH-3431914",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL8P00V_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Voleurs de vélos électriques interpellés au Pays basque",
+          "summary": "Trois individus ont été arrêtés à Biarritz et Bayonne pour le vol de vélos électriques de grande valeur.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/pays-basque-trois-voleurs-de-velos-electriques-interpelles-a-biarritz-et-bayonne-29185260.php",
+          "image": null
+        },
+        {
+          "title": "Agression et course-poursuite près de Bordeaux",
+          "summary": "Une agression à domicile impliquant un revolver a déclenché une course-poursuite mouvementée aux abords de Bordeaux.",
+          "url": "https://www.sudouest.fr/faits-divers/agression-a-domicile-revolver-et-course-poursuite-pres-de-bordeaux-29188911.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Mandalorian S4 : après le film, quel avenir ?",
+          "summary": "L'avenir de la saison 4 de The Mandalorian est en question suite à la sortie du film dédié à la saga.",
+          "url": "https://www.journaldugeek.com/2026/05/23/the-mandalorian-que-se-passe-t-il-pour-la-saison-4-maintenant-que-le-film-est-sorti/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/the-mandalorian-saison-4-1280x853.jpg"
+        },
+        {
+          "title": "Retrouver un film oublié : les astuces",
+          "summary": "Des moteurs de recherche spécialisés permettent de retrouver facilement le titre de n'importe quel film dont on se souvient mal.",
+          "url": "https://www.journaldugeek.com/2026/05/22/retrouvez-titre-de-nimporte-quel-film-avec-ce-moteur-de-recherche/",
+          "image": "https://www.journaldugeek.com/app/uploads/2023/02/retrouver-titre-film-oublie-moteur-recherche-2026-1280x853.jpeg"
+        },
+        {
+          "title": "Conduite : jeunes contre anciens, le débat",
+          "summary": "Une étude interroge la qualité de la conduite selon les âges, relançant le débat sur les comportements au volant.",
+          "url": "https://www.journaldugeek.com/2026/05/22/qui-conduit-nimporte-comment-les-jeunes-ou-les-vieux/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/09/Accident-de-voiture-1280x859.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Coupe de France : Lens-Nice, les temps forts",
+          "summary": "La finale de la Coupe de France voit Lens prendre l'avantage, avant la riposte de Nice dans un match intense.",
+          "url": "https://www.lefigaro.fr/sports/football/coupe-de-france-en-video-l-ouverture-du-score-de-florian-thauvin-qui-delivre-les-lensois-20260522",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/05/22/385d687f9986821d8d3658c8756700a8da3d4867d702cf6c82899d414403270f.jpg"
+        },
+        {
+          "title": "Wembanyama : doutes après la défaite des Spurs",
+          "summary": "Après un nouveau revers, Wembanyama exprime ses doutes sur sa capacité à améliorer le jeu de ses coéquipiers.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/j-ai-l-impression-que-j-ai-du-mal-a-rendre-mes-coequipiers-meilleurs-juge-wembanyama-apres-un-deuxieme-revers-contre-le-thunder_AN-202605230095.html",
+          "image": "https://images.bfmtv.com/BrHZr_lpL7c4lym4ZC7d8juVQEY=/0x49:2048x1201/800x0/images/Victor-Wembanyama-le-22-mai-2026-2290934.jpg"
+        },
+        {
+          "title": "Enhanced Games : dopage autorisé et polémiques",
+          "summary": "Découvrez les \"Enhanced Games\", où le dopage est libre, soulevant des questions éthiques et sportives majeures.",
+          "url": "https://rmcsport.bfmtv.com/societe/argent-epo-et-trumpisme-cinq-choses-a-avoir-sur-les-enhanced-games-ces-jeux-ou-le-dopage-est-autorise_AV-202605200557.html",
+          "image": "https://images.bfmtv.com/KOyAYmmSvvYDfl68CrT8KcPvnk8=/0x0:2032x1143/800x0/images/Fred-Kerley-2007367.jpg"
+        }
+      ]
+    }
+  ]
+}
