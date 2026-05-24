@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Donatien",
-  "global_summary": "L'actualité mondiale est marquée par des débats cruciaux sur la santé et l'équité, avec un expert pointant du doigt les disparités dans la recherche vaccinale pour certaines maladies. Le monde du cinéma célèbre l'excellence avec la Palme d'or 2026 décernée à \"Fjord\" de Cristian Mungiu, tandis qu'une alerte à l'hantavirus sur un navire retient l'attention, soulignant les enjeux sanitaires globaux. \nSur le plan sportif, l'excitation monte en NBA avec des playoffs intenses et les performances de Victor Wembanyama au cœur des discussions. Cependant, le sport fait face à une controverse majeure avec l'émergence des \"Enhanced Games\", un événement qui autorise le dopage, soulevant des questions éthiques et passionnant le débat public. L'univers tech-culturel, lui, nous plonge dans l'univers du gaming et des séries, avec des révélations et découvertes.",
-  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets ! Avec des températures allant de 18.1°C à 33°C et un ciel peu nuageux, les conditions sont idéales. Je vous conseille vivement de privilégier votre session de course tôt le matin, juste après le lever du soleil vers 6h24, ou en fin de journée, après 19h pour profiter de la fraîcheur. Attention cependant à l'indice UV élevé (7.4) : n'oubliez pas une bonne crème solaire, des lunettes de soleil et une casquette pour vous protéger. Hydratez-vous abondamment et écoutez votre corps ! Ne laissez rien vous arrêter, donnez le meilleur de vous-même !",
+  "global_summary": "L'actualité de ce jour est marquée par des réflexions profondes sur les inégalités mondiales en matière de santé, alors que Jean Kaseya pointe le manque de réactivité face à certaines maladies. Côté culture, le Festival de Cannes a brillé, sacrant \"Fjord\" et célébrant de nombreux talents français. Dans le monde de la tech, des discussions animées agitent Apple TV+ tandis que le droit du travail à l'ère numérique est questionné, et l'univers du gaming est en effervescence. Sur le front économique, Volkswagen dément des rumeurs d'accords stratégiques, soulignant les tensions du marché européen.\n\nLe sport n'est pas en reste, avec un Victor Wembanyama introspectif après les revers des Spurs et le rugby français qui vise de nouveaux sommets. L'éthique sportive est également au cœur des débats avec la montée en puissance des controversés \"Enhanced Games\". Enfin, la société française est secouée par des affaires judiciaires de longue haleine, rappelant l'importance de la vigilance et de la justice.",
+  "running_advice": "Salut champion(ne) ! Aujourd'hui, les étoiles sont presque alignées pour une session de course dynamique. Avec un ciel peu nuageux et zéro risque de pluie, le terrain est idéal. Attention cependant, l'après-midi sera très chaude (jusqu'à 33°C) et l'indice UV élevé (7.4) ! Pour un entraînement optimal et sécurisé, chausse tes baskets tôt le matin, juste après le lever du soleil à 06h24, ou privilégie la fin de journée, après 19h-20h, quand la chaleur et les UV baissent. Impératif : protection solaire (crème, casquette, lunettes) et une hydratation impeccable ! C'est le moment de transpirer intelligemment et de te dépasser !",
   "weather_string": "🌤️ Peu nuageux (18.1°C / 33°C)",
   "weather_stats": {
     "temp": "33°C",
@@ -14,44 +14,122 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Disparités Vaccinales Mondiales",
-          "summary": "Un expert dénonce le manque de vaccins pour maladies africaines, soulignant l'inégalité globale en santé.",
+          "title": "Santé mondiale : la fracture vaccinale",
+          "summary": "Un expert dénonce l'inégalité d'accès aux vaccins selon la localisation géographique des maladies.",
           "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260523-jean-kaseya-si-cette-maladie-%C3%A9tait-en-europe-ou-aux-etats-unis-on-aurait-d%C3%A9j%C3%A0-des-vaccins",
           "image": "https://s.france24.com/media/display/1ef3a654-56e0-11f1-aa83-005056bf30b7/w:1280/p:16x9/Francais-2026-05-23T18-02-48-365Z.jpg"
         },
         {
-          "title": "\"Fjord\" Décroche la Palme d'Or",
-          "summary": "Le film \"Fjord\" de Cristian Mungiu remporte la prestigieuse Palme d'Or au Festival de Cannes 2026.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20260523-fjord-de-cristian-mungiu-remporte-la-palme-d-or-2026",
-          "image": "https://s.france24.com/media/display/ff7781b4-56d6-11f1-b397-005056bfb2b6/w:1280/p:16x9/Minia-Palme-d-or.jpg"
-        },
-        {
-          "title": "Fin de Quarantaine Hantavirus",
-          "summary": "L'OMS confirme que le capitaine du MV Hondius, sain, peut quitter son navire après l'alerte à l'hantavirus.",
+          "title": "Hantavirus : Fin de l'isolement du capitaine",
+          "summary": "L'OMS confirme que le capitaine du MV Hondius, sans symptômes, peut enfin quitter son navire.",
           "url": "https://www.bfmtv.com/international/europe/pays-bas/il-ne-presente-toujours-aucun-symptome-d-hantavirus-l-oms-annonce-que-le-capitaine-du-mv-hondius-va-enfin-quitter-le-navire_AD-202605230310.html",
           "image": "https://images.bfmtv.com/qj4W0yTA7SVQhYIdFcoZqOMwR4M=/0x106:2048x1258/2048x0/images/Le-MV-Hondius-un-navire-de-croisiere-neerlandais-touche-par-l-hantavirus-accoste-au-port-de-Rotterdam-le-18-mai-2026-2288240.jpg"
+        },
+        {
+          "title": "“Fjord” de Mungiu remporte la Palme d'Or",
+          "summary": "Le film de Cristian Mungiu décroche la prestigieuse Palme d'Or au Festival de Cannes 2026.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260523-fjord-de-cristian-mungiu-remporte-la-palme-d-or-2026",
+          "image": "https://s.france24.com/media/display/ff7781b4-56d6-11f1-b397-005056bfb2b6/w:1280/p:16x9/Minia-Palme-d-or.jpg"
         }
       ]
     },
     {
-      "label": "Journal du Geek",
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Cannes 2026 : Le palmarès complet dévoilé",
+          "summary": "\"Fjord\" sacré meilleur film, Virginie Efira et Tao Okamoto brillent également au Festival.",
+          "url": "https://www.rtl.fr/culture/cine-series/festival-de-cannes-fjord-meilleur-film-virginie-efira-et-tao-okamoto-sacrees-le-palmares-complet-categorie-par-categorie-7900638266",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1758055-la-palme-d-or-de-cannes.jpg"
+        },
+        {
+          "title": "« Double Vie » : Surprise culturelle à Montréal",
+          "summary": "Une pièce française pourrait créer la sensation au festival Fringe de Montréal.",
+          "url": "https://lepetitjournal.com/montreal/double-vie-surprise-festival-fringe-montreal-2026-444324",
+          "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-05/Sandrine%20Double%20Vie%20-%20illustration%20LPJ.jpg"
+        },
+        {
+          "title": "Ex-CNOSF : Mis en examen et écroué",
+          "summary": "L'ancien responsable du CNOSF, piégé en ligne, est mis en examen et placé en détention provisoire.",
+          "url": "https://rmcsport.bfmtv.com/societe/l-ancien-responsable-du-cnosf-piege-par-un-chasseur-de-pedocriminels-mis-en-examen-et-place-en-detention-provisoire_AV-202605140604.html",
+          "image": "https://images.bfmtv.com/qjAueEB7a4guQIMGokYveTfoj4M=/0x26:512x314/800x0/images/-180057.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Apple TV+ : Une tendance inquiétante",
+          "summary": "Les abonnés s'interrogent sur la direction des séries phares de la plateforme de streaming.",
+          "url": "https://www.begeek.fr/les-abonnes-dapple-tv-relevent-une-tendance-inquietante-dans-les-series-phares-de-la-plateforme-432571",
+          "image": "https://www.begeek.fr/app/uploads/2026/05/severance-1200x675.jpg"
+        },
+        {
+          "title": "Fichier suspect : risque de licenciement ?",
+          "summary": "Un fichier inattendu sur votre ordinateur professionnel peut-il justifier un licenciement ?",
+          "url": "https://www.capital.fr/votre-carriere/votre-employeur-peut-il-vous-licencier-pour-un-fichier-suspect-retrouve-sur-votre-ordinateur-1526888",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~23~6a2b25c5-6a28-4839-b23a-e092db6c86bf.jpg/1200x900/focus-point/1597%2C688/votre-employeur-peut-il-vous-licencier-pour-un-fichier-suspect-retrouve-sur-votre-ordinateur.jpg"
+        },
+        {
+          "title": "Fable : Tout ce qu'on sait du jeu",
+          "summary": "Découvrez les dernières informations et annonces concernant le très attendu RPG Fable.",
+          "url": "https://www.journaldugeek.com/2026/05/24/fable-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-personnages/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/Dossiers-JDG-Fable-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "💸",
+      "articles": [
+        {
+          "title": "Volkswagen nie accords usines chinoises",
+          "summary": "Le constructeur dément toute rumeur d'accord avec des marques chinoises pour l'Europe.",
+          "url": "https://fr.motor1.com/news/796625/volkswagen-nie-tout-accord-marques-chinoises-europe/",
+          "image": "https://cdn.motor1.com/images/mgl/Kbgw8G/s1/oliver-blume-ceo-di-volkswagen-group.webp"
+        }
+      ]
+    },
+    {
+      "label": "Société & Enquêtes",
+      "emoji": "🚨",
+      "articles": [
+        {
+          "title": "Affaire Grégory : Enquête \"irrécupérable\"",
+          "summary": "L'avocat d'une des parties estime que l'enquête, \"pourrie\" dès le départ, est compromise.",
+          "url": "https://www.sudouest.fr/faits-divers/grandes-affaires/grands-faits-divers/affaire-gregory-pourrie-des-le-depart-l-enquete-est-totalement-irrecuperable-selon-l-avocat-de-la-grande-tante-jacqueline-jacob-29205286.php",
+          "image": null
+        },
+        {
+          "title": "Isère : Un corps découvert calciné",
+          "summary": "La piste criminelle est privilégiée après la découverte macabre d'un corps dans une voiture incendiée.",
+          "url": "https://www.sudouest.fr/faits-divers/narcotrafic/un-corps-decouvert-dans-une-voiture-incendiee-en-isere-la-piste-criminelle-privilegiee-29205429.php",
+          "image": null
+        },
+        {
+          "title": "Pyrénées : Secours héliportés sur le GR10",
+          "summary": "Une femme évacuée par Dragon 64 après une crise cardiaque sur le GR10 au pic d'Iparla.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/saint-etienne-de-baigorry/pays-basque-une-femme-de-34-ans-evacuee-par-l-helicoptere-dragon-64-sur-le-gr-10-au-pic-d-iparla-apres-une-crise-de-tachycardie-29201838.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture & Geek",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Fable: Dernières Révélations",
-          "summary": "Découvrez les dernières informations, annonces et détails sur les personnages du très attendu jeu Fable.",
-          "url": "https://www.journaldugeek.com/2026/05/24/fable-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-personnages/",
-          "image": "https://www.journaldugeek.com/app/uploads/2025/12/Dossiers-JDG-Fable-1280x853.jpg"
-        },
-        {
-          "title": "\"Widow's Bay\": La Pépite Oubliée",
-          "summary": "Cette série sur Apple TV+ est une véritable pépite narrative, à découvrir absolument selon les critiques.",
+          "title": "Widow's Bay : la pépite méconnue",
+          "summary": "Une série Apple TV+ saluée par la critique mérite absolument d'être découverte.",
           "url": "https://www.journaldugeek.com/2026/05/24/widows-bay-personne-nen-parle-mais-cette-serie-est-une-pepite/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/widows-bay-apple-tv-plus-pepite-1280x853.jpg"
         },
         {
-          "title": "Sigourney Weaver rejoint Star Wars",
-          "summary": "Rencontre exclusive avec Sigourney Weaver, qui incarne une nouvelle figure rebelle dans l'univers Star Wars.",
+          "title": "Sigourney Weaver, nouvelle rebelle Star Wars",
+          "summary": "Rencontre exclusive avec l'actrice qui rejoint la galaxie lointaine, très lointaine.",
           "url": "https://www.journaldugeek.com/2026/05/23/on-a-rencontre-sigourney-weaver-la-nouvelle-rebelle-de-star-wars/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/sigourney-weaver-interview-1280x853.jpg"
         }
@@ -62,22 +140,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama: Questionnements Personnels",
-          "summary": "Après un revers, Victor Wembanyama s'interroge sur sa capacité à améliorer le jeu de ses coéquipiers.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/j-ai-l-impression-que-j-ai-du-mal-a-rendre-mes-coequipiers-meilleurs-juge-wembanyama-apres-un-deuxieme-revers-contre-le-thunder_AN-202605230095.html",
-          "image": "https://images.bfmtv.com/BrHZr_lpL7c4lym4ZC7d8juVQEY=/0x49:2048x1201/800x0/images/Victor-Wembanyama-le-22-mai-2026-2290934.jpg"
+          "title": "Wembanyama s'interroge après défaite",
+          "summary": "Le jeune prodige des Spurs assume ses responsabilités après un nouveau revers en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-les-spurs-battus-au-match-3-je-vais-devoir-prendre-mes-responsabilites-plus-tot-constate-wembanyama_VN-202605230158.html",
+          "image": "https://images.bfmtv.com/-gE1HUTaS1ckURGoBkruOo6siiQ=/0x0:1280x720/800x0/images/Les-Spurs-battus-au-match-3-je-vais-devoir-prendre-mes-responsabilites-plus-tot-constate-Wembanyama-2290976.jpg"
         },
         {
-          "title": "NBA: Les Knicks Proches de la Finale",
-          "summary": "Les Knicks dominent les Cavs avec une troisième victoire, se rapprochant de la finale des playoffs NBA.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/play-offs-nba-les-knicks-ont-un-pied-en-finale-apres-leur-troisieme-victoire-face-aux-cavs_AV-202605240093.html",
-          "image": "https://images.bfmtv.com/w4F6NdeldnEiXdgqc-w0_DTYZ1I=/0x61:2048x1213/800x0/images/Jalen-Brunson-le-23-mai-2026-2291228.jpg"
+          "title": "UBB : Le Brennus en ligne de mire",
+          "summary": "Après la Champions Cup, Laurent Marti fixe au club l'objectif clair du Bouclier de Brennus.",
+          "url": "https://rmcsport.bfmtv.com/rugby/coupe-d-europe/il-faut-au-moins-un-brennus-au-milieu-clame-laurent-marti-apres-le-titre-europeen_AV-202605230341.html",
+          "image": "https://images.bfmtv.com/FMv0I8jHi3vLqHkBuR_R5jXzRF8=/0x0:2048x1152/800x0/images/Laurent-Marti-president-de-l-UBB-apres-la-finale-de-Champions-Cup-23-mai-2026-2291141.jpg"
         },
         {
-          "title": "Enhanced Games: La Ministre S'Indigne",
-          "summary": "Amélie Oudéa-Castera dénonce les Enhanced Games comme une \"tricherie\" et une pratique \"dégradante\" pour le sport.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/video-tricherie-et-degradante-amelie-oudea-castera-s-eleve-contre-les-enhanced-games_VN-202605220470.html",
-          "image": "https://images.bfmtv.com/lpN95UBi0BZJq2TAjBMglYL7l5s=/0x0:1280x720/800x0/images/Tricherie-et-degradante-Amelie-Oudea-Castera-s-eleve-contre-les-Enhanced-Games-2290530.jpg"
+          "title": "Enhanced Games : Dopage et controverses",
+          "summary": "Cinq points clés pour comprendre ces Jeux où le dopage est autorisé, entre argent et éthique.",
+          "url": "https://rmcsport.bfmtv.com/societe/argent-epo-et-trumpisme-cinq-choses-a-avoir-sur-les-enhanced-games-ces-jeux-ou-le-dopage-est-autorise_AV-202605200557.html",
+          "image": "https://images.bfmtv.com/KOyAYmmSvvYDfl68CrT8KcPvnk8=/0x0:2032x1143/800x0/images/Fred-Kerley-2007367.jpg"
         }
       ]
     }
