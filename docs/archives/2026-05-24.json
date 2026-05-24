@@ -1,0 +1,85 @@
+{
+  "ephemeride": "Saint Donatien",
+  "global_summary": "L'actualité mondiale est marquée par des débats cruciaux sur la santé et l'équité, avec un expert pointant du doigt les disparités dans la recherche vaccinale pour certaines maladies. Le monde du cinéma célèbre l'excellence avec la Palme d'or 2026 décernée à \"Fjord\" de Cristian Mungiu, tandis qu'une alerte à l'hantavirus sur un navire retient l'attention, soulignant les enjeux sanitaires globaux. \nSur le plan sportif, l'excitation monte en NBA avec des playoffs intenses et les performances de Victor Wembanyama au cœur des discussions. Cependant, le sport fait face à une controverse majeure avec l'émergence des \"Enhanced Games\", un événement qui autorise le dopage, soulevant des questions éthiques et passionnant le débat public. L'univers tech-culturel, lui, nous plonge dans l'univers du gaming et des séries, avec des révélations et découvertes.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets ! Avec des températures allant de 18.1°C à 33°C et un ciel peu nuageux, les conditions sont idéales. Je vous conseille vivement de privilégier votre session de course tôt le matin, juste après le lever du soleil vers 6h24, ou en fin de journée, après 19h pour profiter de la fraîcheur. Attention cependant à l'indice UV élevé (7.4) : n'oubliez pas une bonne crème solaire, des lunettes de soleil et une casquette pour vous protéger. Hydratez-vous abondamment et écoutez votre corps ! Ne laissez rien vous arrêter, donnez le meilleur de vous-même !",
+  "weather_string": "🌤️ Peu nuageux (18.1°C / 33°C)",
+  "weather_stats": {
+    "temp": "33°C",
+    "rain": "0%",
+    "uv": "7.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Disparités Vaccinales Mondiales",
+          "summary": "Un expert dénonce le manque de vaccins pour maladies africaines, soulignant l'inégalité globale en santé.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260523-jean-kaseya-si-cette-maladie-%C3%A9tait-en-europe-ou-aux-etats-unis-on-aurait-d%C3%A9j%C3%A0-des-vaccins",
+          "image": "https://s.france24.com/media/display/1ef3a654-56e0-11f1-aa83-005056bf30b7/w:1280/p:16x9/Francais-2026-05-23T18-02-48-365Z.jpg"
+        },
+        {
+          "title": "\"Fjord\" Décroche la Palme d'Or",
+          "summary": "Le film \"Fjord\" de Cristian Mungiu remporte la prestigieuse Palme d'Or au Festival de Cannes 2026.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260523-fjord-de-cristian-mungiu-remporte-la-palme-d-or-2026",
+          "image": "https://s.france24.com/media/display/ff7781b4-56d6-11f1-b397-005056bfb2b6/w:1280/p:16x9/Minia-Palme-d-or.jpg"
+        },
+        {
+          "title": "Fin de Quarantaine Hantavirus",
+          "summary": "L'OMS confirme que le capitaine du MV Hondius, sain, peut quitter son navire après l'alerte à l'hantavirus.",
+          "url": "https://www.bfmtv.com/international/europe/pays-bas/il-ne-presente-toujours-aucun-symptome-d-hantavirus-l-oms-annonce-que-le-capitaine-du-mv-hondius-va-enfin-quitter-le-navire_AD-202605230310.html",
+          "image": "https://images.bfmtv.com/qj4W0yTA7SVQhYIdFcoZqOMwR4M=/0x106:2048x1258/2048x0/images/Le-MV-Hondius-un-navire-de-croisiere-neerlandais-touche-par-l-hantavirus-accoste-au-port-de-Rotterdam-le-18-mai-2026-2288240.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Fable: Dernières Révélations",
+          "summary": "Découvrez les dernières informations, annonces et détails sur les personnages du très attendu jeu Fable.",
+          "url": "https://www.journaldugeek.com/2026/05/24/fable-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-personnages/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/Dossiers-JDG-Fable-1280x853.jpg"
+        },
+        {
+          "title": "\"Widow's Bay\": La Pépite Oubliée",
+          "summary": "Cette série sur Apple TV+ est une véritable pépite narrative, à découvrir absolument selon les critiques.",
+          "url": "https://www.journaldugeek.com/2026/05/24/widows-bay-personne-nen-parle-mais-cette-serie-est-une-pepite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/widows-bay-apple-tv-plus-pepite-1280x853.jpg"
+        },
+        {
+          "title": "Sigourney Weaver rejoint Star Wars",
+          "summary": "Rencontre exclusive avec Sigourney Weaver, qui incarne une nouvelle figure rebelle dans l'univers Star Wars.",
+          "url": "https://www.journaldugeek.com/2026/05/23/on-a-rencontre-sigourney-weaver-la-nouvelle-rebelle-de-star-wars/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/sigourney-weaver-interview-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama: Questionnements Personnels",
+          "summary": "Après un revers, Victor Wembanyama s'interroge sur sa capacité à améliorer le jeu de ses coéquipiers.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/j-ai-l-impression-que-j-ai-du-mal-a-rendre-mes-coequipiers-meilleurs-juge-wembanyama-apres-un-deuxieme-revers-contre-le-thunder_AN-202605230095.html",
+          "image": "https://images.bfmtv.com/BrHZr_lpL7c4lym4ZC7d8juVQEY=/0x49:2048x1201/800x0/images/Victor-Wembanyama-le-22-mai-2026-2290934.jpg"
+        },
+        {
+          "title": "NBA: Les Knicks Proches de la Finale",
+          "summary": "Les Knicks dominent les Cavs avec une troisième victoire, se rapprochant de la finale des playoffs NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/play-offs-nba-les-knicks-ont-un-pied-en-finale-apres-leur-troisieme-victoire-face-aux-cavs_AV-202605240093.html",
+          "image": "https://images.bfmtv.com/w4F6NdeldnEiXdgqc-w0_DTYZ1I=/0x61:2048x1213/800x0/images/Jalen-Brunson-le-23-mai-2026-2291228.jpg"
+        },
+        {
+          "title": "Enhanced Games: La Ministre S'Indigne",
+          "summary": "Amélie Oudéa-Castera dénonce les Enhanced Games comme une \"tricherie\" et une pratique \"dégradante\" pour le sport.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-tricherie-et-degradante-amelie-oudea-castera-s-eleve-contre-les-enhanced-games_VN-202605220470.html",
+          "image": "https://images.bfmtv.com/lpN95UBi0BZJq2TAjBMglYL7l5s=/0x0:1280x720/800x0/images/Tricherie-et-degradante-Amelie-Oudea-Castera-s-eleve-contre-les-Enhanced-Games-2290530.jpg"
+        }
+      ]
+    }
+  ]
+}
