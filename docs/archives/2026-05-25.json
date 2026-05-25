@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Sainte Sophie",
+  "global_summary": "Ce vendredi est marqué par une actualité dense, oscillant entre les tensions géopolitiques mondiales et les exploits sportifs qui nous rappellent la puissance de l'esprit humain. Alors que Kiev subit de nouvelles frappes et que la Turquie voit des remous politiques, la scène sportive internationale brille avec l'Olympiacos couronné en basket et les Spurs de Wembanyama égalisant en NBA, signe d'une détermination inébranlable.\n\nEn parallèle, des sujets comme l'influence croissante de l'IA et l'impact du changement climatique sur nos étés futurs nous poussent à la réflexion. Des initiatives locales se dessinent, tandis que des drames plus sombres et des défis personnels rappellent la complexité du quotidien, invitant à la prudence et à l'engagement.",
+  "running_advice": "Aujourd'hui, c'est une journée magnifique pour te dépasser ! Avec un ciel peu nuageux, des températures idéales entre 20°C et 33°C, et zéro pluie, toutes les conditions sont réunies pour un run de qualité. L'indice UV de 7.4 est élevé, donc la prudence est de mise. L'heure idéale pour chausser tes baskets ? Absolument à l'aube, entre 06h23 et 08h30, pour profiter de la fraîcheur matinale. Si tu préfères l'après-midi, vise après 19h00 jusqu'au coucher du soleil à 21h35. N'oublie pas ta casquette, tes lunettes de soleil et, surtout, une crème solaire pour protéger ta peau. Hydrate-toi abondamment et écoute ton corps. Go, fonce !",
+  "weather_string": "🌤️ Peu nuageux (20°C / 33°C)",
+  "weather_stats": {
+    "temp": "33°C",
+    "rain": "0%",
+    "uv": "7.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Kiev sous les frappes, le conflit ukrainien perdure",
+          "summary": "La capitale ukrainienne est de nouveau ciblée, soulignant l'intensité persistante du conflit.",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-kiev-ciblee-par-une-nouvelle-salve-de-frappes_8025485.html",
+          "image": "https://www.franceinfo.fr/pictures/2YU3ol6kXiX864Ik0p7-BwFL__I/1200x675/2026/05/24/6a13689c8fd4d788285847.jpg"
+        },
+        {
+          "title": "Turquie : Tensions politiques, le chef de l'opposition délogé",
+          "summary": "La police est intervenue pour déloger de force le leader du principal parti d'opposition.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260524-turquie-la-police-d%C3%A9loge-de-force-le-chef-du-principal-parti-d-opposition",
+          "image": "https://s.france24.com/media/display/9dbd5368-57b2-11f1-ad96-005056bfb2b6/w:1280/p:16x9/FR-20260524-223453-223638-CS.jpg"
+        },
+        {
+          "title": "Basket Européen : L'Olympiacos sur le toit de l'Europe !",
+          "summary": "L'équipe d'Evan Fournier décroche le titre suprême du basket-ball européen.",
+          "url": "https://www.france24.com/fr/sports/20260524-basket-l-olympiacos-d-evan-fournier-de-nouveau-roi-d-europe",
+          "image": "https://s.france24.com/media/display/37750bee-57f5-11f1-bf19-005056a90284/w:1280/p:16x9/000-B3WV3TL.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Football : Raya, le gardien atypique qui défie les normes",
+          "summary": "Malgré sa petite taille, David Raya s'impose comme un gardien moderne et infranchissable.",
+          "url": "https://www.eurosport.fr/football/ligue-des-champions/2025-2026/ligue-des-champions-psg-arsenal-profil-atypique-science-du-placement-lecture-du-jeu-david-raya-un-gardien-moderne-proche-de-la-perfection_sto23302028/story.shtml",
+          "image": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/05/22/image-a773893a-37b9-4b5e-a983-91382a97a63d-68-310-310.jpeg"
+        },
+        {
+          "title": "Roland-Garros : Maux d'estomac pour Arthur Gea",
+          "summary": "Le jeune tennisman Arthur Gea souffre de maux d'estomac en plein tournoi de Roland-Garros.",
+          "url": "http://www.lardennais.fr/id807518/article/2026-05-24/lactualite-vue-par-alex-arthur-gea-victime-de-maux-destomac-roland-garros",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/05/24/node_807518/15437295/public/2026/05/24/81595935.jpeg?itok=Eqt5Sbg41779659339"
+        },
+        {
+          "title": "Cyclisme : Huby retrouve l'amour du vélo aux Philippines",
+          "summary": "Antoine Huby redécouvre sa passion pour le cyclisme loin des circuits habituels aux Philippines.",
+          "url": "https://www.eurosport.fr/cyclisme/aux-philippines-jai-redecouvert-pourquoi-jaimais-le-velo-antoine-huby-toque-a-la-porte-des-equipes-europeennes_sto23302394/story.shtml",
+          "image": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/05/23/image-7fd3afaf-1138-4746-b6da-a4c4f3b45443-68-310-310.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Espace",
+      "emoji": "🚀",
+      "articles": [
+        {
+          "title": "IA et démocratie : L'influence invisible sur nos votes",
+          "summary": "L'intelligence artificielle ne vote pas, mais son impact sur les électeurs est déjà réel.",
+          "url": "https://www.latribune.fr/article/idees/20395894358211/opinion-l-ia-ne-vote-pas-mais-elle-influence-deja-ceux-qui-votent",
+          "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1000,quality=80/media/melody/2026/05/24/carine-fotso-1779656659_89f25897631a610235897631af3235v_.jpg"
+        },
+        {
+          "title": "Objectif Lune : La Chine lance une mission spatiale habitée",
+          "summary": "Trois taïkonautes chinois sont envoyés dans l'espace, dont un pour une mission d'un an.",
+          "url": "https://www.europe1.fr/international/objectif-lune-la-chine-envoie-trois-hommes-dans-lespace-dont-un-pour-un-an-938048",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/05/24/22/000_b3wl4jg_1_6a135f8738941.jpg"
+        },
+        {
+          "title": "Canicule : Protégez votre PC portable de la surchauffe",
+          "summary": "Conseils essentiels pour éviter les erreurs qui pourraient endommager votre ordinateur cet été.",
+          "url": "https://www.journaldugeek.com/dossier/canicule-et-pc-portable-les-erreurs-a-eviter-pour-ne-pas-tout-cramer/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/06/pc-portable-surchauffe-temperature-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Local",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Prime d'activité : Êtes-vous concerné par sa revalorisation ?",
+          "summary": "Vérifiez si la revalorisation de la prime d'activité vous concerne directement.",
+          "url": "https://www.capital.fr/votre-argent/prime-dactivite-etes-vous-concerne-par-sa-revalorisation-1526903",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~24~bb4fca55-8148-4036-807a-bf040bc5c433.jpg/1200x900/focus-point/2145%2C706/prime-d-activite-etes-vous-concerne-par-sa-revalorisation.jpg"
+        },
+        {
+          "title": "Monaco Basket : Crise financière malgré le succès ?",
+          "summary": "Plus d'argent, plus de joueurs, un MVP en grève : que se passe-t-il à Monaco ?",
+          "url": "https://www.eurosport.fr/basketball/betclic-elite/2025-2026/betclic-elite-playoffs-plus-dargent-plus-de-joueurs-le-mvp-en-greve-mais-que-se-passe-t-il-a-monaco-avant-le-debut-des-quarts-de-finale_sto23302747/story.shtml",
+          "image": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/05/24/image-489a36ac-e177-429b-a345-8ce0bf645ffd-68-310-310.jpeg"
+        },
+        {
+          "title": "Sailly-sur-la-Lys : Le cœur de village prend forme",
+          "summary": "Le projet de revitalisation 'Cœur de village' entre dans une nouvelle phase de développement.",
+          "url": "http://www.nordlittoral.fr/286652/article/2026-05-24/sailly-sur-la-lys-le-projet-coeur-de-village-entre-dans-une-nouvelle-phase",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/05/24/node_286652/3746113/public/2026/05/24/78039040.jpeg?itok=b4VP0Ld_1779658878"
+        }
+      ]
+    },
+    {
+      "label": "Faits Divers & Régionaux",
+      "emoji": "🚨",
+      "articles": [
+        {
+          "title": "Gironde : Un homme s'immole sur son lieu de travail",
+          "summary": "Une enquête est ouverte après un acte tragique d'immolation par le feu en Gironde.",
+          "url": "https://www.sudouest.fr/faits-divers/gironde-un-homme-s-immole-par-le-feu-sur-son-lieu-de-travail-29219147.php",
+          "image": null
+        },
+        {
+          "title": "Gironde : Deux chauffards flashés à plus de 200 km/h",
+          "summary": "Deux automobilistes ont vu leur permis suspendu après des excès de vitesse sur A10 et D5.",
+          "url": "https://www.sudouest.fr/gironde/gironde-deux-automobilistes-controles-a-plus-de-200-km-h-sur-l-a10-et-la-d5-leur-permis-suspendu-29218768.php",
+          "image": null
+        },
+        {
+          "title": "Vendée : Explosion dans un immeuble, 7 blessés",
+          "summary": "Une explosion en Vendée, possiblement une tentative de suicide au gaz, fait 7 blessés.",
+          "url": "https://www.sudouest.fr/faits-divers/sept-blesses-dont-un-grave-apres-une-explosion-dans-un-immeuble-en-vendee-la-tentative-de-suicide-au-gaz-avancee-par-la-sous-prefecture-29218826.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sports Majeurs",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "NBA : Wembanyama porte les Spurs à l'égalisation",
+          "summary": "Victor Wembanyama et les Spurs dominent le Thunder, égalisant en finale de conférence.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-portes-par-victor-wembanyama-les-spurs-dominent-largement-le-thunder-et-egalisent-en-finale-de-conference_AV-202605250081.html",
+          "image": "https://images.bfmtv.com/o_VGMGlVmfETlI2zT-1FqS44-7s=/0x106:2048x1258/800x0/images/Victor-Wembanyama-lors-du-match-3-des-finales-de-conference-entre-les-San-Antonio-Spurs-et-le-Thunder-d-OKC-le-22-05-2026-2290904.jpg"
+        },
+        {
+          "title": "Rugby : L'UBB, championne d'Europe, célèbre son titre !",
+          "summary": "Jalibert et l'UBB savourent leur victoire en Champions Cup lors d'une parade magique.",
+          "url": "https://rmcsport.bfmtv.com/rugby/video-ubb-champion-d-europe-des-moments-magiques-jalibert-savoure-la-parade_VN-202605240310.html",
+          "image": "https://images.bfmtv.com/72L11Axe7YGeCi_tXMS_J2FqYSI=/0x0:1280x720/800x0/images/UBB-champion-d-europe-Des-moments-magiques-jalibert-savoure-la-parade-2291395.jpg"
+        },
+        {
+          "title": "Enhanced Games : Dopage assumé et records contestés",
+          "summary": "Un record du monde avec dopage en natation, tandis que Kerley gagne le 100m.",
+          "url": "https://rmcsport.bfmtv.com/societe/enhanced-games-un-record-du-monde-avec-dopage-sur-le-50m-nage-libre-kerley-gagne-le-100m-en-9-97_AV-202605250155.html",
+          "image": "https://images.bfmtv.com/quXVGghJ8RHErLBQxHkcK5IkPyY=/0x47:2048x1199/800x0/images/Kristian-Gkolomeev-le-24-mai-2026-2291551.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Curiosités",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Pokémon : Détectez les cartes qui valent de l'or !",
+          "summary": "Apprenez à identifier les cartes Pokémon rares et précieuses trouvées en vide-grenier.",
+          "url": "https://www.journaldugeek.com/2026/05/25/comment-savoir-si-les-cartes-pokemon-que-vous-avez-eues-dans-un-vide-grenier-valent-de-lor/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/12/pikachu-etincelles-deferlantes-1403x935.jpg"
+        },
+        {
+          "title": "Climat : Les prochains étés seront les plus chauds",
+          "summary": "La science confirme : préparez-vous à des étés historiques en termes de chaleur.",
+          "url": "https://www.journaldugeek.com/2026/05/24/les-prochains-etes-seront-les-plus-chauds-de-lhistoire-cest-deja-une-certitude/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/shutterstock_2523052517-1280x853.jpg"
+        },
+        {
+          "title": "AmineMaTue : Fier de représenter la France sportive",
+          "summary": "Le discours touchant d'AmineMaTue après la victoire au Eleven All Stars.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-suis-fier-de-representer-la-france-le-discours-fort-d-amine-ma-tue-en-marge-de-la-victoire-au-eleven-all-stars_AV-202605250312.html",
+          "image": "https://images.bfmtv.com/I_bHqBUF8Xps_zZPRWouV0_Xrus=/64x0:432x207/800x0/images/AmineMaTue-au-Eleven-All-Stars-2-au-Parc-des-Princes-le-24-mai-2026-2291660.jpg"
+        }
+      ]
+    }
+  ]
+}
