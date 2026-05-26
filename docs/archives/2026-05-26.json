@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Bérenger",
+  "global_summary": "L'actualité mondiale reste tendue avec la crise au Moyen-Orient, entre tentatives diplomatiques à Doha et menaces d'escalade au Liban, tandis que le Sénégal retient son souffle en attendant son nouveau président. En France, la météo marque les esprits avec une chaleur inédite dans le Nord, et des changements sociétaux majeurs se profilent pour le 1er juin.\nLe monde du sport est secoué par des émotions fortes, des célébrations historiques en NBA aux polémiques autour des \"Enhanced Games\" et un drame lié à la chaleur. L'innovation technologique n'est pas en reste, avec Ferrari qui se lance dans l'électrique et le débat sur l'IA dans le cinéma.",
+  "running_advice": "Préparez vos baskets, mais avec sagesse ! Aujourd'hui, le soleil brille généreusement avec un ciel dégagé et des températures qui montent jusqu'à 33.4°C. Cependant, avec un indice UV élevé (7.45) et un risque de pluie nul, la prudence est de mise. La période idéale pour votre session running sera sans conteste très tôt le matin, juste après le lever du soleil à 06:23, ou tard le soir, après 20:00, pour éviter les pics de chaleur et de rayons UV. N'oubliez pas votre crème solaire SPF 50+, un chapeau, des lunettes de soleil, et surtout, hydratez-vous abondamment ! Ne laissez pas la chaleur gâcher votre performance, adaptez-vous et courez malin !",
+  "weather_string": "☀️ Ciel dégagé (18.5°C / 33.4°C)",
+  "weather_stats": {
+    "temp": "33.4°C",
+    "rain": "0%",
+    "uv": "7.45"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Moyen-Orient : Diplomatie et Tensions",
+          "summary": "Discussions pour la paix à Doha, mais Israël menace d'intensifier son offensive contre le Hezbollah au Liban.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-de-hauts-responsables-iraniens-arrivent-a-doha-donald-trump-fait-monter-les-enjeux-d-un-accord-de-paix_8027546.html",
+          "image": "https://www.franceinfo.fr/pictures/FnY9-js0O-jzzRgSuaFy5Of2gf8/1200x675/2026/05/25/6a14b302059fd590897995.jpg"
+        },
+        {
+          "title": "Israël Prépare une Offensive Majeure",
+          "summary": "Face aux tensions, Israël annonce vouloir \"intensifier\" son action militaire pour écraser le Hezbollah.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260525-liban-israel-veut-intensifier-offensive-hezbollah-frappes-netanyahu",
+          "image": "https://s.france24.com/media/display/9b12e8f8-587f-11f1-8712-005056bfb2b6/w:1280/p:16x9/2026-05-25T140327Z-1351205520-RC2DGLAQVV36-RTRMADP-3-IRAN-CRISIS-LEBANON-ISRAEL.jpg"
+        },
+        {
+          "title": "Sénégal : Nouveau Président en Vue",
+          "summary": "L'Assemblée nationale sénégalaise s'apprête à désigner son prochain président ce mardi crucial.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260525-s%C3%A9n%C3%A9gal-l-assembl%C3%A9e-nationale-conna%C3%AEtra-le-nom-de-son-prochain-pr%C3%A9sident-ce-mardi",
+          "image": "https://s.france24.com/media/display/67fcd2a2-5876-11f1-b54e-005056a97e36/w:1280/p:16x9/FRAN260525-2142-Live-01.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Chaleur Inédite en Mai dans le Nord",
+          "summary": "Le Nord de la France connaît un mois de mai record avec des températures estivales, terrasses bondées et parasols.",
+          "url": "https://www.europe1.fr/societe/parasols-terrasses-bondees-et-chaleur-record-le-nord-vit-un-mois-de-mai-inedit-938435",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/05/25/20/024_4825030_1_6a14947f9dd78.jpg"
+        },
+        {
+          "title": "SFR Disparaît, Quel Impact pour Vous ?",
+          "summary": "La marque SFR s'efface, impactant forfaits, réseau et factures des millions d'utilisateurs en France.",
+          "url": "https://www.journaldugeek.com/2026/05/26/sfr-disparait-que-vont-devenir-vos-forfaits-votre-reseau-et-votre-facture/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/SFR-1280x853.jpg"
+        },
+        {
+          "title": "Ce qui Change au 1er Juin",
+          "summary": "Tabac, salaires, congé naissance : découvrez les nouveautés qui vous attendent dès le mois prochain.",
+          "url": "https://www.journaldugeek.com/2026/05/26/tabac-salaires-conge-naissance-tout-ce-qui-change-au-1er-juin-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/facture-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Ferrari Révèle sa Première Électrique",
+          "summary": "Le constructeur italien Ferrari dévoile \"Luce\", son tout premier bolide 100% électrique au design audacieux.",
+          "url": "https://www.lesechos.fr/industrie-services/automobile/ferrari-devoile-luce-premier-bolide-100-electrique-de-la-marque-au-cheval-cabre-2233288",
+          "image": "https://media.lesechos.com/api/v1/images/view/6a14bd349c8bf9912002ef22/1280x720/01901229049350-web-tete.jpg"
+        },
+        {
+          "title": "Fake News Vise le Rugby Français",
+          "summary": "Enquête sur des fausses informations alarmantes concernant des incendies ou un joueur hospitalisé.",
+          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/incendies-dans-des-stades-Antoine-dupont-hospitalise-enquete-sur-les-fake-news-qui-visent-le-rugby-francais_8027477.html",
+          "image": "https://www.franceinfo.fr/pictures/xTN-0dVJT7kHHlDSqZ53SersZKA/1200x675/2026/05/25/6a149f9b6cadb223702422.jpg"
+        },
+        {
+          "title": "IA et Cinéma : Nouvelles Règles au CNC",
+          "summary": "Le CNC adapte sa réglementation face à l'essor de l'intelligence artificielle dans l'industrie cinématographique.",
+          "url": "https://www.journaldugeek.com/2026/05/26/ia-et-cinema-le-cnc-vient-de-changer-les-regles/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/Robot-IA-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Levée de Fonds Majeure pour Checker",
+          "summary": "Al Mada Ventures investit 8 millions $ pour l'infrastructure en stablecoins de la startup Checker.",
+          "url": "https://cio-mag.com/al-mada-ventures-mene-une-levee-de-8-millions-pour-developper-linfrastructure-en-stablecoins-de-la-startup-checker/",
+          "image": "https://cio-mag.com/wp-content/uploads/2026/05/checker.jpg"
+        },
+        {
+          "title": "Espoirs de Paix Dopent les OAT",
+          "summary": "Les marchés financiers réagissent positivement aux tentatives de paix, faisant grimper les OAT.",
+          "url": "https://www.zonebourse.com/actualite-bourse/taux-les-espoirs-de-paix-dopent-nos-oat-ce7f5adddb89f026",
+          "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-02-08T030825Z_1_LYNXMPED17043_RTROPTP_2_OIL-ARBITRAGE.JPG"
+        },
+        {
+          "title": "Les Finfluenceurs Suscitent l'Inquiétude",
+          "summary": "Faut-il s'inquiéter de l'influence croissante des \"finfluenceurs\" sur les placements financiers ?",
+          "url": "https://www.ecoreseau.fr/tech/faut-il-sinquieter-de-lessor-des-finfluenceurs-2026-05-25-122887",
+          "image": "https://www.ecoreseau.fr/wp-content/uploads/2026/05/shutterstock_2471591323-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Knicks en Finale NBA : Nuit Folle",
+          "summary": "New York célèbre la qualification historique des Knicks en finale NBA, 27 ans après une nuit de folie.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-nuit-de-folie-a-new-york-apres-la-qualification-historique-des-knicks-en-finale-27-ans-apres_AV-202605260296.html",
+          "image": "https://images.bfmtv.com/SII3YguaVqigztySN0whku8x4as=/0x0:2048x1152/800x0/images/Les-fans-new-yorkais-des-Knicks-celebrent-leur-qualification-historique-en-finale-de-NBA-27-ans-apres-2292264.jpg"
+        },
+        {
+          "title": "Enhanced Games : La Polémique Doping",
+          "summary": "La Française Renelle Lamothe dénonce avec virulence les athlètes dopés participant aux controversés Enhanced Games.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/enhanced-games-des-voyous-de-la-merde-on-va-plus-vite-en-diamond-league-la-francaise-renelle-lamothe-detruit-les-athletes-qui-ont-accepte-de-se-doper_AV-202605260383.html",
+          "image": "https://images.bfmtv.com/VBULTrraawdBoyHpxccKGlElPBk=/0x40:768x472/800x0/images/La-joie-de-la-Francaise-Renelle-Lamote-apres-avoir-termine-2e-de-la-finale-du-800-m-aux-Championnats-d-Europe-d-athletisme-en-salle-le-3-mars-2019-a-Glasgow-1055135.jpg"
+        },
+        {
+          "title": "Tragédie Hyrox : Décès par Coup de Chaleur",
+          "summary": "Une femme de 28 ans est décédée lors d'une compétition Hyrox à Lyon, succombant à un coup de chaud.",
+          "url": "https://rmcsport.bfmtv.com/societe/hyrox-une-femme-decede-d-un-coup-de-chaud-sur-une-competition-a-lyon_AN-202605250454.html",
+          "image": "https://images.bfmtv.com/6DUeZDytnI5UKIxjIjCBAi_LjOk=/3x29:2035x1172/800x0/images/Une-epreuve-d-hyrox-a-Toulouse-en-mars-2026-2291770.jpg"
+        }
+      ]
+    }
+  ]
+}
