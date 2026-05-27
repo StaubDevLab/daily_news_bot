@@ -1,0 +1,151 @@
+{
+  "ephemeride": "Saint Augustin",
+  "global_summary": "L'actualité mondiale reste marquée par des tensions géopolitiques importantes, notamment au Moyen-Orient avec l'Iran accusant les États-Unis et la question des droits humains autour de Gaza. En France, plusieurs affaires agitent le débat public, allant de décisions politiques controversées concernant les rassemblements religieux à des scandales autour de cagnotte de soutien.  Sur le plan économique et technologique, des restructurations d'entreprises côtoient les avancées de l'IA et les ambitions spatiales. Le monde du sport, quant à lui, navigue entre exploits historiques, comme la qualification des Knicks en finale NBA, et des controverses éthiques majeures autour des \"Enhanced Games\", sans oublier les rappels tragiques concernant la sécurité des athlètes face aux conditions climatiques extrêmes. C'est un mélange de défis et de dynamisme qui caractérise ce début de semaine.",
+  "running_advice": "Salut champion ! Aujourd'hui, Saint Augustin nous encourage à persévérer, et la météo vous offre une fenêtre d'opportunité, mais avec prudence. Avec un ciel dégagé et des températures allant de 19.1°C à 34.7°C, il faudra être stratégique. La meilleure période pour chausser vos baskets sera très tôt le matin, juste après le lever du soleil à 06:22, ou en fin de journée, après 19:00, lorsque la chaleur commence à baisser. Évitez absolument le milieu de journée ! L'indice UV de 7.45 est élevé : crème solaire indispensable, lunettes de soleil et casquette sont vos meilleurs alliés. Hydratez-vous à fond avant, pendant et après. C'est une question d'adaptation, pas d'abandon ! Allez, on reste motivé et vigilant !",
+  "weather_string": "☀️ Ciel dégagé (19.1°C / 34.7°C)",
+  "weather_stats": {
+    "temp": "34.7°C",
+    "rain": "0%",
+    "uv": "7.45"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Iran menace riposte après cessez-le-feu violé",
+          "summary": "L'Iran accuse les États-Unis d'avoir enfreint le cessez-le-feu au Moyen-Orient et promet une riposte, intensifiant les tensions régionales.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-accuse-les-etats-unis-d-avoir-viole-le-cessez-le-feu-et-menace-de-riposter_8030117.html",
+          "image": "https://www.franceinfo.fr/pictures/y8IzLWnCbEw7ZcCvnofy3FN3AVQ/1200x675/2026/05/26/6a160c232067a202760591.jpg"
+        },
+        {
+          "title": "Gaza : \"torture\" sur la flottille selon une écologiste",
+          "summary": "Cyrielle Chatelain dénonce des actes de torture concernant la flottille pour Gaza, ravivant le débat sur la situation humanitaire.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20260526-cyrielle-chatelain-les-%C3%A9cologistes-sur-la-flottille-pour-gaza-c-est-de-la-torture",
+          "image": "https://s.france24.com/media/display/c6704dda-5922-11f1-bad5-005056bfb2b6/w:1280/p:16x9/capture-1784147886a15cef3601345-59480609.jpg"
+        },
+        {
+          "title": "Londres : Incendie supermarché casher, tensions ravivées",
+          "summary": "Un incendie suspect dans un supermarché casher à Londres, quartier déjà cible d'attaques anti-juives, suscite l'inquiétude.",
+          "url": "https://www.sudouest.fr/international/europe/royaume-uni/a-londres-un-incendie-se-declare-dans-un-supermarche-casher-d-un-quartier-deja-vise-par-des-attaques-contre-la-communaute-juive-29242678.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Nunez interdit un rassemblement musulman",
+          "summary": "Le ministre Nunez interdit la rencontre annuelle des Musulmans de l'Ouest, soulevant un débat sur la liberté de réunion en France.",
+          "url": "https://www.revolutionpermanente.fr/Islamophobie-d-Etat-Nunez-interdit-la-rencontre-annuelle-des-Musulmans-de-l-Ouest",
+          "image": "https://www.revolutionpermanente.fr/IMG/logo/nunez-5.jpg"
+        },
+        {
+          "title": "Affaire Amra : Messiha accusé de détournement",
+          "summary": "Jean Messiha est accusé d'avoir détourné la cagnotte pour les veuves des victimes de l'évasion de Mohamed Amra, scandalisant l'opinion.",
+          "url": "https://www.sudouest.fr/faits-divers/evasion-de-mohamed-amra-l-homme-politique-d-extreme-droite-jean-messiha-accuse-d-avoir-detourne-la-cagnotte-destinee-aux-veuves-des-victimes-29242962.php",
+          "image": null
+        },
+        {
+          "title": "Barrage L1/L2 : Saint-Étienne et Nice nul",
+          "summary": "Saint-Étienne et Nice se séparent sur un match nul lors du barrage aller L1/L2, laissant le suspense entier pour le retour.",
+          "url": "https://www.rtl.fr/sport/football/barrage-aller-l1-l2-saint-etienne-et-nice-se-quittent-sur-un-nul-ferme-7900639271",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1841367-l-attaquant-espagnol-kevin-carlos-a-droite-se-bat-pour-le-ballon-face-au-defenseur-francais-julien-le-cardinal-a-gauche-lors-du-match-de-barrage-entre-l-as-saint-etienne-l2-et-l-ogc-nice-l1-le-26-mai-2026.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "IA génère 250 000 apps Android",
+          "summary": "Une IA a créé un quart de million d'applications Android en une semaine, révolutionnant la création logicielle accessible à tous.",
+          "url": "https://www.journaldugeek.com/2026/05/27/cette-ia-a-genere-250-000-applications-android-en-une-semaine-voici-comment-essayer/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/google-pixel-10a-accueil-1280x853.jpg"
+        },
+        {
+          "title": "Blue Origin et Firefly décrochent contrats NASA",
+          "summary": "Blue Origin et Firefly s'adjugent des contrats majeurs de la NASA pour le développement de la future base lunaire.",
+          "url": "https://fr.investing.com/news/stock-market-news/blue-origin-et-firefly-remportent-des-contrats-nasa-pour-la-base-lunaire-93CH-3434774",
+          "image": "https://i-invdn-com.investing.com/news/amazon_800x533_L_1411373482.jpg"
+        },
+        {
+          "title": "Action Firefly Aerospace chute après offre",
+          "summary": "L'action Firefly Aerospace recule suite à l'annonce d'une offre d'actions, impactant son valorisation boursière.",
+          "url": "https://fr.investing.com/news/stock-market-news/laction-firefly-aerospace-chute-apres-lannonce-dune-offre-dactions-93CH-3434865",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEA7H0NX_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Transition écolo : Ferracci veut \"travailler plus\"",
+          "summary": "Marc Ferracci estime que de nouvelles réformes pour travailler plus nombreux sont essentielles pour financer la transition écologique.",
+          "url": "https://www.franceinfo.fr/replay-jt/franceinfo/jt-tout-est-politique/pour-financer-la-transition-ecologique-il-faut-de-nouvelles-reformes-pour-travailler-plus-nombreux-estime-marc-ferracci-ancien-ministre-et-depute-epr_8030105.html",
+          "image": "https://www.franceinfo.fr/pictures/dhpIYPsO_e636x8qZGf30pV6Hho/1200x675/2026/05/26/6a160da127c70227834124.jpg"
+        },
+        {
+          "title": "Okaïdi fermera 60 magasins en France",
+          "summary": "Le spécialiste du vêtement enfant Okaïdi prévoit de fermer une soixantaine de boutiques, impactant l'emploi et le commerce.",
+          "url": "https://www.larevuedudigital.com/okaidi-specialiste-des-vetements-pour-enfants-prevoit-de-fermer-une-soixantaine-de-magasins/",
+          "image": "https://www.larevuedudigital.com/wp-content/uploads/2026/05/Okaidi-10-BF2-.jpg"
+        },
+        {
+          "title": "Nutri-Score bientôt obligatoire, l'industrie craint",
+          "summary": "Le Nutri-Score pourrait devenir obligatoire, inquiétant les industriels du secteur alimentaire face aux nouvelles régulations.",
+          "url": "https://www.journaldugeek.com/2026/05/27/le-nutri-score-pourrait-bien-devenir-obligatoire-et-ca-inquiete-les-industriels/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/nutri-score-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Lot-et-Garonne : 8 à 12 ans requis contre bande",
+          "summary": "De lourdes peines sont requises contre les membres de la bande de Mérignac pour enlèvement et mutilations en Lot-et-Garonne.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/enlevement-et-mutilation-en-lot-et-garonne-de-8-a-12-ans-requis-contre-les-membres-de-la-bande-de-merignac-29242451.php",
+          "image": null
+        },
+        {
+          "title": "UBB : Célébrations folles à Bordeaux",
+          "summary": "Après leur titre, les joueurs de l'UBB Tameifuna et Coleman prolongent les festivités dans les rues de Bordeaux.",
+          "url": "https://rmcsport.bfmtv.com/rugby/coupe-d-europe/trois-jours-apres-le-titre-de-l-ubb-ils-n-ont-toujours-pas-quitte-leur-tenue-de-match-les-folles-celebrations-de-tameifuna-et-coleman-dans-les-rues-de-bordeaux_AV-202605260432.html",
+          "image": "https://images.bfmtv.com/-tf-BIeG9m8B49XBgrlJFyAk8BI=/0x0:1056x594/800x0/images/L-attachant-pilier-de-l-ubb-big-ben-tameifuna-qui-se-tatoue-une-deuxieme-etoile-apres-son-sacre-en-champions-cup-samedi-dernier-contre-leinster-2292344.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Knicks en finale NBA après 27 ans",
+          "summary": "Nuit historique à New York : les Knicks se qualifient pour les finales NBA, une première depuis 27 ans, enflammant la ville.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-nuit-de-folie-a-new-york-apres-la-qualification-historique-des-knicks-en-finale-27-ans-apres_AV-202605260296.html",
+          "image": "https://images.bfmtv.com/SII3YguaVqigztySN0whku8x4as=/0x0:2048x1152/800x0/images/Les-fans-new-yorkais-des-knicks-celebrent-leur-qualification-historique-en-finale-de-nba-27-ans-apres-2292264.jpg"
+        },
+        {
+          "title": "Enhanced Games : Amélie Oudea-Castera s'indigne",
+          "summary": "La ministre des Sports condamne fermement les \"Enhanced Games\", qualifiant la compétition de \"tricherie\" et \"dégradante\" pour l'éthique sportive.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-tricherie-et-degradante-amelie-oudea-castera-s-eleve-contre-les-enhanced-games_VN-202605220470.html",
+          "image": "https://images.bfmtv.com/lpN95UBi0BZJq2TAjBMglYL7l5s=/0x0:1280x720/800x0/images/Tricherie-et-degradante-Amelie-oudea-castera-s-eleve-contre-les-enhanced-games-2290530.jpg"
+        },
+        {
+          "title": "Tragédie Hyrox : Décès d'une participante",
+          "summary": "Une femme de 28 ans est décédée d'un coup de chaud lors d'une compétition Hyrox à Lyon, soulevant des questions sur la sécurité.",
+          "url": "https://rmcsport.bfmtv.com/societe/hyrox-une-femme-decede-d-un-coup-de-chaud-sur-une-competition-a-lyon_AN-202605250454.html",
+          "image": "https://images.bfmtv.com/6DUeZDytnI5UKIxjIjCBAi_LjOk=/3x29:2035x1172/800x0/images/Une-epreuve-d-hyrox-a-toulouse-en-mars-2026-2291770.jpg"
+        }
+      ]
+    }
+  ]
+}
