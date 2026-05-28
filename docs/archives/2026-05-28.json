@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Germain",
-  "global_summary": "L'actualité mondiale est marquée par des enjeux géopolitiques complexes, entre les discussions autour de l'OTAN et de nouvelles alliances nucléaires, tandis que des précautions sanitaires entourent l'Aïd-el-Kébir dans différentes régions. Sur le plan économique, les marchés financiers connaissent des mouvements, et des préoccupations environnementales se manifestent, notamment avec le malus écologique et la gestion de la climatisation face à la chaleur.\nEn France, des faits divers locaux côtoient des débats sur l'aménagement du territoire, sans oublier des décisions judiciaires importantes. Le monde du sport est particulièrement agité : Victor Wembanyama fait face à une pression croissante en NBA, tandis que les \"Enhanced Games\" déclenchent une vive controverse autour du dopage et de l'éthique sportive. Les fortes chaleurs impactent directement les compétitions, avec une tragédie à Lyon et des appels à la vigilance, soulignant l'importance de l'adaptation aux défis climatiques pour les athlètes.",
-  "running_advice": "Avis aux runners ! Aujourd'hui, avec des températures grimpant jusqu'à 35.2°C et un indice UV très élevé de 7.5 sous un ciel peu nuageux, la prudence est de mise. Ce n'est pas la journée idéale pour un long run en pleine journée. Concentrez vos efforts sur les créneaux les plus frais : levez-vous avec le soleil pour une séance matinale revigorante entre 6h30 et 7h30, ou attendez que la chaleur retombe pour un entraînement post-coucher de soleil, idéalement entre 20h30 et 21h30. Dans tous les cas, hydratez-vous abondamment, optez pour des vêtements légers et n'oubliez absolument pas votre protection solaire (crème, casquette, lunettes) pour contrer cet UV intense. Restez forts, restez futés !",
-  "weather_string": "🌤️ Peu nuageux (19.8°C / 35.2°C)",
+  "global_summary": "Entre tensions géopolitiques et enjeux sociétaux, l'actualité de ce jour nous rappelle l'importance de la vigilance et de l'adaptation face aux défis mondiaux. Les discussions autour de l'OTAN et la dissuasion nucléaire française dominent la scène internationale, tandis que l'Aïd-el-Kébir s'accompagne de précautions sanitaires dans plusieurs régions, soulignant la diversité des préoccupations.\n\nSur le front domestique et économique, les débats locaux côtoient des condamnations importantes et des mouvements boursiers. Côté sport, l'intensité est palpable avec les défis de Wembanyama en NBA et la controverse grandissante autour des \"Enhanced Games\" sur le dopage. Les fortes chaleurs, marquées par un tragique incident, invitent à la plus grande prudence pour toutes nos activités, sportives comme quotidiennes.",
+  "running_advice": "Coach sportif ici ! Avec un soleil qui tapera fort (UV 7.5) et des températures montant jusqu'à 35.4°C, la prudence est votre meilleure alliée. Courir est toujours possible, mais adaptez votre stratégie : privilégiez l'extrême matin, juste après le lever du soleil vers 06h21, ou attendez la fraîcheur du soir, idéalement après 20h00, bien avant le coucher à 21h38. Hydratez-vous massivement avant, pendant et après l'effort, et n'oubliez jamais votre crème solaire, un chapeau léger et des vêtements respirants. Écoutez votre corps et ne poussez pas au-delà de vos limites ! La performance, c'est aussi savoir se préserver.",
+  "weather_string": "🌤️ Peu nuageux (19.8°C / 35.4°C)",
   "weather_stats": {
-    "temp": "35.2°C",
+    "temp": "35.4°C",
     "rain": "5%",
     "uv": "7.5"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "L'OTAN face à l'incertitude américaine",
-          "summary": "Des questions se posent sur l'engagement futur des États-Unis au sein de l'OTAN.",
+          "title": "OTAN : un retrait américain en question ?",
+          "summary": "L'avenir de l'OTAN est en suspens face à une possible remise en question de l'engagement américain.",
           "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260527-otan-retrait-des-etats-unis",
           "image": "https://s.france24.com/media/display/ff6c9870-5a0b-11f1-a63b-005056a90284/w:1280/p:16x9/FRAN260527-2220-Live-CS2220.jpg"
         },
         {
-          "title": "Aïd-el-Kébir : Hygiène renforcée au Congo",
-          "summary": "Des mesures sanitaires strictes sont prises en RD Congo pour la célébration de l'Aïd-el-Kébir.",
+          "title": "Aïd-el-Kébir : précautions sanitaires en RDC",
+          "summary": "En RD Congo, l'Aïd-el-Kébir se prépare sous haute surveillance sanitaire pour éviter toute propagation.",
           "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260527-a%C3%AFd-el-k%C3%A9bir-dans-l-est-de-la-rd-congo-l-heure-est-aux-pr%C3%A9cautions-sanitaires",
           "image": "https://s.france24.com/media/display/1aa0b056-5a0a-11f1-9912-005056bfb2b6/w:1280/p:16x9/DN194890-A-01-20260521.jpg"
         },
         {
-          "title": "France-Norvège : Alliance nucléaire renforcée",
-          "summary": "La Norvège rejoint le projet français de dissuasion nucléaire avancée, signe d'un renforcement stratégique.",
+          "title": "France-Norvège : une dissuasion nucléaire renforcée",
+          "summary": "La France ouvre son projet de dissuasion nucléaire à la Norvège, signal fort pour la défense européenne.",
           "url": "https://www.france24.com/fr/europe/20260527-la-france-annonce-entr%C3%A9e-de-la-norv%C3%A8ge-dans-son-projet-de-dissuasion-nucl%C3%A9aire-avanc%C3%A9e",
           "image": "https://s.france24.com/media/display/380124a8-5a07-11f1-a2ef-005056bf30b7/w:1280/p:16x9/2026-05-27T184728Z-1285196072-RC2UHLAGOYCD-RTRMADP-3-FRANCE-NORWAY.jpg"
         }
@@ -38,116 +38,116 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Maroc : Le retour des sacrifices pour l'Aïd",
-          "summary": "Le Maroc renoue avec la tradition du sacrifice de moutons pour l'Aïd el-Kébir après des restrictions.",
+          "title": "Maroc : l'Aïd el-Kébir avec sacrifice",
+          "summary": "Au Maroc, l'Aïd el-Kébir voit le retour des sacrifices de moutons, une tradition forte.",
           "url": "https://www.rfi.fr/fr/afrique/20260527-au-maroc-l-a%C3%AFd-el-k%C3%A9bir-marqu%C3%A9-par-le-retour-du-sacrifice-des-moutons",
           "image": "https://s.rfi.fr/media/display/7357f1c2-88d4-11ef-8566-005056bfb2b6/w:1280/p:16x9/GettyImages-84288050.jpg"
         },
         {
-          "title": "Ex-membre de la RAF : Lourde peine",
-          "summary": "Une ancienne terroriste de la Fraction armée rouge (RAF) écope de 13 ans de prison en Allemagne.",
+          "title": "Ex-RAF condamnée : 13 ans de prison",
+          "summary": "En Allemagne, une ancienne terroriste de la Fraction armée rouge (RAF) écope de 13 ans de prison.",
           "url": "https://www.bfmtv.com/international/europe/allemagne/une-ex-membre-de-la-fraction-armee-rouge-raf-condamnee-a-13-ans-de-prison-en-allemagne_AD-202605270943.html",
           "image": "https://images.bfmtv.com/Vs72kOoGqfOMq1Avfsicb-N93qo=/0x33:1024x609/1024x0/images/27-mai-2026-Basse-Saxe-Verden-L-accusee-Daniela-Klette-comparait-devant-le-tribunal-de-Verden-Eitze-L-ancienne-terroriste-de-la-RAF-Daniela-Klette-a-ete-condamnee-a-13-ans-de-prison-2293149.jpg"
         },
         {
-          "title": "Nantes : Piste cyclable contestée",
-          "summary": "Un projet de piste cyclable près de Nantes rencontre l'opposition des habitants d'un village.",
+          "title": "Piste cyclable près de Nantes : projet contesté",
+          "summary": "Un projet de piste cyclable à Vertou, près de Nantes, ne fait pas l'unanimité auprès des habitants isolés.",
           "url": "https://actu.fr/pays-de-la-loire/vertou_44215/ce-projet-de-piste-cyclable-pres-de-nantes-na-pas-convaincu-les-habitants-de-ce-village-isole_64323171.html",
           "image": "https://static.actu.fr/uploads/2026/05/c081fb8a46f96e481fb8a46f9f881fv.jpg"
         }
       ]
     },
     {
-      "label": "Tech",
-      "emoji": "💻",
+      "label": "Tech & Auto",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Ford Motor : Hausse inattendue",
-          "summary": "L'action Ford Motor connaît une hausse significative, des analyses expliquent ce mouvement inattendu.",
+          "title": "Action Ford en hausse : les raisons",
+          "summary": "L'action Ford Motor bondit aujourd'hui. Découvrez les facteurs clés derrière cette performance inattendue.",
           "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-ford-motor-estelle-en-hausse-aujourdhui--93CH-3437015",
           "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL4D0EZ_L.jpg"
         },
         {
-          "title": "Malus écologique : Une taxe salée en France",
-          "summary": "Le malus écologique atteint des sommets en France, jusqu'à 80 000 euros, interrogeant les pratiques européennes.",
-          "url": "https://www.capital.fr/auto/malus-ecologique-il-peut-atteindre-jusqu-a-80-000-euros-pour-les-automobilistes-francais-et-chez-nos-voisins-europeens-1526999",
+          "title": "Malus écologique : jusqu'à 80 000€ !",
+          "summary": "Le malus écologique peut atteindre des sommes astronomiques en France, comparé à nos voisins européens.",
+          "url": "https://www.capital.fr/auto/malus-ecologique-it-peut-atteindre-jusqu-a-80-000-euros-pour-les-automobilistes-francais-et-chez-nos-voisins-europeens-1526999",
           "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~05~27~0e84a489-7f77-4f0b-93f1-a45ed8484ed3.jpeg/1200x900/focus-point/2090%2C1045/malus-ecologique-il-peut-atteindre-jusqu-a-80-000-euros-pour-les-automobilistes-francais-et-chez-nos-voisins-europeens.jpg"
         },
         {
-          "title": "Climatisation efficace face à la chaleur",
-          "summary": "Conseils pour optimiser l'utilisation de votre climatisation et maîtriser votre consommation durant les fortes chaleurs.",
+          "title": "Chaleur : optimiser votre clim auto",
+          "summary": "Face au pic de chaleur, apprenez à utiliser votre climatisation efficacement pour maîtriser votre consommation.",
           "url": "https://www.autojournal.fr/actu/pic-de-chaleur-comment-bien-utiliser-votre-climatisation-pour-eviter-laugmentation-de-la-consommation-414302.html",
           "image": "https://sf2.autojournal.fr/wp-content/uploads/autojournal/2024/10/clim-voiture-temperature-ideale.jpg"
         }
       ]
     },
     {
-      "label": "Business",
+      "label": "Économie",
       "emoji": "📈",
       "articles": [
         {
-          "title": "Pari ETI : Les experts débattent",
-          "summary": "Patrice Bégay reçoit trois personnalités pour échanger sur le développement des Entreprises de Taille Intermédiaire.",
+          "title": "Pari ETI : experts et croissance",
+          "summary": "Patrice Bégay reçoit des dirigeants pour décrypter les enjeux des Entreprises de Taille Intermédiaire.",
           "url": "https://www.bfmtv.com/economie/replay-emissions/pari-eti/video-pari-eti-patrice-begay-recoit-frederic-delloye-anaik-macia-roca-sqorus-et-samuel-ronfle-baker-tilly-27-05_VN-202605270942.html",
           "image": "https://images.bfmtv.com/lDBVYQuHWJxW6wsm611zfqzv1wc=/0x0:1280x720/1280x0/images/Pari-ETI-Patrice-Begay-recoit-Frederic-Delloye-Anaik-Macia-Roca-Sqorus-et-Samuel-Ronfle-Baker-Tilly-27-05-2293361.jpg"
         },
         {
-          "title": "Chute de BBB Foods en bourse",
-          "summary": "L'action BBB Foods dégringole suite à l'annonce d'une nouvelle offre d'actions sur le marché.",
+          "title": "BBB Foods chute en bourse",
+          "summary": "L'action BBB Foods dégringole suite à l'annonce d'une offre d'actions, inquiétant les investisseurs.",
           "url": "https://fr.investing.com/news/stock-market-news/laction-bbb-foods-chute-apres-lannonce-dune-offre-dactions-93CH-3437004",
           "image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg"
         },
         {
-          "title": "Verra Mobility : Wall Street prudent",
-          "summary": "La prudence s'installe à Wall Street concernant Verra Mobility après un revers majeur pour Avis.",
+          "title": "Wall Street prudent sur Verra Mobility",
+          "summary": "Après un revers avec Avis, Wall Street adopte une attitude prudente envers Verra Mobility.",
           "url": "https://fr.investing.com/news/stock-market-news/wall-street-devient-prudent-sur-verra-mobility-apres-le-coup-dur-davis-3437008",
           "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL390XA_L.jpg"
         }
       ]
     },
     {
-      "label": "Actualités Locales",
-      "emoji": "🚨",
+      "label": "Région (Gironde)",
+      "emoji": "📍",
       "articles": [
         {
-          "title": "Agen : Meurtre au couteau et réactions",
-          "summary": "Le meurtre à Agen suscite de vives réactions politiques sur la sécurité locale.",
+          "title": "Meurtre à Agen : la droite réagit",
+          "summary": "Après un meurtre au couteau à Agen, le chef de file de l'union des droites appelle à plus de fermeté.",
           "url": "https://www.sudouest.fr/lot-et-garonne/agen/apres-le-meurtre-au-couteau-a-agen-je-serais-maire-je-les-harcelerais-tous-les-jours-dit-le-chef-de-file-de-l-union-des-droites-29256117.php",
-          "image": null
+          "image": ""
         },
         {
-          "title": "Marmande : Incendie sous contrôle",
-          "summary": "Un incendie s'est déclaré près de Marmande, rapidement maîtrisé par les sapeurs-pompiers.",
+          "title": "Incendie maîtrisé près de Marmande",
+          "summary": "Un feu s'est déclaré aux portes de Marmande mais a été rapidement maîtrisé par les sapeurs-pompiers.",
           "url": "https://www.sudouest.fr/lot-et-garonne/birac-sur-trec/un-incendie-rapidement-maitrise-aux-portes-de-marmande-29255626.php",
-          "image": null
+          "image": ""
         },
         {
-          "title": "Arsac : Société de charpente dévastée",
-          "summary": "Un bâtiment d'une société de charpente à Arsac a été entièrement détruit par un incendie.",
-          "url": "https://www.sudouest.fr/gironde/incendie-en-gironde-un-batiment-appartenant-a-une-societe-de-charpente-entiere-detruit-dans-les-flammes-a-arsac-dans-le-medoc-29255608.php",
-          "image": null
+          "title": "Arsac : bâtiment de charpente détruit",
+          "summary": "Un incendie dévaste entièrement un bâtiment de charpente à Arsac, dans le Médoc girondin.",
+          "url": "https://www.sudouest.fr/gironde/incendie-en-gironde-un-batiment-appartenant-a-une-societe-de-charpente-enti-rement-detruit-dans-les-flammes-a-arsac-dans-le-medoc-29255608.php",
+          "image": ""
         }
       ]
     },
     {
-      "label": "Divertissement & Geek",
+      "label": "Insolite & Geek",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Disneyland : Escroquerie aux billets démantelée",
-          "summary": "Un réseau frauduleux exploitait une faille pour revendre illégalement des billets Disneyland Paris.",
+          "title": "Disneyland : escroquerie aux billets",
+          "summary": "Un réseau d'escrocs démantelé, gagnant 1000€/jour en exploitant une faille de Disneyland Paris.",
           "url": "https://www.journaldugeek.com/2026/05/28/disneyland-paris-comment-un-reseau-descrocs-gagnait-1-000-euros-par-jour-en-revendant-des-billets-grace-a-une-faille/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/n032608_2030jul07_world_sleeping-beauty-castle-panoramic-view-dlp-park-tickets-2019_16-9_tcm808-198621p1fjpg-1280x720.jpg"
         },
         {
-          "title": "X-Men 97 Saison 2 arrive !",
-          "summary": "La très attendue saison 2 d'X-Men 97 sera diffusée sur Disney+ à partir du 1er juillet.",
+          "title": "X-Men 97 S2 : le trailer dévoilé !",
+          "summary": "Après deux ans, la saison 2 d'X-Men 97 arrive le 1er juillet sur Disney+ avec un trailer explosif.",
           "url": "https://www.journaldugeek.com/2026/05/28/une-date-et-un-trailer-qui-envoie-apres-deux-ans-dabsence-la-saison-2-dx-men-97-debarque-le-1er-juillet-sur-disney/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/X-Men-97-visuel-1280x853.jpg"
         },
         {
-          "title": "Électricité : Les heures super creuses",
-          "summary": "Découvrez si vous pouvez bénéficier d'une électricité à -60% grâce aux nouvelles heures super creuses.",
+          "title": "Électricité à -60% : heures super creuses",
+          "summary": "Découvrez si les heures super creuses avec -60% sur l'électricité sont disponibles dans votre région.",
           "url": "https://www.journaldugeek.com/2026/05/28/heures-super-creuses-etes-vous-concernes-par-lelectricite-a-60/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/05/electricite-1-1-1280x853.jpg"
         }
@@ -158,22 +158,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Tragédie Hyrox : Décès dû à la chaleur",
-          "summary": "Une athlète est décédée d'un coup de chaud lors d'une compétition Hyrox à Lyon.",
-          "url": "https://rmcsport.bfmtv.com/societe/hyrox-une-femme-decede-d-un-coup-de-chaud-sur-une-competition-a-lyon_AN-202605250454.html",
-          "image": "https://images.bfmtv.com/6DUeZDytnI5UKIxjIjCBAi_LjOk=/3x29:2035x1172/800x0/images/Une-epreuve-d-hyrox-a-Toulouse-en-mars-2026-2291770.jpg"
+          "title": "Wemby et les Spurs au pied du mur",
+          "summary": "Battus, les Spurs de Victor Wembanyama sont désormais menés et devront réaliser un exploit rare en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-battus-et-menes-3-2-les-spurs-de-wembanyama-contraints-a-un-exploit-rare_AV-202605270065.html",
+          "image": "https://images.bfmtv.com/7OFMsmogfqCMkWTtLXjFvx2jvoY=/0x25:2048x1177/800x0/images/Victor-Wembanyama-au-duel-avec-Jaylin-Williams-lors-du-match-5-entre-Oklahoma-City-et-San-Antonio-127-114-le-26-mai-2026-2292706.jpg"
         },
         {
-          "title": "Wembanyama sous pression en NBA",
-          "summary": "Les Spurs exigent plus de tirs de Victor Wembanyama avant un match décisif contre OKC.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/il-devra-prendre-plus-de-tirs-les-spurs-mettent-la-pression-sur-victor-wembanyama-avant-le-match-6-crucial-face-a-okc_AV-202605270349.html",
-          "image": "https://images.bfmtv.com/tPd65wazk5DPPHU0BsCMgYqOZRA=/0x68:2048x1220/800x0/images/Victor-Wembanyama-prend-un-tir-lors-du-match-5-entre-Oklahoma-City-et-San-Antonio-127-114-le-26-mai-2026-2292891.jpg"
-        },
-        {
-          "title": "Enhanced Games : Le dopage fait rage",
-          "summary": "La sprinteuse Renelle Lamothe fustige les athlètes ayant accepté de se doper pour les Enhanced Games.",
+          "title": "Enhanced Games : la colère monte",
+          "summary": "Renelle Lamothe dénonce violemment les \"Enhanced Games\", qualifiant les athlètes dopés de \"voyous\".",
           "url": "https://rmcsport.bfmtv.com/athletisme/enhanced-games-des-voyous-de-la-merde-on-va-plus-vite-en-diamond-league-la-francaise-renelle-lamothe-detruit-les-athletes-qui-ont-accepte-de-se-doper_AV-202605260383.html",
           "image": "https://images.bfmtv.com/VBULTrraawdBoyHpxccKGlElPBk=/0x40:768x472/800x0/images/La-joie-de-la-Francaise-Renelle-Lamote-apres-avoir-termine-2e-de-la-finale-du-800-m-aux-Championnats-d-Europe-d-athletisme-en-salle-le-3-mars-2019-a-Glasgow-1055135.jpg"
+        },
+        {
+          "title": "Drame Hyrox : décès par coup de chaud",
+          "summary": "Une femme de 28 ans est décédée à Lyon lors d'une compétition Hyrox, victime d'un coup de chaleur.",
+          "url": "https://rmcsport.bfmtv.com/societe/hyrox-une-femme-decede-d-un-coup-de-chaud-sur-une-competition-a-lyon_AN-202605250454.html",
+          "image": "https://images.bfmtv.com/6DUeZDytnI5UKIxjIjCBAi_LjOk=/3x29:2035x1172/800x0/images/Une-epreuve-d-hyrox-a-Toulouse-en-mars-2026-2291770.jpg"
         }
       ]
     }
