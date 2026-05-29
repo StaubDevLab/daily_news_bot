@@ -1,0 +1,132 @@
+{
+  "ephemeride": "Saint Aymar",
+  "global_summary": "La planète fait face à une nouvelle réalité climatique, avec des vagues de chaleur devenant la norme, tandis que des gestes historiques, comme la restitution de biens spoliés, marquent une avancée vers la justice mémorielle. Parallèlement, l'innovation et les projets d'envergure, tel le monorail du Caire, dessinent l'avenir des grandes mégalopoles. \n\nSur le front technologique, des investissements colossaux propulsent la course à l'informatique quantique et aux semi-conducteurs, tandis que les géants du web explorent de nouveaux modèles économiques. Dans le sport, l'excitation des performances de Wembanyama côtoie les débats éthiques intenses sur le dopage et, tragiquement, les risques accrus liés aux fortes chaleurs pour les athlètes.",
+  "running_advice": "Alors, champion(ne) ! Avec des températures allant de 19.9°C à 34.2°C et un ciel peu nuageux, cette journée est un vrai défi pour nos foulées. L'indice UV à 7.35 est élevé, signe que le soleil tape fort ! Pour une séance optimale et sécurisée, privilégie absolument le début de journée, dès 06:20, ou la fin d'après-midi, idéalement après 19:00. Pense à t'hydrater abondamment avant, pendant et après ton effort. Et surtout, n'oublie pas ta crème solaire, tes lunettes et une casquette pour te protéger. Écoute ton corps et adapte l'intensité ! Tu es plus fort(e) que la chaleur, mais la prudence est notre meilleure alliée !",
+  "weather_string": "🌤️ Peu nuageux (19.9°C / 34.2°C)",
+  "weather_stats": {
+    "temp": "34.2°C",
+    "rain": "0%",
+    "uv": "7.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Vague de chaleur : 35°C, bientôt la norme ?",
+          "summary": "Une nouvelle étude alerte sur l'intensification des vagues de chaleur, les températures extrêmes devenant une réalité de plus en plus fréquente.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260528-vague-de-chaleur-bient%C3%B4t-une-petite-semaine-%C3%A0-35-%C2%B0c-%C3%A7a-ne-nous-%C3%A9tonnera-plus",
+          "image": "https://s.france24.com/media/display/3659183a-5ac1-11f1-930e-005056bfb2b6/w:1280/p:16x9/Isabelle-vignette-verti.jpg"
+        },
+        {
+          "title": "Le Caire, ville du futur avec son monorail",
+          "summary": "Le monorail du Caire symbolise la modernisation accélérée de la mégalopole égyptienne, transformant son paysage urbain.",
+          "url": "https://www.lemonde.fr/international/article/2026/05/28/le-monorail-du-caire-symbole-de-la-transformation-de-la-megalopole-egyptienne_6694523_3210.html",
+          "image": "https://img.lemde.fr/2026/05/19/588/0/3912/1956/644/322/60/0/983be32_ftp-1-bw7d8cnmeklr-d977da91a28145c2b89bd6ee9c8c9fdd-0-8a5695b412bb4a2087deaf887b147a5a.jpg"
+        },
+        {
+          "title": "Allemagne restitue les livres de Marc Bloch",
+          "summary": "L'Allemagne rend des livres volés à la famille de l'historien Marc Bloch, juste avant sa panthéonisation symbolique.",
+          "url": "https://www.france24.com/fr/europe/20260528-l-allemagne-restitue-%C3%A0-la-famille-de-marc-bloch-des-livres-vol%C3%A9s-un-mois-avant-sa-panth%C3%A9onisation",
+          "image": "https://s.france24.com/media/display/a2ee73f6-05a2-11f1-b426-005056bfb2b6/w:1280/p:16x9/main-14-1.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "GPA : une tribune transpartisane s'oppose",
+          "summary": "Quinze personnalités politiques de divers bords s'unissent dans une tribune pour exprimer leur opposition à la gestation pour autrui.",
+          "url": "https://www.lefigaro.fr/actualite-france/dans-une-tribune-transpartisane-quinze-personnalites-politiques-dont-aurore-berge-s-opposent-a-la-gpa-20260528",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/05/28/61672a64977dc8b58c685759fc26e304d0818bfb8d0438dcf061795d46fab74e.JPG"
+        },
+        {
+          "title": "Kits de suicide : un procès canadien en France",
+          "summary": "Un Canadien est jugé en France pour la vente en ligne de kits de suicide, ayant causé des centaines de morts mondiales.",
+          "url": "https://www.sudouest.fr/justice/des-kits-de-suicide-vendus-sur-internet-des-centaines-de-morts-dans-le-monde-entier-un-canadien-juge-a-partir-de-ce-vendredi-29269183.php"
+        },
+        {
+          "title": "Le sosie de Pierre Niney affole le web",
+          "summary": "Un coiffeur toulousain fait sensation sur les réseaux sociaux grâce à sa ressemblance frappante avec l'acteur Pierre Niney.",
+          "url": "https://www.rtl.fr/culture/medias-people/un-sosie-parfait-de-pierre-niney-ou-un-nouveau-sketch-ce-coiffeur-toulousain-affole-les-reseaux-sociaux-par-sa-ressemblance-avec-l-acteur-7900640038",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1841798-le-coiffeur-yoan-louis-sosie-non-officiel-de-pierre-niney.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "IBM investit 10 milliards dans le quantique",
+          "summary": "IBM engage 10 milliards de dollars dans l'informatique quantique, visant un premier ordinateur commercial d'ici 2029.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/ibm-mise-10-milliards-de-dollars-sur-l-informatique-quantique-et-vise-un-premier-ordinateur-commercial-en-2029-20260528",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/05/28/7009cea81743d1f743582b87ba4f529c9093d8f79f19010dbffd0f21e7deaa95.jpg"
+        },
+        {
+          "title": "L'UE débloque 120 milliards pour les puces",
+          "summary": "L'Union Européenne prévoit un investissement massif de 120 milliards d'euros pour dynamiser sa production de semi-conducteurs.",
+          "url": "https://www.macg.co/ailleurs/2026/05/lue-triplerait-la-mise-avec-120-milliards-deuros-pour-rattraper-son-retard-dans-les-puces-308831",
+          "image": "https://cdn.mgig.fr/2026/05/mga-137506f1-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "Meta teste les abonnements payants",
+          "summary": "Meta officialise des abonnements potentiels pour Instagram, WhatsApp et Facebook, explorant de nouveaux modèles économiques.",
+          "url": "https://www.journaldugeek.com/2026/05/29/instagram-whatsapp-et-facebook-bientot-payants-meta-officialise-ses-abonnements/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/Meta-Unsplash-1280x720.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "La canicule dope les ventes en Gironde",
+          "summary": "La vague de chaleur historique en Gironde stimule les ventes record et l'adoption de nouveaux produits dans les commerces.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/canicule-en-gironde-c-est-du-jamais-vu-la-vague-de-chaleur-engendre-des-ventes-records-dans-les-magasins-et-favorise-l-usage-de-nouveaux-produits-29260447.php",
+          "image": "https://media.sudouest.fr/29260447/1200x600/20260528142549-davt7682.jpg"
+        },
+        {
+          "title": "X’Eau rouvre son bassin extérieur à Cognac",
+          "summary": "Le centre aquatique X’Eau de Cognac rouvre son bassin extérieur, offrant une option rafraîchissante face à la chaleur.",
+          "url": "https://www.charentelibre.fr/charente/cognac/cognac-le-centre-aquatique-x-eau-rouvre-son-bassin-exterieur-ce-lundi-29260450.php",
+          "image": "https://media.charentelibre.fr/29260450/1200x600/cl-612efbb37971bb3b5090c715-ph0.jpg"
+        },
+        {
+          "title": "Lamastre : 80 mètres de parapets rénovés",
+          "summary": "Des travaux importants de rénovation des parapets sur 80 mètres sont achevés le long de la RD 2 à Lamastre.",
+          "url": "https://www.ledauphine.com/economie/2026/05/28/les-parapets-refaits-sur-80-metres-le-long-de-la-rd-2",
+          "image": "https://cdn-s-www.ledauphine.com/images/B9A20D7F-EB76-4231-86F0-1F235A89E5CC/NW_listB/les-parapets-refaits-sur-80-metres-le-long-de-la-rd-2-1779995472.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama enflamme les Spurs en match 7",
+          "summary": "Victor Wembanyama mène les Spurs à l'égalisation, s'offrant un match 7 décisif pour les finales NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-avec-un-wembanyama-en-feu-les-spurs-egalisent-et-s-offrent-un-match-7-contre-oklahoma-city_AV-202605290063.html",
+          "image": "https://images.bfmtv.com/KLKIsN5m7c0TKVMftNwOU2o3Vuo=/0x20:2048x1172/800x0/images/Victor-Wembanyama-lors-du-match-6-de-la-finale-de-conference-Ouest-remporte-par-San-Antonio-contre-Oklahoma-City-118-91-le-28-mai-2026-2294080.jpg"
+        },
+        {
+          "title": "Enhanced Games : Renelle Lamothe fustige le dopage",
+          "summary": "L'athlète française Renelle Lamothe dénonce vivement les \"voyous\" et la \"merde\" des Enhanced Games et du dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/enhanced-games-des-voyous-de-la-merde-on-va-plus-vite-en-diamond-league-la-francaise-renelle-lamothe-detruit-les-athletes-qui-ont-accepte-de-se-doper_AV-202605260383.html",
+          "image": "https://images.bfmtv.com/VBULTrraawdBoyHpxccKGlElPBk=/0x40:768x472/800x0/images/La-joie-de-la-Francaise-Renelle-Lamote-apres-avoir-termine-2e-de-la-finale-du-800-m-aux-Championnats-d-Europe-d-athletisme-en-salle-le-3-mars-2019-a-Glasgow-1055135.jpg"
+        },
+        {
+          "title": "Décès tragique en compétition Hyrox à Lyon",
+          "summary": "Une jeune femme décède d'un coup de chaud lors d'une compétition Hyrox à Lyon, soulignant les risques de la chaleur intense.",
+          "url": "https://rmcsport.bfmtv.com/societe/hyrox-une-femme-decede-d-un-coup-de-chaud-sur-une-competition-a-lyon_AN-202605250454.html",
+          "image": "https://images.bfmtv.com/6DUeZDytnI5UKIxjIjCBAi_LjOk=/3x29:2035x1172/800x0/images/Une-epreuve-d-hyrox-a-Toulouse-en-mars-2026-2291770.jpg"
+        }
+      ]
+    }
+  ]
+}
