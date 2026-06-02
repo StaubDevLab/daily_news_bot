@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Sainte Blandine",
+  "global_summary": "Le tableau mondial de ce jour est contrasté, naviguant entre la tragédie d'une attaque jihadiste en RD Congo et des remaniements politiques au Sénégal et au Danemark, l'Europe se penchant sur la délicate question migratoire. L'innovation technologique ne ralentit pas, avec l'IA et la robotique transformant l'armée, et des annonces majeures à venir dans le domaine des produits électroniques grand public. Le monde des affaires, quant à lui, est rythmé par des mouvements boursiers et des annonces corporatives. \n\nSur la scène sportive, l'actualité est à la fois exaltante et préoccupante. La montée en puissance de Wembanyama continue de fasciner, mais le débat houleux autour des 'Enhanced Games' et le décès tragique lors d'une compétition soulignent l'importance de l'éthique et de la sécurité. Ces événements nous rappellent la nécessité de prudence et de responsabilité, surtout face aux défis climatiques et aux pressions de la performance.",
+  "running_advice": "Aujourd'hui, l'heure est au défi ! Avec des températures entre 15.9°C et 21.9°C et une pluie quasi-certaine (98% de probabilité, 🌧️), ta sortie running sera épique. Ce n'est pas la météo idéale pour battre ton record personnel, mais c'est parfait pour forger ton mental d'acier ! L'heure la plus clémente serait en fin de matinée ou début d'après-midi, quand les températures sont au plus haut, entre 11h et 15h. Même sous les nuages, l'indice UV est de 6.75 : n'oublie pas ta crème solaire et une casquette pour te protéger. Enfile une tenue imperméable, respire à fond et fais de cette pluie ton alliée. Chaque goutte est une motivation supplémentaire pour prouver ta force intérieure. Allez, fonce !",
+  "weather_string": "🌧️ Pluie (15.9°C / 21.9°C)",
+  "weather_stats": {
+    "temp": "21.9°C",
+    "rain": "98%",
+    "uv": "6.75"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Attaque meurtrière en RD Congo",
+          "summary": "Une attaque du groupe jihadiste ADF à Beni tue 16 personnes, semant terreur et deuil.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260601-une-attaque-du-groupe-jihadiste-adf-tue-16-personnes-%C3%A0-beni-dans-l-est-de-la-rd-congo",
+          "image": "https://s.france24.com/media/display/3659cb54-5df5-11f1-ab5f-005056bf30b7/w:1280/p:16x9/FRAN260601-2143-Live-01.jpg"
+        },
+        {
+          "title": "Sénégal : le Pastef hors gouvernement",
+          "summary": "Ousmane Sonko annonce que son parti ne participera pas au nouveau gouvernement sénégalais.",
+          "url": "https://www.france24.com/fr/afrique/20260601-s%C3%A9n%C3%A9gal-le-pastef-d-ousmane-sonko-ne-participere-pas-au-nouveau-gouvernement",
+          "image": "https://s.france24.com/media/display/750971f0-5df6-11f1-8522-005056bf30b7/w:1280/p:16x9/AP26146431554362.jpg"
+        },
+        {
+          "title": "Colombie : la gauche sous pression",
+          "summary": "Un avocat pro-Trump intensifie la pression sur le gouvernement de gauche avant la présidentielle.",
+          "url": "https://www.franceguyane.fr/actualite/international/presidentielle-en-colombie-un-avocat-pro-trump-met-sous-pression-la-gauche-au-pouvoir-1080900.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/6a1de5f2dbe4990e420338d0/width_1000/image.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Danemark : Nouveau gouvernement formé",
+          "summary": "Mette Frederiksen annonce la formation de son gouvernement après de longues négociations politiques.",
+          "url": "https://www.lefigaro.fr/flash-actu/danemark-la-premiere-ministre-sortante-mette-frederiksen-annonce-avoir-constitue-un-gouvernement-apres-de-longues-negociations-20260601",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/06/01/c415fef1a5ca692a0a81cef749fbf1f6ebebf4aef733d3f834254b59f4592051.jpg"
+        },
+        {
+          "title": "Collégienne en garde à vue pour agression",
+          "summary": "Une élève est placée en garde à vue, suspectée d'avoir agressé une camarade aux coups de couteau.",
+          "url": "https://www.sudouest.fr/faits-divers/une-collegienne-en-garde-a-vue-pour-des-coups-de-couteau-sur-une-eleve-de-sa-classe-29315389.php",
+          "image": "https://media.sudouest.fr/29315389/1200x600/20260326120532-psso6513.jpg"
+        },
+        {
+          "title": "L'UE valide les centres de migrants",
+          "summary": "L'Union européenne donne son feu vert pour créer des centres de renvoi des migrants illégaux.",
+          "url": "https://www.lefigaro.fr/flash-actu/l-ue-donne-son-feu-vert-pour-creer-des-centres-ou-renvoyer-les-migrants-illegaux-20260601",
+          "image": "https://i.f1g.fr/media/cms/3000x2003_crop/2026/06/01/c946005a033dbea858e0eea2b32887a5d72fd9e56103f426a25e8a25e8a2bfc3.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Armée de terre : IA et robotique",
+          "summary": "L'armée française se transforme avec l'IA, la robotique et la dronisation pour sa modernisation future.",
+          "url": "https://www.lefigaro.fr/international/unite-robotique-ia-la-transformation-de-l-armee-de-terre-dictee-par-sa-dronisation-20260601",
+          "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/06/01/4860adfcde7444018df8bf32d4880fec19c1eb6efe3bec40de10bc3f116f349a.jpg"
+        },
+        {
+          "title": "ROG NUC 16 : RTX 5090 en mini PC",
+          "summary": "La RTX 5090 débarque dans un mini PC transparent ROG NUC 16, une prouesse technologique.",
+          "url": "https://www.frandroid.com/produits-android/ordinateurs/pc-fixes/mini-pc/3121945_rog-nuc-16-edition-20-la-rtx-5090-debarque-dans-un-mini-pc-transparent",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/image-4-17.jpg?resize=1600,900&key=0fa7a0d8&watermark"
+        },
+        {
+          "title": "Apple chauffe avant la WWDC26",
+          "summary": "Fonds d'écran, playlists : Apple lance les festivités avant sa conférence développeurs WWDC26.",
+          "url": "https://www.macg.co/aapl/2026/06/fonds-decran-playlist-et-soiree-cinema-apple-lance-les-festivites-avant-la-wwdc26-308903",
+          "image": "https://cdn.mgig.fr/2026/06/mga-0f2507ed-w375-w1500-w750_accroche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Materion : Dirigeant vend des actions",
+          "summary": "Un dirigeant de Materion cède plus de 765 000 $ d'actions, un mouvement scruté par le marché.",
+          "url": "https://fr.investing.com/news/insider-trading-news/un-dirigeant-de-materion-vend-plus-de-765000-dactions-93CH-3442857",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL9J0G2_L.jpg"
+        },
+        {
+          "title": "Mueller Industries : Fractionnement d'actions",
+          "summary": "Mueller Industries annonce un fractionnement d'actions deux pour un, stimulant l'accessibilité boursière.",
+          "url": "https://fr.investing.com/news/company-news/mueller-industries-annonce-un-fractionnement-dactions-deux-pour-un-93CH-3442860",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_L.jpg"
+        },
+        {
+          "title": "Exicure : Avis NASDAQ pour dépôt tardif",
+          "summary": "Exicure reçoit une notification du NASDAQ pour le dépôt tardif de son rapport trimestriel.",
+          "url": "https://fr.investing.com/news/company-news/exicure-recoit-un-avis-du-nasdaq-pour-depot-trimestriel-tardif-93CH-3442861",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0L0PD_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Disparition Lyhanna : Le père mis en examen",
+          "summary": "Le père de Lyhanna est mis en examen à Agen, son profil dévoile des 'gestes déplacés'.",
+          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna-gestes-deplaces-casier-vierge-quel-est-le-profil-du-pere-de-famille-mis-en-examen-a-agen-29318097.php",
+          "image": null
+        },
+        {
+          "title": "Prison : Plaintes pour harcèlement",
+          "summary": "Six détenus de Condé-sur-Sarthe portent plainte pour harcèlement et violences en prison.",
+          "url": "https://www.sudouest.fr/justice/prison/prison-six-detenus-du-centre-ultra-securise-de-conde-sur-sarthe-portent-plainte-pour-harcelement-et-violences-29317459.php",
+          "image": null
+        },
+        {
+          "title": "Accident de la route près de Marmande",
+          "summary": "Trois jeunes hommes sont blessés près de Marmande suite à un accident de la route.",
+          "url": "https://www.sudouest.fr/faits-divers/pres-de-marmande-trois-jeunes-hommes-blesses-apres-un-accident-de-la-route-29317314.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Geek",
+      "emoji": "🤓",
+      "articles": [
+        {
+          "title": "Superman 2 : Lex Luthor gagne en puissance",
+          "summary": "Un premier aperçu de Superman 2 confirme le 'power-up' de Lex Luthor, promettant un film intense.",
+          "url": "https://www.journaldugeek.com/2026/06/02/man-of-tomorrow-lex-luthor-confirme-son-power-up-dans-un-premier-apercu-de-superman-2/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/man-of-tomorrow-super-man-2-lex-luthor-2-1280x853.jpg"
+        },
+        {
+          "title": "Pixel Watch 5 : Prototype repêché",
+          "summary": "Un prototype inattendu de la Pixel Watch 5 a été repêché au fond des Caraïbes.",
+          "url": "https://www.journaldugeek.com/2026/06/02/un-prototype-de-pixel-watch-5-repeche-au-fond-des-caraibes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/pixel-watch-5-1280x853.jpg"
+        },
+        {
+          "title": "Groupe sanguin et moustiques",
+          "summary": "Découvrez pourquoi certains groupes sanguins sont plus attirés par les moustiques que d'autres.",
+          "url": "https://www.journaldugeek.com/2026/06/02/pourquoi-ce-groupe-sanguin-se-fait-toujours-devorer-par-les-moustiques/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/moustique-1-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama devant les GOATS",
+          "summary": "Victor Wembanyama dépasse déjà LeBron et Jordan en précocité, une légende est en marche.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-lebron-jordan-wembanyama-en-avance-sur-les-goats-de-la-nba_VN-202606010921.html",
+          "image": "https://images.bfmtv.com/J_GNzKuD__StOjHE2AmSPXfWBFw=/0x0:1280x720/800x0/images/Lebron-Jordan-Wembanyama-en-avance-sur-les-GOATS-de-la-NBA-2296033.jpg"
+        },
+        {
+          "title": "Enhanced Games : Renelle Lamothe fustige",
+          "summary": "La Française Renelle Lamothe critique vivement les athlètes dopés des 'Enhanced Games', parlant de 'voyous'.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/enhanced-games-des-voyous-de-la-merde-on-va-plus-vite-en-diamond-league-la-francaise-renelle-lamothe-detruit-les-athletes-qui-ont-accepte-de-se-doper_AV-202605260383.html",
+          "image": "https://images.bfmtv.com/VBULTrraawdBoyHpxccKGlElPBk=/0x40:768x472/800x0/images/La-joie-de-la-Francaise-Renelle-Lamote-apres-avoir-termine-2e-de-la-finale-du-800-m-aux-Championnats-d-europe-d-athletisme-en-salle-le-3-mars-2019-a-Glasgow-1055135.jpg"
+        },
+        {
+          "title": "Tragédie Hyrox : Décès suite à la chaleur",
+          "summary": "Une femme de 28 ans décède d'un coup de chaud lors d'une compétition Hyrox à Lyon.",
+          "url": "https://rmcsport.bfmtv.com/societe/hyrox-une-femme-decede-d-un-coup-de-chaud-sur-une-competition-a-lyon_AN-202605250454.html",
+          "image": "https://images.bfmtv.com/6DUeZDytnI5UKIxjIjCBAi_LjOk=/3x29:2035x1172/800x0/images/Une-epreuve-d-hyrox-a-Toulouse-en-mars-2026-2291770.jpg"
+        }
+      ]
+    }
+  ]
+}
