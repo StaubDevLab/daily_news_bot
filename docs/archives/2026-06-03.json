@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Kévin",
-  "global_summary": "Le monde est en effervescence, naviguant entre rebondissements politiques majeurs, avancées médicales prometteuses et une forte impulsion technologique portée par l'IA. De l'abandon d'un fonds controversé par l'administration Trump à l'espoir suscité par un nouveau traitement contre le cancer du pancréas, l'innovation et les changements structurels sont au cœur de l'actualité globale. En France, les défis sociaux et éducatifs continuent d'alimenter les débats, avec des réflexions sur la justice, les violences urbaines et les admissions post-bac. \nLe sport, lui, nous offre des moments d'exaltation avec des talents français à l'honneur en NBA, mais nous confronte aussi à des enjeux cruciaux de sécurité des athlètes face aux fortes chaleurs et aux remous politiques autour des grands événements. Enfin, le secteur économique souligne la vitalité de l'entrepreneuriat et l'impact des investissements industriels locaux.",
-  "running_advice": "Aujourd'hui, c'est une EXCELLENTE journée pour chausser vos baskets, champion(ne) ! Avec des températures allant de 14°C à 20.4°C et un ciel peu nuageux 🌤️, les conditions sont presque parfaites pour une session running énergisante. Le risque de pluie est minime (13%), donc pas d'excuses pour rester cloîtré(e) !\nL'heure idéale pour votre run se situe **tôt le matin, juste après le lever du soleil vers 06h18**, pour profiter de la fraîcheur et d'une belle lumière, ou alors en **fin d'après-midi/début de soirée, entre 17h00 et 19h00**, quand la chaleur de la journée commence à redescendre. Attention cependant, l'indice UV est de 4.5, ce qui est modéré mais nécessite une vigilance accrue. Pensez absolument à appliquer une protection solaire, même par temps nuageux, et à porter une casquette ou des lunettes de soleil. Hydratez-vous bien avant, pendant et après l'effort. Votre corps vous remerciera ! Allez, on y va, donnez tout !",
-  "weather_string": "🌤️ Peu nuageux (14°C / 20.4°C)",
+  "global_summary": "L'actualité de ce jour nous plonge dans un kaléidoscope d'enjeux, oscillant entre les sphères géopolitiques et les avancées scientifiques majeures. Sur le plan international, des remous politiques secouent les États-Unis et l'Europe, tandis qu'un espoir considérable émerge dans la lutte contre le cancer du pancréas. Ces mouvements soulignent une période de profondes transformations et d'innovations. \nEn France, les débats sociaux autour des violences urbaines et l'accompagnement des étudiants dominent, tandis que le monde de la technologie s'illumine d'initiatives IA et de lancements réussis. Le sport, quant à lui, célèbre ses talents et confronte des défis cruciaux en matière de santé des athlètes et d'éthique, nous rappelant l'importance de la performance responsable et du bien-être général.",
+  "running_advice": "Absolument ! Aujourd'hui, c'est une journée fantastique pour chausser vos baskets et vous lancer ! Avec des températures douces allant de 14°C à 21.6°C et un ciel peu nuageux, les conditions sont idéales. Je vous recommande de viser le créneau matinal, juste après le lever du soleil entre 6h30 et 9h00, pour profiter de la fraîcheur. Si le matin n'est pas possible, l'heure d'or du soir, entre 18h30 et 20h30, sera parfaite. N'oubliez pas votre crème solaire et un chapeau : l'indice UV de 4.5 nécessite une protection. Hydratez-vous bien et profitez de chaque foulée ! Vous avez cette énergie en vous, libérez-la !",
+  "weather_string": "🌤️ Peu nuageux (14°C / 21.6°C)",
   "weather_stats": {
-    "temp": "20.4°C",
+    "temp": "21.6°C",
     "rain": "13%",
     "uv": "4.5"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Trump renonce à fonds justice",
-          "summary": "L'administration Trump abandonne son «fonds anti-instrumentalisation» de la justice, marquant un recul notable.",
+          "title": "Trump renonce à fonds anti-justice",
+          "summary": "L'administration Trump abandonne un fonds controversé dédié à contrer l'instrumentalisation de la justice.",
           "url": "https://www.la-croix.com/international/le-gouvernement-trump-a-renonce-a-son-fonds-anti-instrumentalisation-de-la-justice-20260602",
           "image": "https://i.la-croix.com/x/smart/2026/06/02/2451741-l-administration-trump-a-renonce-a-son-fonds-dinde.jpg"
         },
         {
-          "title": "Cancer pancréas : nouvel espoir",
-          "summary": "Le daraxonrasib offre un espoir prometteur pour retarder la progression du cancer du pancréas.",
+          "title": "Espoir contre le cancer du pancréas",
+          "summary": "Le daraxonrasib suscite un grand espoir pour ralentir la progression du redoutable cancer du pancréas.",
           "url": "https://www.france24.com/fr/sant%C3%A9/20260602-cancer-du-pancr%C3%A9as-le-daraxonrasib-un-espoir-pour-retarder-la-progression-de-la-maladie",
           "image": "https://s.france24.com/media/display/fbceb15e-5eb5-11f1-a76d-005056a97e36/w:1280/p:16x9/2026-05-31T132934Z-1016476251-RC2CJLAMLVV4-RTRMADP-3-REVOLUTION-CANCER-PANCREATIC.jpg"
         },
         {
-          "title": "Rencontre Merz-Magyar à Berlin",
-          "summary": "Friedrich Merz et Péter Magyar se sont rencontrés à Berlin pour des discussions politiques cruciales.",
+          "title": "Merz rencontre Magyar à Berlin",
+          "summary": "Une rencontre clé entre Friedrich Merz et Péter Magyar se tient à Berlin, marquant les enjeux politiques européens.",
           "url": "http://fr.euronews.com/my-europe/2026/06/02/rencontre-entre-friedrich-merz-et-peter-magyar-a-berlin",
           "image": "https://images.euronews.com/articles/stories/09/78/20/27/1440x810_cmsv2_e3e8cbb9-f554-5cc3-9d82-70f2d44b1245-9782027.jpg"
         }
@@ -38,20 +38,20 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Sansal défend critiques du régime",
-          "summary": "L'écrivain Boualem Sansal précise ses critiques, ciblant le régime algérien plutôt que l'Algérie ou l'Islam.",
+          "title": "Sansal dénonce un régime algérien",
+          "summary": "L'écrivain Boualem Sansal réaffirme attaquer un régime et non l'Algérie ou l'Islam, clarifiant sa position.",
           "url": "https://www.europe1.fr/international/boualem-sansal-la-legende-je-nai-jamais-attaque-lalgerie-je-nai-pas-attaque-lislam-jattaque-un-regime-clame-lecrivain-941087",
           "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/06/02/16/000_a8wg8df_1_6a1ee45def6e2.jpg"
         },
         {
-          "title": "Violences urbaines : profils inattendus",
-          "summary": "Un avocat révèle que la plupart des prévenus de violences urbaines sont sans antécédents judiciaires.",
+          "title": "Violences urbaines: prévenus sans antécédents",
+          "summary": "Un avocat pénaliste révèle que la majorité des prévenus pour violences urbaines n'avaient pas d'antécédents.",
           "url": "https://www.bfmtv.com/societe/video-forum-bfmtv-violences-urbaines-la-plupart-des-prevenus-qui-comparaissaient-sont-des-gens-qui-n-ont-pas-d-antecedents-assure-martin-avocat-penaliste_VN-202606020914.html",
-          "image": "https://images.bfmtv.com/6p3n6H9BFWeFBh-fE4UaRDKf1HE=/0x0:1280x720/1280x0/images/FORUM-BFMTV-Violences-urbaines-La-plupart-des-prevenus-qui-comparaissaient-sont-des-gens-qui-n-ont-pas-d-antecedents-assure-martin-avocat-penaliste-2296738.jpg"
+          "image": "https://images.bfmtv.com/6p3n6H9BFWeFBh-fE4UaRDKf1HE=/0x0:1280x720/1280x0/images/FORUM-BFMTV-Violences-urbaines-La-plupart-des-prevenus-qui-comparaissaient-sont-des-gens-qui-n-ont-pas-d-antecedents-assure-Martin-avocat-penaliste-2296738.jpg"
         },
         {
-          "title": "Parcoursup : l'aide indispensable",
-          "summary": "Un étudiant témoigne de l'importance de l'accompagnement pour réussir les admissions Parcoursup.",
+          "title": "Parcoursup: l'aide est essentielle",
+          "summary": "Des étudiants témoignent de l'importance cruciale de l'aide pour réussir les admissions sur Parcoursup.",
           "url": "http://www.lardennais.fr/id809181/article/2026-06-02/admissions-sur-parcoursup-franchement-je-ny-serais-pas-arrive-tout-seul",
           "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/06/02/node_809181/15443070/public/2026/06/02/82989423.jpeg?itok=_iOuJez21780428791"
         }
@@ -59,22 +59,22 @@
     },
     {
       "label": "Tech",
-      "emoji": "💻",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Microsoft & Mayo Clinic : IA santé",
-          "summary": "Microsoft et Mayo Clinic s'allient pour un modèle d'IA révolutionnaire dans le domaine de la santé.",
+          "title": "Mayo Clinic & Microsoft, l'IA santé",
+          "summary": "La Mayo Clinic et Microsoft unissent leurs forces pour développer un modèle d'IA révolutionnaire en santé.",
           "url": "https://fr.investing.com/news/company-news/mayo-clinic-et-microsoft-sassocient-pour-developper-un-modele-dia-en-sante-93CH-3444981",
           "image": "https://i-invdn-com.investing.com/news/LYNXMPEDAF0IH_L.jpg"
         },
         {
-          "title": "Microsoft prépare futurs gadgets IA",
-          "summary": "Microsoft développe des gadgets IA futuristes : enceintes connectées et badges intelligents en préparation.",
-          "url": "https://www.journaldugeek.com/2026/06/03/enceinte-connectee-badge-microsoft-prepare-ses-gadgets-ia-du-futur/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/06/projet-solara-1280x853.jpg"
+          "title": "Stellantis investit à Mulhouse",
+          "summary": "L'investissement majeur de Stellantis à Mulhouse stimule l'économie de la Franche-Comté.",
+          "url": "https://www.estrepublicain.fr/economie/2026/06/02/stellantis-l-investissement-massif-a-mulhouse-ruisselle-deja-sur-la-franche-comte",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/5D49F0A1-D8A5-42F7-9510-8145B4C7BC00/NW_listB/stellantis-l-investissement-massif-a-mulhouse-ruisselle-deja-sur-la-franche-comte-1780429047.jpg"
         },
         {
-          "title": "MacBook Neo, succès fulgurant",
+          "title": "Le MacBook Neo, succès fulgurant",
           "summary": "Le nouveau MacBook Neo rencontre un succès commercial phénoménal, s'arrachant comme des petits pains.",
           "url": "https://www.macg.co/mac/2026/06/le-macbook-neo-se-vend-vraiment-comme-des-petits-pains-308933",
           "image": "https://cdn.mgig.fr/2026/06/mga-d42de07e-w375-w1500-w750_accroche.jpg"
@@ -83,49 +83,73 @@
     },
     {
       "label": "Business",
-      "emoji": "📈",
+      "emoji": "💰",
       "articles": [
         {
-          "title": "Wallonie : l'entrepreneuriat jeune boosté",
-          "summary": "Un éditorial appelle à connecter les jeunes à l'entrepreneuriat pour dynamiser l'économie wallonne.",
+          "title": "Wallonie: connecter jeunes et entrepreneuriat",
+          "summary": "Un éditorial propose de stimuler la Wallonie en connectant davantage les jeunes à l'esprit d'entreprise.",
           "url": "https://www.lecho.be/opinions/edito/edito-pour-reveiller-la-wallonie-connecter-les-jeunes-a-l-entrepreneuriat/10673686.html",
           "image": "https://images.lecho.be/view?iid=Elvis:DkgLA8mYKxsAuKEPBdDv4O&context=ONLINE&ratio=16/9&width=640&u=1780428763000"
         },
         {
-          "title": "Stellantis : gros investissement local",
-          "summary": "L'investissement massif de Stellantis à Mulhouse génère des retombées économiques importantes en Franche-Comté.",
-          "url": "https://www.estrepublicain.fr/economie/2026/06/02/stellantis-l-investissement-massif-a-mulhouse-ruisselle-deja-sur-la-franche-comte",
-          "image": "https://cdn-s-www.estrepublicain.fr/images/5D49F0A1-D8A5-42F7-9510-8145B4C7BC00/NW_listB/stellantis-l-investissement-massif-a-mulhouse-ruisselle-deja-sur-la-franche-comte-1780429047.jpg"
-        },
-        {
-          "title": "Stifel relève Marvell grâce IA",
-          "summary": "Stifel augmente l'objectif de cours de Marvell à 321$ en raison de l'impact positif de l'IA.",
+          "title": "Stifel booste Marvell grâce à l'IA",
+          "summary": "Stifel relève l'objectif de cours de Marvell à 321$ en capitalisant sur le potentiel de l'IA.",
           "url": "https://fr.investing.com/news/analyst-ratings/stifel-releve-lobjectif-de-cours-de-marvell-a-321-sur-lia-93CH-3444975",
           "image": "https://i-invdn-com.investing.com/news/moved_LYNXNPEL8P00V_L.jpg"
+        },
+        {
+          "title": "Pinnacle Bank nomme directrice RH",
+          "summary": "Pinnacle Bank renforce son équipe de direction en nommant Debra Silveira directrice des ressources humaines.",
+          "url": "https://fr.investing.com/news/company-news/pinnacle-bank-nomme-debra-silveira-directrice-des-ressources-humaines-93CH-3444976",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
         }
       ]
     },
     {
-      "label": "Région",
+      "label": "Gironde",
       "emoji": "📍",
       "articles": [
         {
-          "title": "Disparition Lyhanna : enquête s'intensifie",
-          "summary": "L'enquête sur la disparition de Lyhanna s'accélère, le suspect principal étant déjà visé par une plainte.",
-          "url": "https://www.sudouest.fr/gers/direct-disparition-de-lyhanna-le-temps-joue-contre-nous-le-principal-suspect-deja-vise-par-une-plaintepour-viol-le-point-ce-mercredi-3-juin-29329614.php",
+          "title": "Incendie dans une station-service",
+          "summary": "Trente pompiers mobilisés dans les Landes pour maîtriser un incendie de pompe à carburant.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/landes-trente-pompiers-mobilises-pour-eteindre-l-incendie-d-une-pompe-a-carburant-dans-une-station-service-29330452.php",
           "image": null
         },
         {
-          "title": "Landes : restaurant en flammes",
-          "summary": "Un restaurant de 300 mètres carrés a été ravagé par les flammes durant la nuit dans les Landes.",
+          "title": "Restaurant en feu dans les Landes",
+          "summary": "Un restaurant de 300 m² ravagé par les flammes dans les Landes durant la nuit.",
           "url": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/landes-un-restaurant-de-300-metres-carres-en-feu-dans-la-nuit-du-2-au-3-juin-2026-29330337.php",
           "image": null
         },
         {
-          "title": "Landes : station-service en feu",
-          "summary": "Trente pompiers mobilisés pour éteindre l'incendie d'une pompe à carburant dans une station-service des Landes.",
-          "url": "https://www.sudouest.fr/faits-divers/incendies/landes-trente-pompiers-mobilises-pour-eteindre-l-incendie-d-une-pompe-a-carburant-dans-une-station-service-29330452.php",
+          "title": "Disparition de Lyhanna: l'enquête",
+          "summary": "Le temps presse pour retrouver Lyhanna; le suspect principal déjà visé par une plainte pour viol.",
+          "url": "https://www.sudouest.fr/gers/direct-disparition-de-lyhanna-le-temps-joue-contre-nous-le-principal-suspect-deja-vise-par-une-plaintepour-viol-le-point-ce-mercredi-3-juin-29329614.php",
           "image": null
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Microsoft prépare ses gadgets IA",
+          "summary": "Microsoft développe des enceintes connectées et badges IA pour le futur, promettant innovations technologiques.",
+          "url": "https://www.journaldugeek.com/2026/06/03/enceinte-connectee-badge-microsoft-prepare-ses-gadgets-ia-du-futur/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/projet-solara-1280x853.jpg"
+        },
+        {
+          "title": "AirDrop arrive chez Xiaomi",
+          "summary": "Xiaomi inaugure enfin la compatibilité AirDrop sur un premier modèle, simplifiant les partages.",
+          "url": "https://www.journaldugeek.com/2026/06/03/la-compatibilite-avec-airdrop-arrive-enfin-chez-xiaomi-voici-le-premier-modele-compatible/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/xiaomi-17T-Pro-face-1280x853.jpg"
+        },
+        {
+          "title": "Les Simpson rythment votre été",
+          "summary": "Disney+ annonce des épisodes spéciaux des Simpson pour animer votre été, une bonne nouvelle pour les fans.",
+          "url": "https://www.journaldugeek.com/2026/06/03/sur-disney-les-simpson-vont-rythmer-votre-ete-avec-des-episodes-speciaux/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/les-simpsons-episodes-speciaux-1280x853.jpg"
         }
       ]
     },
@@ -134,34 +158,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wemby & Français en finale NBA",
-          "summary": "Victor Wembanyama ne sera pas le seul Français à briller lors des finales NBA, deux autres tricolores sont en lice.",
+          "title": "Wembanyama et les Français NBA",
+          "summary": "Outre Wembanyama, deux autres Français s'apprêtent à briller lors des finales de la NBA.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/wembanyama-ne-sera-pas-le-seul-representant-tricolore-qui-sont-les-deux-autres-francais-qui-vont-jouer-les-finales-nba_AN-202606030282.html",
           "image": "https://images.bfmtv.com/n-cx0dZu_XiYHxY0tsEUDnz4rP4=/7x111:2039x1254/800x0/images/Mohamed-Diawara-lors-du-match-des-Knicks-contre-les-Clippers-le-9-mars-2026-2296943.jpg"
         },
         {
-          "title": "Drame Hyrox : décès coup de chaud",
-          "summary": "Une participante de 28 ans est décédée d'un coup de chaud lors d'une compétition Hyrox à Lyon.",
-          "url": "https://rmcsport.bfmtv.com/societe/hyrox-une-femme-decede-d-un-coup-de-chaud-sur-une-competition-a-lyon_AN-202605250454.html",
-          "image": "https://images.bfmtv.com/6DUeZDytnI5UKIxjIjCBAi_LjOk=/3x29:2035x1172/800x0/images/Une-epreuve-d-hyrox-a-Toulouse-en-mars-2026-2291770.jpg"
+          "title": "Chaleurs: annulations de compétitions?",
+          "summary": "La ministre des Sports alerte sur les fortes chaleurs, risquant des annulations de compétitions.",
+          "url": "https://rmcsport.bfmtv.com/societe/fortes-chaleurs-il-pourrait-y-avoir-des-annulations-de-competitions-la-ministre-des-sports-appelle-a-la-plus-grande-vigilance_AV-202605260231.html",
+          "image": "https://images.bfmtv.com/MTMWJ9muD77Y1PT0r5q73umvV4M=/0x0:1920x1080/800x0/images/Marina-Ferrari-ministre-des-Sports-de-la-Jeunesse-et-de-la-Vie-associative-2292168.jpg"
         },
         {
-          "title": "JO 2030 : Nice écartée, polémique",
-          "summary": "Nice privée d'épreuves pour les JO 2030, déclenchant une vive polémique politique nationale.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/pas-d-epreuves-des-jo-2030-a-nice-fossoyeurs-manipulation-sanction-politique-la-passe-d-armes-entre-ciotti-bardella-et-muselier_AV-202605300275.html",
-          "image": "https://images.bfmtv.com/jWL1ZZDwv8dONK1yVNwDdkTrAhI=/0x106:2048x1258/800x0/images/Eric-Ciotti-et-Jordan-Bardella-devant-le-Medef-le-20-juin-2024-2093063.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Culture & Loisirs",
-      "emoji": "✨",
-      "articles": [
-        {
-          "title": "Les Simpson rythment votre été",
-          "summary": "Disney+ programme des épisodes spéciaux des Simpson pour égayer votre été.",
-          "url": "https://www.journaldugeek.com/2026/06/03/sur-disney-les-simpson-vont-rythmer-votre-ete-avec-des-episodes-speciaux/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/06/les-simpsons-episodes-speciaux-1280x853.jpg"
+          "title": "Doping: Lamothe fustige les 'voyous'",
+          "summary": "Renelle Lamothe fustige avec virulence les athlètes ayant accepté de participer aux Enhanced Games dopées.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/enhanced-games-des-voyous-de-la-merde-on-va-plus-vite-en-diamond-league-la-francaise-renelle-lamothe-detruit-les-athletes-qui-ont-accepte-de-se-doper_AV-202605260383.html",
+          "image": "https://images.bfmtv.com/VBULTrraawdBoyHpxccKGlElPBk=/0x40:768x472/800x0/images/La-joie-de-la-Francaise-Renelle-Lamote-apres-avoir-termine-2e-de-la-finale-du-800-m-aux-Championnats-d-Europe-d-athletisme-en-salle-le-3-mars-2019-a-Glasgow-1055135.jpg"
         }
       ]
     }
