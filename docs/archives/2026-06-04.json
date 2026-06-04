@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Sainte Clotilde",
+  "global_summary": "La scène internationale est marquée par des rebondissements diplomatiques avec l'échec de l'Allemagne à l'ONU et des tensions persistantes au Moyen-Orient et en Ukraine, où l'usage de l'IA dans les robots de combat soulève des questions éthiques. Le monde de la technologie continue d'évoluer rapidement, offrant innovations et solutions pour le quotidien. \nEn France, l'actualité conjugue solidarité suite à un vol symbolique, des initiatives économiques locales pour l'emploi, et des débats passionnants autour des performances sportives et des enjeux olympiques. Les passionnés de sport suivent de près les finales NBA, tandis que des témoignages inspirants et des discussions sur le dopage animent le monde de l'athlétisme.",
+  "running_advice": "Alors, champion(ne), prêt(e) à défier les éléments aujourd'hui ? La météo nous annonce une journée pluvieuse avec 70% de chances de pluie et des températures douces entre 14.3°C et 19.1°C. Ce n'est pas le soleil radieux, mais c'est parfait pour une session running rafraîchissante, à condition d'être bien équipé(e) ! Enfilez votre imperméable léger et vos chaussures imperméables, et foncez ! Pour le timing, le meilleur créneau serait en fin d'après-midi, **entre 18h00 et 19h00**. La pluie pourrait s'être calmée et vous profiterez d'une belle lumière déclinante avant le coucher du soleil. Attention, l'indice UV est à 6.35, ce qui est élevé même par temps couvert ou pluvieux. Pensez à une protection solaire légère et des lunettes si vous êtes sensible. Laissez la pluie laver vos doutes, et transformez chaque goutte en une poussée supplémentaire vers vos objectifs ! Allez, on y va !",
+  "weather_string": "🌧️ Pluie (14.3°C / 19.1°C)",
+  "weather_stats": {
+    "temp": "19.1°C",
+    "rain": "70%",
+    "uv": "6.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "ONU : L'Allemagne rate son élection au Conseil de sécurité",
+          "summary": "Le Portugal et l'Autriche obtiennent les sièges européens pour 2027-2028, un revers diplomatique pour Berlin.",
+          "url": "https://www.franceinfo.fr/monde/onu/l-allemagne-echoue-a-etre-elue-au-conseil-de-securite-de-l-onu-les-deux-sieges-europeens-pour-2027-2028-attribues-au-portugal-et-a-l-autriche_8043581.html",
+          "image": "https://www.franceinfo.fr/pictures/d8iUDwFAHZ4K-4mpg449qNs_nMQ/1200x675/2026/06/03/6a208a3eed89f866086800.jpg"
+        },
+        {
+          "title": "Moyen-Orient : Netanyahu et Trump partagent une vision commune",
+          "summary": "Le Premier ministre israélien dément toute brouille et revendique une entente sur le dossier libanais.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260603-netanyahu-%C3%A9carte-toute-brouille-avec-trump-revendique-vision-commune-liban",
+          "image": "https://s.france24.com/media/display/e85dc164-5f5a-11f1-a222-005056a97e36/w:1280/p:16x9/2026-05-25T101307Z-194946531-RC2KQIA2JPPH-RTRMADP-3-IRAN-CRISIS-ISRAEL-NETANYAHU.jpg"
+        },
+        {
+          "title": "Ukraine : Zelensky justifie les frappes sur Saint-Pétersbourg",
+          "summary": "Le président ukrainien qualifie ces actions de \"juste réponse\" face à l'agression russe.",
+          "url": "https://www.bfmtv.com/international/asie/russie/volodymyr-zelensky-assure-que-les-frappes-ukrainiennes-sur-saint-petersbourg-sont-une-reponse-juste-a-la-russie_AD-202606030934.html",
+          "image": "https://images.bfmtv.com/jOyh6-aFu5DJG85sP1gdEEDjm1c=/0x106:2048x1258/2048x0/images/Des-personnes-devant-des-banderoles-portant-le-logo-du-Forum-economique-international-de-Saint-Petersbourg-SPIEF-tandis-qu-une-fumee-noire-s-eleve-au-loin-a-Saint-Petersbourg-le-3-juin-2026-2297411.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "D-Day : Cagnotte solidaire après le vol d'une statue",
+          "summary": "Une initiative britannique lancée pour remplacer la statue du joueur de cornemuse volée dans le Calvados.",
+          "url": "https://www.franceinfo.fr/france/debarquement-du-6-juin-1944/une-cagnotte-ouverte-en-grande-bretagne-apres-le-vol-d-une-statue-d-un-joueur-de-cornemuse-dans-le-calvados-a-quelques-jours-du-d-day_8043638.html",
+          "image": "https://www.franceinfo.fr/pictures/hoNzyANIzllkEIM8nnkyUbqFI80/1200x675/2026/06/03/6a2080ef47a07589983419.jpeg"
+        },
+        {
+          "title": "Insolite : Chasse au trésor estivale pour un lingot de 20 000€",
+          "summary": "En Finlande, une compétition originale offre 20 000 euros à qui retrouvera un lingot caché.",
+          "url": "https://www.huffingtonpost.fr/international/article/l-insolite-chasse-au-tresor-estivale-en-finlande-pour-retrouver-un-lingot-de-20-000-euros_264415.html",
+          "image": "https://focus.huffingtonpost.fr/2026/06/03/47/0/1550/871/0/0/60/0/20a9424_upload-1-d5zn71hbqh3r-screenshot-2026-06-03-at-2-20-10-pm.png"
+        },
+        {
+          "title": "Agriculture : Mobilisation massive pour le plan vendanges",
+          "summary": "En Saône-et-Loire, toutes les pistes sont explorées pour recruter face aux besoins saisonniers.",
+          "url": "https://www.lejsl.com/economie/2026/06/03/on-sonne-la-mobilisation-le-plan-vendanges-explore-toutes-les-pistes-de-recrutement",
+          "image": "https://cdn-s-www.lejsl.com/images/15ABCC1C-BB20-40F3-B36D-F48AEBFE6B35/NW_listB/on-sonne-la-mobilisation-le-plan-vendanges-explore-toutes-les-pistes-de-recrutement-1780518521.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovations",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Android Go adopte Gemini, Assistant Go disparaît",
+          "summary": "Google Gemini remplace définitivement Assistant Go, apportant l'IA sur les appareils d'entrée de gamme.",
+          "url": "https://www.frandroid.com/android/3125511_gemini-go-debarque-sur-android-go-et-enterre-assistant-go-pour-de-bon",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/image-29-1.jpg?resize=1600,900&key=0ac884ff&watermark"
+        },
+        {
+          "title": "Guerre en Ukraine : Les robots IA changent la donne",
+          "summary": "L'Ukraine utilise de plus en plus de robots autonomes pilotés par l'IA, soulevant des questions éthiques.",
+          "url": "https://embarque.developpez.com/actu/383838/Grace-aux-robots-l-Ukraine-parle-desormais-de-victoire-et-non-plus-seulement-de-survie-Un-nombre-croissant-de-ces-engins-autonomes-sont-pilotes-par-l-IA-ce-qui-suscite-des-preoccupations-ethiques/",
+          "image": "https://www.developpez.com/images/logos/robot.png"
+        },
+        {
+          "title": "La console rétro portable ultime pour tous vos jeux",
+          "summary": "Découvrez la nouvelle console capable de faire tourner l'intégralité de votre ludothèque rétro préférée.",
+          "url": "https://www.frandroid.com/bons-plans/3125489_on-a-trouve-la-console-retro-portable-parfaite-pour-faire-tourner-absolument-tous-vos-jeux",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/image-28-2.jpg?resize=1600,900&key=68ebc7e0&watermark"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Finance",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Économie : Le futur surprenant de nos billets de banque",
+          "summary": "Découvrez les innovations et les tendances qui façonneront les devises physiques de demain.",
+          "url": "https://www.journaldugeek.com/2026/06/04/voici-le-futur-des-billets-de-banque/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/billets-banque-1280x853.jpg"
+        },
+        {
+          "title": "Partage d'abonnements : Que risquez-vous avec Spliiit ?",
+          "summary": "Après la condamnation de la plateforme, les utilisateurs s'interrogent sur les conséquences juridiques du partage d'abonnements.",
+          "url": "https://www.journaldugeek.com/2026/06/04/apres-la-condamnation-de-spliiit-que-risquez-vous-a-utiliser-la-plateforme/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/spliiit-condamnation-1280x853.jpg"
+        },
+        {
+          "title": "Emploi : Une journée dédiée aux formations locales",
+          "summary": "À Montceau-les-Mines, une initiative permet de découvrir les opportunités de carrière et de développement de compétences.",
+          "url": "https://www.lejsl.com/economie/2026/06/03/une-journee-pour-decouvrir-des-formations",
+          "image": "https://cdn-s-www.lejsl.com/images/F18E277A-F2EF-481A-82B0-610CFED6E2C2/NW_listB/une-journee-pour-decouvrir-des-formations-1780518149.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualités Régionales",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Dordogne : Rebondissement dans le cold case de La Douze",
+          "summary": "Les trois hommes interrogés dans l'affaire Seignole ont été libérés sans charges.",
+          "url": "https://www.sudouest.fr/dordogne/la-douze/cold-case-du-disparu-de-la-douze-en-dordogne-les-trois-hommes-interroges-dans-l-affaire-seignole-liberes-sans-charges-29343692.php",
+          "image": ""
+        },
+        {
+          "title": "Hossegor : Incendie maîtrisé dans un restaurant",
+          "summary": "Plus de peur que de mal après un départ de feu dans le centre-ville des Landes.",
+          "url": "https://www.sudouest.fr/landes/soorts-hossegor/landes-plus-de-peur-que-de-mal-apres-le-depart-d-un-incendie-dans-un-restaurant-du-centre-ville-d-hossegor-29335610.php",
+          "image": ""
+        },
+        {
+          "title": "Miracle à l'Everest : Un guide retrouvé vivant après 6 jours",
+          "summary": "Un guide népalais disparu a été retrouvé miraculeusement vivant après une semaine sur l'Everest.",
+          "url": "https://www.sudouest.fr/tourisme/montagne/un-guide-nepalais-disparu-dans-l-everest-retrouve-miraculeusement-vivant-au-bout-de-six-jours-29343666.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Sports & Performances",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "NBA Finals : Wembanyama et les Spurs battus au Match 1",
+          "summary": "Défaite pour les Spurs face aux Knicks, un coup d'arrêt pour Victor Wembanyama en finales NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/finales-nba-coup-d-arret-pour-wembanyama-les-spurs-surpris-a-domicile-par-les-knicks-des-le-match-1_AV-202606040079.html",
+          "image": "https://images.bfmtv.com/ULMqlcPRfwVYJPhej_BqBG4Vuus=/0x164:2048x1316/800x0/images/Victor-Wembanyama-lors-de-la-defaite-de-San-Antonio-contre-les-New-York-Knicks-au-match-1-des-finales-NBA-95-105-le-3-juin-2026-2297508.jpg"
+        },
+        {
+          "title": "Athlétisme : Le parcours inspirant de Mekdes Woldu",
+          "summary": "De l'Érythrée au record de France sur marathon, découvrez l'incroyable ascension de Mekdes Woldu.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-du-football-en-erythree-au-record-de-france-sur-marathon-le-parcours-inspirant-de-mekdes-woldu_VN-202606010667.html",
+          "image": "https://images.bfmtv.com/p5Z-GfxdteI4APqveU0ZZcdruq0=/0x0:1280x720/800x0/images/Du-football-en-Erythree-au-RECORD-DE-FRANCE-sur-marathon-le-parcours-inspirant-de-Mekdes-Woldu-2295810.jpg"
+        },
+        {
+          "title": "Dopage : Renelle Lamothe fustige les \"voyous\" des Enhanced Games",
+          "summary": "La Française critique sévèrement les athlètes acceptant de se doper dans cette nouvelle compétition controversée.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/enhanced-games-des-voyous-de-la-merde-on-va-plus-vite-en-diamond-league-la-francaise-renelle-lamothe-detruit-les-athletes-qui-ont-accepte-de-se-doper_AV-202605260383.html",
+          "image": "https://images.bfmtv.com/VBULTrraawdBoyHpxccKGlElPBk=/0x40:768x472/800x0/images/La-joie-de-la-Francaise-Renelle-Lamote-apres-avoir-termine-2e-de-la-finale-du-800-m-aux-Championnats-d-Europe-d-athletisme-en-salle-le-3-mars-2019-a-Glasgow-1055135.jpg"
+        }
+      ]
+    }
+  ]
+}
