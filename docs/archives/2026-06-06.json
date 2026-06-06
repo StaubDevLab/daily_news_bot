@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Norbert",
+  "global_summary": "L'actualité mondiale est marquée par des tensions persistantes, avec le président Poutine confronté à une période délicate et des frappes israéliennes au Liban, tandis qu'en Nouvelle-Calédonie, la justice accorde un non-lieu aux militants Kanak, offrant un souffle d'apaisement. La France est secouée par des affaires judiciaires de haut profil, comme l'enquête sur l'incendie de Crans-Montana impliquant le couple Moretti, et se réjouit du tirage de l'Euromillions. \nSur le plan économique, les marchés cryptos traversent une semaine difficile, contrastant avec des chiffres de l'emploi américains robustes qui influencent Wall Street. La scène technologique française brille avec l'exploit d'un Rafale face à des avions russes, tandis que le monde du sport se passionne pour la finale NBA de Wembanyama et débat intensément autour des \"Enhanced Games\" et de l'éthique sportive. Les projections futuristes du Journal du Geek et les avancées en robotique complètent ce panorama riche et diversifié.",
+  "running_advice": "Excellente nouvelle, cher athlète ! Avec des températures idéales oscillant entre 13.1°C et 21.3°C et un ciel peu nuageux, c'est une journée fantastique pour enfiler vos baskets et booster votre énergie. Le risque de pluie est minime (13%), donc pas d'excuses ! \nPour profiter au mieux de votre run, je vous conseille une session dynamique entre 18h00 et 20h00. Vous bénéficierez d'une chaleur agréable sans la pleine intensité du soleil. Cependant, l'indice UV est de 7.45, ce qui est élevé. Protégez-vous impérativement avec de la crème solaire, des lunettes de soleil et, si possible, une casquette. Hydratez-vous bien avant, pendant et après. Allez, on se dépasse !",
+  "weather_string": "🌤️ Peu nuageux (13.1°C / 21.3°C)",
+  "weather_stats": {
+    "temp": "21.3°C",
+    "rain": "13%",
+    "uv": "7.45"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Poutine face à la période la plus difficile",
+          "summary": "Vincent Jauvert analyse les défis inédits auxquels fait face le président russe Vladimir Poutine.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260605-vincent-jauvert-vladimir-poutine-vit-la-p%C3%A9riode-la-plus-difficile-de-son-r%C3%A8gne",
+          "image": "https://s.france24.com/media/display/042b29be-610d-11f1-bed3-005056bf30b7/w:1280/p:16x9/FR-20260605-200146-201627-CS.jpg"
+        },
+        {
+          "title": "Victoire Kanak : Poursuites abandonnées",
+          "summary": "La justice ordonne un non-lieu pour les militants indépendantistes Kanak de la CCAT, une victoire majeure.",
+          "url": "https://www.revolutionpermanente.fr/Victoire-la-justice-ordonne-un-non-lieu-pour-les-militants-independantistes-Kanak-de-la-CCAT",
+          "image": "https://www.revolutionpermanente.fr/IMG/logo/manif_ccat_mai_2024.jpg"
+        },
+        {
+          "title": "Tensions internationales : Liban, Ukraine, Arménie",
+          "summary": "Frappes israéliennes au Liban, guerre en Ukraine et législatives en Arménie marquent l'actualité géopolitique.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260605-frappes-isra%C3%A9liennes-sur-le-liban-guerre-en-ukraine-l%C3%A9gislatives-cruciales-en-arm%C3%A9nie",
+          "image": "https://s.france24.com/media/display/303f5e60-6114-11f1-84f0-005056a90284/w:1280/p:16x9/Francais-2026-06-05T17-12-51-254Z.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Affaire Moretti : SMS compromettants révélés",
+          "summary": "Le couple Moretti confronté à des SMS sensibles concernant l'incendie de Crans-Montana lors de son audition.",
+          "url": "https://www.rtl.fr/actu/justice-faits-divers/info-rtl-s-il-tombe-et-crame-la-mousse-au-plafond-le-constellation-brule-le-couple-moretti-confronte-en-audition-a-des-sms-compromettants-sur-l-incendie-a-crans-montana-7900643194",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1819347-jacques-et-jessica-moretti-le-11-fevrier-2026-a-sion.jpg"
+        },
+        {
+          "title": "Décès d'Yrondu Musavu-King, ancien du SM Caen",
+          "summary": "Le monde du football pleure la disparition d'Yrondu Musavu-King, ex-défenseur du SM Caen.",
+          "url": "https://actu.fr/normandie/caen_14118/lancien-defenseur-du-sm-caen-yrondu-musavu-king-est-decede_64365258.html",
+          "image": "https://static.actu.fr/uploads/2026/06/69247489232a65d247489232a31347v.jpg"
+        },
+        {
+          "title": "JO d'hiver 2030 : Tacle à Ciotti",
+          "summary": "Le ministre des Transports critique Eric Ciotti après la perte des épreuves des JO 2030 par Nice.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/il-a-gache-la-fete-de-milliers-d-enfants-le-ministre-des-transports-philippe-tabarot-tacle-eric-ciotti-apres-la-perte-des-epreuves-des-jo-2030-par-nice_AV-202606050416.html",
+          "image": "https://images.bfmtv.com/66Fo2azuD0GjzmtNUCz98GaMOtI=/0x25:2048x1177/800x0/images/Le-maire-de-Nice-Eric-Ciotti-le-27-mars-2026-2298430.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Rafale intercepte deux avions russes en Baltique",
+          "summary": "Le Rafale français démontre sa supériorité technologique en interceptant des avions russes au-dessus de la Baltique.",
+          "url": "https://www.capital.fr/economie-politique/le-rafale-francais-s-illustre-en-interceptant-deux-avions-russes-au-dessus-de-la-baltique-1527342",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~06~05~316dd0c3-7389-4107-8773-c074447b5571.jpeg/1200x900/quality/80/le-rafale-francais-s-illustre-en-interceptant-deux-avions-russes-au-dessus-de-la-baltique.jpg"
+        },
+        {
+          "title": "Cloud DNO de LotusFlare : Pi en Afrique du Sud",
+          "summary": "LotusFlare Cloud DNO facilite le déploiement de Pi en Afrique du Sud, accélérant l'innovation digitale.",
+          "url": "http://www.businesswire.com/news/home/20260604016996/fr/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya3izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+          "image": "https://mms.businesswire.com/media/20260604016996/fr/2824418/22/LotusFlare_logo_260x260.jpg"
+        },
+        {
+          "title": "Android façon iPhone 17 Pro à -45%",
+          "summary": "Découvrez un smartphone Android au look d'iPhone 17 Pro, mais à un prix défiant toute concurrence.",
+          "url": "https://www.01net.com/bons-plans/on-dirait-un-iphone-17-pro-mais-cest-un-android-et-il-ne-coute-pas-aussi-cher-45.html",
+          "image": "https://www.01net.com/app/uploads/2026/06/Honor-600-Pro.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Finance",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Bitcoin : Pire semaine depuis FTX",
+          "summary": "Le Bitcoin et d'autres cryptomonnaies subissent une chute majeure, marquant leur pire semaine depuis l'effondrement de FTX.",
+          "url": "https://fr.benzinga.com/crypto/bitcoin-en-passe-de-vivre-sa-pire-semaine-depuis-leffondrement-de-ftx-eth-xrp-perdent-jusqua-23-lors-de-la-deroute-crypto-de-7-jours/",
+          "image": "https://cdn.benzinga.com/files/images/story/2026/06/05/A-Close-up-Image-Of-Cryptocurrency-Bitco.jpeg?width=2048&height=1536"
+        },
+        {
+          "title": "Chiffres emploi US dopent les taux et pèsent sur la tech",
+          "summary": "De solides chiffres de l'emploi aux États-Unis propulsent les taux d'intérêt et impactent négativement la tech à Wall Street.",
+          "url": "https://www.lecho.be/les-marches/actu/general/les-solides-chiffres-de-l-emploi-dopent-les-taux-us-et-pesent-lourdement-sur-la-tech-a-wall-street/10674176.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:2A0tMppp4xa8DUn3wk4iwR&context=ONLINE&ratio=16/9&width=640&u=1780688626000"
+        },
+        {
+          "title": "Euromillions : Les numéros gagnants du jour",
+          "summary": "Découvrez les numéros qui ont fait des heureux (ou des déçus) lors du tirage de l'Euromillions du 5 juin 2026.",
+          "url": "https://www.larepubliquedespyrenees.fr/societe/vie-quotidienne/euromillions/tirage-de-l-euromillions-voici-les-numeros-gagnants-du-vendredi-5-juin-2026-29365211.php",
+          "image": "https://media.larepubliquedespyrenees.fr/29365211/1200x600/lescolporteurs-lottery-2276112-1280.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde & Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Réseau pédocriminel : 930 000 fichiers, 120 victimes",
+          "summary": "Quatre membres d'un vaste réseau pédocriminel, impliquant de nombreux viols, seront jugés à Orléans.",
+          "url": "https://www.sudouest.fr/justice/930-000-fichiers-pedopornographiques-120-victimes-quatre-membres-d-un-reseau-pedocriminel-dont-certains-soupconnes-de-viols-juges-des-lundi-a-orleans-29372182.php",
+          "image": null
+        },
+        {
+          "title": "Bateau chavire à Biscarrosse : Un homme secouru",
+          "summary": "Un homme a été sauvé en mer au large de Biscarrosse après que son bateau a chaviré et dérivé.",
+          "url": "https://www.sudouest.fr/landes/biscarrosse/son-bateau-chavire-et-derive-plusieurs-heures-en-mer-un-homme-secouru-au-large-de-biscarrosse-29372021.php",
+          "image": null
+        },
+        {
+          "title": "Condamnation après cambriolages près de Bordeaux",
+          "summary": "Un individu a été condamné pour deux cambriolages totalisant 20 000 euros de préjudice près de Bordeaux.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/un-homme-condamne-apres-deux-cambriolages-a-20-000-euros-pres-de-bordeaux-29362016.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Summer Game Fest 2026 : Toutes les annonces jeux vidéo",
+          "summary": "Revivez les temps forts et les révélations majeures du Summer Game Fest 2026 pour les passionnés de jeux vidéo.",
+          "url": "https://www.journaldugeek.com/2026/06/06/summer-game-fest-2026-voici-toutes-les-annonces-jeux-video-de-la-soiree/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/annonces-live-jeux-video-summer-game-fest-2026-1280x853.jpg"
+        },
+        {
+          "title": "Projections geeks : La décennie à venir (2026-2036)",
+          "summary": "Le Journal du Geek partage ses visions audacieuses pour la prochaine décennie, entre innovations et anticipations.",
+          "url": "https://www.journaldugeek.com/2026/06/06/2026-2036-nos-projections-geeks-pour-la-prochaine-decennie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/01/robot-psy-1280x853.jpg"
+        },
+        {
+          "title": "Robotique : L'armure intelligente inspirée du tatou",
+          "summary": "Une nouvelle armure robotique s'enroule comme un tatou pour protéger les machines, une innovation fascinante.",
+          "url": "https://www.journaldugeek.com/2026/06/05/robotique-inspiree-tatou-armure-intelligente-senrouler-elle-meme-proteger-machines/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/Tatou-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama rate la balle de match, Spurs perdent",
+          "summary": "Victor Wembanyama échoue sur la balle de match; les Spurs s'inclinent face aux Knicks en finale NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/spurs-nicks-match-2-suivez-le-deuxieme-match-de-la-finale-nba-en-live-avec-un-wembanyama-qui-veut-se-rattraper_LN-202606050873.html",
+          "image": "https://images.bfmtv.com/lfcB99xzTQkOczmHbmx24EYQtw8=/0x24:2048x1176/800x0/images/Victor-Wembanyama-la-star-des-Spurs-lors-du-match-1-de-la-finale-NBA-3-juin-2026-2298743.jpg"
+        },
+        {
+          "title": "Mekdes Woldu : Un parcours inspirant vers le record",
+          "summary": "De l'Érythrée au record de France sur marathon, découvrez l'incroyable ascension de Mekdes Woldu.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-du-football-en-erythree-au-record-de-france-sur-marathon-le-parcours-inspirant-de-mekdes-woldu_VN-202606010667.html",
+          "image": "https://images.bfmtv.com/p5Z-GfxdteI4APqveU0ZZcdruq0=/0x0:1280x720/800x0/images/Du-football-en-Erythree-au-RECORD-DE-FRANCE-sur-marathon-le-parcours-inspirant-de-Mekdes-Woldu-2295810.jpg"
+        },
+        {
+          "title": "Enhanced Games : Renelle Lamothe dénonce le dopage",
+          "summary": "La Française Renelle Lamothe fustige les athlètes des Enhanced Games acceptant le dopage, parlant de \"voyous\".",
+          "url": "https://rmcsport.bfmtv.com/athletisme/enhanced-games-des-voyous-de-la-merde-on-va-plus-vite-en-diamond-league-la-francaise-renelle-lamothe-detruit-les-athletes-qui-ont-accepte-de-se-doper_AV-202605260383.html",
+          "image": "https://images.bfmtv.com/VBULTrraawdBoyHpxccKGlElPBk=/0x40:768x472/800x0/images/La-joie-de-la-Francaise-Renelle-Lamote-apres-avoir-termine-2e-de-la-finale-du-800-m-aux-Championnats-d-Europe-d-athletisme-en-salle-le-3-mars-2019-a-Glasgow-1055135.jpg"
+        }
+      ]
+    }
+  ]
+}
