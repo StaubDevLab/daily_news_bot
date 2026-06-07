@@ -1,0 +1,109 @@
+{
+  "ephemeride": "Saint Gilbert",
+  "global_summary": "Le monde est aujourd'hui confronté à des réalités complexes, entre la menace environnementale croissante de l'effondrement des stocks de poissons en Afrique de l'Ouest et la persistance des conflits géopolitiques, comme la politique de la terre brûlée dénoncée au Liban Sud. Les États-Unis sont également secoués par une fusillade lors d'un festival, rappelant les défis mondiaux en matière de sécurité. \nEn France, l'actualité est marquée par une importante saisie de drogues en Catalogne aux implications transfrontalières, ainsi que par des événements sociétaux majeurs comme la Marche des Fiertés de Nancy et l'agression d'une élue parisienne. Sur le front technologique, les alertes aux arnaques se multiplient, mais l'innovation progresse, notamment avec de nouvelles solutions pour la vérification d'identité en ligne. Enfin, le sport nous tient en haleine avec les débuts difficiles de Wembanyama en finale NBA, une vive polémique autour du dopage aux Enhanced Games, et un dénouement inattendu en Top 14 pour l'UBB.",
+  "running_advice": "Salut champion(ne) ! Aujourd'hui, la météo est ton alliée pour une session running au top ! Avec des températures allant de 12.3°C à 25°C et un ciel peu nuageux, les conditions sont parfaites pour t'entraîner. Le meilleur créneau pour chausser tes baskets ? Je te conseille de viser le début de soirée, entre 18h et 20h. Tu bénéficieras d'une lumière douce avant le coucher du soleil à 21h46 et d'une température très agréable, idéale pour dépasser tes limites sans surchauffe. Attention, l'indice UV est de 7.5, alors n'oublie pas ta crème solaire et une casquette pour te protéger. Hydrate-toi bien et vas-y, donne tout ! La performance t'attend !",
+  "weather_string": "🌤️ Peu nuageux (12.3°C / 25°C)",
+  "weather_stats": {
+    "temp": "25°C",
+    "rain": "0%",
+    "uv": "7.5"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Pourquoi les stocks de poissons s’effondrent en Afrique ?",
+          "summary": "Une vidéo France24 révèle la surpêche et ses conséquences dévastatrices sur l'écosystème ouest-africain.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260606-focus-jta-p%C3%AAche-en-afrique-de-l-ouest-pourquoi-les-stocks-de-poissons-s-effondrent-ils",
+          "image": "https://s.france24.com/media/display/699276be-61e3-11f1-911c-005056a90284/w:1280/p:16x9/FR-20260606-214832-215638-CS.jpg"
+        },
+        {
+          "title": "Liban Sud: \"Politique de terre brûlée\" dénoncée",
+          "summary": "Jad Tabet alerte sur la destruction massive en cours au Liban Sud, qualifiée de \"table rase\".",
+          "url": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260606-jad-tabet-ce-qu-il-se-passe-au-liban-sud-c-est-une-table-rase-une-politique-de-terre-br%C3%BBl%C3%A9e",
+          "image": "https://s.france24.com/media/display/9a057d16-61d7-11f1-918f-005056bf30b7/w:1280/p:16x9/JAD-TABET.jpg"
+        },
+        {
+          "title": "Fusillade meurtrière dans un festival aux États-Unis",
+          "summary": "12 personnes blessées lors d'une fusillade à Toledo, Ohio, en marge d'un festival de musique.",
+          "url": "https://www.sudouest.fr/international/etats-unis/etats-unis-12-personnes-ont-ete-blesees-lors-d-une-fusillade-samedi-en-marge-d-un-festival-a-toledo-dans-l-ohio-29385245.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "9 tonnes de haschisch saisies en Catalogne",
+          "summary": "Une voiture abandonnée mène à la découverte d'un gigantesque entrepôt de drogue par les Mossos d'Esquadra.",
+          "url": "https://www.lindependant.fr/2026/06/06/gros-coup-des-mossos-desquadra-la-decouverte-dune-simple-voiture-abandonnee-leur-permet-de-debusquer-lun-des-plus-grands-entrepots-de-haschisch-de-13406836.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/6a247e8f261e6f7b6202ef20/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Marche des Fiertés : Nancy défile en nombre",
+          "summary": "Près de 2 500 personnes ont défilé à Nancy pour la Marche des Fiertés, sous le signe de l'acceptation.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/06/06/j-ai-decide-de-m-assumer-pres-de-2-500-personnes-ont-defile-dans-les-rues-pour-la-marche-des-fiertes-de-nancy",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/932FABA0-F6D9-4535-B223-4EE4386AB03D/NW_listB/j-ai-decide-de-m-assumer-pres-de-2-500-personnes-ont-defile-dans-les-rues-pour-la-marche-des-fiertes-de-nancy-1780775725.jpg"
+        },
+        {
+          "title": "Agression de la maire du 10e à Paris",
+          "summary": "Alexandra Cordebard agressée lors de la Nuit Blanche, des \"militants d'extrême droite\" mis en cause.",
+          "url": "https://www.sudouest.fr/justice/paris-la-maire-du-10e-arrondissement-alexandra-cordebard-a-ete-agressee-lors-de-la-nuit-blanche-des-militants-d-extreme-droite-pointes-du-doigt-29385370.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Arnaques en ligne : vigilance maximale requise",
+          "summary": "Faux SMS et courriels Agri-Arrco : une vaste campagne d'usurpation d'identité inquiète.",
+          "url": "https://www.capital.fr/economie-politique/arnaque-de-faux-sms-courriels-et-courriers-usurpent-lidentite-de-lagri-arrco-qui-appelle-a-la-vigilance-1527358",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~06~06~317c73d6-0854-4374-a9e8-318ba7ab988f.jpeg/1200x900/quality/80/arnaque-de-faux-sms-courriels-et-courriers-usurpent-l-identite-de-l-agri-arrco-qui-appelle-a-la-vigilance.jpg"
+        },
+        {
+          "title": "Summer Game Fest 2026 : les annonces phares",
+          "summary": "Revivez les moments forts et les révélations majeures de cette édition très attendue du Summer Game Fest.",
+          "url": "https://www.journaldugeek.com/2026/06/07/summer-game-fest-2026-les-meilleures-annonces-de-cette-edition/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/summer-game-fest-2026.jpg"
+        },
+        {
+          "title": "Google simplifie la preuve de majorité en ligne",
+          "summary": "Fini la carte d'identité ! Google déploie une solution innovante pour vérifier votre âge numériquement.",
+          "url": "https://www.journaldugeek.com/2026/06/07/plus-besoin-de-carte-didentite-google-a-une-solution-pour-prouver-votre-majorite-en-ligne/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/juification-age-numerique-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama rate le panier crucial en finale NBA",
+          "summary": "Victoire des Knicks qui prennent l'avantage, malgré les efforts du jeune prodige français.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/direct-spurs-nicks-match-2-suivez-le-deuxieme-match-de-la-finale-nba-en-live-avec-un-wembanyama-qui-veut-se-rattraper_LN-202606050873.html",
+          "image": "https://images.bfmtv.com/lfcB99xzTQkOczmHbmx24EYQtw8=/0x24:2048x1176/800x0/images/Victor-Wembanyama-la-star-des-Spurs-lors-du-match-1-de-la-finale-NBA-3-juin-2026-2298743.jpg"
+        },
+        {
+          "title": "Enhanced Games : la polémique du dopage explose",
+          "summary": "Renelle Lamothe fustige les athlètes dopés des \"Enhanced Games\", une controverse qui agite le sport.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/enhanced-games-des-voyous-de-la-merde-on-va-plus-vite-en-diamond-league-la-francaise-renelle-lamothe-detruit-les-athletes-qui-ont-accepte-de-se-doper_AV-202605260383.html",
+          "image": "https://images.bfmtv.com/VBULTrraawdBoyHpxccKGlElPBk=/0x40:768x472/800x0/images/La-joie-de-la-Francaise-Renelle-Lamote-apres-avoir-termine-2e-de-la-finale-du-800-m-aux-Championnats-d-Europe-d-athletisme-en-salle-le-3-mars-2019-a-Glasgow-1055135.jpg"
+        },
+        {
+          "title": "UBB éliminé des phases finales du Top 14",
+          "summary": "Coup de tonnerre : Bordeaux-Bègles ne verra pas les barrages après une fin de saison catastrophique.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/direct-bordeaux-begles-clermont-pas-de-barrages-pour-l-ubb-suivez-le-match-de-la-derniere-journee-de-top-14-en-live_LS-202606060314.html",
+          "image": "https://images.bfmtv.com/AygcsLHS9pvYZSDVcH9WKk59Gio=/0x105:2048x1257/800x0/images/Maxime-Lucu-le-6-juin-2026-2299064.jpg"
+        }
+      ]
+    }
+  ]
+}
