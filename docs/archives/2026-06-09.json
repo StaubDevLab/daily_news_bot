@@ -1,0 +1,169 @@
+{
+  "ephemeride": "Sainte Diane",
+  "global_summary": "La scène internationale est marquée par des tensions croissantes, avec des préoccupations d'ingérence étrangère et l'abandon d'un projet majeur de défense européen, signalant un paysage géopolitique complexe. Au Royaume-Uni, l'extrême droite gagne du terrain avec l'ascension de figures controversées. Sur le plan national, la France est traversée par des mouvements de contestation sociale, des appels à la justice après des drames, et une prise de conscience accrue des risques environnementaux majeurs comme les tsunamis en Méditerranée. \nParallèlement, le secteur technologique innove à grande vitesse, avec des géants dévoilant leurs avancées en matière d'IA et de nouveaux gadgets sur le marché. L'économie locale n'est pas en reste, portée par l'ingéniosité d'agriculteurs précurseurs et les fluctuations des marchés pétroliers. Côté sport, l'actualité est riche en émotions fortes, de la performance exceptionnelle d'une jeune star de la NBA à l'exploit inattendu d'une athlète de renommée mondiale, démontrant la persévérance et les rebondissements de la compétition.",
+  "running_advice": "Aujourd'hui, Sainte Diane nous offre une journée quasi parfaite pour enfiler vos baskets ! Avec des températures douces oscillant entre 12.5°C et 20.5°C et un ciel 🌤️ peu nuageux, les conditions sont optimales pour une séance revitalisante. La probabilité de pluie est minime (10%), alors pas d'excuses pour ne pas sortir ! Pour le moment idéal, visez la fin de journée, entre 18h et 20h. Le soleil commencera à descendre, offrant une lumière magnifique et des températures très agréables avant le coucher à 21h48. Attention cependant : l'indice UV est de 7.15, ce qui est élevé ! C'est le moment de protéger votre peau : crème solaire indispensable, lunettes de soleil et casquette sont vos meilleurs alliés. Hydratez-vous bien avant, pendant et après l'effort. Votre corps est votre temple, traitez-le comme tel et allez chercher cette énergie ! Allez, on y va, donnez tout !",
+  "weather_string": "🌤️ Peu nuageux (12.5°C / 20.5°C)",
+  "weather_stats": {
+    "temp": "20.5°C",
+    "rain": "10%",
+    "uv": "7.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Ingérence chinoise : une menace cachée ?",
+          "summary": "Une enquête révèle la campagne d'ingérence étrangère \"Fawn Mianju\", soulevant de sérieuses questions de cybersécurité internationale.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260608-fawn-mianju-cette-ing%C3%A9rence-%C3%A9trang%C3%A8re-made-in-china",
+          "image": "https://s.france24.com/media/display/1e065800-6373-11f1-ad93-005056a97e36/w:1280/p:16x9/FRAN260608-2115-Live-CS2115.jpg"
+        },
+        {
+          "title": "Tommy Robinson, figure de l'extrême droite anglaise",
+          "summary": "D'ex-hooligan à leader controversé, Tommy Robinson symbolise la montée de l'extrême droite au Royaume-Uni.",
+          "url": "https://www.franceinfo.fr/monde/royaume-uni/tommy-robinson-d-ex-hooligan-a-figure-de-l-extreme-droite-anglaise_8051018.html",
+          "image": "https://www.franceinfo.fr/pictures/VGOw-HdNouEvvXC8dLZmsOqZolw/fit-in/1200x675/filters:upscale():fill(black)/2026/06/08/6a270cda2e59c653746010.jpg"
+        },
+        {
+          "title": "SCAF : l'avion de combat franco-allemand abandonné",
+          "summary": "Faute d'accord entre Dassault et Airbus, Berlin et Paris enterrent leur ambitieux projet d'avion de combat commun.",
+          "url": "https://www.france24.com/fr/europe/20260608-faute-accord-dassault-airbus-allemagne-france-enterrent-leur-avion-de-combat-europe",
+          "image": "https://s.france24.com/media/display/323d785a-6371-11f1-b129-005056a90284/w:1280/p:16x9/scaf.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Affaire Lyhanna : la colère gronde en Occitanie",
+          "summary": "Des centaines de manifestants crient leur colère après la mort de Lyhanna, dénonçant les failles de la justice.",
+          "url": "https://www.midilibre.fr/2026/06/08/des-centaines-de-manifestants-en-occitanie-crient-leur-colere-apres-la-mort-de-lyhanna-la-justice-a-failli-ca-aurait-pu-etre-nos-filles-13409532.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6a271edc4356dea63a0ebcd5/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Tsunami en Méditerranée : Nice se prépare",
+          "summary": "Face à un risque \"100%\" de tsunami, six communes de Nice obtiennent un label pour mieux anticiper le danger.",
+          "url": "https://www.nicematin.com/environnement/il-y-a-100-de-chance-qu-un-tsunami-se-produise-en-mediterranee-face-au-risque-six-communes-de-la-metropole-nice-cote-d-azur-obtiennent-un-label-10684053",
+          "image": "https://assets.nicematin.com/articles/10/68/40/53/OG-10684053-1200-800-e7c48bd_upload-from-url-1-dol6ppjnobvh-data-art-17843169.jpg"
+        },
+        {
+          "title": "Réforme Glatigny : la contestation s'amplifie",
+          "summary": "La réforme Glatigny continue d'agréger de nouveaux soutiens et d'attiser la contestation sur la place Poelaert.",
+          "url": "https://www.lecho.be/economie-politique/belgique/federation-wallonie-bruxelles/sur-la-place-poelaert-la-contestation-de-la-reforme-glatigny-agrege-de-nouveaux-soutiens/10674446.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:7hiaMj15aZqADBMsWa_Tfg&context=ONLINE&ratio=16/9&width=640&u=1780949763000"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Piratage Tchap : accès malveillant aux salons publics",
+          "summary": "La Dinum déplore un accès malveillant aux salons publics de Tchap, soulevant des enjeux cruciaux de cybersécurité.",
+          "url": "https://www.zdnet.fr/actualites/piratage-de-tchap-la-dinum-deplore-un-acces-malveillant-aux-salons-publics-496392.htm",
+          "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/capture-decran-2026-06-08-165954.png"
+        },
+        {
+          "title": "Apple dévoile ses innovations IA pour la rentrée",
+          "summary": "Apple présente ses nouveautés, de l'IA à Siri, marquant une évolution majeure de ses interfaces pour l'automne.",
+          "url": "https://actu.fr/sciences-technologie/ia-siri-interface-apple-devoile-ses-nouveautes-pour-la-rentree-ce-qu-il-faut-retenir-de-la-convention-de-la-marque_64373790.html",
+          "image": "https://static.actu.fr/uploads/2026/06/newsmlafp-com-20260608t182048zdoc-b6ek9tf.jpg"
+        },
+        {
+          "title": "Bon plan : Nikon Z 6 III en forte promotion",
+          "summary": "L'appareil photo numérique Nikon Z 6 III, noté \"5 étoiles\", est disponible avec une réduction de 10%.",
+          "url": "https://www.lesnumeriques.com/appareil-photo-numerique/bon-plan-l-appareil-photo-numerique-nikon-z-6-iii-5-etoiles-a-1-962-14-10-n257210.html",
+          "image": "https://cdn.lesnumeriques.com/optim/test/22/224282/65a2911a-test-nikon-z6-mark-iii-un-coup-de-boost-en-rafale-et-un-bond-en-avant-en-video__800_800__overflow_wtmk.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Les innovations IA d'Apple : un impact économique",
+          "summary": "Découvrez les avancées d'Apple autour de l'IA dans son nouveau système d'exploitation, un tournant pour l'économie tech.",
+          "url": "https://video.lefigaro.fr/figaro/economie/decouvrez-les-inovations-d-apple-de-son-systeme-d-exploitation-autour-de-l-ia-20260608",
+          "image": "https://i.f1g.fr/media/ext/orig/api-video-public.lefigaro.fr/assets/3c/de/5d/3cde5d860a88d780a8a6ba312597dc05.jpeg"
+        },
+        {
+          "title": "Céréales en vrac : innovation agricole en Vienne",
+          "summary": "Des agriculteurs de la Vienne créent un distributeur automatique de céréales en vrac, une initiative durable après l'huile.",
+          "url": "https://www.lanouvellerepublique.fr/centre-presse/apres-l-huile-de-colza-et-le-pop-corn-ces-agriculteurs-de-la-vienne-creent-un-distributeur-automatique-de-cereales-en-vrac-1780948647",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a271ea5f391ba7c018b456c"
+        },
+        {
+          "title": "Pétrole : hausse timide, incertitudes au Moyen-Orient",
+          "summary": "Le pétrole termine en légère hausse, le marché reste tendu par les incertitudes géopolitiques persistantes au Moyen-Orient.",
+          "url": "https://www.lefigaro.fr/flash-eco/moyen-orient-le-petrole-termine-en-petite-hausse-dans-un-climat-d-incertitudes-20260608",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/06/08/fc5657d84a8d16b6e46f047d9796eef36832268151ecefc8217d9fcc3409435b.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🍷",
+      "articles": [
+        {
+          "title": "Patrick Bruel : garde à vue prolongée",
+          "summary": "L'affaire de violences sexuelles concernant Patrick Bruel prend un nouveau tournant avec la prolongation de sa garde à vue.",
+          "url": "https://www.sudouest.fr/justice/affaire-patrick-bruel/violences-sexuelles-la-garde-a-vue-de-patrick-bruel-prolongee-de-24-heures-elle-devrait-prendre-fin-mercredi-matin-29411665.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Withings BodyScan 2, la balance qui veut innover",
+          "summary": "Withings dévoile BodyScan 2, une balance connectée à 500€ promettant des analyses médicales poussées.",
+          "url": "https://www.journaldugeek.com/2026/06/09/withings-bodyscan-2-la-balance-a-500-e-qui-veux-remplacer-votre-cardiologue/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/bodyscan-2-Withings-1280x853.jpg"
+        },
+        {
+          "title": "SOS Fantômes : la série Netflix sera-t-elle plus sombre ?",
+          "summary": "La future série Netflix \"SOS Fantômes\" pourrait s'orienter vers une ambiance plus horrifique, surprenant les fans.",
+          "url": "https://www.journaldugeek.com/2026/06/09/sos-fantomes-une-orientation-plus-horrifique-pour-la-serie-netflix/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/sos-fantomes-night-sift-1-1280x853.jpg"
+        },
+        {
+          "title": "Xbox : exclusivité des jeux, un retour en arrière ?",
+          "summary": "La question se pose : les jeux Xbox redeviendront-ils tous exclusifs à la console, marquant un changement stratégique ?",
+          "url": "https://www.journaldugeek.com/2026/06/09/xbox-les-jeux-vont-ils-tous-redevenir-exclusifs/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/07/Marcus-Gears-of-War-E-Day-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : la révolte des Spurs en Finales NBA",
+          "summary": "Victor Wembanyama sonne la révolte des Spurs, les maintenant en vie dans les Finales NBA avec une performance époustouflante.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/on-sait-qu-on-n-aura-pas-100-chances-comment-victor-wembanyama-a-sonne-la-revolte-des-spurs-dans-les-finales-nba_AV-202606090142.html",
+          "image": "https://images.bfmtv.com/Vn9-hfI7eg8kEYTpMGyoGcJQONs=/0x181:2048x1333/800x0/images/Victor-Wembanyama-en-conference-de-presse-apres-le-match-3-des-finales-NBA-remporte-par-San-Antonio-sur-le-parquet-des-New-York-Knicks-111-115-le-8-juin-2026-2300141.jpg"
+        },
+        {
+          "title": "Duplantis battu : coup de tonnerre à Stockholm",
+          "summary": "Armand Duplantis subit sa première défaite en près de trois ans, un événement marquant dans le monde de l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/coup-de-tonnerre-a-stockholm-armand-duplantis-battu-pour-la-premiere-fois-depuis-pres-de-trois-ans_AV-202606070315.html",
+          "image": "https://images.bfmtv.com/8t0eoGwiSm-Xx3cfDMemxdgRLFA=/0x41:2048x1193/800x0/images/Armand-Duplantis-2299281.jpg"
+        },
+        {
+          "title": "Simone Biles : un message alarmant après une peur",
+          "summary": "La gymnaste star Simone Biles partage une expérience \"effrayante\", affirmant avoir \"frôlé la mort\", inquiétant ses fans.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/l-experience-la-plus-effrayante-de-ma-vie-le-message-inquietant-de-la-gymnaste-simone-biles-qui-dit-avoir-frole-la-mort_AN-202606070212.html",
+          "image": "https://images.bfmtv.com/fyl3II_-a4A4U9N2W7s9_40_T4w=/0x184:2048x1336/800x0/images/La-star-de-la-gymnastique-Simone-Biles-aux-JO-de-Paris-le-5-aout-2024-2299185.jpg"
+        }
+      ]
+    }
+  ]
+}
