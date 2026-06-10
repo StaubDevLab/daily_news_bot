@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Landry",
+  "global_summary": "Aujourd'hui, l'actualité mondiale nous plonge dans un mélange d'enjeux complexes et de performances inspirantes. Le sport, souvent reflet de nos sociétés, est bousculé par des questions géopolitiques, avec un arbitre africain privé de Mondial et les manœuvres politiques autour du football. Mais il est aussi le théâtre de retours légendaires, comme celui de Serena Williams, prouvant que la détermination n'a pas d'âge.\nSur le front national et économique, des changements majeurs se profilent, de la disparition de la marque SFR à la vigilance accrue sur la sécurité alimentaire et le sport amateur. La sphère tech, elle, continue d'innover avec des gadgets pratiques et des avancées spatiales prometteuses, tandis que nos régions sont le siège d'événements marquants. C'est une journée qui nous invite à rester informés, à anticiper les mutations et à célébrer l'esprit de résilience.",
+  "running_advice": "Salut à toi, athlète de la semaine ! Prêt(e) à défier les éléments aujourd'hui ? Les températures sont idéales pour ta session running, variant entre un doux 11.8°C et un agréable 20.9°C. Le ciel sera peu nuageux, parfait pour profiter de la lumière naturelle. Cependant, attention, une probabilité de pluie de 73% est annoncée : une petite averse peut pimenter ton entraînement ! Pour un run optimal, je te conseille de viser la fin d'après-midi, **autour de 18h-19h**, juste avant le coucher du soleil à 21h48. Tu bénéficieras d'une lumière douce et d'une ambiance sereine. Et un point crucial : avec un indice UV de 6.7, une protection solaire est absolument indispensable si tu es en extérieur avant la fin de journée. Crème, casquette, lunettes... protège-toi ! Bois beaucoup d'eau, écoute ton corps et va chercher cette dose d'énergie. Chaque foulée compte, tu as ça en toi !",
+  "weather_string": "🌤️ Peu nuageux (11.8°C / 20.9°C)",
+  "weather_stats": {
+    "temp": "20.9°C",
+    "rain": "73%",
+    "uv": "6.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Arbitre africain privé de Mondial: un scandale",
+          "summary": "Un arbitre primé refoulé des USA, dénonçant un \"problème\" lié à son pays.",
+          "url": "https://www.franceinfo.fr/coupe-du-monde/je-pense-qu-ils-ont-un-probleme-avec-mon-pays-elu-meilleur-arbitre-africain-omar-abdulkadir-artan-prive-de-mondial-et-refoule-du-sol-americain_8052845.html",
+          "image": "https://www.franceinfo.fr/pictures/4HbTpuZsABqCh4BZNe7meNaIaSI/1200x675/2026/06/09/6a2874bd9509b532784980.jpg"
+        },
+        {
+          "title": "Foot: la main basse de Trump, une ingérence",
+          "summary": "L'édito alerte sur l'influence politique de Trump dans le monde du football.",
+          "url": "https://www.lalsace.fr/jeux-olympiques/2026/06/09/foot-la-main-basse-de-trump",
+          "image": "https://cdn-s-www.lalsace.fr/images/EBEBD952-F974-40CB-9614-F62F5B207C29/NW_listB/foot-la-main-basse-de-trump-1781035613.jpg"
+        },
+        {
+          "title": "Pédocriminalité: l'Allemagne agit par la prévention",
+          "summary": "L'Allemagne adopte une stratégie proactive de prévention face à la pédocriminalité.",
+          "url": "https://www.franceinfo.fr/societe/pedocriminalite/p-dophiles-l-allemagne-a-choisi-la-prevention_8052761.html",
+          "image": "https://www.franceinfo.fr/pictures/d0AM3QalzzbSvIj3AvHZeVCUtAY/fit-in/1200x675/filters:upscale():fill(black)/2026/06/09/6a285d262e9a2801589028.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Nucléaire Iran: l'ONU en plein bras de fer",
+          "summary": "Les USA appellent Chine et Russie à cesser de saboter les décisions du Conseil de sécurité.",
+          "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-nucleaire-en-iran-les-usa-a-l-onu-appellent-la-chine-et-la-russie-a-cesser-de-saboter-les-decisions-du-conseil-de-securite_VN-202606090904.html",
+          "image": "https://images.bfmtv.com/OVkAD_WkVtUJffegFMkF2ob71sg=/0x0:1280x720/1280x0/images/Nucleaire-en-Iran-Les-USA-a-l-ONU-appellent-la-Chine-et-la-Russie-a-cesser-de-saboter-les-decisions-du-Conseil-de-securite-2300765.jpg"
+        },
+        {
+          "title": "Val-d'Oise: restaurant fermé pour hygiène",
+          "summary": "Un nouveau restaurant à buffet à volonté a été fermé suite à un contrôle sanitaire strict.",
+          "url": "https://actu.fr/ile-de-france/gonesse_95277/controle-sanitaire-dans-le-val-d-oise-encore-un-restaurant-avec-buffet-a-volonte-ferme-2_64379746.html",
+          "image": "https://static.actu.fr/uploads/2026/06/capture-decran-2026-06-09-a-222010.png"
+        },
+        {
+          "title": "Sport amateur: l'AFLD renforce sa vigilance",
+          "summary": "L'agence antidopage intensifie sa surveillance, alertant sur des menaces accrues pour les jeunes sportifs.",
+          "url": "https://rmcsport.bfmtv.com/societe/les-jeunes-sont-plus-menaces-qu-avant-l-afld-renforce-sa-surveillance-du-sport-amateur_AN-202606090759.html",
+          "image": "https://images.bfmtv.com/qc27xn7dZE3OP7YpqGD0znc4rXM=/0x134:2048x1286/800x0/images/Une-analyse-antidopage-illustration-2300648.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Test chargeur 1000W: décortiqué",
+          "summary": "Un expert teste et analyse en profondeur un chargeur \"1000 W\", révélant ses performances réelles.",
+          "url": "https://www.zdnet.fr/guide-achat/retour-dexperience-je-teste-et-je-disseque-un-chargeur-de-1000-w-496403.htm",
+          "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/chargeur-_1000-w_-retour-dexperience.jpg"
+        },
+        {
+          "title": "Chargeur idéal chevet: promo Amazon",
+          "summary": "Découvrez le chargeur parfait pour votre table de chevet, actuellement en promotion chez Amazon.",
+          "url": "https://www.frandroid.com/marques/ugreen/3133649_le-chargeur-ideal-pour-votre-table-de-chevet-est-en-promotion-chez-amazon",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/image-54-2.jpg?resize=1600,900&key=3b8f91e1&watermark"
+        },
+        {
+          "title": "Ventilateur de poche: le plus brutal et abordable",
+          "summary": "Trouvez le mini-ventilateur portable le plus puissant et le plus économique du marché actuel.",
+          "url": "https://www.frandroid.com/produits-android/3133633_on-a-trouve-le-ventilateur-de-poche-le-plus-brutal-et-le-moins-cher-du-moment",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/Fiizreal-X50Pro-turbo-fan-discount-coupon-code-NiuxTech-MAIN-2025-1150x737-1.webp?resize=1600,900&key=db7ae8da&watermark"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "SFR disparaît: 20 millions de clients impactés",
+          "summary": "Après le rachat par Orange, la marque SFR va disparaître, entraînant la migration de millions de clients.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-a-lire-sur-le-site-tech-co-la-marque-sfr-va-disparaitre-20-millions-de-clients-vont-devoir-migrer-apres-le-rachat-de-l-operateur-mais-la-patronne-d-orange-assure-que-le-prix-et-le-contrat-ne-vont-pas-changer-par-raphael-raffray-09-06_VN-202606090905.html",
+          "image": "https://images.bfmtv.com/5hxb6COp3g-pKMZwUN9ncB51c_U=/0x0:1280x720/1280x0/images/A-lire-sur-le-site-Tech-and-Co-La-marque-SFR-va-disparaitre-20-millions-de-clients-vont-devoir-migrer-apres-le-rachat-de-l-operateur-mais-la-patronne-d-Orange-assure-que-le-prix-et-le-contrat-ne-vont-pas-changer-par-Raphael-Raffray-09-06-2300766.jpg"
+        },
+        {
+          "title": "Estée Lauder: 60 ans de savoir-faire",
+          "summary": "The Estée Lauder Companies renforce sa production au Royaume-Uni, célébrant 60 ans d'expertise britannique.",
+          "url": "http://www.businesswire.com/news/home/20260608435024/fr/?feedref=JjAwJuNHiystnCoBq_hl-fLcmYSZsqlD_XPbplM8Ta6D8R-QU5o2AvY8bhI9uvWSD8DYIYv4TIC1g1u0AKcacnnViVjtb72bOP4-4nHK5iej_DoWrIhfD31cAxcB60aE",
+          "image": "https://mms.businesswire.com/media/20260608435024/fr/2826114/22/WHITMAN_20260604_0363_%282%29.jpg"
+        },
+        {
+          "title": "Toulon: un nouveau coffee-shop",
+          "summary": "Un nouveau coffee-shop ouvre à Toulon, promettant de rassembler petits et grands au bord de mer.",
+          "url": "https://www.nicematin.com/conso/ouverture-de-magasin/il-y-a-tout-pour-reunir-petits-et-grands-en-bord-de-mer-un-nouveau-coffee-shop-ouvre-sur-le-littoral-de-toulon-10684187",
+          "image": "https://assets.nicematin.com/articles/10/68/41/87/OG-10684187-1200-800-2bac8cf_ftp-1-yxa3fy7vk1lr-ccbc31a5a22a641cc85cc3v-01303610.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Régions",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Affaire Lyhanna: échec gendarmerie",
+          "summary": "Le général Hubert Bonneau qualifie l'affaire Lyhanna d'« échec » pour la gendarmerie.",
+          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/affaire-lyhanna-un-echec-pour-la-gendarmerie-selon-le-general-hubert-bonneau-patron-des-gendarmes-29424756.php",
+          "image": null
+        },
+        {
+          "title": "Affaire Bruel: plaintes et mise en examen",
+          "summary": "Une chronologie complète pour comprendre les plaintes pour viols et la mise en examen requise contre Patrick Bruel.",
+          "url": "https://www.sudouest.fr/justice/affaire-patrick-bruel/chronologie-affaire-patrick-bruel-plaintes-pour-viols-mise-en-examen-concerts-annules-l-article-pour-tout-comprendre-29424839.php",
+          "image": null
+        },
+        {
+          "title": "Dordogne: homme écrasé par un tracteur",
+          "summary": "Un tragique accident en Dordogne coûte la vie à un homme écrasé par un tracteur.",
+          "url": "https://www.sudouest.fr/dordogne/busserolles/un-homme-est-mort-ecrase-par-un-tracteur-en-dordogne-29424867.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture & Geek",
+      "emoji": "👾",
+      "articles": [
+        {
+          "title": "Artemis III: un Européen sur la Lune?",
+          "summary": "La NASA dévoile l'équipage d'Artemis III, ouvrant la voie à une présence européenne sur la Lune.",
+          "url": "https://www.journaldugeek.com/2026/06/10/europeen-nasa-artemis-iii-espace/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/nasa-espace-artemis-3-1280x853.jpg"
+        },
+        {
+          "title": "\"Le Hum\": un mystère sonore mondial",
+          "summary": "Ce bruit mystérieux continue de perturber et de rendre fous des milliers de personnes globalement.",
+          "url": "https://www.journaldugeek.com/2026/06/10/cest-quoi-le-hum-ce-bruit-mysterieux-qui-rend-fous-des-milliers-de-personnes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/09/HP-1-2025-09-18T104335.747-1280x853.jpeg"
+        },
+        {
+          "title": "CM 2026: comment suivre sans IPTV",
+          "summary": "Découvrez des méthodes légales pour regarder les matchs de la Coupe du Monde 2026 sans IPTV.",
+          "url": "https://www.journaldugeek.com/2026/06/10/coupe-du-monde-2026-comment-suivre-les-matchs-de-lequipe-de-france-iptv/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/coupe-du-monde-2026-matchs-m6-1-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama: top 100 influents du sport",
+          "summary": "Victor Wembanyama, seul Français, est classé parmi les 100 personnalités sportives les plus influentes au monde.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/la-nba-n-a-jamais-vu-quelqu-un-comme-lui-wembanyama-seul-francais-dans-les-100-personnalites-les-plus-influentes-du-monde-du-sport_AV-202606100209.html",
+          "image": "https://images.bfmtv.com/gqRSXJ1cQMW7y74t1nNUBNR9VH0=/0x30:2048x1182/800x0/images/Spurs-Knicks-match-2-Victor-Wembanyama-05-06-2026-2298862.jpg"
+        },
+        {
+          "title": "Duplantis battu: la série s'arrête!",
+          "summary": "Coup de tonnerre à Stockholm : Armand Duplantis subit sa première défaite en près de trois ans.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/coup-de-tonnerre-a-stockholm-armand-duplantis-battu-pour-la-premiere-fois-depuis-pres-de-trois-ans_AV-202606070315.html",
+          "image": "https://images.bfmtv.com/8t0eoGwiSm-Xx3cfDMemxdgRLFA=/0x41:2048x1193/800x0/images/Armand-Duplantis-2299281.jpg"
+        },
+        {
+          "title": "Serena Williams: retour gagnant à 44 ans",
+          "summary": "À 44 ans, la légende Serena Williams effectue un retour remarqué et gagne en double au Queen's.",
+          "url": "https://www.europe1.fr/sport/tennis-serena-williams-de-retour-a-44-ans-remporte-un-premier-match-en-double-au-queens-951539",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/06/09/22/020_2280745621_1_6a2876830005c.jpg"
+        }
+      ]
+    }
+  ]
+}
