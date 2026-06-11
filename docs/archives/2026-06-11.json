@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Barnabé",
-  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques et des appels à la paix, tandis que les enjeux migratoires et les controverses sportives secouent la France et l'international. Le secteur technologique, propulsé par l'IA, continue sa course avec des annonces de Google et Apple, et des levées de fonds massives. Les performances sportives ne sont pas en reste, avec des défaites inattendues pour des légendes et des incidents marquants. L'IA s'immisce partout, du développement de conducteurs virtuels aux critères de choix des télévisions, redessinant constamment notre quotidien. Enfin, des préoccupations locales et administratives complètent ce panorama dense et en constante évolution.",
-  "running_advice": "Chers sportifs, même sans les détails météo précis pour aujourd'hui (température de undefined°C à undefined°C, ciel: undefined, pluie: undefined%), ne laissez rien freiner votre élan ! Chaque jour est une opportunité unique de progresser. Puisque les informations sont indéfinies, je vous conseille d'être attentifs aux sensations et de vous adapter. Privilégiez les moments où le soleil est moins intense pour vos sorties, comme tôt le matin ou en fin de journée, idéalement entre le lever du soleil (undefined) et son coucher (undefined). L'indice UV étant également indéfini, la prudence est de mise : appliquez une protection solaire si vous courez en extérieur et hydratez-vous généreusement. Fixez-vous un objectif, si petit soit-il, et courez avec détermination. Votre énergie est votre plus grande force, foncez !",
+  "global_summary": "L'actualité de ce jour est traversée par des enjeux mondiaux complexes et des tensions persistantes. Le Pape Léon XIV, accueilli en liesse à Barcelone, a réaffirmé que les chrétiens ne peuvent en aucun cas promouvoir la guerre, dans un contexte où les soupçons d'espionnage entre Israël et les États-Unis rappellent la fragilité des alliances. Sur la scène sportive, le Mondial 2026 est déjà marqué par l'indignation suite à la fouille controversée des joueurs sénégalais et le déploiement difficile de certains arbitres, tandis qu'une attaque de pétrolier au large d'Oman souligne les risques géopolitiques persistants qui pèsent sur l'économie mondiale.\n\nEn France, les préparatifs pour le pacte migratoire européen suscitent de vives inquiétudes quant à une potentielle catastrophe administrative et juridique. Le monde de la tech est en pleine effervescence : Google bouscule le marché en cassant le prix de son abonnement IA, mais Apple se heurte à Bruxelles pour le déploiement de Siri AI en Europe. Côté sport, les athlètes de renom connaissent des hauts et des bas spectaculaires, avec Victor Wembanyama visé par des projectiles après une défaite historique et l'invincible Armand Duplantis battu pour la première fois en près de trois ans, créant de vagues d'émotions intenses.",
+  "running_advice": "Chers membres de notre communauté, futurs champions et as de la course à pied ! Même si la météo du jour reste un mystère avec des données indisponibles, ne laissez jamais un manque d'informations stopper votre élan et votre motivation ! Votre corps est votre meilleur allié, écoutez-le et fiez-vous à vos sensations. Que le soleil brille ou que le ciel soit incertain, l'important est de bouger et de vous surpasser. Choisissez votre moment, respirez à fond et rappelez-vous que chaque foulée est une victoire sur vous-même. L'aventure, c'est maintenant ! Lancez-vous avec énergie et détermination !",
   "weather_string": "undefined undefined (undefined°C / undefined°C)",
   "weather_stats": {
     "temp": "undefined°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Le Pape appelle à la paix",
-          "summary": "Accueilli à Barcelone, le Pape Léon XIV rappelle que les chrétiens ne peuvent \"promouvoir la guerre\".",
+          "title": "Le Pape Léon XIV appelle à la paix mondiale",
+          "summary": "Accueilli à Barcelone, le Pape réaffirme que les chrétiens ne peuvent pas promouvoir la guerre.",
           "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/accueilli-par-la-foule-en-liesse-a-barcelone-le-pape-leon-xiv-affirme-que-les-chretiens-ne-peuvent-pas-promouvoir-la-guerre_8054645.html",
           "image": "https://www.franceinfo.fr/pictures/QdWzOChcdAcIWE4qg1gMq4Bht3U/1200x675/2026/06/10/6a29bb5ed6751787079179.jpg"
         },
         {
-          "title": "Israël : espionnage des USA ?",
-          "summary": "Des révélations inquiétantes suggèrent que Israël pourrait espionner ses alliés américains.",
+          "title": "Israël espionnerait-il les États-Unis ?",
+          "summary": "Des allégations d'espionnage mettent à mal la confiance entre les deux alliés historiques.",
           "url": "https://www.franceinfo.fr/monde/usa/israel-espionnerait-il-les-etats-unis_8054621.html",
           "image": "https://www.franceinfo.fr/pictures/Bdh6_aEiNi9LunmOxkHQiwr389A/fit-in/1200x675/filters:upscale():fill(black)/2026/06/10/6a29b3e07655f735986394.png"
         },
         {
-          "title": "Mondial 2026 : Fouille polémique",
-          "summary": "Une vidéo de la fouille des joueurs sénégalais à l'aéroport américain provoque l'indignation.",
+          "title": "Mondial 2026 : fouille des joueurs sénégalais",
+          "summary": "La vidéo de la fouille humiliante des joueurs africains indigne la communauté internationale.",
           "url": "https://www.france24.com/fr/afrique/20260610-coupe-du-monde-fouille-joueurs-s%C3%A9n%C3%A9galais-a%C3%A9roport-am%C3%A9ricain",
           "image": "https://s.france24.com/media/display/e543c038-64db-11f1-b4ed-005056a97e36/w:1280/p:16x9/foot-senegal.jpg"
         }
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Bleus : le porte-bonheur polémique",
-          "summary": "Le \"porte-bonheur\" offert par la ministre des Sports aux Bleus fait débat jusqu'à l'Assemblée.",
+          "title": "Pacte migratoire : la France redoute la catastrophe",
+          "summary": "À deux jours de l'échéance, l'État français craint le chaos administratif et juridique.",
+          "url": "https://www.fdesouche.com/2026/06/10/france-a-deux-jours-du-pacte-migratoire-europeen-letat-francais-nest-pas-pret-et-redoute-une-catastrophe-administrative-et-juridique/",
+          "image": "https://www.fdesouche.com/wp-content/uploads/2026/06/ef6-1140x675-1-740x438.png"
+        },
+        {
+          "title": "La ministre des Sports et son porte-bonheur",
+          "summary": "Le porte-bonheur offert aux Bleus par la ministre crée la polémique jusqu'à l'Assemblée.",
           "url": "https://www.huffingtonpost.fr/politique/video/coupe-du-monde-le-porte-bonheur-offert-aux-bleus-par-la-ministre-des-sports-la-rattrape-jusqu-a-l-assemblee_264690.html",
           "image": "https://focus.huffingtonpost.fr/2026/06/10/0/0/1906/1059/0/0/60/0/0774d43_upload-1-a4rsqq7jdoyp-screenshot-2026-06-10-20-26-13.png"
         },
         {
-          "title": "FIFA : Infantino déplore un refus",
-          "summary": "Le président de la FIFA s'attriste du refoulement de l'arbitre Omar Artan par les États-Unis.",
+          "title": "Infantino déplore la situation de l'arbitre",
+          "summary": "Le président de la FIFA juge malheureux le refoulement de l'arbitre somalien par les États-Unis.",
           "url": "https://www.eurosport.fr/football/coupe-du-monde/2026/mondial-2026-gianni-infantino-juge-malheureux-que-larbitre-somalien-ait-ete-refoule-par-les-etats-unis_sto23308374/story.shtml",
           "image": "https://imgresizer.eurosport.com/unsafe/310x310/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/06/07/image-6ee3bb26-0102-488c-a95a-84a19c2d28fe-68-310-310.jpeg"
-        },
-        {
-          "title": "Drogues : 40 nouveaux produits",
-          "summary": "Quarante nouveaux produits de synthèse ont été identifiés en France, suscitant l'inquiétude.",
-          "url": "https://www.sudouest.fr/france/drogues-40-nouveaux-produits-de-synthese-arrivent-en-france-29437744.php",
-          "image": null
         }
       ]
     },
@@ -62,20 +62,20 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Google casse le prix de son IA",
-          "summary": "Le géant Google réduit drastiquement le coût de son abonnement à l'intelligence artificielle.",
+          "title": "Google casse le prix de son abonnement IA",
+          "summary": "Google bouleverse le marché en réduisant drastiquement le coût de son offre d'intelligence artificielle.",
           "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-google-casse-le-prix-de-son-abonnement-ia-par-lea-benaim-10-06_VN-202606100867.html",
-          "image": "https://images.bfmtv.com/VcwmibANdEkef-UUM_roHkQ9TgE=/0x0:1280x720/1280x0/images/Le-Tech-Flash-Google-casse-le-prix-de-son-abonnement-ia-par-lea-benaim-10-06-2301434.jpg"
+          "image": "https://images.bfmtv.com/VcwmibANdEkef-UUM_roHkQ9TgE=/0x0:1280x720/1280x0/images/Le-Tech-Flash-Google-casse-le-prix-de-son-abonnement-IA-par-Lea-Benaim-10-06-2301434.jpg"
         },
         {
-          "title": "Apple vs Bruxelles sur Siri AI",
-          "summary": "Positions irréconciliables : l'arrivée de Siri AI en Europe est compromise par Bruxelles.",
+          "title": "Siri AI bloqué en Europe par Bruxelles",
+          "summary": "Des positions irréconciliables entre Apple et l'UE menacent l'arrivée de Siri AI sur le continent.",
           "url": "https://www.latribune.fr/article/tech/20028336679764/positions-irreconciliables-entre-bruxelles-et-apple-larrivee-de-siri-ai-en-europe-encore-loin-detre-acquise",
           "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1000,quality=80/media/melody/2026/06/10/sii-sera-1781119516_2590c277a92a60990c277a92acc90cv_.jpg"
         },
         {
-          "title": "Fin de SFR : vers un nouveau partage",
-          "summary": "Free, Orange et Bouygues se préparent à se partager les forfaits des abonnés SFR.",
+          "title": "La fin de SFR, partage de forfaits",
+          "summary": "Après la disparition de SFR, Free, Orange et Bouygues se partageront les clients et leurs forfaits.",
           "url": "https://www.frandroid.com/marques/sfr/3135409_fin-de-sfr-comment-free-orange-et-bouygues-vont-se-partager-vos-forfaits",
           "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/youtube-cover-sa-dzdgltxa.jpg?resize=1600,900&key=e8f32112&watermark"
         }
@@ -86,80 +86,44 @@
       "emoji": "💰",
       "articles": [
         {
-          "title": "Deep Fission entre en bourse",
-          "summary": "L'entreprise Deep Fission dépose son dossier pour une introduction en bourse de 2,5 millions d'actions.",
+          "title": "Deep Fission dépose une introduction en bourse",
+          "summary": "La société Deep Fission se lance sur le marché avec une offre de 2,5 millions d'actions.",
           "url": "https://fr.investing.com/news/stock-market-news/deep-fission-depose-une-introduction-en-bourse-de-25-millions-dactions-432SI-3456477",
           "image": "https://i-invdn-com.investing.com/news/LYNXMPEB2C0AG_L.jpg"
         },
         {
-          "title": "Super Micro : 7 milliards pour l'IA",
-          "summary": "Super Micro Systems prévoit jusqu'à 7 milliards de dollars pour financer son expansion dans l'IA.",
+          "title": "Super Micro lève 7 milliards pour l'IA",
+          "summary": "Super Micro sécurise un financement colossal de 7 milliards de dollars pour son expansion dans l'IA.",
           "url": "https://www.zonebourse.com/actualite-bourse/super-micro-prepare-jusqu-a-7-milliards-de-dollars-de-financement-pour-soutenir-l-essor-de-l-ia-ce7f5cdbdc89f225",
           "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-04-29T204557Z_1_LYNXMPEL3S148_RTROPTP_4_TAIWAN-COMPUTEX.JPG"
         },
         {
-          "title": "Pacte migratoire : l'État français en alerte",
-          "summary": "L'État français redoute une catastrophe administrative et juridique face au pacte migratoire européen.",
-          "url": "https://www.fdesouche.com/2026/06/10/france-a-deux-jours-du-pacte-migratoire-europeen-letat-francais-nest-pas-pret-et-redoute-une-catastrophe-administrative-et-juridique/",
-          "image": "https://www.fdesouche.com/wp-content/uploads/2026/06/ef6-1140x675-1-740x438.png"
-        }
-      ]
-    },
-    {
-      "label": "Gironde",
-      "emoji": "📍",
-      "articles": [
-        {
-          "title": "Landes : accident sur l'A63",
-          "summary": "Une fourgonnette prend feu après une collision avec un camion sur l'A63, deux blessés.",
-          "url": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/landes-une-fourgonnette-prend-feu-apres-une-collision-avec-un-camion-sur-l-autoroute-a63-deux-blesses-evacues-vers-un-hopital-29437787.php",
-          "image": null
-        }
-      ]
-    },
-    {
-      "label": "Journal du Geek",
-      "emoji": "🤓",
-      "articles": [
-        {
-          "title": "Waymo : conducteur humain virtuel",
-          "summary": "Waymo développe un pilote IA pour mieux anticiper et éviter les accidents routiers.",
-          "url": "https://www.journaldugeek.com/2026/06/11/waymo-cree-un-conducteur-humain-virtuel-pour-apprendre-a-eviter-les-accidents/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/02/waymo-robot-taxi-voiture-1280x853.jpg"
-        },
-        {
-          "title": "TV 2026 : l'IA, nouveau critère",
-          "summary": "En 2026, l'IA devient un critère essentiel pour choisir sa télévision, transformant l'expérience.",
-          "url": "https://www.journaldugeek.com/2026/06/11/quelle-tv-choisir-en-2026-pourquoi-lia-est-devenue-un-vrai-critere/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/Samsung-AI-Companion-1280x853.jpg"
-        },
-        {
-          "title": "Summer Game Fest : les annonces clés",
-          "summary": "Découvrez les moments forts et les annonces majeures de cette édition du Summer Game Fest 2026.",
-          "url": "https://www.journaldugeek.com/2026/06/11/summer-game-fest-2026-les-meilleures-annonces-de-cette-edition/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/summer-game-fest-2026.jpg"
+          "title": "Attaque pétrolier au large d'Oman",
+          "summary": "Un pétrolier attaqué au large d'Oman ravive les tensions géopolitiques et énergétiques dans la région.",
+          "url": "https://www.20minutes.fr/monde/4228403-20260610-guerre-moyen-orient-sait-attaque-contre-petrolier-large-oman",
+          "image": "https://img.20mn.fr/y3-REiRCTeK-RLO2XnRv-yk/1444x920_muscat-oman-30-mars-un-bateau-rapide-de-la-police-patrouille-dans-le-port-alors-que-des-petroliers-et-des-engins-a-grande-vitesse-sont-ancres-au-mouillage-de-muscat-pres-du-detroit-d-ormuz-le-30-mars-2026-a-muscat-en-oman-plusieurs-navires-appartenant-a-des-chinois-auraient-pu-traverser-le-detroit-d-ormuz-aujourd-hui-au-lendemain-de-l-annonce-par-le-president-americain-donald-trump-de-l-iran-autorisant-20-navires-a-traverser-cette-voie-navigable-vitale-le-trafic-maritime-dans-le-detroit-d-ormuz-qui-transporte-environ-un-cinquieme-du-petrole-et-du-gaz-du-monde-s-est-pratiquement-interrompu-apres-la-guerre-conjointe-entre-les-etats-unis-et-israel-avec-l-iran-qui-a-debute-le-28-fevrier-photo-d-elke-scholiers-getty-images-photo-d-elke-scholiers-getty-images-europe-getty-images-via-afp"
         }
       ]
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "Wemby visé par des projectiles",
-          "summary": "Victor Wembanyama visé par des projectiles à New York après la défaite des Spurs.",
+          "title": "Wembanyama visé par des projectiles à New York",
+          "summary": "Après une défaite historique, Victor Wembanyama échappe de peu à des projectiles lancés.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/un-objet-se-brise-pres-de-sa-tete-wembanyama-vise-par-des-projectiles-dans-new-york-apres-la-defaite-historique-de-san-antonio-en-finales-nba_AV-202606110286.html",
           "image": "https://images.bfmtv.com/tMqkBT7Ry1jzJLw0P6Ddr098xHU=/0x0:496x279/800x0/images/Victor-Wembanyama-vise-par-des-projectiles-a-New-York-le-10-juin-2026-2301698.jpg"
         },
         {
-          "title": "Duplantis battu : choc à Stockholm",
+          "title": "Duplantis battu après trois ans d'invincibilité",
           "summary": "Coup de tonnerre à Stockholm : Armand Duplantis subit sa première défaite en près de trois ans.",
           "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/coup-de-tonnerre-a-stockholm-armand-duplantis-battu-pour-la-premiere-fois-depuis-pres-de-trois-ans_AV-202606070315.html",
           "image": "https://images.bfmtv.com/8t0eoGwiSm-Xx3cfDMemxdgRLFA=/0x41:2048x1193/800x0/images/Armand-Duplantis-2299281.jpg"
         },
         {
-          "title": "Simone Biles : \"frôlé la mort\"",
-          "summary": "La gymnaste Simone Biles partage une expérience \"effrayante\", affirmant avoir \"frôlé la mort\".",
+          "title": "Simone Biles frôle la mort, un message alarmant",
+          "summary": "La gymnaste star Simone Biles partage une expérience terrifiante, 'la plus effrayante de sa vie'.",
           "url": "https://rmcsport.bfmtv.com/jeux-olympiques/l-experience-la-plus-effrayante-de-ma-vie-le-message-inquietant-de-la-gymnaste-simone-biles-qui-dit-avoir-frole-la-mort_AN-202606070212.html",
           "image": "https://images.bfmtv.com/fyl3II_-a4A4U9N2W7s9_40_T4w=/0x184:2048x1336/800x0/images/La-star-de-la-gymnastique-Simone-Biles-aux-JO-de-Paris-le-5-aout-2024-2299185.jpg"
         }
