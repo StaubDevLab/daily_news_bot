@@ -1,0 +1,161 @@
+{
+  "ephemeride": "Saint Antoine de Padoue",
+  "global_summary": "L'actualité mondiale est marquée par des révélations contredisant des versions officielles en Cisjordanie et des avancées majeures pour les droits des travailleurs des plateformes. En parallèle, des mouvements de protestation en Albanie soulignent des enjeux environnementaux et politiques internationaux. Sur le plan national, la France est secouée par les répercussions d'un drame, tandis que la sphère économique voit SpaceX réaliser des débuts boursiers fulgurants et Elon Musk atteindre un cap de fortune inédit.\nLe monde du sport n'est pas en reste, avec des performances historiques et des revers inattendus : un nouveau record en athlétisme, la défaite surprise d'une légende et les défis auxquels est confronté un jeune prodige du basket. Cette journée conjugue ainsi des enjeux géopolitiques complexes, des avancées sociales, des succès économiques retentissants et des moments forts d'émotion sportive, témoignant d'une dynamique globale intense.",
+  "running_advice": "Aujourd'hui, l'énergie est au rendez-vous avec un ciel peu nuageux et des températures qui culmineront à 34.1°C ! C'est une excellente journée pour transpirer, mais l'indice UV élevé à 7.6 et la chaleur de l'après-midi exigent de la stratégie. Le moment idéal pour chausser vos baskets sera tôt le matin, juste après le lever du soleil à 6h15, ou en fin de journée, après 19h pour profiter de la fraîcheur du soir avant le coucher à 21h50. N'oubliez pas une protection solaire forte, une casquette et hydratez-vous abondamment ! Allez, on y va, chaque foulée compte pour atteindre vos objectifs !",
+  "weather_string": "🌤️ Peu nuageux (16°C / 34.1°C)",
+  "weather_stats": {
+    "temp": "34.1°C",
+    "rain": "0%",
+    "uv": "7.6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "ONG israélienne contredit version officielle",
+          "summary": "Une ONG israélienne met en doute le récit officiel sur la mort d'un bébé en Cisjordanie.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/bebe-tue-en-cisjordanie-une-ong-israelienne-contredit-la-version-officielle_8058179.html",
+          "image": "https://www.franceinfo.fr/pictures/hOEI1HkMhRRd75wgqLdA07tckM8/fit-in/1200x675/filters:upscale():fill(black)/2026/06/12/6a2c4bd842af6959586390.jpg"
+        },
+        {
+          "title": "Nouvelles normes pour travailleurs des plateformes",
+          "summary": "L'OIT adopte des normes mondiales contraignantes pour les travailleurs des plateformes numériques.",
+          "url": "https://fr.investing.com/news/world-news/loit-adopte-les-premieres-normes-contraignantes-pour-les-travailleurs-des-plateformes-93CH-3459989",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_69x52._800x533_L_1419494365.jpg"
+        },
+        {
+          "title": "Albanie : Manifestations contre projet Trump",
+          "summary": "Des Albanais se mobilisent contre un projet touristique lié à la famille Trump, source de controverses.",
+          "url": "https://www.20minutes.fr/monde/4228813-20260612-albanie-nouvelles-manifestations-contre-projet-touristique-lie-famille-trump",
+          "image": "https://img.20mn.fr/x2fT357RRDOCKvX82CQSgSk/1444x920_tirana-albanie-10-juin-2026-des-militants-ecologistes-des-groupes-de-la-societe-civile-des-familles-et-des-jeunes-participent-a-la-onzieme-journee-consecutive-de-manifestations-contre-un-projet-de-developpement-touristique-de-luxe-propose-lie-a-jared-kushner-des-manifestants-se-sont-rassembles-dans-le-centre-de-tirana-et-devant-les-institutions-gouvernementales-en-brandissant-des-banderoles-des-drapeaux-albanais-et-des-installations-symboliques-pour-demander-l-annulation-du-projet-le-rassemblement-a-attire-un-plus-grand-nombre-de-participants-que-les-jours-precedents-les-participants-continuant-a-exprimer-leurs-preoccupations-concernant-le-developpement-cotier-propose-et-son-impact-environnemental-potentiel-le-mouvement-de-protestation-en-cours-a-rassemble-une-large-coalition-de-militants-de-residents-et-de-groupes-civiques-qui-militent-pour-la-protection-des-zones-cotieres-de-l-albanie-photo-de-vlasov-sulaj-jna-press-photo-de-jna-press-jna-press-via-nexpher-images-sipa-usa-70957667-2606120638"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Affaire Lyhanna : Un orage va exploser",
+          "summary": "L'affaire Lyhanna révèle les fragilités du système judiciaire français, selon Gérard Carreyrou.",
+          "url": "https://www.europe1.fr/societe/affaire-lyhanna-cest-comme-un-orage-qui-va-exploser-confie-gerard-carreyrou-sur-les-consequences-de-ce-drame-952874",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/06/12/17/a_40_6a2c2a67521aa.jpg"
+        },
+        {
+          "title": "Mask Singer : La Chauve-Souris révélée",
+          "summary": "Une star internationale démasquée sous le costume de La Chauve-Souris dans Mask Singer, sur TF1.",
+          "url": "https://www.ozap.com/actu/mask-singer-2026-quelle-star-internationale-se-cachait-derriere-la-chauve-souris-et-a-ete-revelee-ce-vendredi-soir-sur-tf1/655536",
+          "image": "https://static1.ozap.com/uploads/dc/aa/31/c0/6804e238edd12262-1200x0-1.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Moteur de recherche de données volées",
+          "summary": "Un service douteux propose l'accès à des données personnelles volées, posant un risque majeur de cybersécurité.",
+          "url": "https://next.ink/242195/le-business-douteux-et-dangereux-d-un-moteur-de-recherche-de-donnees-personnelles-volees/",
+          "image": "https://next.ink/wp-content/uploads/2025/11/Radio-data.webp"
+        },
+        {
+          "title": "Fortune d'Elon Musk franchit cap historique",
+          "summary": "La richesse d'Elon Musk dépasse les 1000 milliards de dollars, une première mondiale historique.",
+          "url": "https://www.epochtimes.fr/la-fortune-delon-musk-franchit-le-cap-historique-des-1000-milliards-de-dollars-3282419.html",
+          "image": "https://images-fr.epochtimes.fr/uploads/2025/11/Musk1-scaled.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "SpaceX s'envole en bourse (+20%)",
+          "summary": "L'action SpaceX réalise des débuts spectaculaires en bourse, grimpant de près de 20%.",
+          "url": "https://www.lecho.be/les-marches/actu/actions-bourses-etrangeres/l-action-spacex-s-envole-de-pres-de-20-pour-ses-debuts-en-bourse/10675069.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:Fbck4Ba1a-2AK_5VoaH1Lk&context=ONLINE&ratio=16/9&width=640&u=1781294881000"
+        },
+        {
+          "title": "Le top 3 des gérants du jour",
+          "summary": "Découvrez les analyses et sélections des meilleurs gérants d'actifs du 12 juin pour votre portefeuille.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/le-top-3-des-gerants-alain-pitous-pierre-schang-et-frederic-rozier-12-06_EN-202606120882.html",
+          "image": "https://images.bfmtv.com/KaHOWmCNR_7XHw332QrTyx7i4gw=/0x0:2000x2000/2000x0/podcast/podcasts/principale-98_1.jpg"
+        },
+        {
+          "title": "Roku explore une possible vente stratégique",
+          "summary": "Le géant du streaming Roku envisage des options stratégiques, incluant une vente potentielle pour l'avenir.",
+          "url": "https://www.zonebourse.com/actualite-bourse/roku-explore-des-options-strategiques-dont-une-possible-vente-ce7f5cd9dd8cfe23",
+          "image": "https://cdn.zonebourse.com/static/resize/1200/675//images/reuters/2023-12-28T084504Z_1_LYNXMPEJBR05W_RTROPTP_3_USA-STOCKS.JPG"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Vols de Pouchkine : Géorgiens condamnés",
+          "summary": "Six Géorgiens lourdement condamnés pour les vols d'éditions rares de Pouchkine en France.",
+          "url": "https://www.sudouest.fr/justice/vols-d-editions-rares-de-pouchkine-en-france-six-georgiens-condamnes-jusqu-a-sept-ans-de-prison-29468105.php"
+        },
+        {
+          "title": "Attaqué par un chien en Dordogne",
+          "summary": "Un octogénaire de Dordogne témoigne de son traumatisme après une violente attaque de chien.",
+          "url": "https://www.sudouest.fr/dordogne/temoignage-attaque-violemment-par-un-chien-un-octogenaire-de-dordogne-ne-veut-plus-sortir-de-chez-lui-avec-la-boule-au-ventre-29454095.php"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Loisirs",
+      "emoji": "🕹️",
+      "articles": [
+        {
+          "title": "Les 10 sagas littéraires marquantes",
+          "summary": "Découvrez les sagas littéraires qui ont profondément marqué les vingt dernières années, à lire absolument !",
+          "url": "https://www.journaldugeek.com/dossier/voici-les-10-sagas-litteraires-qui-ont-marque-les-deux-dernieres-decennies/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/litterature-saga-10-ans-1280x853.jpg"
+        },
+        {
+          "title": "Live Cinema : Un Escape Game exceptionnel ?",
+          "summary": "Le Live Cinema est-il l'un des meilleurs Escape Games de France ? Une expérience immersive à tester.",
+          "url": "https://www.journaldugeek.com/dossier/live-cinema-lune-des-meilleures-experiences-descape-game-en-france-2/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/live-cinema-escape-test-1280x853.jpg"
+        },
+        {
+          "title": "Spielberg devait réaliser ce film culte",
+          "summary": "Steven Spielberg faillit diriger un film culte, mais changea d'avis au dernier moment, l'histoire étonnante.",
+          "url": "https://www.journaldugeek.com/2026/06/12/steven-spielberg-devait-realiser-ce-film-culte-mais-il-a-change-davis-au-dernier-moment/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/steven-spielberg-harry-potter-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama digère mal le comeback",
+          "summary": "Victor Wembanyama exprime sa frustration après le come-back inattendu des Knicks face aux Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/c-est-nous-qui-nous-battons-nous-memes-wembanyama-ne-digere-pas-le-comeback-des-knicks-face-aux-spurs-mais-se-veut-optimiste-pour-recoller_AV-202606120897.html",
+          "image": "https://images.bfmtv.com/O8wbRpd3tq8IxTP2S8MAVy7Kdhg=/0x0:2048x1152/800x0/images/Victor-Wembanyama-dans-le-match-4-des-finales-NBA-remporte-par-les-New-York-Knicks-contre-les-San-Antonio-Spurs-107-106-le-10-juin-2026-2301546.jpg"
+        },
+        {
+          "title": "Tharp explose le record du 110m haies",
+          "summary": "Ja’Kobe Tharp, le nouvel \"extraterrestre\" de l'athlétisme, bat le record du monde du 110m haies.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Coup de tonnerre : Duplantis battu",
+          "summary": "Armand Duplantis subit sa première défaite en près de trois ans, un événement marquant à Stockholm.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/coup-de-tonnerre-a-stockholm-armand-duplantis-battu-pour-la-premiere-fois-depuis-pres-de-trois-ans_AV-202606070315.html",
+          "image": "https://images.bfmtv.com/8t0eoGwiSm-Xx3cfDMemxdgRLFA=/0x41:2048x1193/800x0/images/Armand-Duplantis-2299281.jpg"
+        }
+      ]
+    }
+  ]
+}
