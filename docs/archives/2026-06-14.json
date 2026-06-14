@@ -1,0 +1,127 @@
+{
+  "ephemeride": "Sainte Elisée",
+  "global_summary": "L'actualité de ce jour révèle une scène internationale et nationale dense, mêlant sécurité, diplomatie et récits humains. Une opération conjointe inédite entre les États-Unis et le Venezuela a mené à l'élimination d'un chef criminel majeur, tandis que le G7 à Évian se déroule sous haute tension, soulignant les enjeux géopolitiques complexes. En France, le retour du porte-avions Charles de Gaulle et les initiatives de découverte des métiers de l'uniforme ancrent l'attention sur la souveraineté et le lien social. \n\nSur le front économique et culturel, le marché immobilier de luxe continue de faire rêver, et le monde numérique s'interroge sur l'évolution des services de streaming. Le sport, quant à lui, est marqué par des performances époustouflantes, des records brisés en athlétisme, des victoires arrachées en rugby, et des réflexions poignantes de stars du basket sur le chemin vers l'excellence, nous rappelant que chaque effort compte.",
+  "running_advice": "Alors, coach sportif ici ! La météo du jour nous propose un défi : de 19.9°C à 34.5°C avec un ciel peu nuageux, c'est l'été qui s'invite ! C'est une excellente journée pour courir, mais la prudence est de mise face à la chaleur. L'indice UV est à 7.05, ce qui est assez élevé.\n\nMon conseil ? Privilégiez l'aube ou le crépuscule. L'heure idéale serait juste après le lever du soleil, entre 06:15 et 08:00, quand l'air est encore frais et vivifiant. Ou bien, attendez le soir, après 19:30, pour profiter de la descente du soleil jusqu'au coucher à 21:50. Quelle que soit l'heure, hydratez-vous abondamment avant, pendant et après l'effort. Et surtout, n'oubliez pas une bonne protection solaire (crème, casquette, lunettes) pour vous protéger des rayons UV. Votre corps vous remerciera ! Allez, on y va, donnez tout !",
+  "weather_string": "🌤️ Peu nuageux (19.9°C / 34.5°C)",
+  "weather_stats": {
+    "temp": "34.5°C",
+    "rain": "3%",
+    "uv": "7.05"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Opération US-Venezuela: le chef du Tren de Aragua éliminé.",
+          "summary": "Une action conjointe des États-Unis et du Venezuela aboutit à la mort du puissant leader criminel du Tren de Aragua.",
+          "url": "https://www.franceinfo.fr/monde/venezuela/une-operation-conjointe-menee-par-les-etats-unis-et-le-venezuela-entraine-la-mort-du-chef-de-l-organisation-criminelle-venezuelienne-tren-de-aragua_8059409.html",
+          "image": "https://www.franceinfo.fr/pictures/Elf8SCpjy-zEiXlweo2LPkKJ5xI/1200x675/2026/06/13/6a2dac7299de9991506391.jpg"
+        },
+        {
+          "title": "Arrestation ICE lors d'un match FIFA: alerte pour les immigrés.",
+          "summary": "Un père de famille arrêté par l'ICE lors d'un match de football alerte les supporters immigrés aux États-Unis.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260613-arr%C3%AAt%C3%A9-par-l-ice-lors-d-un-match-de-la-fifa-un-p%C3%A8re-de-famille-met-en-garde-les-supporters-immigr%C3%A9s-etats-unis-donald-trump-mondial-football",
+          "image": "https://s.france24.com/media/display/767e9bfc-6727-11f1-87e3-005056bf30b7/w:1280/p:16x9/FIFA-ICE-Stadium-full-blur.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "G7 sous haute tension à Evian.",
+          "summary": "Le sommet du G7 à Evian se déroule dans une ambiance électrique, avec des défis diplomatiques majeurs.",
+          "url": "https://www.latribune.fr/article/la-tribune-dimanche/dans-le-monde/2117188369990614/a-evian-un-g7-sous-tension",
+          "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1000,quality=80/media/melody/2026/06/13/des-bateaux-militaires-suisses-patrouillent-sur-le-lac-leman-1781375204_a032b8ac9d2a6b432b8ac9d2a7832bv_.jpg"
+        },
+        {
+          "title": "Le Charles de Gaulle rentre à Toulon.",
+          "summary": "Le porte-avions emblématique Charles de Gaulle est attendu à Toulon après sa mission, un événement majeur.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/video-le-porte-avions-charles-de-gaulle-va-rentrer-a-toulon-dans-les-prochains-jours_VN-202606130362.html",
+          "image": "https://images.bfmtv.com/qyHT_s0nA-54W7DJccgvmMI33Ck=/0x0:1280x720/1280x0/images/Le-porte-avions-Charles-de-Gaulle-va-rentrer-a-Toulon-dans-les-prochains-jours-2303147.jpg"
+        },
+        {
+          "title": "Gers: l'armée et les pompiers rencontrent le public.",
+          "summary": "Une initiative pour faire découvrir les métiers de l'uniforme aux habitants du Gers, renforçant le lien social.",
+          "url": "https://www.ladepeche.fr/2026/06/13/larmee-et-les-pompiers-a-la-rencontre-des-gersois-pour-faire-decouvrir-les-metiers-derriere-luniforme-13418099.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a2d89ff3fbd9c1295048780/hd/image.jpg?v=4"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Finance",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Immobilier: un appartement de rêve à 40 000€/m2.",
+          "summary": "La Place de Furstenberg atteint des sommets avec un appartement exceptionnel, illustrant le marché immobilier de luxe.",
+          "url": "https://www.capital.fr/immobilier/40-000-euros-du-m-cet-appartement-place-de-furstenberg-a-de-quoi-faire-rever-1527598",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~06~13~f555bc8d-7e97-4e0c-b686-3472a69e4631.jpeg/1200x900/quality/80/40-000-euros-du-m-cet-appartement-place-de-furstenberg-a-de-quoi-faire-rever.jpg"
+        },
+        {
+          "title": "YouTube Premium augmente, inquiétude en France?",
+          "summary": "L'augmentation de l'abonnement YouTube Premium aux États-Unis soulève des questions sur son impact potentiel en France.",
+          "url": "https://www.journaldugeek.com/2026/06/13/youtube-premium-augmente-aux-etats-unis-les-abonnes-francais-doivent-ils-sinquieter/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/YouTube-1-1280x853.jpg"
+        },
+        {
+          "title": "Budgets 2025: le Grand Châteaudun divisé.",
+          "summary": "Les discussions budgétaires pour 2025 au Grand Châteaudun révèlent des divergences entre \"négligence\" et \"précaution\".",
+          "url": "https://www.lechorepublicain.fr/chateaudun-28200/economie/negligence-precaution-les-budgets-de-l-exercice-2025-du-grand-chateaudun-ont-divise_15003550/",
+          "image": "https://img.centrefrance.com/pXqtpM0ie9KalBeXxkJ_yvJKNsJ3VCZg9nK1w4VIy_I/rs:auto:1200:800:1:0/g:sm/bG9jYWw6Ly8vMDAvMDAvMDcvNzQvMTQvMjAwMDAwNzc0MTQ2MQ.webp"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Tech",
+      "emoji": "✨",
+      "articles": [
+        {
+          "title": "\"Le Vertige\": le film de Dupieux en \"mode Sims\"?",
+          "summary": "Nouvelle œuvre de Quentin Dupieux : une critique se demande si \"Le Vertige\" se regarde en \"mode Sims\".",
+          "url": "https://www.journaldugeek.com/2026/06/13/le-vertige-faut-il-avoir-en-le-film-mode-sims-de-quentin-dupieux/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/le-vertige-avis-1280x853.jpg"
+        },
+        {
+          "title": "Pokémon GO Fest Copenhague: moins d'engouement?",
+          "summary": "Retour d'expérience mitigé sur le Pokémon GO Fest de Copenhague, interrogeant la popularité actuelle du jeu.",
+          "url": "https://www.journaldugeek.com/2026/06/13/pokemon-go-fest-2026-copenhague-plus-personne-ny-joue-alors-voici-notre-retour-dexperience/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/DSC04591-1280x853.jpg"
+        },
+        {
+          "title": "Bordeaux: la Flèche Saint-Michel rouvre ses portes.",
+          "summary": "Un monument emblématique de Bordeaux, la Flèche Saint-Michel, accueille de nouveau le public pour le festival Chahuts.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-la-fleche-saint-michel-rouvre-ses-portes-au-public-lors-du-festival-chahuts-29475657.php",
+          "image": "https://media.sudouest.fr/29475657/1200x600/20260613200023-f2a31.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama: \"Pas prêt à gagner une bague\".",
+          "summary": "Après la défaite en Finales NBA, Victor Wembanyama fait son mea culpa, affirmant ne pas être prêt pour le titre.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-je-n-etais-pas-pret-a-gagner-une-bague-le-mea-culpa-de-wembanyama-apres-la-perte-des-finales-avec-les-spurs_AV-202606140128.html",
+          "image": "https://images.bfmtv.com/VpZFRoAIL9xM7iVAUAdD3UqELaA=/0x2:2048x1154/800x0/images/Victor-Wembanyama-lors-du-match-5-de-la-finale-NBA-San-Antonio-New-York-le-13-juin-2026-2303244.jpg"
+        },
+        {
+          "title": "Athlétisme: Ja’Kobe Tharp explose le record du monde.",
+          "summary": "Le jeune Ja’Kobe Tharp sidère le monde de l'athlétisme en battant le record du monde du 110m haies.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Top 14: le Racing 92 arrache sa demi-finale!",
+          "summary": "Dans un match époustouflant, le Racing 92 s'impose face à Pau et se qualifie pour les demi-finales du Top 14.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/direct-pau-racing-92-suivez-le-barrage-de-top-14-en-live_LS-202606130294.html",
+          "image": "https://images.bfmtv.com/wUJ4MGhwwDDGCeFGy36-yLfX7lI=/0x212:2048x1364/800x0/images/Fabien-Brau-Boirie-Leo-Carbonneau-et-Maxime-Baudonne-avec-le-Racing-92-le-13-juin-2026-2303180.jpg"
+        }
+      ]
+    }
+  ]
+}
