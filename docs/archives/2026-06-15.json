@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Sainte Germaine",
+  "global_summary": "L'actualité mondiale est marquée par des enjeux diplomatiques et sécuritaires, notamment avec les discussions du G7 sur l'encadrement de l'IA militaire, soulignant la complexité des défis technologiques. En parallèle, des événements insolites comme l'évasion spectaculaire d'un déserteur russe interrogent la justice. La politique internationale continue de tisser des liens complexes, entre enjeux globaux et opportunités locales. \n\nSur le plan national et sociétal, les Français revoient leurs habitudes de consommation et de vacances face aux réalités économiques, tandis que des innovations technologiques, du prêt hypothécaire en Bitcoin aux robots humanoïdes, dessinent les contours de notre futur. Le monde du sport, quant à lui, vibre entre records battus et déceptions, mais toujours avec une passion intacte pour la performance et le dépassement de soi.",
+  "running_advice": "Alors, prêt(e) à enfiler vos baskets ? Avec des températures oscillant entre 19.3°C et 34.4°C et un ciel peu nuageux, la journée s'annonce globalement ensoleillée ! C'est une excellente journée pour courir, mais soyez stratégique. Je vous recommande fortement de privilégier les créneaux matinaux après le lever du soleil à 06h15, ou en fin de journée, après 19h00, lorsque le soleil commence à descendre et que les températures sont plus clémentes. L'indice UV est de 7.6, ce qui est élevé : une protection solaire (crème, casquette, lunettes) est indispensable. Hydratez-vous abondamment avant, pendant et après votre séance. Écoutez votre corps, donnez le meilleur, et profitez de chaque foulée !",
+  "weather_string": "🌤️ Peu nuageux (19.3°C / 34.4°C)",
+  "weather_stats": {
+    "temp": "34.4°C",
+    "rain": "8%",
+    "uv": "7.6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Évasion rocambolesque d'un déserteur russe",
+          "summary": "Un déserteur russe s'échappe d'un train en France, mettant la justice dans l'embarras.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/14/je-savais-qu-il-y-avait-un-helicoptere-mais-au-moment-ou-j-ai-saute-du-train-il-n-y-en-avait-pas-l-evasion-spectaculaire-d-un-deserteur-russe-embarrasse-la-justice-francaise_6702925_3210.html",
+          "image": "https://img.lemde.fr/2026/06/14/367/0/1530/765/644/322/60/0/ec633f3_upload-1-90olswwif3ko-whatsapp-image-2026-06-13-at-13-45-48.jpeg"
+        },
+        {
+          "title": "Le G7, une vitrine pour Évian-les-Bains",
+          "summary": "La maire d'Évian-les-Bains voit le G7 comme une opportunité unique pour la visibilité de la ville.",
+          "url": "https://www.franceinfo.fr/monde/sommet-du-g7/le-g7-est-une-carte-postale-mondiale-pour-evian-les-bains-estime-la-maire-de-la-ville_8060405.html",
+          "image": "https://www.franceinfo.fr/pictures/uSaFcH2zqKy2n2QTC-oqUJjPAeY/1200x675/2026/06/14/6a2ef59cbf8cd592764043.jpg"
+        },
+        {
+          "title": "IA militaire : l'encadrement en débat au G7",
+          "summary": "Les discussions sur la régulation de l'IA militaire révèlent des chemins semés d'embûches et de complexités.",
+          "url": "https://www.lemonde.fr/international/article/2026/06/14/encadrement-de-l-ia-militaire-un-chemin-seme-d-embuches-discute-a-geneve-en-marge-du-g7_6702891_3210.html",
+          "image": "https://img.lemde.fr/2026/06/02/1000/0/6000/3000/644/322/60/0/5f9f880_upload-1-d2tabmz5edag-delta-system-editorial-007.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Valentin Joachin triomphe à la skyline de Réallon",
+          "summary": "Première victoire pour Valentin Joachin au sprint lors du trail de Réallon, une performance remarquable.",
+          "url": "https://www.ledauphine.com/sport/2026/06/14/premiere-pour-valentin-joachin",
+          "image": "https://cdn-s-www.ledauphine.com/images/E38C08EB-AFAA-4B6D-A1A0-B0C94B38FCC6/NW_listB/premiere-pour-valentin-joachin-vainqueur-au-sprint-de-la-skyline-a-reallon-1781464888.jpg"
+        },
+        {
+          "title": "Le Tour Auvergne-Rhône-Alpes perd Seixas",
+          "summary": "Le cycliste Seixas abandonne le Tour Auvergne-Rhône-Alpes après un essai difficile, marquant un revers.",
+          "url": "https://www.leprogres.fr/sport/2026/06/14/seixas-a-essaye-et-a-prefere-s-arreter",
+          "image": "https://cdn-s-www.leprogres.fr/images/E99E9AE8-CE91-49AB-AE3A-35CFEB397BB5/MF_contenu/seixas-a-essaye-et-a-prefere-s-arreter-1781466728.jpg"
+        },
+        {
+          "title": "L'AFLD renforce la lutte antidopage amateur",
+          "summary": "Face aux menaces croissantes, l'AFLD intensifie sa surveillance du sport amateur en France.",
+          "url": "https://rmcsport.bfmtv.com/societe/les-jeunes-sont-plus-menaces-qu-avant-l-afld-renforce-sa-surveillance-du-sport-amateur_AN-202606090759.html",
+          "image": "https://images.bfmtv.com/qc27xn7dZE3OP7YpqGD0znc4rXM=/0x134:2048x1286/800x0/images/Une-analyse-antidopage-illustration-2300648.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Premier prêt immobilier adossé au Bitcoin",
+          "summary": "Un couple américain a obtenu le tout premier prêt hypothécaire garanti par du Bitcoin, une avancée financière.",
+          "url": "https://www.capital.fr/crypto/le-tout-premier-pret-hypothecaire-adosse-au-bitcoin-a-ete-accorde-a-un-couple-americain-1527611",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~06~14~3a7ca1d5-e3e1-4178-bfc6-78f4dcd068f4.jpeg/1200x900/quality/80/le-tout-premier-pret-hypothecaire-adosse-au-bitcoin-a-ete-accorde-a-un-couple-americain.jpg"
+        },
+        {
+          "title": "BYD veut des robots concessionnaires en Europe",
+          "summary": "Le géant chinois BYD explore l'utilisation de robots humanoïdes pour ses concessions, révolutionnant le service.",
+          "url": "https://www.journaldugeek.com/2026/06/15/byd-veut-fabriquer-des-robots-humanoides-pour-remplacer-les-concessionnaires-en-europe/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/Denza-Z9GT-1280x853.jpeg"
+        },
+        {
+          "title": "Les premières Steam Machine en test",
+          "summary": "Les premiers exemplaires de test des très attendues Steam Machine seraient expédiés, un cap important.",
+          "url": "https://gamergen.com/actualites/steam-machine-premiers-exemplaires-test-seraient-expedies-342451-1",
+          "image": "http://global-img.gamergen.com/steam-machine-premiers-exemplaires-test-seraient-expedies_00FA009601058978.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Les Français réinventent leurs vacances",
+          "summary": "Séjours raccourcis et hors saison : les nouvelles tendances des vacances en France reflètent des ajustements.",
+          "url": "https://www.franceinfo.fr/decouverte/vacances/hors-saison-sejours-raccourcis-comment-les-francais-revoient-leurs-vacances_8060456.html",
+          "image": "https://www.franceinfo.fr/pictures/Nnp4Lg81-xOFZ7-zKvNEC_ZO7uA/1200x675/2026/06/14/6a2f0697d6255060325707.jpg"
+        },
+        {
+          "title": "Deutsche Börse échappe à la supervision européenne",
+          "summary": "La Deutsche Börse pourrait éviter une supervision obligatoire de l'UE, impactant les marchés financiers.",
+          "url": "https://www.agefi.fr/news/economie-marches/deutsche-borse-echapperait-a-une-supervision-europeenne-obligatoire",
+          "image": "https://beymedias.brightspotcdn.com/2e/19/05dbbb3e6d54e09b71cc6c325773/d3ykc5n0-deutsche-borse-630x220.gif"
+        },
+        {
+          "title": "Plafonnement des arrêts maladie à venir",
+          "summary": "Le plafond des arrêts maladie va changer, avec des répercussions importantes pour les salariés et entreprises.",
+          "url": "https://www.journaldugeek.com/2026/06/15/les-arrets-maladie-seront-bientot-plafonnes-et-ca-va-tout-changer/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/arret-maladie-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Incendie dévastateur en Dordogne",
+          "summary": "Une habitation à Saint-Martial-d’Artenset ravagée par un incendie majeur, nécessitant l'intervention des pompiers.",
+          "url": "https://www.sudouest.fr/dordogne/dordogne-un-incendie-ravage-une-habitation-a-saint-martial-d-artenset-29495251.php",
+          "image": ""
+        },
+        {
+          "title": "Spéléologue secourue au Pays basque",
+          "summary": "Une femme coincée dans la grotte de Zarobe a été secourue par les équipes spécialisées après un incident.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/aussurucq/pays-basque-une-femme-qui-faisait-de-la-speleologie-dans-la-grotte-de-zarobe-a-ete-secourue-apres-etre-restee-coincee-29494877.php",
+          "image": ""
+        },
+        {
+          "title": "Panne de courant après un accident",
+          "summary": "Une voiture percute un poteau électrique en Gironde, privant des dizaines de foyers d'électricité.",
+          "url": "https://www.sudouest.fr/gironde/verac/gironde-une-voiture-s-encastre-dans-un-poteau-electrique-plusieurs-dizaines-de-personnes-sans-courant-29494890.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : le futur après la finale NBA",
+          "summary": "Après une désillusion en finale NBA, quel est le prochain chapitre pour Victor Wembanyama et les Spurs ?",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-et-maintenant-c-est-quoi-la-suite-pour-victor-wembanyama-apres-son-immense-desillusion-en-finale_AV-202606140288.html",
+          "image": "https://images.bfmtv.com/TZV5oZY06tP5S-sTGxYBdS3aAN4=/0x33:2048x1185/800x0/images/Victor-Wembanyama-avec-l-equipe-de-France-le-19-juillet-2024-1907597.jpg"
+        },
+        {
+          "title": "Ja’Kobe Tharp : record mondial au 110m haies",
+          "summary": "Le jeune Ja’Kobe Tharp explose le record du monde du 110m haies, un nouvel extraterrestre de l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Le Stade Français en demi-finale Top 14",
+          "summary": "Le Stade Français corrige La Rochelle et se qualifie pour les demi-finales du Top 14, un exploit !",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/stade-francais-la-rochelle-les-parisiens-corrigent-les-rochelais-et-rejoignent-les-demi-finales-du-top-14_AV-202606140414.html",
+          "image": "https://images.bfmtv.com/jfxIW1pJ-drDS4CMR3UWoomxmnA=/0x212:2048x1364/800x0/images/Noah-Nene-ballon-en-main-lors-du-barrage-de-Top-14-entre-le-Stade-Francais-et-La-Rochelle-14-juin-2026-2303455.jpg"
+        }
+      ]
+    }
+  ]
+}
