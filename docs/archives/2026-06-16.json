@@ -1,0 +1,151 @@
+{
+  "ephemeride": "Saint Jean-François Régis",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques et des évolutions législatives, avec une nouvelle loi controversée en Suède et la destruction d'un monument historique à Kiev suite à une attaque russe. Pendant ce temps, des drames judiciaires continuent de capter l'attention, soulignant la complexité des affaires transfrontalières.\nSur le plan national, la France navigue entre hommages culturels, régulations médiatiques et innovations technologiques locales. Le monde du sport est particulièrement effervescent, témoignant de performances exceptionnelles mais aussi de coups de théâtre inattendus, tandis que le secteur tech observe des changements majeurs et des investissements colossaux.",
+  "running_advice": "Prépare tes baskets, champion(ne) ! La météo d'aujourd'hui est une invitation à te dépasser. Avec des températures allant de 17.7°C à 26.3°C et un ciel peu nuageux, les conditions sont quasiment parfaites pour une session de running stimulante. Pas une goutte de pluie à l'horizon, donc aucune excuse pour ne pas sortir !\nCependant, l'indice UV est à 7.7, ce qui signifie que le soleil tape fort. Pour courir en toute sécurité et profiter pleinement de l'air frais, vise les créneaux les plus doux : tôt le matin, juste après le lever du soleil vers 06h30-07h30, ou en fin de journée, après 18h00, lorsque l'intensité UV diminue. N'oublie surtout pas ta crème solaire (indice 30+ minimum), tes lunettes de soleil et une casquette. Hydrate-toi bien et va chercher cette énergie ! Chaque pas te rapproche de tes objectifs !",
+  "weather_string": "🌤️ Peu nuageux (17.7°C / 26.3°C)",
+  "weather_stats": {
+    "temp": "26.3°C",
+    "rain": "0%",
+    "uv": "7.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Suède : Retrait de titre de séjour pour dettes",
+          "summary": "Le Parlement suédois adopte une loi controversée permettant de retirer les titres de séjour pour dettes ou liens extrémistes.",
+          "url": "https://www.fdesouche.com/2026/06/15/suede-le-parlement-adopte-une-loi-de-bonne-conduite-permettant-de-retirer-le-titre-de-sejour-dimmigres-pour-dettes-impayees-travail-non-declare-ou-liens-extremistes/",
+          "image": "https://www.fdesouche.com/wp-content/uploads/2026/06/thumbs_b_c_3dccbdc2bc564be2af5e96e6ef6fece0-740x416.jpg"
+        },
+        {
+          "title": "Kiev : Monument emblématique touché par les flammes",
+          "summary": "Un site historique majeur de Kiev a été incendié après une attaque russe, symbolisant la poursuite des conflits.",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/un-monument-emblematique-de-kiev-touche-par-les-flammes-apres-une-attaque-russe_8062370.html",
+          "image": "https://www.franceinfo.fr/pictures/EfPufSHWNT1_lcdnW6P05GMbKp4/1200x675/2026/06/15/6a3051ff2ac45047583180.jpg"
+        },
+        {
+          "title": "Affaire Angela : Crainte d'enlisement judiciaire",
+          "summary": "La famille d'Angela redoute un enlisement judiciaire si l'affaire est jugée au Portugal plutôt qu'en France.",
+          "url": "https://www.franceinfo.fr/faits-divers/juge-au-portugal-plutot-qu-en-france-la-famille-d-angela-redoute-un-enlisement-judiciaire_8062343.html",
+          "image": "https://www.franceinfo.fr/pictures/HwUaIngC1RWlbPurwKhFa5uqkLw/1200x675/2026/06/15/6a304cbe9f211526661989.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Décès de Christian Bujeau, acteur de \"Kaamelott\"",
+          "summary": "L'acteur Christian Bujeau, connu pour son rôle dans \"Les Visiteurs\" et \"Kaamelott\", est décédé à 81 ans.",
+          "url": "https://www.huffingtonpost.fr/culture/article/mort-de-christian-bujeau-dentiste-des-visiteurs-et-maitre-d-armes-de-kaamelott-a-l-age-de-81-ans_268754.html",
+          "image": "https://focus.huffingtonpost.fr/2026/06/15/141/0/3325/1870/0/0/60/0/1585857_upload-1-ls3nh621tlzr-afp-20181015-chl-122658-v1-highres-lescouloirsdutempslesvisiteursii.jpg"
+        },
+        {
+          "title": "CNews sommée d'élargir ses points de vue",
+          "summary": "L'Arcom enjoint CNews d'équilibrer ses opinions, à un an de la prochaine élection présidentielle.",
+          "url": "https://www.franceinfo.fr/economie/medias/a-un-an-de-l-election-presidentielle-la-chaine-cnews-sommee-par-l-arcom-d-elargir-les-points-de-vue_8062385.html",
+          "image": "https://www.franceinfo.fr/pictures/x7xaJftDa1e0nT5tKsEqpDcsWkM/1200x675/2026/06/15/6a3056f634087257559964.jpg"
+        },
+        {
+          "title": "Leucate : Inauguration d'Eolab, innovation nautique",
+          "summary": "Un nouveau laboratoire dédié à l'innovation nautique, Eolab, a été inauguré à Leucate.",
+          "url": "https://www.lindependant.fr/2026/06/15/a-leucate-inauguration-deolab-un-labo-tourne-vers-linnovation-nautique-13420858.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/6a3054c0be30281f4b07823e/hd/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Découvrez le PC à 86 200 €",
+          "summary": "Un ordinateur d'exception, affiché à 86 200 €, révèle ses composants ultra-haut de gamme.",
+          "url": "https://www.frandroid.com/marques/asus/3142117_ce-pc-coute-86-200-e-voici-ce-quil-contient",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/pc-frandroid.jpg?resize=1600,900&key=c472bd72&watermark"
+        },
+        {
+          "title": "Chrome débranche uBlock Origin le 30 juin",
+          "summary": "Google Chrome met fin au support de l'extension uBlock Origin, une astuce très appréciée des utilisateurs.",
+          "url": "https://www.frandroid.com/marques/google/3142111_chrome-debranche-ublock-origin-le-30-juin-la-derniere-astuce-vient-de-disparaitre",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/ublock.jpeg?resize=1600,900&key=c4430a10&watermark"
+        },
+        {
+          "title": "Eutelsat signe un contrat majeur avec les Armées",
+          "summary": "Eutelsat annonce la signature du contrat de capacité CENTAURE avec le ministère des Armées.",
+          "url": "http://www.businesswire.com/news/home/20260615179590/fr/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+          "image": "https://mms.businesswire.com/media/20260615179590/fr/2831308/22/logo_eutelsat.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Gaming",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Xbox : Fermeture de 4 studios en vue",
+          "summary": "Des rumeurs persistantes annoncent que Xbox se préparerait à fermer quatre de ses studios de développement.",
+          "url": "https://www.journaldugeek.com/2026/06/16/xbox-se-preparerait-a-fermer-4-studios-tres-prochainement/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/4-studios-xbox-bientot-fermes-1280x853.jpg"
+        },
+        {
+          "title": "EA lance sa régie publicitaire en jeu",
+          "summary": "Electronic Arts développe une nouvelle régie publicitaire pour intégrer davantage de réclame dans ses jeux.",
+          "url": "https://www.journaldugeek.com/2026/06/16/ea-lance-une-regie-publicitaire-pour-mettre-encore-plus-de-reclame-dans-ses-jeux/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/ea-pub-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Lot-et-Garonne : Vol en déchetterie",
+          "summary": "Un homme a été pris en flagrant délit de vol dans une déchetterie du Lot-et-Garonne.",
+          "url": "https://www.sudouest.fr/faits-divers/en-lot-et-garonne-un-homme-pris-en-flagrant-delit-de-vol-dans-une-dechetterie-29510540.php",
+          "image": null
+        },
+        {
+          "title": "Bordeaux : Incendie ravageur, cinq évacués",
+          "summary": "Un appartement bordelais a été ravagé par un incendie, nécessitant l'évacuation de cinq personnes.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/bordeaux-un-feu-ravage-un-appartement-cinq-personnes-evacuees-29510369.php",
+          "image": null
+        },
+        {
+          "title": "Charente-Maritime : Bâtiment agricole en feu",
+          "summary": "Un important bâtiment agricole a été la proie des flammes près de Saintes, en Charente-Maritime.",
+          "url": "https://www.sudouest.fr/faits-divers/faits-divers-en-charente-maritime/charente-maritime-un-batiment-agricole-en-feu-pres-de-saintes-29510285.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wemby : Immense désillusion en finale NBA",
+          "summary": "Victor Wembanyama se confie sur son immense désillusion après la finale NBA et se projette sur l'avenir.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-et-maintenant-c-est-quoi-la-suite-pour-victor-wembanyama-apres-son-immense-desillusion-en-finale_AV-202606140288.html",
+          "image": "https://images.bfmtv.com/TZV5oZY06tP5S-sTGxYBdS3aAN4=/0x33:2048x1185/800x0/images/Victor-Wembanyama-avec-l-equipe-de-France-le-19-juillet-2024-1907597.jpg"
+        },
+        {
+          "title": "Ja’Kobe Tharp explose le record du 110m haies",
+          "summary": "Le jeune athlète Ja’Kobe Tharp a pulvérisé le record du monde du 110m haies, devenant un phénomène.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Duplantis battu : Coup de tonnerre à Stockholm",
+          "summary": "Armand Duplantis subit sa première défaite en près de trois ans, créant la surprise en Diamond League.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/coup-de-tonnerre-a-stockholm-armand-duplantis-battu-pour-la-premiere-fois-depuis-pres-de-trois-ans_AV-202606070315.html",
+          "image": "https://images.bfmtv.com/8t0eoGwiSm-Xx3cfDMemxdgRLFA=/0x41:2048x1193/800x0/images/Armand-Duplantis-2299281.jpg"
+        }
+      ]
+    }
+  ]
+}
