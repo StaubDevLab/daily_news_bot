@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Hervé",
+  "global_summary": "L'actualité de ce jour est marquée par une géopolitique tendue, entre l'ambition ukrainienne de produire des systèmes Patriot et un incident naval russe en Manche, soulignant des enjeux de sécurité et de défense à l'échelle mondiale. En parallèle, la France continue de lutter pour atteindre ses objectifs climatiques, tandis que des débats sur le droit du travail et des situations sociales locales complexes agitent le quotidien national. \nL'innovation technologique progresse, facilitant nos vies numériques et explorant de nouvelles frontières comme la réalité augmentée. Cependant, la face sombre du numérique persiste avec la désinformation lucrative. Le monde sportif nous offre des records impressionnants et des victoires insolites, mais aussi des affaires judiciaires graves rappelant l'importance de l'éthique au-delà de la performance.",
+  "running_advice": "Coach ici ! Aujourd'hui, avec un ciel dégagé et des températures allant de 16.5°C à 34.2°C, c'est une excellente journée pour chausser vos baskets, mais avec stratégie ! L'indice UV de 7.7 est très élevé, il faut donc impérativement éviter les heures les plus chaudes et ensoleillées.\nJe vous recommande de courir très tôt le matin, juste après le lever du soleil à 06:15, ou en fin de journée, entre 20:30 et 21:30, avant le coucher. N'oubliez pas votre crème solaire SPF 50+, un chapeau et des lunettes de soleil. Hydratez-vous abondamment avant, pendant et après l'effort ! Allez, on se dépasse, intelligemment !",
+  "weather_string": "☀️ Ciel dégagé (16.5°C / 34.2°C)",
+  "weather_stats": {
+    "temp": "34.2°C",
+    "rain": "0%",
+    "uv": "7.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Kyiv veut produire des Patriot pour l'Europe",
+          "summary": "L'Ukraine cherche une licence pour fabriquer des systèmes Patriot, renforçant sa défense et celle du continent.",
+          "url": "http://fr.euronews.com/my-europe/2026/06/16/kyiv-veut-obtenir-une-licence-pour-produire-des-systemes-patriot-pour-lukraine-et-leurope",
+          "image": "https://images.euronews.com/articles/stories/09/80/06/37/1440x810_cmsv2_dc469214-3751-5f41-a693-9fa0bf56d29d-9800637.jpg"
+        },
+        {
+          "title": "Tensions : un navire russe ouvre le feu en Manche",
+          "summary": "Un incident sérieux en mer ajoute à la montée des tensions géopolitiques dans la région.",
+          "url": "https://www.franceinfo.fr/monde/russie/tensions-dans-la-manche-un-navire-de-guerre-russe-ouvre-le-feu_8064503.html",
+          "image": "https://www.franceinfo.fr/pictures/Avj0ZXdWhT-znhdLW8PUyEEEn3Q/fit-in/1200x675/filters:upscale():fill(black)/2026/06/16/6a319df6353da909558640.jpg"
+        },
+        {
+          "title": "France : émissions de CO2 baissent mais insuffisant",
+          "summary": "Malgré une baisse, la France doit intensifier ses efforts pour atteindre ses objectifs climatiques.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260616-france-les-%C3%A9missions-de-gaz-%C3%A0-effet-de-serre-baissent-mais-toujours-pas-assez",
+          "image": "https://s.france24.com/media/display/9d81e772-69b1-11f1-bc7e-005056bf30b7/w:1280/p:16x9/capture-5197681806a31968b3da5b4-20599487.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Tours : la MIP devant le tribunal pour son assurance",
+          "summary": "La MIP de Tours fait face à de graves problèmes d'assurance et de menaces d'expulsion.",
+          "url": "https://www.lanouvellerepublique.fr/tours/privee-d-assurance-et-menacee-d-expulsion-la-mip-de-tours-de-retour-devant-le-tribunal-1781638955",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a31a72833651c8f498b4591"
+        },
+        {
+          "title": "Delair : le drone français qui séduit les armées",
+          "summary": "Le président de Delair explique le succès de ses drones tactiques auprès des forces armées mondiales.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-bastien-mancini-delair-delair-le-drone-qui-seduit-les-armees-16-06_VN-202606160936.html",
+          "image": "https://images.bfmtv.com/tteXu3_qdCBc1iwLKaftsoEWcDM=/0x0:1280x720/1280x0/images/Bastien-Mancini-Delair-Delair-le-drone-qui-seduit-les-armees-16-06-2304910.jpg"
+        },
+        {
+          "title": "Sénat adopte une loi controversée sur le travail",
+          "summary": "Une loi autorisant le travail des boulangers et fleuristes le 1er mai est adoptée, suscitant des débats.",
+          "url": "https://www.midilibre.fr/2026/06/16/1er-mai-le-senat-adopte-le-controverse-projet-de-loi-autorisant-le-travail-des-salaries-boulangers-et-fleuristes-vers-une-adoption-definitive-13422605.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6a31a70c05a6674ebd0490b4/hd/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Google Wallet compatible avec les tickets de métro parisien",
+          "summary": "Les usagers parisiens pourront enfin utiliser Google Wallet pour leurs titres de transport, simplifiant les déplacements.",
+          "url": "https://www.lesnumeriques.com/telephone-portable/transports-a-paris-deux-ans-apres-apple-google-wallet-va-enfin-accueillir-vos-tickets-de-metro-n257629.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/257629/dbb61f63-transports-a-paris-les-tickets-de-metro-et-le-passe-navigo-s-invitent-enfin-dans-cette-application-incontournable__800_800__619-0-2622-2003.jpg"
+        },
+        {
+          "title": "Snap lance des lunettes AR, l'après-smartphone ?",
+          "summary": "Snap dévoile ses lunettes connectées, un pas audacieux vers un avenir au-delà des smartphones traditionnels.",
+          "url": "https://www.20minutes.fr/high-tech/4229508-20260616-realite-augmentee-snap-lance-lunettes-connectees-vrai-pari-apres-smartphone",
+          "image": "https://img.20mn.fr/nAPHDfPgSwedSxBNg8s_gCk/1444x920_260414-haikou-14-avril-2026-xinhua-des-visiteurs-decouvrent-les-lunettes-ia-proposees-par-la-societe-chinoise-i-flytek-lors-de-la-sixieme-edition-de-la-china-international-consumer-products-expo-cicpe-a-haikou-dans-la-province-de-hainan-dans-le-sud-de-la-chine-le-14-avril-2026-une-large-gamme-de-produits-de-consommation-innovants-bases-sur-la-technologie-de-l-intelligence-artificielle-est-presentee-au-cicpe-en-cours-couvrant-de-nombreux-secteurs-notamment-l-interaction-intelligente-les-appareils-portables-et-les-soins-de-sante-intelligents-xinhua-gao-jing-gao-jing-chine-nouvelle-xxjp-bee000262-20260414-pepfn0a001-credit-chine-nouvelle-sipa-2604141519"
+        },
+        {
+          "title": "Renault dévoile le 4 TROOP, véhicule tactique militaire",
+          "summary": "Après les drones, Renault innove avec un nouveau véhicule robuste et polyvalent conçu pour les opérations militaires.",
+          "url": "https://www.journaldugeek.com/2026/06/17/apres-les-drones-kamikazes-renault-devoile-le-4-troop-un-vehicule-tactique-pour-larmee/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/renault-thales-4-troop-vehicule-tactique-eurosatory-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Local & Société",
+      "emoji": "🏘️",
+      "articles": [
+        {
+          "title": "Bordeaux : la colère persiste après la mort de Lyhanna",
+          "summary": "La mobilisation continue à Bordeaux pour soutenir la famille de Lyhanna et exiger plus de financement.",
+          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/mort-de-lyhanna-on-a-besoin-de-financement-on-a-besoin-de-soutien-a-bordeaux-la-colere-ne-retombe-pas-29527355.php",
+          "image": null
+        },
+        {
+          "title": "Incendie en Gironde : une maison détruite, famille relogée",
+          "summary": "Un violent incendie a ravagé une maison à Saint-Denis-de-Pile, nécessitant le relogement d'une personne.",
+          "url": "https://www.sudouest.fr/gironde/incendie-en-gironde-une-maison-detruite-par-le-feu-a-saint-denis-de-pile-une-personne-relogee-29526993.php",
+          "image": null
+        },
+        {
+          "title": "Fabrezan : une aventure familiale autour des œufs fermiers",
+          "summary": "Découvrez une entreprise locale qui met en valeur la production d'œufs fermiers de qualité à Fabrezan.",
+          "url": "https://www.lindependant.fr/2026/06/16/une-aventure-familiale-autour-des-oeufs-fermiers-a-fabrezan-13422704.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/6a31a881c30f67d797028f6c/hd/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Loisirs",
+      "emoji": "🍿",
+      "articles": [
+        {
+          "title": "James Gunn prépare une série DC, est-ce une bonne idée ?",
+          "summary": "La nouvelle série DC de James Gunn divise déjà les fans et les critiques sur son potentiel succès.",
+          "url": "https://www.journaldugeek.com/2026/06/17/james-gunn-prepare-une-nouvelle-serie-de-super-heros-dc-et-cest-une-tres-mauvaise-idee/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/gorilla-grodd-jimmy-olsen-serie-1-1280x853.jpg"
+        },
+        {
+          "title": "Jared Leto a-t-il encore ruiné un film Maîtres de l'univers ?",
+          "summary": "L'acteur Jared Leto est à nouveau sous le feu des critiques concernant sa performance dans un film très attendu.",
+          "url": "https://www.journaldugeek.com/2026/06/17/les-maitres-de-lunivers-jared-leto-a-t-il-encore-tue-un-film/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/maitres-de-lunivers-box-office-1-1280x853.jpg"
+        },
+        {
+          "title": "Désinformation : les comptes bannis gagnent toujours sur Facebook",
+          "summary": "Des comptes diffusant de la désinformation continuent de monétiser leurs contenus malgré leur exclusion de Facebook.",
+          "url": "http://fr.euronews.com/next/2026/06/16/bannis-mais-toujours-payes-comment-les-comptes-de-desinfo-gagnent-encore-sur-facebook",
+          "image": "https://images.euronews.com/articles/stories/09/80/07/60/1440x810_cmsv2_90efc323-dc94-547d-9da3-8129334e08bb-9800760.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Compétition",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Le secret des Knicks : 10 semaines sans sexe pour le titre NBA",
+          "summary": "Les Knicks ont remporté la NBA après 53 ans, grâce à une discipline stricte incluant l'abstinence sexuelle.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/pas-de-sexe-pendant-10-semaines-le-secret-du-premier-titre-nba-des-knicks-depuis-53-ans_AV-202606160473.html",
+          "image": "https://images.bfmtv.com/Do4mrS57NE-5JoTtDdX-qF5s5iE=/0x212:2048x1364/800x0/images/le-proprietaire-James-Dolan-en-bas-a-droite-avec-les-Knicks-apres-leur-titre-NBA-le-14-juin-2026-2304519.jpg"
+        },
+        {
+          "title": "Ja’Kobe Tharp pulvérise le record du monde du 110m haies",
+          "summary": "Un nouvel athlète sensationnel, Ja’Kobe Tharp, vient de marquer l'histoire avec un record mondial incroyable.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Rafa Mir (Séville) condamné pour agression sexuelle",
+          "summary": "Le footballeur Rafa Mir écope de 8 ans et demi de prison, une peine lourde qui choque le monde du sport.",
+          "url": "https://rmcsport.bfmtv.com/societe/liga-le-joueur-de-seville-rafa-mir-condamne-a-8-ans-et-demi-de-prison-pour-agression-sexuelle_AN-202606150658.html",
+          "image": "https://images.bfmtv.com/THOG1vEHE3Cl4R4ROM65rN-WKW8=/0x105:2048x1257/800x0/images/Rafa-Mir-1931073.jpg"
+        }
+      ]
+    }
+  ]
+}
