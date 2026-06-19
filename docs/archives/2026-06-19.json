@@ -1,0 +1,172 @@
+{
+  "ephemeride": "Saint Romuald",
+  "global_summary": "La scène internationale retient son souffle avec l'annonce d'un accord majeur entre les États-Unis et l'Iran, apaisant les tensions et levant le blocus des ports iraniens. Mais alors que la diplomatie progresse, la nature nous rappelle sa puissance : la France fait face à des chaleurs extrêmes et des orages destructeurs, soulevant la question de l'adaptation de nos rythmes de vie, notamment scolaires.\n\nL'innovation ne s'arrête pas, de l'intelligence artificielle qui se décline en festivals internationaux aux outils de diagnostic rapide. Le monde sportif, quant à lui, vit des moments intenses : records pulvérisés en athlétisme, upsets inattendus, mais aussi des annulations d'événements dictées par les conditions climatiques extrêmes. Un jour riche en avancées, défis environnementaux et performances humaines.",
+  "running_advice": "Attention, champion ! Aujourd'hui, les températures grimperont jusqu'à 34.2°C et l'indice UV atteindra un solide 7.65. Pour une séance de running optimale et sans risque, visez l'efficacité et la fraîcheur. Le créneau idéal se situe à l'aube, juste après le lever du soleil à 06:15, ou en fin de journée, avant le coucher à 21:52. N'oubliez pas l'essentiel : protection solaire efficace (crème, casquette, lunettes), hydratation maximale et écoute attentive de votre corps. Chaque foulée compte, faites-le intelligemment !",
+  "weather_string": "🌤️ Peu nuageux (18.8°C / 34.2°C)",
+  "weather_stats": {
+    "temp": "34.2°C",
+    "rain": "0%",
+    "uv": "7.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "US-Iran : Blocus levé, accord majeur",
+          "summary": "Un accord historique entre Washington et Téhéran voit l'armée américaine lever le blocus des ports iraniens, apaisant les tensions.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260618-accord-%C3%A9tats-unis-iran-arm%C3%A9e-am%C3%A9ricaine-dit-avoir-lev%C3%A9-blocus-ports-iraniens",
+          "image": "https://s.france24.com/media/display/a5e11d3e-6b4b-11f1-b892-005056bfb2b6/w:1280/p:16x9/000-B2984AP.jpg"
+        },
+        {
+          "title": "Chaleur : Faut-il adapter nos rythmes scolaires ?",
+          "summary": "Face aux canicules, la question des vacances plus longues ou d'une rentrée anticipée pour les écoles est sur la table.",
+          "url": "https://www.france24.com/fr/france/20260618-vacances-plus-longues-%C3%A9cole-plus-t%C3%B4t-face-aux-fortes-chaleurs-faut-il-adapter-les-rythmes-scolaires",
+          "image": "https://s.france24.com/media/display/9af813c0-6b35-11f1-b676-005056a90284/w:1280/p:16x9/000-64DV6CQ.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Éthylowheel : test alcoolémie express au doigt",
+          "summary": "Une start-up française révolutionne le test d'alcoolémie avec un appareil rapide par simple contact du doigt.",
+          "url": "https://www.clubic.com/actualite-617662-ethylowheel-la-start-up-francaise-qui-propose-de-tester-son-alcoolemie-en-20-secondes-par-simple-contact-du-doigt.html",
+          "image": "https://pic.clubic.com/v1/images/2424451/raw"
+        },
+        {
+          "title": "Orages apocalyptiques : Nord dévasté par grêlons",
+          "summary": "Des orages violents, avec des grêlons \"comme des balles de golf\", ont causé d'importants dégâts dans le Nord.",
+          "url": "https://actu.fr/societe/des-grelons-comme-des-balles-de-golf-apocalyptique-les-orages-font-des-degats-dans-le-nord-ce-jeudi-soir_64423756.html",
+          "image": "https://static.actu.fr/uploads/2026/06/a19de71a443a6b59de71a443a799dev.jpg"
+        },
+        {
+          "title": "Enfants abandonnés : pas de transfert pour le compagnon",
+          "summary": "Au Portugal, le compagnon de la mère soupçonnée d'abandon d'enfants ne sera pas transféré en France immédiatement.",
+          "url": "https://www.20minutes.fr/justice/4229935-20260618-enfants-abandonnes-portugal-encore-transfert-france-compagnon-mere",
+          "image": "https://img.20mn.fr/eHf2Le3XSvqcjFR-RybYVyk/1444x920_dossiers-la-francaise-marine-r-en-haut-a-droite-et-le-francais-marc-b-en-bas-a-droite-sont-escortes-depuis-le-palais-de-justice-de-setubal-ou-une-francaise-et-son-partenaire-soupconnes-d-avoir-abandonne-deux-enfants-comparaissaient-a-setubal-au-portugal-le-23-mai-2026-les-autorites-portugaises-ont-accepte-d-executer-le-mandat-d-arret-emis-par-la-france-contre-le-partenaire-d-une-francaise-soupconnee-d-avoir-abandonne-ses-enfants-au-portugal-le-mois-dernier-mais-seulement-lorsque-la-justice-du-pays-iberique-n-aura-plus-interet-a-le-maintenir-en-detention-a-annonce-le-tribunal-competent-le-18-juin-2026-photo-de-filipe-amorim-afp"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "World AI Film Festival Africa lancé",
+          "summary": "Le groupe Kaydan et EuropIA s'associent pour lancer un festival du film dédié à l'IA à Abidjan début 2027.",
+          "url": "https://cio-mag.com/vivatech-2026-le-groupe-kaydan-signe-une-franchise-exclusive-avec-linstitut-europia-pour-lancer-le-world-ai-film-festival-africa-a-abidjan-debut-2027/",
+          "image": "https://cio-mag.com/wp-content/uploads/2026/06/World-AI-Film-Festival-Africa2.jpg"
+        },
+        {
+          "title": "Améliorer le son des voix pour les matchs tardifs",
+          "summary": "Astuce tech pour optimiser le son des commentaires sportifs sans réveiller la maison lors des matchs nocturnes.",
+          "url": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-comment-doper-le-son-des-voix-et-des-commentaires-sans-reveiller-toutela-maison-lors-des-matchs-tardifs-496812.htm",
+          "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/gemini_generated_image_14.jpg"
+        },
+        {
+          "title": "Streaming Canada-Qatar : où voir le match ?",
+          "summary": "Découvrez les options pour regarder gratuitement le match Canada-Qatar en direct et en HD.",
+          "url": "https://www.01net.com/bons-plans/streaming-canada-qatar-ou-regarder-le-match-gratuit-en-direct-hd.html",
+          "image": "https://www.01net.com/app/uploads/2026/06/streaming-gratuit-canada-qatar-coupe-du-monde-2026.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Moderna : vaccin antigrippal ARNm approuvé",
+          "summary": "Moderna reçoit un avis favorable de la FDA pour son vaccin antigrippal à ARN messager, une avancée majeure.",
+          "url": "https://www.zonebourse.com/actualite-bourse/moderna-obtient-un-avis-favorable-de-la-fda-pour-son-vaccin-antigrippal-a-arn-messager-ce7f5cd2d989fe20",
+          "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2025-05-01T103749Z_2_LYNXMPEL401KB_RTROPTP_4_MODERNA-RESULTS.JPG"
+        },
+        {
+          "title": "Sodexo : 35 ans contre le gaspillage au Tour",
+          "summary": "Depuis 35 ans, Sodexo lutte activement contre le gaspillage alimentaire sur le Tour de France.",
+          "url": "https://www.ladepeche.fr/2026/06/18/sur-le-tour-sodexo-sengage-depuis-trente-cinq-ans-contre-le-gaspillage-alimentaire-13426316.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a340f69dcbd9a6f3f02daea/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Caen : travaux, commerce et 40 ans de liaisons",
+          "summary": "Actualités de Caen : travaux sur le viaduc, assises du commerce et célébration des 40 ans de la liaison Portsmouth.",
+          "url": "https://actu.fr/normandie/caen_14118/travaux-sur-le-viaduc-de-calix-assises-du-commerce-et-40-ans-de-caen-portsmouth-les-infos-du-jeudi-18-juin-a-caen_64423193.html",
+          "image": "https://static.actu.fr/uploads/2026/06/daf953d0ad656fef953d0ad65c90a5v-1.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Gironde : ado de 15 ans héliportée urgence absolue",
+          "summary": "Une adolescente a été héliportée en urgence absolue à l'hôpital après un choc violent avec une voiture en Gironde.",
+          "url": "https://www.sudouest.fr/gironde/reignac/accident-en-gironde-une-adolescente-de-15-ans-heliportee-en-urgence-absolue-a-l-hopital-pellegrin-apres-un-choc-avec-une-voiture-29561220.php"
+        },
+        {
+          "title": "Lacanau : malaise grave sur la plage",
+          "summary": "Une femme de 27 ans est en urgence absolue après un malaise dans une zone de baignade surveillée à Lacanau.",
+          "url": "https://www.sudouest.fr/gironde/lacanau/lacanau-une-femme-de-27-ans-en-urgence-absolue-apres-un-malaise-dans-une-zone-de-baignade-de-la-plage-sud-29561266.php"
+        },
+        {
+          "title": "Dordogne : appel à solidarité après incendie",
+          "summary": "La Coordination rurale lance un appel après qu'un couple d'agriculteurs a été victime d'un incendie en Dordogne.",
+          "url": "https://www.sudouest.fr/dordogne/saint-martial-d-artenset/dordogne-la-coordination-rurale-lance-un-appel-a-la-solidarite-apres-l-incendie-dont-a-ete-victime-un-couple-d-agriculteurs-29549355.php"
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🤓",
+      "articles": [
+        {
+          "title": "Carte bancaire périmée : ne la découpez pas",
+          "summary": "Attention : découper votre vieille carte bancaire périmée peut s'avérer dangereux. Découvrez pourquoi.",
+          "url": "https://www.journaldugeek.com/2026/06/19/ne-decoupez-jamais-votre-vieille-carte-bancaire-perimee-cest-dangereux/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/carte-bleu-ciseaux-1280x853.jpg"
+        },
+        {
+          "title": "Linky : les révélations surprenantes de la Cour des Comptes",
+          "summary": "La Cour des Comptes a fait des découvertes inattendues concernant le compteur Linky, qui pourraient vous étonner.",
+          "url": "https://www.journaldugeek.com/2026/06/19/ce-que-la-cour-des-comptes-vient-de-decouvrir-sur-linky-va-vous-etonner/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/02/Linky-1280x853.jpg"
+        },
+        {
+          "title": "ChatGPT peut penser à tout, à une condition",
+          "summary": "Épuisé de tout gérer ? ChatGPT propose de vous soulager, mais une condition essentielle est à respecter.",
+          "url": "https://www.journaldugeek.com/2026/06/19/penser-a-tout-cest-epuisant-chatgpt-peut-desormais-le-faire-a-votre-place-mais-a-une-condition/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/DSC04896-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Ja’Kobe Tharp explose le record du 110m haies",
+          "summary": "Le jeune Ja’Kobe Tharp s'impose comme un \"extraterrestre\" en pulvérisant le record du monde du 110m haies.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Coup de tonnerre : Duplantis battu après 3 ans",
+          "summary": "Surprise à Stockholm : Armand Duplantis subit sa première défaite en près de trois ans, un événement marquant.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/coup-de-tonnerre-a-stockholm-armand-duplantis-battue-pour-la-premiere-fois-depuis-pres-de-trois-ans_AV-202606070315.html",
+          "image": "https://images.bfmtv.com/8t0eoGwiSm-Xx3cfDMemxdgRLFA=/0x41:2048x1193/800x0/images/Armand-Duplantis-2299281.jpg"
+        },
+        {
+          "title": "Canicule : annulations d'événements sportifs à Paris",
+          "summary": "La préfecture de Paris recommande l'annulation des événements sportifs en plein air face à la canicule intense.",
+          "url": "https://rmcsport.bfmtv.com/societe/canicule-la-prefecture-recommande-l-annulation-des-evenements-sportifs-en-plein-air-a-paris-et-petite-couronne_AD-202606181026.html",
+          "image": "https://images.bfmtv.com/UroGXia1aEY5Wn32NTkzInrx70w=/0x0:1920x1080/800x0/images/Sport-Lyon-canicule-1693104.jpg"
+        }
+      ]
+    }
+  ]
+}
