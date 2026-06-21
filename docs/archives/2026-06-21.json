@@ -1,0 +1,169 @@
+{
+  "ephemeride": "Solstice d'été",
+  "global_summary": "Aujourd'hui, le monde navigue entre tensions géopolitiques avec les menaces de Donald Trump sur le détroit d'Ormuz et la tragique mort d'un journaliste à Gaza. En France, la canicule est omniprésente, entraînant l'annulation d'événements, des investissements en climatisation pour les écoles et malheureusement, une série de drames liés aux noyades, soulignant les défis de l'été.\nCôté sports, les records sont à l'honneur en athlétisme, tandis que le rugby français prépare sa finale et que les Knicks de la NBA font parler d'eux, mêlant sport et politique. L'innovation continue d'émerger, des percées en physique quantique aux inventions concrètes pour l'environnement, prouvant que, malgré les obstacles, l'ingéniosité humaine persiste.",
+  "running_advice": "Alors, champion(ne), prêt(e) à relever le défi du jour ? Avec des températures pouvant atteindre les 39.3°C et un indice UV à 7.65, il est crucial d'être stratégique pour votre séance. Oubliez la course en pleine journée, c'est un piège pour votre performance et votre santé ! Le ciel \"peu nuageux\" n'offre pas de répit face au soleil intense.\nVotre fenêtre de tir idéale ? Le lever du soleil à 06:15 ! Visez une sortie dès 06h30 ou 07h00 grand maximum, quand l'air est encore frais. Sinon, attendez le crépuscule, vers 20h30-21h00, pour profiter de la fraîcheur nocturne. N'oubliez pas une hydratation maximale, des vêtements légers et, surtout, une protection solaire efficace (crème, casquette) pour chaque sortie. Écoutez votre corps : la performance, c'est aussi savoir s'adapter aux conditions ! Prêt à transpirer intelligemment ?",
+  "weather_string": "🌤️ Peu nuageux (21.4°C / 39.3°C)",
+  "weather_stats": {
+    "temp": "39.3°C",
+    "rain": "0%",
+    "uv": "7.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump menace un péage dans le détroit d'Ormuz",
+          "summary": "Donald Trump menace d'un péage américain si les négociations avec l'Iran échouent, intensifiant les tensions régionales.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-donald-trump-menace-d-imposer-un-peage-americain-dans-le-detroit-d-ormuz-en-cas-d-echec-des-negociations-avec-l-iran_VN-202606200360.html",
+          "image": "https://images.bfmtv.com/s4_AYlp-_L5Z5-ozm4Z8dbtSdTs=/0x0:1280x720/1280x0/images/Donald-Trump-menace-d-imposer-un-peage-americain-dans-le-detroit-d-Ormuz-en-cas-d-echec-des-negociations-avec-l-Iran-2307349.jpg"
+        },
+        {
+          "title": "Journaliste d'Al Jazeera tué à Gaza",
+          "summary": "Un journaliste d'Al Jazeera a été tragiquement tué lors d'un bombardement israélien à Gaza, ravivant l'inquiétude internationale.",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/un-journaliste-d-al-jazeera-tue-dans-un-bombardement-israelien-a-gaza_8071928.html",
+          "image": "https://www.franceinfo.fr/pictures/PYEKp5Ix_Edwo90nzintlBe3G-Q/1200x675/2026/06/20/6a36e38493101624627939.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Chaleur: annulation d'un bivouac à Sceaux",
+          "summary": "Les Grandes Heures de Sceaux annulent un bivouac à cause des fortes chaleurs, soulignant l'impact de la canicule.",
+          "url": "https://www.sortiraparis.com/scenes/spectacle/articles/281562-grandes-heures-de-sceaux-2026-le-bivouac-annule-pour-fortes-chaleurs",
+          "image": "https://cdn.sortiraparis.com/images/80/102463/905178-le-gue-l-installation-ephemere-du-domaine-de-sceaux-qui-fait-marcher-sur-l-eau-chateau-de-sceaux.jpg"
+        },
+        {
+          "title": "Anti-moustiques: conseils pour l'été",
+          "summary": "Face à l'été et ses désagréments, Paris Match propose des solutions pour un été sans piqûres.",
+          "url": "https://www.parismatch.com/Actu/Sante/anti-moustiques-nos-solutions-pour-un-ete-sans-piqure-271234",
+          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/06/20/21/gettyimages-541048906.jpg?VersionId=Fj.NxD2VpKbmI9xNOnMc3F7hDoeQwYVQ"
+        },
+        {
+          "title": "Fête Musique 2026: transports parisiens",
+          "summary": "La RATP détaille les services métro et RER pour la Fête de la Musique 2026 à Paris et en Île-de-France.",
+          "url": "https://www.journaldugeek.com/2026/06/20/fete-de-la-musique-2026-que-prevoit-la-ratp-pour-les-metros-et-rer-a-paris-et-en-ile-de-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/fete-de-la-musique-2026-ratp-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Climatisation en écoles parisiennes",
+          "summary": "Paris déploie 1200 climatiseurs dans ses écoles pour lutter contre la canicule et les suspensions de cours.",
+          "url": "https://www.capital.fr/economie-politique/une-climatisation-dans-chaque-ecole-a-paris-emmanuel-gregoire-annonce-1-200-climatiseurs-face-a-la-canicule-et-a-la-suspension-des-cours-1527801",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~06~20~869f9db9-74c5-4d83-b572-9f475995a0d4.jpeg/1200x900/quality/80/une-climatisation-dans-chaque-ecole-a-paris-emmanuel-gregoire-annonce-1-200-climatiseurs-face-a-la-canicule-et-a-la-suspension-des-cours.jpg"
+        },
+        {
+          "title": "Microsoft pousse à l'abonnement 365",
+          "summary": "Microsoft met fin à Office 2021; les utilisateurs s'organisent pour migrer vers des alternatives gratuites.",
+          "url": "https://office.developpez.com/actu/384355/Microsoft-va-tuer-Office-2021-en-octobre-pour-pousser-les-utilisateurs-vers-Microsoft-365-Des-utilisateurs-organisent-la-riposte-en-appelant-a-migrer-sur-LibreOffice-ou-OpenOffice-pour-echapper-aux-abonnements/",
+          "image": "https://www.developpez.com/images/logos/office.png"
+        },
+        {
+          "title": "Maëva, 26 ans, restaure des 2CV",
+          "summary": "À 26 ans, Maëva défie les stéréotypes en restaurant des 2CV dans son garage, une passion mécanique unique.",
+          "url": "https://actu.fr/grand-est/hagenthal-le-haut_68121/quand-on-me-regarde-on-ne-le-devine-pas-a-26-ans-maeva-restaure-des-2cv-dans-son-garage_64412446.html",
+          "image": "https://static.actu.fr/uploads/2026/06/nl-maeva-youtubeuse-mecanique.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Souveraineté énergétique française boostée",
+          "summary": "La France vise 440 MW de puissance d'ici 2035 pour renforcer sa souveraineté énergétique.",
+          "url": "https://www.midilibre.fr/2026/06/20/la-france-veut-booster-sa-souverainete-energetique-avec-plus-440-megawatts-de-puissance-dici-2035-13422525.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6a31812334f9b3cd87025403/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Nouveau restaurant italien au Grand-Lemps",
+          "summary": "Le Grand-Lemps accueille un nouveau restaurant italien, dynamisant l'économie locale.",
+          "url": "https://www.ledauphine.com/economie/2026/06/20/un-nouveau-restaurant-italien-debarque-dans-la-commune",
+          "image": "https://cdn-s-www.ledauphine.com/images/356A0156-0065-4CB4-B8CB-BF8BBCA82EF5/NW_listB/un-nouveau-restaurant-italien-debarque-dans-la-commune-1781972624.jpg"
+        },
+        {
+          "title": "Résultats Loto du 20 juin 2026",
+          "summary": "Découvrez les résultats du Loto du samedi 20 juin 2026, l'espoir d'un gain à portée de main.",
+          "url": "https://www.rtl.fr/actu/debats-societe/loto-les-resultats-du-samedi-20-juin-2026-7900648178",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1633678-une-grille-de-loto-illustration.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Adolescent noyé dans la Dordogne",
+          "summary": "Un jeune homme de 17 ans s'est tragiquement noyé dans la Dordogne, un nouveau drame estival.",
+          "url": "https://www.sudouest.fr/faits-divers/un-homme-de-17-ans-se-noie-dans-la-dordogne-29589471.php",
+          "image": null
+        },
+        {
+          "title": "Deux ados noyés dans le Doubs",
+          "summary": "Deux adolescents se sont noyés dans le Doubs après une baignade interdite, un rappel tragique des dangers.",
+          "url": "https://www.sudouest.fr/justice/deux-adolescents-se-noient-dans-le-doubs-apres-une-baignade-interdite-29589415.php",
+          "image": null
+        },
+        {
+          "title": "Bébé sauvé de la noyade en Gironde",
+          "summary": "En Gironde, un bébé a failli se noyer dans une piscine mais ses proches ont réussi à le réanimer.",
+          "url": "https://www.sudouest.fr/faits-divers/gironde-debut-de-noyade-d-un-bebe-dans-une-piscine-29584048.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Innovation & Science",
+      "emoji": "🧪",
+      "articles": [
+        {
+          "title": "Photons en 37 dimensions quantiques",
+          "summary": "Des photons en 37 dimensions révèlent l'étrangeté fascinante de la physique quantique, repoussant nos limites de compréhension.",
+          "url": "https://www.journaldugeek.com/2026/06/20/des-photons-en-37-dimensions-montrent-letrangete-de-la-physique-quantique/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/04/photon-quantique-1403x935.jpg"
+        },
+        {
+          "title": "Filtre anti-microplastiques inventé",
+          "summary": "Une lycéenne innovante a créé un filtre capable d'éliminer les microplastiques de l'eau, une avancée majeure.",
+          "url": "https://www.journaldugeek.com/2026/06/20/une-lyceenne-invente-un-filtre-capable-deliminer-les-microplastiques-de-leau/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/plastique-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Record mondial 110m haies explosé",
+          "summary": "Ja’Kobe Tharp, le nouvel extraterrestre de l'athlétisme, pulvérise le record du monde du 110m haies.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Knicks invités à la Maison Blanche",
+          "summary": "Les New York Knicks sont la première équipe NBA à accepter l'invitation de Trump à la Maison Blanche.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-new-york-knicks-deviennent-la-premiere-equipe-a-accepter-l-invitation-de-trump-a-la-maison-blanche_AV-202606190507.html",
+          "image": "https://images.bfmtv.com/Do4mrS57NE-5JoTtDdX-qF5s5iE=/0x212:2048x1364/800x0/images/le-proprietaire-James-Dolan-en-bas-a-droite-avec-les-Knicks-apres-leur-titre-NBA-le-14-juin-2026-2304519.jpg"
+        },
+        {
+          "title": "Montpellier en finale du Top 14",
+          "summary": "Montpellier bat le Stade Français (25-15) et se projette vers une finale épique contre Toulouse.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/montpellier-25-15-stade-francais-si-toulouse-n-est-pas-a-100-caudullo-lance-la-finale_VN-202606200400.html",
+          "image": "https://images.bfmtv.com/kMlpRoxmzrRz0AQhKNklqjSEq4o=/0x0:1280x720/800x0/images/Montpellier-25-15-Stade-Francais-Si-Toulouse-n-est-pas-a-100-Caudullo-lance-la-finale-2307383.jpg"
+        }
+      ]
+    }
+  ]
+}
