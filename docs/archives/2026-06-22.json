@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Saint Alban",
+  "global_summary": "L'actualité mondiale est marquée par une recrudescence des tensions géopolitiques, notamment en Crimée avec des attaques de drones, et au Moyen-Orient où les pourparlers Iran-États-Unis sont mis à rude épreuve par des échanges vifs. Cette période d'incertitude est cependant contrebalancée par des éclats de génie et de performance individuels. \n\nSur le plan sportif, des légendes comme Serena Williams se préparent pour Wimbledon tandis que de nouveaux talents et des records mondiaux bousculent l'athlétisme. Le monde de la tech n'est pas en reste, avec l'IA transformant la logistique et des révélations sur la perturbation GPS. Enfin, des figures économiques affirment leur leadership, offrant un panorama entre défis internationaux et dynamisme local.",
+  "running_advice": "Attention, champion(ne) ! Avec des températures allant de 23.8°C à un pic de 41.4°C et un indice UV très élevé (7.65), cette journée s'annonce extrême pour la course. La canicule est une adversaire redoutable qu'il faut prendre au sérieux pour ne pas compromettre votre santé et vos performances.\n\nSi l'envie de courir est trop forte, visez impérativement l'aube, juste après le lever du soleil à 06:16. C'est votre fenêtre d'opportunité la plus fraîche et la moins risquée. Sinon, attendez la fin de soirée, bien après le coucher du soleil à 21:53, quand la température commence à descendre. Dans tous les cas, hydratez-vous abondamment avant, pendant et après. Protection solaire maximale et casquette sont vos meilleurs alliés, même aux heures \"douces\". Écoutez votre corps, la prudence est de mise pour garder la forme sur le long terme !",
+  "weather_string": "☀️ Ciel dégagé (23.8°C / 41.4°C)",
+  "weather_stats": {
+    "temp": "41.4°C",
+    "rain": "0%",
+    "uv": "7.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Drones en Crimée: tensions accrues",
+          "summary": "De nouvelles attaques de drones secouent la Crimée annexée, intensifiant les tensions régionales.",
+          "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/06/21/attaques-de-drones-en-crimee-annexee",
+          "image": "http://cdn-files.prsmedia.fr/files/LPR/fr/images/LPR_placeholder.png"
+        },
+        {
+          "title": "Iran: Discussions tendues avec Trump",
+          "summary": "La délégation iranienne a quitté les pourparlers suite à un message jugé \"insultant\" de Donald Trump.",
+          "url": "https://www.huffingtonpost.fr/international/article/la-delegation-de-l-iran-a-quitte-des-discussions-apres-un-message-insultant-de-donald-trump_274397.html",
+          "image": "https://focus.huffingtonpost.fr/2026/06/21/0/0/4347/2445/0/0/60/0/f0866f8_upload-1-kjg4uorihfty-afp-20260621-b7rh7ta-v3-highres-topshotswitzerlandusirandiplomacywar.jpg"
+        },
+        {
+          "title": "Iran-USA: Pourparlers Suisse, engagement maintenu",
+          "summary": "Malgré les tensions, la délégation iranienne confirme son engagement dans les discussions avec les États-Unis.",
+          "url": "https://www.bfmtv.com/international/moyen-orient/iran/video-pourparlers-en-suisse-la-delegation-iranienne-reste-engagee-dans-les-discussions-avec-les-etats-unis_VN-202606210385.html",
+          "image": "https://images.bfmtv.com/tn7b4UYjInmCWV4nwSTnB_dzD5Q=/0x0:1280x720/1280x0/images/Pourparlers-en-Suisse-la-delegation-iranienne-reste-engagee-dans-les-discussions-avec-les-Etats-Unis-2307636.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Serena Williams, 44 ans, revient à Wimbledon",
+          "summary": "À 44 ans, la légende Serena Williams fera son grand retour en simple à Wimbledon, défiant l'âge.",
+          "url": "https://www.lefigaro.fr/sports/tennis/wimbledon/tennis-a-44-ans-serena-williams-prendra-part-a-wimbledon-en-simple-20260621",
+          "image": "https://i.f1g.fr/media/cms/3000x1936_crop/2026/06/21/7950ed6a9710a20ac93e898d5a23c2621680f0124771545e17a3d8c55bbbc126.jpg"
+        },
+        {
+          "title": "Manon Herbulot: Championne du monde junior",
+          "summary": "La Sedanaise Manon Herbulot s'illustre en devenant championne du monde junior par équipes.",
+          "url": "http://www.lardennais.fr/id813197/article/2026-06-21/la-sedanaise-manon-herbulot-championne-du-monde-junior-par-equipes",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/06/21/node_813197/15461636/public/2026/06/21/86915690.jpeg?itok=-3O1BVAO1782071501"
+        },
+        {
+          "title": "Fête de la musique: Charleville en fête",
+          "summary": "Trois places, trois ambiances : Charleville-Mézières célèbre la Fête de la musique avec succès.",
+          "url": "http://www.lardennais.fr/id813196/article/2026-06-21/photos-fete-de-la-musique-2026-charleville-trois-places-trois-ambiances",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/06/21/node_813196/15461631/public/2026/06/21/86922728.jpeg?itok=W9c0W3El1782071407"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Mediaco Vrac: IA pour la douane",
+          "summary": "Le logisticien Mediaco Vrac modernise ses opérations douanières grâce à l'intelligence artificielle.",
+          "url": "https://www.larevuedudigital.com/le-logisticien-mediaco-vrac-accelere-sa-transformation-douaniere-via-lia-operationnelle/",
+          "image": "https://www.larevuedudigital.com/wp-content/uploads/2026/06/Medicao-Vrac-1-BF2-.jpg"
+        },
+        {
+          "title": "TV Hisense: Optimisez vos matchs !",
+          "summary": "Guide pour sublimer l'image des matchs sur votre téléviseur Hisense : réglez votre écran pour l'action.",
+          "url": "https://www.zdnet.fr/pratique/coupe-du-monde-2026-vous-possedez-un-televiseur-hisense-voici-comment-regler-votre-ecran-pour-sublimer-l-image-des-matchs-496818.htm",
+          "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/06/gemini_generated_image_11.jpg"
+        },
+        {
+          "title": "Satellites russes perturbent le GPS",
+          "summary": "Des satellites russes sont accusés de brouiller les signaux GPS en Europe depuis des années.",
+          "url": "https://www.journaldugeek.com/2026/06/22/des-satellites-russes-perturbent-le-gps-en-europe-depuis-des-annees/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/08/nasa-satellites-espace-1403x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Ryanair: O'Leary reste PDG jusqu'en 2032",
+          "summary": "Michael O’Leary prolonge son mandat chez Ryanair jusqu'en 2032, assurant la continuité du leadership.",
+          "url": "https://www.agefi.fr/news/entreprises/michael-oleary-restera-aux-commandes-de-ryanair-jusquen-2032",
+          "image": "https://beymedias.brightspotcdn.com/75/b2/e63a3b0d4125abd0358c33681e6c/ryanair-image-par-tom-de-pixabay.jpg"
+        },
+        {
+          "title": "Ébénisterie Avignon: créations 2026 dévoilées",
+          "summary": "L'École supérieure d'ébénisterie d'Avignon présente les œuvres innovantes de sa nouvelle promotion.",
+          "url": "https://www.ledauphine.com/economie/2026/06/21/l-ecole-superieure-d-ebenisterie-d-avignon-devoile-les-creations-de-sa-promotion-2025-2026",
+          "image": "https://cdn-s-www.ledauphine.com/images/8B3CC054-85B7-48BD-832D-105345783AE0/NW_listB/l-ecole-superieure-d-ebenisterie-d-avignon-devoile-les-creations-de-sa-promotion-2025-2026-1782070450.jpg"
+        },
+        {
+          "title": "Roi Charles III: Déclaration d'impôts publique",
+          "summary": "Le Roi Charles III publiera sa déclaration d'impôts au nom de la transparence et de la modernité.",
+          "url": "https://www.capital.fr/economie-politique/au-nom-de-la-transparence-le-roi-charles-iii-va-rendre-publique-sa-declaration-d-impots-1527814",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~06~21~8152c5e0-5b4d-47b0-9acc-40e1099c81e8.jpg/1200x900/focus-point/887%2C625/au-nom-de-la-transparence-le-roi-charles-iii-va-rendre-publique-sa-declaration-d-impots.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Incendie garage Dordogne: dégâts limités",
+          "summary": "Un garage automobile en Nord Dordogne a subi un incendie, rapidement maîtrisé par les pompiers.",
+          "url": "https://www.sudouest.fr/dordogne/saint-front-la-riviere/un-garage-automobile-du-nord-dordogne-victime-d-un-incendie-les-degats-limites-grace-a-l-intervention-des-sapeurs-pompiers-29602919.php",
+          "image": ""
+        },
+        {
+          "title": "Rodez: Enquête propos racistes discothèque",
+          "summary": "Une enquête est ouverte à Rodez après des propos racistes tenus par des jeunes en discothèque.",
+          "url": "https://www.sudouest.fr/societe/racisme/une-enquete-ouverte-apres-des-propos-racistes-tenus-par-un-groupe-de-jeunes-dans-une-discotheque-a-rodez-29602828.php",
+          "image": ""
+        },
+        {
+          "title": "Périgueux: Intoxication monoxyde de carbone",
+          "summary": "Deux personnes transportées à Périgueux suite à une suspicion d'intoxication au monoxyde de carbone.",
+          "url": "https://www.sudouest.fr/dordogne/perigueux/a-perigueux-deux-personnes-transportees-par-les-pompiers-en-raison-d-une-suspicion-d-intoxication-au-monoxyde-de-carbone-29602863.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Claude Guillemot, père d'Ubisoft, décédé",
+          "summary": "Claude Guillemot, co-fondateur d'Ubisoft, est décédé dans un accident, laissant le monde du jeu endeuillé.",
+          "url": "https://www.journaldugeek.com/2026/06/22/claude-guillemot-lun-des-peres-dubisoft-est-decede-dans-un-accident/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/01/Ubisoft-jeux-1280x853.jpg"
+        },
+        {
+          "title": "Resonance: A Plague Tale Legacy, infos !",
+          "summary": "Toutes les informations connues à ce jour sur le très attendu jeu \"Resonance: A Plague Tale Legacy\".",
+          "url": "https://www.journaldugeek.com/2026/06/22/resonance-a-plague-tale-legacy-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-lieux-personnages/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/resonance-plague-tale-legacy-tout-savoir-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Ja’Kobe Tharp: Nouveau record 110m haies",
+          "summary": "L'athlète Ja’Kobe Tharp explose le record du monde du 110m haies, une performance historique.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Duplantis battu: un coup de tonnerre",
+          "summary": "Incroyable à Stockholm : Armand Duplantis subit sa première défaite en près de trois ans.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/coup-de-tonnerre-a-stockholm-armand-duplantis-battu-pour-la-premiere-fois-depuis-pres-de-trois-ans_AV-202606070315.html",
+          "image": "https://images.bfmtv.com/8t0eoGwiSm-Xx3cfDMemxdgRLFA=/0x41:2048x1193/800x0/images/Armand-Duplantis-2299281.jpg"
+        },
+        {
+          "title": "Wembanyama: Comprendre son attitude finale",
+          "summary": "Dadiet défend l'attitude de Victor Wembanyama après les Finales NBA : être mauvais perdant paie.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/etre-un-bon-perdant-ne-rapporte-pas-grand-chose-dadiet-comprend-l-attitude-de-wembanyama-a-l-issue-des-finales-nba_AV-202606210297.html",
+          "image": "https://images.bfmtv.com/9l8T9q-N1lePM9Cjb8rkBUvS7iI=/0x218:1632x1136/800x0/images/Pacome-Dadiet-en-train-de-celebrer-le-titre-NBA-des-Knicks-dans-les-rues-de-New-York-le-18-juin-2026-2307552.jpg"
+        }
+      ]
+    }
+  ]
+}
