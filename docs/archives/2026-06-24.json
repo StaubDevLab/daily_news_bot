@@ -1,0 +1,124 @@
+{
+  "ephemeride": "Saint Jean-Baptiste",
+  "global_summary": "L'actualité de ce jour est marquée par un mélange d'exploits et de défis, à l'échelle mondiale comme locale. En RDC, la gastronomie congolaise cherche ses lettres de noblesse tandis qu'Israël continue d'étendre son contrôle sur Gaza, et la France rend un hommage national à Marc Bloch au Panthéon. \nSur le plan technologique, la Chine reprend la tête avec le supercalculateur le plus puissant du monde, tandis que le monde des affaires voit Walmart acquérir une start-up française, soulignant un dynamisme entrepreneurial. Les préoccupations climatiques se manifestent par des feux de forêt en Lot-et-Garonne et des alertes canicule qui impactent les événements sportifs.",
+  "running_advice": "Attention, champion ! Avec des températures allant de 25.7°C à 42°C et un indice UV de 7.7 sous un ciel peu nuageux, cette journée demande une stratégie intelligente pour ton running. Courir en pleine chaleur est risqué, alors la fenêtre idéale est courte mais intense : lève-toi avec le soleil ou attends son coucher. Je te conseille VIVEMENT de te lancer entre 06h16 et 07h30 maximum, ou alors d'attendre la toute fin de journée, après 20h30. Hydrate-toi massivement, porte des vêtements légers et n'oublie jamais ta protection solaire SPF 50+, casquette et lunettes, l'indice UV est très élevé ! Écoute ton corps, chaque foulée compte, mais ta santé avant tout !",
+  "weather_string": "🌤️ Peu nuageux (25.7°C / 42°C)",
+  "weather_stats": {
+    "temp": "42°C",
+    "rain": "5%",
+    "uv": "7.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Cuisine congolaise : vers la gastronomie mondiale",
+          "summary": "Des chefs en RDC ambitionnent d'élever leur cuisine traditionnelle au rang de la haute gastronomie internationale.",
+          "url": "https://www.franceguyane.fr/actualite/international/en-rdc-des-chefs-veulent-hisser-la-cuisine-congolaise-au-rang-de-gastronomie-1083703.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/6a3ae826e9316e5c960eb010/width_1000/image.jpg"
+        },
+        {
+          "title": "Gaza : Israël renforce son contrôle",
+          "summary": "Une analyse détaille la stratégie d'Israël pour étendre son influence et son contrôle sur la bande de Gaza.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/comment-israel-etend-il-son-controle-sur-gaza_8076437.html",
+          "image": "https://www.franceinfo.fr/pictures/Z7PuyWVSHnycMKtc5sr8yDOQtY0/1200x675/2026/06/23/6a3ae649375c1946322546.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Marc Bloch entre au Panthéon",
+          "summary": "La France rend hommage à l'historien résistant Marc Bloch lors d'une cérémonie officielle de panthéonisation.",
+          "url": "https://www.france24.com/fr/france/20260623-marc-bloch-pantheon-macron-ceremonie-direct",
+          "image": "https://s.france24.com/media/display/2f41e118-6f42-11f1-b569-005056bfb2b6/w:1280/p:16x9/2026-06-23T202154Z-190986086-RC2WZLAG5MYO-RTRMADP-3-FRANCE-PANTHEON.jpg"
+        },
+        {
+          "title": "Tarantino : nouveau film avec Kylie Minogue",
+          "summary": "Quentin Tarantino prépare un nouveau projet cinématographique, cette fois avec la participation de Kylie Minogue.",
+          "url": "https://www.konbini.com/popculture/quentin-tarantino-prepare-un-nouveau-film-avec-kylie-minogue/",
+          "image": "https://cdn-www.konbini.com/files/2024/04/tarantino-feat.jpg"
+        },
+        {
+          "title": "Airbus A380 : fissures, inspections urgentes",
+          "summary": "Seize Airbus A380 doivent subir des inspections cruciales suite à la détection de potentielles fissures dans les ailes.",
+          "url": "https://www.lefigaro.fr/conjoncture/16-airbus-a380-necessitent-des-inspections-d-urgence-pour-de-potentielles-fissures-dans-les-ailes-20260623",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/06/23/763a9516219fdb7268d6879f751140c38227be0f5d0fbec45a366169aa87162b.JPG"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Business",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Chine : supercalculateur le plus puissant au monde",
+          "summary": "La Chine reprend la première place mondiale avec un nouveau supercalculateur d'une puissance inégalée depuis 2017.",
+          "url": "https://www.lefigaro.fr/conjoncture/un-supercalculateur-chinois-declare-le-plus-puissant-au-monde-une-premiere-depuis-2017-20260623",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/06/23/86795ce348b8a7759ff16b219e234261b17cbb2cb4ee4bf9faa47d81b68d1fdc.jpg"
+        },
+        {
+          "title": "Walmart rachète start-up française Vibe.co",
+          "summary": "Le géant américain Walmart acquiert Vibe.co, une prometteuse start-up publicitaire fondée par des entrepreneurs français.",
+          "url": "https://www.lefigaro.fr/societes/walmart-rachete-vibe-co-la-start-up-publicitaire-de-deux-entrepreneurs-francais-20260623",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/06/23/f4c6b37d50e203e8bb3714667c1c42b65e0292973368e6d9403d1b369cc032de.jpg"
+        },
+        {
+          "title": "Meta s'offre le patron de WhatsApp",
+          "summary": "Meta annonce l'acquisition du patron de WhatsApp et de son entreprise, renforçant sa position sur le marché.",
+          "url": "https://www.journaldugeek.com/2026/06/24/meta-soffre-le-patron-de-whatsapp-en-achetant-aussi-son-entreprise/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/10/whatsapp-pseudo-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Lot-et-Garonne : feu de forêt maîtrisé",
+          "summary": "Un incendie en Lot-et-Garonne ravage 94 hectares de pins, désormais sous contrôle grâce aux pompiers.",
+          "url": "https://www.sudouest.fr/environnement/climat/canicule/canicule-en-lot-et-garonne-le-feu-de-foret-a-bousses-fixe-88-hectares-de-pinede-sont-partis-en-fumee-29633707.php"
+        },
+        {
+          "title": "Bordeaux : pont Chaban-Delmas bloqué",
+          "summary": "Le pont Chaban-Delmas à Bordeaux est resté bloqué, perturbant le trafic fluvial cette nuit.",
+          "url": "https://www.sudouest.fr/gironde/saint-louis-de-montferrand/a-bordeaux-le-pont-chaban-delmas-bloque-en-position-fermee-cette-nuit-deux-bateaux-obliges-de-faire-demi-tour-29633278.php"
+        },
+        {
+          "title": "Dax : le lieutenant-colonel Cahour s'en va",
+          "summary": "Le lieutenant-colonel Simon Cahour quitte la gendarmerie de Dax après trois ans de service intense.",
+          "url": "https://www.sudouest.fr/landes/dax/je-ne-suis-plus-le-meme-homme-le-lieutenant-colonel-simon-cahour-quitte-la-compagnie-de-gendarmerie-de-dax-apres-trois-ans-d-engagement-29603559.php"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA Draft : AJ Dybantsa n°1",
+          "summary": "AJ Dybantsa a été choisi en premier par les Wizards lors de la Draft NBA 2026, un talent prometteur.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/draft-nba-aj-dybantsa-choisi-par-les-wizards-avec-leur-pick-n-1_AD-202606240082.html",
+          "image": "https://images.bfmtv.com/EgZk9Fo-b6KVoyV539IqItIQHBM=/0x103:2048x1255/800x0/images/AJ-Dybantsa-et-Adam-Silver-a-la-draft-NBA-2026-2309089.jpg"
+        },
+        {
+          "title": "Athlétisme : Tharp explose le 110m haies",
+          "summary": "Ja’Kobe Tharp pulvérise le record du monde du 110m haies, s'affirmant comme la nouvelle star de l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "JO d'hiver 2030 : les Alpes validées",
+          "summary": "Le CIO a approuvé la nouvelle carte des sites pour l'organisation des Jeux Olympiques d'hiver 2030 en France.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-2030-le-cio-valide-la-nouvelle-cartes-des-sites-pour-alpes-2030_AV-202606220960.html",
+          "image": "https://images.bfmtv.com/4P3ru7SJVcAte-hWHQKawTn01XU=/0x212:2048x1364/800x0/images/Edgar-Grospiron-lors-de-la-presentation-du-Cojop-des-JO-2030-dans-les-Alpes-le-18-fevrier-2025-2035763.jpg"
+        }
+      ]
+    }
+  ]
+}
