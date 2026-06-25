@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Saint Prosper",
+  "global_summary": "L'actualité est marquée par une canicule généralisée qui accable une grande partie de l'Europe, affectant la France comme ses voisins. Sur le plan politique, l'Espagne est secouée par des accusations de corruption, tandis que les États-Unis s'apprêtent à célébrer leur 250e anniversaire sur fond de divisions. Une ambiance lourde plane donc sur le continent, entre défis climatiques et tensions internes. \n\nMalgré ce contexte, le monde du sport vibre avec des transferts majeurs en NBA et de nouvelles étoiles qui pulvérisent des records. En parallèle, le secteur de la Tech est en pleine mutation, avec des mouvements de talents importants et des innovations repoussant les limites. L'économie, elle, s'interroge sur la définition de la richesse, signe d'une période de profonds questionnements sociétaux et de dynamiques locales intenses.",
+  "running_advice": "Attention, champion(ne) ! Avec des températures annoncées entre 23.9°C et 39.5°C et un indice UV de 7.7 sous un ciel peu nuageux, cette journée est un vrai défi pour tes foulées. Ton coach te le dit : la prudence est TON alliée principale. Pour une séance optimale et sécurisée, vise un créneau ultra-matinal, juste après le lever du soleil à 06:17, ou en fin de soirée, au plus proche du coucher à 21:53. Hydratation maximale avant, pendant et après l'effort ! Et avec un indice UV si élevé, une protection solaire SPF50+, une casquette et des lunettes sont absolument INDISPENSABLES. Écoute ton corps, adapte-toi et reste au frais ! Tu es plus fort que la chaleur, mais joue intelligemment.",
+  "weather_string": "🌤️ Peu nuageux (23.9°C / 39.5°C)",
+  "weather_stats": {
+    "temp": "39.5°C",
+    "rain": "10%",
+    "uv": "7.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Canicule : L'Europe suffoque sous la chaleur",
+          "summary": "La France n'est pas la seule ! Espagne et Royaume-Uni subissent aussi une canicule intense.",
+          "url": "https://www.huffingtonpost.fr/international/article/espagne-royaume-uni-il-n-y-a-pas-que-la-france-qui-est-en-surchauffe-a-cause-de-la-canicule_276905.html",
+          "image": "https://focus.huffingtonpost.fr/2026/06/24/808/0/8256/4644/0/0/60/0/570259d_upload-1-pnb7vczercgw-afp-20260623-mantilla-notitle260610-npqru-v1-highres-dailylifeinmadrid.jpg"
+        },
+        {
+          "title": "Espagne : Pedro Sánchez face à la corruption",
+          "summary": "Le Premier ministre Pedro Sánchez a démenti les accusations, provoquant les rires de l'opposition.",
+          "url": "https://www.lemonde.fr/international/video/2026/06/24/pedro-sanchez-dement-des-accusations-de-corruption-sous-les-rires-de-l-opposition_6713227_3210.html",
+          "image": "https://img.lemde.fr/2026/06/24/453/0/5436/2718/644/322/60/0/86bf50f_ftp-1-4uujsginvrfw-5424330-01-06.jpg"
+        },
+        {
+          "title": "États-Unis : Un 250e anniversaire clivé",
+          "summary": "Scandales et divisions politiques assombrissent la célébration du 250e anniversaire, écho de leur bicentenaire.",
+          "url": "https://www.nouvelobs.com/monde/20260624.OBS116114/scandales-presidentiels-divisions-politiques-babioles-promotionnelles-le-250-anniversaire-des-etats-unis-ressemble-etrangement-a-leur-bicentenaire.html",
+          "image": "https://focus.nouvelobs.com/2026/06/24/0/8/9504/6336/1200/800/0/0/7d45f8c_upload-1-lweo8etxtw39-063-2282530149.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Berck-sur-Mer ferme ses écoles par canicule",
+          "summary": "Face à la canicule, la ville de Berck-sur-Mer active son plan de sauvegarde, fermant toutes les écoles.",
+          "url": "http://www.nordlittoral.fr/289828/article/2026-06-24/canicule-les-ecoles-fermees-berck-sur-mer-la-ville-active-son-plan-de-sauvegarde",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/06/24/node_289828/3757319/public/2026/06/24/87525561.jpeg?itok=QSYHoksE1782328448"
+        },
+        {
+          "title": "Renault : Plan de départs pour 800 ingénieurs",
+          "summary": "Un plan de départs volontaires concerne 800 ingénieurs de Renault en France d'ici fin 2027.",
+          "url": "https://www.lefigaro.fr/societes/renault-annonce-un-plan-de-depart-volontaire-concernant-800-ingenieurs-en-france-d-ici-fin-2027-20260624",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/06/24/daab8bb0d168eab65f8b8a57f09a01eb63e35a06a92f5cb9c0339e14c995a56a.JPG"
+        },
+        {
+          "title": "Big Bang Theory : Le spin-off révèle son style",
+          "summary": "Le trailer du spin-off de 'The Big Bang Theory' surprend par son ton très différent de l'originale.",
+          "url": "https://www.konbini.com/popculture/le-spin-off-de-the-big-bang-theory-a-son-trailer-et-ca-ne-ressemble-pas-du-tout-a-the-big-bang-theory/",
+          "image": "https://cdn-www.konbini.com/files/2026/06/Stuart.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Dell : Un PC portable à la puissance folle",
+          "summary": "Un PC Dell avec Intel Core 7, 16 Go de RAM et 1 To SSD à un prix impressionnant.",
+          "url": "https://www.01net.com/bons-plans/intel-core-7-ram-16-go-ssd-1-to-ce-pc-portable-dell-est-une-dinguerie-et-son-prix-aussi.html",
+          "image": "https://www.01net.com/app/uploads/2026/06/Dell-16-Laptop-DC16250.jpeg"
+        },
+        {
+          "title": "Google : La fuite des cerveaux s'accélère",
+          "summary": "Les talents de Google migrent vers Anthropic, marquant une accélération de la fuite des cerveaux.",
+          "url": "https://fr.investing.com/news/stock-market-news/la-fuite-des-cerveaux-de-google-saccelere-avec-des-departs-vers-anthropic-3472754",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL5N0RK_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Marché des potiers : 24e édition réussie",
+          "summary": "Le marché des potiers de Pocé-sur-Cisse s'annonce prometteur avec une quarantaine d'exposants.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/poce-sur-cisse/le-nombre-de-quarante-exposants-est-la-limite-acceptable-la-24e-edition-du-marche-des-potiers-de-poce-sur-cisse-sur-de-bons-rails-1782328028",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a3c2adaa2025ac75a8b4627"
+        },
+        {
+          "title": "Économie : Qu'est-ce qu'être riche ?",
+          "summary": "Un édito stimulant pose la question fondamentale de la définition de la richesse aujourd'hui.",
+          "url": "https://www.lecho.be/opinions/edito/edito-c-est-quoi-etre-riche/10676642.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:DkgLA8mYKxsAuKEPBdDv4O&context=ONLINE&ratio=16/9&width=640&u=1782327921000"
+        },
+        {
+          "title": "Dollar de Singapour s'affirme face à l'USD",
+          "summary": "Barclays prévoit une appréciation du dollar singapourien tandis que le dollar américain recule.",
+          "url": "https://fr.investing.com/news/forex-news/barclays-table-sur-la-vigueur-du-dollar-singapourien-face-au-recul-du-dollar-americain-93CH-3472761",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEG4L1WB_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Tonneins : La salle Manoque rouvre enfin",
+          "summary": "Après un affaissement de scène, la salle de spectacle de Tonneins retrouve son public en toute sécurité.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/tonneins/feu-vert-pour-la-manoque-la-salle-de-tonneins-rouvre-apres-l-affaissement-de-la-scene-lors-du-spectacle-des-collegiens-29641966.php",
+          "image": ""
+        },
+        {
+          "title": "Dordogne : Une habitation détruite par le feu",
+          "summary": "Un incendie a entièrement ravagé une maison à Bosset, en Dordogne, mais sans victimes.",
+          "url": "https://www.sudouest.fr/faits-divers/dordogne-une-habitation-entierement-detruite-par-les-flammes-a-bosset-29650861.php",
+          "image": ""
+        },
+        {
+          "title": "Près de Bordeaux : 6000 m² en fumée",
+          "summary": "Un groupe électrogène a déclenché un feu, détruisant 6000 m² de végétation près de Bordeaux.",
+          "url": "https://www.sudouest.fr/gironde/saint-medard-en-jalles/un-groupe-electrogene-met-le-feu-pres-de-bordeaux-6-000-metres-carres-de-vegetation-partis-en-fumee-29645719.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Pop Culture",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "LEGO : Un set Ramen pour les gourmands",
+          "summary": "Un nouveau set LEGO Ramen, personnalisable et ultra-réaliste, donne l'eau à la bouche aux fans.",
+          "url": "https://www.journaldugeek.com/2026/06/25/lego-un-set-ramen-officiellement-devoile-et-il-donne-faim/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/lego-ramen-1280x853.jpg"
+        },
+        {
+          "title": "Jack Quaid de retour en super-héros",
+          "summary": "Après 'The Boys', Jack Quaid s'apprête à incarner un nouveau super-héros dans une autre série.",
+          "url": "https://www.journaldugeek.com/2026/06/25/apres-the-boys-jack-quaid-rempile-sur-une-autre-serie-de-super-heros/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/Jack-Quaid-invincible-1-1280x853.jpg"
+        },
+        {
+          "title": "Elon Musk dévoile 'Starmind', son nouveau pari",
+          "summary": "Après Starlink, Elon Musk nomme son nouveau projet 'complètement fou' : Starmind.",
+          "url": "https://www.journaldugeek.com/2026/06/25/apres-starlink-voici-starmind-le-nouveau-projet-completement-fou-delon-musk-a-desormais-un-nom/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/SpaceX-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : Giannis Antetokounmpo rejoint Miami",
+          "summary": "Coup de tonnerre en NBA, Giannis Antetokounmpo est la nouvelle star recrutée par le Miami Heat.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-nba-miami-tient-sa-nouvelle-star-avec-le-grec-giannis-antetokounmpo_VN-202606240794.html",
+          "image": "https://images.bfmtv.com/ahCkoTPRgfTc7rVXvtPDViGzOq4=/0x0:1280x720/800x0/images/NBA-Miami-tient-sa-nouvelle-star-avec-le-Grec-Giannis-Antetokounmpo-2309598.jpg"
+        },
+        {
+          "title": "Wembanyama aux Bleus : C'est confirmé !",
+          "summary": "Le coach Fauthoux annonce avec enthousiasme la venue de Victor Wembanyama avec les Bleus en août.",
+          "url": "https://rmcsport.bfmtv.com/basket/basket-il-a-tres-envie-de-venir-fauthoux-annonce-la-venue-de-wembanyama-avec-les-bleus-en-aout_AV-202606240747.html",
+          "image": "https://images.bfmtv.com/MXVeCVvCxEmTw7-eFjS3sy6ubZY=/0x15:2048x1167/800x0/images/Victor-Wembanyama-lors-de-la-demi-finale-des-JO-2024-France-Etats-Unis-le-10-aout-2024-2136961.jpg"
+        },
+        {
+          "title": "Athlétisme : Ja’Kobe Tharp explose le record !",
+          "summary": "Phénomène Ja’Kobe Tharp pulvérise le record du monde du 110m haies, une performance historique.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        }
+      ]
+    }
+  ]
+}
