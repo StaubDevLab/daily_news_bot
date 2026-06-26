@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Anthelme",
+  "global_summary": "Le monde fait face à des actualités contrastées aujourd'hui, oscillant entre des événements tragiques comme le double séisme au Venezuela, et des tentatives d'apaisement diplomatique au Proche-Orient. En France, la scène politique est marquée par des contestations internes et le report de rendez-vous sociaux cruciaux, tandis que des feux dévastateurs rappellent la fragilité de nos écosystèmes.\n\nLa canicule reste le fil rouge de la journée, impactant fortement les transports, la consommation d'énergie et même les activités sportives en extérieur. Cependant, l'innovation technologique continue son avancée, et le secteur des affaires, malgré un Bitcoin en chute libre, montre des signes de dynamisme avec des perspectives à long terme. Côté sport, des records sont pulvérisés et des légendes inattendues sont bousculées.",
+  "running_advice": "Alors, prêt à transpirer, champion ? Aujourd'hui, on a une météo à double tranchant pour ta session running ! Avec des températures allant de 21°C à 32.5°C et un ciel peu nuageux, le défi est là, mais la victoire t'attend ! La clé ? L'intelligence !\n\nL'heure idéale pour chausser tes baskets sera sans conteste très tôt le matin, juste après le lever du soleil à 06:17. Profite de la fraîcheur relative et de la lumière douce. Sinon, attends le soir, après 20h00, pour bénéficier d'une chaleur plus supportable avant le coucher du soleil à 21:53. Attention, l'indice UV est très élevé (7.75) ! Crème solaire indispensable, une casquette et des lunettes de soleil pour te protéger. Hydrate-toi massivement avant, pendant et après ton effort. N'oublie pas : écoute ton corps, adapte ton rythme, et transforme cette chaleur en force mentale. Chaque goutte de sueur est une preuve de ta détermination ! Allez, on lâche rien !",
+  "weather_string": "🌤️ Peu nuageux (21°C / 32.5°C)",
+  "weather_stats": {
+    "temp": "32.5°C",
+    "rain": "3%",
+    "uv": "7.75"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Venezuela: Après le séisme, un bilan effroyable",
+          "summary": "Un double séisme dévaste le Venezuela, les premières actions de secours débutent face à l'ampleur de la catastrophe.",
+          "url": "https://www.humanite.fr/monde/amerique-latine/au-venezuela-les-premieres-actions-apres-un-double-seisme-au-bilan-qui-sannonce-effroyable",
+          "image": "https://www.humanite.fr/wp-content/uploads/2026/06/p12-venezuela_VEN.jpg?w=1200"
+        },
+        {
+          "title": "Le Golfe cherche l'apaisement avec Téhéran",
+          "summary": "Les pays du Golfe explorent des voies diplomatiques pour désamorcer les tensions avec l'Iran.",
+          "url": "https://www.lopinion.fr/international/les-pays-du-golfe-tentent-lapaisement-avec-teheran",
+          "image": "https://beymedias.brightspotcdn.com/33/01/29082d3d4061a25cdf5b78ba6108/sipa-01256003-000006.jpg"
+        },
+        {
+          "title": "Grand Paris Express: Nouveaux retards sur les lignes",
+          "summary": "Les lignes 15 et 18 du Grand Paris Express subissent de nouveaux retards, impactant le calendrier.",
+          "url": "https://www.lesechos.fr/pme-regions/ile-de-france/nouveaux-retards-sur-les-lignes-15-et-18-du-grand-paris-express-2239262",
+          "image": "https://media.lesechos.com/api/v1/images/view/6a3d65400cdd2ad3070a3e80/640x360/01903053432990-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Écologistes: Candidature Tondelier jugée irrégulière",
+          "summary": "La consultation écologiste sur Marine Tondelier pour 2027 est contestée, jugée « irrégulière ».",
+          "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-chez-les-ecologistes-la-consultation-sur-la-candidature-de-marine-tondelier-jugee-irreguliere-20260625",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/06/25/44da68e346c9a2c6c99c4977a1fcea22270731c551db3287a77d6352d0570585.jpg"
+        },
+        {
+          "title": "CNH: Conférence Nationale du Handicap reportée",
+          "summary": "La Conférence nationale du Handicap est reportée au 4 septembre, suscitant des attentes.",
+          "url": "https://www.la-croix.com/societe/la-conference-nationale-du-handicap-reportee-au-4-septembre-20260625",
+          "image": "https://i.la-croix.com/x/smart/2026/06/25/2473460-la-conference-nationale-du-handicap-attendue-par-l.jpg"
+        },
+        {
+          "title": "Incendie dévastateur à Millac: Dégâts considérables",
+          "summary": "Un violent incendie à Millac a détruit granges et bétail, le feu est désormais fixé.",
+          "url": "https://www.lanouvellerepublique.fr/vienne/commune/millac/incendie-violent-a-millac-48-moutons-morts-cinq-granges-detruites-et-30-ha-brules-le-feu-est-fixe-1782414737",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a3d7d8e3a3202a2428b45f0"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Aton déploie sa tech PIMS en Europe",
+          "summary": "Aton prévoit d'implanter sa technologie PIMS dans des centres européens d'ici 2026.",
+          "url": "https://fr.investing.com/news/global-filings/aton-vise-une-implantation-de-sa-technologie-pims-dans-des-centres-europeens-en-2026-93CH-3474650",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPELB90KE_L.jpg"
+        },
+        {
+          "title": "Climatisation: Une invention genrée face à la canicule?",
+          "summary": "La canicule met en lumière la controverse sur la climatisation, jugée parfois sexiste.",
+          "url": "https://www.lesnumeriques.com/societe-numerique/la-climatisation-une-invention-sexiste-la-canicule-nous-rappelle-cette-inegalite-n258409.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/258409/e797deae-la-climatisation-une-invention-sexiste-la-canicule-nous-rappelle-cette-inegalite__800_800__888-0-3554-2666.jpg"
+        },
+        {
+          "title": "Canicule: SNCF offre échange et annulation gratuite",
+          "summary": "Face à la canicule, la SNCF permet l'échange ou l'annulation gratuite des billets de train.",
+          "url": "https://www.capital.fr/economie-politique/canicule-la-sncf-autorise-lechange-et-lannulation-gratuite-des-billets-1527957",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~06~25~de924e7a-5487-4a63-b6c3-cc0e0f0ac335.jpeg/1200x900/quality/80/canicule-la-sncf-autorise-l-echange-et-l-annulation-gratuite-des-billets.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Bitcoin s'effondre, marché crypto en liquidation",
+          "summary": "Le Bitcoin chute à 59 000 $, entraînant un milliard de dollars de liquidation crypto.",
+          "url": "https://fr.benzinga.com/crypto/bitcoin-seffondre-a-59-000-entraine-ethereum-xrp-dogecoin-dans-une-liquidation-de-1-milliard-de-dollars/",
+          "image": "https://cdn.benzinga.com/files/images/story/2026/06/25/Gold-3d-Coins-Of-Bitcoin--Bnb-And-Ethere.jpg?width=2048&height=1536"
+        },
+        {
+          "title": "RAM: Prix bloqués jusqu'en 2030",
+          "summary": "Le Tech Flash annonce un gel des prix de la mémoire RAM jusqu'en 2030.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-ram-des-prix-bloques-jusqu-en-2030-par-lea-benaim-25-06_VN-202606250902.html",
+          "image": "https://images.bfmtv.com/68WBKOiJ71f6oxHhANBNnpLAb24=/0x0:1280x720/1280x0/images/Le-Tech-Flash-RAM-des-prix-bloques-jusqu-en-2030-par-Lea-Benaim-25-06-2310263.jpg"
+        },
+        {
+          "title": "Canicule: SNCF envisage la suppression de trains",
+          "summary": "La SNCF pourrait supprimer d'autres trains pendant la canicule, malgré les grands départs en vacances.",
+          "url": "https://www.laprovence.com/article/france-monde/12657615094653/canicule-la-sncf-pourrait-supprimer-dautres-trains-malgre-les-grands-departs-en-vacances",
+          "image": "https://pictures.laprovence.com/cdn-cgi/image/,/media/afp/2c4071ee6e450574cbcfbe1328a80d72249d3439.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Régions",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Cerf sauvé en Dordogne: Bois coincés",
+          "summary": "Un cerf aux bois emmêlés dans une clôture a été secouru en Dordogne.",
+          "url": "https://www.sudouest.fr/societe/animaux/un-cerf-qui-avait-coince-ses-bois-dans-les-fils-d-une-cloture-secouru-en-dordogne-29662579.php",
+          "image": ""
+        },
+        {
+          "title": "Orages violents dans les Landes: Dégâts",
+          "summary": "De violents orages dans les Landes ont causé des dégâts matériels importants cette nuit.",
+          "url": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/landes-maison-touchee-par-la-foudre-feux-de-foret-deux-fois-deux-voies-coupee-les-orages-de-la-nuit-de-jeudi-a-vendredi-ont-cause-des-degats-materiels-29668115.php",
+          "image": ""
+        },
+        {
+          "title": "L'ONU alerte sur les drogues de synthèse",
+          "summary": "L'ONU met en garde contre la flambée des drogues de synthèse, de plus en plus puissantes.",
+          "url": "https://www.sudouest.fr/faits-divers/drogues-de-synthese-l-onu-alerte-sur-une-flambee-de-substances-de-plus-en-plus-puissantes-29668127.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "High-Tech & Société",
+      "emoji": "🧑‍💻",
+      "articles": [
+        {
+          "title": "Google: Play Store en profonde mutation",
+          "summary": "Google refond son Play Store, promettant une expérience utilisateur profondément transformée.",
+          "url": "https://www.journaldugeek.com/2026/06/26/google-change-le-play-store-en-profondeur/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/play-store-1280x853.jpg"
+        },
+        {
+          "title": "Bonne nouvelle: Windows 10 support prolongé",
+          "summary": "Microsoft étend le support de Windows 10 jusqu'en 2027, une excellente nouvelle pour les utilisateurs.",
+          "url": "https://www.journaldugeek.com/2026/06/26/bonne-nouvelle-microsoft-prolonge-le-support-de-windows-10-jusquen-2027/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/03/ordinateur-portable-pc-windows-10-1280x853.jpg"
+        },
+        {
+          "title": "Canicule: L'électricité flambe, facture XXL?",
+          "summary": "La canicule fait exploser le prix de l'électricité, risquant une facture salée pour les ménages.",
+          "url": "https://www.journaldugeek.com/2026/06/26/facture-edf-electrique-canicule-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/facture-edf-electricite-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Athlétisme: Ja’Kobe Tharp explose un record mondial",
+          "summary": "Le jeune Ja’Kobe Tharp établit un nouveau record du monde sensationnel au 110m haies.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-nouvel-extraterrestre-de-l-athletisme-ja-kobe-tharp-explose-le-record-du-monde-du-110m-haies_AN-202606110582.html",
+          "image": "https://images.bfmtv.com/xbGiDXshlRYLXA45AAaxwqlKw-M=/0x71:2048x1223/800x0/images/Ja-Kobe-Tharp-lors-d-une-course-en-2025-2301947.jpg"
+        },
+        {
+          "title": "Coup de tonnerre: Duplantis battu après 3 ans",
+          "summary": "Événement rare à Stockholm : Armand Duplantis subit sa première défaite en près de trois ans.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/coup-de-tonnerre-a-stockholm-armand-duplantis-battu-pour-la-premiere-fois-depuis-pres-de-trois-ans_AV-202606070315.html",
+          "image": "https://images.bfmtv.com/8t0eoGwiSm-Xx3cfDMemxdgRLFA=/0x41:2048x1193/800x0/images/Armand-Duplantis-2299281.jpg"
+        },
+        {
+          "title": "Top 14: Les tendances des finalistes",
+          "summary": "Dernières informations sur les compositions de Toulouse et Montpellier avant la finale du Top 14.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/toulouse-montpellier-ramos-sur-le-banc-vunipola-apte-et-un-banc-en-6-2-les-dernieres-tendances-des-compos-des-finalistes-du-top-14_AV-202606250766.html",
+          "image": "https://images.bfmtv.com/QCtHkVvN594Ikx9jtfah_Q4_gVg=/0x106:2048x1258/800x0/images/Thomas-Ramos-avec-Toulouse-le-20-decembre-2025-2218040.jpg"
+        }
+      ]
+    }
+  ]
+}
