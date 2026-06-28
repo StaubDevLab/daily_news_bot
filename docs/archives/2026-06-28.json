@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Irénée",
-  "global_summary": "La semaine est marquée par des enjeux complexes et des nouvelles variées. Sur le plan mondial, les tensions géopolitiques persistent au Moyen-Orient et au Soudan, tandis qu'une vague de chaleur intense s'abat sur de nombreuses régions, exacerbant les préoccupations climatiques et sanitaires. Les séismes dévastateurs au Venezuela rappellent également la fragilité de notre monde face aux catastrophes naturelles.\nEn parallèle, l'innovation et le sport offrent des lueurs d'espoir et de performance. De la natation aux championnats de France de natation aux exploits du Stade Toulousain en rugby, sans oublier les avancées technologiques en matière d'intelligence artificielle et d'environnement, cette actualité foisonnante illustre un monde en constante mutation, entre défis pressants et réalisations inspirantes.",
-  "running_advice": "Accrochez-vous, champions ! La météo de ce jour nous met au défi. Avec des températures allant de 20.9°C à 27.9°C et 75% de risques de pluie sous un ciel partiellement nuageux, sans oublier un indice UV de 7, il faudra être stratégique. Pour un run vivifiant et plus sûr, visez le créneau juste après le lever du soleil, vers 06:30, quand la chaleur est encore douce et avant que l'UV ne soit à son pic. Si vous préférez la fin de journée, attendez après 20:00 pour profiter d'un soleil moins agressif. Quoi qu'il arrive, l'hydratation est reine, et une protection solaire SPF 50+ est absolument indispensable pour contrer cet indice UV élevé. N'oubliez pas une casquette et des lunettes ! La pluie ? Voyez-la comme une douche rafraîchissante et boostez votre mental. Votre corps est capable de s'adapter, alors sortez et dominez cette séance !",
-  "weather_string": "🌤️ Peu nuageux (20.9°C / 27.9°C)",
+  "global_summary": "Le monde est en ébullition, confronté à une vague de chaleur intense et à des crises géopolitiques majeures, des séismes dévastateurs au Venezuela aux tensions persistantes au Moyen-Orient. Pendant ce temps, la France fait face à ses propres défis, des débats politiques aux tragédies locales, tout en préparant de grands projets industriels. \nSur un front plus positif, l'innovation est à l'honneur avec des avancées technologiques prometteuses. Le monde du sport, quant à lui, célèbre des succès nationaux éclatants et se projette vers l'avenir avec l'organisation de grands événements, malgré les contraintes climatiques. Une journée riche en enjeux et en rebondissements!",
+  "running_advice": "Salut à toutes et à tous, futurs champions ! Aujourd'hui, la météo nous met au défi. Avec des températures allant de 20.9°C à près de 29°C, un ciel peu nuageux et surtout 75% de chances de pluie, sans oublier un indice UV de 7, la prudence est de mise !\nMon conseil de coach : Pour votre course, évitez absolument le pic de chaleur. L'idéal serait de vous lancer très tôt ce matin, juste après le lever du soleil à 06h18, pour profiter d'une fraîcheur relative. Sinon, attendez la fin de journée, mais soyez prêt à affronter d'éventuelles averses. Et attention, avec un UV de 7, la crème solaire SPF 50 est OBLIGATOIRE ! Hydratez-vous à fond avant, pendant et après l'effort. Votre corps est votre temple, protégez-le tout en vous dépassant !",
+  "weather_string": "🌤️ Peu nuageux (20.9°C / 28.9°C)",
   "weather_stats": {
-    "temp": "27.9°C",
+    "temp": "28.9°C",
     "rain": "75%",
     "uv": "7"
   },
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Monde : tensions, chaleur et crises",
-          "summary": "Entre vague de chaleur, négociations cruciales au Moyen-Orient et guerre au Soudan, l'actualité mondiale reste sous haute tension.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260627-vague-de-chaleur-n%C3%A9gociations-au-moyen-orient-guerre-au-soudan-et-d%C3%A9mission-de-keir-starmer",
-          "image": "https://s.france24.com/media/display/3bfe67a2-725b-11f1-801a-005056bf30b7/w:1280/p:16x9/Francais-2026-06-26T17-56-25-368Z.jpg"
-        },
-        {
-          "title": "Séismes dévastateurs au Venezuela",
-          "summary": "Un bilan tragique de plus de 1 430 morts et 50 000 disparus après les séismes au Venezuela.",
+          "title": "Séismes au Venezuela: Bilan alarmant",
+          "summary": "Le Venezuela face à une catastrophe : plus de 1430 morts et des milliers de disparus après de violents séismes.",
           "url": "https://www.midilibre.fr/2026/06/27/seismes-au-venezuela-un-nouveau-bilan-fait-etat-dau-moins-1-430-morts-alors-que-50-000-personnes-sont-toujours-recherchees-13441213.php",
           "image": "https://images.midilibre.fr/api/v1/images/view/6a4020ce809875769501f822/hd/image.jpg?v=1"
         },
         {
-          "title": "Israël maintient sa présence au Liban",
-          "summary": "Le ministre israélien de la Défense confirme le maintien de ses troupes au Liban, malgré un accord-cadre établi.",
+          "title": "Moyen-Orient: L'armée israélienne reste au Liban",
+          "summary": "Le ministre israélien de la Défense confirme le maintien des troupes au Liban, malgré un accord-cadre. La tension persiste.",
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260627-le-ministre-isra%C3%A9lien-de-la-d%C3%A9fense-averti-que-l-arm%C3%A9e-va-rester-au-liban-malgr%C3%A9-l-accord-cadre",
           "image": "https://s.france24.com/media/display/9a6a601a-724d-11f1-ae5c-005056bfb2b6/w:1280/p:16x9/FR-20260627-190413-190600-CS.jpg"
+        },
+        {
+          "title": "Global: Vague de chaleur, tensions et démissions",
+          "summary": "Le monde affronte canicule, négociations tendues au Moyen-Orient et conflits majeurs, témoignant d'une actualité complexe.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260627-vague-de-chaleur-n%C3%A9gociations-au-moyen-orient-guerre-au-soudan-et-d%C3%A9mission-de-keir-starmer",
+          "image": "https://s.france24.com/media/display/3bfe67a2-725b-11f1-801a-005056bf30b7/w:1280/p:16x9/Francais-2026-06-26T17-56-25-368Z.jpg"
         }
       ]
     },
@@ -38,94 +38,70 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Marchand brille aux France Élite",
-          "summary": "Malgré la chaleur, Léon Marchand réalise une entrée en lice exceptionnelle aux championnats de France de natation.",
-          "url": "https://www.lanouvellerepublique.fr/a-la-une/natation-dans-la-fournaise-de-saint-etienne-une-entree-en-lice-stratospherique-pour-leon-marchand-aux-france-elite-1782587801",
-          "image": "https://images.lanouvellerepublique.fr/image/upload/6a402197154001aa4e8b4570"
+          "title": "Présidentielle: Lecornu, la montée en silence",
+          "summary": "Sébastien Lecornu émerge discrètement comme un candidat sérieux pour la présidentielle, observant une ascension notable.",
+          "url": "https://www.lejdd.fr/politique/presidentielle-sebastien-lecornu-le-candidat-qui-monte-en-silence-177552",
+          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/06/27/19/barometre-lecornu-rea10165214-laurent-coust_zuma_rea_master.jpg?VersionId=xHZGMfNPDt3t5VvU6esWFX5SFp8Kt6lx"
         },
         {
-          "title": "Biarritz : fin des recherches après l'effondrement",
-          "summary": "Les recherches s'achèvent à Biarritz suite à l'effondrement d'une falaise, le corps de la seconde victime introuvable.",
-          "url": "https://actu.fr/nouvelle-aquitaine/biarritz_64122/effondrement-de-la-falaise-a-biarritz-les-recherches-s-arre%CC%82tent-le-corps-de-la-deuxieme-victime-reste-introuvable_64467070.html",
+          "title": "Biarritz: Fin des recherches après l'effondrement",
+          "summary": "Les recherches s'arrêtent à Biarritz après l'effondrement d'une falaise, la deuxième victime reste introuvable.",
+          "url": "https://actu.fr/nouvelle-aquitaine/biarritz_64122/effondrement-de-la-falaise-a-biarritz-les-recherches-s-arretent-le-corps-de-la-deuxieme-victime-reste-introuvable_64467070.html",
           "image": "https://static.actu.fr/uploads/2026/06/img-7840.jpg"
         },
         {
-          "title": "Lecornu, étoile montante présidentielle",
-          "summary": "Sébastien Lecornu se profile comme un candidat sérieux, avançant discrètement vers la présidentielle.",
-          "url": "https://www.lejdd.fr/politique/presidentielle-sebastien-lecornu-le-candidat-qui-monte-en-silence-177552",
-          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/06/27/19/barometre-lecornu-rea10165214-laurent-coust_zuma_rea_master.jpg?VersionId=xHZGMfNPDt3t5VvU6esWFX5SFp8Kt6lx"
+          "title": "Le Tréport: Aire camping-car pour le chantier EPR",
+          "summary": "Une aire est créée au Tréport pour loger les travailleurs de l'EPR, minimisant l'impact local.",
+          "url": "https://actu.fr/normandie/le-treport_76711/au-treport-une-aire-de-camping-car-pour-beneficier-du-chantier-epr-en-limitant-limpact-pour-les-habitants_64457772.html",
+          "image": "https://static.actu.fr/uploads/2026/06/22853e41093a6b8853e41093a40953v.jpg"
         }
       ]
     },
     {
-      "label": "Tech",
+      "label": "Tech & Innovation",
       "emoji": "💡",
       "articles": [
         {
-          "title": "Micron : l'IA propulse la mémoire",
-          "summary": "Les prix de la mémoire DRAM atteignent des sommets historiques, Micron misant tout sur l'IA et ses besoins.",
+          "title": "Mémoire vive: Micron pousse les prix, IA prioritaire",
+          "summary": "Micron fixe des prix records pour la mémoire DRAM. L'IA, priorité absolue, impacte fortement l'industrie tech.",
           "url": "https://hardware.developpez.com/actu/384593/Micron-ancre-les-prix-de-la-memoire-a-des-sommets-historiques-sur-cinq-ans-et-fait-de-l-IA-sa-priorite-absolue-Les-prix-de-la-DRAM-ont-augmente-de-plus-de-171-pourcent-en-2025-et-de-plus-de-90-pourcent-au-T1-2026/",
           "image": "https://www.developpez.com/images/logos/hardware.png"
         },
         {
-          "title": "Filtre anti-microplastiques révolutionnaire",
-          "summary": "Une brillante lycéenne développe un filtre innovant pour éradiquer les microplastiques de notre eau potable.",
+          "title": "Innovation: Filtre microplastiques par une lycéenne",
+          "summary": "Une lycéenne invente un filtre révolutionnaire capable d'éliminer les microplastiques de l'eau, une avancée majeure.",
           "url": "https://www.journaldugeek.com/2026/06/27/une-lyceenne-invente-un-filtre-capable-deliminer-les-microplastiques-de-leau/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/06/plastique-1280x853.jpg"
         },
         {
-          "title": "La Péninsule Ibérique pivote !",
-          "summary": "Des géologues révèlent que le Portugal et l'Espagne sont en rotation lente, un phénomène aux conséquences inconnues.",
+          "title": "Géologie: La péninsule Ibérique pivote",
+          "summary": "Des géologues révèlent que l'Espagne et le Portugal pivotent sur eux-mêmes, un phénomène géologique surprenant et majeur.",
           "url": "https://www.journaldugeek.com/2026/06/27/la-peninsule-iberique-pivote-sans-que-vous-le-sachiez-et-ce-nest-pas-forcement-une-bonne-nouvelle/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/02/HP-1-2026-02-12T142112.901-1280x853.jpeg"
         }
       ]
     },
     {
-      "label": "Business",
-      "emoji": "💰",
-      "articles": [
-        {
-          "title": "Canicule : l'impact sur notre corps",
-          "summary": "La Tribune explore les raisons pour lesquelles le corps humain souffre intensément des fortes chaleurs.",
-          "url": "https://www.latribune.fr/article/climat/1174243198650914/canicule-pourquoi-notre-corps-souffre-autant-des-fortes-chaleurs",
-          "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1000,quality=80/media/melody/2026/06/27/des-personnes-se-reposent-sur-les-pelouses-du-parc-des-buttes-chaumont-a-paris-alors-que-les-tempera-1782583420_c74e0e0d004a66c4e0e0d004a705e0v_.jpg"
-        },
-        {
-          "title": "Chantier EPR : solution d'hébergement",
-          "summary": "Au Tréport, une aire de camping-car est mise en place pour gérer l'afflux lié au chantier EPR.",
-          "url": "https://actu.fr/normandie/le-treport_76711/au-treport-une-aire-de-camping-car-pour-beneficier-du-chantier-epr-en-limitant-limpact-pour-les-habitants_64457772.html",
-          "image": "https://static.actu.fr/uploads/2026/06/22853e41093a6b8853e41093a40953v.jpg"
-        },
-        {
-          "title": "Artisans du Monde à Châteauroux",
-          "summary": "L'association Artisans du Monde à Châteauroux se dynamise avec l'arrivée de nouvelles forces vives.",
-          "url": "https://www.lanouvellerepublique.fr/chateauroux/chateauroux-de-nouvelles-forces-vives-pour-l-association-artisans-du-monde-1782586654",
-          "image": "https://images.lanouvellerepublique.fr/image/upload/6a401d1c3a32020c628b45b7"
-        }
-      ]
-    },
-    {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "Tony Parker, nouveau coach ASVEL",
-          "summary": "Tony Parker prend les rênes de l'ASVEL, marquant une étape majeure pour le club de basket français.",
+          "title": "Basket: Tony Parker, nouvel entraîneur ASVEL",
+          "summary": "L'icône du basket français, Tony Parker, prend les rênes de l'ASVEL, marquant une nouvelle étape majeure.",
           "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/le-lancement-d-une-etape-majeure-tony-parker-est-le-nouvel-entraineur-de-l-asvel_AV-202606270321.html",
           "image": "https://images.bfmtv.com/itZ8dWdj2Qf9KRydB8joXDSsZD4=/0x106:2048x1258/800x0/images/Tony-Parker-en-tant-qu-entraineur-de-l-equipe-de-France-U17-de-basket-27-juin-2026-2311142.jpg"
         },
         {
-          "title": "Toulouse célèbre son quadruplé historique",
-          "summary": "Romain Ntamack et le Stade Toulousain savourent leur incroyable quadruplé, entré dans l'histoire du Top 14.",
+          "title": "Rugby: Ntamack savoure le quadruplé toulousain",
+          "summary": "Romain Ntamack célèbre le quadruplé historique du Stade Toulousain en Top 14, une performance exceptionnelle.",
           "url": "https://rmcsport.bfmtv.com/rugby/top-14/top-14-on-s-est-envoyes-comme-des-lions-romain-ntamack-savoure-le-quadruple-historique-du-stade-toulousain_AV-202606270394.html",
           "image": "https://images.bfmtv.com/isxF6-hdON74qNT17OpZKfSMrQw=/0x212:2048x1364/800x0/images/Romain-Ntamack-avec-le-Stade-Toulousain-le-27-juin-2026-2311220.jpg"
         },
         {
-          "title": "Meeting de Paris : pluie de stars !",
-          "summary": "Gressier, Duplantis, Lyles... Les plus grandes stars de l'athlétisme se donnent rendez-vous au Meeting de Paris.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/le-rendez-vous-de-l-annee-en-diamond-league-gressier-duplantis-lyles-pluie-de-stars-sur-le-meeting-de-paris-ce-dimanche_AV-202606280040.html",
-          "image": "https://images.bfmtv.com/110L29lmQJZAc0gAHKOB93rjtb0=/0x106:2048x1258/800x0/images/Jimmy-Gressier-lors-des-Mondiaux-d-athletisme-a-Tokyo-le-21-septembre-2025-2205195.jpg"
+          "title": "JO d'hiver 2030: Les Alpes Françaises, unique candidate",
+          "summary": "Les Alpes Françaises, seules candidates pour les JO d'hiver 2030. La voie vers l'organisation est ouverte.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/les-alpes-francaises-seules-candidates-pour-les-jo-d-hiver-2030_DN-202311290846.html",
+          "image": "https://images.bfmtv.com/2VBCrg0CdhADZxBFNZRiAz6kamU=/0x77:768x509/800x0/images/La-France-va-savoir-mercredi-si-elle-a-convaincu-le-CIO-de-rester-en-lice-pour-organiser-les-JO-d-hiver-en-2030-un-pari-ose-alors-que-Paris-accueille-les-JO-d-ete-dans-huit-mois-1757612.jpg"
         }
       ]
     }
