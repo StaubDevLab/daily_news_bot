@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Irénée",
+  "global_summary": "La semaine est marquée par des enjeux complexes et des nouvelles variées. Sur le plan mondial, les tensions géopolitiques persistent au Moyen-Orient et au Soudan, tandis qu'une vague de chaleur intense s'abat sur de nombreuses régions, exacerbant les préoccupations climatiques et sanitaires. Les séismes dévastateurs au Venezuela rappellent également la fragilité de notre monde face aux catastrophes naturelles.\nEn parallèle, l'innovation et le sport offrent des lueurs d'espoir et de performance. De la natation aux championnats de France de natation aux exploits du Stade Toulousain en rugby, sans oublier les avancées technologiques en matière d'intelligence artificielle et d'environnement, cette actualité foisonnante illustre un monde en constante mutation, entre défis pressants et réalisations inspirantes.",
+  "running_advice": "Accrochez-vous, champions ! La météo de ce jour nous met au défi. Avec des températures allant de 20.9°C à 27.9°C et 75% de risques de pluie sous un ciel partiellement nuageux, sans oublier un indice UV de 7, il faudra être stratégique. Pour un run vivifiant et plus sûr, visez le créneau juste après le lever du soleil, vers 06:30, quand la chaleur est encore douce et avant que l'UV ne soit à son pic. Si vous préférez la fin de journée, attendez après 20:00 pour profiter d'un soleil moins agressif. Quoi qu'il arrive, l'hydratation est reine, et une protection solaire SPF 50+ est absolument indispensable pour contrer cet indice UV élevé. N'oubliez pas une casquette et des lunettes ! La pluie ? Voyez-la comme une douche rafraîchissante et boostez votre mental. Votre corps est capable de s'adapter, alors sortez et dominez cette séance !",
+  "weather_string": "🌤️ Peu nuageux (20.9°C / 27.9°C)",
+  "weather_stats": {
+    "temp": "27.9°C",
+    "rain": "75%",
+    "uv": "7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Monde : tensions, chaleur et crises",
+          "summary": "Entre vague de chaleur, négociations cruciales au Moyen-Orient et guerre au Soudan, l'actualité mondiale reste sous haute tension.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260627-vague-de-chaleur-n%C3%A9gociations-au-moyen-orient-guerre-au-soudan-et-d%C3%A9mission-de-keir-starmer",
+          "image": "https://s.france24.com/media/display/3bfe67a2-725b-11f1-801a-005056bf30b7/w:1280/p:16x9/Francais-2026-06-26T17-56-25-368Z.jpg"
+        },
+        {
+          "title": "Séismes dévastateurs au Venezuela",
+          "summary": "Un bilan tragique de plus de 1 430 morts et 50 000 disparus après les séismes au Venezuela.",
+          "url": "https://www.midilibre.fr/2026/06/27/seismes-au-venezuela-un-nouveau-bilan-fait-etat-dau-moins-1-430-morts-alors-que-50-000-personnes-sont-toujours-recherchees-13441213.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6a4020ce809875769501f822/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Israël maintient sa présence au Liban",
+          "summary": "Le ministre israélien de la Défense confirme le maintien de ses troupes au Liban, malgré un accord-cadre établi.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260627-le-ministre-isra%C3%A9lien-de-la-d%C3%A9fense-averti-que-l-arm%C3%A9e-va-rester-au-liban-malgr%C3%A9-l-accord-cadre",
+          "image": "https://s.france24.com/media/display/9a6a601a-724d-11f1-ae5c-005056bfb2b6/w:1280/p:16x9/FR-20260627-190413-190600-CS.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Marchand brille aux France Élite",
+          "summary": "Malgré la chaleur, Léon Marchand réalise une entrée en lice exceptionnelle aux championnats de France de natation.",
+          "url": "https://www.lanouvellerepublique.fr/a-la-une/natation-dans-la-fournaise-de-saint-etienne-une-entree-en-lice-stratospherique-pour-leon-marchand-aux-france-elite-1782587801",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a402197154001aa4e8b4570"
+        },
+        {
+          "title": "Biarritz : fin des recherches après l'effondrement",
+          "summary": "Les recherches s'achèvent à Biarritz suite à l'effondrement d'une falaise, le corps de la seconde victime introuvable.",
+          "url": "https://actu.fr/nouvelle-aquitaine/biarritz_64122/effondrement-de-la-falaise-a-biarritz-les-recherches-s-arre%CC%82tent-le-corps-de-la-deuxieme-victime-reste-introuvable_64467070.html",
+          "image": "https://static.actu.fr/uploads/2026/06/img-7840.jpg"
+        },
+        {
+          "title": "Lecornu, étoile montante présidentielle",
+          "summary": "Sébastien Lecornu se profile comme un candidat sérieux, avançant discrètement vers la présidentielle.",
+          "url": "https://www.lejdd.fr/politique/presidentielle-sebastien-lecornu-le-candidat-qui-monte-en-silence-177552",
+          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/06/27/19/barometre-lecornu-rea10165214-laurent-coust_zuma_rea_master.jpg?VersionId=xHZGMfNPDt3t5VvU6esWFX5SFp8Kt6lx"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Micron : l'IA propulse la mémoire",
+          "summary": "Les prix de la mémoire DRAM atteignent des sommets historiques, Micron misant tout sur l'IA et ses besoins.",
+          "url": "https://hardware.developpez.com/actu/384593/Micron-ancre-les-prix-de-la-memoire-a-des-sommets-historiques-sur-cinq-ans-et-fait-de-l-IA-sa-priorite-absolue-Les-prix-de-la-DRAM-ont-augmente-de-plus-de-171-pourcent-en-2025-et-de-plus-de-90-pourcent-au-T1-2026/",
+          "image": "https://www.developpez.com/images/logos/hardware.png"
+        },
+        {
+          "title": "Filtre anti-microplastiques révolutionnaire",
+          "summary": "Une brillante lycéenne développe un filtre innovant pour éradiquer les microplastiques de notre eau potable.",
+          "url": "https://www.journaldugeek.com/2026/06/27/une-lyceenne-invente-un-filtre-capable-deliminer-les-microplastiques-de-leau/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/plastique-1280x853.jpg"
+        },
+        {
+          "title": "La Péninsule Ibérique pivote !",
+          "summary": "Des géologues révèlent que le Portugal et l'Espagne sont en rotation lente, un phénomène aux conséquences inconnues.",
+          "url": "https://www.journaldugeek.com/2026/06/27/la-peninsule-iberique-pivote-sans-que-vous-le-sachiez-et-ce-nest-pas-forcement-une-bonne-nouvelle/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/HP-1-2026-02-12T142112.901-1280x853.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Canicule : l'impact sur notre corps",
+          "summary": "La Tribune explore les raisons pour lesquelles le corps humain souffre intensément des fortes chaleurs.",
+          "url": "https://www.latribune.fr/article/climat/1174243198650914/canicule-pourquoi-notre-corps-souffre-autant-des-fortes-chaleurs",
+          "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1000,quality=80/media/melody/2026/06/27/des-personnes-se-reposent-sur-les-pelouses-du-parc-des-buttes-chaumont-a-paris-alors-que-les-tempera-1782583420_c74e0e0d004a66c4e0e0d004a705e0v_.jpg"
+        },
+        {
+          "title": "Chantier EPR : solution d'hébergement",
+          "summary": "Au Tréport, une aire de camping-car est mise en place pour gérer l'afflux lié au chantier EPR.",
+          "url": "https://actu.fr/normandie/le-treport_76711/au-treport-une-aire-de-camping-car-pour-beneficier-du-chantier-epr-en-limitant-limpact-pour-les-habitants_64457772.html",
+          "image": "https://static.actu.fr/uploads/2026/06/22853e41093a6b8853e41093a40953v.jpg"
+        },
+        {
+          "title": "Artisans du Monde à Châteauroux",
+          "summary": "L'association Artisans du Monde à Châteauroux se dynamise avec l'arrivée de nouvelles forces vives.",
+          "url": "https://www.lanouvellerepublique.fr/chateauroux/chateauroux-de-nouvelles-forces-vives-pour-l-association-artisans-du-monde-1782586654",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a401d1c3a32020c628b45b7"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Tony Parker, nouveau coach ASVEL",
+          "summary": "Tony Parker prend les rênes de l'ASVEL, marquant une étape majeure pour le club de basket français.",
+          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/le-lancement-d-une-etape-majeure-tony-parker-est-le-nouvel-entraineur-de-l-asvel_AV-202606270321.html",
+          "image": "https://images.bfmtv.com/itZ8dWdj2Qf9KRydB8joXDSsZD4=/0x106:2048x1258/800x0/images/Tony-Parker-en-tant-qu-entraineur-de-l-equipe-de-France-U17-de-basket-27-juin-2026-2311142.jpg"
+        },
+        {
+          "title": "Toulouse célèbre son quadruplé historique",
+          "summary": "Romain Ntamack et le Stade Toulousain savourent leur incroyable quadruplé, entré dans l'histoire du Top 14.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/top-14-on-s-est-envoyes-comme-des-lions-romain-ntamack-savoure-le-quadruple-historique-du-stade-toulousain_AV-202606270394.html",
+          "image": "https://images.bfmtv.com/isxF6-hdON74qNT17OpZKfSMrQw=/0x212:2048x1364/800x0/images/Romain-Ntamack-avec-le-Stade-Toulousain-le-27-juin-2026-2311220.jpg"
+        },
+        {
+          "title": "Meeting de Paris : pluie de stars !",
+          "summary": "Gressier, Duplantis, Lyles... Les plus grandes stars de l'athlétisme se donnent rendez-vous au Meeting de Paris.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-rendez-vous-de-l-annee-en-diamond-league-gressier-duplantis-lyles-pluie-de-stars-sur-le-meeting-de-paris-ce-dimanche_AV-202606280040.html",
+          "image": "https://images.bfmtv.com/110L29lmQJZAc0gAHKOB93rjtb0=/0x106:2048x1258/800x0/images/Jimmy-Gressier-lors-des-Mondiaux-d-athletisme-a-Tokyo-le-21-septembre-2025-2205195.jpg"
+        }
+      ]
+    }
+  ]
+}
