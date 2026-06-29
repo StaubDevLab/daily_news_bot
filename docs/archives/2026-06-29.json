@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Pierre",
-  "global_summary": "L'actualité de ce jour nous plonge dans un tourbillon d'événements marquants, où les enjeux mondiaux côtoient les exploits humains et les défis technologiques. Nous assistons à des mouvements stratégiques majeurs, comme le désengagement d'EDF des énergies renouvelables en Amérique du Nord, ainsi qu'à des tensions géopolitiques persistantes entre la Turquie, Israël et la reconnaissance du génocide arménien. \nSur un plan plus local, mais tout aussi percutant, la France brille par des actions solidaires comme l'ascension de la Princesse Kate, tout en étant confrontée à des alertes de cybersécurité et des drames judiciaires. Le monde du sport, quant à lui, célèbre des victoires et des records, rappelant la puissance de l'effort et la passion collective. C'est un panorama riche, entre défis globaux et inspirations quotidiennes, qui nous invite à rester informés et engagés.",
-  "running_advice": "Amis coureurs, l'appel du bitume se fait entendre aujourd'hui ! Avec des températures clémentes oscillant entre 20.3°C et 28.4°C et un ciel peu nuageux, les conditions sont globalement favorables à une belle session running. Cependant, attention, l'indice UV est élevé à 7.65 ! Je vous recommande vivement de chausser vos baskets tôt le matin, juste après le lever du soleil à 06:18, ou en fin de journée, après 19h et avant le coucher du soleil à 21:53, pour éviter les heures les plus chaudes et l'exposition maximale. N'oubliez pas votre crème solaire, une casquette et hydratez-vous abondamment ! Votre santé avant tout, votre performance suivra !",
-  "weather_string": "🌤️ Peu nuageux (20.3°C / 28.4°C)",
+  "global_summary": "L'actualité de ce jour révèle une scène mondiale en pleine effervescence, où les décisions stratégiques d'entreprises comme EDF façonnent l'avenir énergétique et où les tensions diplomatiques, notamment entre la Turquie et Israël, continuent de marquer les relations internationales. Au cœur de ces mouvements, des récits de résilience humaine émergent, à l'image du défi personnel relevé par la Princesse Kate pour une cause noble, nous rappelant l'impact profond de l'engagement individuel face à l'adversité.\n\nSur le plan national et technologique, la France est confrontée à de nouvelles cyberattaques préoccupantes, soulignant la vulnérabilité de nos systèmes numériques. Parallèlement, l'innovation bat son plein avec SpaceX qui bouscule le marché de la téléphonie et le monde du sport qui nous offre des moments d'exception, célébrant des victoires nationales en rugby et des performances athlétiques de haut vol. Ces événements, des sommets de l'économie aux exploits sportifs, peignent un tableau dynamique et inspirant de notre quotidien.",
+  "running_advice": "Allez, les sportifs ! Aujourd'hui, on a une fenêtre météo plutôt sympa pour une session running qui va vous recharger à bloc. Avec des températures allant de 20.3°C à 28.2°C et un ciel peu nuageux, les conditions sont globalement favorables. Le petit bémol ? Un indice UV de 7.65, ce n'est pas rien !\n\nMon conseil de coach : visez la performance intelligente ! Le lever du soleil à 06:18 et le coucher à 21:53 vous offrent de belles plages. Pour éviter le pic de chaleur et l'intensité des UV, je vous recommande vivement de chausser vos baskets tôt le matin, juste après 6h30, ou en fin de journée, entre 19h et 20h. N'oubliez pas la crème solaire, une casquette et hydratez-vous généreusement avant, pendant et après l'effort. Votre corps est votre temple, protégez-le ! À vos marques, prêts, courez !",
+  "weather_string": "🌤️ Peu nuageux (20.3°C / 28.2°C)",
   "weather_stats": {
-    "temp": "28.4°C",
+    "temp": "28.2°C",
     "rain": "0%",
     "uv": "7.65"
   },
@@ -15,21 +15,21 @@
       "articles": [
         {
           "title": "EDF quitte les renouvelables nord-américains",
-          "summary": "Le géant EDF Energy délaisse ses activités d'énergies vertes en Amérique du Nord, signe d'une réorientation stratégique majeure.",
+          "summary": "EDF recentre sa stratégie en vendant ses actifs d'énergie renouvelable en Amérique du Nord.",
           "url": "https://www.agefi.fr/news/entreprises/edf-se-desengage-des-energies-renouvelables-en-amerique-du-nord",
           "image": "https://beymedias.brightspotcdn.com/7e/04/fd0357c9677f108c0f9f390a8561/edf-photo-bloomberg.jpg"
         },
         {
-          "title": "Turquie vs Israël: Génocide Arménien",
-          "summary": "Ankara réagit vivement à la reconnaissance par Israël du génocide arménien, intensifiant les tensions diplomatiques régionales.",
-          "url": "https://www.i24news.tv/fr/actu/international/moyen-orient/artc-la-turquie-denonce-la-reconnaissance-du-genocide-armenien-par-israel",
-          "image": "https://cdn.i24news.tv/uploads/0a/21/05/fe/e1/7c/1f/a8/c5/c0/50/0d/9d/06/1d/92/0a2105fee17c1fa8c5c0500d9d061d92.jpg"
-        },
-        {
-          "title": "Le rêve de voler, entre passion et drame",
-          "summary": "Une réflexion poignante sur les risques inhérents aux sports aériens après un tragique accident de parachutisme.",
+          "title": "Le rêve de voler brisé par le drame",
+          "summary": "Un accident de parachutisme tragique rappelle la fragilité des sports extrêmes et le prix du risque.",
           "url": "https://www.vosgesmatin.fr/politique/2026/06/28/l-edito-quand-le-reve-de-voler-bascule-dans-le-drame",
           "image": "https://cdn-s-www.vosgesmatin.fr/images/5BF5D418-3A34-461F-B9C7-F505F59BB708/NW_listB/l-edito-quand-le-reve-de-voler-bascule-dans-le-drame-1782671303.jpg"
+        },
+        {
+          "title": "Tensions Turquie-Israël sur le génocide arménien",
+          "summary": "La Turquie réagit vivement après la reconnaissance du génocide arménien par Israël, aggravant les relations.",
+          "url": "https://www.i24news.tv/fr/actu/international/moyen-orient/artc-la-turquie-denonce-la-reconnaissance-du-genocide-armenien-par-israel",
+          "image": "https://cdn.i24news.tv/uploads/0a/21/05/fe/e1/7c/1f/a8/c5/c0/50/0d/9d/06/1d/92/0a2105fee17c1fa8c5c0500d9d061d92.jpg"
         }
       ]
     },
@@ -38,70 +38,118 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Princesse Kate gravit 3 sommets pour la cause",
-          "summary": "Un exploit inspirant de la Princesse Kate, qui soutient la recherche contre le cancer en accomplissant un défi physique majeur.",
+          "title": "Princesse Kate : un défi pour l'espoir",
+          "summary": "La Princesse Kate a gravi trois sommets en 24h pour soutenir les malades du cancer, un acte inspirant.",
           "url": "https://www.nicematin.com/culture/people/une-occasion-d-explorer-la-vie-au-dela-du-diagnostic-la-princesse-kate-gravit-trois-sommets-en-24-heures-pour-une-association-d-aide-aux-malades-du-cancer-10687040",
           "image": "https://assets.nicematin.com/articles/10/68/70/40/OG-10687040-1200-800-63b8c00_upload-from-url-1-9wnc5rploivr-577c3855489519e54572bd4eba020272e2a366e4-hrafglea.jpg"
         },
         {
           "title": "Maladie rénale : impact caché sur le cerveau",
-          "summary": "Une étude révèle l'ampleur insoupçonnée de l'impact des maladies rénales sur les fonctions cognitives des patients dialysés.",
+          "summary": "Une étude révèle l'impact significatif de la maladie rénale sur le cerveau de 70% des patients dialysés.",
           "url": "https://www.20minutes.fr/sante/4230667-20260628-jusqu-70-patients-dialyses-touches-impact-cache-maladie-renale-cerveau",
           "image": "https://img.20mn.fr/rkq0BDWVQ42Qoy5Y92IwdQ/1444x920_deux-soignantes-deplacent-un-appareil-de-dialyse-a-l-hopital-delafontaine-a-saint-denis"
         },
         {
-          "title": "Champion condamné à 25 ans pour homicide",
-          "summary": "Un ancien champion du monde de canne de combat écope de 25 ans de prison pour le meurtre de son ex-compagne.",
-          "url": "https://rmcsport.bfmtv.com/societe/il-avait-etrangle-son-ex-compagne-un-champion-du-monde-francais-de-canne-de-combat-condamne-a-25-ans-de-prison_AV-202606190933.html",
-          "image": "https://images.bfmtv.com/qjAueEB7a4guQIMGokYveTfoj4M=/0x26:512x314/800x0/images/-180057.jpg"
+          "title": "Canicule : alerte pour les sports à Paris",
+          "summary": "La préfecture recommande d'annuler les événements sportifs en extérieur à Paris face à la canicule.",
+          "url": "https://rmcsport.bfmtv.com/societe/canicule-la-prefecture-recommande-l-annulation-des-evenements-sportifs-en-plein-air-a-paris-et-petite-couronne_AD-202606181026.html",
+          "image": "https://images.bfmtv.com/UroGXia1aEY5Wn32NTkzInrx70w=/0x0:1920x1080/800x0/images/Sport-Lyon-canicule-1693104.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
+      "label": "Tech",
       "emoji": "💻",
       "articles": [
         {
-          "title": "INSEE piraté : 12 800 victimes touchées",
-          "summary": "L'INSEE est la dernière institution française victime d'une cyberattaque, exposant les données de 12 800 personnes.",
+          "title": "L'INSEE victime d'un nouveau cyber-piratage",
+          "summary": "Après Tchap et l'ANTS, l'INSEE est la cible d'une cyberattaque, touchant 12 800 personnes.",
           "url": "https://www.01net.com/actualites/apres-tchap-et-lants-cest-linsee-qui-se-fait-pirater-12-800-victimes.html",
           "image": "https://www.01net.com/app/uploads/2026/06/Canva-1920x1440-24.jpeg"
         },
         {
-          "title": "Starlink s'attaque au marché mobile",
-          "summary": "SpaceX ambitionne de concurrencer les opérateurs traditionnels avec une nouvelle offre mobile via son service Starlink.",
-          "url": "https://www.frandroid.com/marques/spacex/starlink/3160243_spacex-veut-lancer-une-offre-mobile-starlink-pour-concourir-les-operateurs",
+          "title": "Starlink prépare une offre mobile concurrentielle",
+          "summary": "SpaceX ambitionne de révolutionner le marché mobile avec une offre Starlink pour concurrencer les opérateurs.",
+          "url": "https://www.frandroid.com/marques/spacex/starlink/3160243_spacex-veut-lancer-une-offre-mobile-starlink-pour-concurencer-les-operateurs",
           "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/06/starlink.jpeg?resize=1600,900&key=928d1ee5&watermark"
         },
         {
-          "title": "Une RTX 3060 refroidie par glaçons",
-          "summary": "Une expérience insolite montre qu'une carte graphique peut fonctionner avec un refroidissement 'maison' à base de glaçons.",
-          "url": "https://www.journaldugeek.com/2026/06/29/il-branche-une-rtx-3060-sur-une-machine-a-glacons-contre-toute-attente-ca-marche/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/06/Sans-titre-1-1280x853.jpg"
+          "title": "Bon plan : Babycook Neo en soldes",
+          "summary": "Le robot mixeur cuiseur Béaba Babycook Néo, noté 5 étoiles, est en promotion à -22%.",
+          "url": "https://www.lesnumeriques.com/robot-mixeur-cuiseur-bebe/soldes-bon-plan-le-robot-mixeur-cuiseur-pour-bebe-beaba-babycook-neo-night-blue-5-etoiles-a-158-30-22-n258556.html",
+          "image": "https://cdn.lesnumeriques.com/optim/test/15/150941/f21f3f4c-beaba-babycook-neo-un-robot-cuiseur-mixeur-100-made-in-france__800_800__779-0-3047-2268.jpeg"
         }
       ]
     },
     {
-      "label": "Économie",
-      "emoji": "💰",
+      "label": "Business",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Morningstar revoit à la baisse Reece",
-          "summary": "L'agence Morningstar ajuste à la baisse son estimation de valeur pour la société Reece, à 10,30 dollars australiens.",
-          "url": "https://fr.investing.com/news/stock-market-news/morningstar-reduit-de-2-son-estimation-de-valeur-pour-reece-a-1030-a-93CH-3476720",
-          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
-        },
-        {
-          "title": "FMI débloque fonds, alerte RDC",
-          "summary": "Le FMI alloue 348 millions de dollars à la RDC, tout en exprimant des inquiétudes sur la gestion des finances publiques.",
+          "title": "FMI : alerte et fonds pour la RDC",
+          "summary": "Le FMI débloque 348M$ pour la RDC mais met en garde contre la gestion des finances publiques.",
           "url": "https://www.rfi.fr/fr/afrique/20260628-rdc-le-fmi-d%C3%A9bloque-348-millions-de-dollars-suppl%C3%A9mentaires-mais-%C3%A9met-des-alertes-sur-les-finances-publiques",
           "image": "https://s.rfi.fr/media/display/f48af62a-390b-11f1-8497-005056bf30b7/w:1280/p:16x9/62927.jpg"
         },
         {
-          "title": "Deauville-Algérie : une ligne aérienne en 2027",
-          "summary": "Un projet de liaison aérienne régulière entre Deauville et l'Algérie est envisagé pour 2027, promettant de nouveaux échanges.",
+          "title": "Morningstar ajuste la valeur de Reece",
+          "summary": "Morningstar abaisse de 2% l'estimation de valeur de Reece, fixée à 10,30 A$.",
+          "url": "https://fr.investing.com/news/stock-market-news/morningstar-reduit-de-2-son-estimation-de-valeur-pour-reece-a-1030-a-93CH-3476720",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
+        },
+        {
+          "title": "Liaison Deauville-Algérie, projet 2027",
+          "summary": "Une ligne régulière vers l'Algérie au départ de Deauville est annoncée pour 2027.",
           "url": "https://actu.fr/normandie/deauville_14220/bientot-une-ligne-reguliere-vers-lalgerie-au-depart-de-deauville-ce-que-lon-sait-vraiment-du-projet-annonce-pour-2027_64468456.html",
           "image": "https://static.actu.fr/uploads/2026/06/d17b6d17114a6067b6d17114a0a7b6v.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Marmande : Incendie majeur, maison embrasée",
+          "summary": "19 pompiers mobilisés près de Marmande pour un incendie ayant ravagé une maison de 300m².",
+          "url": "https://www.sudouest.fr/faits-divers/incendie-pres-de-marmande-une-maison-de-300-metres-carres-entiement-embrassee-19-sapeurs-pompiers-mobilises-29709489.php",
+          "image": null
+        },
+        {
+          "title": "Accident grave : casque, alcool et assurance",
+          "summary": "Une victime d'accident moto sans casque, sous l'influence de l'alcool et non assurée.",
+          "url": "https://www.sudouest.fr/faits-divers/accident-de-moto-la-victime-ne-portait-pas-de-casque-avait-bu-et-n-etait-pas-assuree-29709308.php",
+          "image": null
+        },
+        {
+          "title": "10 ans de prison pour praticien agresseur",
+          "summary": "Un praticien écope de 10 ans de prison pour avoir violé et agressé sexuellement ses patientes.",
+          "url": "https://www.sudouest.fr/justice/il-utilisait-sa-table-de-massage-comme-un-appat-10-ans-de-prison-pour-le-praticien-qui-violait-et-agressait-sexuellement-ses-patientes-29688112.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Une RTX 3060 sur machine à glaçons ?",
+          "summary": "Contre toute attente, une RTX 3060 fonctionne branchée sur une machine à glaçons.",
+          "url": "https://www.journaldugeek.com/2026/06/29/il-branche-une-rtx-3060-sur-une-machine-a-glacons-contre-toute-attente-ca-marche/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/Sans-titre-1-1280x853.jpg"
+        },
+        {
+          "title": "L'ID. Buzz se mue en chambre d'appoint",
+          "summary": "Le Volkswagen ID. Buzz innove en proposant une transformation en espace de couchage astucieux.",
+          "url": "https://www.journaldugeek.com/2026/06/29/lid-buzz-se-transforme-en-chambre-dappoint/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/idbuzz4-1280x853.jpg"
+        },
+        {
+          "title": "Lego Koenigsegg : un record de vitesse",
+          "summary": "Une Koenigsegg en Lego bat un record de vitesse sur route, une prouesse inédite.",
+          "url": "https://www.journaldugeek.com/2026/06/29/lego-met-une-koenigsegg-en-briques-sur-la-route-et-bat-un-record-de-vitesse/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/lego-1280x853.jpg"
         }
       ]
     },
@@ -110,64 +158,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Meeting de Paris : records français malgré tout",
-          "summary": "Le Meeting de Paris a vu des records de France et de belles performances, même sans record du monde pour Duplantis.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/pas-de-record-du-monde-pour-duplantis-noah-lyles-battu-records-de-france-pour-anais-bourgoin-et-agathe-guillemot-ce-qu-il-faut-retenir-du-meeting-de-paris_AN-202606280419.html",
-          "image": "https://images.bfmtv.com/P2Ld9qO5ZS_VStB1EfwU8Y49uZ0=/0x106:2048x1258/800x0/images/Armand-Duplantis-le-28-juin-2026-2311504.jpg"
+          "title": "Top 14 : Toulouse sacré champion !",
+          "summary": "Les supporters en fête après le sacre de Toulouse en Top 14, une immense fierté.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/video-top-14-toulouse-champion-la-fete-et-la-fierte-des-supporters_VN-202606280330.html",
+          "image": "https://images.bfmtv.com/pCQW8tVJudg13ScK9g6wCn4_3nc=/0x0:1280x720/800x0/images/Top-14-Toulouse-champion-La-fete-et-la-fierte-des-supporters-2311449.jpg"
         },
         {
           "title": "Tony Parker, nouvel entraîneur de l'ASVEL",
-          "summary": "L'icône du basket français, Tony Parker, prend les rênes de l'ASVEL en tant qu'entraîneur, ouvrant une nouvelle ère.",
+          "summary": "Tony Parker prend les rênes de l'ASVEL, marquant une nouvelle étape majeure pour le club.",
           "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/le-lancement-d-une-etape-majeure-tony-parker-est-le-nouvel-entraineur-de-l-asvel_AV-202606270321.html",
           "image": "https://images.bfmtv.com/itZ8dWdj2Qf9KRydB8joXDSsZD4=/0x106:2048x1258/800x0/images/Tony-Parker-en-tant-qu-entraineur-de-l-equipe-de-France-U17-de-basket-27-juin-2026-2311142.jpg"
         },
         {
-          "title": "Toulouse Champion du Top 14 !",
-          "summary": "Le Stade Toulousain célèbre son nouveau titre de champion du Top 14, enflammant la fierté de ses supporters.",
-          "url": "https://rmcsport.bfmtv.com/rugby/top-14/video-top-14-toulouse-champion-la-fete-et-la-fierte-des-supporters_VN-202606280330.html",
-          "image": "https://images.bfmtv.com/pCQW8tVJudg13ScK9g6wCn4_3nc=/0x0:1280x720/800x0/images/Top-14-Toulouse-champion-La-fete-et-la-fierte-des-supporters-2311449.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Faits Divers (Gironde)",
-      "emoji": "🚨",
-      "articles": [
-        {
-          "title": "Incendie majeur près de Marmande",
-          "summary": "Une maison de 300m² a été totalement ravagée par un incendie, mobilisant un important dispositif de pompiers.",
-          "url": "https://www.sudouest.fr/faits-divers/incendie-pres-de-marmande-une-maison-de-300-metres-carres-entierement-embrasee-19-sapeurs-pompiers-mobilises-29709489.php",
-          "image": ""
-        },
-        {
-          "title": "Moto : accident grave sans casque ni assurance",
-          "summary": "Un accident de moto révèle un conducteur sans casque, ivre et non assuré, soulignant les risques de la route.",
-          "url": "https://www.sudouest.fr/faits-divers/accident-de-moto-la-victime-ne-portait-pas-de-casque-avait-bu-et-n-etait-pas-assuree-29709308.php",
-          "image": ""
-        },
-        {
-          "title": "10 ans de prison pour praticien agresseur",
-          "summary": "Un praticien écope de 10 ans de prison pour avoir abusé sexuellement de ses patientes sous couvert de massages.",
-          "url": "https://www.sudouest.fr/justice/il-utilisait-sa-table-de-massage-comme-un-appat-10-ans-de-prison-pour-le-praticien-qui-violait-et-agressait-sexuellement-ses-patientes-29688112.php",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "label": "Insolite & Curiosités",
-      "emoji": "🤯",
-      "articles": [
-        {
-          "title": "Le VW ID. Buzz se mue en mini-camping",
-          "summary": "Le van électrique Volkswagen ID. Buzz se réinvente en module de couchage, idéal pour les escapades improvisées.",
-          "url": "https://www.journaldugeek.com/2026/06/29/lid-buzz-se-transforme-en-chambre-dappoint/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/06/idbuzz4-1280x853.jpg"
-        },
-        {
-          "title": "Lego bat un record de vitesse auto !",
-          "summary": "Une Koenigsegg grandeur nature en Lego a été créée et a même battu un record de vitesse, bluffant les experts.",
-          "url": "https://www.journaldugeek.com/2026/06/29/lego-met-une-koenigsegg-en-briques-sur-la-route-et-bat-un-record-de-vitesse/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/06/lego-1280x853.jpg"
+          "title": "Meeting de Paris : records et surprises !",
+          "summary": "Duplantis sans record, Lyles battu, mais des records de France pour Bourgoin et Guillemot.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/pas-de-record-du-monde-pour-duplantis-noah-lyles-battu-records-de-france-pour-anais-bourgoin-et-agathe-guillemot-ce-qu-il-faut-retenir-du-meeting-de-paris_AN-202606280419.html",
+          "image": "https://images.bfmtv.com/P2Ld9qO5ZS_VStB1EfwU8Y49uZ0=/0x106:2048x1258/800x0/images/Armand-Duplantis-le-28-juin-2026-2311504.jpg"
         }
       ]
     }
