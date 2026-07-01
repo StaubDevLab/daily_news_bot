@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Thierry",
-  "global_summary": "L'actualité du jour est marquée par des tensions politiques en France, avec une motion de censure écologiste jugée \"démagogique\", et des défis environnementaux et sociaux à l'échelle mondiale, notamment les pluies diluviennes au Ghana et la préservation des traditions à Taïwan. Côté technologie, les enjeux de cybersécurité et de protection des données prennent de l'ampleur avec de nouvelles régulations et des failles critiques révélées. L'innovation automobile promet des avancées significatives en matière d'autonomie. \nDans le monde du sport, un véritable séisme frappe la NBA avec l'annonce du départ de LeBron James des Lakers. L'athlétisme français brille avec un nouveau record national, tandis qu'une réforme majeure du sport professionnel en France prépare d'importants bouleversements. Les faits divers et les questions économiques, comme le fiasco des petits colis, complètent un panorama riche et engageant.",
-  "running_advice": "Allez, les sportifs ! Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous dépasser ! Avec des températures allant de 17.1°C à 26.2°C sous un ciel peu nuageux, les conditions sont quasiment parfaites pour une session dynamisante. Le risque de pluie est infime (3%), donc pas d'excuse pour rester à l'intérieur. Cependant, l'indice UV est élevé (7.6), il est donc crucial de se protéger. Privilégiez une course tôt le matin après le lever du soleil (dès 06:19) pour profiter de la fraîcheur et d'un UV moins intense, ou en fin d'après-midi/début de soirée avant le coucher du soleil (jusqu'à 21:53). N'oubliez pas crème solaire, casquette et lunettes de soleil, et hydratez-vous généreusement ! Votre corps vous remerciera, et votre esprit sera rechargé à bloc !",
-  "weather_string": "🌤️ Peu nuageux (17.1°C / 26.2°C)",
+  "global_summary": "L'actualité de la semaine est marquée par des enjeux politiques nationaux, avec une motion de censure qui agite l'Assemblée, et des défis sociétaux comme la lutte contre le narcotrafic et la fermeture d'établissements scolaires. Sur le plan international, Taïwan fait face à un problème de renouvellement générationnel dans des métiers traditionnels, tandis que le Ghana subit des pluies diluviennes et que le sport mondial se concentre sur un 16e de finale de Coupe du Monde très attendu. \n\nLe monde de la technologie et des affaires est également en pleine effervescence. La CNIL impose de nouvelles règles sur la gestion des données de localisation des véhicules, tandis que des innovations audacieuses comme les promesses d'autonomie record de Renault côtoient les \"fiascos\" logistiques. Le sport, quant à lui, est secoué par le départ de la légende LeBron James, des records nationaux en athlétisme, et des préoccupations sanitaires liées à la canicule impactant les événements en plein air. Une réforme du sport professionnel est également en cours, promettant de profonds changements.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets et aller vous dépasser ! Avec des températures agréables allant de 17.1°C à 26.7°C et un ciel \"peu nuageux\" (🌤️), les conditions sont presque parfaites pour une séance revitalisante. Le lever du soleil à 06:19 offre une fraîcheur matinale idéale pour démarrer votre journée en pleine forme. Pour éviter le pic de chaleur de l'après-midi et profiter d'un ensoleillement doux, je vous conseille vivement de courir tôt le matin, entre 06:30 et 09:00, ou en fin d'après-midi/début de soirée, après 18:00, jusqu'au coucher du soleil à 21:53. Attention, l'indice UV est de 7.6, ce qui est élevé ! Protégez impérativement votre peau avec une crème solaire adaptée, même par ciel voilé, et pensez à une casquette et des lunettes de soleil. Hydratez-vous bien avant, pendant et après l'effort. Votre corps vous remerciera ! Allez, on se motive et on profite de cette belle journée pour atteindre de nouveaux sommets !",
+  "weather_string": "🌤️ Peu nuageux (17.1°C / 26.7°C)",
   "weather_stats": {
-    "temp": "26.2°C",
+    "temp": "26.7°C",
     "rain": "3%",
     "uv": "7.6"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Ghana : Pluies Diluviennes Meurtrières à Accra",
-          "summary": "De fortes pluies ont causé une dizaine de morts à Accra, soulignant l'urgence climatique et humanitaire.",
-          "url": "https://www.rfi.fr/fr/afrique/20260630-ghana-des-pluies-diluviennes-s-abattent-sur-acra-et-font-une-dizaine-de-morts",
-          "image": "https://s.rfi.fr/media/display/dc44ef1a-74b8-11f1-93ea-005056bf30b7/w:1280/p:16x9/AP26181667391510.jpg"
-        },
-        {
-          "title": "Taiwan : Les Cueilleuses d'Algues Face à l'Avenir",
-          "summary": "La tradition des cueilleuses d'algues à Taïwan peine à trouver sa relève, menaçant un savoir-faire ancestral.",
+          "title": "Taïwan : Un métier ancestral en quête de relève",
+          "summary": "Les cueilleuses d'algues de Taïwan peinent à transmettre leur savoir-faire aux jeunes générations.",
           "url": "https://www.franceguyane.fr/actualite/international/a-taiwan-les-cueilleuses-dalgues-attendent-en-vain-la-releve-1084593.php",
           "image": "https://medias.franceantilles.fr/api/v1/images/view/6a44148f2d8a88dfb603447e/width_1000/image.jpg"
         },
         {
-          "title": "Coupe du Monde : France Affronte la Suède en 16ème",
-          "summary": "La France défie la Suède dans un 16e de finale crucial de la Coupe du monde, un match à ne pas manquer.",
+          "title": "Ghana : Pluies diluviennes et tragédie à Acra",
+          "summary": "Des inondations meurtrières ont frappé Acra, au Ghana, causant la mort de plusieurs personnes.",
+          "url": "https://www.rfi.fr/fr/afrique/20260630-ghana-des-pluies-diluviennes-s-abattent-sur-acra-et-font-une-dizaine-de-morts",
+          "image": "https://s.rfi.fr/media/display/dc44ef1a-74b8-11f1-93ea-005056bf30b7/w:1280/p:16x9/AP26181667391510.jpg"
+        },
+        {
+          "title": "Mondial : France vs Suède en 16e de finale",
+          "summary": "La France affronte la Suède dans un match décisif de la Coupe du monde. Qui sortira vainqueur ?",
           "url": "https://www.france24.com/fr/sports/20260630-france-su%C3%A8de-en-direct-suivez-16e-finale-coupe-du-monde",
           "image": "https://s.france24.com/media/display/950f9764-7466-11f1-8eac-005056a90284/w:1280/p:16x9/FRA-SWE-H.jpg"
         }
@@ -38,94 +38,70 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Motion de Censure Écologiste Jugée \"Démagogique\"",
-          "summary": "Jean-Didier Berger critique fermement la motion de censure écologiste, la qualifiant de \"totalement démagogique\".",
+          "title": "Politique : Motion de censure écologiste jugée démagogique",
+          "summary": "Jean-Didier Berger critique vivement la motion de censure des écologistes, la qualifiant de pure démagogie.",
           "url": "https://www.france24.com/fr/%C3%A9missions/mardi-politique/20260630-jean-didier-berger-la-motion-de-censure-des-%C3%A9cologistes-est-totalement-d%C3%A9magogique",
           "image": "https://s.france24.com/media/display/9d9561ae-74a5-11f1-a0de-005056bf30b7/w:1280/p:16x9/capture-18330626276a43f6e053a332-14802074.jpg"
         },
         {
-          "title": "Affaire Bétharram : L'Établissement Ferme ses Portes",
-          "summary": "L'établissement de Bétharram fermera cet été, suite à une affaire, avec transfert de ses élèves à la rentrée.",
+          "title": "Affaire Bétharram : Fermeture et transferts d'élèves",
+          "summary": "Suite à l'affaire Bétharram, l'établissement ferme cet été, entraînant le transfert de tous les élèves.",
           "url": "https://www.la-croix.com/societe/affaire-betharram-l-etablissement-ferme-cet-ete-ses-eleves-transferes-a-la-rentree-20260630",
           "image": "https://i.la-croix.com/x/smart/2026/06/30/2477887-le-secretaire-general-de-l-enseignement-catholique.jpg"
         },
         {
-          "title": "Narcotrafic : Macron Réunit le Gouvernement",
-          "summary": "Emmanuel Macron organise une réunion gouvernementale pour faire le point sur la lutte contre les trafics de drogue.",
+          "title": "Narcotrafic : Le gouvernement mobilisé contre les trafics",
+          "summary": "Emmanuel Macron réunira le gouvernement jeudi pour faire le point sur la lutte nationale contre les trafics de drogue.",
           "url": "https://www.sudouest.fr/faits-divers/narcotrafic/narcotrafic-emmanuel-macron-reunit-le-gouvernement-jeudi-pour-un-nouveau-point-d-etape-sur-la-lutte-contre-les-trafics-de-drogue-29740027.php",
-          "image": "https://www.sudouest.fr/assets/images/placeholder_opengraph_share.jpg"
+          "image": "https://www.sudouest.fr/une/une-standard-hp/placeholder.png"
         }
       ]
     },
     {
-      "label": "Tech",
-      "emoji": "💡",
+      "label": "Tech & Business",
+      "emoji": "💻💰",
       "articles": [
         {
-          "title": "CNIL : Nouvelles Règles Données Localisation Voitures",
-          "summary": "La CNIL impose des règles claires aux constructeurs pour la gestion des données de localisation des véhicules.",
+          "title": "CNIL : Nouvelle réglementation pour les données automobiles",
+          "summary": "La CNIL impose des règles strictes aux constructeurs sur la collecte des données de localisation des véhicules.",
           "url": "https://www.generation-nt.com/actualites/cnil-voiture-connectee-donnees-personnelles-geolocalisation-vie-privee-2077951",
           "image": "https://img.generation-nt.com/voiture-connectee_01703593.jpg"
         },
         {
-          "title": "Failles AirDrop/Quick Share : Appareils en Danger",
-          "summary": "Six failles critiques dans AirDrop et Quick Share permettent de planter des appareils à proximité. Soyez vigilant !",
-          "url": "https://www.numerama.com/cyberguerre/2288425-ces-six-failles-dans-airdrop-et-quick-share-permettent-de-faire-planter-des-appareils-a-proximite.html",
-          "image": "https://c0.lestechnophiles.com/www.numerama.com/wp-content/uploads/2026/06/design-sans-titre-2026-06-30t172259485.jpg?resize=1600,900&key=193658a6"
+          "title": "Logistique : Fiasco des livraisons de petits colis",
+          "summary": "Le secteur des petits colis fait face à un échec cuisant, impactant consommateurs et entreprises.",
+          "url": "http://www.lardennais.fr/id815080/article/2026-06-30/petits-colis-gros-fiasco",
+          "image": "https://www.lest-eclair.fr/sites/all/themes/enabootstrap_rem_lesteclair/images/logo_est_eclair.svg"
         },
         {
-          "title": "Renault Promet 1500 km d'Autonomie Économique",
-          "summary": "Renault annonce de nouveaux modèles avec 1500 km d'autonomie et un litre à 1 euro. Une révolution ?",
+          "title": "Renault : 1 500 km d'autonomie à prix cassé",
+          "summary": "Renault annonce une révolution avec des véhicules promettant 1 500 km d'autonomie et un coût très bas.",
           "url": "https://www.journaldugeek.com/2026/07/01/renault-promet-1-500-km-dautonomie-et-un-litre-a-1-euro-sur-ses-nouveaux-modeles/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/renault-eco-g-120-gpl-clio-captur-symbioz-1280x854.jpg"
         }
       ]
     },
     {
-      "label": "Business",
-      "emoji": "💰",
-      "articles": [
-        {
-          "title": "Petits Colis : Un Gros Fiasco Logistique",
-          "summary": "Le secteur des petits colis fait face à un \"gros fiasco\", soulignant des défis logistiques majeurs.",
-          "url": "http://www.lardennais.fr/id815080/article/2026-06-30/petits-colis-gros-fiasco",
-          "image": "https://www.lest-eclair.fr/sites/all/themes/enabootstrap_rem_lesteclair/images/logo_est_eclair.svg"
-        },
-        {
-          "title": "PS6 : Sony Ne La Vendra Pas À Perte",
-          "summary": "Sony confirme que la PS6 ne sera pas vendue à perte, prévoyant un prix fort pour les consommateurs.",
-          "url": "https://www.journaldugeek.com/2026/07/01/ps6-sony-ne-la-vendra-pas-a-perte-il-faudra-payer-le-prix-fort/",
-          "image": "https://www.journaldugeek.com/app/uploads/2024/09/premieres-infos-ps6-1403x935.jpg"
-        },
-        {
-          "title": "Ferrari : Offre de Luce Refusée avec Piquant",
-          "summary": "Un collectionneur refuse une Ferrari Luce proposée par la marque, avec une réponse surprenante et \"piquante\".",
-          "url": "https://www.20minutes.fr/auto/4232057-20260630-ferrari-propose-luce-reponse-pique-peu",
-          "image": "https://img.20mn.fr/3qpr4mS4RnOkvcmXShlgwyk/1444x920_un-collectionneur-refuse-une-ferrari-luce-de-facon-assez-directe"
-        }
-      ]
-    },
-    {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "NBA : Coup de Tonnerre, LeBron James Quitte Lakers",
-          "summary": "LeBron James a annoncé son départ de la direction des Lakers, secouant le monde de la NBA.",
+          "title": "NBA : LeBron James quitte les Lakers !",
+          "summary": "Un tremblement de terre secoue la NBA : LeBron James a signifié son départ de l'équipe des Lakers.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/coup-de-tonnerre-en-nba-le-bron-james-a-annonce-son-depart-a-la-direction-des-lakers_AV-202606300751.html",
           "image": "https://images.bfmtv.com/VyIv6cdqhh9UAE1Pv-frQgcHhns=/0x42:2048x1194/800x0/images/LeBron-James-avec-les-Lakers-contre-les-Bulls-en-NBA-le-12-mars-2026-2312702.jpg"
         },
         {
-          "title": "Meeting de Paris : Anaïs Bourgoin Record de France",
-          "summary": "Anaïs Bourgoin établit un nouveau record de France sur 800m lors d'une course exceptionnelle au Meeting de Paris.",
+          "title": "Athlétisme : Record de France pour Anaïs Bourgouin",
+          "summary": "Au Meeting de Paris, Anaïs Bourgouin a brillé en établissant un nouveau record de France sur 800 mètres.",
           "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/meeting-de-paris-anais-bourgouin-s-offre-le-record-de-france-sur-800m-apres-une-course-folle-et-pleine-de-records_AV-202606280324.html",
           "image": "https://images.bfmtv.com/K6r6wyfnRRg15qBJM4sVY8bZDcA=/0x177:2048x1329/800x0/images/Anais-Bourgoin-lors-du-Meeting-de-Paris-le-28-juin-2026-2311435.jpg"
         },
         {
-          "title": "Réforme du Sport Pro Adoptée : Changements à Venir",
-          "summary": "L'Assemblée nationale adopte la réforme du sport professionnel, promettant de grands changements pour le football français.",
-          "url": "https://rmcsport.bfmtv.com/societe/la-reforme-du-sport-professionnel-adoptee-a-l-assemblee-nationale-de-grands-changements-a-venir-dans-le-foot-francais_AN-202606290870.html",
-          "image": "https://images.bfmtv.com/BqL0z71taWCLHqrPKZrH-PsP5uI=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-en-juin-2026-2312081.jpg"
+          "title": "Canicule : Annulation recommandée pour événements sportifs",
+          "summary": "Face à la canicule, la préfecture de Paris conseille d'annuler les événements sportifs en extérieur.",
+          "url": "https://rmcsport.bfmtv.com/societe/canicule-la-prefecture-recommande-l-annulation-des-evenements-sportifs-en-plein-air-a-paris-et-petite-couronne_AD-202606181026.html",
+          "image": "https://images.bfmtv.com/UroGXia1aEY5Wn32NTkzInrx70w=/0x0:1920x1080/800x0/images/Sport-Lyon-canicule-1693104.jpg"
         }
       ]
     }
