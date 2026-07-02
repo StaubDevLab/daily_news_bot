@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Martinien",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques persistantes, de l'ascension politique du général Zaloujny en Ukraine aux pénuries de carburant en Russie, tandis que le Venezuela fait face aux conséquences de séismes. Sur le front national, la France salue des actes de bravoure en Drôme et s'interroge sur les dessous d'une explosion à Monaco, sans oublier les préoccupations environnementales liées aux cours d'eau asséchés.\nDans le monde de la tech, les géants comme Google et Meta continuent de faire les gros titres avec des condamnations ou des ambitions stratégiques, tandis que le sport vibre au rythme des transferts NBA majeurs, des records en athlétisme et des controverses judiciaires qui agitent le rugby français. C'est un tableau riche en défis et en exploits qui se dessine, nous invitant à rester connectés et engagés.",
+  "running_advice": "Félicitations, athlète ! Aujourd'hui est une excellente journée pour chausser vos baskets et aller vous dépasser ! Avec un ciel dégagé et des températures agréables oscillant entre 16.7°C et 27.4°C, toutes les conditions sont réunies pour une séance réussie. Pour optimiser votre run et éviter les fortes chaleurs ainsi que l'indice UV élevé (7.65), je vous recommande vivement de partir tôt le matin, juste après le lever du soleil à 06:20, ou en fin de journée, avant le coucher à 21:53. N'oubliez pas une protection solaire efficace et une hydratation régulière. C'est le moment de briller, foncez !",
+  "weather_string": "☀️ Ciel dégagé (16.7°C / 27.4°C)",
+  "weather_stats": {
+    "temp": "27.4°C",
+    "rain": "0%",
+    "uv": "7.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Ukraine: Zaloujny, une figure politique majeure",
+          "summary": "Le général Valeri Zaloujny prend une place prépondérante sur l'échiquier politique ukrainien, soulignant son influence grandissante.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/01/ukraine-le-general-valeri-zaloujny-s-impose-en-figure-incontournable-de-la-politique-nationale_6717606_3210.html",
+          "image": "https://img.lemde.fr/2026/07/01/1246/0/7476/3738/644/322/60/0/fe21320_upload-1-2ozdgnjzemcc-ap26033602107206.jpg"
+        },
+        {
+          "title": "Russie: La pénurie de carburant exaspère",
+          "summary": "La population russe exprime son mécontentement face aux difficultés croissantes d'approvisionnement en carburant à travers le pays.",
+          "url": "https://www.franceinfo.fr/monde/russie/penurie-de-carburant-en-russie-la-population-s-impatiente_8089004.html",
+          "image": "https://www.franceinfo.fr/pictures/Eljz7Q0BzWuUb7-IYwNHpS7Mr6w/fit-in/1200x675/filters:upscale():fill(blur)/2026/07/01/6a455576cbdef956057292.png"
+        },
+        {
+          "title": "Venezuela: Double séisme filmé en direct",
+          "summary": "Des images saisissantes révèlent l'instant où deux séismes consécutifs ont secoué le Venezuela, semant la panique.",
+          "url": "https://www.bfmtv.com/international/video-venezuela-ces-images-montrent-le-moment-ou-deux-seismes-ont-frappe-le-pays_VN-202607010981.html",
+          "image": "https://images.bfmtv.com/d3up5L-c3wB4zi-2UsUQAmlEpio=/0x0:1280x720/1280x0/images/Venezuela-ces-images-montrent-le-moment-ou-deux-seismes-ont-frappe-le-pays-2313493.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Drôme: Des jeunes sauvent une enfant",
+          "summary": "Des adolescents héroïques ont témoigné avoir sauvé une fillette de la noyade en Drôme, un acte de courage poignant.",
+          "url": "https://www.ledauphine.com/faits-divers-justice/2026/07/01/a-montelimar-une-fillette-de-8-ans-sauvee-de-la-noyade-j-ai-cru-que-j-allais-mourir",
+          "image": "https://cdn-s-www.ledauphine.com/images/763CBB85-A746-41FC-92A5-718D9F9D3850/NW_listB/j-ai-cru-que-j-allais-mourir-les-jeunes-qui-ont-sauve-une-fillette-de-la-noyade-temoignent-1782932461.jpg"
+        },
+        {
+          "title": "Monaco: Explosion, oligarque sulfureux visé",
+          "summary": "L'enquête sur l'explosion à Monaco se concentre sur le passé trouble de l'oligarque Vadim Ermolaev, ouvrant de nombreuses pistes.",
+          "url": "https://www.europe1.fr/international/explosion-a-monaco-les-enqueteurs-se-penchent-sur-le-passe-sulfureux-de-loligarque-vadim-ermolaev-964581",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/07/01/20/ve1_1_6a43b90470668_6a4560b89773d.jpg"
+        },
+        {
+          "title": "Vouziers: Canal asséché, pêcheurs indignés",
+          "summary": "Le niveau dramatiquement bas du canal de Vouziers a décimé la faune aquatique, provoquant la colère des pêcheurs locaux.",
+          "url": "http://www.lardennais.fr/id815275/article/2026-07-01/tous-les-brochets-sont-morts-le-tres-bas-niveau-du-canal-de-vouziers-indigne-les",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/07/01/node_815275/15468495/public/2026/07/01/88885791.jpeg?itok=KqXT4Hfp1782932546"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Google: Amende record pour abus de position",
+          "summary": "Le géant Google a été sanctionné par une amende historique pour avoir étouffé la concurrence d'un rival européen.",
+          "url": "https://www.journaldugeek.com/2026/07/02/google-condamne-a-une-amende-record-pour-avoir-enterre-un-rival-europeen/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/google-proces-1280x853.jpg"
+        },
+        {
+          "title": "Xbox: Vers la dématérialisation des jeux",
+          "summary": "Xbox innove avec un outil permettant de convertir les jeux physiques en versions numériques, marquant une évolution majeure.",
+          "url": "https://www.frandroid.com/produits-android/console/console-de-jeux/3165169_xbox-teste-disc2digital-un-outil-pour-convertir-vos-jeux-physiques-en-versions-numeriques",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/07/image-12-5.jpg?resize=1600,900&key=b1d37ea6"
+        },
+        {
+          "title": "Meta: Jefferies maintient l'achat sur le Cloud",
+          "summary": "Jefferies réaffirme sa confiance en Meta, soulignant son potentiel de croissance avec son expansion stratégique dans le cloud.",
+          "url": "https://fr.investing.com/news/analyst-ratings/jefferies-reitere-sa-recommandation-dachat-sur-meta-avec-son-entree-dans-le-cloud-93CH-3482564",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL3G0JB_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Guyane: Centrale du Larivot en phase critique",
+          "summary": "Le projet de la centrale du Larivot en Guyane entre dans sa phase de construction la plus cruciale et décisive.",
+          "url": "https://www.franceguyane.fr/actualite/economie-consommation/centrale-du-larivot-le-chantier-entre-dans-sa-phase-decisive-1084749.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/6a45646e53fae8a9f005dc4a/width_1000/image.jpg"
+        },
+        {
+          "title": "Fountaine Pajot: CA en baisse de 12,7%",
+          "summary": "Le constructeur de catamarans Fountaine Pajot a annoncé un chiffre d'affaires en recul de 12,7%, à 136,3 M€.",
+          "url": "https://fr.investing.com/news/global-filings/fountaine-pajot-enregistre-un-chiffre-daffaires-de-1363-m-en-baisse-de-127-93CH-3482557",
+          "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL7H0NV_L.jpg"
+        },
+        {
+          "title": "Check Point Logiciel: Options au plus haut",
+          "summary": "Le volume de trading d'options de Check Point Logiciel a atteint son niveau le plus élevé depuis 2021, signalant un intérêt fort.",
+          "url": "https://fr.investing.com/news/stock-market-news/le-trading-doptions-de-check-point-logiciel-atteint-son-plus-haut-depuis-2021-93CH-3482558",
+          "image": "https://i-invdn-com.investing.com/news/LYNXNPEB6R0AQ_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA: Choc, LeBron quitte les Lakers",
+          "summary": "Coup de tonnerre dans la NBA : LeBron James a informé les Lakers de son intention de partir, une ère se termine.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/coup-de-tonnerre-en-nba-le-bron-james-a-annonce-son-depart-a-la-direction-des-lakers_AV-202606300751.html",
+          "image": "https://images.bfmtv.com/VyIv6cdqhh9UAE1Pv-frQgcHhns=/0x42:2048x1194/800x0/images/LeBron-James-avec-les-Lakers-contre-les-Bulls-en-NBA-le-12-mars-2026-2312702.jpg"
+        },
+        {
+          "title": "Athlétisme: Bilan du Meeting de Paris",
+          "summary": "Le Meeting de Paris a vu des records de France et des surprises, même sans record du monde pour Duplantis.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/pas-de-record-du-monde-pour-duplantis-noah-lyles-battu-records-de-france-pour-anais-bourgoin-et-agathe-guillemot-ce-qu-il-faut-retenir-du-meeting-de-paris_AN-202606280419.html",
+          "image": "https://images.bfmtv.com/P2Ld9qO5ZS_VStB1EfwU8Y49uZ0=/0x106:2048x1258/800x0/images/Armand-Duplantis-le-28-juin-2026-2311504.jpg"
+        },
+        {
+          "title": "Rugby: Affaire Auradou-Jegou relancée",
+          "summary": "L'affaire Auradou-Jegou, concernant le XV de France, pourrait être rouverte, le non-lieu étant réexaminé.",
+          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/xv-de-france-l-affaire-auradou-jegou-rouverte-le-non-lieu-pourrait-etre-annule_AD-202607010893.html",
+          "image": "https://images.bfmtv.com/pRnp9a92KxPBg2tW0wK0cPGoWbE=/0x5:2048x1157/800x0/images/Hugo-Auradou-et-Oscar-Jegou-a-l-entrainement-avec-le-XV-de-France-le-28-janvier-2025-2024618.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Faits Divers Régionaux",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Agen: Incendie de moissonneuse et champ",
+          "summary": "Près d'Agen, une moissonneuse-batteuse a pris feu, propageant l'incendie à un champ, brûlant trois hectares de chaumes.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/sainte-colombe-en-bruilhois/pres-d-agen-une-moissonneuse-batteuse-prend-feu-avec-propagation-a-un-champ-3-hectares-de-chaumes-partent-en-fumee-29755984.php",
+          "image": null
+        },
+        {
+          "title": "Lot-et-Garonne: Accident de quad grave",
+          "summary": "Un jeune homme a été grièvement blessé dans un accident de quad en Lot-et-Garonne et héliporté vers Pellegrin.",
+          "url": "https://www.sudouest.fr/faits-divers/lot-et-garonne-un-jeune-homme-heliporte-vers-l-hopital-pellegrin-apres-un-accident-de-quad-29755925.php",
+          "image": null
+        },
+        {
+          "title": "Pétanque: Fraude aux paris sportifs",
+          "summary": "Des champions de pétanque sont soupçonnés d'avoir truqué des matchs, entraînant neuf gardes à vue pour fraude aux paris.",
+          "url": "https://www.sudouest.fr/sport/petanque/petanque-plusieurs-champions-soupconnes-d-avoir-truque-des-matches-neuf-personnes-en-garde-a-vue-pour-fraude-de-paris-sportifs-29755865.php",
+          "image": null
+        }
+      ]
+    }
+  ]
+}
