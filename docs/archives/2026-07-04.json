@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Florent",
-  "global_summary": "L'actualité de ce jour révèle un monde en pleine effervescence, où les enjeux géopolitiques majeurs côtoient les phénomènes de société et les coups de tonnerre sportifs. Entre la démonstration de force post-funérailles en Iran et le 250ème anniversaire des USA sur fond de guerre en Ukraine, la scène internationale est marquée par des dynamiques complexes et des célébrations médiatisées comme le mariage de Taylor Swift.\nSur le plan national, la France est traversée par des questions de justice sociale, comme l'affaire Lyhanna et la suspension d'agents syndiqués, ainsi que par la volonté de préserver son patrimoine. Les secteurs tech et business s'adaptent à une instabilité croissante, tandis que le monde du sport vibre au rythme des annonces choc en NBA et des rebondissements dans le basket français, promettant une semaine riche en émotions et en défis.",
-  "running_advice": "Coach, c'est une excellente journée pour chausser vos baskets ! Avec un ciel dégagé et aucune pluie, toutes les conditions sont réunies pour une session revigorante. Cependant, attention, les températures vont grimper jusqu'à 32.5°C et l'indice UV est très élevé (7.6). Je vous conseille vivement de courir très tôt le matin, juste après le lever du soleil à 06:21, pour profiter de la fraîcheur. Sinon, attendez le soir, après 20h, quand le soleil commence à descendre. Dans tous les cas, crème solaire indispensable, casquette et hydratation maximale avant, pendant et après l'effort. Votre corps vous remerciera ! Allez, on y va !",
-  "weather_string": "☀️ Ciel dégagé (18.5°C / 32.5°C)",
+  "global_summary": "Les funérailles d'Ali Khamenei en Iran ont servi de démonstration politique majeure, soulignant les enjeux géopolitiques persistants. En France, une affaire d'agressions sexuelles a mené à des manifestations nationales, tandis que les répercussions économiques des prix du carburant continuent d'influencer le marché des véhicules électriques. Le secteur tech est également sous pression, avec une amende record confirmée contre Google. Les défis sociétaux et économiques sont clairement au cœur de l'actualité.\nCependant, l'actualité n'est pas que sombre : le \"mariage du siècle\" de Taylor Swift fait rêver l'Amérique. Sur le plan sportif, un séisme secoue la NBA avec le possible départ de LeBron James des Lakers, et le XV de France se prépare à un choc majeur contre les All Blacks. Une réforme ambitieuse du sport professionnel en France promet également de redéfinir le paysage local. De plus, de nouvelles initiatives visent à préserver le patrimoine français et à explorer des curiosités scientifiques étonnantes.",
+  "running_advice": "Prépare tes baskets, champion(ne) ! Aujourd'hui, avec un ciel dégagé et des températures allant de 18.5°C à 32.4°C, c'est une opportunité en or pour ton entraînement. L'indice UV est à 7.6, ce qui signifie que le soleil tape fort. Pour une course optimale et sécurisée, je te recommande vivement de viser tôt le matin, juste après le lever du soleil (vers 6h30-7h30), ou en fin de journée, peu avant le coucher (entre 20h30 et 21h30). N'oublie pas ta protection solaire (crème, casquette, lunettes de soleil) et hydrate-toi abondamment avant, pendant et après l'effort. Fais de cette journée un succès sportif !",
+  "weather_string": "☀️ Ciel dégagé (18.5°C / 32.4°C)",
   "weather_stats": {
-    "temp": "32.5°C",
+    "temp": "32.4°C",
     "rain": "0%",
     "uv": "7.6"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Iran: Funérailles de Khamenei, démonstration de force",
-          "summary": "Les obsèques d'Ali Khamenei ont été l'occasion d'un grand ballet diplomatique et politique, signe des enjeux régionaux.",
+          "title": "Funérailles Khamenei: Démonstration de puissance iranienne",
+          "summary": "Les obsèques d'Ali Khamenei se transforment en une démonstration politique et diplomatique majeure en Iran.",
           "url": "https://www.nouvelobs.com/monde/20260703.OBS116379/derriere-le-week-end-de-funerailles-d-ali-khamenei-en-iran-une-demonstration-politique-et-diplomatique.html",
           "image": "https://focus.nouvelobs.com/2026/07/03/0/0/5409/3606/1200/800/0/0/39d33ec_upload-1-s4ofrkmwthya-000-b94q9pt.jpg"
         },
         {
-          "title": "Taylor Swift: Le «mariage du siècle» enflamme la presse",
-          "summary": "Les noces de la superstar Taylor Swift sont devenues l'événement mondain le plus commenté aux États-Unis.",
+          "title": "Taylor Swift: Le \"mariage du siècle\" enflamme l'Amérique",
+          "summary": "Les noces de la superstar Taylor Swift et Travis Kelce déchaînent la presse américaine, un événement planétaire.",
           "url": "https://www.courrierinternational.com/article/medias-le-mariage-du-siecle-les-noces-de-taylor-swift-dechainent-la-presse-americaine_246491",
           "image": "https://focus.courrierinternational.com/2026/07/03/0/0/5271/3672/644/0/60/0/7bc78fe_ftp-1-ucem2xipmb6x-2026-07-03t124908z-1747020763-rc2c6mal55pa-rtrmadp-3-people-taylor-swift-kelce.JPG"
         },
         {
-          "title": "Guerre Ukraine, USA 250 ans: Une semaine sous tension",
-          "summary": "Guerre en Ukraine, anniversaire américain et tensions en Afrique du Sud dominent l'actualité internationale.",
+          "title": "Tour d'horizon: Ukraine, USA, Afrique du Sud",
+          "summary": "Flash sur la guerre en Ukraine, le 250ème anniversaire des USA et les manifestations en Afrique du Sud.",
           "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260703-guerre-en-ukraine-250%C3%A8me-anniversaire-des-usa-manifestations-en-afrique-du-sud-et-coupe-du-monde",
           "image": "https://s.france24.com/media/display/15aa3396-770c-11f1-9c21-005056a97e36/w:1280/p:16x9/FR-20260703-191255-195403-CS.jpg"
         }
@@ -39,21 +39,21 @@
       "articles": [
         {
           "title": "Charente: Animateur mis en examen pour agressions sexuelles",
-          "summary": "Un animateur périscolaire fait face à des accusations graves d'agressions sexuelles sur de jeunes enfants en Charente.",
+          "summary": "Un animateur périscolaire est mis en examen pour des agressions sexuelles présumées sur deux enfants.",
           "url": "https://www.lefigaro.fr/flash-actu/charente-un-animateur-du-periscolaire-mis-en-examen-pour-agressions-sexuelles-sur-deux-enfants-20260703",
           "image": "https://i.f1g.fr/media/cms/orig/2026/07/03/6ecc46f386cafbd304b86a5b7c040b9374dd960ff773a865ba8d39ed2ab2a19b.JPG"
         },
         {
-          "title": "Patrimoine: Un Pass pour sauver les monuments en danger",
-          "summary": "Un nouveau Pass est lancé pour financer la préservation des monuments historiques français menacés de dégradation.",
+          "title": "Patrimoine: Un Pass pour sauver nos monuments en danger",
+          "summary": "Un nouveau Pass est lancé pour aider à préserver les monuments historiques français menacés.",
           "url": "https://www.lejdd.fr/culture/patrimoine-un-pass-pour-preserver-les-monuments-en-danger-178050",
           "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/07/03/17/054_237799-1.jpg?VersionId=4NaWnNPcw7VF0xDgvxiV2sf0N9_e0lOQ"
         },
         {
-          "title": "Affaire Lyhanna: Mobilisation nationale contre violences sexuelles",
-          "summary": "Des rassemblements se tiennent partout en France pour dénoncer les violences sexuelles et réclamer une loi globale.",
-          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/affaire-lyhanna-des-rassemblements-dans-toute-la-france-ce-samedi-contre-les-violences-sexuelles-et-pour-l-adoption-d-une-loi-globale-29787625.php",
-          "image": ""
+          "title": "LCI Direct: Le flash info du vendredi 3 juillet",
+          "summary": "Retrouvez l'essentiel de l'actualité de ce vendredi 3 juillet 2026 avec le LCI Direct.",
+          "url": "https://www.tf1info.fr/replay-lci/videos/video-lci-direct-du-vendredi-3-juillet-2026-2451226.html",
+          "image": "https://photos.tf1info.fr/images/1280/720/lci-direct-du-vendredi-3-juillet-2026-a28791-0@1x.jpeg"
         }
       ]
     },
@@ -62,106 +62,115 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Dirigeants 2026: Pression sur les données s'accroît",
-          "summary": "Une étude révèle une instabilité croissante, accentuant la pression sur la gestion et la sécurité des données d'entreprise.",
+          "title": "Données: Pression croissante sur les dirigeants en 2026",
+          "summary": "Une étude révèle une instabilité accrue et une pression grandissante sur les données pour les leaders en 2026.",
           "url": "https://itsocial.fr/cloud-infrastructure-it/cloud-infrastructure-it-livres-blancs/etude-benchmark-de-dirigeants-2026-la-pression-sur-les-donnees-saccroit-a-mesure-que-linstabilite-sinstalle-lb-landing-fournisseur/",
           "image": "https://itsocial.fr/wp-content/uploads/2026/07/Capture-decran-2026-07-03-182027-.png"
         },
         {
-          "title": "Carburant cher: Boom des voitures électriques d'occasion",
-          "summary": "La hausse des prix du carburant propulse le marché des véhicules électriques d'occasion vers de nouveaux sommets.",
+          "title": "Voitures électriques d'occasion: Le marché explose",
+          "summary": "La flambée des prix du carburant dope le marché des voitures électriques d'occasion, une tendance forte.",
           "url": "https://www.capital.fr/auto/la-flambee-des-prix-du-carburant-fait-exploser-le-marche-des-voitures-electriques-doccasion-1528184",
           "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~03~26967d0f-32ba-4c23-a59f-e33cb8245748.jpeg/1200x900/quality/80/la-flambee-des-prix-du-carburant-fait-exploser-le-marche-des-voitures-electriques-d-occasion.jpg"
         },
         {
-          "title": "Google: L'UE confirme l'amende record de 4 milliards",
-          "summary": "L'Union européenne maintient sa sanction historique de 4 milliards d'euros infligée à Google pour abus de position dominante.",
-          "url": "https://www.centrepresseaveyron.fr/2026/07/03/plus-de-4-milliards-deuros-google-avait-ecope-d-une-amende-record-en-2018-lunion-europeenne-a-confirme-la-sanction-ce-jeudi-2-juillet-13449497.php",
-          "image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6a46663b35aefe5b4908ce94/hd/image.jpg?v=1"
-        }
-      ]
-    },
-    {
-      "label": "Business",
-      "emoji": "💼",
-      "articles": [
-        {
-          "title": "Hénin-Beaumont: Justice suspend l'exclusion d'agents",
-          "summary": "La justice annule l'exclusion de deux agents syndiqués à la mairie d'Hénin-Beaumont, décision très commentée.",
-          "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/henin-beaumont/a-la-mairie-d-henin-beaumont-la-justice-suspend-l-exclusion-de-deux-agents-municipaux-syndiques_8093006.html",
-          "image": "https://www.franceinfo.fr/pictures/XP3dy9KQgmCoQJaB1fQjyufZr20/1200x675/2026/07/03/6a480430bb6aa618526214.jpg"
-        },
-        {
-          "title": "Craponne-sur-Arzon: La Région soutient la scierie CBD",
-          "summary": "La Région apporte son soutien au développement de la scierie CBD, acteur majeur de l'économie locale.",
-          "url": "https://www.leprogres.fr/economie/2026/07/03/la-region-accompagne-le-developpement-de-la-scierie-cbd-du-groupe-cenzato",
-          "image": "https://cdn-s-www.leprogres.fr/images/CEAE5765-6FB4-4116-906F-394AEB1DFA31/NW_listB/la-region-accompagne-le-developpement-de-la-scierie-cbd-du-groupe-cenzato-1783104698.jpg"
-        },
-        {
-          "title": "Nexans: Finalise la cession de sa branche Autoelectric",
-          "summary": "Le géant du câble Nexans a finalisé la cession de sa division Autoelectric, stratégique pour son avenir.",
+          "title": "Nexans finalise la cession de Autoelectric",
+          "summary": "Le groupe Nexans annonce avoir finalisé la vente stratégique de sa filiale Autoelectric.",
           "url": "https://www.lerevenu.com/reussir-bourse/avis-des-pros/nexans-finalise-la-cession-d-autoelectric",
           "image": "https://cdn.overlord.media/nexans_resultats_t1_2026_acquisition_republic_wire_achat_6fe03861_fdadaeb3fd.webp"
         }
       ]
     },
     {
-      "label": "Gironde",
-      "emoji": "📍",
+      "label": "Business",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Gironde: Deux mobile homes détruits par un incendie",
-          "summary": "Un incendie a ravagé deux mobile homes dans un camping en Gironde, mobilisant les secours locaux.",
-          "url": "https://www.sudouest.fr/gironde/incendie-en-gironde-deux-mobile-homes-detruits-par-le-feu-dans-un-camping-29787626.php",
-          "image": ""
+          "title": "Google: Amende record de 4 milliards confirmée",
+          "summary": "L'Union européenne confirme une amende de plus de 4 milliards d'euros infligée à Google.",
+          "url": "https://www.centrepresseaveyron.fr/2026/07/03/plus-de-4-milliards-deuros-google-avait-ecope-dune-amende-record-en-2018-lunion-europeenne-a-confirme-la-sanction-ce-jeudi-2-juillet-13449497.php",
+          "image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6a46663b35aefe5b4908ce94/hd/image.jpg?v=1"
+        },
+        {
+          "title": "Hénin-Beaumont: Justice protège agents syndiqués",
+          "summary": "La justice suspend l'exclusion de deux agents municipaux syndiqués à Hénin-Beaumont, une victoire sociale.",
+          "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/henin-beaumont/a-la-mairie-d-henin-beaumont-la-justice-suspend-l-exclusion-de-deux-agents-municipaux-syndiques_8093006.html",
+          "image": "https://www.franceinfo.fr/pictures/XP3dy9KQgmCoQJaB1fQjyufZr20/1200x675/2026/07/03/6a480430bb6aa618526214.jpg"
+        },
+        {
+          "title": "Craponne-sur-Arzon: La Région soutient scierie locale",
+          "summary": "La Région Auvergne-Rhône-Alpes accompagne le développement de la scierie CBD du groupe Cenzato.",
+          "url": "https://www.leprogres.fr/economie/2026/07/03/la-region-accompagne-le-developpement-de-la-scierie-cbd-du-groupe-cenzato",
+          "image": "https://cdn-s-www.leprogres.fr/images/CEAE5765-6FB4-4116-906F-394AEB1DFA31/NW_listB/la-region-accompagne-le-developpement-de-la-scierie-cbd-du-groupe-cenzato-1783104698.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Lifestyle",
-      "emoji": "🎮",
+      "label": "Région & Faits Divers",
+      "emoji": "📍",
       "articles": [
         {
-          "title": "Incroyable: Des milliers de créatures sur votre visage",
-          "summary": "Des micro-organismes vivent sur la peau de notre visage, se nourrissant et évoluant avec nous, révèle une étude.",
+          "title": "Incendie Aude: 900 hectares brûlés, pompiers en lutte",
+          "summary": "150 pompiers luttent toujours contre un incendie majeur ayant dévoré 900 hectares dans l'Aude.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-dans-l-aude-900-hectares-brules-150-pompiers-luttent-toujours-contre-les-flammes-ce-samedi-matin-a-pouzols-minervois-29787693.php"
+        },
+        {
+          "title": "Affaire Lyhanna: Rassemblements nationaux contre violences",
+          "summary": "Des mobilisations nationales exigent une loi globale contre les violences sexuelles suite à l'affaire Lyhanna.",
+          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/affaire-lyhanna-des-rassemblements-dans-toute-la-france-ce-samedi-contre-les-violences-sexuelles-et-pour-l-adoption-d-une-loi-globale-29787625.php"
+        },
+        {
+          "title": "Incendie Gironde: Deux mobile homes détruits par le feu",
+          "summary": "Un incendie a ravagé deux mobile homes dans un camping en Gironde ce matin.",
+          "url": "https://www.sudouest.fr/gironde/incendie-en-gironde-deux-mobile-homes-detruits-par-le-feu-dans-un-camping-29787626.php"
+        }
+      ]
+    },
+    {
+      "label": "Curiosités & Loisirs",
+      "emoji": "👾",
+      "articles": [
+        {
+          "title": "Votre visage: Un écosystème secret de créatures",
+          "summary": "Des milliers de créatures vivent sur votre peau, se nourrissant et évoluant avec vous, incroyable!",
           "url": "https://www.journaldugeek.com/2026/07/03/peau-visage-abrite-milliers-creatures-nourrissent-votre-peau-evoluent-avec-vous/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/Peau-1280x853.jpg"
         },
         {
-          "title": "Anti-moustique: L'objet indispensable pour cet été",
-          "summary": "Découvrez le gadget astucieux pour passer un été sans piqûres de moustiques, un vrai soulagement.",
+          "title": "Anti-moustique: L'objet indispensable de l'été",
+          "summary": "Découvrez l'objet innovant qui promet de vous protéger efficacement des piqûres de moustiques cet été.",
           "url": "https://www.journaldugeek.com/2026/07/03/contre-les-piqures-de-moustique-on-a-trouve-lobjet-indispensable-pour-cet-ete/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/heat-it-stick-anti-piqure-smartphone-plage-1280x853.jpeg"
         },
         {
-          "title": "God Of War Laufey: Ce que l'on sait du prochain jeu",
-          "summary": "Toutes les informations sur le très attendu jeu God Of War Laufey sont enfin dévoilées : date, prix, histoire.",
-          "url": "https://www.journaldugeek.com/2026/07/03/god-of-war-laufey-tout-ce-que-lon-sait-a-ce-jour-date-de-sortie-prix-histoire-contexte-gameplay/",
+          "title": "God Of War Laufey: Tout ce qu'on sait à ce jour",
+          "summary": "Découvrez toutes les premières informations sur le prochain jeu vidéo God Of War Laufey (date, histoire, gameplay).",
+          "url": "https://www.journaldugeek.com/2026/07/03/god-of-war-laufey-tout-ce-que-lon-sait-a-ce-jour-date-de-sortie-prix-histoire-contexte- gameplay/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/gof-of-war-laufey-tout-savoir-1280x853.jpg"
         }
       ]
     },
     {
       "label": "Sport",
-      "emoji": "🏆",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "NBA: Coup de tonnerre, LeBron James quitte les Lakers",
-          "summary": "Une page se tourne aux Lakers : LeBron James annonce son départ, secouant le monde de la NBA.",
+          "title": "LeBron James: Départ choc des Lakers de Los Angeles",
+          "summary": "Coup de tonnerre en NBA: LeBron James annonce son départ aux dirigeants des Lakers, un séisme.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/coup-de-tonnerre-en-nba-le-bron-james-a-annonce-son-depart-a-la-direction-des-lakers_AV-202606300751.html",
           "image": "https://images.bfmtv.com/VyIv6cdqhh9UAE1Pv-frQgcHhns=/0x42:2048x1194/800x0/images/LeBron-James-avec-les-Lakers-contre-les-Bulls-en-NBA-le-12-mars-2026-2312702.jpg"
         },
         {
-          "title": "Basket: Monaco recalé des championnats professionnels",
-          "summary": "Séisme dans le basket français : Monaco n'est pas autorisé à participer aux championnats professionnels par la Ligue.",
-          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/seisme-dans-le-basket-francais-monaco-recale-des-championnats-professionnels-par-le-gendarme-financier-de-la-ligue_AD-202607030724.html",
-          "image": "https://images.bfmtv.com/Ae3jIffzjQgu5-akbHdTnYQ_36c=/0x0:2048x1152/800x0/images/Les-joueurs-de-Monaco-celebrent-leur-titre-de-champion-de-France-le-23-juin-2026-2314804.jpg"
-        },
-        {
           "title": "Rugby: Nouvelle-Zélande-France, le choc des nations",
-          "summary": "Suivez en direct le premier match du Championnat des nations entre les Bleus et les All Blacks, un affrontement épique.",
+          "summary": "Suivez en direct le premier match du Championnat des nations entre les Bleus et les All Blacks.",
           "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/direct-nouvelle-zelande-france-suivez-le-premier-choc-de-championnat-des-nations-entre-les-bleus-et-les-blacks-en-live_LS-202607040067.html",
           "image": "https://images.bfmtv.com/zKLJfIIZYR4_iaEhhc_wxGHv5Dc=/0x106:2048x1258/800x0/images/Matthieu-Jalibert-et-Yoram-Moefana-avec-le-XV-de-France-en-fevrier-2026-2315020.jpg"
+        },
+        {
+          "title": "Sport Pro: Réforme adoptée à l'Assemblée Nationale",
+          "summary": "La réforme du sport professionnel est votée, promettant de grands changements pour le football français.",
+          "url": "https://rmcsport.bfmtv.com/societe/la-reforme-du-sport-professionnel-adoptee-a-l-assemblee-nationale-de-grands-changements-a-venir-dans-le-foot-francais_AN-202606290870.html",
+          "image": "https://images.bfmtv.com/BqL0z71taWCLHqrPKZrH-PsP5uI=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-en-juin-2026-2312081.jpg"
         }
       ]
     }
