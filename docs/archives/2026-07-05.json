@@ -1,0 +1,136 @@
+{
+  "ephemeride": "Saint Antoine",
+  "global_summary": "L'actualité de ce jour est marquée par des tensions géopolitiques palpables, avec la situation critique en Iran suite à des frappes et des remous politiques en France autour de la prochaine présidentielle. Parallèlement, le monde du sport vibre intensément, entre le début du Tour de France et les enjeux cruciaux de la Coupe du Monde de football. \nAu-delà de ces grands titres, des défis plus quotidiens émergent, qu'il s'agisse de l'inquiétude économique des vignerons ou des mésaventures technologiques et financières qui nous rappellent l'importance de la vigilance et de l'adaptation face aux imprévus.",
+  "running_advice": "Champion(ne), aujourd'hui le soleil tape fort avec des températures qui grimpent jusqu'à près de 35°C et un indice UV élevé (7.65) ! Ce n'est pas le moment de fléchir, mais d'adapter ta stratégie. L'heure idéale pour chausser tes baskets sera très tôt le matin, juste après le lever du soleil vers 6h30, ou bien en fin de journée, après 20h30, lorsque la chaleur diminue. Surtout, n'oublie pas ta crème solaire, un chapeau et une hydratation maximale avant, pendant et après l'effort. Reste au top, reste hydraté(e) !",
+  "weather_string": "☀️ Ciel dégagé (19.3°C / 34.7°C)",
+  "weather_stats": {
+    "temp": "34.7°C",
+    "rain": "0%",
+    "uv": "7.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Deuil et menaces à Téhéran après la mort d'Ali Khamenei",
+          "summary": "L'Iran pleure son chef suprême, promettant vengeance après des frappes. La tension mondiale est à son comble.",
+          "url": "https://www.franceinfo.fr/monde/iran/nous-nous-vengerons-une-foule-d-iraniens-afflue-dans-le-centre-de-teheran-pour-un-dernier-adieu-a-ali-khamenei-tue-par-des-frappes-americaines-et-israeliennes_8094185.html",
+          "image": "https://www.franceinfo.fr/pictures/ugJp5oQJuWKnCeAp_It5RnUF__Q/1200x675/2026/07/04/6a494d7a45bcc089831399.jpg"
+        },
+        {
+          "title": "Tour de France: Vingegaard s'empare du maillot jaune",
+          "summary": "Jonas Vingegaard (Visma) débute le Tour de France en force, s'emparant du premier maillot jaune.",
+          "url": "https://www.franceguyane.fr/actualite/international/tour-de-france-vingegaard-premier-maillot-jaune-apres-le-succes-de-visma-dans-le-chrono-1085067.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/6a4953870afbe4f98c0920ed/width_1000/image.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Présidentielle: Philippe observe la droite divisée",
+          "summary": "Édouard Philippe tire profit des divisions internes chez Les Républicains pour la prochaine présidentielle.",
+          "url": "https://www.vosgesmatin.fr/elections/2026/07/04/l-edito-presidentielle-edouard-philippe-profite-de-la-gueguerre-entre-laurent-wauquiez-et-bruno-retailleau",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/2BFAC59A-2781-429A-B4E1-5AD19230911F/NW_listB/presidentielle-edouard-philippe-profite-de-la-gueguerre-entre-wauquiez-et-retailleau-1783190666.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Usurpation d'identité: un couple ruiné par l'arnaque",
+          "summary": "Des retraités se retrouvent avec 370 000 euros de dettes après une usurpation d'identité. Vigilance requise!",
+          "url": "https://www.capital.fr/votre-argent/usurpation-didentite-ce-couple-de-retraites-se-retrouve-avec-370-000-euros-de-dettes-1528197",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~04~0aba9e48-7d2c-4735-b32d-d496e44fd469.jpg/1200x900/focus-point/1774%2C604/usurpation-d-identite-ce-couple-de-retraites-se-retrouve-avec-370-000-euros-de-dettes.jpg"
+        },
+        {
+          "title": "Steam Machine: pannes dès la sortie pour la console",
+          "summary": "La nouvelle console Steam Machine à 1000€ fait face à des pannes, surnommées la \"Red Line of Death\".",
+          "url": "https://www.lesnumeriques.com/gaming/la-steam-machine-a-deja-sa-red-line-of-death-la-console-a-1-000-subit-des-pannes-des-sa-sortie-n258883.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/258883/56c4e9f4-la-steam-machine-a-deja-sa-red-line-of-death-la-console-a-1-000-subit-des-pannes-des-sa-sortie__800_800__848-0-3178-2330.jpg"
+        },
+        {
+          "title": "Android: alerte sismique réussie au Venezuela",
+          "summary": "Le système d'alerte sismique Android a protégé 11 millions de Vénézuéliens lors d'un tremblement de terre.",
+          "url": "https://www.journaldugeek.com/2026/07/04/le-systeme-dalerte-sismique-dandroid-a-prevenu-plus-de-11-millions-de-venezueliens/",
+          "image": "https://www.journaldugeek.com/app/uploads/2020/03/faille-seisme-tremblement-terre.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Voyage surprise: les Français hésitent encore",
+          "summary": "Le concept de voyage surprise peine à séduire pleinement les Français, qui préfèrent garder le contrôle.",
+          "url": "https://www.lefigaro.fr/voyages/les-francais-ont-du-mal-a-lacher-prise-pourquoi-le-voyage-surprise-peine-encore-a-trouver-son-public-20260704",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/06/04/df0946040e5880228ca99d7a88baba7051a8c28e62814c2e9124b8926915f4fc.jpg"
+        },
+        {
+          "title": "Vignerons du Plan de Dieu inquiets",
+          "summary": "Les vignerons de la région du Plan de Dieu expriment leur vive inquiétude pour l'avenir de leur filière.",
+          "url": "https://www.ledauphine.com/economie/2026/07/04/8-sup-e-sup-nuit-du-plan-de-dieu-les-vignerons-sont-inquiets",
+          "image": "https://cdn-s-www.ledauphine.com/images/B1765261-34D8-46F6-9579-58AA358BD46F/NW_listB/8e-nuit-du-plan-de-dieu-les-vignerons-sont-inquiets-1783190833.jpg"
+        },
+        {
+          "title": "Prix de la RAM: plaintes contre les géants",
+          "summary": "Les prix de la RAM s'envolent, menant à une plainte contre Samsung, SK Hynix et Micron.",
+          "url": "https://www.journaldugeek.com/2026/07/04/les-prix-de-la-ram-senvolent-samsung-sk-hynix-et-micron-vises-par-une-plainte/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/ram-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Société",
+      "emoji": "🚨",
+      "articles": [
+        {
+          "title": "Feu de forêt majeur dans les Pyrénées-Orientales",
+          "summary": "Un incendie dévastateur ravage 930 hectares dans les Pyrénées-Orientales, mobilisant des centaines de pompiers.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-un-nouveau-feu-de-foret-s-est-declare-samedi-soir-dans-les-pyrenees-orientales-930-hectares-brules-et-pres-de-600-pompiers-mobilises-29799880.php"
+        },
+        {
+          "title": "Corps découvert dans le canal Saint-Martin à Paris",
+          "summary": "Un corps a été retrouvé dans le canal Saint-Martin à Paris, ouvrant une enquête.",
+          "url": "https://www.sudouest.fr/france/paris-le-corps-d-un-homme-decouvert-dans-le-canal-saint-martin-29796777.php"
+        },
+        {
+          "title": "Manifestation à Périgueux contre violences sexuelles",
+          "summary": "Une mobilisation à Périgueux exige une loi intégrale contre les violences sexuelles et sexistes.",
+          "url": "https://www.sudouest.fr/societe/violences-sexuelles-et-sexistes-nouvelle-manifestation-a-perigueux-pour-reclamer-une-loi-integrale-tout-de-suite-29791243.php"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Les Bleus en 8e de finale: France-Paraguay",
+          "summary": "Revivez le 8e de finale de la Coupe du Monde entre la France et le Paraguay, un match crucial.",
+          "url": "https://www.20minutes.fr/sport/football/4232858-20260704-direct-france-paraguay-remake-8e-finale-france-98-bleus-suivez-match",
+          "image": "https://img.20mn.fr/_muifhoMT92T5jcBTFBzpCk/1444x920_kylian-mbappe-ousmane-dembele-et-les-bleus-retrouvent-le-paraguay-en-8es-de-finale-de-la-coupe-du-monde-ce-samedi-soir-a-philadelphie-un-match-piege-dont-les-francais-partent-largement-favoris"
+        },
+        {
+          "title": "NBA: LeBron James quitte les Lakers",
+          "summary": "Coup de tonnerre en NBA: la superstar LeBron James annonce son départ des Lakers, un séisme.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/coup-de-tonnerre-en-nba-le-bron-james-a-annonce-son-depart-a-la-direction-des-lakers_AV-202606300751.html",
+          "image": "https://images.bfmtv.com/VyIv6cdqhh9UAE1Pv-frQgcHhns=/0x42:2048x1194/800x0/images/LeBron-James-avec-les-Lakers-contre-les-Bulls-en-NBA-le-12-mars-2026-2312702.jpg"
+        },
+        {
+          "title": "Rugby français: des comptes repassent au vert",
+          "summary": "La Fédération Française de Rugby voit ses finances s'améliorer, les perspectives s'éclaircissent pour l'ovalie.",
+          "url": "https://rmcsport.bfmtv.com/rugby/rugby-les-perspectives-s-eclaircissent-les-comptes-de-la-federation-francaise-repassent-dans-le-vert_AD-202607040330.html",
+          "image": "https://images.bfmtv.com/MgYgSiLcKSrkayoL5SCbHKIFpos=/0x39:2048x1191/800x0/images/Le-logo-de-la-FFR-sur-un-poteau-lors-de-France-Irlande-dans-le-Tournoi-des-6-Nations-le-5-fevrier-2026-2254206.jpg"
+        }
+      ]
+    }
+  ]
+}
