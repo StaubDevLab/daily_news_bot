@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Sainte Mariette",
+  "global_summary": "Le monde du sport est en pleine ébullition, avec des rebondissements inattendus à la Coupe du Monde de football, des mouvements majeurs en NBA et des tensions palpables dans le basket français. L'athlétisme fait également parler de lui avec les déclarations de Kévin Mayer. Pendant ce temps, la France fait face à une vague de chaleur intense, notamment en Nouvelle-Aquitaine, nécessitant vigilance. \nLes actualités révèlent aussi des défis technologiques liés à la cybersécurité, des enjeux économiques importants autour de l'énergie et de la haute finance, ainsi que des faits divers qui captivent l'attention régionale. Cette journée est un mélange dynamique de performances athlétiques, de préoccupations climatiques et de questions sociétales et judiciaires.",
+  "running_advice": "Amis coureurs, l'énergie du matin sera votre meilleure alliée aujourd'hui ! Avec des températures qui grimpent jusqu'à 38.5°C et un ciel dégagé, il est crucial d'adapter votre séance. Je vous recommande chaudement de chausser vos baskets dès le lever du soleil (06:23) pour profiter de la fraîcheur. L'indice UV de 7.6 est élevé : crème solaire indispensable et casquette pour protéger votre peau. Hydratez-vous abondamment avant, pendant et après l'effort ! Écoutez votre corps et visez une sortie courte et intense pour maximiser les bénéfices sans surchauffe. Restez prudents, restez performants !",
+  "weather_string": "☀️ Ciel dégagé (20.8°C / 38.5°C)",
+  "weather_stats": {
+    "temp": "38.5°C",
+    "rain": "0%",
+    "uv": "7.6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Tunisie : les Aigles déçus à la Coupe du Monde",
+          "summary": "Les Aigles de Carthage quittent la compétition, laissant un sentiment de désolation pour les fans.",
+          "url": "https://www.lepoint.fr/monde/tunisie-a-la-coupe-du-monde-les-aigles-de-la-desolation-SHCNRHRHZFGL7MBJKAHSD4UF7A/",
+          "image": "https://www.lepoint.fr/resizer/v2/WBCGHHP3ABO5ZGUBDUVLI7LDJM.jpg?auth=2747e3994f01b31c5f7355bc85bbf8ae6509d37658e1a9b338ffa054c94a58cc&smart=true&width=1200&height=900"
+        },
+        {
+          "title": "Maison Blanche accusée d'ingérence FIFA",
+          "summary": "Polémique après des allégations d'appel de la Maison Blanche à la FIFA pour annuler une sanction.",
+          "url": "https://www.ladepeche.fr/2026/07/05/coupe-du-monde-merci-davoir-fait-ce-quil-fallait-la-maison-blanche-accusee-davoir-appele-la-fifa-pour-annuler-une-sanction-donald-trump-se-rejouit-de-13454576.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a4aa5964eeee612a7029fea/hd/image.jpg?v=5"
+        },
+        {
+          "title": "Haaland enflamme le Mondial : Brésil-Norvège",
+          "summary": "L'inévitable Erling Haaland ouvre le score, captivant les fans lors de cet huitième de finale.",
+          "url": "https://www.france24.com/fr/sports/20260705-mondial-bresil-norvege-en-direct-live-vinicius-haaland-choc-8es-de-finale",
+          "image": "https://s.france24.com/media/display/5785b70e-7838-11f1-9e12-005056bf30b7/w:1280/p:16x9/BRA-NOR-H.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Auger-Aliassime en quarts à Wimbledon",
+          "summary": "Le tennisman Felix Auger-Aliassime, après un match tendu, retrouve les quarts de finale.",
+          "url": "https://www.eurosport.fr/tennis/wimbledon/2026/wimbledon-2026-i-felix-auger-aliassime-se-fait-peur-face-a-alejandro-davidovich-fokina-mais-retrouve-les-quarts-cinq-ans-apres_sto23316599/story.shtml",
+          "image": "https://i.eurosport.com/2026/07/05/image-982166b3-7560-4932-9efe-d13075bb10c0-85-2560-1440.jpeg"
+        },
+        {
+          "title": "Premier vol israélien vers l'Arctique",
+          "summary": "Une nouvelle ère s'ouvre pour le tourisme avec ce vol inédit vers un archipel polaire.",
+          "url": "https://www.i24news.tv/fr/actu/tourisme/artc-premier-vol-israelien-vers-un-archipel-de-l-ocean-arctique",
+          "image": "https://cdn.i24news.tv/uploads/98/2d/75/25/de/32/f5/19/f7/c1/e8/1f/e4/1c/a2/2e/982d7525de32f519f7c1e81fe41ca22e.jpg"
+        },
+        {
+          "title": "Tennis : succès et révélations en Franche-Comté",
+          "summary": "Les courts franc-comtois sont le théâtre de belles performances, entre rédemption et confirmation.",
+          "url": "https://www.estrepublicain.fr/sport/2026/07/05/une-redemption-a-saint-vit-une-revelation-a-rougemont-une-confirmation-a-miserey-salines-on-fait-le-tour-des-courts-francs-comtois",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/010DF67E-9E82-4F8A-93BF-E2250268B315/NW_listB/une-redemption-a-saint-vit-une-revelation-a-rougemont-une-confirmation-a-miserey-salines-on-fait-le-tour-des-courts-francs-comtois-1783319801.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "IPTV pirate : coup de filet mondial",
+          "summary": "Une opération internationale démantèle un réseau d'IPTV illégal, 14 interpellations.",
+          "url": "https://www.journaldugeek.com/2026/07/06/iptv-pirate-14-interpellations-en-france-et-a-letranger-la-facture-pourrait-finir-par-piquer/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/06/match-foot-tv-iptv-1280x853.jpg"
+        },
+        {
+          "title": "Malware Windows vole vos cryptos",
+          "summary": "Attention : un nouveau logiciel malveillant cible les portefeuilles de cryptomonnaies via copier-coller.",
+          "url": "https://www.journaldugeek.com/2026/07/06/ce-malware-windows-surveille-vos-copier-coller-pour-voler-vos-cryptos/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/07/pirate-1403x935.jpg"
+        },
+        {
+          "title": "Mini-réacteur nucléaire américain en attente",
+          "summary": "Le prometteur mini-réacteur nucléaire américain est encore loin de l'exploitation commerciale.",
+          "url": "https://www.journaldugeek.com/2026/07/06/le-nouveau-mini-reacteur-americain-encore-loin-de-la-prise-electrique/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/08/nucleaire-google-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Col de la République : géant oublié du Tour",
+          "summary": "Ce col emblématique, puni et laissé de côté, a une histoire riche dans le Tour de France.",
+          "url": "https://www.lejsl.com/culture-loisirs/2026/07/05/le-col-de-la-republique-geant-puni-et-oublie-du-tour-de-france",
+          "image": "https://cdn-s-www.lejsl.com/images/5A30EB9D-BE97-4F3A-AFAF-62DD510031CB/NW_listB/le-col-de-la-republique-geant-puni-et-oublie-du-tour-de-france-1783278934.jpg"
+        },
+        {
+          "title": "Ardennes : 50 ans d'hydroélectricité",
+          "summary": "Une centrale hydroélectrique majeure des Ardennes célèbre un demi-siècle de production.",
+          "url": "http://www.lardennais.fr/id816016/article/2026-07-05/construction-production-et-ambitions-cette-centrale-hydroelectrique-des-ardennes",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/07/05/node_816016/15470983/public/2026/07/05/89724677.jpeg?itok=WU_bH4Ft1783278088"
+        },
+        {
+          "title": "Affaire Arnault : justice française sème le trouble",
+          "summary": "La justice administrative française a gâché une cérémonie américaine en l'honneur de Bernard Arnault.",
+          "url": "https://www.lemonde.fr/economie/article/2026/07/05/la-justice-administrative-francaise-a-gache-la-fete-americaine-a-la-gloire-de-bernard-arnault_6720912_3234.html",
+          "image": "https://img.lemde.fr/2026/06/29/45/0/8043/4021/644/322/60/0/8978824_ftp-1-lyhrgd3inryb-5484014-01-06.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Affaire Jubillar : les clés de l'enquête",
+          "summary": "Retour détaillé sur les éléments marquants, de la disparition de Delphine aux aveux de Cédric.",
+          "url": "https://www.sudouest.fr/faits-divers/affaire-jubillar-de-la-disparition-aux-aveux-retour-sur-les-elements-cles-de-l-enquete-29813341.php",
+          "image": null
+        },
+        {
+          "title": "Landes : fuite après refus d'obtempérer",
+          "summary": "Un conducteur est en fuite après un refus d'obtempérer, son passager en garde à vue.",
+          "url": "https://www.sudouest.fr/landes/landes-un-conducteur-toujours-en-fuite-apres-un-refus-d-obtemperer-son-passager-interpelle-et-place-en-garde-a-vue-29805876.php",
+          "image": null
+        },
+        {
+          "title": "Canicule : la Nouvelle-Aquitaine en orange",
+          "summary": "La région est en vigilance orange avec des températures attendues jusqu'à 40°C.",
+          "url": "https://www.sudouest.fr/environnement/climat/chaleur/direct-canicule-la-nouvelle-aquitaine-en-vigilance-orange-jusqu-a-400c-attendus-4-600-hectares-brules-dans-le-sud-est-suivez-l-evolution-lundi-6-juillet-29812855.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "LeBron James quitte les Lakers",
+          "summary": "Coup de tonnerre en NBA : LeBron James annonce son départ de la franchise des Lakers.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/coup-de-tonnerre-en-nba-le-bron-james-a-annonce-son-depart-a-la-direction-des-lakers_AV-202606300751.html",
+          "image": "https://images.bfmtv.com/VyIv6cdqhh9UAE1Pv-frQgcHhns=/0x42:2048x1194/800x0/images/LeBron-James-avec-les-Lakers-contre-les-Bulls-en-NBA-le-12-mars-2026-2312702.jpg"
+        },
+        {
+          "title": "Monaco recalé des championnats de basket",
+          "summary": "Séisme : Monaco écarté des compétitions professionnelles par le gendarme financier du basket.",
+          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/seisme-dans-le-basket-francais-monaco-recale-des-championnats-professionnels-par-le-gendarme-financier-de-la-ligue_AD-202607030724.html",
+          "image": "https://images.bfmtv.com/Ae3jIffzjQgu5-akbHdTnYQ_36c=/0x0:2048x1152/800x0/images/Les-joueurs-de-Monaco-celebrent-leur-titre-de-champion-de-France-le-23-juin-2026-2314804.jpg"
+        },
+        {
+          "title": "Kévin Mayer et la théorie alimentaire",
+          "summary": "Les propos de Kévin Mayer sur régime et généalogie divisent : vérité ou maladresse scientifique ?",
+          "url": "https://rmcsport.bfmtv.com/athletisme/propos-maladroits-verite-scientifique-ou-simple-ressenti-le-regime-alimentaire-est-il-vraiment-lie-a-l-arbre-genealogique-comme-l-affirme-kevin-mayer_AV-202607030809.html",
+          "image": "https://images.bfmtv.com/NsRgXs4RhLr8oAv8LQnu_TXiUig=/141x156:1997x1200/800x0/images/Le-decathlonien-Kevin-Mayer-lors-du-meeting-de-Charlety-en-2024-2314776.jpg"
+        }
+      ]
+    }
+  ]
+}
