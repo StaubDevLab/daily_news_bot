@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Raoul",
+  "global_summary": "Le monde fait face à des réalités contrastées : l'intelligence artificielle soulève des questions d'éthique en manipulant des images, tandis que des drames humains se déroulent, des séismes dévastateurs au Venezuela aux défis migratoires en Espagne. La technologie continue de transformer nos vies, avec des innovations prometteuses mais aussi des menaces sur la sécurité des données et l'évolution des marchés de l'emploi. \nEn France, des enquêtes criminelles non résolues côtoient des crises régionales majeures comme les incendies, et le sport professionnel se réinvente. Entre avancées techniques, enjeux sociétaux et épreuves naturelles, cette journée est un kaléidoscope d'informations qui nous invite à rester informés et engagés.",
+  "running_advice": "Aujourd'hui, le soleil brille fort et les températures grimpent, atteignant près de 40°C ! Ce n'est clairement PAS une journée pour courir en pleine après-midi. Pour votre séance, privilégiez absolument la fraîcheur de l'aube, juste après le lever du soleil à 06:23. C'est le moment idéal pour profiter d'une température plus clémente et d'un calme revigorant. Avec un indice UV de 7.6, la protection solaire est impérative : crème solaire à indice élevé, casquette et lunettes de soleil sont vos meilleurs alliés. Hydratez-vous abondamment avant, pendant et après l'effort. Écoutez votre corps, et restez à l'ombre dès que le soleil tape fort. Allez, on se motive pour un départ matinal et dynamique !",
+  "weather_string": "☀️ Ciel dégagé (21°C / 39.9°C)",
+  "weather_stats": {
+    "temp": "39.9°C",
+    "rain": "0%",
+    "uv": "7.6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Funérailles iraniennes : l'IA manipule des images",
+          "summary": "Des éléments visuels des obsèques d'Ali Khamenei auraient été artificiellement améliorés par l'IA, soulevant des questions éthiques.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260706-certaines-images-des-fun%C3%A9railles-d-ali-khamenei-dop%C3%A9es-par-l-intelligence-artificielle",
+          "image": "https://s.france24.com/media/display/944a37be-7973-11f1-8038-005056bf30b7/w:1024/p:16x9/capture-5713812266a4c0669ab2769-65682726.jpg"
+        },
+        {
+          "title": "Madrid : mineurs non accompagnés fuient tests d'âge",
+          "summary": "Plus de la moitié des mineurs non accompagnés en région madrilène échappent au test d'âge, 70% des testés sont majeurs.",
+          "url": "https://www.fdesouche.com/2026/07/06/region-madrilene-espagne-55-des-mineurs-non-accompagnes-fuient-avant-le-test-de-leur-age-parmi-ceux-restes-et-testes-70-ne-sont-pas-mineurs/",
+          "image": "https://www.fdesouche.com/wp-content/uploads/2026/07/K2-taille-740x518.jpg"
+        },
+        {
+          "title": "Séisme Venezuela : bilan tragique, 3535 morts",
+          "summary": "Douze jours après le double séisme, le Venezuela déplore un bilan humain lourd qui continue de s'alourdir.",
+          "url": "https://www.franceinfo.fr/monde/venezuela/douze-jours-apres-le-double-seisme-au-venezuela-le-bilan-monte-a-3-535-morts_8096798.html",
+          "image": "https://www.franceinfo.fr/pictures/IynmMM4WpPC6lvY72lc59jhheNA/0x215:2064x1376/432x243/filters:format(jpg)/2026/07/06/6a4c047f27a89735649223.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Affaire Jubillar : le mystère persiste",
+          "summary": "Malgré les investigations, le mystère entourant la disparition de Delphine Jubillar et l'absence de corps demeure entier.",
+          "url": "https://www.bfmtv.com/police-justice/video-affaire-jubillar-le-mystere-du-corps-reste-entier_VN-202607060868.html",
+          "image": "https://images.bfmtv.com/SgbefdwL1DtHXnAGAvnkQ9d1Gpk=/0x0:1280x720/800x0/images/Affaire-Jubillar-le-mystere-du-corps-reste-entier-2316124.jpg"
+        },
+        {
+          "title": "Pyrénées-Orientales : 12 000 évacués, feu maîtrisé",
+          "summary": "Un incendie majeur a contraint 12 000 personnes à évacuer ; le feu ne progresse plus depuis lundi soir.",
+          "url": "https://www.sudouest.fr/occitanie/incendie-dans-les-pyrenees-orientales-12-000-personnes-evacuees-le-feu-ne-progresse-plus-depuis-lundi-soir-29829153.php",
+          "image": null
+        },
+        {
+          "title": "Sport pro : réforme adoptée à l'Assemblée",
+          "summary": "L'Assemblée nationale a voté une réforme majeure pour le sport professionnel, annonçant de profonds changements.",
+          "url": "https://rmcsport.bfmtv.com/societe/la-reforme-du-sport-professionnel-adoptee-a-l-assemblee-nationale-de-grands-changements-a-venir-dans-le-foot-francais_AN-202606290870.html",
+          "image": "https://images.bfmtv.com/BqL0z71taWCLHqrPKZrH-PsP5uI=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-en-juin-2026-2312081.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & IA",
+      "emoji": "🤖",
+      "articles": [
+        {
+          "title": "Cerebras : l'outsider qui bouscule l'IA",
+          "summary": "Marc Zakher présente Cerebras, un acteur innovant qui se positionne comme un concurrent sérieux dans les processeurs IA.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-marc-zakher-cerebras-cerebras-l-outsider-des-processeurs-ia-06-07_VN-202607060864.html",
+          "image": "https://images.bfmtv.com/MC1Vx2APHEjnhlZE2vlYrcJI3f0=/0x0:1280x720/800x0/images/Marc-Zakher-Cerebras-Cerebras-l-outsider-des-processeurs-IA-06-07-2316121.jpg"
+        },
+        {
+          "title": "Métiers manuels en vogue, l'IA menace tertiaire",
+          "summary": "Les jeunes privilégient les carrières manuelles face à l'essor de l'IA qui bouleverse les emplois de service.",
+          "url": "https://www.capital.fr/votre-carriere/les-metiers-manuels-plebiscites-par-les-jeunes-alors-que-lia-menace-les-emplois-tertiaires-1528244",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~06~3667171b-bfcc-4e0a-ac4b-c4b2267193e3.jpeg/1200x900/quality/80/les-metiers-manuels-plebiscites-par-les-jeunes-alors-que-l-ia-menace-les-emplois-tertiaires.jpg"
+        },
+        {
+          "title": "IA : danger d'hypnose et vol de données",
+          "summary": "Des navigateurs IA sont vulnérables à l'hypnose, permettant le vol de mots de passe et données sensibles via des outils connus.",
+          "url": "https://intelligence-artificielle.developpez.com/actu/384837/Les-navigateurs-IA-peuvent-etre-soumis-a-une-espece-d-hypnose-ouvrant-la-voie-au-vol-de-vos-donnees-sensibles-comme-les-mots-de-passe-l-attaque-a-trompe-des-outils-connus-parmi-lesquels-ChatGPT-Atlas/",
+          "image": "https://www.developpez.com/images/logos/web.png"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Xbox : 4800 licenciements, un empire en chute",
+          "summary": "Xbox réduit drastiquement ses effectifs, marquant un tournant majeur et préoccupant pour l'industrie du gaming.",
+          "url": "https://www.journaldugeek.com/2026/07/07/4800-licenciements-chez-xbox-la-chute-dun-empire/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/asha-sharma-xbox-1280x720.jpg"
+        },
+        {
+          "title": "Basket pro : Monaco recalé financièrement",
+          "summary": "Le club de Monaco se voit refuser l'accès aux championnats professionnels par le gendarme financier de la Ligue.",
+          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/seisme-dans-le-basket-francais-monaco-recale-des-championnats-professionnels-par-le-gendarme-financier-de-la-ligue_AD-202607030724.html",
+          "image": "https://images.bfmtv.com/Ae3jIffzjQgu5-akbHdTnYQ_36c=/0x0:2048x1152/800x0/images/Les-joueurs-de-Monaco-celebrent-leur-titre-de-champion-de-France-le-23-juin-2026-2314804.jpg"
+        },
+        {
+          "title": "JO Alpes 2030 : EDF, premier sponsor majeur",
+          "summary": "EDF s'engage comme le premier partenaire financier d'envergure pour les prochains Jeux olympiques d'hiver de 2030.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/alpes-2030-edf-premier-sponsor-majeur-des-jeux-olympiques-d-hiver_AD-202607020818.html",
+          "image": "https://images.bfmtv.com/xYuRhPtCq4bE1GqR5a7sEyId4D4=/60x2:940x497/800x0/images/EDF-est-annonce-comme-premier-partenaire-des-JO-2030-2314130.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Sud-Gironde : deux maisons détruites par le feu",
+          "summary": "Un violent incendie a ravagé deux habitations mitoyennes dans le Sud-Gironde, laissant un lourd bilan matériel.",
+          "url": "https://www.sudouest.fr/faits-divers/sud-gironde-un-incendie-detruit-deux-maisons-mitoyennes-29829006.php",
+          "image": null
+        },
+        {
+          "title": "Dordogne : accident frontal, deux blessés",
+          "summary": "Deux conducteurs ont été blessés dans une violente collision frontale impliquant deux véhicules en Dordogne.",
+          "url": "https://www.sudouest.fr/faits-divers/boulazac-isle-manoire-deux-voitures-se-rentrent-dedans-de-face-les-deux-conducteurs-sont-blesses-29829029.php",
+          "image": null
+        },
+        {
+          "title": "SDEG : Jean-Michel Bolvin reconduit",
+          "summary": "Jean-Michel Bolvin a été réélu à la tête du SDEG, assurant la continuité de sa direction pour la région.",
+          "url": "https://www.charentelibre.fr/politique/jean-michel-bolvin-rempile-a-la-tete-du-sdeg-29820427.php",
+          "image": "https://media.charentelibre.fr/29820427/1200x600/j-desbois-260227-004.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gaming & Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "PS5 : tension sur les comptes inactifs",
+          "summary": "Une clause sur l'inactivité des comptes PSN provoque de nouvelles inquiétudes et débats parmi les utilisateurs.",
+          "url": "https://www.journaldugeek.com/2026/07/07/ps5-fermeture-dun-compte-apres-3-ans-dinactivite-un-faux-debat-qui-cristallise-les-tensions/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/playstation-fermeture-studio-1280x853.jpg"
+        },
+        {
+          "title": "Google Chrome : grand ménage d'extensions",
+          "summary": "Google prépare une vague de suppressions pour les extensions Chrome, modifiant l'expérience utilisateur.",
+          "url": "https://www.journaldugeek.com/2026/07/07/google-coup-de-balai-a-prevoir-dans-les-extensions-chrome/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/Chrome-Unsplash-1280x853.jpg"
+        },
+        {
+          "title": "NBA : le lancer franc unique testé",
+          "summary": "Une nouvelle règle de lancer franc est expérimentée en NBA Summer League, potentielle révolution en perspective.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-le-lancer-franc-unique-teste-lors-de-la-prochaine-summer-league-vers-une-revolution-a-venir-sur-les-parquets-americains_AV-202607030564.html",
+          "image": "https://images.bfmtv.com/GZDmTjS7XuLJTCzcXRMzIcgKyRo=/0x34:2048x1186/800x0/images/Victor-Wembanyama-tentant-un-lancer-franc-le-5-juin-2026-2314680.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "XV de France : Penaud forfait majeur",
+          "summary": "Coup dur pour le XV de France : Damian Penaud est forfait pour les prochains matchs contre l'Australie et le Japon.",
+          "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/xv-de-france-coup-dur-pour-les-bleus-damian-penaud-forfait-contre-l-australie-et-le-japon_AV-202607060486.html",
+          "image": "https://images.bfmtv.com/JhWcOcJYDL6VWTW-7M_GcsJRK-E=/0x0:2048x1152/800x0/images/Damian-Penaud-lors-du-match-Nouvelle-Zelande-France-34-32-championnat-des-Nations-le-4-juillet-2026-2315867.jpg"
+        },
+        {
+          "title": "Rugby U20 : suspension pour racisme",
+          "summary": "Un joueur espagnol U20 écope de sept matchs de suspension pour des propos racistes envers un adversaire français.",
+          "url": "https://rmcsport.bfmtv.com/rugby/coupe-du-monde-u20-7-matchs-de-suspension-pour-un-joueur-espagnol-pour-propos-racistes-visant-un-francais_AV-202607050253.html",
+          "image": "https://images.bfmtv.com/c_GwBoLgDZcAh7YQ9hJ2xCntW4M=/160x2:1040x497/800x0/images/Luka-Keletaona-face-a-l-Irlande-2314068.jpg"
+        },
+        {
+          "title": "Kévin Mayer : débat sur l'alimentation et la science",
+          "summary": "Les propos de Kevin Mayer sur l'alimentation et la généalogie suscitent un débat entre ressenti personnel et vérité scientifique.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/propos-maladroits-verite-scientifique-ou-simple-ressenti-le-regime-alimentaire-est-il-vraiment-lie-a-l-arbre-genealogique-comme-l-affirme-kevin-mayer_AV-202607030809.html",
+          "image": "https://images.bfmtv.com/NsRgXs4RhLr8oAv8LQnu_TXiUig=/141x156:1997x1200/800x0/images/Le-decathlonien-Kevin-Mayer-lors-du-meeting-de-Charlety-en-2024-2314776.jpg"
+        }
+      ]
+    }
+  ]
+}
