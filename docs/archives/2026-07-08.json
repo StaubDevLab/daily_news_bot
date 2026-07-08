@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Thibault",
-  "global_summary": "L'actualité de ce jour est marquée par des annonces politiques majeures et des questions sociétales poignantes. Marine Le Pen a confirmé sa candidature pour 2027, posant les bases de la prochaine échéance électorale française, tandis qu'une tragique disparition secoue Marbella. En France, la solidarité s'organise autour d'un rescapé de Gaza, et la gestion de la mortalité animale durant la canicule soulève des questions. \n\nLe monde de la technologie poursuit sa course avec l'innovation robotique et l'expansion des véhicules électriques, tandis que l'internet spatial voit l'arrivée d'un nouveau concurrent. Les enjeux locaux en Gironde abordent la prévention et la transparence judiciaire, sur fond de défis environnementaux persistants liés à la sécheresse. Enfin, le sport connaît un véritable bouleversement entre les séismes en NBA avec le départ de LeBron James, les secousses dans le basket français, et les décisions importantes concernant la participation russe aux Jeux Olympiques.",
-  "running_advice": "Alors, prêt à transpirer et à te dépasser aujourd'hui, champion ? La météo est clémente côté pluie (0% !) mais nous impose de la vigilance avec des températures qui monteront jusqu'à 34.3°C et un indice UV élevé de 7.6. Avec le brouillard matinal, l'ambiance sera un peu mystérieuse, mais ne te laisse pas tromper par la fraîcheur apparente, le soleil frappera fort ! Le moment idéal pour chausser tes baskets sera très tôt le matin, juste après le lever du soleil à 06h24, pour profiter d'une relative fraîcheur et d'une humidité qui peut être agréable. Sinon, vise le soir, une bonne heure avant le coucher du soleil à 21h51, quand la chaleur commence à retomber. Quelle que soit ton heure, hydratation maximale obligatoire et une bonne couche de crème solaire, car ce soleil, même voilé, ne plaisante pas. Écoute ton corps, fixe tes objectifs et fonce ! Tu as ça en toi !",
-  "weather_string": "🌫️ Brouillard (20.8°C / 34.3°C)",
+  "global_summary": "L'actualité de ce jour révèle un mélange dynamique de faits marquants, allant des enjeux politiques nationaux aux défis environnementaux, en passant par des avancées technologiques audacieuses. En France, la scène politique se prépare déjà pour 2027 avec la confirmation de candidature de Marine Le Pen, tandis que l'impact de la canicule sur l'élevage et un élan de solidarité pour un rescapé de Gaza captent l'attention. \nÀ l'échelle mondiale, l'innovation robotique et l'expansion des véhicules électriques côtoient des faits divers tragiques. Le monde du sport n'est pas en reste, marqué par des bouleversements majeurs comme le départ de LeBron James des Lakers, une décision importante concernant les athlètes russes aux JO, et un séisme dans le basket français, illustrant une journée riche en rebondissements et en réflexions sur notre société.",
+  "running_advice": "Météo du jour : 🌫️ Brouillard, 20.8°C à 34.4°C, 0% de pluie, UV 7.6. \nSaint Thibault, aujourd'hui est une journée pour courir, mais avec intelligence ! Le brouillard matinal peut être trompeur. Avec des températures qui grimpent jusqu'à 34.4°C et un indice UV très élevé de 7.6, il est crucial d'adapter votre séance. Le moment idéal pour chausser vos baskets serait au lever du soleil à 06:24, profitant de l'air le plus frais. Si vous préférez la fin de journée, attendez le coucher du soleil à 21:51, quand la chaleur sera retombée. Quelle que soit l'heure, la protection solaire (crème, chapeau, lunettes) est ABSOLUMENT indispensable, et une hydratation constante est votre meilleure alliée. Écoutez votre corps, dépassez-vous, mais toujours en sécurité !",
+  "weather_string": "🌫️ Brouillard (20.8°C / 34.4°C)",
   "weather_stats": {
-    "temp": "34.3°C",
+    "temp": "34.4°C",
     "rain": "0%",
     "uv": "7.6"
   },
@@ -14,14 +14,14 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Le Pen candidate 2027",
-          "summary": "Marine Le Pen confirme sa candidature à la présidentielle 2027, annonçant un pourvoi en cassation.",
+          "title": "Le Pen confirme sa candidature présidentielle 2027",
+          "summary": "Marine Le Pen maintient sa candidature pour l'élection présidentielle de 2027 et annonce un pourvoi en cassation.",
           "url": "https://www.courrierinternational.com/article/vu-de-l-etranger-marine-le-pen-annonce-maintenir-sa-candidature-a-l-election-presidentielle-2027_247371",
           "image": "https://focus.courrierinternational.com/2026/07/07/0/0/5152/3440/644/0/60/0/1bfe1eb_ftp-1-gojjcajsbmvs-afp-b9jt4zl.jpg"
         },
         {
-          "title": "Décès tragique à Marbella",
-          "summary": "Une jeune Norvégienne disparue à Marbella a été retrouvée morte, renversée par un camion.",
+          "title": "Marbella : une jeune Norvégienne retrouvée morte",
+          "summary": "En Espagne, la disparition de Nikoline, 17 ans, s'achève tragiquement ; elle a été retrouvée morte, renversée par un camion.",
           "url": "https://www.ladepeche.fr/2026/07/07/disparition-de-nikoline-a-marbella-en-vacances-en-espagne-cette-norvegienne-de-17-ans-ne-donnait-plus-de-nouvelles-elle-est-retrouvee-morte-renversee-13457581.php",
           "image": "https://images.ladepeche.fr/api/v1/images/view/6a4d03eeacd9aec34604cc14/standard/image.jpg?v=10"
         }
@@ -32,20 +32,20 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Solidarité pour un rescapé de Gaza",
-          "summary": "Bar Kuperstein, rescapé de Gaza, a reçu une immense vague de solidarité suite à son appel.",
+          "title": "Rescapé de Gaza : vague de solidarité en France",
+          "summary": "Bar Kuperstein, rescapé de Gaza, reçoit un immense soutien après son appel à l'aide, touchant la France entière.",
           "url": "https://www.i24news.tv/fr/actu/israel/artc-rescape-de-gaza-bar-kuperstein-submerge-par-une-vague-de-solidarite-apres-son-appel-a-l-aide",
           "image": "https://cdn.i24news.tv/uploads/11/7b/f3/6b/d6/16/76/67/6d/11/bf/1c/78/8a/8b/da/117bf36bd61676676d11bf1c788a8bda.jpg"
         },
         {
-          "title": "Canicule: Animaux morts et contrôle",
-          "summary": "9 127 tonnes d'animaux morts durant la canicule, la ministre estime la situation sous contrôle.",
+          "title": "Canicule : mortalité animale sous \"contrôle\" ?",
+          "summary": "9 127 tonnes d'animaux morts pendant la canicule ; la ministre juge la situation \"sous contrôle\" dans les élevages.",
           "url": "https://www.bfmtv.com/economie/entreprises/agriculture/9-127-tonnes-d-animaux-morts-malgre-une-surmortalite-notable-pendant-la-canicule-la-ministre-de-l-agriculture-estime-que-la-situation-est-restee-sous-controle-dans-les-elevages_AD-202607070828.html",
           "image": "https://images.bfmtv.com/WnQ7AnyItZhxXUIHhL3_76S8ilA=/0x39:768x471/800x0/images/La-ministre-de-l-Agriculture-Annie-Genevard-repond-a-des-journalistes-le-15-decembre-2025-a-Toulouse-2201613.jpg"
         },
         {
-          "title": "Journées du Patrimoine 2026",
-          "summary": "Découvrez les joyaux de Sucy-en-Brie pour les Journées du Patrimoine 2026. Préparez vos visites !",
+          "title": "Journées du Patrimoine 2026 : Sucy-en-Brie",
+          "summary": "Découvrez les trésors cachés de Sucy-en-Brie (94) lors des prochaines Journées du Patrimoine 2026.",
           "url": "https://www.sortiraparis.com/actualites/journees-du-patrimoine/articles/124839-journees-du-patrimoine-2026-les-joyaux-a-visiter-dans-la-ville-de-sucy-en-brie-94",
           "image": "https://cdn.sortiraparis.com/images/800/1462/219243-fort-de-sucy.jpg"
         }
@@ -53,97 +53,88 @@
     },
     {
       "label": "Tech",
-      "emoji": "💻",
+      "emoji": "⚙️",
       "articles": [
         {
-          "title": "UMA et les robots humanoïdes",
-          "summary": "UMA dévoile sa vision avant-gardiste pour la prochaine génération de robots humanoïdes. Le futur est en marche.",
+          "title": "UMA dévoile ses robots humanoïdes nouvelle génération",
+          "summary": "UMA présente une vision audacieuse pour l'avenir des robots humanoïdes, promettant des avancées majeures.",
           "url": "http://www.businesswire.com/news/home/20260707272178/fr/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA%3D%3D",
           "image": "https://mms.businesswire.com/media/20260707272178/fr/2846087/21/UMA-Manufacturing-dexterity.jpg"
         },
         {
-          "title": "Fiat Topolino électrique aux USA",
-          "summary": "La petite Fiat Topolino électrique fait son entrée remarquée sur le marché américain.",
+          "title": "La Fiat Topolino électrique arrive aux USA",
+          "summary": "La citadine électrique Fiat Topolino fait ses débuts officiels sur le marché automobile américain.",
           "url": "https://fr.investing.com/news/stock-market-news/la-fiat-topolino-electrique-debarque-aux-etatsunis-93CH-3488618",
           "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
         },
         {
-          "title": "Vulnérabilité critique OpenJPEG",
-          "summary": "Une faille de débordement d'entier a été identifiée dans OpenJPEG. Mettez à jour vos systèmes !",
-          "url": "https://www.globalsecuritymag.fr/vigilance-fr-openjpeg-debordement-d-entier-via-opj_pi_initialise_encode-analyse.html",
-          "image": "https://www.globalsecuritymag.fr/local/cache-vignettes/L40xH21/a3c0c28306689c72833bd0e5592942-00c4a.png"
+          "title": "Amazon Leo arrive, concurrence pour Starlink",
+          "summary": "Le Conseil d'État valide l'arrivée d'Amazon Leo en France, intensifiant la concurrence dans l'internet spatial.",
+          "url": "https://www.journaldugeek.com/2026/07/08/starlink-amazon-leo-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/amazon-leo-espace-france-europe-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Business",
+      "label": "Économie",
       "emoji": "📈",
       "articles": [
         {
-          "title": "Courtepaille rouvre à Montargis",
-          "summary": "Après trois ans de fermeture, le restaurant Courtepaille fait son grand retour à Montargis.",
+          "title": "Courtepaille renaît à Montargis après 3 ans",
+          "summary": "Après trois ans de fermeture, le restaurant Courtepaille rouvre ses portes à Montargis, redynamisant le commerce local.",
           "url": "https://www.larep.fr/montargis-45200/actualites/a-montargis-apres-trois-ans-de-fermeture-courtepaille-fait-son-retour-dans-le-paysage-commercial_15016892/",
           "image": "https://www.larep.fr/photoSRC/VVZTJ19dUTgIDAVOBQwd/reouverture-courtepaille-montargis_7762588.jpeg"
         },
         {
-          "title": "L'ISSEP quitte Lyon pour Paris",
-          "summary": "L'école de Marion Maréchal, l'ISSEP, délocalise son campus de Lyon vers Paris. Un grand changement !",
+          "title": "L'ISSEP de Marion Maréchal déménage à Paris",
+          "summary": "L'école ISSEP, fondée par Marion Maréchal, quitte Lyon pour s'installer définitivement à Paris.",
           "url": "https://www.ledauphine.com/politique/2026/07/07/region-l-issep-l-ecole-fondee-par-marion-marechal-quitte-definitivement-lyon-pour-paris",
           "image": "https://cdn-s-www.ledauphine.com/images/3B3FDD07-BCA5-4C6F-8A73-27C14280D369/NW_listB/l-issep-l-ecole-fondee-par-marion-marechal-quitte-definitivement-lyon-pour-paris-1783449624.jpg"
         },
         {
-          "title": "Les Belges roulent en occasion",
-          "summary": "En Belgique, les véhicules d'occasion de plus de dix ans sont de plus en plus prisés par les acheteurs.",
+          "title": "Les Belges plébiscitent les vieilles occasions",
+          "summary": "En Belgique, les véhicules d'occasion de plus de dix ans sont de plus en plus prisés par les consommateurs.",
           "url": "https://www.rtbf.be/article/les-belges-privilegient-de-plus-en-plus-des-vehicules-d-occasion-qui-affichent-plus-de-dix-ans-11754470",
           "image": "https://static-content.rtbf.be/article/image/770x433/4/1/c/171522c835f683432b98ed7c95fc9ba1.jpg"
         }
       ]
     },
     {
-      "label": "Gironde",
-      "emoji": "🍷",
+      "label": "Région (Gironde)",
+      "emoji": "📍",
       "articles": [
         {
-          "title": "Dispositif STOP pour pédophiles",
-          "summary": "Découvrez le dispositif STOP, un numéro pour orienter les pédophiles vers des soins préventifs.",
-          "url": "https://www.sudouest.fr/justice/intervenir-en-amont-du-passage-a-l-acte-a-la-decouverte-du-dispositif-stop-le-numero-d-appel-pour-orienter-les-pedophiles-vers-des-soins-29845973.php",
-          "image": null
+          "title": "Gironde : un dispositif STOP pour pédophiles",
+          "summary": "Découverte du dispositif STOP en Gironde, un numéro pour orienter les pédophiles vers des soins préventifs.",
+          "url": "https://www.sudouest.fr/justice/intervenir-en-amont-du-passage-a-l-acte-a-la-decouverte-du-dispositif-stop-le-numero-d-appel-pour-orienter-les-pedophiles-vers-des-soins-29845973.php"
         },
         {
-          "title": "Affaire Lyhanna : la justice s'explique",
-          "summary": "À Libourne, justice et gendarmerie répondent aux citoyens sur l'affaire Lyhanna et leurs préoccupations.",
-          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/affaire-lyhanna-on-n-est-pas-la-pour-dire-que-tout-fonctionne-parfaitement-a-libourne-le-tribunal-face-aux-questions-des-citoyens-29843216.php",
-          "image": null
+          "title": "Affaire Lyhanna : justice et citoyens face à face",
+          "summary": "À Libourne, justice et gendarmerie répondent aux questions citoyennes suite à l'affaire Lyhanna, un dialogue essentiel.",
+          "url": "https://www.sudouest.fr/faits-divers/disparition-de-lyhanna/affaire-lyhanna-on-n-est-pas-la-pour-dire-que-tout-fonctionne-parfaitement-a-libourne-le-tribunal-face-aux-questions-des-citoyens-29843216.php"
         },
         {
-          "title": "Canicule : sécheresse et incendies",
-          "summary": "La canicule intensifie la sécheresse en Gironde, les nappes se vident et le risque d'incendie est inédit.",
-          "url": "https://www.sudouest.fr/environnement/climat/chaleur/direct-canicule-la-chaleur-gagne-du-terrain-les-nappes-se-vident-situation-difficile-sur-le-front-de-l-incendie-dans-les-pyrenees-orientales-suivez-l-evolution-mercredi-8-juillet-29845550.php",
-          "image": null
+          "title": "Canicule en Gironde : nappes et incendies",
+          "summary": "La chaleur s'intensifie en Gironde, vidant les nappes phréatiques et augmentant un risque d'incendie inédit.",
+          "url": "https://www.sudouest.fr/environnement/climat/chaleur/direct-canicule-la-chaleur-gagne-du-terrain-les-nappes-se-vident-situation-difficile-sur-le-front-de-l-incendie-dans-les-pyrenees-orientales-suivez-l-evolution-mercredi-8-juillet-29845550.php"
         }
       ]
     },
     {
-      "label": "Divertissement & Tech",
-      "emoji": "🎮",
+      "label": "Culture & Loisirs",
+      "emoji": "🍿",
       "articles": [
         {
-          "title": "Prime Video : section gratuite",
-          "summary": "Une section de Prime Video est désormais accessible sans abonnement. Découvrez du contenu gratuit !",
+          "title": "Prime Video : accès gratuit à certaines sections",
+          "summary": "Une section de Prime Video est désormais accessible sans abonnement, offrant du contenu gratuit à tous.",
           "url": "https://www.journaldugeek.com/2026/07/08/cette-section-de-prime-video-est-accessible-meme-si-vous-ne-payez-pas/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/prime-video-gratuit-chaines-1280x853.jpg"
         },
         {
-          "title": "Montagnes russes : 24h de folie",
-          "summary": "Un parc français fête les 10 ans de son attraction star avec un défi unique : 24h dans des montagnes russes.",
+          "title": "24h de montagnes russes pour un anniversaire",
+          "summary": "Un parc français célèbre les 10 ans de son attraction star avec un défi fou : 24 heures de montagnes russes !",
           "url": "https://www.journaldugeek.com/2026/07/08/24-heures-dans-des-montagnes-russes-pour-les-10-ans-de-son-attraction-star-ce-parc-francais-fait-une-folie/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/timber-walibi-1280x853.jpg"
-        },
-        {
-          "title": "Amazon Leo défie Starlink",
-          "summary": "Amazon Leo est validé en France, ouvrant la concurrence pour Starlink sur l'internet spatial.",
-          "url": "https://www.journaldugeek.com/2026/07/08/starlink-amazon-leo-france/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/07/amazon-leo-espace-france-europe-1280x853.jpg"
         }
       ]
     },
@@ -152,20 +143,20 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "NBA : LeBron James quitte les Lakers",
-          "summary": "Coup de tonnerre en NBA : LeBron James a annoncé son départ de la direction des Lakers. Une ère se termine.",
+          "title": "NBA : Coup de tonnerre, LeBron quitte les Lakers",
+          "summary": "Séisme en NBA : LeBron James annonce son départ aux dirigeants des Lakers, ouvrant une nouvelle ère.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/coup-de-tonnerre-en-nba-le-bron-james-a-annonce-son-depart-a-la-direction-des-lakers_AV-202606300751.html",
           "image": "https://images.bfmtv.com/VyIv6cdqhh9UAE1Pv-frQgcHhns=/0x42:2048x1194/800x0/images/LeBron-James-avec-les-Lakers-contre-les-Bulls-en-NBA-le-12-mars-2026-2312702.jpg"
         },
         {
-          "title": "Monaco recalé du basket pro",
-          "summary": "Séisme dans le basket français : Monaco est recalé des championnats professionnels par le gendarme financier.",
+          "title": "Séisme basket français : Monaco recalé",
+          "summary": "Monaco est refusé des championnats professionnels par le gendarme financier de la Ligue de basket, un choc.",
           "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/seisme-dans-le-basket-francais-monaco-recale-des-championnats-professionnels-par-le-gendarme-financier-de-la-ligue_AD-202607030724.html",
           "image": "https://images.bfmtv.com/Ae3jIffzjQgu5-akbHdTnYQ_36c=/0x0:2048x1152/800x0/images/Les-joueurs-de-Monaco-celebrent-leur-titre-de-champion-de-France-le-23-juin-2026-2314804.jpg"
         },
         {
-          "title": "Russes de retour aux JO",
-          "summary": "Les athlètes russes sont de nouveau autorisés aux JO, mais sans drapeau ni hymne. Une décision clé.",
+          "title": "JO : athlètes russes autorisés, sans symboles",
+          "summary": "Les athlètes russes pourront participer aux JO, mais sans hymne ni drapeau, après une décision controversée.",
           "url": "https://rmcsport.bfmtv.com/jeux-olympiques/les-athletes-russes-de-nouveau-autorises-aux-jeux-olympiques-sans-hymne-ni-drapeau_AV-202607070665.html",
           "image": "https://images.bfmtv.com/Mq2eK206nmvr_alHfcUe_juKxCQ=/0x96:2032x1239/800x0/images/Le-defile-de-la-delegation-russe-lors-de-la-ceremonie-de-cloture-des-JO-2026-2316616.jpg"
         }
