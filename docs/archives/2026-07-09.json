@@ -1,0 +1,169 @@
+{
+  "ephemeride": "Sainte Amandine",
+  "global_summary": "Le paysage international est aujourd'hui marqué par une escalade des tensions et des révélations majeures. Donald Trump secoue le Moyen-Orient en annonçant la fin du cessez-le-feu avec l'Iran, promettant des frappes sévères, tandis que les États-Unis renforcent l'Ukraine en l'autorisant à fabriquer des missiles Patriot. Parallèlement, une vaste opération mondiale d'Interpol a démantelé un réseau de fraude, menant à des milliers d'arrestations et des saisies colossales. \nSur le plan national, la France voit son actualité rythmée par des faits divers tragiques, des événements culturels et l'agression violente d'une sénatrice. Le monde du sport n'est pas en reste, avec le départ choc de LeBron James, la disqualification de Monaco du championnat de basket et l'annonce stratégique de la composition du XV de France. Une journée riche en rebondissements qui exige de rester informé et agile.",
+  "running_advice": "Aujourd'hui, Sainte Amandine nous gratifie d'un ciel 🌤️ peu nuageux, une opportunité pour bouger ! Cependant, la vigilance est de mise : les températures oscillent entre 18.7°C et un pic de 38.4°C, et l'indice UV est élevé (7.55). Pour optimiser votre run, visez les heures fraîches : levez-vous avec le soleil à 06:25 pour une session matinale vivifiante, ou attendez le début de soirée, idéalement après 20:00, quand la chaleur se fait moins écrasante. \nN'oubliez surtout pas : hydratation maximale avant, pendant et après l'effort, vêtements légers et clairs, casquette, lunettes de soleil et, impérativement, une protection solaire SPF 50. Soyez malin, écoutez votre corps et foncez vers vos objectifs en toute sécurité ! La régularité, c'est la clé !",
+  "weather_string": "🌤️ Peu nuageux (18.7°C / 38.4°C)",
+  "weather_stats": {
+    "temp": "38.4°C",
+    "rain": "0%",
+    "uv": "7.55"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump durcit le ton face à l'Iran.",
+          "summary": "Donald Trump proclame la fin du cessez-le-feu, menaçant l'Iran de frappes fortes au Moyen-Orient.",
+          "url": "https://www.ladepeche.fr/2026/07/08/decryptage-guerre-au-moyen-orient-nous-allons-les-frapper-fort-pourquoi-donald-trump-montre-les-dents-et-proclame-la-fin-du-cessez-le-feu-avec-liran-13459151.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a4e68f6540da49e4d0bd989/standard/image.jpg?v=1"
+        },
+        {
+          "title": "USA : l'Ukraine fabriquera des missiles Patriot.",
+          "summary": "Les États-Unis autorisent l'Ukraine à produire des missiles Patriot, renforçant significativement sa défense aérienne.",
+          "url": "https://www.france24.com/fr/europe/20260708-%C3%A9tats-unis-vont-autoriser-ukraine-fabriquer-des-missiles-patriot",
+          "image": "https://s.france24.com/media/display/ce4930c2-7ae6-11f1-bf32-005056a97e36/w:1024/p:16x9/df9c3c053fcde1ed74f03f620dbceae36c88f4ff.jpg"
+        },
+        {
+          "title": "Interpol : vaste opération mondiale anti-fraude.",
+          "summary": "Une opération mondiale d'Interpol interpelle 5 800 personnes et saisit 300 millions de dollars.",
+          "url": "https://www.sudouest.fr/international/5-800-interpellations-et-300-millions-de-dollars-saisis-lors-d-une-vaste-operation-mondiale-contre-la-fraude-menee-ce-jeudi-par-interpol-29861214.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Matt Damon : régime strict pour \"L'Odyssée\".",
+          "summary": "Matt Damon révèle son régime \"sans gâteau\" pour incarner Ulysse dans le film \"L'Odyssée\".",
+          "url": "https://www.bfmtv.com/people/video-aucune-part-de-gateau-le-secret-de-matt-damon-pour-preparer-son-role-du-roi-grec-ulysse-dans-l-odyssee_VN-202607080872.html",
+          "image": "https://images.bfmtv.com/cAO4vySEBBN7WDTsNa3FUhTt3Cg=/0x0:1280x720/800x0/images/Aucune-part-de-gateau-le-secret-de-Matt-Damon-pour-preparer-son-role-du-roi-grec-Ulysse-dans-L-Odyssee-2317409.jpg"
+        },
+        {
+          "title": "Poitiers : la croix des Feuillants retrouve sa place.",
+          "summary": "La croix historique de la chapelle des Feuillants est reposée en public, un geste fort pour la postérité.",
+          "url": "https://www.lanouvellerepublique.fr/poitiers/un-geste-pour-la-posterite-la-croix-de-la-chapelle-des-feuillants-reposee-en-public-a-poitiers-1783537672",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a4ea006d05b8293398b45fb"
+        },
+        {
+          "title": "Sénatrice de Saint-Martin victime d'agression.",
+          "summary": "La sénatrice Annick Petrus raconte avoir été séquestrée et ligotée lors d'un violent cambriolage chez elle.",
+          "url": "https://www.sudouest.fr/france/outre-mer/saint-martin-j-ai-ete-sequestree-ligotee-et-baillonnee-la-senatrice-annick-petrus-a-ete-victime-d-un-vol-violent-a-son-domicile-29861357.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "IA mémoire : TetraMem et SK hynix innovent.",
+          "summary": "Une collaboration fructueuse fait progresser l'informatique IA axée sur la mémoire, promettant des avancées majeures.",
+          "url": "http://www.businesswire.com/news/home/20260708426601/fr/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya3izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+          "image": "https://mms.businesswire.com/media/20260708426601/fr/2807352/21/Vertical.jpg"
+        },
+        {
+          "title": "Datavault AI : brevet blockchain pour dividendes.",
+          "summary": "Datavault AI sécurise un brevet pour son système innovant de distribution de dividendes sur blockchain.",
+          "url": "https://fr.investing.com/news/company-news/datavault-ai-obtient-un-brevet-pour-son-systeme-de-dividendes-sur-blockchain-93CH-3490563",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "title": "Télescope : bientôt des ET sans contact ?",
+          "summary": "Un nouveau télescope pourrait détecter des civilisations extraterrestres, même sans communication active de leur part.",
+          "url": "https://www.slate.fr/sciences/telescope-detecter-civilisations-extraterrestres-contacter-silence-signal-espace-vie-radio-intelligence-artificielle-ska-antennes",
+          "image": "https://cdn.slate.fr/uploads/store/story_273153/original_273153.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Meysse : Renault ouvre sa concession locale.",
+          "summary": "Une nouvelle concession Renault ouvre ses portes à Meysse, dynamisant le commerce local.",
+          "url": "https://www.ledauphine.com/economie/2026/07/08/echo-du-commerce-renault-a-ouvert-ses-portes-sur-la-zone-commerciale",
+          "image": "https://cdn-s-www.ledauphine.com/images/1233F36E-3CFA-4655-BCE7-39D07F2634F1/NW_listB/echo-du-commerce-renault-a-ouvert-ses-portes-sur-la-zone-commerciale-1783537506.jpg"
+        },
+        {
+          "title": "Camlin Fine Sciences prend contrôle de Vinpai.",
+          "summary": "Après son OPA, Camlin Fine Sciences détient désormais 95,41% de Vinpai, consolidant ses parts.",
+          "url": "https://fr.investing.com/news/global-filings/camlin-fine-sciences-detient-9541-de-vinpai-apres-son-opa-simplifiee-93CH-3490548",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "title": "Oeneo acquiert Lamouroux : vin et thermo-régulation.",
+          "summary": "Oeneo renforce sa position en acquérant Lamouroux, spécialiste reconnu de la thermorégulation vinicole.",
+          "url": "https://fr.investing.com/news/global-filings/oeneo-acquiert-lamouroux-specialiste-de-la-thermoregulation-vinicole-93CH-3490549",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Gironde : un homme noyé dans piscine privée.",
+          "summary": "Un homme a été retrouvé sans vie, noyé dans une piscine privée en Gironde, ouvrant une enquête.",
+          "url": "https://www.sudouest.fr/faits-divers/gironde-un-homme-retrouve-noye-dans-une-piscine-privee-29861305.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Mario Kart Tour tire sa révérence.",
+          "summary": "Le jeu mobile Mario Kart Tour annoncera bientôt la fin de son service, décevant de nombreux fans.",
+          "url": "https://www.journaldugeek.com/2026/07/09/mario-kart-tour-va-bientot-finir-dans-le-decor/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/mario-kart-tour-1280x853.jpg"
+        },
+        {
+          "title": "Instagram husband : le revers des vacances.",
+          "summary": "Le phénomène \"Instagram husband\" révèle les tensions derrière les photos de vacances parfaites sur les réseaux.",
+          "url": "https://www.journaldugeek.com/2026/07/09/instagram-husband-pourquoi-vos-photos-de-vacances-tournent-souvent-au-reglement-de-comptes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/instagram-husband-1280x853.jpg"
+        },
+        {
+          "title": "SOULM8TE : le spin-off presque sacrifié.",
+          "summary": "Après l'échec de M3GAN 2.0, le projet de spin-off horrifique SOULM8TE est désormais en sursis.",
+          "url": "https://www.journaldugeek.com/2026/07/08/apres-le-bide-de-m3gan-2-0-le-spin-off-soulm8te-presque-sacrifie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/soulm8te-bande-annonce-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : LeBron James quitte les Lakers.",
+          "summary": "Coup de tonnerre dans le basket : LeBron James annonce son départ des Lakers, une ère se termine.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/coup-de-tonnerre-en-nba-le-bron-james-a-annonce-son-depart-a-la-direction-des-lakers_AV-202606300751.html",
+          "image": "https://images.bfmtv.com/VyIv6cdqhh9UAE1Pv-frQgcHhns=/0x42:2048x1194/800x0/images/LeBron-James-avec-les-Lakers-contre-les-Bulls-en-NBA-le-12-mars-2026-2312702.jpg"
+        },
+        {
+          "title": "Basket français : Monaco recalé des pros.",
+          "summary": "Séisme en Jeep Élite : Monaco est exclu des championnats professionnels, une décision financière.",
+          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/seisme-dans-le-basket-francais-monaco-recale-des-championnats-professionnels-par-le-gendarme-financier-de-la-ligue_AD-202607030724.html",
+          "image": "https://images.bfmtv.com/Ae3jIffzjQgu5-akbHdTnYQ_36c=/0x0:2048x1152/800x0/images/Les-joueurs-de-Monaco-celebrent-leur-titre-de-champion-de-France-le-23-juin-2026-2314804.jpg"
+        },
+        {
+          "title": "XV de France : la composition face à l'Australie.",
+          "summary": "Découvrez la composition du XV de France, avec Ntamack à l'ouverture, pour affronter l'Australie.",
+          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/ntamack-a-l-ouverture-jalibert-a-l-arriere-la-composition-du-xv-de-france-face-a-l-australie_AV-202607090178.html",
+          "image": "https://images.bfmtv.com/1_XxXUBCxkTC9Rn8XoUsu9RFSpo=/0x59:2048x1211/800x0/images/Matthieu-Jalibert-lors-du-match-Nouvelle-Zelande-France-34-32-championnat-des-Nations-le-4-juillet-2026-2317519.jpg"
+        }
+      ]
+    }
+  ]
+}
