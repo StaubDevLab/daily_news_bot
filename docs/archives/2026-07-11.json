@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Benoît",
+  "global_summary": "L'actualité mondiale et nationale est marquée par un mélange de tensions géopolitiques et de faits divers préoccupants. En Europe, l'Allemagne voit sa scène politique fragilisée tandis que la France s'interroge sur son adversaire en demi-finale de football. Sur le plan domestique, les enquêtes avancent concernant l'explosion à Monaco et un suspect lié à l'ultragauche a été interpellé pour terrorisme, révélant des menaces persistantes.\nDu côté de l'économie, les questions de l'emploi en Allemagne et en France sont au cœur des débats, tout comme les défis de la mobilité face à la canicule. Le monde du sport, lui, est en effervescence : Wembanyama signe un contrat majeur en NBA, tandis que l'athlétisme français célèbre un nouveau record et fait face à des réformes importantes.",
+  "running_advice": "Aujourd'hui, Saint Benoît vous pousse à l'action, mais attention à la chaleur, champion(ne) ! Avec des températures allant de 21.6°C à 37.5°C et un ciel peu nuageux, la prudence est de mise. L'heure idéale pour votre run, c'est l'aube, juste après le lever du soleil à 06h26. Profitez de la fraîcheur matinale avant que le mercure ne grimpe ! Si vous préférez le soir, visez un créneau après 20h30, quand le soleil commence à décliner avant 21h49. L'indice UV est élevé (7.55), alors crème solaire, casquette et lunettes sont vos meilleurs alliés. Hydratez-vous abondamment et écoutez votre corps. Allez, on garde le rythme, mais en toute sécurité !",
+  "weather_string": "🌤️ Peu nuageux (21.6°C / 37.5°C)",
+  "weather_stats": {
+    "temp": "37.5°C",
+    "rain": "13%",
+    "uv": "7.55"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Espagne ou Belgique en demi ? Le choix des Bleus.",
+          "summary": "Les supporters français débattent de l'adversaire préféré pour les demi-finales de l'Euro.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260710-espagne-ou-belgique-qui-les-supporters-fran%C3%A7ais-pr%C3%A9f%C3%A8rent-ils-affronter-en-demi",
+          "image": "https://s.france24.com/media/display/5ce9c154-7c8e-11f1-bb0e-005056bfb2b6/w:1024/p:16x9/FR-vignette-Espagne-Belgique.jpg"
+        },
+        {
+          "title": "Berlin : le maire conservateur fragilisé, la CDU en doute.",
+          "summary": "Les difficultés du maire de Berlin secouent la CDU, impactant la politique allemande.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/10/en-allemagne-les-deboires-du-maire-conservateur-de-berlin-fragilisent-la-cdu_6722512_3210.html",
+          "image": "https://img.lemde.fr/2026/07/10/216/0/4050/2025/644/322/60/0/c9e5242_ftp-1-5pz67zb13tih-2026-07-10t140922z-1624592207-rc21bmavxtgq-rtrmadp-3-germany-politics-berlin.JPG"
+        },
+        {
+          "title": "Nigeria : des élèves et professeurs enfin libérés.",
+          "summary": "Après 56 jours, des dizaines d'otages au Nigeria retrouvent la liberté.",
+          "url": "https://www.sudouest.fr/justice/terrorisme/nigeria-des-dizaines-d-eleves-et-professeurs-liberes-apres-56-jours-de-captivite-29889157.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Explosion à Monaco : l'enquête avance.",
+          "summary": "Le procureur général de Monaco investigue \"dans toutes les directions\" après l'explosion.",
+          "url": "https://www.nicematin.com/faits-divers/explosion-a-monaco/explosion-a-monaco-le-procureur-general-fait-le-point-sur-l-enquete-et-annonce-investiguer-dans-toutes-les-directions-sans-rien-exclure-10688900",
+          "image": "https://assets.nicematin.com/articles/10/68/89/00/OG-10688900-1200-800-c49b17d_ftp-1-g10xqsydla9l-mon11q607-ih-conference-de-presse-bombe.jpg"
+        },
+        {
+          "title": "Un jeune homme lié à l'ultragauche arrêté.",
+          "summary": "Un suspect lié à l'ultragauche est arrêté pour terrorisme, ciblant les forces de l'ordre.",
+          "url": "https://www.midilibre.fr/2026/07/10/il-sest-invente-une-vie-lie-a-lultragauche-et-soupconne-de-viser-les-forces-de-lordre-un-jeune-homme-arrete-pour-terrorisme-13463874.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6a5139aa55c95c590b054f52/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Tarnos : sidération après les viols d'enfants.",
+          "summary": "Colère des parents après la reconnaissance de viols par un animateur de centre de loisirs.",
+          "url": "https://www.sudouest.fr/faits-divers/un-monsieur-tout-le-monde-la-sideration-et-la-colere-de-parents-d-enfants-victimes-de-viols-par-un-animateur-du-centre-de-loisirs-de-tarnos-29885696.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Vie sous-marine : une station du futur ouvre.",
+          "summary": "Une habitation sous-marine innovante s'ouvre à 17 mètres de profondeur pour l'exploration océanique.",
+          "url": "https://www.journaldugeek.com/2026/07/10/habitation-sous-marine-ouvre-17-metres-profondeur-immersion-station-oceanique-futur/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/DEEP-Vanguard-1280x854.jpg"
+        },
+        {
+          "title": "Vélos Angell : le bras de fer persiste.",
+          "summary": "Des milliers de clients sont paralysés par un litige financier autour des vélos électriques Angell.",
+          "url": "https://www.frandroid.com/survoltes/3173773_velos-electriques-angell-linterminable-bras-de-fer-a-plusieurs-millions-deuros-qui-paralyse-des-milliers-de-clients",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/07/pochoir-frandroid-1-2.jpg?resize=1600,900&key=511cb213"
+        },
+        {
+          "title": "Netflix, Prime, Disney+ : les nouveautés de juillet.",
+          "summary": "Découvrez les séries et films à ne pas manquer sur vos plateformes de streaming ce mois-ci.",
+          "url": "https://www.journaldugeek.com/2026/07/10/nouveautes-netflix-prime-video-disney-les-series-et-les-films-a-voir-en-juillet-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/series-films-juillet-2026-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Baisses d'effectifs : l'Allemagne impacte la France ?",
+          "summary": "Des réductions d'effectifs en Allemagne pourraient annoncer des tendances similaires en France.",
+          "url": "https://www.epochtimes.fr/baisses-deffectifs-en-allemagne-meme-chose-en-france-3304206.html",
+          "image": "https://images-fr.epochtimes.fr/uploads/2026/07/GettyImages-2284745848.jpg"
+        },
+        {
+          "title": "Casino : les banques répondent d'ici le 20 juillet.",
+          "summary": "Les banques s'engagent à répondre à la demande de restructuration de dette du groupe Casino.",
+          "url": "https://www.lesechos.fr/industrie-services/conso-distribution/dette-casino-le-conseil-dadministration-opte-pour-la-solution-pro-kretinsky-pour-sauver-le-groupe-2241942",
+          "image": "https://media.lesechos.com/api/v1/images/view/6a51386389bbc8b758096522/1280x720/0200297914457-web-tete.jpg"
+        },
+        {
+          "title": "Canicule : perturbations TGV et Intercités.",
+          "summary": "Trafic TGV normal mais des suppressions sur Intercités pour le week-end du 14 juillet.",
+          "url": "https://www.sudouest.fr/ile-de-france/paris/canicule-trafic-tgv-normal-et-suppressions-sur-les-lignes-intercites-pour-le-week-end-du-14-juillet-29887396.php",
+          "image": "https://media.sudouest.fr/29887396/1200x600/archive-quay-a1-35832671.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performance",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama prolonge aux Spurs : contrat max !",
+          "summary": "Victor Wembanyama signe un nouveau contrat max et s'engage à long terme avec les San Antonio Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-du-suspense-a-san-antonio-wembanyama-signe-un-nouveau-contrat-max-et-prolonge-avec-les-spurs_AV-202607100894.html",
+          "image": "https://images.bfmtv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        },
+        {
+          "title": "Record de France pour Cassandre Beaugrand.",
+          "summary": "La triathlète Cassandre Beaugrand bat le record de France du 3 000 mètres en Ligue de Diamant.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/athletisme-la-triathlete-cassandre-beaugrand-s-empare-du-record-de-france-du-3-000-metres-pour-sa-premiere-en-ligue-de-diamant_AD-202607100829.html",
+          "image": "https://images.bfmtv.com/i5wBWkpSC5befeyWW6bDDrWrApI=/7x4:967x544/800x0/images/Cassandre-Beaugrand-lors-de-la-Ligue-de-Diamant-le-10-juillet-2026-2318628.jpg"
+        },
+        {
+          "title": "JO 2030 : crève-cœur pour le combiné nordique.",
+          "summary": "Le ski français réagit à la disparition du combiné nordique du programme des JO d'hiver 2030.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/un-immense-creve-c-ur-comment-le-ski-francais-reagit-a-la-disparition-du-combine-nordique-aux-jo-2030_AV-202607080539.html",
+          "image": "https://images.bfmtv.com/YSIzuo0v0r0nDctbahmx_QfiuAg=/0x140:2048x1292/800x0/images/Le-saut-a-skis-de-Jonas-Schuster-lors-de-l-etape-de-combine-nordique-de-Zakopane-Coupe-du-monde-le-10-janvier-2026-2216473.jpg"
+        }
+      ]
+    }
+  ]
+}
