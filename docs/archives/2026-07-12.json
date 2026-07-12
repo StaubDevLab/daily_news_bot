@@ -1,0 +1,131 @@
+{
+  "ephemeride": "Saint Olivier",
+  "global_summary": "Ce bulletin d'actualités est marqué par une météo capricieuse et des défis environnementaux majeurs, avec des incendies dévastateurs en Espagne et en France, poussant les autorités à la vigilance rouge. Parallèlement, le monde sportif rayonne, avec des performances éclatantes à Wimbledon et la confirmation d'un talent français majeur en NBA. L'attention est également portée sur les enjeux géopolitiques, notamment le sommet de l'Otan et la situation en Irlande du Nord. \n\nCôté innovations, les débats sur l'IA et ses applications futures prennent de l'ampleur, tandis que la SNCF adapte ses infrastructures face au changement climatique. Entre les faits divers insolites et les événements nationaux, l'actualité de ce jour oscille entre préoccupations immédiates et réflexions sur l'avenir.",
+  "running_advice": "Mon cher athlète, l'énergie est palpable dans l'air, mais soyons malins face à cette météo exigeante ! Avec des températures qui grimpent jusqu'à 38.2°C et un indice UV de 7.4, ce n'est clairement pas la journée idéale pour une course en plein soleil. Votre coach vous recommande vivement d'opter pour une sortie très matinale, juste après le lever du soleil à 06:27. C'est le créneau parfait pour profiter de la fraîcheur relative et du calme avant que la chaleur ne devienne insoutenable. Pensez absolument à une protection solaire maximale : crème indice élevé, casquette et lunettes de soleil sont vos meilleurs alliés. Hydratez-vous abondamment avant, pendant et après l'effort. Écoutez votre corps, adaptez votre rythme et n'hésitez pas à privilégier une séance en intérieur si la chaleur est trop forte. L'objectif est la performance durable et le bien-être ! Allez, on reste focus !",
+  "weather_string": "🌤️ Peu nuageux (23.7°C / 38.2°C)",
+  "weather_stats": {
+    "temp": "38.2°C",
+    "rain": "5%",
+    "uv": "7.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Espagne : L'armée face aux incendies dévastateurs",
+          "summary": "L'armée espagnole est déployée pour combattre un incendie meurtrier, menaçant la région sud.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/l-armee-arrive-en-renfort-face-a-l-incendie-meurtrier-qui-sevit-dans-le-sud-de-l-espagne_8104379.html",
+          "image": "https://www.franceinfo.fr/pictures/TwBMchYKpJmVqKYBJWn8FEX0LqY/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/11/6a528b5e2e79b247717620.jpg"
+        },
+        {
+          "title": "Belfast : Paramilitaires et extrême droite, une longue histoire",
+          "summary": "L'Humanité explore l'influence persistante des groupes paramilitaires liés à l'extrême droite à Belfast.",
+          "url": "https://www.humanite.fr/monde/irlande-du-nord/a-belfast-les-paramilitaires-dans-lombre-de-lextreme-droite-depuis-des-decennies",
+          "image": "https://www.humanite.fr/wp-content/uploads/2026/07/p10-Belfast_VEN.jpg?w=1200"
+        },
+        {
+          "title": "Sommet de l'Otan à Ankara : L'ombre de Trump",
+          "summary": "Le JDD s'interroge sur l'impact potentiel de Donald Trump au sommet de l'Otan, entre craintes et opportunités.",
+          "url": "https://www.lejdd.fr/International/sommet-de-lotan-a-ankara-donald-trump-un-mal-pour-un-bien-178749",
+          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/07/11/14/otan-075_porzycki-natosumm260708_npbs4-c-jakub-porzycki-_-nurphoto-_afp_master.jpeg?VersionId=SVh2Ve57_O0RgZZYuUUkwkeAvpKvgpdR"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Canicule et incendies : 37 départements en vigilance rouge",
+          "summary": "Face à la canicule persistante, 37 départements français maintiennent leur vigilance rouge incendies.",
+          "url": "https://www.sudouest.fr/environnement/climat/canicule/direct-canicule-et-incendies-la-vigilance-rouge-prolongee-lundi-dans-37-departements-les-pompiers-sur-le-qui-vive-suivez-les-infos-ce-dimanche-12-juillet-2026-29904866.php"
+        },
+        {
+          "title": "14 juillet : Un défilé grand format en préparation",
+          "summary": "La France prépare un défilé militaire impressionnant pour la fête nationale, mobilisant d'importants effectifs.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/6-800-hommes-et-femmes-315-vehicules-193-chevaux-la-france-voit-grand-pour-son-defile-du-14-juillet_8104394.html",
+          "image": "https://www.franceinfo.fr/pictures/Nz3PpudEI8L_FbENqh73sx3z8MI/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/11/6a528fcbe6041392060156.jpg"
+        },
+        {
+          "title": "Braquage dans les Landes : Malfaiteur interpellé",
+          "summary": "Après deux heures de négociations, un braqueur armé a été interpellé dans une station-service des Landes.",
+          "url": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/braquage-arme-dans-une-station-essence-dans-les-landes-le-malfaiteur-interpelle-par-les-forces-de-l-ordre-apres-deux-heures-de-negociation-tout-un-quartier-boucle-pendant-l-intervention-29904704.php"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wimbledon : Noskova triomphe et signe son premier Grand Chelem",
+          "summary": "Linda Noskova s'offre son premier titre en Grand Chelem en remportant la finale de Wimbledon.",
+          "url": "https://www.france24.com/fr/sports/20260711-la-tch%C3%A8que-linda-noskova-remporte-la-finale-de-wimbledon-et-s-offre-un-premier-titre-en-grand-chelem",
+          "image": "https://s.france24.com/media/display/60330828-7d58-11f1-adae-005056bfb2b6/w:1024/p:16x9/2026-07-11T183403Z-826207107-UP1EM7B18YRF3-RTRMADP-3-TENNIS-WIMBLEDON.jpg"
+        },
+        {
+          "title": "Wembanyama prolonge : Futur assuré chez les Spurs",
+          "summary": "Victor Wembanyama signe un contrat max et confirme son avenir avec les San Antonio Spurs en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-du-suspense-a-san-antonio-wembanyama-signe-un-nouveau-contrat-max-et-prolonge-avec-les-spurs_AV-202607100894.html",
+          "image": "https://images.bfmtv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        },
+        {
+          "title": "Rugby : Le XV de France domine l'Australie",
+          "summary": "Les Bleus renversent les Wallabies avec une seconde mi-temps exceptionnelle au Championnat des nations.",
+          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/direct-australie-france-suivez-la-deuxieme-journee-du-championnat-des-nations-en-live_LS-202607110137.html",
+          "image": "https://images.bfmtv.com/BCOFQQhu1HoKf8P_Ai4EwkYcgDw=/0x148:2048x1300/800x0/images/Le-XV-de-France-face-a-l-Australie-lors-de-la-deuxieme-journee-du-Championnat-des-nations-le-11-juillet-2026-2318739.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "L'ONU face aux robots tueurs autonomes",
+          "summary": "L'ONU propose une interdiction des systèmes d'armes autonomes dotés d'intelligence artificielle.",
+          "url": "https://www.journaldugeek.com/2026/07/11/lonu-veut-interdire-les-robots-tueurs-carburant-a-lia/",
+          "image": "https://www.journaldugeek.com/app/uploads/2022/11/template-jdg-21-1.jpg"
+        },
+        {
+          "title": "Nouveau jeu Fallout : L'attente est lancée !",
+          "summary": "Un nouveau chapitre de la saga culte Fallout est officiellement en développement par un studio majeur.",
+          "url": "https://www.journaldugeek.com/2026/07/11/cest-officiel-un-nouveau-jeu-fallout-est-en-preparation-par-un-studio-important/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/nouveau-fallout-obsidian-1280x853.jpg"
+        },
+        {
+          "title": "SNCF : Anticiper la canicule avec l'innovation",
+          "summary": "La SNCF dévoile ses stratégies pour adapter son réseau et ses services aux défis du réchauffement climatique.",
+          "url": "https://www.capital.fr/economie-politique/canicule-comment-la-sncf-anticipe-t-elle-les-effets-du-rechauffement-climatique-1528389",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~11~a6dd5703-ea2a-44ad-896f-fe3b2d0c2b5a.jpeg/1200x900/quality/80/canicule-comment-la-sncf-anticipe-t-elle-les-effets-du-rechauffement-climatique.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Lifestyle & Société",
+      "emoji": "📰",
+      "articles": [
+        {
+          "title": "Loto : Les résultats du 11 juillet sont tombés",
+          "summary": "Découvrez les numéros gagnants du tirage du Loto de ce samedi 11 juillet 2026.",
+          "url": "https://www.linternaute.com/actualite/societe/10914385-tirage-loto-resultat-du-11-juillet-2026/",
+          "image": "https://img-4.linternaute.com/Ly3YnEx7VzC3NwgF8_hwZMOXZGU=/1000x/smart/46c642dd2102492aa83284cddf627158/ccmcms-linternaute/25262179.jpg"
+        },
+        {
+          "title": "Insolite en Dordogne : Un tracteur sauve des dépanneurs",
+          "summary": "Scène cocasse en Dordogne où un tracteur a dû dépanner une dépanneuse elle-même en panne.",
+          "url": "https://www.autoplus.fr/actualite/insolite/dordogne-une-depanneuse-en-intervention-sur-un-camion-tombe-en-panne-un-tracteur-leur-vient-en-aide-1455488.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/captura-de-pantalla-2026-07-11-a-las-20.29.30.png"
+        },
+        {
+          "title": "Péril sur l'autoroute : Un homme en fauteuil roulant",
+          "summary": "Situation dangereuse observée sur la bande d'arrêt d'urgence, avec un homme en fauteuil roulant.",
+          "url": "https://www.autoplus.fr/actualite/insolite/en-fauteuil-roulant-sur-la-bande-darret-durgence-cet-homme-prend-tous-les-risques-1455489.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/captura-de-pantalla-2026-07-11-a-las-20.22.49.png"
+        }
+      ]
+    }
+  ]
+}
