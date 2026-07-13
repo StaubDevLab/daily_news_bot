@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Henri",
+  "global_summary": "L'actualité de ce jour est marquée par des événements contrastés, mêlant célébrations sportives et préoccupations sécuritaires. Le monde du tennis vibre avec la victoire de Sinner à Wimbledon, tandis que la France se penche sur des enquêtes antiterroristes et des réformes politiques en Ukraine. Les défis climatiques sont également au premier plan, avec des incendies dévastateurs à travers le pays. \nCôté innovations et société, les avancées technologiques côtoient des réflexions sur l'histoire de l'automobile française et des initiatives locales insolites. Le sport professionnel continue de captiver, avec des nouvelles majeures en NBA et rugby, rappelant l'importance de la persévérance et de l'engagement. Une journée riche en informations, qui nous pousse à rester informés et proactifs.",
+  "running_advice": "Salut à tous les coureurs ! Aujourd'hui, Saint Henri nous offre une météo en demi-teinte pour nos foulées. Avec des températures allant de 22.5°C à 30.1°C et un ciel peu nuageux, la chaleur sera un facteur. La probabilité de pluie à 55% suggère qu'une averse rafraîchissante est possible, mais ne vous y fiez pas trop ! L'indice UV est élevé à 7.15, ce qui est un signal clair : protection solaire OBLIGATOIRE si vous sortez en journée ! Crème solaire, casquette et lunettes de soleil sont vos meilleurs amis. Pour une course optimale et moins risquée face à la chaleur et aux UV, je vous conseille vivement d'opter pour le créneau matinal, juste après le lever du soleil à 06h28. L'air y sera plus frais, l'humidité plus présente, et l'intensité du soleil moins forte. Si le matin est impossible, visez le soir, après 20h00, quand le soleil commence à décliner. Dans tous les cas, écoutez votre corps, hydratez-vous abondamment et restez prudents. Chaque pas compte, faites-le intelligemment !",
+  "weather_string": "🌤️ Peu nuageux (22.5°C / 30.1°C)",
+  "weather_stats": {
+    "temp": "30.1°C",
+    "rain": "55%",
+    "uv": "7.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Sarcelles : Enquête terroriste ouverte",
+          "summary": "Découverte d'armes près d'une synagogue à Sarcelles, enquête pour terrorisme ouverte par le PNAT.",
+          "url": "https://www.france24.com/fr/france/20260712-enqu%C3%AAte-terroriste-ouverte-apr%C3%A8s-d%C3%A9couverte-armes-proximit%C3%A9-synagogue-sarcelles-pnat-dgsi-services-renseignement",
+          "image": "https://s.france24.com/media/display/17e8f3a4-7e19-11f1-b3fc-005056bf30b7/w:1024/p:16x9/000-33XZ8NE.jpg"
+        },
+        {
+          "title": "Israël : Élections législatives fixées",
+          "summary": "Les élections législatives israéliennes se tiendront le 27 octobre, un scrutin décisif pour le pays.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260712-les-%C3%A9lections-l%C3%A9gislatives-se-tiendront-le-27-octobre-en-isra%C3%ABl",
+          "image": "https://s.france24.com/media/display/4461ef3e-7e1a-11f1-b669-005056bf30b7/w:1024/p:16x9/64de7cf863671e42a5333153a73734bbb0da62a0.jpg"
+        },
+        {
+          "title": "Ukraine : Zelensky remanie le gouvernement",
+          "summary": "Le président Zelensky lance un remaniement majeur et annonce le départ de sa Première ministre.",
+          "url": "https://www.ledauphine.com/defense-guerre-conflit/2026/07/12/zelensky-lance-un-remaniement-et-annonce-le-depart-de-sa-premiere-ministre",
+          "image": "https://cdn-s-www.ledauphine.com/images/7EA7BCB6-FCA6-4DA0-BAD4-99379D7DCB85/NW_listB/zelensky-lance-un-remaniement-et-annonce-le-depart-de-sa-premiere-ministre-1783887985.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Maine-et-Loire : Vaste incendie en cours",
+          "summary": "Un incendie dévastateur a détruit 283 hectares dans le Maine-et-Loire, entraînant des évacuations.",
+          "url": "https://www.franceinfo.fr/faits-divers/incendie/un-incendie-en-cours-a-detruit-283-hectares-dans-le-maine-et-loire-une-ligne-a-haute-tension-et-deux-habitations-un-festival-evacue_8105483.html",
+          "image": "https://www.franceinfo.fr/pictures/1z4FXTqDMnyoi395GRixJ8Gp1JA/432x243/filters:format(jpg):quality(50)/2026/06/05/6a22604b597f7310328290.jpg"
+        },
+        {
+          "title": "SNCF : Retards majeurs après incendie",
+          "summary": "Jusqu'à 6h de retard sur Paris-Marseille suite à un incendie. Quels droits à l'indemnisation ?",
+          "url": "https://www.capital.fr/economie-politique/sncf-incendie-jusqua-6h-de-retard-sur-la-ligne-paris-marseille-a-quelle-indemnisation-avez-vous-droit-1528405",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~12~8119ea6d-bec7-45bd-811e-b34da6c53c74.jpeg/1200x900/quality/80/sncf-incendie-jusqu-a-6h-de-retard-sur-la-ligne-paris-marseille-a-quelle-indemnisation-avez-vous-droit.jpg"
+        },
+        {
+          "title": "L'odeur corporelle dès 40 ans décryptée",
+          "summary": "L'odeur de 'vieille personne' peut apparaître plus tôt que prévu. Ce que révèle votre corps.",
+          "url": "https://www.epochtimes.fr/pourquoi-lodeur-de-vieille-personne-peut-apparaitre-des-40-ans-ce-que-revele-votre-odeur-corporelle-3305345.html",
+          "image": "https://images-fr.epochtimes.fr/uploads/2026/07/BF914.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualité Régionale",
+      "emoji": "🔥",
+      "articles": [
+        {
+          "title": "Fontainebleau : Forêt ravagée par le feu",
+          "summary": "Un incendie en forêt de Fontainebleau a ravagé 800 hectares, laissant les habitants médusés.",
+          "url": "https://www.sudouest.fr/ile-de-france/on-va-pleurer-notre-foret-un-incendie-en-foret-de-fontainebleau-ravage-800-hectares-les-habitants-meduses-29913970.php",
+          "image": ""
+        },
+        {
+          "title": "Houeillès : 190 hectares brûlés",
+          "summary": "Deux villages évacués, plus de 190 hectares de forêt brûlés à Houeillès, 300 pompiers mobilisés.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/deux-villages-evacues-plus-de-190-hectares-de-foret-ont-brule-a-houeilles-300-pompiers-mobilises-29913936.php",
+          "image": ""
+        },
+        {
+          "title": "Affaire Leprince : Décision rarissime",
+          "summary": "Dany Leprince: une décision judiciaire rarissime et logique selon son avocat. Le dossier monté de bric et de broc.",
+          "url": "https://www.sudouest.fr/justice/interview-affaire-dany-leprince-cette-decision-est-rarissime-mais-logique-a-mes-yeux-a-l-epoque-mon-dossier-avait-ete-monte-de-bric-et-de-broc-on-n-aurait-jamais-du-en-arriver-la-29869774.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Tech & Numérique",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Cybersécurité : La France condamnée",
+          "summary": "L'Europe condamne la France pour sa cybersécurité, un début qui promet des changements majeurs.",
+          "url": "https://www.journaldugeek.com/2026/07/13/cybersecurite-la-france-condamnee-par-leurope-et-ce-nest-que-le-debut/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/09/amende-1280x853.jpg"
+        },
+        {
+          "title": "Pokémon TCG : Fuite des cartes 30 ans",
+          "summary": "Les cartes Pokémon TCG des 30 ans ont fuité en ligne, un événement majeur pour les fans.",
+          "url": "https://www.journaldugeek.com/2026/07/13/les-cartes-pokemon-tcg-des-30-ans-ont-fuite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Pokemon-TCG-30-fuite-1-1280x853.jpg"
+        },
+        {
+          "title": "Chine : Fusée rattrapée en mer",
+          "summary": "La Chine a réussi à récupérer sa fusée en mer à l'aide d'un filet, une prouesse technique inédite.",
+          "url": "https://www.journaldugeek.com/2026/07/13/la-chine-rattrape-sa-fusee-dans-un-filet-en-mer/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/cctv-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Lifestyle",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Cap d'Antibes : Un destin basculé",
+          "summary": "L'histoire insolite d'un banquier anglais et d'un carrosse qui ont transformé le Cap d'Antibes en 1864.",
+          "url": "https://www.nicematin.com/societe/histoire/comment-un-banquier-anglais-et-un-carrosse-emprunte-ont-fait-basculer-le-destin-du-cap-d-antibes-en-1864-10687317",
+          "image": "https://assets.nicematin.com/articles/10/68/73/17/OG-10687317-1200-800-f921694_ftp-1-ilujagr5lqbw-antxxq900-na-familleclose-jpg.jpg"
+        },
+        {
+          "title": "Haute-Loire : Idées de sorties vélo",
+          "summary": "Découvrez nos meilleures idées de sorties à vélo autour du magnifique col de Peyra Taillade.",
+          "url": "https://www.lejsl.com/culture-loisirs/2026/07/12/nos-idees-de-sorties-velo-autour-du-col-de-peyra-taillade",
+          "image": "https://cdn-s-www.lejsl.com/images/FDAFBF2D-06F6-4B6C-94BE-F4B09AC67FA9/NW_listB/nos-idees-de-sorties-velo-autour-du-col-de-peyra-taillade-1783884969.jpg"
+        },
+        {
+          "title": "Loire : Ferme isolée avec 1,6 million de bouchons",
+          "summary": "Un projet fou : isoler une ferme ancienne avec 1,6 million de bouchons en liège. Une initiative écologique insolite.",
+          "url": "https://www.leprogres.fr/environnement/2026/07/12/il-veut-isoler-sa-ferme-ancienne-avec-1-6-million-de-bouchons-en-liege",
+          "image": "https://cdn-s-www.leprogres.fr/images/FD0B05F2-CBCD-43B1-AA54-635EF7BE39A0/NW_listB/il-veut-isoler-sa-ferme-ancienne-avec-1-6-million-de-bouchons-en-liege-1783883801.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wimbledon : Sinner et Mladenovic brillent",
+          "summary": "Jannik Sinner remporte son deuxième Wimbledon, Mladenovic sacrée en double mixte. Doubles succès !",
+          "url": "https://www.france24.com/fr/sports/20260712-sinner-remporte-son-deuxi%C3%A8me-wimbledon-la-fran%C3%A7aise-mladenovic-sacr%C3%A9e-double-grand-chelem-tennis-num%C3%A9ro-un-mondial",
+          "image": "https://s.france24.com/media/display/2919f956-7e24-11f1-b32a-005056bf30b7/w:1280/p:16x9/AP26193683238494.jpg"
+        },
+        {
+          "title": "NBA : Wembanyama prolonge aux Spurs",
+          "summary": "Fin du suspense : Victor Wembanyama signe un nouveau contrat max et reste fidèle aux Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-du-suspense-a-san-antonio-wembanyama-signe-un-nouveau-contrat-max-et-prolonge-avec-les-spurs_AV-202607100894.html",
+          "image": "https://images.bfmtv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        },
+        {
+          "title": "Rugby : Le XV de France renverse l'Australie",
+          "summary": "Les Bleus s'imposent nettement face aux Wallabies grâce à une seconde période de haute volée.",
+          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/australie-france-on-a-pris-un-soufflon-a-la-mi-temps-comment-le-xv-de-france-a-renverse-les-wallabies-lors-du-championnat-des-nations_AV-202607110272.html",
+          "image": "https://images.bfmtv.com/zV27tEY1n3Zd-PPbN3q4TLrX_C8=/0x123:2048x1275/800x0/images/Australie-France-en-Championnat-des-nations-le-11-juillet-2026-2318805.jpg"
+        }
+      ]
+    }
+  ]
+}
