@@ -1,7 +1,7 @@
 {
   "ephemeride": "Fête Nationale",
-  "global_summary": "La Fête Nationale s'accompagne d'une actualité dense, marquée par une forte mobilisation internationale. À Paris, la Coalition des Volontaires réaffirme son soutien à l'Ukraine, visant à construire une défense européenne solide face à la menace russe. Parallèlement, la politique américaine retient l'attention avec des interrogations sur l'influence de Donald Trump.\nSur le front économique, les marchés guettent les signaux d'une Fed prudente concernant les taux, tandis que la tech voit s'affronter des géants comme Apple et OpenAI. En France, l'été est malheureusement teinté d'incendies dévastateurs dans le Sud-Ouest, mobilisant d'importants moyens. Côté sport, les athlètes français brillent, avec des prolongations de contrats majeurs en NBA et des records battus.",
-  "running_advice": "Chers athlètes, avec une fourchette de 20.6°C à 34.7°C et un indice UV de 7.15, la journée demande de la stratégie ! Le brouillard matinal offre une petite fenêtre de fraîcheur. Je vous recommande de viser le créneau juste après le lever du soleil, vers 6h30-7h30, avant que la chaleur ne devienne écrasante et que le brouillard ne se lève. Sinon, attendez le soir, après 20h30, lorsque le soleil commence à se coucher. Impératif : protection solaire maximale (chapeau, crème, lunettes) et hydratation constante, peu importe votre choix ! Écoutez votre corps et ne poussez pas trop fort. Allez, on garde la forme, même sous la chaleur !",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux géopolitiques majeurs, notamment le soutien réaffirmé à l'Ukraine et la volonté de bâtir une défense européenne unie. Aux États-Unis, les dynamiques politiques autour de Donald Trump continuent d'évoluer, tandis que les marchés financiers restent attentifs aux signaux de la Réserve fédérale concernant d'éventuelles hausses de taux, signe d'une économie mondiale en quête d'équilibre. \nSur le front national et environnemental, la France fait face à une série d'incendies dévastateurs, soulignant l'urgence climatique. Le secteur technologique est, quant à lui, en pleine effervescence, entre l'explosion de l'IA boostant l'immobilier spécialisé et des batailles juridiques entre géants. Enfin, le sport nous offre des émotions fortes, avec des réussites retentissantes comme la prolongation de Wembanyama et les performances du rugby français, contrastant avec les défis futurs des disciplines olympiques.",
+  "running_advice": "Allez les champions ! Aujourd'hui, il va falloir être stratège pour votre session running. Avec des températures allant de 20.6°C à 34.7°C et un indice UV élevé de 7.15, courir en pleine journée serait une erreur. Le brouillard matinal pourrait offrir une légère accalmie, mais la chaleur montera vite.\n\nMon conseil de coach : visez l'extrême matin, juste après le lever du soleil à 06:29, avant que la chaleur ne devienne écrasante. Ou alors, attendez la fin de soirée, après 20h30, quand le soleil se couche et que les températures commencent à redescendre. Quel que soit votre choix, hydratez-vous abondamment avant, pendant et après l'effort. Portez des vêtements légers et respirants. Et surtout, avec un indice UV si élevé, la protection solaire est NON-NÉGOCIABLE : crème solaire, casquette et lunettes de soleil sont vos meilleurs alliés. Écoutez votre corps et restez prudent. Votre santé avant tout !",
   "weather_string": "🌫️ Brouillard (20.6°C / 34.7°C)",
   "weather_stats": {
     "temp": "34.7°C",
@@ -14,20 +14,14 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Coalition à Paris : unis face à la menace russe",
-          "summary": "La Coalition des Volontaires se réunit pour renforcer le soutien à l'Ukraine et bâtir une défense européenne solide.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260713-r%C3%A9union-de-la-coalition-des-volontaires-%C3%A0-paris-unis-face-%C3%A0-la-menace-russe",
-          "image": "https://s.france24.com/media/display/55758f4a-7eda-11f1-8e57-005056a90284/w:1024/p:16x9/2026-07-13T163612Z-1269730039-RC24DMAN3E13-RTRMADP-3-UKRAINE-CRISIS-COALITION-FRANCE.jpg"
-        },
-        {
-          "title": "L'Europe de la défense, objectif de la Coalition",
-          "summary": "L'assemblée des volontaires pour l'Ukraine vise concrètement à fonder une architecture de défense européenne unie.",
+          "title": "Objectif : Bâtir l'Europe de la Défense.",
+          "summary": "La coalition des volontaires pour l'Ukraine vise une défense européenne unie face aux menaces actuelles.",
           "url": "https://www.la-croix.com/international/batir-l-europe-de-la-defense-le-veritable-objectif-de-la-coalition-des-volontaires-pour-lukraine-20260713",
           "image": "https://i.la-croix.com/x/2026/07/13/2488744-des-militaires-ukrainiens-se-preparent-a-defiler-l.jpg"
         },
         {
-          "title": "Trump sans son allié Lindsey Graham ?",
-          "summary": "La politique américaine s'interroge sur l'avenir de Donald Trump après le départ de son allié stratégique.",
+          "title": "Trump sans son allié Lindsey Graham.",
+          "summary": "Le paysage politique américain pourrait changer suite à l'absence d'un allié clé de Donald Trump.",
           "url": "https://www.lopinion.fr/international/mais-que-va-faire-donald-trump-sans-son-allie-lindsey-graham",
           "image": "https://beymedias.brightspotcdn.com/06/35/5d4c38c14655bbed9e391f512392/sipa-ap23047741-000003.jpg"
         }
@@ -38,22 +32,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Macron accueille Zelensky aux Invalides",
-          "summary": "Emmanuel Macron réaffirme le soutien français à l'Ukraine, lors de la réunion de la coalition des volontaires.",
-          "url": "https://www.lesechos.fr/monde/europe/guerre-en-ukraine-37-pays-reaffirment-a-paris-leur-soutien-a-kiev-2242189",
-          "image": "https://media.lesechos.com/api/v1/images/view/6a5524dab948e3ed1b0c25d8/1280x720/0200478738385-web-tete.jpg"
-        },
-        {
-          "title": "APL : une hausse dès octobre prochain",
-          "summary": "La CAF annonce une augmentation des aides au logement pour des milliers de bénéficiaires à partir du 1er octobre.",
-          "url": "https://www.capital.fr/votre-argent/caf-combien-allez-vous-percevoir-dapl-en-plus-des-le-1er-octobre-prochain-1528429",
-          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~13~f7f9cf8c-39df-4ed4-a621-e64c3e6b45b.jpeg/1200x900/quality/80/caf-combien-allez-vous-percevoir-d-apl-en-plus-des-le-1er-octobre-prochain.jpg"
-        },
-        {
-          "title": "Propos racistes sur les Bleus : Rajoy défendu",
-          "summary": "Le Parti populaire espagnol défend Mariano Rajoy, qualifiant de \"sarcasme\" ses propos controversés sur l'équipe de France.",
+          "title": "Polémique : Propos racistes sur les Bleus.",
+          "summary": "Le Parti Populaire espagnol défend Mariano Rajoy après ses déclarations controversées sur l'équipe de France.",
           "url": "https://www.rtl.fr/actu/international/c-etait-du-sarcasme-le-parti-populaire-espagnol-vole-au-secours-de-mariano-rajoy-apres-ses-propos-racistes-sur-les-bleus-7900654869",
           "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1853958-le-premier-ministre-espagnol-mariano-rajoy-a-madrid-le-27-octobre-2017.jpg"
+        },
+        {
+          "title": "APL : Hausse des aides au logement.",
+          "summary": "Découvrez l'augmentation des APL attendue dès le 1er octobre, une aide bienvenue pour de nombreux ménages.",
+          "url": "https://www.capital.fr/votre-argent/caf- combien-allez-vous-percevoir-dapl-en-plus-des-le-1er-octobre-prochain-1528429",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~13~f7f9cf8c-39df-4ed4-a621-e64c33e6b45b.jpeg/1200x900/quality/80/caf-combien-allez-vous-percevoir-d-apl-en-plus-des-le-1er-octobre-prochain.jpg"
+        },
+        {
+          "title": "Démocratie locale : Un comité innovant.",
+          "summary": "Une ville du Calvados crée un comité consultatif inédit pour inclure les habitants dans les décisions locales.",
+          "url": "https://actu.fr/normandie/les-monts-d-aunay_14027/remonter-des-avis-du-terrain-cette-ville-du-calvados-cree-un-comite-consultatif-avec-des-habitants-de-ses-7-communes_64536067.html",
+          "image": "https://static.actu.fr/uploads/2026/07/a345de6ca45a6c745de6ca45adb45dv-1024x557.jpg"
         }
       ]
     },
@@ -62,20 +56,20 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Apple contre OpenAI : la guerre du matériel ?",
-          "summary": "Une plainte d'Apple menace de freiner les ambitions d'OpenAI dans le développement de ses propres équipements.",
-          "url": "https://www.macg.co/aapl/2026/07/la-plainte-dapple-pourrait-serieusement-ralentir-les-ambitions-materielles-dopenai-309725",
-          "image": "https://cdn.mgig.fr/2026/07/mga-b1ccb413-w375-w1500-w750_accroche.jpg"
-        },
-        {
-          "title": "L'IA booste les FPI de centres de données",
-          "summary": "BTIG identifie les meilleurs investissements immobiliers (REIT) pour profiter de l'essor fulgurant de l'IA.",
+          "title": "L'IA booste l'immobilier tech.",
+          "summary": "Face à l'essor de l'IA, BTIG identifie les REIT de centres de données les plus performants.",
           "url": "https://fr.investing.com/news/stock-market-news/btig-designe-les-meilleurs-fpi-reit-de-centres-de-donnees-face-a-la-montee-de-lia-93CH-3496344",
           "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
         },
         {
-          "title": "Nouveaux Mac M7 Ultra : le prix de la puissance",
-          "summary": "Avec 1,5 To de mémoire, les futurs Mac équipés de la puce M7 Ultra s'annoncent particulièrement coûteux.",
+          "title": "Apple vs OpenAI : Guerre tech.",
+          "summary": "Une plainte d'Apple menace de freiner considérablement les ambitions matérielles de la startup OpenAI.",
+          "url": "https://www.macg.co/aapl/2026/07/la-plainte-dapple-pourrait-serieusement-ralentir-les-ambitions-materielles-dopenai-309725",
+          "image": "https://cdn.mgig.fr/2026/07/mga-b1ccb413-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "Futurs Mac M7 Ultra : Des prix records ?",
+          "summary": "Les prochains Mac dotés de la puce M7 Ultra et de 1,5 To de mémoire annoncent des prix exorbitants.",
           "url": "https://www.journaldugeek.com/2026/07/14/avec-15-to-de-memoire-les-futurs-mac-avec-puce-m7-ultra-risquent-de-couter-tres-tres-cher/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/06/apple-hausse-prix-mac-ipad-france-2026-1280x853.jpeg"
         }
@@ -86,46 +80,52 @@
       "emoji": "💰",
       "articles": [
         {
-          "title": "Fed : alerte sur une hausse des taux",
-          "summary": "Un gouverneur de la Fed met en garde contre une potentielle hausse des taux, tout en prônant la prudence.",
+          "title": "Fed : Hausse de taux possible, mais prudence.",
+          "summary": "Un dirigeant de la Fed évoque une potentielle hausse des taux, tout en appelant à ne pas surréagir.",
           "url": "https://fr.qz.com/augmentation-des-taux-fed-waller-avertissement-inflation-071326",
           "image": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2097696708.jpg"
         },
         {
-          "title": "L'action SpaceX chute post-introduction",
-          "summary": "Le cours de l'action SpaceX retombe près de son prix d'introduction en bourse après un rallye initial.",
+          "title": "SpaceX : Chute du cours de l'action.",
+          "summary": "Après une période d'euphorie, l'action SpaceX retombe vers son prix d'introduction en bourse.",
           "url": "https://fr.qz.com/spacex-action-introduction-prix-nasdaq-071326",
           "image": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2269562504.jpg"
-        },
-        {
-          "title": "Calvados : les habitants consultés",
-          "summary": "Une ville du Calvados innove en créant un comité consultatif pour recueillir l'avis de ses habitants.",
-          "url": "https://actu.fr/normandie/les-monts-d-aunay_14027/remonter-des-avis-du-terrain-cette-ville-du-calvados-cree-un-comite-consultatif-avec-des-habitants-de-ses-7-communes_64536067.html",
-          "image": "https://static.actu.fr/uploads/2026/07/a345de6ca45a6c745de6ca45adb45dv-1024x557.jpg"
         }
       ]
     },
     {
-      "label": "Gironde",
+      "label": "Environnement",
       "emoji": "🔥",
       "articles": [
         {
-          "title": "Fontainebleau : 1 900 hectares brûlés",
-          "summary": "La forêt de Fontainebleau a été ravagée par des incendies, détruisant plus de 1 900 hectares.",
+          "title": "Incendies dévastateurs à Fontainebleau.",
+          "summary": "Plus de 1900 hectares ont été ravagés par les incendies en forêt de Fontainebleau, un désastre écologique.",
           "url": "https://www.sudouest.fr/ile-de-france/foret-de-fontainebleau-les-incendies-ont-parcouru-plus-de-1-900-hectares-29924752.php",
-          "image": ""
+          "image": null
         },
         {
-          "title": "Houeillès : 190 hectares de forêt ravagés",
-          "summary": "Retour en images sur l'incendie de Houeillès qui a dévasté une importante portion de forêt.",
+          "title": "Le Lot-et-Garonne face aux flammes.",
+          "summary": "Une journée intense pour les pompiers combattant l'incendie qui a ravagé 190 hectares à Houeillès.",
           "url": "https://www.sudouest.fr/lot-et-garonne/houeilles/en-images-une-journee-sur-le-front-de-l-incendie-de-houeilles-qui-a-ravage-plus-de-190-hectares-de-foret-29922438.php",
-          "image": ""
+          "image": null
         },
         {
-          "title": "Landes : 13 départs de feu en un jour",
-          "summary": "136 pompiers ont été mobilisés pour combattre treize départs de feu simultanés dans les Landes.",
+          "title": "Landes : Treize départs de feu en un jour.",
+          "summary": "Les Landes ont mobilisé 136 pompiers pour faire face à treize nouveaux départs de feu en 24 heures.",
           "url": "https://www.sudouest.fr/landes/mont-de-marsan/landes-136-pompiers-mobilises-pour-combattre-13-departs-de-feu-en-une-seule-journee-29924583.php",
-          "image": ""
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Science & Découvertes",
+      "emoji": "🔭",
+      "articles": [
+        {
+          "title": "Voyager 1 : Voyage interstellaire infini.",
+          "summary": "La sonde Voyager 1 continue son incroyable odyssée spatiale depuis 1977, toujours loin d'une année-lumière.",
+          "url": "https://www.journaldugeek.com/2026/07/13/depuis-1977-la-sonde-voyager-1-de-la-nasa-file-dans-lespace-a-61-000-km-h-mais-reste-tres-loin-davoir-parcouru-une-annee-lumiere/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Voyager-1-1280x853.jpg"
         }
       ]
     },
@@ -134,22 +134,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama prolonge son contrat max aux Spurs",
-          "summary": "Victor Wembanyama confirme son engagement avec San Antonio en signant un nouveau contrat max en NBA.",
+          "title": "Wembanyama prolonge chez les Spurs !",
+          "summary": "Victor Wembanyama signe un nouveau contrat max, confirmant son engagement avec les San Antonio Spurs.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-du-suspense-a-san-antonio-wembanyama-signe-un-nouveau-contrat-max-et-prolonge-avec-les-spurs_AV-202607100894.html",
           "image": "https://images.bfmtv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
         },
         {
-          "title": "Rugby U20 : les Bleuets en finale !",
-          "summary": "L'équipe de France U20 renverse la Nouvelle-Zélande après un match spectaculaire et accède à la finale.",
+          "title": "Les Bleuets rugissent en finale U20.",
+          "summary": "L'équipe de France U20 bat la Nouvelle-Zélande dans un match épique, direction la finale !",
           "url": "https://rmcsport.bfmtv.com/rugby/coupe-du-monde-u20-les-bleuets-renversent-la-nouvelle-zelande-dans-un-match-spectaculaire-et-filent-en-finale_AV-202607130617.html",
           "image": "https://images.bfmtv.com/GVDE6t6sqaM9v_oaJxUNe6oBqEg=/0x106:2048x1258/800x0/images/France-Rugby-U20-2319602.jpg"
         },
         {
-          "title": "Record de France pour Cassandre Beaugrand",
-          "summary": "La triathlète s'illustre en Ligue de Diamant, pulvérisant le record de France du 3 000 mètres.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/athletisme-la-triathlete-cassandre-beaugrand-s-empare-du-record-de-france-du-3-000-metres-pour-sa-premiere-en-ligue-de-diamant_AD-202607100829.html",
-          "image": "https://images.bfmtv.com/i5wBWkpSC5befeyWW6bDDrWrApI=/7x4:967x544/800x0/images/Cassandre-Beaugrand-lors-de-la-Ligue-de-Diamant-le-10-juillet-2026-2318628.jpg"
+          "title": "JO 2030 : Le combiné nordique disparaît.",
+          "summary": "Le monde du ski français exprime sa tristesse face à la suppression du combiné nordique des JO 2030.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/un-immense-creve-c-ur-comment-le-ski-francais-reagit-a-la-disparition-du-combine-nordique-aux-jo-2030_AV-202607080539.html",
+          "image": "https://images.bfmtv.com/YSIzuo0v0r0nDctbahmx_QfiuAg=/0x140:2048x1292/800x0/images/Le-saut-a-skis-de-Jonas-Schuster-lors-de-l-etape-de-combine-nordique-de-Zakopane-Coupe-du-monde-le-10-janvier-2026-2216473.jpg"
         }
       ]
     }
