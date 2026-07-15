@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Donald",
+  "global_summary": "L'actualité de ce jour nous plonge au cœur d'un monde contrasté, entre traditions ancestrales sur le lac Kivu et efforts de reconstruction pour les enfants de Gaza, rappelant l'infinie capacité d'adaptation humaine. Sur les terrains de sport, la France vibre au rythme des exploits, de la Coupe du Monde U20 de rugby à l'athlétisme où nos talents s'illustrent, tandis que la NBA s'anime avec les annonces de nos stars. \nL'économie et la tech ne sont pas en reste, avec des mouvements boursiers impactant les géants de l'automobile électrique et des réflexions sur l'avenir de la \"vanlife\". Enfin, des nouvelles locales et culturelles complètent ce panorama, soulignant une journée riche en défis et en promesses, qui nous pousse à rester connectés et à agir.",
+  "running_advice": "Chers athlètes ! Aujourd'hui, on ne se laisse pas abattre par la météo, on s'adapte ! Avec des températures chaudes (jusqu'à 32.4°C) et un fort risque de pluie (88%), votre motivation sera votre meilleur allié. L'heure idéale pour votre run sera tôt le matin, juste après le lever du soleil à 06:30, ou en fin de journée, peu avant le coucher à 21:47. Cela vous permettra d'éviter les pics de chaleur et, avec un peu de chance, les averses les plus intenses. N'oubliez pas votre crème solaire (UV de 5.9 !) même par temps couvert, et équipez-vous d'une tenue légère et imperméable si vous bravez la pluie. Chaque goutte est une preuve de votre détermination ! Allez, on y va !",
+  "weather_string": "🌧️ Pluie (22.8°C / 32.4°C)",
+  "weather_stats": {
+    "temp": "32.4°C",
+    "rain": "88%",
+    "uv": "5.9"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Pêche millénaire sur le Lac Kivu",
+          "summary": "Découvrez la fascinante tradition des pêcheurs du lac Kivu, un héritage culturel illuminant l'Afrique centrale.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260714-la-p%C3%AAche-%C3%A0-la-lumi%C3%A8re-des-lanternes-sur-le-lac-kivu-une-tradition-mill%C3%A9naire",
+          "image": "https://s.france24.com/media/display/a61518b6-7fad-11f1-a9c9-005056a90284/w:1024/p:16x9/Vignette-LAC-KIVU-PECHE-00-00-00-00-Still001.jpg"
+        },
+        {
+          "title": "Gaza: Espoir pour les enfants",
+          "summary": "Un reportage émouvant révèle un havre de paix essentiel pour aider les enfants de Gaza à surmonter les traumatismes.",
+          "url": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-un-ilot-de-paix-pour-reconstruire-les-enfants_8107628.html",
+          "image": "https://www.franceinfo.fr/pictures/O_Q6p6EghdtC2-mYRuCEE6QDflk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/14/6a563429c9adb289900799.jpg"
+        },
+        {
+          "title": "Football: France-Espagne en direct!",
+          "summary": "Les compos sont connues pour cette demi-finale explosive. Tchouaméni est de retour, un match à ne pas manquer!",
+          "url": "https://www.france24.com/fr/sports/20260714-france-espagne-direct-live-demi-finale-coupe-du-monde",
+          "image": "https://s.france24.com/media/display/0e2f0dda-7f40-11f1-9a48-005056bfb2b6/w:1024/p:16x9/FRA-ESP-H.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Athlétisme: Stars françaises brillent",
+          "summary": "Tharp confirme sa forme exceptionnelle, Duplantis et Russell s'illustrent à Budapest, prometteur pour l'athlétisme français.",
+          "url": "https://www.lefigaro.fr/sports/athletisme/athletisme-tharp-impressionne-encore-duplantis-et-russell-en-forme-a-budapest-20260714",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/07/14/a5486e63779e777603ecc8a2362e5faa177f5eaf6967282a9ef2a25c6104f979.jpg"
+        },
+        {
+          "title": "Centres de loisirs estivaux",
+          "summary": "À Morteaux-Couliboeuf, le centre des Francas assure des activités estivales, offrant dynamisme et découvertes aux jeunes.",
+          "url": "https://actu.fr/normandie/morteaux-couliboeuf_14452/a-morteaux-couliboeuf-le-centre-de-loisirs-des-francas-fonctionne-pendant-lete_64526848.html",
+          "image": "https://static.actu.fr/uploads/2026/07/542acc7b2d4a6382acc7b2d4a0c2acv-1024x557.jpg"
+        },
+        {
+          "title": "Réforme du Sport: Changements majeurs",
+          "summary": "L'Assemblée nationale adopte une réforme clé du sport pro, annonçant des bouleversements profonds pour le football français.",
+          "url": "https://rmcsport.bfmtv.com/societe/la-reforme-du-sport-professionnel-adoptée-a-l-assemblee-nationale-de-grands-changements-a-venir-dans-le-foot-francais_AN-202606290870.html",
+          "image": "https://images.bfmtv.com/BqL0z71taWCLHqrPKZrH-PsP5uI=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-en-juin-2026-2312081.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Vanlife: La vie nomade séduit",
+          "summary": "La \"vanlife\" connaît un essor constant, transformant les vans en foyers permanents pour une liberté accrue.",
+          "url": "https://www.letelegramme.fr/morbihan/vannes-56000/de-plus-en-plus-de-clients-font-amenager-leur-van-pour-y-vivre-toute-lannee-autour-de-vannes-et-dauray-la-vanlife-attire-toujours-7083759.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a56377de77ba1bd73039621/web_golden_xxl/6a56377de77ba1bd73039621.1"
+        },
+        {
+          "title": "Le progrès technologique continue",
+          "summary": "Une discussion passionnante sur les avancées incessantes de la science et de la technologie, ouvrant de nouvelles perspectives.",
+          "url": "http://www.astrosurf.com/topic/184145-on-narr%C3%AAte-pas-le-progr%C3%A8s-c42/",
+          "image": "http://www.astrosurf.com/uploads/monthly_2019_01/medium_SHO2.jpg.f44e2b294924fb7ad9258552a8e49d16.thumb.jpg.61daac14a2cb96a15f56c92530d16089.jpg"
+        },
+        {
+          "title": "NanoKnife booste AngioDynamics",
+          "summary": "Canaccord rehausse ses prévisions pour AngioDynamics, saluant le potentiel révolutionnaire de sa technologie NanoKnife.",
+          "url": "https://fr.investing.com/news/analyst-ratings/canaccord-releve-son-objectif-de-cours-sur-angiodynamics-grace-a-nanoknife-93CH-3498327",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Rivian chute, Lucid en péril?",
+          "summary": "Des rumeurs de faillite chez Lucid font chuter les actions de Rivian, secouant le marché des véhicules électriques.",
+          "url": "https://fr.investing.com/news/stock-market-news/les-actions-rivian-chutent-apres-des-rumeurs-de-faillite-chez-lucid-93CH-3498317",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "title": "Top Actions Hôtelières selon Goldman",
+          "summary": "Goldman Sachs révèle ses trois meilleures recommandations d'actions hôtelières américaines, un signal fort pour les investisseurs.",
+          "url": "https://fr.investing.com/news/stock-market-news/goldman-sachs-identifie-les-3-meilleures-actions-hotelieres-americaines-93CH-3498318",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "title": "Ericsson déçoit, BofA réagit",
+          "summary": "Suite à des résultats en deçà des attentes, BofA révise à la baisse son objectif de cours pour Ericsson.",
+          "url": "https://fr.investing.com/news/analyst-ratings/bofa-abaisse-son-objectif-de-cours-sur-ericsson-apres-des-resultats-decevants-93CH-3498320",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Régional (Gironde)",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Incendie majeur en Gironde",
+          "summary": "Six hectares de prairie et deux bâtiments détruits par un incendie à Laruscade, mobilisant les pompiers.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/gironde-un-incendie-detruit-six-hectares-de-prairie-et-deux-batiments-a-laruscade-29935541.php",
+          "image": null
+        },
+        {
+          "title": "Feu de maison maîtrisé",
+          "summary": "À Bonneville-et-Saint-Avit-de-Fumadières, les pompiers ont réussi à maîtriser un feu de maison.",
+          "url": "https://www.sudouest.fr/dordogne/bonneville-et-saint-avit-de-fumad/bonneville-et-saint-avit-de-fumadieres-un-feu-de-maison-maitrise-par-les-pompiers-29935542.php",
+          "image": null
+        },
+        {
+          "title": "Tragédie: Meurtre de bébés",
+          "summary": "Une femme, accusant les vaccins pour la mort de ses jumeaux, est poursuivie pour leur meurtre.",
+          "url": "https://www.sudouest.fr/international/etats-unis/elle-accusait-les-vaccins-d-avoir-tue-ses-jumeaux-une-femme-poursuivie-pour-le-meurtre-de-deux-bebes-de-18-mois-29935425.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture Tech",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Avengers Doomsday: Durée révélée!",
+          "summary": "La durée tant attendue de l'énorme film Marvel, Avengers Doomsday, a enfin été dévoilée, excitant les fans.",
+          "url": "https://www.journaldugeek.com/2026/07/15/avengers-doomsday-on-connait-enfin-la-duree-de-lenorme-film-marvel/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/avengers-doomsday-spoil-1280x853.jpg"
+        },
+        {
+          "title": "OnePlus quitte l'Occident?",
+          "summary": "Des rumeurs persistantes annoncent le retrait imminent de OnePlus des marchés européen et américain.",
+          "url": "https://www.journaldugeek.com/2026/07/15/oneplus-preparerait-ses-adieux-a-leurope-et-aux-etats-unis/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/oneplus-15R-jdg-1280x853.jpg"
+        },
+        {
+          "title": "Nolan réinvente L'Odyssée",
+          "summary": "La critique salue la version épique de L'Odyssée par Christopher Nolan, une prouesse cinématographique inattendue.",
+          "url": "https://www.journaldugeek.com/critique/critique-lodyssee-christopher-nolan-ulysse/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Critique-LOdyssee-4-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama prolonge aux Spurs!",
+          "summary": "Victor Wembanyama met fin au suspense et signe un contrat max, assurant son avenir avec les San Antonio Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-du-suspense-a-san-antonio-wembanyama-signe-un-nouveau-contrat-max-et-prolonge-avec-les-spurs_AV-202607100894.html",
+          "image": "https://images.bfmtv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        },
+        {
+          "title": "Bleuets U20 en finale!",
+          "summary": "Victoire époustouflante des Bleuets U20 contre la Nouvelle-Zélande, les propulsant en finale de la Coupe du Monde!",
+          "url": "https://rmcsport.bfmtv.com/rugby/coupe-du-monde-u20-les-bleuets-renversent-la-nouvelle-zelande-dans-un-match-spectaculaire-et-filent-en-finale_AV-202607130617.html",
+          "image": "https://images.bfmtv.com/GVDE6t6sqaM9v_oaJxUNe6oBqEg=/0x106:2048x1258/800x0/images/France-Rugby-U20-2319602.jpg"
+        },
+        {
+          "title": "Cassandre Beaugrand bat record!",
+          "summary": "La triathlète Cassandre Beaugrand établit un nouveau record de France du 3 000m pour sa première Ligue de Diamant.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/diamond-league/athletisme-la-triathlete-cassandre-beaugrand-s-empare-du-record-de-france-du-3-000-metres-pour-sa-premiere-en-ligue-de-diamant_AD-202607100829.html",
+          "image": "https://images.bfmtv.com/i5wBWkpSC5befeyWW6bDDrWrApI=/7x4:967x544/800x0/images/Cassandre-Beaugrand-lors-de-la-Ligue-de-Diamant-le-10-juillet-2026-2318628.jpg"
+        }
+      ]
+    }
+  ]
+}
