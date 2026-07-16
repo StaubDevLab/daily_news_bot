@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Fête de Notre Dame du Mont Carmel",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux cruciaux, allant des crises environnementales aux débats sociétaux profonds. En France, la mobilisation face aux feux de forêt est intense, avec des arrestations à Fontainebleau, tandis que la société s'interroge sur la délicate question de la fin de vie. À l'échelle internationale, la géopolitique reste tendue avec une nouvelle rébellion en Libye, et l'Union Européenne affermit son rôle régulateur face aux géants technologiques.",
+  "running_advice": "Chers athlètes, amis de la course ! Aujourd'hui, la météo nous offre une opportunité de bouger, mais avec prudence. Avec des températures allant de 21.7°C à 31.8°C et un ciel peu nuageux, l'idéal est de viser la fraîcheur matinale. Le meilleur moment pour enfiler vos baskets serait juste après le lever du soleil, entre 6h30 et 7h30, pour profiter de l'air le plus doux.\n\nAttention, l'indice UV est de 7.4, ce qui est élevé. Crème solaire SPF50+, casquette et lunettes de soleil sont indispensables. Une probabilité de pluie de 45% est à considérer : un équipement léger et imperméable pourrait être un bon réflexe. Pensez à bien vous hydrater avant, pendant et après l'effort. Votre persévérance est votre plus grande force, alors bougez intelligemment et faites de cette journée un succès !",
+  "weather_string": "🌤️ Peu nuageux (21.7°C / 31.8°C)",
+  "weather_stats": {
+    "temp": "31.8°C",
+    "rain": "45%",
+    "uv": "7.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Rébellion en Libye : l'emprise de Haftar fragilise",
+          "summary": "Une nouvelle rébellion dans le Sahara libyen met à mal le pouvoir du maréchal Khalifa Haftar, attisant les tensions régionales.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/07/15/dans-le-sahara-libyen-une-nouvelle-rebellion-fragilise-l-emprise-du-clan-du-marechal-khalifa-haftar_6723605_3212.html",
+          "image": "https://img.lemde.fr/2026/07/14/0/0/1588/794/644/322/60/0/211a427_upload-1-qyw4z2thvn4h-capture-d-e-cran-2026-07-14-a-15-32-44.png"
+        },
+        {
+          "title": "Fontainebleau : arrestations après les feux, Macron attendu",
+          "summary": "Deux suspects sont en détention préventive suite aux feux de forêt de Fontainebleau, avec une visite présidentielle imminente.",
+          "url": "http://fr.euronews.com/my-europe/2026/07/15/feux-en-foret-de-fontainebleau-detention-requise-pour-deux-suspects-macron-sur-place-jeudi",
+          "image": "https://images.euronews.com/articles/stories/09/83/93/61/1440x810_cmsv2_32c6b380-5c4c-52cc-9b30-ce1b4a7d9527-9839361.jpg"
+        },
+        {
+          "title": "L'UE valide les mesures de X après une lourde amende",
+          "summary": "L'Union européenne accepte les corrections apportées par X (ex-Twitter) suite à une amende de 120 millions d'euros fin 2025.",
+          "url": "https://www.lemonde.fr/pixels/article/2026/07/15/l-union-europeenne-accepte-les-mesures-correctives-de-x-apres-l-amende-de-120-millions-d-euros-prononcee-a-la-fin-de-2025_6723612_4408996.html",
+          "image": "https://img.lemde.fr/2026/07/08/214/0/2567/1283/644/322/60/0/0acb7f6_ftp-1-xugt2iodnu8h-2026-07-08t205010z-814711673-rc2y8la6l3sl-rtrmadp-3-usa-sec-musk.JPG"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Fin de vie : un débat intime et législatif",
+          "summary": "L'édito du jour explore le projet de loi sur la fin de vie, une question de société profonde face à l'intime.",
+          "url": "https://www.vosgesmatin.fr/elections/2026/07/15/l-edito-fin-de-vie-une-loi-face-a-l-intime",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/F13860CD-BD86-48DA-AC84-69984EE6F7C1/NW_listB/l-edito-fin-de-vie-une-loi-face-a-l-intime-1784141018.jpg"
+        },
+        {
+          "title": "Festival Avignon : Marjorie Dubus rayonne",
+          "summary": "Marjorie Dubus enchante le Festival d'Avignon dans « Louison et Monsieur Molière », une performance saluée.",
+          "url": "https://www.lejdd.fr/culture/festival-davignon-marjorie-dubus-irradie-dans-louison-et-monsieur-moliere-179070",
+          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/07/15/16/2026-05-30-1441-louison-et-monsieur-moliere_master.jpg?VersionId=5WC7I_LInZYpvSHfNFQwaDj0DiWsTECC"
+        },
+        {
+          "title": "Seillans : une exposition participative culturelle",
+          "summary": "Entre dessins, animations et traditions, une exposition interactive s'installe à Seillans, invitant à la découverte.",
+          "url": "https://www.nicematin.com/culture/entre-dessins-animations-et-traditions-une-exposition-participative-s-installe-a-seillans-10689410",
+          "image": "https://assets.nicematin.com/articles/10/68/94/10/OG-10689410-1200-800-ac6e7f3_upload-1-ddftjblcse40-94c501a1625a678c52cc50v-01315413.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "OpenAI dévoile un mini-clavier pour développeurs",
+          "summary": "OpenAI lance son premier appareil, un mini-clavier innovant, spécialement conçu pour les développeurs de son outil Codex.",
+          "url": "https://www.macg.co/intelligence-artificielle/2026/07/openai-lance-son-premier-appareil-un-mini-clavier-pour-les-developpeurs-de-codex-309781",
+          "image": "https://cdn.mgig.fr/2026/07/mga-5f85a554-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "Aviation : nouveaux modèles dévoilés à l'AirVenture",
+          "summary": "Le Cessna Citation CJ3 Gen2 et le Beechcraft King Air 360 Crimson Edition feront leurs débuts au salon EAA AirVenture.",
+          "url": "http://www.businesswire.com/news/home/20260714553969/fr/?feedref=JjAwJuNHiystnCoBq_hl-eAh7yh3ccNzLJZaxyWkP0mljpP0CpzuEOW8PSMzp0v37dI9_69nqXXndEkzoNy31peBvhKXN8xoKDPrCnMXhC58cMd5Jhr97vTYoLZQbGkSHGnYFEfW-VLubTIB9HxyrA%3D%3D",
+          "image": "https://mms.businesswire.com/media/20260714553969/fr/2850812/21/Beechcraft_King_Air_360_Crimson_Edition.jpg"
+        },
+        {
+          "title": "Test : Jackery SolarVault 3 Pro Max révolutionne l'autoconsommation",
+          "summary": "Une batterie résidentielle promet de changer la donne pour l'autoconsommation énergétique, testée en profondeur.",
+          "url": "https://www.journaldugeek.com/test/test-jackery-solarvault-3-pro-max-une-batterie-residentielle-qui-change-vraiment-la-donne-pour-lautoconsommation/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/test-jackery-01-1280x720.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Incendies : Action Logement aide les sinistrés",
+          "summary": "Suite aux incendies, Action Logement se mobilise activement pour soutenir les salariés sinistrés en Occitanie.",
+          "url": "https://www.midilibre.fr/2026/07/15/solidarite-en-faveur-des-salaries-sinistres-par-les-incendies-en-occitanie-13470158.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6a57d2357b0a0c460d008260/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Crypto : pression sur l'USD, opportunités pour ARK",
+          "summary": "Le Cercle sous pression de l'USD, mais les ETF ARK de Cathie Wood perçoivent des opportunités à long terme.",
+          "url": "https://fr.benzinga.com/crypto/cercle-sous-pression-de-lusd-ouvert-mais-les-etf-ark-de-cathie-wood-voient-une-opportunite-a-long-terme/",
+          "image": "https://cdn.benzinga.com/files/images/story/2026/07/15/ARK-Invest-Photo-Cathie-Wood-3.png?width=2048&height=1536"
+        },
+        {
+          "title": "Réforme du sport pro : changements majeurs en vue",
+          "summary": "L'Assemblée nationale adopte la réforme du sport professionnel, annonçant des bouleversements pour le foot français.",
+          "url": "https://rmcsport.bfmtv.com/societe/la-reforme-du-sport-professionnel-adoptee-a-l-assemblee-nationale-de-grands-changements-a-venir-dans-le-foot-francais_AN-202606290870.html",
+          "image": "https://images.bfmtv.com/BqL0z71taWCLHqrPKZrH-PsP5uI=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-en-juin-2026-2312081.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : où LeBron James jouera-t-il ensuite ?",
+          "summary": "La grande décision de LeBron James approche : quels sont les cinq favoris pour accueillir le \"King\" ?",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ou-va-jouer-le-bron-james-dont-la-grande-decision-approche-les-cinq-favoris-pour-accueillir-le-king_AV-202607150665.html",
+          "image": "https://images.bfmtv.com/4nEXsbwV3tLA5Sc0ASdk4VIWnkI=/0x191:2048x1343/800x0/images/LeBron-James-lors-d-un-match-de-pre-saison-entre-les-Lakers-et-les-Suns-le-03-10-2025-2152113.jpg"
+        },
+        {
+          "title": "Wembanyama prolonge son contrat max avec les Spurs",
+          "summary": "Fin du suspense à San Antonio : Victor Wembanyama signe un nouveau contrat max et prolonge avec les Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-du-suspense-a-san-antonio-wembanyama-signe-un-nouveau-contrat-max-et-prolonge-avec-les-spurs_AV-202607100894.html",
+          "image": "https://images.bfmtv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        },
+        {
+          "title": "Rugby U20 : les Bleuets en finale du Mondial",
+          "summary": "Les Bleuets U20 renversent la Nouvelle-Zélande dans un match spectaculaire et filent en finale de Coupe du monde.",
+          "url": "https://rmcsport.bfmtv.com/rugby/coupe-du-monde-u20-les-bleuets-renversent-la-nouvelle-zelande-dans-un-match-spectaculaire-et-filent-en-finale_AV-202607130617.html",
+          "image": "https://images.bfmtv.com/GVDE6t6sqaM9v_oaJxUNe6oBqEg=/0x106:2048x1258/800x0/images/France-Rugby-U20-2319602.jpg"
+        }
+      ]
+    }
+  ]
+}
