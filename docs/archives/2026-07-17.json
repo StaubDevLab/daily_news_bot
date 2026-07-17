@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Sainte Charlotte",
+  "global_summary": "L'actualité mondiale est marquée par des enjeux politiques et sportifs de taille. Le Mondial 2026 s'annonce mémorable avec une finale Espagne-Argentine potentielle, tandis que les tensions géopolitiques s'intensifient, notamment entre l'Iran et la Jordanie. Aux États-Unis, la sphère politique reste turbulente, avec de nouvelles décisions controversées de Donald Trump impactant même les institutions judiciaires. \n\nEn France, la canicule pousse les maraîchers à l'innovation, tandis que des manifestations en Ukraine résonnent jusqu'à nous. Le monde du sport est en ébullition avec les destins de légendes comme LeBron James et Victor Wembanyama, et une actualité rugbystique et athlétique riche en rebondissements, y compris des réflexions cruciales sur la santé des athlètes. Les innovations technologiques et les défis économiques, comme les restructurations chez Verizon, complètent ce tableau d'une journée dense.",
+  "running_advice": "Coach ici ! Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous dépasser ! Avec des températures agréables oscillant entre 21.1°C et 29.5°C et un ciel peu nuageux, les conditions sont quasiment parfaites pour votre séance.\n\nJe vous conseille de viser la fraîcheur matinale juste après le lever du soleil (dès 6h32) pour un départ dynamique, ou la douceur du soir, avant le coucher à 21h45, pour une course apaisante. Mais attention, l'indice UV est élevé (7.45) : une protection solaire (crème, casquette, lunettes) est ABSOLUMENT INDISPENSABLE ! Hydratez-vous à fond, écoutez votre corps et foncez profiter de cette magnifique fenêtre météo pour pulvériser vos objectifs ! GO !",
+  "weather_string": "🌤️ Peu nuageux (21.1°C / 29.5°C)",
+  "weather_stats": {
+    "temp": "29.5°C",
+    "rain": "25%",
+    "uv": "7.45"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Mondial 2026 : Messi, l'histoire en marche ?",
+          "summary": "Une finale Espagne-Argentine inédite et un potentiel doublé pour Lionel Messi, le monde du foot retient son souffle.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260716-mondial-2026-espagne-argentine-une-finale-in%C3%A9dite-et-le-double%CC%81-pour-messi",
+          "image": "https://s.france24.com/media/display/4d2005dc-813c-11f1-9a4f-005056a90284/w:1024/p:16x9/LE-DEBAT-FINALE-MONDIAL.jpg"
+        },
+        {
+          "title": "Iran cible la Jordanie : nouvelles tensions",
+          "summary": "L'escalade des tensions au Moyen-Orient : pourquoi la Jordanie se retrouve-t-elle sous le feu des critiques iraniennes ?",
+          "url": "https://www.lemonde.fr/international/article/2026/07/16/pourquoi-la-jordanie-est-elle-prise-pour-cible-par-l-iran_6723842_3210.html",
+          "image": "https://img.lemde.fr/2026/07/09/247/0/2224/1112/644/322/60/0/bf51786_upload-1-dktoqx1idrza-2026-02-10t173355z-1296871511-rc2dgjarcsc7-rtrmadp-3-iran-crisis-military.JPG"
+        },
+        {
+          "title": "Trump vire un procureur par mail",
+          "summary": "Une heure après sa nomination, un procureur de Seattle est révoqué par Donald Trump via un simple courriel.",
+          "url": "https://www.huffingtonpost.fr/international/article/le-nouveau-procureur-roger-rogoff-de-seattle-vire-par-trump-une-heure-apres-sa-nomination-par-mail_289973.html",
+          "image": "https://focus.huffingtonpost.fr/2026/04/22/79/0/3482/1958/0/0/60/0/c6b8f5a_upload-1-cfvmrqfivnia-afp-20260421-2272450760-v1-highres-presidenttrumpholdsncaacollegiatenationalcha.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Trump : discours crucial sur les élections",
+          "summary": "Donald Trump prépare une allocution majeure sur l'intégrité électorale à l'approche des élections de mi-mandat.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/16/l-allocution-de-donald-trump-va-porter-sur-la-protection-de-l-integrite-des-elections-a-l-approche-des-midterms-dit-la-maison-blanche_6723843_3210.html",
+          "image": "https://img.lemde.fr/2026/07/16/450/0/5945/2972/644/322/60/0/c5f9eec_ftp-1-1zpstw5uyr1c-2026-07-16t174324z-972400445-rc25fmaj5fui-rtrmadp-3-usa-trump.JPG"
+        },
+        {
+          "title": "Ukraine : vagues de protestation contre un renvoi",
+          "summary": "Des milliers d'Ukrainiens manifestent leur désaccord après le renvoi de Mykhaïlo Fedorov, ministre clé.",
+          "url": "https://www.rfi.fr/fr/europe/20260716-ukraine-des-milliers-de-personnes-manifestent-contre-le-renvoi-de-mykha%C3%AFlo-fedorov",
+          "image": "https://s.rfi.fr/media/display/134872ce-8108-11f1-b9f8-005056a97e36/w:1024/p:16x9/2026-07-16T091433Z-406874306-RC2WEMAAEJD3-RTRMADP-3-UKRAINE-CRISIS-GOVERNMENT-PROTEST.jpg"
+        },
+        {
+          "title": "Canicule : l'ingéniosité des maraîchers",
+          "summary": "Face à la canicule, des maraîchers de la Vienne déploient des solutions inventives pour sauver leurs récoltes.",
+          "url": "https://www.lanouvellerepublique.fr/vienne/commune/sevres-anxaumont/canicule-les-solutions-de-ces-maraichers-de-la-vienne-qui-redoublent-d-inventivite-pour-limiter-les-pertes-1784227410",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a5926506bae6bdf418b4595"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "L'Odyssée de Nolan en IMAX 70mm",
+          "summary": "Expérience immersive unique : on a testé la seule salle IMAX 70mm de France pour le dernier film de Nolan.",
+          "url": "https://www.journaldugeek.com/2026/07/16/on-a-teste-la-seule-salle-imax-70mm-de-france-pour-lodyssee-de-nolan/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/odysee-imax-70-mm-france-exterieur-1280x853.jpg"
+        },
+        {
+          "title": "Signal Ring : la tension au doigt",
+          "summary": "Révolution de la santé connectée : une bague promet de mesurer la tension artérielle, sans brassard.",
+          "url": "https://www.journaldugeek.com/2026/07/17/signal-ring-une-bague-qui-veut-prendre-la-tension-sans-sortir-le-brassard/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Vital-Signals-1280x853.jpg"
+        },
+        {
+          "title": "iPad mini : cap sur l'OLED !",
+          "summary": "Le futur iPad mini pourrait enfin adopter l'écran OLED, offrant une qualité d'affichage supérieure.",
+          "url": "https://www.journaldugeek.com/2026/07/17/lipad-mini-preparerait-son-grand-passage-a-loled/",
+          "image": "https://www.journaldugeek.com/app/uploads/2021/09/apple-ipad-mini2021-live-11-1245x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Verizon : vente massive, 3000 emplois coupés",
+          "summary": "Verizon restructure : 274 magasins vendus et 3 000 postes supprimés dans cette vague de réductions.",
+          "url": "https://fr.qz.com/ventes-en-magasin-verizon-licenciements-3000-emplois-071626",
+          "image": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2271853832.jpg"
+        },
+        {
+          "title": "Agent prompteur de Trump suspendu",
+          "summary": "Scandale : l'opérateur du prompteur de Trump suspendu pour avoir parié sur les contenus des discours.",
+          "url": "https://www.lefigaro.fr/international/un-agent-operant-le-prompteur-de-trump-suspendu-pour-avoir-parie-de-l-argent-sur-les-discours-du-president-americain-20260716",
+          "image": "https://i.f1g.fr/media/cms/3000x2001_crop/2026/07/16/18aa606c1d42991d2c186b8b205d2183eaf0a68ee8972591fa8a7e88096d727a.jpg"
+        },
+        {
+          "title": "UE : la Chine, défi stratégique majeur",
+          "summary": "L'Union Européenne qualifie la Chine de défi stratégique principal, marquant un tournant diplomatique.",
+          "url": "http://fr.euronews.com/my-europe/2026/07/16/les-ministres-des-affaires-etrangeres-de-lue-qualifient-la-chine-de-defi-strategique-majeu",
+          "image": "https://images.euronews.com/articles/stories/09/84/02/26/1440x810_cmsv2_c85f1d09-9a58-5e44-9dff-7d3685fa730b-9840226.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Alès : menaces inédites pour le maire",
+          "summary": "Le maire d'Alès a reçu des menaces d'une violence inouïe, signées \"DZ Mafia\", à son domicile.",
+          "url": "https://www.sudouest.fr/faits-divers/narcotrafic/je-n-avais-jamais-eu-des-menaces-de-ce-niveau-le-maire-d-ales-recoit-deux-balles-de-9-mm-signees-dz-mafia-a-son-domicile-29965218.php",
+          "image": null
+        },
+        {
+          "title": "Recouvrement houleux finit au tribunal",
+          "summary": "Un recouvrement de dette sous haute tension se termine devant la justice après des menaces graves.",
+          "url": "https://www.sudouest.fr/justice/si-je-n-ai-pas-mon-argent-dans-une-semaine-tu-es-morte-l-episode-de-recouvrement-matinal-et-houleux-se-termine-au-tribunal-29961554.php",
+          "image": null
+        },
+        {
+          "title": "Bordeaux : un frotteur septuagénaire arrêté",
+          "summary": "Un homme de 70 ans a été interpellé à Bordeaux, soupçonné de filmer discrètement sous les jupes.",
+          "url": "https://www.sudouest.fr/faits-divers/a-bordeaux-un-septuagenaire-suspecte-de-filmer-sous-les-jupes-a-ete-place-en-garde-a-vue-29962122.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "LeBron James : quelle destination pour le King ?",
+          "summary": "La NBA retient son souffle : la décision de LeBron James approche, et les rumeurs s'intensifient.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ou-va-jouer-le-bron-james-dont-la-grande-decision-approche-les-cinq-favoris-pour-accueillir-le-king_AV-202607150665.html",
+          "image": "https://images.bfmtv.com/4nEXsbwV3tLA5Sc0ASdk4VIWnkI=/0x191:2048x1343/800x0/images/LeBron-James-lors-d-un-match-de-pre-saison-entre-les-Lakers-et-les-Suns-le-03-10-2025-2152113.jpg"
+        },
+        {
+          "title": "Wembanyama prolonge aux Spurs : contrat max !",
+          "summary": "Fin du suspense à San Antonio : Victor Wembanyama signe un contrat max, assurant son avenir avec les Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-fin-du-suspense-a-san-antonio-wembanyama-signe-un-nouveau-contrat-max-et-prolonge-avec-les-spurs_AV-202607100894.html",
+          "image": "https://images.bfmtv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        },
+        {
+          "title": "Romane Ménager : retraite forcée après commotions",
+          "summary": "Coup dur pour le XV de France : Romane Ménager met fin à sa carrière suite à de multiples commotions cérébrales.",
+          "url": "https://rmcsport.bfmtv.com/rugby/feminin/xv-de-france-il-est-temps-d-ecouter-mon-corps-romane-menager-forcee-de-prendre-sa-retraite-apres-plusieurs-commotions-cerebrales_AD-202607150688.html",
+          "image": "https://images.bfmtv.com/EDrUhm8hfA8LswFjUktsrzFMjgo=/0x0:1200x675/800x0/images/Romane-Menager-1512571.jpg"
+        }
+      ]
+    }
+  ]
+}
