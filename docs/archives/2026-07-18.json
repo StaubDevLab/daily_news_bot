@@ -1,0 +1,172 @@
+{
+  "ephemeride": "Saint Frédéric",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques persistantes, entre un bras de fer sino-américain, des manifestations en Ukraine et des inquiétudes autour d'un conflit Iran-États-Unis. Parallèlement, le Canada fait face à des incendies dévastateurs, soulignant l'urgence climatique. En France, des faits divers marquants côtoient des avancées législatives majeures pour le sport professionnel, tandis que les taux de crédit immobilier repartent à la hausse.\n\nSur le plan sportif, des annonces clés agitent le monde du basket avec LeBron James et Wembanyama, et l'athlétisme initie des changements profonds dans la retransmission de ses compétitions. La passion et l'engagement citoyen sont également visibles, du Bassin d'Arcachon aux débats sur l'équité dans le sport. C'est un panorama riche et contrasté qui nous invite à rester informés et acteurs.",
+  "running_advice": "Aujourd'hui, Saint Frédéric nous rappelle qu'il est temps de bouger ! Avec un ciel peu nuageux et aucune pluie, la journée est globalement propice à la course. Cependant, attention à la chaleur et à l'indice UV élevé de 7.5 ! Je vous conseille vivement de privilégier vos runs tôt le matin, juste après le lever du soleil à 06h33, ou en fin de soirée, avant le coucher à 21h44. Évitez les heures les plus chaudes et ensoleillées de la mi-journée. Et surtout, n'oubliez pas votre crème solaire, un chapeau, des lunettes et une bonne hydratation ! Votre corps est votre temple, protégez-le tout en le défiant. Allez, on chausse les baskets !",
+  "weather_string": "🌤️ Peu nuageux (18.8°C / 31.5°C)",
+  "weather_stats": {
+    "temp": "31.5°C",
+    "rain": "0%",
+    "uv": "7.5"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Tensions mondiales: Ukraine, Iran et bras de fer USA-Chine",
+          "summary": "L'actualité géopolitique est tendue avec des conflits et rivalités majeures qui redessinent la carte du monde.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260717-guerre-iran-etats-unis-manifestations-en-ukraine-et-bras-de-fer-entre-washington-et-p%C3%A9kin",
+          "image": "https://s.france24.com/media/display/2003fc70-8209-11f1-a2be-005056a97e36/w:1024/p:16x9/Francais-2026-07-17T17-56-09-924Z.jpg"
+        },
+        {
+          "title": "Canada : Plus de 200 incendies hors de contrôle",
+          "summary": "Des feux de forêt massifs ravagent le Canada, avec plus de 200 foyers toujours actifs, notamment en Ontario.",
+          "url": "https://www.franceinfo.fr/monde/canada/plus-de-200-incendies-restent-hors-de-controle-au-canada-notamment-dans-la-province-de-l-ontario_8112206.html",
+          "image": "https://www.franceinfo.fr/pictures/iriTrAmyRFPI9foih3VGn1PAKGs/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/17/6a5a70cf46498040365495.jpg"
+        },
+        {
+          "title": "Monaco : L'explosion filmée par le parquet ukrainien",
+          "summary": "Des images chocs d'une explosion à Monaco ont été rendues publiques par le parquet ukrainien.",
+          "url": "https://www.bfmtv.com/international/video-monaco-les-images-de-l-explosion-devoilees-par-le-parquet-ukrainien_VN-202607170683.html",
+          "image": "https://images.bfmtv.com/iGGQWesWzNkq9RW22ADTRiDFhk=/0x0:1280x720/800x0/images/Monaco-les-images-de-l-explosion-devoilees-par-le-parquet-ukrainien-2321844.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Rennes: Une femme poussée du 4e étage, compagnon écroué",
+          "summary": "Un drame choquant à Rennes où une femme a été défenestrée, son compagnon mis en examen et écroué.",
+          "url": "https://www.lefigaro.fr/faits-divers/rennes-une-femme-poussee-du-4e-etage-les-poings-lies-son-compagnon-mis-en-examen-et-ecroue-20260717",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/07/17/816d2b4aac32802b29b66f645e76d7e067bb3d8d7c0ca5f03a23242d549703d2.JPG"
+        },
+        {
+          "title": "Réforme du sport pro: changements majeurs votés à l'Assemblée",
+          "summary": "La réforme du sport professionnel est adoptée, promettant de grandes évolutions, notamment pour le football français.",
+          "url": "https://rmcsport.bfmtv.com/societe/la-reforme-du-sport-professionnel-adoptee-a-l-assemblee-nationale-de-grands-changements-a-venir-dans-le-foot-francais_AN-202606290870.html",
+          "image": "https://images.bfmtv.com/BqL0z71taWCLHqrPKZrH-PsP5uI=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-en-juin-2026-2312081.jpg"
+        },
+        {
+          "title": "Oise: Le pollueur retrouvé après un dépôt sauvage",
+          "summary": "La détermination d'une commune de l'Oise a permis de retrouver rapidement un pollueur, même pour un \"petit\" dépôt sauvage.",
+          "url": "https://actu.fr/https:/actu.fr/hauts-de-france/laigneville_60342/il-n-y-a-pas-de-petit-depot-sauvage-dans-cette-commune-de-l-oise-le-pollueur-retrouve-en-quelques-minutes_64555947.html",
+          "image": "https://static.actu.fr/uploads/2026/07/laigneville-1024x557.png"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Volvo fabriquera plus de voitures chinoises en Belgique",
+          "summary": "Volvo envisage d'augmenter la production de modèles chinois dans ses usines belges, un tournant stratégique.",
+          "url": "https://www.autojournal.fr/actu/pourquoi-volvo-pourrait-bientot-fabriquer-dautres-voitures-chinoises-en-belgique-419298.html",
+          "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2026/07/1-6.jpeg"
+        },
+        {
+          "title": "Crédit immobilier: La remontée des taux se confirme",
+          "summary": "Après une accalmie, les taux de crédit immobilier reprennent leur ascension, impactant le marché.",
+          "url": "https://www.capital.fr/immobilier/credit-immobilier-la-remontee-des-taux-se-confirme-apres-une-accalmie-1528545",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~17~ff7d0b92-e3b6-41ae-8788-b20f82474f48.jpeg/1200x900/quality/80/credit-immobilier-la-remontee-des-taux-se-confirme-apres-une-accalmie.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "York Water: Le PDG acquiert 3 250 $ d'actions",
+          "summary": "Le PDG de York Water renforce sa participation dans l'entreprise avec un achat d'actions significatif.",
+          "url": "https://fr.investing.com/news/insider-trading-news/le-pdg-de-york-water-achete-des-actions-pour-3250-93CH-3504339",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "title": "York Water: La directrice comptable achète 1 300 $ d'actions",
+          "summary": "La directrice comptable de York Water démontre sa confiance en achetant des actions de la société.",
+          "url": "https://fr.investing.com/news/insider-trading-news/la-directrice-comptable-dyork-water-achete-pour-1300-dactions-93CH-3504337",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "title": "York Water: Le directeur financier acquiert 130 $ d'actions",
+          "summary": "Le directeur financier de York Water réalise un petit investissement en actions de la société.",
+          "url": "https://fr.investing.com/news/insider-trading-news/le-directeur-financier-de-york-water-acquiert-des-actions-de-la-societe-pour-130-93CH-3504341",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "☀️",
+      "articles": [
+        {
+          "title": "Bassin d'Arcachon: Bénévoles mobilisés contre incendies",
+          "summary": "Après 2022, des bénévoles du Bassin d'Arcachon se mobilisent activement pour prévenir les feux de forêt.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/bassin-d-arcachon-on-aime-la-foret-et-on-aimerait-qu-elle-reste-marques-par-2022-ces-benevoles-font-tout-pour-prevenir-de-nouveaux-incendies-ravageurs-29928344.php"
+        },
+        {
+          "title": "Université La Rochelle sanctionne un chercheur",
+          "summary": "Un enseignant-chercheur de La Rochelle est sanctionné pour son comportement inapproprié envers des doctorantes.",
+          "url": "https://www.sudouest.fr/charente-maritime/la-rochelle/info-sud-ouest-pour-la-premiere-fois-l-universite-de-la-rochelle-sanctionne-un-enseignant-chercheur-pour-son-comportement-avec-des-doctorantes-29953325.php"
+        },
+        {
+          "title": "Corse: L'État responsable de blessures après Colonna",
+          "summary": "L'État est jugé partiellement responsable de blessures lors de manifestations post-mort d'Yvan Colonna en Corse.",
+          "url": "https://www.sudouest.fr/faits-divers/manifestations-apres-la-mort-d-yvan-colonna-en-corse-l-etat-juge-partiellement-responsable-de-blessures-causees-a-une-femme-29975654.php"
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Ce film Netflix numéro 1 déchaîne les critiques",
+          "summary": "Le film en tête du top Netflix est vivement critiqué par le public, et c'est justifié.",
+          "url": "https://www.journaldugeek.com/critique/ce-film-top-1-netflix-a-ete-defonce-par-le-public-et-cest-merite/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/the-retirement-plan-1-1280x853.jpg"
+        },
+        {
+          "title": "Bouygues: Des forfaits BIG économiques pour l'été",
+          "summary": "Bouygues Telecom propose des offres \"BIG\" avantageuses pour profiter de l'été sans se ruiner.",
+          "url": "https://www.journaldugeek.com/bon-plan/avec-les-forfaits-big-bouygues-vous-fait-faire-des-economies-pour-cet-ete/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/oofre-bouygues-forfaits-big-1280x853.jpg"
+        },
+        {
+          "title": "Jason Bourne: Matt Damon confirme le retour tant attendu",
+          "summary": "Matt Damon révèle des nouvelles excitantes sur l'avenir de Jason Bourne, pour le bonheur des fans.",
+          "url": "https://www.journaldugeek.com/2026/07/17/jason-bourne-matt-damon-confirme-ce-que-tout-le-monde-attendait/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/jason-bourne-6-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Athlétisme: Révolution dans la retransmission anti-sexualisation",
+          "summary": "Nouvelle ère pour l'athlétisme avec des règles de retransmission bannissant la sexualisation des athlètes.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-petite-revolution-dans-la-retransmission-des-competitions-des-plans-proscrits-pour-eviter-la-sexualisation-des-athletes_AV-202607150785.html",
+          "image": "https://images.bfmtv.com/n39FXKFjfFO1dv9XH352NeCKMDI=/0x212:2048x1364/800x0/images/Le-meeting-de-Lievin-le-19-fevrier-2026-image-d-illustration-2320759.jpg"
+        },
+        {
+          "title": "NBA: La grande décision de LeBron James approche",
+          "summary": "Le monde de la NBA retient son souffle en attendant l'annonce imminente de LeBron James sur son avenir.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ou-va-jouer-le-bron-james-dont-la-grande-decision-approche-les-cinq-favoris-pour-accueillir-le-king_AV-202607150665.html",
+          "image": "https://images.bfmtv.com/4nEXsbwV3tLA5Sc0ASdk4VIWnkI=/0x191:2048x1343/800x0/images/LeBron-James-lors-d-un-match-de-pre-saison-entre-les-Lakers-et-les-Suns-le-03-10-2025-2152113.jpg"
+        },
+        {
+          "title": "Rugby: Promotion-relégation dès 2032 pour les Nations",
+          "summary": "Une réforme historique arrive dans le rugby avec l'instauration d'un système de promotion-relégation en 2032.",
+          "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/championnats-des-nations-un-systeme-de-promotion-relegation-va-voir-le-jour-en-2032_AV-202607170453.html",
+          "image": "https://images.bfmtv.com/BCOFQQhu1HoKf8P_Ai4EwkYcgDw=/0x148:2048x1300/800x0/images/Le-XV-de-France-face-a-l-Australie-lors-de-la-deuxieme-journee-du-Championnat-des-nations-le-11-juillet-2026-2318739.jpg"
+        }
+      ]
+    }
+  ]
+}
