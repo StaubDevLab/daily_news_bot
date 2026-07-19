@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Arsène",
+  "global_summary": "L'actualité de ce jour nous plonge dans un mélange d'enjeux mondiaux, d'innovations technologiques et de performances sportives. Les tensions géopolitiques au Moyen-Orient et des mesures de sécurité insolites en Israël côtoient des avancées environnementales en Allemagne. Pendant ce temps, la France est en pleine ébullition avec des réformes sportives majeures et des conseils pratiques pour améliorer notre bien-être quotidien. \nLes frontières de la technologie sont repoussées par Xiaomi et Meta, tandis que le monde du sport vibre au rythme des retours de champions et de profondes réflexions sur l'éthique de la retransmission. Cette diversité nous rappelle l'importance de rester informé et agile, prêt à comprendre un monde en constante mutation tout en cultivant notre performance personnelle.",
+  "running_advice": "Attention les sportifs, la journée s'annonce énergique mais exigeante ! Avec des températures allant de 20.2°C à un pic de 34°C et un ciel peu nuageux, l'effort devra être maîtrisé. Votre fenêtre idéale pour dompter les kilomètres ? Absolument au lever du soleil, dès 06:34, pour profiter de la fraîcheur matinale. Si vous êtes plutôt du soir, visez après 19h, une fois que la chaleur de la journée s'est estompée, avant le coucher du soleil à 21:43. \nL'indice UV est élevé (7.45) : une protection solaire maximale est OBLIGATOIRE ! Crème solaire, casquette et lunettes de soleil ne sont pas une option. Et surtout, hydratez-vous intensément avant, pendant et après votre session. Écoutez votre corps, dépassez-vous, mais toujours avec sagesse !",
+  "weather_string": "🌤️ Peu nuageux (20.2°C / 34°C)",
+  "weather_stats": {
+    "temp": "34°C",
+    "rain": "0%",
+    "uv": "7.45"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Moyen-Orient : Tensions montent, soldats tués",
+          "summary": "Deux soldats américains ont été tués au Moyen-Orient, un autre est disparu, augmentant les inquiétudes régionales.",
+          "url": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/deux-soldats-americains-ont-ete-tues-et-un-autre-est-porte-disparu-alors-que-la-tension-monte-au-moyen-orient_8113325.html",
+          "image": "https://www.franceinfo.fr/pictures/IDQNzAUyx3gXkMA6HKFbN7lTrFU/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/18/6a5bc4c84d0a1805612537.jpg"
+        },
+        {
+          "title": "Israël : Crocodiles pour dissuader les évasions",
+          "summary": "Pour renforcer la sécurité carcérale, Israël autorise l'utilisation de crocodiles comme moyen de dissuasion inattendu.",
+          "url": "https://www.franceinfo.fr/monde/israel/tu-songes-a-t-evader-reflechis-y-a-deux-fois-israel-autorise-l-utilisation-de-crocodiles-pour-dissuader-d-eventuelles-evasions-de-prisons_8113241.html",
+          "image": "https://www.franceinfo.fr/pictures/JRGk5cpgELejQF6fQkzay4aNdp0/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/18/6a5bc46d9a222577468522.jpg"
+        },
+        {
+          "title": "Allemagne : Un lynx relâché en Forêt-Noire",
+          "summary": "Un nouveau lynx a été relâché dans le Bade-Wurtemberg, marquant une étape positive pour la biodiversité locale.",
+          "url": "https://www.lalsace.fr/environnement/2026/07/18/un-nouveau-lynx-relache-dans-le-bade-wurtemberg-en-foret-noire",
+          "image": "https://cdn-s-www.lalsace.fr/images/37BE853E-8A86-4A7B-894A-F66CF95A6B6/NW_listB/un-nouveau-lynx-relache-dans-le-bade-wurtemberg-en-foret-noire-1784399971.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Sport Pro : Réforme adoptée à l'Assemblée",
+          "summary": "L'Assemblée nationale a adopté la réforme du sport professionnel, promettant de grands changements pour le foot français.",
+          "url": "https://rmcsport.bfmtv.com/societe/la-reforme-du-sport-professionnel-adoptee-a-l-assemblee-nationale-de-grands-changements-a-venir-dans-le-foot-francais_AN-202606290870.html",
+          "image": "https://images.bfmtv.com/BqL0z71taWCLHqrPKZrH-PsP5uI=/0x212:2048x1364/800x0/images/L-Assemblee-nationale-en-juin-2026-2312081.jpg"
+        },
+        {
+          "title": "Caféine : Comment elle perturbe vos nuits",
+          "summary": "Un article décrypte les mécanismes par lesquels la caféine peut sérieusement impacter la qualité de votre sommeil.",
+          "url": "https://www.epochtimes.fr/cafeine-et-sommeil-comment-la-cafeine-perturbe-vos-nuits-3309588.html",
+          "image": "https://images-fr.epochtimes.fr/uploads/2026/07/BF941.jpg"
+        },
+        {
+          "title": "Gironde : Malaise cardiaque d'un cycliste",
+          "summary": "Un cycliste a été victime d'un malaise cardiaque sur une piste de Lacanau, rappelant l'importance de la prudence sportive.",
+          "url": "https://www.sudouest.fr/gironde/lacanau/gironde-un-cycliste-victime-d-un-malaise-cardiaque-sur-la-piste-cyclable-de-lacanau-29983714.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovations",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Xiaomi : Robots assemblent voiture en 76s",
+          "summary": "Les robots humanoïdes Xiaomi assemblent une voiture en 76 secondes avec 98% de précision, une prouesse impressionnante.",
+          "url": "https://www.autoplus.fr/actualite/insolite/les-robots-humanoides-de-xiaomi-impressionnent-ils-assemblent-une-voiture-en-76-secondes-et-98-de-precision-1456655.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/captura-de-pantalla-2026-07-18-a-las-18.30.43.png"
+        },
+        {
+          "title": "Meta : Prépare ses propres puces IA",
+          "summary": "Pour réduire sa dépendance à Nvidia, Meta développe activement ses propres puces dédiées à l'intelligence artificielle.",
+          "url": "https://www.journaldugeek.com/2026/07/18/meta-prepare-ses-propres-puces-ia-pour-moins-dependre-de-nvidia/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/meta-mtia-1280x853.jpg"
+        },
+        {
+          "title": "XPeng : Google Maps Auto SDK intégré",
+          "summary": "XPeng, premier constructeur chinois, intègre Google Maps Auto SDK pour une navigation automobile optimisée et précise.",
+          "url": "https://www.mac4ever.com/auto/197183-xpeng-1er-constructeur-chinois-a-integrer-google-maps-auto-sdk-pour-une-raison-bien-precise",
+          "image": "https://img-api.mac4ever.com/1200/0/9dda1b443a_xpeng-1er-constructeur-chinois-a-integrer-google-maps-auto-sdk-pour-une-raison-bien-precise.webp"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Lifestyle",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Arrêts de travail : Contre-visites facilitées",
+          "summary": "En Alsace-Moselle, les employeurs peuvent désormais diligenter des contre-visites pour les arrêts de travail.",
+          "url": "https://www.vosgesmatin.fr/economie/2026/07/18/arrets-de-travail-l-employeur-peut-desormais-diligenter-des-contre-visites",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/A3989BD1-E92E-4269-A770-D5320F2B5DA6/NW_listB/arrets-de-travail-l-employeur-peut-desormais-diligententer-des-contre-visites-1784399532.jpg"
+        },
+        {
+          "title": "Bagage cabine : Règles et coûts 2026",
+          "summary": "Découvrez le guide complet des bagages cabine, avec les autorisations et tarifs de chaque compagnie pour 2026.",
+          "url": "https://www.journaldugeek.com/dossier/bagage-cabine-voici-que-chaque-compagnie-vous-autorise-en-2026-et-combien-ca-coute/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/bagage-cabine-1280x853.jpg"
+        },
+        {
+          "title": "Tirage Loto : Tous les résultats du jour",
+          "summary": "Les résultats du Loto du samedi 18 juillet 2026 sont tombés, la chance a souri aux gagnants.",
+          "url": "https://www.linternaute.com/actualite/societe/10942462-tirage-loto-resultat-du-18-juillet-2026/",
+          "image": "https://img-4.linternaute.com/KqZ1lBkmQz8HMEMw3tnltBFyFjg=/1000x/smart/8f0b885c8caf447f8a80c38817d09156/ccmcms-linternaute/86185481.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performance",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama : Retour en Équipe de France",
+          "summary": "Après deux ans d'absence, Victor Wembanyama fait un retour très attendu en équipe de France de basket.",
+          "url": "https://rmcsport.bfmtv.com/basket/basket-wembanyama-de-retour-en-equipe-de-france-apres-deux-ans-d-absence_AV-202607180304.html",
+          "image": "https://images.bfmtv.com/TZV5oZY06tP5S-sTGxYBdS3aAN4=/0x33:2048x1185/800x0/images/Victor-Wembanyama-avec-l-equipe-de-France-le-19-juillet-2024-1907597.jpg"
+        },
+        {
+          "title": "Athlétisme : Révolution retransmission TV",
+          "summary": "Une nouvelle règle proscrit certains plans TV pour éviter la sexualisation des athlètes, une évolution majeure.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-petite-revolution-dans-la-retransmission-des-competitions-des-plans-proscrits-pour-eviter-la-sexualisation-des-athletes_AV-202607150785.html",
+          "image": "https://images.bfmtv.com/n39FXKFjfFO1dv9XH352NeCKMDI=/0x212:2048x1364/800x0/images/Le-meeting-de-Lievin-le-19-fevrier-2026-image-d-illustration-2320759.jpg"
+        },
+        {
+          "title": "LeBron James : Champion NBA à 41 ans ?",
+          "summary": "À 41 ans, LeBron James se demande s'il peut encore être champion NBA. Le \"King\" face à un défi de taille.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-a-41-ans-le-bron-james-peut-il-encore-etre-champion-nba_VN-202607180179.html",
+          "image": "https://images.bfmtv.com/Hu_JguofmO7rFlUV_cerw4hEckM=/0x0:1280x720/800x0/images/A-41-ans-LeBron-James-peut-il-encore-etre-champion-NBA-2321977.jpg"
+        }
+      ]
+    }
+  ]
+}
