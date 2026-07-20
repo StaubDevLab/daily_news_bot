@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Sainte Marina",
+  "global_summary": "L'actualité mondiale est marquée par des enjeux géopolitiques complexes, avec la riposte américaine au Moyen-Orient et la quête de renouveau politique au Royaume-Uni. Parallèlement, le monde du sport vibre au rythme de la finale d'un Mondial et des transferts NBA, offrant à la fois de l'excitation et des leçons de vie inspirantes. En France, l'on observe des événements dramatiques comme un abandon majeur au Tour de France et un incendie en Haute-Garonne, mais aussi des moments d'évasion culturelle avec le succès des séries fantastiques. \nSur le front de l'innovation, l'IA continue de susciter débats et opportunités, tandis que l'économie s'interroge sur les nouvelles pratiques de pourboires numériques et la souveraineté digitale. Entre défis locaux et avancées technologiques, cette journée révèle un paysage global dynamique, où la résilience et l'adaptation sont essentielles.",
+  "running_advice": "Salut les champions ! Prêts à défier les éléments aujourd'hui ? Avec une température variant de 18.6°C à un maximal de 32.2°C et un ciel peu nuageux, c'est une excellente journée pour chausser vos baskets et aller chercher la performance ! Cependant, l'indice UV est élevé à 7.35, ce qui signifie que le soleil tape fort. Pour une performance optimale et sans risque, je vous conseille vivement une sortie tôt le matin, juste après le lever du soleil vers 06:35, ou en fin de journée, après 19:00, quand la chaleur et les UV sont moins intenses. N'oubliez pas une bonne crème solaire, des lunettes de soleil, une casquette et hydratez-vous abondamment ! Votre corps est votre temple, protégez-le tout en repoussant vos limites !",
+  "weather_string": "🌤️ Peu nuageux (18.6°C / 32.2°C)",
+  "weather_stats": {
+    "temp": "32.2°C",
+    "rain": "0%",
+    "uv": "7.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "US réagit après la mort de soldats",
+          "summary": "Washington riposte au Moyen-Orient suite à la perte de deux de ses militaires.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-replique-des-etats-unis-apres-la-mort-de-deux-soldats-americains-au-moyen-orient_8114372.html",
+          "image": "https://www.franceinfo.fr/pictures/BblIgAFjWnyY8UK85ybjcrQD1fk/0x168:1052x760/432x243/filters:format(jpg):quality(50)/2026/07/19/6a5d195f59e8a706735900.png"
+        },
+        {
+          "title": "Mondial hors normes: Espagne affronte Argentine",
+          "summary": "Vivez le grand frisson de la finale inoubliable de ce Mondial de football exceptionnel.",
+          "url": "https://www.france24.com/fr/sports/20260719-espagne-argentine-direct-live-finale-mondial-2026-show-messi",
+          "image": "https://s.france24.com/media/display/8b0cfd2e-82bc-11f1-bab8-005056a97e36/w:1024/p:16x9/ESP-ARG-H.png"
+        },
+        {
+          "title": "Andy Burnham peut-il réinventer la gauche UK ?",
+          "summary": "Au Royaume-Uni, l'avenir de la gauche se joue-t-il avec l'audace d'Andy Burnham ?",
+          "url": "https://www.lopinion.fr/international/royaume-uni-andy-burnham-peut-il-faire-entrer-la-gauche-dans-le-xxie-siecle",
+          "image": "https://beymedias.brightspotcdn.com/73/e4/eb0aa57d46feacd2177fed85e051/sipa-ap23048661-000003.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Tour de France : Vingegaard contraint d'abandonner",
+          "summary": "Bras en écharpe, le cauchemar de Jonas Vingegaard s'achève sur le Tour de France 2026.",
+          "url": "https://www.lalsace.fr/tour-de-france/2026/07/19/bras-en-echarpe-strategie-envolee-le-cauchemar-jusqu-a-l-abandon-de-jonas-vingegaard",
+          "image": "https://cdn-s-www.lalsace.fr/images/96D4BEC6-7780-4441-AF58-E04A32428B99/MF_contenu/bras-en-echarpe-strategie-envolee-le-cauchemar-jusqu-a-l-abandon-de-jonas-vingegaard-1784487850.jpg"
+        },
+        {
+          "title": "Incendie géant à Toulouse, supermarché touché",
+          "summary": "Un feu de véhicule spectaculaire se propage à un supermarché, mobilisant 30 pompiers.",
+          "url": "https://actu.fr/https:/actu.fr/occitanie/auterive_31033/incendie-en-haute-garonne-un-feu-de-vehicule-se-propage-a-un-supermarche-et-mobilise-30-pompiers-au-sud-de-toulouse_64558984.html",
+          "image": "https://static.actu.fr/uploads/2026/07/auterive-incendie-1024x557.jpg"
+        },
+        {
+          "title": "House of the Dragon 3 : retour en force",
+          "summary": "Westeros rétrécit et Game of Thrones retrouve sa puissance avec cette troisième saison captivante.",
+          "url": "https://www.begeek.fr/avec-house-of-the-dragon-saison-3-game-of-thrones-retrouve-sa-force-quand-westeros-retrecit-437351",
+          "image": "https://www.begeek.fr/wp-content/uploads/2026/06/house-of-the-dragon-1.webp"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "IA : l'humain qui l'utilise fait la différence",
+          "summary": "Ce n'est pas l'IA, mais votre capacité à l'exploiter qui façonnera votre avenir professionnel.",
+          "url": "https://www.i24news.tv/fr/actu/vu-sur-i24news/artc-ia-ce-n-est-pas-l-intelligence-artificielle-qui-vous-remplacera-mais-quelqu-un-qui-sait-l-utiliser",
+          "image": "https://cdn.i24news.tv/uploads/f2/fe/a0/9a/83/db/4a/00/6a/6b/a7/fc/55/13/f8/b8/f2fea09a83db4a006a6ba7fc5513f8b8.png"
+        },
+        {
+          "title": "Véhicules électriques : l'entretien se spécialise",
+          "summary": "Au Truel, des experts prennent le plus grand soin de vos véhicules électriques, un marché en pleine croissance.",
+          "url": "https://www.centrepresseaveyron.fr/2026/07/19/aux-petits-soins-des-vehicules-electriques-13475328.php",
+          "image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6a5cf4ec057ec058460a0f5e/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Affaire Apple : Jony Ive manque à l'appel",
+          "summary": "Pourquoi l'absence de Jony Ive dans la plainte d'Apple suscite-t-elle tant de questions ?",
+          "url": "https://www.macg.co/aapl/2026/07/la-semaine-apple-pourquoi-jony-ive-manque-lappel-dans-la-plainte-dapple-309845",
+          "image": "https://cdn.mgig.fr/2026/07/mga-92b6c813-w375-w1500-w750_accroche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Société",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Pourboires numériques : le malaise persiste",
+          "summary": "Les pourboires dématérialisés créent des tensions et de l'embarras dans le monde du travail.",
+          "url": "https://www.franceinfo.fr/economie/emploi/metiers/restauration-hotellerie-sports-loisirs/pourboires-numeriques-pourquoi-ca-embarrasse_8112344.html",
+          "image": "https://www.franceinfo.fr/pictures/NVMb1gjtIEsEx3xH-PzWDBt5N5E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/07/17/6a5a96176cd93555575437.jpg"
+        },
+        {
+          "title": "L'Italie vise un groupe numérique souverain",
+          "summary": "Rome avance pour bâtir son propre acteur numérique national, un enjeu stratégique majeur.",
+          "url": "https://www.agefi.fr/news/entreprises/litalie-progresse-vers-la-creation-dun-groupe-numerique-souvereign",
+          "image": "https://beymedias.brightspotcdn.com/dd/9b/b10d45b92ba8cbafd8043b858e38/telecom-italia-2-bloomberg.jpg"
+        },
+        {
+          "title": "Gens du voyage : la justice saisie aux Vosges",
+          "summary": "130 caravanes s'installent illégalement sur un terrain agricole, la commune réagit.",
+          "url": "https://www.vosgesmatin.fr/faits-divers-justice/2026/07/19/130-caravanes-de-gens-du-voyage-s-installent-sur-un-terrain-agricole-a-granges-autmonzey-la-commune-saisit-la-justice",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/6AD610F5-4C51-4BA6-9102-788C9FFFE15A/NW_listB/130-caravanes-de-gens-du-voyage-s-installent-sur-un-terrain-agricole-a-granges-autmonzey-la-commune-saisit-la-justice-1784487606.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde & Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Tragédie en Espagne : décès après victoire",
+          "summary": "Un adolescent trouve la mort lors des célébrations post-victoire de la Coupe du monde.",
+          "url": "https://www.sudouest.fr/faits-divers/espagne-un-adolescent-meurt-lors-des-celebrations-de-la-victoire-en-coupe-du-monde-30000735.php",
+          "image": ""
+        },
+        {
+          "title": "Chute de parapente en Dordogne : un blessé",
+          "summary": "Un parapentiste gravement blessé après une chute en forêt, les secours mobilisés.",
+          "url": "https://www.sudouest.fr/dordogne/dordogne-un-parapentiste-grievement-blesse-apres-une-chute-dans-les-bois-a-terrasson-30000710.php",
+          "image": ""
+        },
+        {
+          "title": "Landes : base aérienne contre les incendies",
+          "summary": "Le Département réitère sa demande pour une base de Sécurité civile face aux feux de forêt.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-dans-les-landes-le-departement-reitere-sa-demande-d-implantation-d-une-base-aerienne-de-securite-civile-a-mont-de-marsan-pour-la-lutte-contre-les-feux-de-foret-29957980.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "High-Tech & Loisirs",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Japon : 10 millions de robots d'ici 2040",
+          "summary": "Le Japon ambitionne de déployer massivement des robots pour transformer son marché du travail.",
+          "url": "https://www.journaldugeek.com/2026/07/20/le-japon-veut-mettre-10-millions-de-robots-au-travail-dici-2040/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/robot-1280x853.jpg"
+        },
+        {
+          "title": "Halo vert mystérieux en Nouvelle-Zélande",
+          "summary": "Un phénomène lumineux inattendu, un immense halo vert, a été observé autour d'îles néo-zélandaises.",
+          "url": "https://www.journaldugeek.com/2026/07/20/un-immense-halo-vert-repere-autour-diles-neo-zelandaises/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/nasa-1280x853.jpg"
+        },
+        {
+          "title": "Marvel's Wolverine : infos et rumeurs",
+          "summary": "Tout ce qu'il faut savoir sur le très attendu jeu vidéo Marvel's Wolverine est enfin révélé.",
+          "url": "https://www.journaldugeek.com/2026/07/19/marvels-wolverine-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-lieux-personnages/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/dossier-wolverine-v2-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : Risacher débarque à Dallas",
+          "summary": "Après deux saisons à Atlanta, Zaccharie Risacher est envoyé aux Mavericks de Dallas.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-zaccharie-risacher-envoye-a-dallas-apres-deux-saisons-a-atlanta_AV-202607190367.html",
+          "image": "https://images.bfmtv.com/Qn_7IH1Ck2ZYjL2wSGsXawyBmyY=/0x0:2048x1152/800x0/images/Zaccharie-Risacher-avec-Atlanta-en-decembre-2025-2322363.jpg"
+        },
+        {
+          "title": "Athlétisme : plans proscrits pour athlètes",
+          "summary": "Une révolution dans la retransmission : fini les plans sexualisant les athlètes, place au respect.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-petite-revolution-dans-la-retransmission-des-competitions-des-plans-proscrits-pour-eviter-la-sexualisation-des-athletes_AV-202607150785.html",
+          "image": "https://images.bfmtv.com/n39FXKFjfFO1dv9XH352NeCKMDI=/0x212:2048x1364/800x0/images/Le-meeting-de-Lievin-le-19-fevrier-2026-image-d-illustration-2320759.jpg"
+        },
+        {
+          "title": "Gymnaste ukrainienne, leçon de résilience",
+          "summary": "Oleksandra Paskal, 10 ans, partage son histoire émouvante, inspirant le monde entier par sa force.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
+          "image": "https://images.bfmtv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
+        }
+      ]
+    }
+  ]
+}
