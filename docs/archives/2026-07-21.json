@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Victor",
+  "global_summary": "L'actualité de ce jour est riche et variée, naviguant entre enjeux de santé publique et dynamiques géopolitiques complexes. Sur le front national, l'économie locale fait preuve d'innovation tandis que la France fait face à des défis climatiques. Côté technologies, des révélations sur les pratiques logicielles d'écrans marquent les esprits. \nLe monde du sport vibre avec le retour très attendu de Wembanyama en Équipe de France et des transferts majeurs en NBA. Cependant, des réorganisations sportives pour les JO 2030 et des évolutions des standards de diffusion en athlétisme soulignent une période de profondes mutations.",
+  "running_advice": "Avis aux runners ! Aujourd'hui, la journée s'annonce globalement ensoleillée et chaude, avec des températures atteignant 31.4°C. C'est une excellente nouvelle pour éviter la pluie, mais l'indice UV très élevé à 7.35 exige une prudence maximale. Le créneau idéal pour chausser vos baskets sera sans aucun doute tôt le matin, juste après le lever du soleil vers 6h36, ou en fin de journée, après 20h, pour profiter de la fraîcheur relative et d'un soleil moins intense. N'oubliez surtout pas une protection solaire forte (crème, casquette, lunettes), hydratez-vous abondamment et écoutez votre corps. Chaque foulée compte, faites-le intelligemment !",
+  "weather_string": "🌤️ Peu nuageux (18.3°C / 31.4°C)",
+  "weather_stats": {
+    "temp": "31.4°C",
+    "rain": "0%",
+    "uv": "7.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Vaccin grippe: vers l'obligation soignante",
+          "summary": "Le gouvernement français envisage de rendre la vaccination antigrippale obligatoire pour les professionnels de santé.",
+          "url": "https://www.leprogres.fr/sante/2026/07/20/vaccin-contre-la-grippe-le-gouvernement-ouvre-la-voie-a-une-obligation-pour-les-soignants",
+          "image": "https://cdn-s-www.leprogres.fr/images/31F360A9-D5FE-410E-B12F-095A5975248B/MF_contenu/vaccin-contre-la-grippe-le-gouvernement-ouvre-la-voie-a-une-obligation-pour-les-soignants-1784571446.jpg"
+        },
+        {
+          "title": "Ukraine: remaniement ministériel à haut risque",
+          "summary": "L'Ukraine est au cœur d'un remaniement politique délicat, soulevant des questions sur la stabilité future du pays.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/on-va-plus-loin/20260720-ukraine-remaniement-%C3%A0-haut-risque",
+          "image": "https://s.france24.com/media/display/2a7fd9ea-8465-11f1-9382-005056bfb2b6/w:1024/p:16x9/FR-20260716-203001-205751-CS.jpg"
+        },
+        {
+          "title": "“El Mayo”: prison à vie pour le baron",
+          "summary": "Le célèbre baron de la drogue mexicain “El Mayo” écope d'une peine de prison à perpétuité à New York.",
+          "url": "https://www.franceinfo.fr/societe/drogue/le-baron-de-la-drogue-el-mayo-condamne-a-la-prison-a-vie-a-new-york_8115467.html",
+          "image": "https://www.franceinfo.fr/pictures/onJWwd0SEm2t1X8Mzvv0kQftsow/0x28:1024x604/432x243/filters:format(jpg):quality(50)/2026/07/20/6a5e5bb862564178472434.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Vieilles Charrues: le récap vidéo 2026",
+          "summary": "Revivez les meilleurs moments du festival des Vieilles Charrues 2026 à travers un résumé vidéo captivant.",
+          "url": "https://www.letelegramme.fr/culture-loisirs/festivals/vieilles-charrues/notre-resume-video-des-vieilles-charrues-2026-7087229.php",
+          "image": "https://medialb.ultimedia.com/multi/sxm5u/3vp0zlk-O.jpg"
+        },
+        {
+          "title": "Sonaca fournit des ailes révolutionnaires",
+          "summary": "L'entreprise Sonaca va équiper un nouveau jet d'affaires américain avec ses ailes innovantes, un succès industriel.",
+          "url": "https://www.lecho.be/entreprises/defense-aeronautique/sonaca-va-fournir-les-ailes-d-un-jet-d-affaires-americain-revolutionnaire/10679560.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:15YB-0riK8MBD4cUSAtQWO&context=ONLINE&ratio=16/9&width=640&u=1784572259000"
+        },
+        {
+          "title": "Feu de forêt: 110 pompiers mobilisés",
+          "summary": "Un important feu de forêt en Charente-Maritime mobilise 110 pompiers, situation critique dans la région.",
+          "url": "https://www.sudouest.fr/charente-maritime/saint-palais-de-negrignac/saint-palais-de-negrignac-110-pompiers-mobilises-pour-eteindre-un-important-feu-de-foret-30011130.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "LG installe des logiciels publicitaires",
+          "summary": "Des écrans LG sont accusés d'installer discrètement leur propre logiciel publicitaire sur les systèmes Windows.",
+          "url": "https://www.journaldugeek.com/2026/07/21/oklm-des-ecrans-lg-installent-leur-propre-logiciel-publicitaire-sur-windows/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/LG-UlraGear-1280x853.jpg"
+        },
+        {
+          "title": "Test: l'écran 49 pouces Titan Army",
+          "summary": "Un test révèle les performances impressionnantes du moniteur Titan Army C49C1S, un véritable remplaçant pour deux écrans.",
+          "url": "https://www.journaldugeek.com/test/test-titan-army-c49c1s-lecran-49-pouces-qui-remplace-deux-moniteurs-sans-complexe/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/moniteur-large-21-9-10-1280x964.jpg"
+        },
+        {
+          "title": "Avengers Doomsday: les absents remarqués",
+          "summary": "Analyse des personnages majeurs étonnamment absents à l'appel du blockbuster Marvel tant attendu, \"Avengers Doomsday\".",
+          "url": "https://www.journaldugeek.com/2026/07/20/avengers-doomsday-quels-personnages-manquent-a-lappel-du-blockbuster-marvel/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/Spider-man-brand-new-day-tout-savoir-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Tourisme en Pays Royannais se diversifie",
+          "summary": "Le Pays Royannais innove en proposant des hébergements à l'écart du littoral, diversifiant son offre touristique.",
+          "url": "https://www.sudouest.fr/charente-maritime/royan/on-pensait-que-les-touristes-ne-s-interessaient-qu-au-littoral-en-pays-royannais-les-hebergements-a-l-ecart-de-la-cote-et-des-plages-diversifient-l-offre-touristique-29957190.php",
+          "image": "https://media.sudouest.fr/29957190/1200x600/le-domaine-des-alpaguettes-a-saint-romain-de-benet.jpg"
+        },
+        {
+          "title": "Romans: L'Alhambra tourne une page",
+          "summary": "Le cinéma l'Alhambra de Romans-sur-Isère s'apprête à changer de direction, marquant la fin d'une ère.",
+          "url": "https://www.ledauphine.com/economie/2026/07/20/a-l-alhambra-la-page-des-richard-se-tourne-bientot",
+          "image": "https://cdn-s-www.ledauphine.com/images/2A577E0C-5EC2-4733-9DCF-3CF87F80A898/NW_listB/a-l-alhambra-la-page-des-richard-se-tourne-bientot-1784572959.jpg"
+        },
+        {
+          "title": "Mauves: Réhabilitation de la Salle des Pénitents",
+          "summary": "La salle historique des Pénitents de Mauves est en réhabilitation, un projet communal d'envergure.",
+          "url": "https://www.ledauphine.com/economie/2026/07/20/la-salle-des-penitents-un-pan-de-l-histoire-communale-en-rehabilitation",
+          "image": "https://cdn-s-www.ledauphine.com/images/559F89CF-92B9-4264-B750-6B9B7622D872/NW_listB/la-salle-des-penitents-un-pan-de-l-histoire-communale-en-rehabilitation-1784572716.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performances",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wemby de retour en Bleu après 2 ans",
+          "summary": "Victor Wembanyama fait son grand retour en équipe de France de basket après deux ans d'absence.",
+          "url": "https://rmcsport.bfmtv.com/basket/basket-wembanyama-de-retour-en-equipe-de-france-apres-deux-ans-d-absence_AV-202607180304.html",
+          "image": "https://images.bfmtv.com/TZV5oZY06tP5S-sTGxYBdS3aAN4=/0x33:2048x1185/800x0/images/Victor-Wembanyama-avec-l-equipe-de-France-le-19-juillet-2024-1907597.jpg"
+        },
+        {
+          "title": "JO 2030: le combiné nordique disparaît",
+          "summary": "Le ski français exprime son immense tristesse après la disparition du combiné nordique aux JO d'hiver 2030.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/un-immense-creve-c-ur-comment-le-ski-francais-reagit-a-la-disparition-du-combine-nordique-aux-jo-2030_AV-202607080539.html",
+          "image": "https://images.bfmtv.com/YSIzuo0v0r0nDctbahmx_QfiuAg=/0x140:2048x1292/800x0/images/Le-saut-a-skis-de-Jonas-Schuster-lors-de-l-etape-de-combine-nordique-de-Zakopane-Coupe-du-monde-le-10-janvier-2026-2216473.jpg"
+        },
+        {
+          "title": "Athlétisme: retransmission sans sexualisation",
+          "summary": "Une révolution s'opère dans la retransmission des compétitions d'athlétisme pour éviter la sexualisation des athlètes.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-petite-revolution-dans-la-retransmission-des-competitions-des-plans-proscrits-pour-eviter-la-sexualisation-des-athletes_AV-202607150785.html",
+          "image": "https://images.bfmtv.com/n39FXKFjfFO1dv9XH352NeCKMDI=/0x212:2048x1364/800x0/images/Le-meeting-de-Lievin-le-19-fevrier-2026-image-d-illustration-2320759.jpg"
+        }
+      ]
+    }
+  ]
+}
