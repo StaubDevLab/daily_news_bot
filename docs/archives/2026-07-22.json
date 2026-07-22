@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Marie-Madeleine",
-  "global_summary": "L'actualité de ce jour est marquée par une tension politique internationale, des soupçons de corruption en Hongrie et des débats autour des enregistrements présidentiels aux États-Unis. Sur le plan sanitaire, des inquiétudes persistent avec l'hantavirus au Venezuela, tandis que la France fait face à de tragiques incendies en Gironde, endeuillée par la perte de deux pompiers et la forte implication humaine dans ces désastres. \nEn parallèle, le monde de la technologie s'interroge sur la régulation des géants du web et la vérification de l'âge en ligne, avec un nouveau bras de fer entre Google et la presse française. Côté sport, l'enthousiasme est palpable avec le retour de Victor Wembanyama en équipe de France, la résilience inspirante d'une jeune gymnaste ukrainienne et des discussions autour des transferts de grandes stars de la NBA, prouvant que même dans l'adversité, l'esprit sportif continue de briller.",
-  "running_advice": "Alors, prêt(e) à chausser vos baskets ? Absolument ! Aujourd'hui, avec un ciel peu nuageux et aucune pluie à l'horizon, les conditions sont globalement favorables pour une bonne session de course. Cependant, attention à la chaleur et au soleil ! Avec des températures atteignant 33.9°C en journée et un indice UV élevé de 7.4, courir aux heures les plus chaudes est à proscrire. L'heure idéale pour votre run sera tôt le matin, juste après le lever du soleil vers 6h37, ou en fin de journée, après 19h et jusqu'au coucher du soleil à 21h41, lorsque la chaleur sera plus supportable. N'oubliez pas une protection solaire (crème, casquette) et hydratez-vous abondamment. Allez, on lâche rien, chaque foulée compte pour votre bien-être !",
-  "weather_string": "🌤️ Peu nuageux (18.5°C / 33.9°C)",
+  "global_summary": "L'actualité mondiale est marquée par des tensions politiques, avec des affaires de corruption en Hongrie et des batailles juridiques aux États-Unis impliquant l'administration Biden. Parallèlement, la France fait face à des défis internes majeurs, notamment la gestion des incendies dévastateurs en Gironde qui ont tristement coûté la vie à des pompiers, tout en s'efforçant d'innover dans la technologie et d'adapter ses infrastructures.\n\nSur le plan économique, certaines entreprises comme Hasbro affichent des résultats solides, tandis que le monde du sport vibre au rythme des retours très attendus de stars comme Wembanyama et des décisions cruciales de légendes comme LeBron James. Au-delà des gros titres, des histoires inspirantes de résilience et de solidarité, telles que celle de la jeune gymnaste ukrainienne ou de Léa en Touraine, nous rappellent l'importance de l'humanité et de l'espoir.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour bouger et profiter de l'extérieur, mais avec stratégie ! Avec un ciel peu nuageux et aucune pluie en vue, les conditions sont globalement favorables. Cependant, attention à la chaleur et à un indice UV élevé (7.4) ! Pour un run optimal, je te recommande vivement de sortir tôt le matin, juste après le lever du soleil vers **06h37**, pour profiter de la fraîcheur maximale, ou alors en fin de journée, après **19h00**, quand le soleil commence à descendre et que la température est plus clémente. Quelle que soit l'heure, n'oublie absolument pas ta protection solaire : crème, casquette et lunettes de soleil sont tes meilleurs alliés pour te protéger des UV. Hydrate-toi abondamment avant, pendant et après l'effort. Fais de cette journée une victoire pour ton corps et ton esprit ! Prêt à relever le défi ?",
+  "weather_string": "🌤️ Peu nuageux (18.5°C / 33.8°C)",
   "weather_stats": {
-    "temp": "33.9°C",
+    "temp": "33.8°C",
     "rain": "0%",
     "uv": "7.4"
   },
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Biden et les enregistrements de son nègre littéraire",
-          "summary": "La cour d'appel US rejette la tentative de Biden de bloquer des enregistrements délicats.",
+          "title": "Biden et les mémoires de son \"nègre littéraire\"",
+          "summary": "La Cour d'appel américaine refuse de bloquer les enregistrements du ghostwriter de Biden, promettant des révélations.",
           "url": "http://fr.euronews.com/my-europe/2026/07/21/cour-dappel-us-rejette-la-tentative-de-biden-de-bloquer-les-enregistrements-de-son-negre-l",
           "image": "https://images.euronews.com/articles/stories/09/84/59/70/1440x810_cmsv2_2c5dafe2-6fbd-5e71-80b7-248d48c72fab-9845970.jpg"
         },
         {
-          "title": "Soupçons de corruption chez l'ex-PM Orban",
-          "summary": "Des locaux du parti de Viktor Orban en Hongrie perquisitionnés pour des allégations de corruption.",
+          "title": "Corruption : locaux d'Orban perquisitionnés",
+          "summary": "Le parti de l'ex-Premier ministre Viktor Orban fait l'objet de perquisitions pour des soupçons de corruption.",
           "url": "https://www.franceinfo.fr/monde/europe/des-locaux-du-parti-de-l-ex-premier-ministre-hongrois-viktor-orban-perquisitionnes-pour-des-soupcons-de-corruption_8116880.html",
           "image": "https://www.franceinfo.fr/pictures/pV1Xno2Iaw_EA0ty4oWI13EQUaA/0x53:1024x629/432x243/filters:format(jpg):quality(50)/2026/07/21/6a5fb1b6540a5167264686.jpg"
         },
         {
-          "title": "Hantavirus au Venezuela: trois morts",
-          "summary": "Trois décès ont été rapportés au Venezuela suite à des infections par l'hantavirus.",
-          "url": "https://www.europe1.fr/international/venezuela-trois-deces-de-personnes-infectees-par-lhantavirus-982245",
-          "image": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Drapeaux/venezuela_eliano_imperato_anadolu_anadolu_via_afp_69d67a5e7885d.jpg"
+          "title": "Un raton laveur star des réseaux !",
+          "summary": "La particularité physique d'un raton laveur le propulse au rang de phénomène sur les réseaux sociaux.",
+          "url": "https://www.huffingtonpost.fr/international/video/la-particularite-physique-de-ce-raton-laveur-a-fait-de-lui-une-star-des-reseaux-sociaux_292415.html",
+          "image": "https://focus.huffingtonpost.fr/2026/07/21/0/0/1920/1080/0/0/60/0/b48465f_upload-1-sug4yaesqri5-cap-ecran.jpg"
         }
       ]
     },
@@ -38,68 +38,92 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Élan de solidarité pour Léa en Touraine",
-          "summary": "Léa, 11 ans, retrouve son poème dédicacé grâce à un formidable élan de solidarité locale.",
+          "title": "La belle histoire de Léa et son poème",
+          "summary": "Grâce à un élan de solidarité en Touraine, Léa, 11 ans, retrouve son précieux poème dédicacé.",
           "url": "https://www.lanouvellerepublique.fr/chinon/la-belle-histoire-de-lea-11-ans-qui-a-retrouve-son-poeme-dedicace-par-marine-grace-a-un-elan-de-solidarite-en-touraine-1784659647",
           "image": "https://images.lanouvellerepublique.fr/image/upload/6a5fbebd0ed583707b8b458f"
         },
         {
-          "title": "Gironde: deux pompiers meurent dans un incendie",
-          "summary": "Un drame absolu frappe Mérignac avec la mort de deux pompiers en luttant contre les flammes.",
-          "url": "https://www.sudouest.fr/gironde/merignac/un-drame-absolu-apres-la-mort-de-deux-pompiers-dans-l-incendie-de-merignac-une-enquete-ouverte-pour-determiner-l-origine-des-flammes-30018152.php",
-          "image": null
+          "title": "Fibre optique : moins de pannes, plus de défis",
+          "summary": "La fibre optique progresse en France avec moins de pannes mais de nouveaux défis de raccordement.",
+          "url": "https://www.clubic.com/actualite-622240-la-fibre-optique-ca-marche-en-france-avec-moins-de-pannes-mais-plus-de-soucis-de-raccordement.html",
+          "image": "https://pic.clubic.com/v1/images/2430241/raw"
         },
         {
-          "title": "Incendies en Gironde: 95% d'origine humaine",
-          "summary": "Les feux en Gironde sont majoritairement d'origine humaine, vigilance rouge décrétée face au risque extrême.",
-          "url": "https://www.sudouest.fr/gironde/incendies-en-gironde-95-des-departs-de-feu-sont-d-origine-humaine-le-passage-en-vigilance-rouge-feu-de-foret-tente-de-contenir-un-risque-extreme-30013415.php",
-          "image": null
+          "title": "Google AI Overviews : nouveau front pour la presse",
+          "summary": "Les éditeurs de presse français engagent un nouveau bras de fer avec Google sur son outil AI Overviews.",
+          "url": "https://www.lefigaro.fr/medias/ai-overviews-les-editeurs-de-presse-francais-entament-un-nouveau-bras-de-fer-avec-google-20260721",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/07/21/92def26cdbc614930fcda3336855fb13a71ca508044da72057a6bbd204db39b3.jpg"
         }
       ]
     },
     {
-      "label": "Technologie",
-      "emoji": "💻",
+      "label": "Gironde",
+      "emoji": "🔥",
       "articles": [
         {
-          "title": "Google face aux éditeurs français",
-          "summary": "Les éditeurs de presse français engagent un nouveau bras de fer avec Google concernant \"AI Overviews\".",
-          "url": "https://www.lefigaro.fr/medias/ai-overviews-les-editeurs-de-presse-francais-entament-un-nouveau-bras-de-fer-avec-google-20260721",
-          "image": "https://i.f1g.fr/media/cms/orig/2026/07/21/92def26cdbc614930fcda3336855fb13a71ca508044da72057a6bbd204db39b3.jpg"
+          "title": "Drame en Gironde : deux pompiers décédés",
+          "summary": "Après la mort tragique de deux pompiers dans l'incendie de Mérignac, une enquête est ouverte.",
+          "url": "https://www.sudouest.fr/gironde/merignac/un-drame-absolu-apres-la-mort-de-deux-pompiers-dans-l-incendie-de-merignac-une-enquete-ouverte-pour-determiner-l-origine-des-flammes-30018152.php",
+          "image": "https://www.sudouest.fr/gironde/merignac/un-drame-absolu-apres-la-mort-de-deux-pompiers-dans-l-incendie-de-merignac-une-enquete-ouverte-pour-determiner-l-origine-des-flammes-30018152.php"
         },
         {
-          "title": "Majorité numérique: fiasco TikTok/Instagram",
-          "summary": "La vérification de l'âge sur TikTok et Instagram se révèle déjà être un fiasco annoncé.",
-          "url": "https://www.journaldugeek.com/2026/07/22/majorite-numerique-voila-comment-tiktok-et-instagram-vo nt-verifier-votre-age-et-pourquoi-cest-deja-un-fiasco/",
+          "title": "Incendies en Gironde : 95% d'origine humaine",
+          "summary": "Face au risque extrême, la Gironde rappelle que 95% des feux sont d'origine humaine, en vigilance rouge.",
+          "url": "https://www.sudouest.fr/gironde/incendies-en-gironde-95-des-departs-de-feu-sont-d-origine-humaine-le-passage-en-vigilance-rouge-feu-de-foret-tente-de-contenir-un-risque-extreme-30013415.php",
+          "image": "https://www.sudouest.fr/gironde/incendies-en-gironde-95-des-departs-de-feu-sont-d-origine-humaine-le-passage-en-vigilance-rouge-feu-de-foret-tente-de-contenir-un-risque-extreme-30013415.php"
+        },
+        {
+          "title": "Feu criminel maîtrisé en Gironde",
+          "summary": "Un incendie d'origine potentiellement criminelle, ayant brûlé 1,5 hectare en Gironde, a été maîtrisé.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/gironde-apres-avoir-brule-1-5-hectare-un-incendie-potentiellement-criminel-maitrise-30018604.php",
+          "image": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/gironde-apres-avoir-brule-1-5-hectare-un-incendie-potentiellement-criminel-maitrise-30018604.php"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Majorité numérique : fiasco en vue ?",
+          "summary": "La vérification d'âge sur TikTok et Instagram s'annonce déjà comme un fiasco, soulevant des questions.",
+          "url": "https://www.journaldugeek.com/2026/07/22/majorite-numerique-voila-comment-tiktok-et-instagram- vont-verifier-votre-age-et-pourquoi-cest-deja-un-fiasco/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/06/vpn-securite-1280x816.jpg"
         },
         {
-          "title": "La fibre optique progresse en France",
-          "summary": "La fibre optique en France offre moins de pannes mais rencontre toujours des soucis de raccordement.",
-          "url": "https://www.clubic.com/actualite-622240-la-fibre-optique-ca-marche-en-france-avec-moins-de-pannes-mais-plus-de-soucis-de-raccordement.html",
-          "image": "https://pic.clubic.com/v1/images/2430241/raw"
+          "title": "Claude IA : maîtrisez la règle des 5 heures",
+          "summary": "Découvrez la \"règle des 5 heures\" avec Claude IA pour optimiser votre utilisation et éviter les pièges.",
+          "url": "https://www.journaldugeek.com/2026/07/22/claude-ia-cest-quoi-la-regle-des-5-heures-et-comment-ne-plus-se-faire-avoir/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/claude-token-optimiser-1280x853.jpg"
+        },
+        {
+          "title": "Matériau de surf français révolutionnaire",
+          "summary": "Un matériau innovant, conçu pour le surf, pourrait bien bouleverser le secteur de l'aéronautique français.",
+          "url": "https://www.journaldugeek.com/2026/07/22/ce-materiau-destine-au-surf-fait-trembler-le-secteur-de-laeronautique-et-il-est-francais/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Photo_Trashboard_c_GCoudert_copie_copie.jpg"
         }
       ]
     },
     {
-      "label": "Économie & Business",
-      "emoji": "📈",
+      "label": "Économie",
+      "emoji": "💰",
       "articles": [
         {
-          "title": "Hasbro dépasse les attentes pour 2026",
-          "summary": "Les résultats du deuxième trimestre de Hasbro sont supérieurs aux prévisions, boostant les perspectives.",
+          "title": "Hasbro : résultats dépassent les attentes",
+          "summary": "Les résultats du deuxième trimestre de Hasbro surpassent les attentes, rehaussant les prévisions pour 2026.",
           "url": "https://www.lefigaro.fr/flash-eco/hasbro-les-resultats-du-deuxieme-trimestre-superieurs-aux-attentes-les-previsions-rehaussees-pour-2026-20260721",
           "image": "https://i.f1g.fr/media/cms/orig/2026/07/21/bc2063407758d8290fcd63ce1a249dc4a1fdf6eb9692ae9ea0e0b3c9e5805e43.jpg"
         },
         {
-          "title": "Isola 2000: réouverture rapide annoncée",
+          "title": "Isola 2000 : réouverture rapide annoncée",
           "summary": "Éric Ciotti annonce une réouverture rapide de la galerie commerciale d'Isola 2000, un soulagement local.",
           "url": "https://www.nicematin.com/societe/vie-locale/galerie-commerciale-d-isola-2000-une-reouverture-rapide-annoncee-par-eric-ciotti-10693074",
           "image": "https://assets.nicematin.com/articles/10/69/30/74/OG-10693074-1200-800-ccc347a_upload-from-url-1-xiuf2i0zhhy1-data-art-17852237.jpg"
         },
         {
-          "title": "Les Jasmins à Aytré : délai apprécié",
-          "summary": "À Aytré, le délai de deux semaines est apprécié par les familles des résidents des Jasmins.",
+          "title": "Aytré : délai apprécié aux Jasmins",
+          "summary": "Le délai de deux semaines est bien accueilli par les familles des résidents aux Jasmins d'Aytré.",
           "url": "https://www.sudouest.fr/charente-maritime/aytre/aytre-aux-jasmins-le-delai-de-deux-semaines-est-apprecie-par-les-familles-des-residents-30011217.php",
           "image": "https://media.sudouest.fr/30011217/1200x600/larochelleaunisre-46bfd4c4c3254f74b459d911922184f5-084910-ph0.jpg"
         }
@@ -107,25 +131,25 @@
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "Wembanyama de retour en équipe de France",
-          "summary": "Le sélectionneur Freddy Fauthoux savoure le retour d'un Victor Wembanyama ambitieux et motivé.",
+          "title": "Wembanyama de retour en Équipe de France !",
+          "summary": "Freddy Fauthoux savoure le retour de Victor Wembanyama en Équipe de France, saluant son ambition.",
           "url": "https://rmcsport.bfmtv.com/basket/il-est-ambitieux-comme-nous-le-selectionneur-freddy-fauthoux-savoure-le-retour-de-victor-wembanyama-en-equipe-de-france_AV-202607210597.html",
           "image": "https://images.bfmtv.com/JoYGr2YGy3xokMpIdOrVud6bXr4=/336x76:2000x1012/800x0/images/Victor-Wembanyama-lors-de-son-dernier-match-avec-la-France-aux-JO-2024-a-Paris-2323413.jpg"
         },
         {
-          "title": "Oleksandra Paskal, leçon de résilience",
-          "summary": "La jeune gymnaste ukrainienne Oleksandra Paskal inspire le monde avec son histoire poignante.",
-          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
-          "image": "https://images.bfmtv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
+          "title": "LeBron James : où ira le \"King\" ?",
+          "summary": "La grande décision de LeBron James approche, avec cinq favoris en lice pour accueillir le \"King\".",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ou-va-jouer-le-bron-james-dont-la-grande-decision-approche-les-cinq-favoris-pour-accueillir-le-king_AV-202607150665.html",
+          "image": "https://images.bfmtv.com/4nEXsbwV3tLA5Sc0ASdk4VIWnkI=/0x191:2048x1343/800x0/images/LeBron-James-lors-d-un-match-de-pre-saison-entre-les-Lakers-et-les-Suns-le-03-10-2025-2152113.jpg"
         },
         {
-          "title": "Athlétisme: révolution retransmission TV",
-          "summary": "Des plans proscrits pour éviter la sexualisation des athlètes dans la retransmission des compétitions.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-petite-revolution-dans-la-retransmission-des-competitions-des-plans-proscrits-pour-eviter-la-sexualisation-des-athletes_AV-202607150785.html",
-          "image": "https://images.bfmtv.com/n39FXKFjfFO1dv9XH352NeCKMDI=/0x212:2048x1364/800x0/images/Le-meeting-de-Lievin-le-19-fevrier-2026-image-d-illustration-2320759.jpg"
+          "title": "Oleksandra Paskal : leçon de résilience",
+          "summary": "La gymnaste ukrainienne de 10 ans, Oleksandra Paskal, offre une émouvante leçon de résilience.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
+          "image": "https://images.bfmtv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
         }
       ]
     }
