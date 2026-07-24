@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Sainte Christine",
+  "global_summary": "L'actualité de ce jour est un mélange captivant de dynamiques mondiales et d'innovations nationales. Les enjeux géopolitiques sont palpables, avec des décisions stratégiques sur le nucléaire civil saoudien et des menaces d'interventions militaires, tandis que le monde académique récompense les cerveaux de l'IA, soulignant son impact croissant. Les mouvements de pouvoir entre géants technologiques illustrent cette effervescence.",
+  "running_advice": "Salut la team ! Aujourd'hui, Sainte Christine nous pousse à l'action, mais avec sagesse ! Le thermomètre va grimper jusqu'à 37.2°C sous un ciel peu nuageux, avec un indice UV élevé de 7.4. C'est clair : on évite absolument les heures les plus chaudes ! L'heure idéale pour chausser vos baskets sera très tôt le matin, juste après le lever du soleil à 6h39, quand la fraîcheur de 18.7°C est encore bien présente. Ou alors, attendez le soir, après 20h00, pour une course énergisante au coucher du soleil (21h39). Protégez-vous impérativement du soleil : crème solaire indice élevé, casquette et lunettes sont vos meilleurs alliés. Et surtout, hydratez-vous avant, pendant et après ! La persévérance paie, même sous le soleil, mais la sécurité passe avant tout. Allez, on lâche rien, l'objectif est à portée de pas !",
+  "weather_string": "🌤️ Peu nuageux (18.7°C / 37.2°C)",
+  "weather_stats": {
+    "temp": "37.2°C",
+    "rain": "15%",
+    "uv": "7.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "USA valide nucléaire saoudien : victoire pour MBS ?",
+          "summary": "Washington autorise le programme nucléaire civil saoudien, soulignant l'influence grandissante du prince héritier.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260723-feu-vert-am%C3%A9ricain-au-nucl%C3%A9aire-civil-saoudien-une-victoire-sign%C3%A9e-mbs",
+          "image": "https://s.france24.com/media/display/4795ec38-86b6-11f1-bb3d-005056a97e36/w:1024/p:16x9/AP25323646360063.jpg"
+        },
+        {
+          "title": "Trump envisage des frappes au Mali contre les jihadistes",
+          "summary": "Selon le Washington Post, Donald Trump réfléchit sérieusement à des actions militaires au Mali.",
+          "url": "https://www.huffingtonpost.fr/international/article/donald-trump-envisage-des-frappes-sur-le-mali-pour-lutter-contre-les-groupes-jihadistes-selon-le-washington-post_293240.html",
+          "image": "https://focus.huffingtonpost.fr/2026/06/08/0/0/1200/675/0/0/60/0/621b8d0_upload-1-wne9jbg0sh80-afp-20260605-b67b4lw-v3-midres-topshotuspoliticstrump.jpg"
+        },
+        {
+          "title": "Médaille Fields : 4 mathématiciens dont 2 Chinois",
+          "summary": "L'IA est à son tournant, et la prestigieuse médaille Fields récompense l'excellence mathématique mondiale.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260723-en-plein-tournant-de-l-ia-la-m%C3%A9daille-fields-r%C3%A9compense-quatre-math%C3%A9maticiens-dont-deux-chinois",
+          "image": "https://s.france24.com/media/display/b895136c-86c2-11f1-9be8-005056bf30b7/w:1024/p:16x9/36fa383f4180cad78d32177dbaaada52fb57f46e.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "\"Viols filmés\" en Gironde : enquête ouverte",
+          "summary": "Le parquet de Paris ouvre une enquête préliminaire visant le réseau libertin Wyylde suite à des accusations.",
+          "url": "https://www.lefigaro.fr/bordeaux/viols-filmes-en-gironde-enquete-preliminaire-du-parquet-de-paris-visant-le-reseau-libertin-wyylde-20260723",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/07/23/6e1d615cdd8e4f8caa90c821be3bcac47321f9db5d5a3d76627b3d06286164e9.JPG"
+        },
+        {
+          "title": "Manchoises en route pour l'Europ'Raid 2027",
+          "summary": "Cinq femmes préparent un grand raid solidaire à travers l'Europe et organisent un repas de financement.",
+          "url": "https://actu.fr/https:/actu.fr/normandie/cherbourg-en-cotentin_50129/cinq-manchoises-se-lancent-dans-laventure-de-leuropraid-2027-et-organisent-un-repas-pour-financer-leur-vadrouille_64579693.html",
+          "image": "https://static.actu.fr/uploads/2026/07/cac2f75c526a6aec2f75c526a62d2fv-1024x340.jpg"
+        },
+        {
+          "title": "Tesla : la France refuse l'autonomie supervisée",
+          "summary": "Pour des raisons de sécurité, la France écarte la conduite automatique supervisée de Tesla sur son territoire.",
+          "url": "https://www.20minutes.fr/economie/4236061-20260723-tesla-france-ecarte-conduite-automatique-supervisee-raisons-securite",
+          "image": "https://img.20mn.fr/RjddgPxUQ2qFFPlhqIXURyk/1200x768_annick-de-ridder-ministre-flamande-de-la-mobilite-et-des-travaux-publics-est-photographiee-lors-d-un-essai-routier-des-premiers-modeles-entierement-autonomes-fsd-de-tesla-a-avoir-ete-homologues-a-anvers-le-lundi-15-juin-2026-belga-photo-jonas-roosens-177730626-credit-jonas-roosens-belga-sipa-2606151136"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Multiplast construit le premier bombardier d'eau français",
+          "summary": "L'entreprise vannetaise participe à la création d'un avion vital, une avancée technologique nationale.",
+          "url": "https://www.letelegramme.fr/morbihan/vannes-56000/le-vannetais-multiplast-associe-dans-la-construction-du-premier-bombardier-deau-francais-7089003.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a6261df47e5c6102f0392fe/web_golden_xxl/6a6261df47e5c6102f0392fe.1"
+        },
+        {
+          "title": "Microsoft remplace OpenAI par sa propre IA image",
+          "summary": "Microsoft intègre désormais sa technologie propriétaire pour la génération d'images, marquant une étape clé.",
+          "url": "https://fr.investing.com/news/stock-market-news/microsoft-remplace-les-modeles-dimages-dopenai-par-sa-propre-technologie-93CH-3513687",
+          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+        },
+        {
+          "title": "Rezvani Dune : la Huracán Sterrato sous autre forme",
+          "summary": "Un design fascinant cache la puissance d'une Lamborghini Huracán Sterrato pour cette Rezvani Dune.",
+          "url": "https://www.autoplus.fr/actualite/insolite/la-rezvani-dune-cache-une-huracan-sterrato-sous-sa-carrosserie-et-sa-puissance-fascine-1457436.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/captura-de-pantalla-2026-07-23-a-las-14.25.48.png"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Taux d'emploi élevé à Bordeaux, malgré fragilités",
+          "summary": "La métropole bordelaise affiche une bonne résistance économique avec un taux d'emploi historiquement élevé.",
+          "url": "https://www.sudouest.fr/economie/commerces/economie-taux-d-emploi-historiquement-eleve-mais-des-secteurs-fragiles-la-metropole-de-bordeaux-resiste-bien-malgre-tout-30038304.php",
+          "image": "https://media.sudouest.fr/30038304/1200x600/20260623151536-lt647.jpg"
+        },
+        {
+          "title": "Hyères : une étudiante lance sa marque d'éventails",
+          "summary": "Inspirée par la Méditerranée, une jeune entrepreneure à Hyères crée sa ligne d'accessoires artisanaux.",
+          "url": "https://www.nicematin.com/economie/a-hyeres-une-etudiante-lance-sa-marque-d-eventails-inspires-de-la-mediterranee-10694227",
+          "image": "https://assets.nicematin.com/articles/10/69/42/27/OG-10694227-1200-800-b1425d6_upload-1-ig6wvx2ubp42-bd97785dad5a6c1a7c5a77v-01317399.jpg"
+        },
+        {
+          "title": "Navigo : le remboursement ouvre, êtes-vous concernés ?",
+          "summary": "La nouvelle campagne de remboursement du Pass Navigo va bientôt s'ouvrir, vérifiez votre éligibilité.",
+          "url": "https://www.journaldugeek.com/2026/07/24/navigo-la-nouvelle-campagne-de-remboursement-va-ouvrir-etes-vous-concernes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/fermeture-metro-paris-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performance",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama sur la jaquette de NBA 2K27",
+          "summary": "Une première historique pour un Français : Victor Wembanyama est la star de la couverture du jeu vidéo.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/un-reve-devenu-realite-pour-moi-wembanyama-seul-sur-la-jaquette-de-nba-2k27-une-grande-premiere-pour-un-francais_AV-202607220494.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ZS0VklWnjMZ9H84m5THSpwrHt4Q=/0x0:2048x1152/800x0/images/Victor-Wembanyama-avec-les-San-Antonio-Spurs-dans-le-match-6-de-la-finale-de-Conference-Ouest-28-mai-2026-2294983.jpg"
+        },
+        {
+          "title": "Athlétisme : Fin de plans sexualisant les athlètes",
+          "summary": "Révolution dans la retransmission sportive pour éviter la sexualisation des athlètes féminines.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-petite-revolution-dans-la-retransmission-des-competitions-des-plans-proscrits-pour-eviter-la-sexualisation-des-athletes_AV-202607150785.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/n39FXKFjfFO1dv9XH352NeCKMDI=/0x212:2048x1364/800x0/images/Le-meeting-de-Lievin-le-19-fevrier-2026-image-d-illustration-2320759.jpg"
+        },
+        {
+          "title": "Oleksandra Paskal : Leçon de résilience en gymnastique",
+          "summary": "La jeune gymnaste ukrainienne de 10 ans émeut le monde par son histoire inspirante et sa force.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Loisirs",
+      "emoji": "✨",
+      "articles": [
+        {
+          "title": "Stuart Fail to Save Universe : le spin-off Big Bang Theory",
+          "summary": "Découvrez le premier épisode de la série dérivée de Big Bang Theory centrée sur Stuart.",
+          "url": "https://www.journaldugeek.com/2026/07/24/stuart-fails-to-save-the-universe-on-a-vu-le-premier-episode-de-la-serie-big-bang-theory/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/stuart-fails-to-save-the-universe-panel-1280x853.jpg"
+        },
+        {
+          "title": "VPN : est-ce légal d'accéder à du contenu étranger ?",
+          "summary": "Une question brûlante pour les internautes : légalité des VPN pour contourner les restrictions géographiques.",
+          "url": "https://www.journaldugeek.com/2026/07/24/est-ce-legal-dutiliser-un-vpn-pour-acceder-au-contenu-dun-autre-pays/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/petter-lagson-G43Bnq-NLH4-unsplash-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Info Régionale",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Bordeaux : 5 évacués après un feu d'appartement",
+          "summary": "Incendie près de Bordeaux à Carbon-Blanc, cinq personnes évacuées en urgence relative.",
+          "url": "https://www.sudouest.fr/gironde/carbon-blanc/pres-de-bordeaux-cinq-personnes-evacuees-en-urgence-relative-en-raison-d-un-feu-d-appartement-30044202.php",
+          "image": ""
+        },
+        {
+          "title": "Drones à la prison de Pau : lourdes condamnations",
+          "summary": "Trois jeunes condamnés pour tentatives de livraison de stupéfiants et objets interdits par drone à la prison.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/ils-tentent-des-livraisons-par-drone-a-la-prison-de-pau-trois-jeunes-condamnes-pour-avoir-voulu-faire-passer-des-denrees-de-l-argent-des-stupefiants-et-un-couteau-30040428.php",
+          "image": ""
+        },
+        {
+          "title": "Lot-et-Garonne : vigilance incendie accrue",
+          "summary": "Face au risque élevé, gendarmerie et peloton forestier quadrillent le massif pour prévenir les feux.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/risque-d-incendie-en-lot-et-garonne-la-gendarmerie-appuyee-par-un-peloton-de-vigilance-foret-pour-quadriller-le-massif-30036030.php",
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
