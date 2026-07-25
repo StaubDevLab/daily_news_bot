@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Jacques",
-  "global_summary": "L'actualité mondiale et nationale est marquée par une recrudescence alarmante des incendies. L'Europe voit une hausse de 57% des feux de forêt en quatre ans, tandis que la Gironde est en proie à des feux dévastateurs, nécessitant l'envoi de renforts militaires. Sur le front géopolitique, le Mali dément des rumeurs d'intervention américaine et la Lettonie prend des mesures fortes contre les publications russes, témoignant de tensions persistantes. Un événement notable est le Tour de France à l'Alpe d'Huez, ayant attiré une foule record. \nCôté bonnes nouvelles et innovations, Tenet affiche un trimestre boursier très positif, dynamisant les marchés. La technologie innove avec Google et ses selfies d'authentification vidéo, et les opérateurs français Orange et SFR transforment le SMS de bienvenue en outil de sécurité pour les voyageurs. Le monde du sport vibre au rythme de transferts majeurs, avec LeBron James rejoignant les 76ers, et des performances athlétiques impressionnantes aux Championnats nationaux.",
-  "running_advice": "Aujourd'hui, Saint Jacques nous invite à l'action, mais avec stratégie ! Avec des températures allant de 20.4°C à 29.4°C et un ciel partiellement nuageux, courir demande de la prudence. Je te conseille vivement de privilégier les créneaux plus frais : le matin très tôt, juste après le lever du soleil vers 06h40, ou en fin de journée, après 19h30, pour profiter de l'air plus doux. L'indice UV est élevé (7.15), alors n'oublie surtout pas ta protection solaire (crème, casquette, lunettes de soleil) et hydrate-toi abondamment avant, pendant et après ta séance. Une petite averse est possible (33% de chance), mais ne te décourage pas ! Adapte-toi et reste au top de ta forme !",
-  "weather_string": "🌤️ Peu nuageux (20.4°C / 29.4°C)",
+  "global_summary": "L'actualité de ce jour est marquée par une combinaison d'alertes environnementales et de dynamiques géopolitiques tendues. Les incendies de forêt, en hausse alarmante à travers l'Europe et décrétés comme une véritable \"guerre\" en France, avec la Gironde en première ligne, rappellent l'urgence climatique et la mobilisation des secours. Sur le front international, la Lettonie prend des mesures fortes face à la Russie, tandis que le Mali dément des rumeurs d'intervention étrangère, témoignant de la persistance des tensions mondiales.\n\nParallèlement, le monde du sport vibre avec l'annonce choc du transfert de LeBron James en NBA, des performances athlétiques de haut vol et une émouvante leçon de résilience. La sphère économique révèle des succès en bourse pour certaines entreprises et l'évolution des billets en euro, tandis que la technologie innove en matière de sécurité et d'authentification. Enfin, la culture geek est en effervescence avec des annonces très attendues dans l'univers du jeu vidéo et des séries. Une journée riche en informations, entre défis majeurs et avancées inspirantes.",
+  "running_advice": "Salut champion(ne) ! Aujourd'hui, Saint Jacques nous offre une journée \"peu nuageux\" avec des températures estivales, montant jusqu'à 29.8°C. C'est une belle opportunité de bouger, mais la chaleur est à prendre au sérieux ! Pour ton run, l'idéal serait de viser très tôt le matin, juste après le lever du soleil à 06:40. Profite de la fraîcheur matinale avant que le mercure ne grimpe.\n\nSi le matin n'est pas possible, alors opte pour le soir, après 20h, une fois que le soleil commence à descendre et que la chaleur intense diminue. Attention, l'indice UV est élevé (7.15) ! Protection solaire indispensable : crème, casquette et lunettes de soleil sont tes meilleurs alliés. Hydrate-toi massivement avant, pendant et après. Écoute ton corps et relève le défi, mais avec intelligence ! Fais-en une victoire personnelle, kilomètre après kilomètre !",
+  "weather_string": "🌤️ Peu nuageux (20.4°C / 29.8°C)",
   "weather_stats": {
-    "temp": "29.4°C",
+    "temp": "29.8°C",
     "rain": "33%",
     "uv": "7.15"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Mali: Bamako dément rumeurs d'intervention US",
-          "summary": "Le gouvernement malien réagit fermement aux spéculations sur une opération militaire américaine dans le pays.",
+          "title": "Mali dément rumeurs d'intervention américaine",
+          "summary": "Bamako réfute fermement les allégations d'une opération militaire américaine sur son sol.",
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260724-mali-bamako-d%C3%A9ment-les-rumeurs-d-une-intervention-am%C3%A9ricaine",
           "image": "https://s.france24.com/media/display/f0fb0f60-878d-11f1-8c40-005056a90284/w:1024/p:16x9/Couv-MALI-USA-FRAPPES.jpg"
         },
         {
-          "title": "Incendies: l'Europe en flammes, +57% en 4 ans",
-          "summary": "L'OMS tire la sonnette d'alarme face à la progression spectaculaire des feux de forêt en Europe.",
+          "title": "Incendies : l'Europe en proie aux flammes",
+          "summary": "L'OMS alerte : les feux de forêt européens ont augmenté de 57% en quatre ans.",
           "url": "http://fr.euronews.com/my-europe/2026/07/24/en-europe-les-incendies-de-foret-augmentent-de-57-en-quatre-ans-alerte-loms",
           "image": "https://images.euronews.com/articles/stories/09/84/99/58/1440x810_cmsv2_08766089-113e-542a-9909-9699b888eb06-9849958.jpg"
         },
         {
-          "title": "Lettonie: Livres et jeux russes interdits",
-          "summary": "Riga renforce ses sanctions, bloquant les médias et divertissements en provenance de Russie et du Bélarus.",
+          "title": "La Lettonie bannit médias russes et bélarusses",
+          "summary": "Livres, journaux et jeux vidéo de Russie et Bélarus sont interdits en Lettonie.",
           "url": "http://fr.euronews.com/my-europe/2026/07/24/la-lettonie-interdit-livres-journaux-et-jeux-video-en-provenance-de-russie-et-du-belarus",
           "image": "https://images.euronews.com/articles/stories/09/85/00/81/1440x810_cmsv2_8511313f-d7e6-54e6-b74d-fa95bdd17cf0-9850081.jpg"
         }
@@ -38,130 +38,112 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Tour de France: L'Alpe d'Huez sous la folie des fans",
-          "summary": "L'affluence record de 600 000 spectateurs a transformé l'Alpe d'Huez en un chaudron bouillonnant.",
-          "url": "https://www.eurosport.fr/cyclisme/tour-de-france/2026/tour-de-france-2026-i-600-000-fans-en-furie-lalpe-dhuez-a-la-folie-et-meme-un-peu-trop_sto23322469/story.shtml",
-          "image": "https://i.eurosport.com/2026/07/24/image-6b63f05d-eb91-4e3c-8430-4c2d4cf886fc-85-2560-1440.jpeg"
-        },
-        {
-          "title": "France: La guerre contre les incendies est déclarée",
-          "summary": "Face à l'ampleur des feux, les autorités nationales intensifient la lutte et la mobilisation des moyens.",
+          "title": "Incendies : la France en \"guerre contre le feu\"",
+          "summary": "Le pays mobilise d'énormes ressources pour faire face à la vague inédite d'incendies.",
           "url": "http://www.lest-eclair.fr/id819419/article/2026-07-24/incendies-nous-sommes-desormais-en-guerre-contre-le-feu",
           "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/07/24/node_819419/15482697/public/2026/07/24/93123884.jpeg?itok=ZhgkuDSJ1784918568"
-        }
-      ]
-    },
-    {
-      "label": "Tech",
-      "emoji": "💻",
-      "articles": [
-        {
-          "title": "Google: Selfie vidéo pour l'authentification",
-          "summary": "Google innove avec une méthode de vérification d'identité par vidéo selfie, promettant plus de sécurité.",
-          "url": "https://www.lerevenu.com/reussir-bourse/avis-des-pros/google-une-nouvelle-methode-d-authentification-bas",
-          "image": "https://cdn.overlord.media/la_croissance_record_de_google_cloud_propulse_alphabet_bien_au_dela_des_attentes_004c5436_2b40afbdb8.webp"
         },
         {
-          "title": "Voyage: SMS sécurité par Orange et SFR",
-          "summary": "Les opérateurs renforcent la sécurité des voyageurs avec des SMS d'alerte et de conseils à l'étranger.",
-          "url": "https://www.generation-nt.com/actualites/orange-sfr-sms-voyage-securite-fil-ariane-2079121",
-          "image": "https://img.generation-nt.com/smartphone-avion-2_04B002A301728128.webp"
+          "title": "Gironde : renforts militaires et masques FFP2",
+          "summary": "500 militaires et 1,5 million de masques envoyés pour combattre les feux en Gironde.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendies-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde-30057521.php",
+          "image": ""
+        },
+        {
+          "title": "Alpe d'Huez : 600 000 fans, trop c'est trop",
+          "summary": "L'engouement du Tour de France à l'Alpe d'Huez a créé des débordements préoccupants.",
+          "url": "https://www.eurosport.fr/cyclisme/tour-de-france/2026/tour-de-france-2026-i-600-000-fans-en-furie-lalpe-dhuez-a-la-folie-et-meme-un-peu-trop_sto23322469/story.shtml",
+          "image": "https://i.eurosport.com/2026/07/24/image-6b63f05d-eb91-4e3c-8430-4c2d4cf886fc-85-2560-1440.jpeg"
         }
       ]
     },
     {
-      "label": "Business",
-      "emoji": "💼",
+      "label": "Tech & Innovation",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Tenet: Succès boursier, perspectives 2026 améliorées",
-          "summary": "Le trimestre exceptionnel de Tenet dynamise son action en bourse, annonçant un avenir prometteur.",
+          "title": "SMS voyage : Orange et SFR sécurisent l'étranger",
+          "summary": "Le SMS de bienvenue devient un outil de sécurité essentiel pour les voyageurs.",
+          "url": "https://www.generation-nt.com/actualites/orange-sfr-sms-voyage-securite-fil-ariane-2079121",
+          "image": "https://img.generation-nt.com/smartphone-avion-2_04B002A301728128.webp"
+        },
+        {
+          "title": "Google : authentification par vidéo selfie",
+          "summary": "Une nouvelle méthode d'authentification par vidéo selfie est déployée par Google.",
+          "url": "https://www.lerevenu.com/reussir-bourse/avis-des-pros/google-une-nouvelle-methode-d-authentification-bas",
+          "image": "https://cdn.overlord.media/la_croissance_record_de_google_cloud_propulse_alphabet_bien_au_dela_des_attentes_004c5436_2b40afbdb8.webp"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Tenet : trimestre boursier record",
+          "summary": "Le succès de Tenet propulse l'action en bourse, perspectives 2026 très positives.",
           "url": "https://fr.benzinga.com/news/france/general/le-trimestre-a-succes-de-tenet-propulse-laction-en-bourse-les-perspectives-pour-2026-sont-grandement-ameliorees/",
           "image": "https://cdn.benzinga.com/files/images/story/2026/07/24/Germany---January-24--2026-In-This-Photo.jpg?width=2048&height=1536"
         },
         {
-          "title": "FDA valide un nouveau médicament oculaire",
-          "summary": "Outlook Therapeutics obtient l'accord de la FDA pour son traitement innovant contre une maladie oculaire.",
+          "title": "FDA autorise un nouveau traitement oculaire",
+          "summary": "Outlook Therapeutics obtient l'autorisation FDA pour son médicament ophtalmologique.",
           "url": "https://www.boursorama.com/bourse/actualites/la-fda-americaine-autorise-un-medicament-d-outlook-therapeutics-destine-au-traitement-d-une-maladie-oculaire-3c357557d19618a86e6e002f728ff807",
           "image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-3.jpg"
         },
         {
-          "title": "Euros: Bientôt de nouveaux designs",
-          "summary": "Les citoyens seront consultés pour choisir les futurs motifs des billets en euro, un changement majeur en vue.",
+          "title": "Billets Euro : votre avis compte !",
+          "summary": "Les futurs designs des billets en euro sont soumis à consultation publique.",
           "url": "https://actu.fr/economie/les-billets-en-euro-vont-changer-de-visage-a-vous-de-choisir-ceux-que-vous-voudrez-dans-votre-portefeuille_64581265.html",
           "image": "https://static.actu.fr/uploads/2026/07/newsmlafp-com-20211121t150028zpartners-080-hl-afillon-1592004-1024x557.jpg"
         }
       ]
     },
     {
-      "label": "Gironde",
-      "emoji": "🔥",
-      "articles": [
-        {
-          "title": "Gironde: 40 000 hectares brûlés, évacuations massives",
-          "summary": "Les incendies dévastent la Gironde, menaçant Bordeaux et entraînant des évacuations urgentes de 7 communes.",
-          "url": "https://www.sudouest.fr/faits-divers/incendies/direct-incendie-en-gironde-nouvelles-alertes-d-evacuation-le-feu-se-rapproche-de-l-agglomeration-bordelaise-plus-de-22-000-hectares-brules-suivez-l-evolution-30057133.php",
-          "image": "https://www.sudouest.fr/faits-divers/incendies/direct-incendie-en-gironde-nouvelles-alertes-d-evacuation-le-feu-se-rapproche-de-l-agglomeration-bordelaise-plus-de-22-000-hectares-brules-suivez-l-evolution-30057133.php"
-        },
-        {
-          "title": "Gironde: Renforts militaires contre les feux",
-          "summary": "500 militaires supplémentaires et 1,5 million de masques FFP2 sont mobilisés pour soutenir la Gironde.",
-          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendies-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde-30057521.php",
-          "image": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendies-500-militaires-supplementaires-et-1-5-million-de-masques-ffp2-envoyes-en-gironde-30057521.php"
-        },
-        {
-          "title": "Landes: Parentis-en-Born évacuée, flammes menaçantes",
-          "summary": "La commune de Parentis-en-Born est évacuée alors que les flammes continuent leur progression dans les Landes.",
-          "url": "https://www.sudouest.fr/landes/parentis-en-born/on-recupere-le-necessaire-la-commune-de-parentis-en-born-menacee-par-les-flammes-la-ville-evacuee-30055853.php",
-          "image": "https://www.sudouest.fr/landes/parentis-en-born/on-recupere-le-necessaire-la-commune-de-parentis-en-born-menacee-par-les-flammes-la-ville-evacuee-30055853.php"
-        }
-      ]
-    },
-    {
-      "label": "Journal du Geek",
-      "emoji": "🎮",
-      "articles": [
-        {
-          "title": "God of War: Laufey, Kratos de retour",
-          "summary": "Les fans frissonnent: le nouveau chapitre de God of War, 'Laufey', révèle enfin sa date de sortie.",
-          "url": "https://www.journaldugeek.com/2026/07/25/god-of-war-laufey-a-une-date-de-sortie-et-kratos-revient/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/07/laufey-god-of-war-sortie-1280x853.jpg"
-        },
-        {
-          "title": "Anneaux de Pouvoir: Aperçu exclusif saison 3",
-          "summary": "Le Comic-Con a dévoilé un avant-goût tant attendu de la troisième saison des Anneaux de Pouvoir.",
-          "url": "https://www.journaldugeek.com/2026/07/25/les-anneaux-de-pouvoir-au-comic-con-on-a-vu-un-apercu-exclusif-de-la-saison-3/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/07/les-anneaux-de-pouvoir-panel1-1280x853.jpg"
-        },
-        {
-          "title": "Lanterns: DC tease sa série événement",
-          "summary": "Des images inédites de 'Lanterns' suggèrent que DC Comics pourrait enfin tenir sa série culte.",
-          "url": "https://www.journaldugeek.com/2026/07/25/lanterns-au-comic-con-un-personnage-bien-connu-des-fans-montre-le-bout-de-son-nez/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/07/lanterns-bande-annonce-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Sport",
+      "label": "Sports",
       "emoji": "🏅",
       "articles": [
         {
-          "title": "NBA: LeBron James signe aux 76ers!",
-          "summary": "Coup de tonnerre dans la NBA : la superstar LeBron James rejoint les Philadelphia 76ers pour la prochaine saison.",
+          "title": "NBA : LeBron James rejoint les 76ers !",
+          "summary": "LeBron James crée la surprise en annonçant son transfert majeur vers Philadelphie.",
           "url": "https://rmcsport.bfmtv.com/basket/video-nba-le-bron-james-va-rejoindre-les-philadephia-76ers_VN-202607240532.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/4D9KrEFXOdw-KR7F4h78pNi4jN0=/0x0:1280x720/800x0/images/NBA-LeBron-James-va-rejoindre-les-Philadephia-76ers-2325018.jpg"
         },
         {
-          "title": "Wembanyama sur la jaquette NBA 2K27",
-          "summary": "Victor Wembanyama devient le premier Français seul à la une de NBA 2K27, un rêve réalisé.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/un-reve-devenu-realite-pour-moi-wembanyama-seul-sur-la-jaquette-de-nba-2k27-une-grande-premiere-pour-un-francais_AV-202607220494.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ZS0VklWnjMZ9H84m5THSpwrHt4Q=/0x0:2048x1152/800x0/images/Victor-Wembanyama-avec-les-San-Antonio-Spurs-dans-le-match-6-de-la-finale-de-Conference-Ouest-28-mai-2026-2294983.jpg"
-        },
-        {
-          "title": "Noah Lyles: 9.79 au 100m, record personnel",
-          "summary": "Le sprinteur américain Noah Lyles réalise une performance exceptionnelle avec son meilleur temps sur 100m.",
+          "title": "Athlétisme : Noah Lyles, record sur 100m",
+          "summary": "Noah Lyles signe son meilleur temps (9.79s) aux championnats US d'athlétisme.",
           "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-noah-lyles-claque-9-79-sur-100m-aux-championnats-us-son-meilleur-temps_AN-202607250092.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/jEnhOtajZu_f7z0Uo8UB3pfs9Pg=/0x93:2048x1245/800x0/images/Noah-Lyles-1972191.jpg"
+        },
+        {
+          "title": "Oleksandra Paskal : leçon de résilience",
+          "summary": "La jeune gymnaste ukrainienne de 10 ans émeut le monde par son histoire inspirante.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "God of War : Laufey, date de sortie !",
+          "summary": "Le nouveau chapitre de God of War, \"Laufey\", dévoile enfin sa date de sortie.",
+          "url": "https://www.journaldugeek.com/2026/07/25/god-of-war-laufey-a-une-date-de-sortie-et-kratos-revient/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/laufey-god-of-war-sortie-1280x853.jpg"
+        },
+        {
+          "title": "Anneaux de Pouvoir S3 : aperçu exclusif",
+          "summary": "Le Comic-Con a offert un aperçu très attendu de la troisième saison de la série.",
+          "url": "https://www.journaldugeek.com/2026/07/25/les-anneaux-de-pouvoir-au-comic-con-on-a-vu-un-apercu-exclusif-de-la-saison-3/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/les-anneaux-de-pouvoir-panel1-1280x853.jpg"
+        },
+        {
+          "title": "Lanterns : DC tient sa série événement ?",
+          "summary": "Des images inédites de \"Lanterns\" suggèrent une série DC Comics majeure à venir.",
+          "url": "https://www.journaldugeek.com/2026/07/25/lanterns-au-comic-con-un-personnage-bien-connu-des-fans-montre-le-bout-de-son-nez/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/lanterns-bande-annonce-1280x853.jpg"
         }
       ]
     }
