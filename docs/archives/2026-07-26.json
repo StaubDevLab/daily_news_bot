@@ -1,0 +1,151 @@
+{
+  "ephemeride": "Sainte Anne",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux politiques internationaux, des défis environnementaux et des histoires inspirantes de résilience. Au Brésil, la scène politique s'anime avec un nouveau candidat de poids pour la présidentielle, tandis qu'en Europe, un événement tragique à Berlin rappelle la fragilité de nos sociétés. La prise de position de Katy Perry souligne le pouvoir de l'art face aux conflits.\nSur le plan national, la France se prépare à une vague de chaleur intense et reste mobilisée contre les incendies qui ravagent le Sud-Ouest. Parallèlement, le monde du sport offre des récits de dépassement de soi, avec des athlètes qui nous rappellent l'importance de l'effort et de la persévérance face aux obstacles, qu'ils soient personnels ou collectifs.",
+  "running_advice": "Aujourd'hui, c'est une journée absolument PARFAITE pour chausser vos baskets et vous lancer ! Avec des températures idéales oscillant entre 18.3°C et 26.6°C et un ciel peu nuageux, les conditions sont optimales pour une performance de pointe ou une simple bouffée d'air frais. Pour profiter au maximum de cette belle météo et éviter l'indice UV élevé (7.3), visez une course tôt le matin, juste après le lever du soleil à 06:41, ou en fin de journée, alors que le soleil commence à se coucher vers 21:37. N'oubliez pas une bonne crème solaire, un chapeau et des lunettes de soleil pour vous protéger efficacement. Hydratez-vous à fond ! C'est le moment de booster votre énergie et de vous sentir vivant. Allez, on y va, donnez tout !",
+  "weather_string": "🌤️ Peu nuageux (18.3°C / 26.6°C)",
+  "weather_stats": {
+    "temp": "26.6°C",
+    "rain": "8%",
+    "uv": "7.3"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Présidentielle Brésil: Bolsonaro fils candidat",
+          "summary": "Le fils de Jair Bolsonaro se lance dans la course présidentielle face à Lula, promettant une élection sous haute tension.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260725-pr%C3%A9sidentielle-au-br%C3%A9sil-le-fils-de-jair-bolsonaro-investi-candidat-face-%C3%A0-lula",
+          "image": "https://s.france24.com/media/display/cc968c5e-8859-11f1-b0d0-005056bf30b7/w:1024/p:16x9/fd975bb2dbbf309bfb5aa1bd7b6bf996a68adb75.jpg"
+        },
+        {
+          "title": "Katy Perry dénonce utilisation musicale par la Maison Blanche",
+          "summary": "La chanteuse s'insurge contre l'usage de 'Fireworks' dans une vidéo politique, rappelant son message de paix.",
+          "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/ma-musique-est-faite-pour-rassembler-les-gens-katy-perry-denonce-l-utilisation-de-son-titre-fireworks-dans-une-video-de-la-maison-blanche-sur-la-guerre-en-iran_AN-202607250298.html",
+          "image": "https://images.bfmtv.com/9TlWhz63kn41Y27vzoCw-4SB6Io=/0x106:2048x1258/800x0/images/Katy-Perry-se-produit-avant-le-match-de-football-de-la-Coupe-du-monde-2026-opposant-les-Etats-Unis-au-Paraguay-au-Los-Angeles-Stadium-d-Inglewood-le-12-juin-2026-2325282.jpg"
+        },
+        {
+          "title": "Tragédie à la Gay Pride de Berlin",
+          "summary": "Un véhicule a foncé dans la foule lors de la Gay Pride de Berlin, causant un mort et 16 blessés.",
+          "url": "https://www.sudouest.fr/faits-divers/allemagne-un-vehicule-fonce-dans-la-foule-a-la-gay-pride-de-berlin-faisant-un-mort-et-16-blesses-30067590.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Canicule imminente : jusqu'à 41°C attendus",
+          "summary": "La chaleur revient avec des pics à 41°C dès mardi dans six régions, appelant à la prudence.",
+          "url": "https://www.presse-citron.net/jusqua-41c-la-canicule-revient-dans-ces-6-regions-des-mardi-28-juillet/",
+          "image": "https://www.presse-citron.net/app/uploads/2023/05/meteo-chaleur-france-1024x682.jpg"
+        },
+        {
+          "title": "Lando Norris en pole position en Hongrie",
+          "summary": "Le pilote McLaren s'offre la pole en Formule 1, tandis qu'Hamilton écope d'une pénalité.",
+          "url": "https://www.lanouvellerepublique.fr/sports/formule-1-lando-norris-partira-en-pole-en-hongrie-antonelli-et-hamilton-penalises-de-trois-places-1785005500",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a6505bb0ed58337128b45bd"
+        },
+        {
+          "title": "Solidarité bretonne autour de la crêpe",
+          "summary": "Joëlle Dambo, invitée à Gourin, salue l'émouvante solidarité symbolisée par la convivialité de la crêpe.",
+          "url": "https://www.letelegramme.fr/morbihan/gourin-56110/la-crepe-cest-la-convivialite-pas-la-haine-invitee-a-gourin-joelle-gambo-emue-par-la-solidarite-7090007.php",
+          "image": "https://medialb.ultimedia.com/multi/sxmux/3vpuqfq-O.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "BYD en forte progression en Europe",
+          "summary": "Le constructeur chinois BYD a bondi de 144% en Europe en un an, défiant la concurrence automobile.",
+          "url": "https://www.lesnumeriques.com/voiture-hybride-rechargeable/byd-a-progresse-de-144-en-europe-en-un-an-la-faute-a-bruxelles-qui-tarde-encore-a-repliquer-n259714.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/259714/a309c667-byd-a-progresse-de-144-en-europe-en-un-an-la-faute-a-bruxelles-qui-tarde-encore-a-repliquer__800_800__448-0-4995-4547.jpg"
+        },
+        {
+          "title": "Voitures 'ordinaires' deviennent objets de collection",
+          "summary": "Des modèles courants, autrefois sous-estimés, s'arrachent désormais à prix d'or chez les collectionneurs passionnés.",
+          "url": "https://www.automobile-magazine.fr/retro/article/52582-ces-voitures-sont-courantes-et-pourtant-des-collectionneurs-se-les-arrachent-a-prix-dor",
+          "image": "https://static.ncr.re/img/1200x675/72/72fb29f2df5bebc5af661b1aa217b2a7.jpg"
+        },
+        {
+          "title": "Avengers: Doomsday, images inédites au Comic-Con",
+          "summary": "Des premières images explosives d'Avengers: Doomsday ont été dévoilées en exclusivité au Comic-Con, électrisant les fans.",
+          "url": "https://www.journaldugeek.com/2026/07/26/ce-que-lon-apprend-des-images-exclusives-davengers-doomsday/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/doomsday-images-inedites-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Baisse du Bitcoin suite aux sorties d'ETF",
+          "summary": "Le prix du Bitcoin chute alors que les ETF enregistrent des sorties en raison des problèmes liés à la CLARITY Act.",
+          "url": "https://fr.benzinga.com/crypto/la-baisse-du-prix-du-bitcoin-alors-que-les-sorties-de-etf-reprennent-en-raison-des-problemes-lies-a-la-clarity-act/",
+          "image": "https://cdn.benzinga.com/files/images/story/2026/07/25/Bitcoin-Btc-Virtual-Cryptocurrency-In-Fr.jpg?width=2048&height=1536"
+        },
+        {
+          "title": "Résultats du Loto FDJ du samedi 25 juillet",
+          "summary": "Découvrez sans tarder les numéros gagnants du dernier tirage du Loto FDJ de ce samedi 25 juillet 2026.",
+          "url": "https://www.diverto.tv/actualites/tele/loto-fdj-les-resultats-du-tirage-du-samedi-25-juillet-2026",
+          "image": "https://assets.diverto.tv/media/loto-fdj-les-resultats-du-tirage-du-samedi-25-juillet-2026.jpg?w=1200&h=630&fit=crop&fm=webp&s=462d1019c8f8e0c11e02781fa2894b0b"
+        }
+      ]
+    },
+    {
+      "label": "Régions",
+      "emoji": "🔥",
+      "articles": [
+        {
+          "title": "Incendie Gironde : des résidents d'Ehpad évacués",
+          "summary": "Des aînés ont été réfugiés dans un lycée créonnais, soulignant la solidarité locale face aux flammes.",
+          "url": "https://www.sudouest.fr/gironde/heureusement-qu-on-nous-avait-donne-des-masques-des-residents-d-ehpad-refugies-dans-un-lycee-creonnais-30064572.php",
+          "image": ""
+        },
+        {
+          "title": "Landes : 300 gendarmes mobilisés contre les feux",
+          "summary": "Un important contingent de gendarmes assure la sécurité et la surveillance des propriétés à Biscarrosse face au danger.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-dans-les-landes-300-gendarmes-engages-pour-securiser-biscarrosse-et-veiller-sur-les-proprietes-30064318.php",
+          "image": ""
+        },
+        {
+          "title": "Gironde : vigilance maximale face aux incendies",
+          "summary": "La menace d'incendies reste sérieuse en Gironde, nécessitant une vigilance ininterrompue des autorités et citoyens.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendies-en-gironde-la-menace-reste-serieuse-il-ne-faut-pas-relacher-la-vigilance-30063111.php",
+          "image": "https://media.sudouest.fr/30063111/1200x600/20260724125707-749112.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "LeBron James réduit son salaire pour les Sixers",
+          "summary": "La star de la NBA a divisé son salaire par 12 pour rejoindre les Sixers, un effort financier colossal.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-le-gros-effort-financier-de-le-bron-james-qui-a-divise-son-salaire-par-12-en-rejoignant-les-sixers_AV-202607250186.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/vF9I2UywKcRFgM_325D1-ircezo=/0x106:2048x1258/800x0/images/LeBron-James-le-24-avril-2026-2275987.jpg"
+        },
+        {
+          "title": "Margot Chevrier : la renaissance d'une championne",
+          "summary": "Vice-championne de France de perche, elle triomphe de sa blessure, un exemple de résilience inspirant pour tous.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/j-ai-gagne-contre-la-vie-margot-chevrier-vice-championne-de-france-de-saut-a-la-perche-renait-de-ses-cendres-deux-ans-et-demi-apres-sa-blessure_AV-202607250338.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k91jTtseJFoFajT4NpDVqOXyNtw=/0x106:2048x1258/800x0/images/Margot-Chevrier-lors-des-championnats-de-France-d-athletisme-le-25-juillet-2026-2325316.jpg"
+        },
+        {
+          "title": "Oleksandra Paskal, gymnaste ukrainienne : leçon de vie",
+          "summary": "Cette jeune gymnaste de 10 ans, invitée de la Coupe du monde, incarne une incroyable leçon de résilience mondiale.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
+        }
+      ]
+    }
+  ]
+}
