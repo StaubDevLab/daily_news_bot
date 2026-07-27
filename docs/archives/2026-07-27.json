@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Nathalie",
+  "global_summary": "L'actualité mondiale est marquée par des défis de taille : la lutte acharnée contre les incendies qui ravagent la France met en lumière la tension sur les mécanismes de protection civile européens. Pendant ce temps, des événements tragiques secouent les capitales, avec une attaque à Berlin et des tirs à Seattle, rappelant la fragilité de la sécurité urbaine et la nécessité d'une vigilance constante. \n\nEn parallèle, le monde du sport vibre avec les exploits d'un Victor Wembanyama toujours plus proche du public et un nouveau record de France en athlétisme, symboles de performance et d'inspiration. La technologie continue son essor avec les avancées des IA pour Mac et les lunettes connectées d'Apple, dessinant les contours de notre futur. Des tendances sociétales, comme la baisse de la consommation d'alcool, interrogent également nos habitudes, offrant un tableau riche et contrasté des enjeux du jour.",
+  "running_advice": "Chers sportifs, préparez-vous à une séance de course revigorante ! Avec des températures idéales variant de 18°C à 26.4°C et un ciel peu nuageux, les conditions sont exceptionnelles. Pour une expérience optimale, privilégiez votre run matinal dès le lever du soleil à 06:42, ou profitez de la douceur de la fin de journée après 19h. Attention cependant, l'indice UV de 7.3 est élevé : une protection solaire, lunettes de soleil et casquette sont indispensables. Hydratez-vous généreusement et transformez cette énergie en performance ! Lancez-vous, la piste vous attend !",
+  "weather_string": "🌤️ Peu nuageux (18°C / 26.4°C)",
+  "weather_stats": {
+    "temp": "26.4°C",
+    "rain": "28%",
+    "uv": "7.3"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Incendies Français : L'UE sous Tension",
+          "summary": "Les feux en France mettent le mécanisme de protection civile de l'UE sous forte pression, malgré son bon fonctionnement.",
+          "url": "https://www.lemonde.fr/planete/article/2026/07/26/hadja-lahbib-commissaire-europeenne-a-la-gestion-des-crises-le-mecanisme-de-protection-civile-de-l-ue-est-sous-tension-avec-les-incendies-mais-il-fonctionne_6733436_3244.html",
+          "image": "https://img.lemde.fr/2026/07/26/1292/0/9504/4752/644/322/60/0/83d73a8_upload-1-xbwf6eplpm9s-85-hlequeux-feux-gironde-dsc1348.jpg"
+        },
+        {
+          "title": "Attaque Mortelle à Berlin : Suspect Tué",
+          "summary": "Le suspect de l'attaque tragique survenue lors de la Marche des Fiertés à Berlin a été neutralisé par la police.",
+          "url": "https://www.franceinfo.fr/faits-divers/terrorisme/le-suspect-de-l-attaque-meurtriere-survenue-samedi-soir-a-berlin-lors-de-la-marche-des-fiertes-tue-par-la-police_8123168.html",
+          "image": "https://www.franceinfo.fr/pictures/N74sFznVRx06TbHvWJyJuYggzWc/0x0:6000x3375/432x243/filters:format(jpg):quality(50)/2026/07/26/6a66474469ab4041931644.jpg"
+        },
+        {
+          "title": "Tirs Meurtriers à Seattle : Un Suspect Interpellé",
+          "summary": "Deux personnes ont été tuées et plusieurs blessées lors d'une fusillade à Seattle ; un suspect a été interpellé.",
+          "url": "https://www.sudouest.fr/international/etats-unis/etats-unis-deux-morts-et-plusieurs-blesses-apres-des-tirs-dans-le-centre-ville-de-seattle-un-suspect-interpelle-30077311.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "\"24 Heures Chrono\" : Le Retour d'une Légende",
+          "summary": "La série culte des années 2000 \"24 Heures chrono\" reste haletante et passionnante, même des années après.",
+          "url": "https://www.telerama.fr/series-tv/on-a-revu-24-heures-chrono-la-serie-culte-des-annees-2000-et-c-est-toujours-aussi-haletant-7032214.php",
+          "image": "https://focus.telerama.fr/2026/07/20/976/0/3262/2174/1600/1067/60/0/f3cdcf1_upload-1-3ws5ayurkazh-24-heures-chrono-serie-tv-saison-3-01.jpg"
+        },
+        {
+          "title": "Simon Balteaux Émeut Charleville avec \"Jim Queen\"",
+          "summary": "Le scénariste ardennais Simon Balteaux a présenté son film \"Jim Queen\" à Charleville, suscitant une vive émotion.",
+          "url": "http://www.lardennais.fr/id819670/article/2026-07-26/video-je-suis-super-emu-le-scenariste-ardennais-simon-balteaux-presente-son-film",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/07/26/node_819670/15484015/public/2026/07/26/93533900.jpeg?itok=WOaJqSfQ1785092507"
+        },
+        {
+          "title": "Sauvetage en Mer à Anglet : 3 Plongeurs Secourus",
+          "summary": "Trois plongeurs ont été récupérés en difficulté au large d'Anglet, à plus de 6 km de leur point d'immersion.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/anglet-trois-plongeurs-en-difficulte-recuperes-a-plus-de-6-km-de-leur-point-d-immersion-30075824.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Le Futur de l'IA sur Mac Testé",
+          "summary": "Découvrez un aperçu du futur de l'intelligence artificielle sur Mac avec le test de Perplexity Computer.",
+          "url": "https://www.mac4ever.com/mac/197125-j-ai-teste-pour-vous-le-futur-des-ia-pour-mac-perplexity-computer",
+          "image": "https://img-api.mac4ever.com/1200/0/f6a7f8f1c3_j-ai-teste-pour-vous-le-futur-des-ia-pour-mac-perplexity-computer.webp"
+        },
+        {
+          "title": "Apple : Les Lunettes Connectées Arrivent",
+          "summary": "Les très attendues lunettes connectées d'Apple devront prouver leur utilité sans susciter de nouvelles inquiétudes.",
+          "url": "https://www.macg.co/aapl/2026/07/les-lunettes-connectees-dapple-devront-convaincre-sans-inquieter-la-semaine-apple-309999",
+          "image": "https://cdn.mgig.fr/2026/07/mga-32554cd8-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "Aspirateurs \"Espions\" : Faille de Sécurité Révélée",
+          "summary": "Une faille de sécurité majeure pourrait transformer les aspirateurs Shark en véritables espions à roulettes.",
+          "url": "https://www.journaldugeek.com/2026/07/27/une-faille-transforme-des-aspirateurs-shark-en-espions-a-roulettes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/sharkninja-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Baisse Consommation Alcool : Nouveaux Marchés",
+          "summary": "Face à la baisse de la consommation d'alcool, l'industrie cherche activement le produit innovant qui fera la différence.",
+          "url": "http://www.lest-eclair.fr/id819669/article/2026-07-26/baisse-de-la-consommation-dalcool-les-clients-cherchent-le-produit-qui-nexiste",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/07/26/node_819669/15484011/public/2026/07/26/92995869.jpeg?itok=04V78sE81785091509"
+        },
+        {
+          "title": "Pouxeux : Décès de Jean-Marie Brice",
+          "summary": "La commune de Pouxeux est en deuil suite au décès de Jean-Marie Brice, une figure locale reconnue.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/07/26/deces-de-jean-marie-brice",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/57ACBD1E-1C1C-4BA9-B0E1-B056E48C16D6/NW_listB/deces-de-jean-marie-brice-1785092127.jpg"
+        },
+        {
+          "title": "Fête de l'Œuf d'Uzemain Célèbre ses Ambassadeurs",
+          "summary": "La Fête de l'Œuf d'Uzemain a couronné ses nouveaux ambassadeurs dans une ambiance festive et conviviale.",
+          "url": "https://www.vosgesmatin.fr/culture-loisirs/2026/07/26/la-fete-de-l-oeuf-d-uzemain-couronne-ses-ambassadeurs",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/FBB9AB0B-2446-4610-A20F-E6700DB008B6/NW_listB/la-fete-de-l-oeuf-d-uzemain-couronne-ses-ambassadeurs-1785096752.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama Joue au Foot à Houston",
+          "summary": "La star de la NBA, Victor Wembanyama, a surpris des étudiants de Houston en jouant au football avec eux.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-nba-wembanyama-joue-au-football-avec-des-etudiants-a-houston_VN-202607260151.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KndIv2mKKcXYKG_J9hTiGN3zSqo=/0x0:1280x720/800x0/images/NBA-Wembanyama-joue-au-football-avec-des-etudiants-a-Houston-2325410.jpg"
+        },
+        {
+          "title": "Record de France pour Samuel Vessat !",
+          "summary": "Samuel Vessat a battu le record de France du 400 mètres lors des Championnats de France d'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/championnats-de-france-d-athletisme-samuel-vessat-bat-le-record-de-france-du-400-m_AV-202607260212.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lTV3wwYDhNOqIeTNkHBgzfYq-hw=/0x0:1200x675/800x0/images/Samuel-Vessat-lors-des-championnats-de-France-d-athletisme-a-Albi-le-26-juillet-2026-2325456.jpg"
+        },
+        {
+          "title": "Oleksandra Paskal : Leçon de Résilience en Gymnastique",
+          "summary": "La jeune gymnaste ukrainienne Oleksandra Paskal, 10 ans, émeut le monde par sa leçon de résilience.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
+        }
+      ]
+    }
+  ]
+}
