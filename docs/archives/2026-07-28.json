@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Samson",
+  "global_summary": "L'actualité de ce jour est marquée par des tensions politiques internationales, avec la Tunisie qui s'isole et les Midterms américaines sous haute surveillance. En Europe, une nomination française provoque des remous, soulignant les enjeux diplomatiques et institutionnels. Des affaires judiciaires significatives secouent la France, allant d'un drame familial à des cas de harcèlement, rappelant l'importance de la vigilance sociale. L'économie, quant à elle, navigue entre succès locaux et perturbations dues aux incendies qui impactent transports et événements. \nLe monde de la tech continue d'innover avec des projets satellites ambitieux et des retours inattendus, tandis que le sport nous offre des moments d'inspiration pure. Entre le discours motivant d'une star de la NBA et la leçon de résilience d'une jeune gymnaste, le dépassement de soi est à l'honneur. C'est une journée riche en contrastes, où défis et inspirations se côtoient.",
+  "running_advice": "Attention, champion ! Aujourd'hui, le ciel est dégagé et la course s'annonce agréable avec une minimale de 17°C. Cependant, la température grimpera jusqu'à 33.3°C en pleine journée et l'indice UV est élevé à 7.3. Pour une performance optimale et une protection maximale, privilégiez un entraînement tôt le matin, juste après le lever du soleil (06:43), ou en fin de soirée, une heure avant le coucher (21:34). N'oubliez pas une protection solaire forte, une casquette et une hydratation constante. Allez, on garde le rythme et on s'adapte aux conditions pour atteindre nos objectifs !",
+  "weather_string": "☀️ Ciel dégagé (17°C / 33.3°C)",
+  "weather_stats": {
+    "temp": "33.3°C",
+    "rain": "0%",
+    "uv": "7.3"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Tunisie : Kaïs Saïed s'isole",
+          "summary": "Face à la grogne sociale, le président tunisien Kaïs Saïed s'isole de plus en plus sur la scène internationale.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/07/27/en-tunisie-kais-saied-qui-fait-face-a-une-forte-grogne-sociale-s-isole-sur-la-scene-internationale_6734223_3212.html",
+          "image": "https://img.lemde.fr/2026/07/25/474/0/4000/2000/644/322/60/0/55bdc85_ftp-1-htugn4oloajx-79d5d168b1314048906ce36def166805-0-f6e9b10af5dd4a7cafd7868b60fcb699.jpg"
+        },
+        {
+          "title": "Midterms US : Démocrates en difficulté",
+          "summary": "À 100 jours des élections de mi-mandat, la reconquête démocrate américaine n'est pas acquise.",
+          "url": "https://www.lopinion.fr/international/a-100-jours-des-midterms-americaines-la-reconquete-democrate-nest-pas-gagnee",
+          "image": "https://beymedias.brightspotcdn.com/8e/2a/c7ffc3ce41c589da70bd8d3af22e/sipa-sipahub60124666-000007.jpg"
+        },
+        {
+          "title": "Nomination Musquar embarrasse Paris",
+          "summary": "La nomination du Français Philippe Musquar à la tête des partis européens crée un embarras à Paris.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/27/la-nomination-du-francais-philippe-musquar-a-la-tete-du-gendarme-des-partis-politiques-europeens-embarrasse-paris_6734222_3210.html",
+          "image": "https://img.lemde.fr/2026/07/27/663/0/7959/3979/644/322/60/0/89ff212_upload-1-4zioptoz2lqn-000-83tl9g3.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Le Tchad quitte la CPI",
+          "summary": "Le Tchad se retire de la CPI, dénonçant une justice internationale à « géométrie variable ».",
+          "url": "https://www.rfi.fr/fr/afrique/20260727-le-tchad-annonce-son-retrait-de-la-cpi-dont-il-d%C3%A9nonce-une-justice-%C3%A0-g%C3%A9om%C3%A9trie-variable",
+          "image": "https://s.rfi.fr/media/display/b92287a8-76c6-11f1-931f-005056bfb2b6/w:1024/p:16x9/AP26174377766393.jpg"
+        },
+        {
+          "title": "Vienne : Mère condamnée",
+          "summary": "Une mère reçoit deux ans de prison avec sursis pour avoir cloîtré sa fille adolescente à Adriers.",
+          "url": "https://www.lanouvellerepublique.fr/poitiers/vienne-une-mere-condamnee-a-deux-ans-de-prison-avec-sursis-pour-avoir-cloitre-sa-fille-adolescente-a-adriers-1785178157",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a67a82c9e6f54084f8b4592"
+        },
+        {
+          "title": "Tour de France jugé 'chiant'",
+          "summary": "Le Tour est critiqué pour son manque de suspense, Pogacar n'ayant pas eu d'adversaire.",
+          "url": "https://www.eurosport.fr/cyclisme/tour-de-france/2026/un-tour-de-france-2026-chiant-on-a-vite-compris-que-tadej-pogacar-naurait-pas-dadversaire-et-pourtant_vid60090826/video.shtml",
+          "image": "https://i.eurosport.com/2026/07/27/image-2eaa9969-4d83-4de2-9ed7-bfc548028d90-68-310-310.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Wero adopté par Decathlon",
+          "summary": "Le service de paiement Wero franchit une étape clé grâce à son adoption par Decathlon.",
+          "url": "https://www.frandroid.com/marques/decathlon/3195675_wero-passe-un-cap-grace-a-decathlon-qui-adopte-le-service-de-paiement",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/07/decathlon-wero.jpg?resize=1600,900&key=968b9c3f"
+        },
+        {
+          "title": "La 'plus laide voiture' revient",
+          "summary": "Considérée par certains comme la voiture la plus laide du monde, elle est de retour en électrique.",
+          "url": "https://www.autoplus.fr/actualite/insolite/consideree-comme-la-plus-laide-voiture-du-monde-par-certains-elle-est-de-retour-en-electrique-1458066.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/captura-de-pantalla-2026-07-27-a-las-19.02.15.png"
+        },
+        {
+          "title": "Test BenQ : Couleurs professionnelles",
+          "summary": "Le moniteur 4K BenQ Creative Pro PD2732U excelle en reproduction des couleurs pour les créatifs.",
+          "url": "https://www.macg.co/tests/2026/07/test-du-benq-creative-pro-pd2732u-un-moniteur-4k-de-27-pouces-qui-mise-tout-sur-les-couleurs-309945",
+          "image": "https://cdn.mgig.fr/2026/07/mga-55b3f28e-w375-w1500-w750_accroche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Incendies clouent les montgolfières",
+          "summary": "Le risque d'incendie force les montgolfières de la Coupe d'Europe à rester au sol.",
+          "url": "https://www.charentelibre.fr/culture-et-loisirs/montgolfieres/le-risque-d-incendie-cloue-au-sol-les-montgolfieres-de-la-coupe-d-europe-30084602.php",
+          "image": "https://media.charentelibre.fr/30084602/1200x600/j-desbois-240803-048.jpg"
+        },
+        {
+          "title": "TGV : trafic interrompu au sud",
+          "summary": "Aucun TGV ne circulera au sud de Bordeaux, sauf pour Toulouse et Agen, à cause des incendies.",
+          "url": "https://www.bfmtv.com/economie/entreprises/transports/pas-de-trains-pour-arcachon-ou-hendaye-aucun-tgv-ne-circulera-mardi-au-sud-de-bordeaux-sauf-en-direction-de-toulouse-a-cause-des-incendies_AD-202607270545.html",
+          "image": "https://images.bfmtv.com/FCWAFGBFpnXfzjzi5w8wUseoyPo=/4x3:1252x705/800x0/images/-116500.jpg"
+        },
+        {
+          "title": "Bazas : succès des Nocturnes",
+          "summary": "La première édition des Nocturnes du Bazadais rencontre un franc succès populaire local.",
+          "url": "https://www.sudouest.fr/gironde/bazas/bazas-un-succes-populaire-pour-la-premiere-edition-des-nocturnes-du-bazadais-30073581.php",
+          "image": "https://media.sudouest.fr/30073581/1200x600/langonetsud-gironde-a8736cf276d74f1ab992d20015dca5ae-185738-ph1.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🏡",
+      "articles": [
+        {
+          "title": "Montparnasse : Vitres chutent",
+          "summary": "Des baies vitrées de la tour Montparnasse tombent dans la rue, heureusement sans blessés.",
+          "url": "https://www.sudouest.fr/ile-de-france/paris/des-baies-vitrees-tombent-de-la-tour-montparnasse-et-s-ecrasent-dans-la-rue-heureusement-sans-faire-de-blesse-30088014.php",
+          "image": null
+        },
+        {
+          "title": "Harcèlement moral : prison ferme",
+          "summary": "Un homme est condamné à six mois de prison ferme pour harcèlement moral sur sa conjointe.",
+          "url": "https://www.sudouest.fr/dordogne/il-a-verrouille-la-vie-de-sa-compagne-un-homme-condamne-a-six-mois-de-prison-ferme-pour-harcelement-moral-sur-sa-conjointe-30085131.php",
+          "image": null
+        },
+        {
+          "title": "Landes : escroc de vulnérables",
+          "summary": "Un homme est suspecté d'avoir escroqué 100 000 euros à des personnes vulnérables dans les Landes.",
+          "url": "https://www.sudouest.fr/landes/roquefort/landes-un-homme-suspecte-d-avoir-escroque-100-000-euros-a-des-personnes-vulnerables-30084385.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Amazon : 5000 satellites mobiles",
+          "summary": "Amazon prévoit d'envoyer 5 000 satellites supplémentaires pour connecter directement les smartphones.",
+          "url": "https://www.journaldugeek.com/2026/07/28/amazon-veut-envoyer-5-000-satellites-de-plus-pour-connecter-directement-les-smartphones/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/amazon-leo-1280x853.jpg"
+        },
+        {
+          "title": "Comic-Con 2026 : nos coups de cœur",
+          "summary": "Retour sur les moments forts et les annonces marquantes du Comic-Con 2026 à San Diego.",
+          "url": "https://www.journaldugeek.com/2026/07/28/comic-con-2026-nos-meilleurs-moments-a-san-diego/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/comic-con-journal-du-geek-1-1280x853.jpg"
+        },
+        {
+          "title": "Varta en péril sans Apple",
+          "summary": "Lâché par Apple, le fabricant de batteries Varta se retrouve au bord du gouffre financier.",
+          "url": "https://www.journaldugeek.com/2026/07/28/lache-par-apple-varta-est-au-bord-du-gouffre/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/varta-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wemby : Discours inspirant",
+          "summary": "Victor Wembanyama transmet un message fort sur l'excellence aux jeunes basketteurs prospects.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-la-seule-chose-dans-laquelle-tu-dois-exceller-le-discours-inspirant-de-wembanyama-a-des-jeunes-prospects_AV-202607270367.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_6t2pjkEAx12FOi9SGYneRph2rU=/0x61:2048x1213/800x0/images/Spurs-Knicks-match-2-Victor-Wembanyama-05-06-2026-2298854.jpg"
+        },
+        {
+          "title": "Oleksandra Paskal : Leçon de résilience",
+          "summary": "La gymnaste ukrainienne de 10 ans Oleksandra Paskal émeut par sa leçon de résilience en Coupe du monde.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
+        },
+        {
+          "title": "Popov : Finale historique en badminton",
+          "summary": "Toma Junior Popov devient le premier Français à atteindre la finale d'un majeur en simple badminton.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/badminton-premier-francais-a-atteindre-la-finale-simple-d-un-majeur-toma-junior-popov-finalement-battu-a-l-open-de-chine_AN-202607260178.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/q2N9KlTCPm9LXmKJ6jfsRvrgMoo=/0x50:1200x725/800x0/images/Le-Francais-Toma-Junior-Popov-lors-de-la-finale-du-simple-hommes-contre-le-Taiwanais-Chou-Tien-chen-a-l-Open-de-Chine-de-badminton-le-26-juillet-2026-2325432.jpg"
+        }
+      ]
+    }
+  ]
+}
