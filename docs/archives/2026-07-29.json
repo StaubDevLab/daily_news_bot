@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Marthe",
-  "global_summary": "Les tensions géopolitiques s'intensifient avec le conflit au Moyen-Orient, tandis que la FIFA est secouée par une polémique impliquant des proches de Donald Trump. Le monde économique n'est pas en reste, avec Apple atteignant un jalon historique de capitalisation boursière et Engie s'engageant massivement pour la reforestation, soulignant des enjeux cruciaux pour notre planète.\nSur le plan national, la France est traversée par des drames humains, comme le décès tragique d'un enfant, et une canicule persistante qui met les organismes à rude épreuve. Le sport, lui, oscille entre les discours inspirants de figures comme Wembanyama et les controverses judiciaires, reflétant la complexité de notre société. Partout, la résilience et la solidarité, notamment face aux incendies, émergent comme des phares d'espoir.",
-  "running_advice": "Salut les athlètes ! La journée est un défi, mais un défi qu'on va relever ensemble. Avec des températures maximales qui grimpent jusqu'à 41.7°C et un indice UV élevé à 7.35, courir en plein milieu de la journée serait une erreur. Pour une session optimale et sans risque, visez le lever du soleil à 06:44 ou le coucher à partir de 21:00. Pensez à l'hydratation maximale : buvez avant, pendant et après ! Et n'oubliez surtout pas la protection solaire (crème, casquette, lunettes), votre peau vous remerciera. Allez, on reste intelligents et on dépasse nos limites !",
-  "weather_string": "☀️ Ciel dégagé (18.3°C / 41.7°C)",
+  "global_summary": "Le monde est en ébullition, avec des tensions géopolitiques persistantes au Moyen-Orient et des révélations sur la gouvernance de la FIFA qui font grand bruit. Sur le plan économique, la capitalisation boursière d'Apple franchit un nouveau cap impressionnant, tandis que les éleveurs français expriment leur inquiétude face à la baisse des prix. Ces actualités rappellent la complexité des défis mondiaux et nationaux, oscillant entre conflits, réussites économiques et préoccupations sectorielles.\n\nEn France, l'actualité est marquée par des faits divers tragiques, des questions de société sur notre fascination pour le crime, et la lutte contre les incendies qui continue de mobiliser les efforts, notamment en Gironde où la solidarité s'organise. Le secteur de la tech n'est pas en reste, avec l'IA qui gagne en intelligence mais pas encore en sécurité, et des innovations insolites comme une Tesla transformée en jury de The Voice. Le sport nous offre des récits de résilience inspirants, mais aussi des revers et des polémiques, soulignant la diversité de ses facettes.",
+  "running_advice": "Alerte coach sportif ! Aujourd'hui, Sainte Marthe nous offre un ciel dégagé, mais l'été bat son plein avec une maximale à 40.5°C et un indice UV élevé de 7.35. OUI, c'est une excellente journée pour bouger, mais la prudence est de mise ! Pour éviter le coup de chaud et profiter au maximum, visez l'aube. Le lever du soleil à 06:44 est votre créneau idéal : l'air sera encore frais et l'intensité du soleil moindre. Hydratez-vous abondamment avant, pendant et après votre session. Et surtout, n'oubliez pas votre crème solaire et une casquette pour protéger votre peau des rayons UV ! Écoutez votre corps et foncez vers vos objectifs !",
+  "weather_string": "☀️ Ciel dégagé (18.2°C / 40.5°C)",
   "weather_stats": {
-    "temp": "41.7°C",
+    "temp": "40.5°C",
     "rain": "0%",
     "uv": "7.35"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Guerre au Moyen-Orient : US intercepte 18 navires",
-          "summary": "L'armée américaine affirme avoir dérouté 18 navires commerciaux, intensifiant la pression sur le blocus contre l'Iran.",
+          "title": "Blocus Iran: 18 navires américains déroutés",
+          "summary": "L'armée américaine affirme avoir dérouté 18 navires commerciaux depuis le début du blocus contre l'Iran au Moyen-Orient.",
           "url": "https://www.lemonde.fr/international/live/2026/07/28/en-direct-guerre-au-moyen-orient-l-armee-americaine-affirme-avoir-deroute-18-navires-commerciaux-depuis-le-debut-du-blocus-contre-l-iran_6725301_3210.html",
           "image": "https://img.lemde.fr/2026/07/26/543/0/5500/2750/644/322/60/0/85a747f_ftp-1-ylt2nsqy52jr-2026-07-26t105117z-616005859-rc2llmajv7kv-rtrmadp-3-iran-crisis-oman-hormuz.JPG"
         },
         {
-          "title": "L'Iran accusé de terrorisme par Israël à l'ONU",
-          "summary": "L'ambassadeur israélien à l'ONU déclare que l'Iran choisit le terrorisme plutôt que la négociation.",
+          "title": "Iran: L'ambassadeur israélien dénonce le terrorisme",
+          "summary": "L'ambassadeur israélien à l'ONU déclare que l'Iran préfère le terrorisme à la négociation, intensifiant les tensions régionales.",
           "url": "https://www.bfmtv.com/international/moyen-orient/palestine/video-l-iran-choisit-le-terrorisme-au-lieu-de-la-negociation-declare-l-ambassadeur-israelien-a-l-onu_VN-202607280518.html",
           "image": "https://images.bfmtv.com/wGpLzm99oqmn2gt3XRkaHAneDvU=/0x0:1280x720/800x0/images/L-Iran-choisit-le-terrorisme-au-lieu-de-la-negociation-declare-l-ambassadeur-israelien-a-l-ONU-2326365.jpg"
         },
         {
-          "title": "FIFA : Infantino prêt à céder des parts à proches de Trump",
-          "summary": "Gianni Infantino est sous le feu des critiques pour une possible cession de parts de la FIFA, soulevant des questions éthiques.",
+          "title": "FIFA: Infantino prêt à céder des parts à proches de Trump",
+          "summary": "Gianni Infantino, président de la FIFA, envisagerait de céder des parts de l'organisation pour des milliards d'euros.",
           "url": "https://www.ladepeche.fr/2026/07/28/il-franchit-une-limite-gianni-infantino-serait-pret-a-ceder-des-parts-de-la-fifa-pour-plusieurs-milliards-deuros-a-des-proches-de-donald-trump-13487502.php",
           "image": "https://images.ladepeche.fr/api/v1/images/view/6a68d5143346088f6002648e/standard/image.jpg?v=1"
         }
@@ -38,134 +38,139 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Mystère des crimes : pourquoi cette fascination ?",
-          "summary": "Une analyse se penche sur la passion du public pour les affaires criminelles et leurs ressorts psychologiques profonds.",
+          "title": "Affaires criminelles : pourquoi cette fascination ?",
+          "summary": "Une analyse explore notre fascination collective pour les affaires criminelles, entre énigme et nature humaine.",
           "url": "https://www.midilibre.fr/2026/07/28/pour-comprendre-la-nature-humaine-ou-resoudre-une-enigme-mais-pourquoi-les-affaires-criminelles-nous-passionnent-elles-autant-13477982.php",
           "image": "https://images.midilibre.fr/api/v1/images/view/6a68c148260a5d47530ff445/standard/image.jpg?v=1"
         },
         {
-          "title": "Mulhouse : un enfant de 5 ans décède d'une chute",
-          "summary": "Un drame terrible à Mulhouse où un enfant de cinq ans a perdu la vie après une chute du 5e étage.",
+          "title": "Mulhouse : un enfant de cinq ans décède",
+          "summary": "Un tragique accident à Mulhouse voit un enfant de cinq ans perdre la vie après une chute du 5e étage.",
           "url": "https://www.lalsace.fr/faits-divers-justice/2026/07/28/un-garconnet-de-5-ans-decede-apres-une-chute-du-5-sup-e-sup-etage",
           "image": "https://cdn-s-www.lalsace.fr/images/4F0907C3-7786-42BE-AC83-83FA6BCACAEC/MF_contenu/un-enfant-de-cinq-ans-decede-apres-une-chute-du-5e-etage-1785264599.jpg"
         },
         {
-          "title": "Canicule : une seule région française épargnée",
-          "summary": "La France fait face à une quatrième canicule, seule une région réchappera à la chaleur étouffante.",
+          "title": "15 recettes de sandwichs faits maison",
+          "summary": "Découvrez 15 recettes gourmandes pour réaliser des sandwichs entièrement faits maison, parfaits pour l'été.",
+          "url": "https://fr.qz.com/des-sandwiches-qui-valent-la-peine-dtre-faits-maison",
+          "image": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/meatball%20sub%20marinara%20melted%20cheese.png"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Sécurité de l'IA: la stagnation des LLM inquiète",
+          "summary": "Les LLM progressent en intelligence mais leur sécurité stagne, selon le rapport 2026 de Veracode, un défi majeur.",
+          "url": "http://www.businesswire.com/news/home/20260728890608/fr/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
+          "image": "https://mms.businesswire.com/media/20260728890608/fr/2860851/21/Model_Comparison_2026.jpg"
+        },
+        {
+          "title": "Votre Tesla devient un jury The Voice",
+          "summary": "Tesla intègre une nouvelle fonctionnalité amusante transformant votre voiture en jury pour juger vos performances vocales.",
+          "url": "https://www.autoplus.fr/actualite/insolite/votre-tesla-devient-un-veritable-jury-de-the-voice-desormais-1458291.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/captura-de-pantalla-2026-07-28-a-las-20.18.06.png"
+        },
+        {
+          "title": "Canicule: une seule région française épargnée",
+          "summary": "Alors que la quatrième canicule s'annonce, une seule région en France ne devrait pas subir la chaleur extrême.",
           "url": "https://www.lesnumeriques.com/societe-numerique/qui-sera-epargne-par-la-quatrieme-canicule-une-seule-region-n-etouffera-pas-sous-la-chaleur-n259825.html",
           "image": "https://cdn.lesnumeriques.com/optim/news/25/259825/3da4ce64-qui-sera-epargne-par-la-quatrieme-canicule-une-seule-region-n-etouffera-pas-sous-la-chaleur__800_800__638-0-3905-3267.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
-      "emoji": "💻",
+      "label": "Économie",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Sécurité LLM : l'IA stagne face aux menaces",
-          "summary": "Le rapport 2026 de Veracode révèle une sécurité stagnante à 56% pour le code généré par l'IA générative.",
-          "url": "http://www.businesswire.com/news/home/20260728890608/fr/?feedref=JjAwJuNHiystnCoBq_hl-Q-tiwWZwkcswR1UZtV7eGe24xL9TZOyQUMS3J72mJlQ7fxFuNFTHSunhvli30RlBNXya2izy9YOgHlBiZQk2LOzmn6JePCpHPCiYGaEx4DL1Rq8pNwkf3AarimpDzQGuQ%3D%3D",
-          "image": "https://mms.businesswire.com/media/20260728890608/fr/2860851/21/Model_Comparison_2026.jpg"
-        },
-        {
-          "title": "Votre Tesla se transforme en jury 'The Voice'",
-          "summary": "Une nouvelle fonctionnalité insolite permet à votre Tesla d'évaluer vos performances vocales, comme un jury de télé-crochet.",
-          "url": "https://www.autoplus.fr/actualite/insolite/votre-tesla-devient-un-veritable-jury-de-the-voice-desormais-1458291.html",
-          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/captura-de-pantalla-2026-07-28-a-las-20.18.06.png"
-        },
-        {
-          "title": "Wifi d'hôtel piégés : protégez vos données !",
-          "summary": "Des réseaux Wi-Fi d'hôtels compromis volent les données des utilisateurs, mais des solutions simples existent pour se protéger.",
-          "url": "https://www.journaldugeek.com/2026/07/29/les-victimes-partagent-leurs-donnees-sans-sen-rendre-compte-des-wifi-dhotel-pieges-font-des-ravages-mais-une-solution-existe/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/07/wifi_1920x1280-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Économie & Entreprises",
-      "emoji": "💰",
-      "articles": [
-        {
-          "title": "Engie : 25M€ pour reboiser les forêts sinistrées",
-          "summary": "Engie s'engage avec 25 millions d'euros pour la régénération des forêts françaises après les incendies dévastateurs.",
-          "url": "https://www.bfmtv.com/economie/entreprises/chaque-hectare-a-reboiser-coute-entre-5-000-et-10-000-euros-engie-va-donner-25-million-d-euros-pour-la-regeneration-des-forets-apres-les-incendies_AD-202607280527.html",
+          "title": "Engie investit 25M€ pour reboiser les forêts",
+          "summary": "Engie s'engage avec 25 millions d'euros pour la régénération des forêts françaises dévastées par les incendies.",
+          "url": "https://www.bfmtv.com/economie/entreprises/chaque-hectare-a-reboiser-coute-entre-5-000-et-10-000-euros-engie-va-donner-25-millions-d-euros-pour-la-regeneration-des-forets-apres-les-incendies_AD-202607280527.html",
           "image": "https://images.bfmtv.com/iTubh0C6QtwaqVq-qwwKj9L7fu8=/4x3:1252x705/800x0/images/-457966.jpg"
         },
         {
           "title": "Apple dépasse les 5 000 milliards de dollars",
-          "summary": "L'action Apple franchit un nouveau cap historique, atteignant brièvement les 5 000 milliards de dollars de capitalisation.",
+          "summary": "L'action Apple franchit brièvement le cap des 5 000 milliards de dollars, confirmant sa puissance financière.",
           "url": "https://fr.qz.com/laction-apple-dpasse-brivement-les-5-milliards-de-capitalisation-boursire-devenant-seulement-la-deuxime-entreprise--atteindre-ce-plafond",
           "image": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2223867436.jpg"
         },
         {
-          "title": "Bresse : éleveurs inquiets face à la baisse des prix",
-          "summary": "Face à la chute des prix des bovins, les éleveurs bressans expriment leur découragement et leur profonde inquiétude.",
+          "title": "Baisse du prix des bovins: éleveurs inquiets",
+          "summary": "Des éleveurs bressans expriment leur découragement face à la baisse continue du prix des bovins, menaçant leurs revenus.",
           "url": "https://www.lejsl.com/economie/2026/07/28/je-suis-decourage-face-a-la-baisse-du-prix-des-bovins-ces-eleveurs-bressans-partagent-leurs-inquietudes",
           "image": "https://cdn-s-www.lejsl.com/images/B0789463-9097-4CC6-A809-A7E5F178C2A0/NW_listB/je-suis-decourage-face-a-la-baisse-du-prix-des-bovins-ces-eleveurs-bressans-inquiets-1785268746.jpg"
         }
       ]
     },
     {
-      "label": "Actualité Sud-Ouest",
+      "label": "Actualités Locales (Gironde)",
       "emoji": "📍",
       "articles": [
         {
-          "title": "Incendies Landes : élan de solidarité exceptionnel",
-          "summary": "Un point de collecte de Basket Landes reçoit un soutien massif pour les sinistrés et pompiers des feux.",
+          "title": "Sécurité routière: hausse des accidents mortels",
+          "summary": "Les accidents mortels sur les autoroutes françaises ont augmenté en 2025, avec 162 vies perdues.",
+          "url": "https://www.sudouest.fr/societe/securite-routiere/securite-routiere-les-accidents-mortels-sur-les-autoroutes-francaises-en-hausse-en-2025-162-personnes-ont-ete-tuees-30100459.php"
+        },
+        {
+          "title": "Incendie: Élan de solidarité en Landes",
+          "summary": "Un élan de solidarité exceptionnel se manifeste en Landes pour les sinistrés et pompiers suite aux incendies.",
           "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-la-fraternite-existe-encore-un-elan-de-solidarite-exceptionnel-au-point-de-collecte-de-basket-landes-pour-les-sinistres-et-les-pompiers-30094751.php"
         },
         {
-          "title": "Landes : l'UMIH 40 appelle les vacanciers",
-          "summary": "L'Union des Métiers et des Industries Hôtelières des Landes appelle à sauver la saison touristique post-incendies.",
+          "title": "Landes: appel aux vacanciers après incendie",
+          "summary": "L'Umih 40 exhorte les vacanciers à revenir pour sauver la saison touristique des Landes après les incendies.",
           "url": "https://www.sudouest.fr/landes/biscarrosse/incendie-dans-les-landes-toutes-les-landes-n-ont-pas-brule-on-a-besoin-de-vous-l-umih-40-lance-un-appel-aux-vacanciers-pour-sauver-la-saison-touristique-30096838.php"
         }
       ]
     },
     {
-      "label": "Culture Geek & Gaming",
+      "label": "Culture Geek",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Panne Xbox : les joueurs privés de leurs jeux",
-          "summary": "Une panne de licence \"inacceptable\" prive des joueurs Xbox de l'accès à leurs propres jeux.",
+          "title": "Panne Xbox: les joueurs privés de jeux",
+          "summary": "Une panne de licence inacceptable empêche des joueurs Xbox d'accéder à leurs propres jeux.",
           "url": "https://www.journaldugeek.com/2026/07/29/inacceptable-une-panne-de-licence-prive-des-joueurs-xbox-de-leurs-propres-jeux/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/06/Xbox-vendre-1280x853.jpg"
         },
         {
-          "title": "Jumanji 4 : une bande-annonce promet du changement",
-          "summary": "La bande-annonce de Jumanji 4 dévoile des innovations majeures en seulement cinq minutes.",
+          "title": "Jumanji 4: une bande-annonce surprenante",
+          "summary": "La bande-annonce de Jumanji 4 promet des changements majeurs, mais seulement pour cinq petites minutes.",
           "url": "https://www.journaldugeek.com/2026/07/29/jumanji-4-une-bande-annonce-qui-promet-du-changement-seulement-cinq-minutes/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/jumanji-4-bande-annonce--1280x853.jpg"
         },
         {
-          "title": "Wifi d'hôtel piégés : protégez vos données !",
-          "summary": "Des réseaux Wi-Fi d'hôtels compromis volent les données des utilisateurs, mais des solutions simples existent pour se protéger.",
+          "title": "Wifi d'hôtel piégés: attention aux données",
+          "summary": "Des hotspots Wi-Fi d'hôtel compromettent les données des utilisateurs, mais des solutions de protection existent.",
           "url": "https://www.journaldugeek.com/2026/07/29/les-victimes-partagent-leurs-donnees-sans-sen-rendre-compte-des-wifi-dhotel-pieges-font-des-ravages-mais-une-solution-existe/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/wifi_1920x1280-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Sport & Performance",
-      "emoji": "🏅",
+      "label": "Sport",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "LeBron James à Philly, vivra-t-il à New York ?",
-          "summary": "LeBron James, nouvelle recrue des 76ers, pourrait faire la navette en hélicoptère depuis New York pour l'entraînement.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/des-allers-retours-a-l-entrainement-en-helicoptere-le-bron-james-nouveau-joueur-de-philadelphie-pourrait-vivre-a-new-york_AV-202607270577.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/4nEXsbwV3tLA5Sc0ASdk4VIWnkI=/0x191:2048x1343/800x0/images/LeBron-James-lors-d-un-match-de-pre-saison-entre-les-Lakers-et-les-Suns-le-03-10-2025-2152113.jpg"
+          "title": "Leçon de résilience: la gymnaste ukrainienne",
+          "summary": "Oleksandra Paskal, gymnaste ukrainienne de 10 ans, offre une leçon de résilience à la finale de Coupe du monde.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
         },
         {
-          "title": "Wembanyama : son discours inspirant aux jeunes prospects",
-          "summary": "Victor Wembanyama a délivré un message puissant aux jeunes basketteurs sur l'importance de l'excellence.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-la-seule-chose-dans-laquelle-tu-dois-exceller-le-discours-inspirant-de-wembanyama-a-des-jeunes-prospects_AV-202607270367.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_6t2pjkEAx12FOi9SGYneRph2rU=/0x61:2048x1213/800x0/images/Spurs-Knicks-match-2-Victor-Wembanyama-05-06-2026-2298854.jpg"
-        },
-        {
-          "title": "Athlétisme : un ancien champion visé par des plaintes",
-          "summary": "Déjà condamné 17 fois, un ex-champion de France du 400m fait face à de nouvelles plaintes pour extorsion et violences.",
+          "title": "Athlétisme: un ex-champion face à de nouvelles plaintes",
+          "summary": "Un ancien champion de France du 400m, déjà condamné 17 fois, est visé par deux nouvelles plaintes sérieuses.",
           "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-deja-condamne-17-fois-un-ancien-champion-de-france-du-400m-vise-par-deux-nouvelles-plaintes-pour-des-faits-d-extorsion-d-abus-de-faiblesse-et-de-violences_AV-202607270415.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/eXkTyOpfn2KjH-neVjDFBwmwBHw=/0x0:2048x1152/800x0/images/Toumany-Coulibaly-en-2015-2325846.jpg"
+        },
+        {
+          "title": "Wembanyama inspire les jeunes prospects NBA",
+          "summary": "Victor Wembanyama délivre un discours puissant et inspirant aux jeunes prospects NBA sur l'excellence.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-la-seule-chose-dans-laquelle-tu-dois-exceller-le-discours-inspirant-de-wembanyama-a-des-jeunes-prospects_AV-202607270367.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_6t2pjkEAx12FOi9SGYneRph2rU=/0x61:2048x1213/800x0/images/Spurs-Knicks-match-2-Victor-Wembanyama-05-06-2026-2298854.jpg"
         }
       ]
     }
