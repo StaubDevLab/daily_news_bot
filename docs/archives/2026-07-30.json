@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Juliette",
-  "global_summary": "L'actualité est marquée par une recrudescence inquiétante des incendies en France, notamment dans le Var et la Gironde, exigeant une vigilance accrue. Sur le front économique, Renault affiche un retour dans le vert, tandis que la compétition s'intensifie pour le rachat de TAP Air Portugal, signalant des mouvements majeurs dans l'aviation. \nÀ l'international, une affaire d'espionnage impliquant un ex-pilote français pour la Chine secoue les esprits. Côté sport, des histoires de résilience et des performances inspirantes côtoient les grands transferts, tandis que le monde de la technologie voit de nouvelles avancées automobiles et des tensions numériques.",
-  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets, mais avec stratégie ! Les températures estivales monteront jusqu'à 31.6°C. L'idéal est de viser la fraîcheur matinale juste après le lever du soleil vers 06h45, ou de profiter du crépuscule en fin de journée, après 19h00. Avec un indice UV de 7.3, la protection est non négociable : crème solaire, casquette et lunettes de soleil sont vos meilleurs alliés. Hydratez-vous à fond ! Allez, on bouge !",
-  "weather_string": "🌤️ Peu nuageux (19.8°C / 31.6°C)",
+  "global_summary": "Cette journée est marquée par un contraste saisissant entre les défis et les avancées. En France, les feux continuent de ravager certaines régions comme le Var et la Gironde, rappelant la fragilité de notre environnement estival. Sur la scène internationale, une affaire d'espionnage impliquant un ex-pilote français met en lumière les tensions géopolitiques, tandis que l'économie montre des signes de dynamisme, avec Renault repassant dans le vert et des batailles pour l'acquisition dans le secteur aérien. \n\nParallèlement, le monde de la technologie automobile se tourne vers l'électrique avec le nouveau Mercedes GLA, et le sport nous offre des récits d'inspiration et de performances exceptionnelles. Entre les discours motivants de Victor Wembanyama et l'incroyable résilience de la gymnaste ukrainienne Oleksandra Paskal, ces histoires nous rappellent la capacité humaine à se dépasser face à l'adversité, invitant chacun à puiser dans sa force intérieure.",
+  "running_advice": "Absolument ! C'est une excellente journée pour chausser vos baskets et vous dépasser, Sainte Juliette sera votre muse ! Avec un ciel peu nuageux, les conditions sont parfaites pour une session revigorante. L'heure idéale pour éviter la chaleur montante et un indice UV élevé (7.3) serait très tôt le matin, juste après le lever du soleil vers 06h45, ou en fin de journée, avant le coucher du soleil à 21h32. N'oubliez pas votre protection solaire, un chapeau ou une casquette, et hydratez-vous abondamment. Chaque pas compte, faites de cette journée un nouveau record personnel !",
+  "weather_string": "🌤️ Peu nuageux (19.8°C / 31.9°C)",
   "weather_stats": {
-    "temp": "31.6°C",
+    "temp": "31.9°C",
     "rain": "23%",
     "uv": "7.3"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Ex-pilote français accusé d'espionnage pour la Chine",
-          "summary": "Un YouTubeur et ancien pilote de chasse français est mis en examen pour avoir partagé des informations avec la Chine.",
-          "url": "https://www.20minutes.fr/monde/chine/4236939-20260729-espionnage-youtubeur-ex-pilote-chasse-francais-mis-examen-intelligence-chine",
-          "image": "https://img.20mn.fr/AjSraSqITWuvmh11uJpyaSk/1200x768_repetition-du-defile-aerien-du-14-juillet-2026-lors-du-survol-des-champs-elysees-a-paris-france-09-07-2026-paris-france-9-juillet-2026-des-avions-de-l-armee-de-l-air-et-de-l-espace-francaises-participent-a-la-repetition-finale-du-defile-aerien-du-14-juillet-alors-qu-ils-survolent-les-champs-elysees-dans-le-centre-de-paris-le-9-juillet-2026-la-repetition-reunit-pres-de-100-avions-et-une-trentaine-d-helicopteres-afin-de-peaufiner-le-calendrier-et-la-formation-avant-le-defile-militaire-officiel-de-la-fete-nationale-du-14-juillet-defile-aerien-14-juillet-fete-nationale-armee-de-l-air-et-de-l-espace-patrouille-de-france-champs-elysees-paris-france-aviation-militaire-repetition-survol-aeronefs-helicopteres-ceremonie-defense-evenement-juillet-2026-1-https-www-leparisien-fr-paris-75-defile-du-14-juillet-des-dizaines-daeronefs-survoleront-paris-jeudi-pour-la-derniere-repetition-de-larmee-de-lair-08-07-2026-7umrhfevczblpcsx43eh6x6o2q-php-utm-source-chatgpt-com-defile-du-14-juillet-des-dizaines-d-avions-survolent-paris-jeudi-pour-2-https-www-defense-gouv-fr-evenements-programme-du-14-juillet-2026-utm-source-chatgpt-com-programme-du-14-juillet-2026-ministere-des-armees-leveque-patrick-sipa-12620-credit-patrick-leveque-sipa-2607101102"
-        },
-        {
-          "title": "Évasion rafraîchissante en Slovénie aux grottes de Postojna",
-          "summary": "Découvrez la splendeur des grottes de Postojna en Slovénie, une destination idéale pour échapper à la chaleur estivale.",
+          "title": "Grottes de Postojna : Beauté Slovène Rafraîchissante",
+          "summary": "Explorez la fraîcheur spectaculaire des grottes de Postojna en Slovénie, une merveille naturelle à découvrir.",
           "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/slovenie-la-beaute-rafraichissante-des-grottes-de-postojna_8127587.html",
           "image": "https://www.franceinfo.fr/pictures/HfYp6CCmHNBsy_xSABc5mI3hQ3g/157x0:1574x797/432x243/filters:format(jpg):quality(50)/2026/07/29/6a6a47bb5ed03840797364.png"
         },
         {
-          "title": "Le Havre, un port clé pour le conteneur maritime",
-          "summary": "Le port du Havre se positionne comme un acteur majeur du transport de conteneurs, renforçant son rôle stratégique.",
+          "title": "Espionnage : Un Youtubeur Français Mis en Examen",
+          "summary": "Un ex-pilote de chasse devenu YouTubeur est mis en examen pour intelligence avec la Chine, soulevant des questions de sécurité.",
+          "url": "https://www.20minutes.fr/monde/chine/4236939-20260729-espionnage-youtubeur-ex-pilote-chasse-francais-mis-examen-intelligence-chine",
+          "image": "https://img.20mn.fr/AjSraSqITWuvmh11uJpyaSk/1200x768_repetition-du-defile-aerien-du-14-juillet-2026-lors-du-survol-des-champs-elysees-a-paris-france-09-07-2026-paris-france-9-juillet-2026-des-avions-de-l-armee-de-l-air-et-de-l-espace-francaises-participent-a-la-repetition-finale-du-defile-aerien-du-14-juillet-alors-qu-ils-survolent-les-champs-elysees-dans-le-centre-de-paris-le-9-juillet-2026-la-repetition-reunit-pres-de-100-avions-et-une-trentaine-d-helicopteres-afin-de-peaufiner-le-calendrier-et-la-formation-avant-le-defile-militaire-officiel-de-la-fete-nationale-du-14-juillet-defile-aerien-14-juillet-fete-nationale-armee-de-l-air-et-de-l-espace-patrouille-de-france-champs-elysees-paris-france-aviation-militaire-repetition-survol-aeronefs-helicopteres-ceremonie-defense-evenement-juillet-2026-1-https-www-leparisien-fr-paris-75-defile-du-14-juillet-des-dizaines-daeronefs-survoleront-paris-jeudi-pour-la-derniere-repetition-de-larmee-de-lair-08-07-2026-7umrhfevczblpcsx43eh6x6o2q-php-utm-source-chatgpt-com-defile-du-14-juillet-des-dizaines-d-avions-survolent-paris-jeudi-pour-2-https-www-defense-gouv-fr-evenements-programme-du-14-juillet-2026-utm-source-chatgpt-com-programme-du-14-juillet-2026-ministere-des-armees-leveque-patrick-sipa-12620-credit-patrick-leveque-sipa-2607101102"
+        },
+        {
+          "title": "Le Havre, un Port Pilier du Conteneur",
+          "summary": "Le port du Havre se positionne comme un acteur majeur du fret maritime, misant sur le transport par conteneurs.",
           "url": "https://www.lenouveleconomiste.fr/le-havre-le-port-qui-joue-la-carte-du-conteneur-137658/",
           "image": "https://www.lenouveleconomiste.fr/wp-content/uploads/2026/07/1111-826x459.jpg"
         }
@@ -38,20 +38,20 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Incendies : le Var évacue, la Gironde sous surveillance",
-          "summary": "De nouveaux incendies ravagent le Var, provoquant des évacuations, tandis que des reprises de feu sont signalées en Gironde.",
+          "title": "Incendies : Évacuations dans le Var et la Gironde",
+          "summary": "De nombreux habitants évacués suite à des incendies dévastateurs dans le Var et des reprises de feu en Gironde.",
           "url": "https://www.lemonde.fr/planete/live/2026/07/29/en-direct-incendies-plusieurs-quartiers-evacues-a-brignoles-dans-le-var-en-raison-d-un-incendie-des-reprises-de-feu-observees-en-gironde_6730417_3244.html",
           "image": "https://img.lemde.fr/2026/07/29/1584/0/9504/4752/644/322/60/0/8857bcb_upload-1-7ijbeztsg5ri-23-hlequeux-feux-gironde-dsc8627.jpg"
         },
         {
-          "title": "Renault : chiffres d'affaires en hausse et retour aux bénéfices",
-          "summary": "Le groupe Renault annonce une solide augmentation de près de 10% de son chiffre d'affaires, repassant dans le vert.",
+          "title": "Renault : Retour dans le Vert et Croissance",
+          "summary": "Le constructeur automobile Renault annonce une augmentation de près de 10% de son chiffre d'affaires, repassant dans le positif.",
           "url": "https://www.lefigaro.fr/societes/renault-augmente-son-chiffre-d-affaires-de-pres-de-10-et-repasse-dans-le-vert-20260729",
           "image": "https://i.f1g.fr/media/cms/orig/2026/07/29/7afab378dd1d21bb49a34c75feafa257a4a28d608f22a6570b5f644544d208d1.jpg"
         },
         {
-          "title": "Maine-et-Loire : rixe violente, un homme entre la vie et la mort",
-          "summary": "Un homme de 36 ans est gravement blessé après une rixe survenue à Segré, son pronostic vital étant engagé.",
+          "title": "Rixe Mortelle en Maine-et-Loire",
+          "summary": "Un homme de 36 ans entre la vie et la mort après une violente rixe à Segré, en Maine-et-Loire.",
           "url": "https://actu.fr/https:/actu.fr/pays-de-la-loire/segre-en-anjou-bleu_49331/maine-et-loire-un-homme-de-36-ans-entre-la-vie-et-la-mort-apres-une-rixe-a-segre_64604631.html",
           "image": "https://static.actu.fr/uploads/2026/07/fe4cc211c96a6235cc211c96a185ccv-1024x557.jpg"
         }
@@ -62,84 +62,62 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Le nouveau Mercedes GLA, hybride et électrique, fait sa révolution",
-          "summary": "Le Mercedes GLA revient avec des motorisations hybrides et électriques, offrant jusqu'à 650 km d'autonomie et une architecture 800V.",
-          "url": "https://www.turbo.fr/mercedes/gla/photos/photos-nouveau-mercedes-gla-hybride-et-electrique-plus-de-650-km-dautonomie-800-volts-il-change-plus-quil-ny-parait",
-          "image": "https://www.turbo.fr/sites/default/files/slideshow/slides/2026-07/6a69eca32fd01.jpg"
-        },
-        {
-          "title": "Volvo rembourse ses clients pour une fonctionnalité manquante",
-          "summary": "Volvo doit indemniser des acheteurs suite à l'absence d'une fonctionnalité initialement promise sur leurs véhicules.",
+          "title": "Volvo va Rembourser des Clients : Fonctionnalité Manquante",
+          "summary": "Volvo contraint de rembourser des clients pour une fonctionnalité automobile promise mais finalement retirée.",
           "url": "https://www.autojournal.fr/actu/volvo-va-devoir-rembourser-des-clients-pour-une-fonctionnalite-qui-ne-sera-finalement-plus-presente-sur-leur-vehicule-420518.html",
           "image": "https://sf2.autojournal.fr/wp-content/uploads/autojournal/2025/03/es90_3qfront_static.jpg"
         },
         {
-          "title": "Mandat d'arrêt russe contre Pavel Durov, patron de Telegram",
-          "summary": "La Russie a émis un mandat d'arrêt international contre Pavel Durov, le fondateur et PDG de la messagerie Telegram.",
-          "url": "https://www.journaldugeek.com/2026/07/30/la-russie-lance-un-mandat-darret-contre-pavel-durov-patron-de-telegram/",
-          "image": "https://www.journaldugeek.com/app/uploads/2025/05/telegram-1280x853.jpg"
+          "title": "Nouveau Mercedes GLA : Hybride, Électrique et Innovant",
+          "summary": "Le nouveau Mercedes GLA arrive, plus innovant que jamais avec des options hybrides et électriques.",
+          "url": "https://www.turbo.fr/mercedes/gla/photos/photos-nouveau-mercedes-gla-hybride-et-electrique-plus-de-650-km-dautonomie-800-volts-il-change-plus-quil-ny-parait",
+          "image": "https://www.turbo.fr/sites/default/files/slideshow/slides/2026-07/6a69eca32fd01.jpg"
         }
       ]
     },
     {
       "label": "Business",
-      "emoji": "📈",
+      "emoji": "💼",
       "articles": [
         {
-          "title": "TAP Air Portugal : Air France-KLM et Lufthansa en lice",
-          "summary": "Air France-KLM et Lufthansa ont officiellement soumis leurs offres pour l'acquisition de la compagnie aérienne TAP Air Portugal.",
+          "title": "Air France-KLM et Lufthansa Convoitent TAP Portugal",
+          "summary": "Les géants de l'aviation Air France-KLM et Lufthansa déposent une offre pour acquérir TAP Air Portugal.",
           "url": "https://www.20minutes.fr/economie/4236943-20260729-aviation-air-france-klm-lufthansa-depose-offre-achat-tap-air-portugal",
           "image": "https://img.20mn.fr/Q2yO-YAFRX2aoJqWaqmKQik/1200x768_airbus-a320-d-air-france-f-gkxi-avions-a-l-aeroport-international-leonardo-da-vinci-de-fiumicino-fiumicino-italie-1er-mai-2026-photo-de-massimo-insabato-mondadori-portfolio-sipa-usa-9-11979195-2605121522"
         },
         {
-          "title": "Eramet fragilisé : un consortium américano-émirati convoite le groupe",
-          "summary": "Affaibli par ses pertes, le groupe minier Eramet est la cible d'un consortium américano-émirati, la famille Duval hésitant sur l'offre.",
-          "url": "https://www.latribune.fr/article/entreprises-finance/industrie/1472860275641514/fragilise-par-des-pertes-eramet-cible-par-un-consortium-americano-emirati-la-famille-duval-hesite",
-          "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1200,quality=80/media/melody/2026/04/08/christel-bories-chief-executive-officer-of-eramet-casts-her-shadow-on-a-wall-with-eramet-logos-as-sh-1775631776_835f43dcf5d96975f43dcf5d96b5f4v_.jpg"
-        },
-        {
-          "title": "Vendanges anticipées et incertaines pour l'AOC Ventoux",
-          "summary": "Les vignobles de l'AOC Ventoux se préparent à des vendanges précoces, mais les perspectives restent incertaines cette année.",
+          "title": "Vendanges Incertaines pour l'AOC Ventoux",
+          "summary": "Les vendanges de l'AOC Ventoux s'annoncent précoces et incertaines, impactant la production viticole locale.",
           "url": "https://www.ledauphine.com/economie/2026/07/29/aoc-ventoux-des-vendanges-incertaines-mais-obligatoirement-precoces",
           "image": "https://cdn-s-www.ledauphine.com/images/515D6A2D-967D-49F8-9ED3-ACC07D32BADD/NW_listB/aoc-ventoux-des-vendanges-incertaines-mais-obligatoirement-precoces-1785350685.jpg"
+        },
+        {
+          "title": "Eramet : Une OPA Américano-Émiratie en Vue",
+          "summary": "Fragilisé, Eramet est ciblé par un consortium américano-émirati, provoquant l'hésitation de la famille Duval.",
+          "url": "https://www.latribune.fr/article/entreprises-finance/industrie/1472860275641514/fragilise-par-des-pertes-eramet-cible-par-un-consortium-americano-emirati-la-famille-duval-hesite",
+          "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1200,quality=80/media/melody/2026/04/08/christel-bories-chief-executive-officer-of-eramet-casts-her-shadow-on-a-wall-with-eramet-logos-as-sh-1775631776_835f43dcf5d96975f43dcf5d96b5f4v_.jpg"
         }
       ]
     },
     {
-      "label": "Gironde",
-      "emoji": "🔥",
-      "articles": [
-        {
-          "title": "Incendies en Gironde : l'UBB soutient les sinistrés",
-          "summary": "Les joueurs de l'Union Bordeaux Bègles apportent leur soutien aux personnes évacuées suite aux incendies en Gironde.",
-          "url": "https://rmcsport.bfmtv.com/rugby/top-14/incendie-en-gironde-la-belle-initiative-des-joueurs-de-l-ubb-au-chevet-des-personnes-evacuees_AV-202607280441.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/9jD-o8kWpF5rd-u-Wikp5DETI_U=/0x53:464x314/800x0/images/Louis-Bielle-Biarrey-au-parc-des-expositions-de-Bordeaux-au-chevet-des-sinistres-de-l-incendie-le-27-07-2026-2326296.jpg"
-        },
-        {
-          "title": "Dordogne : un incendie ravage 25 hectares",
-          "summary": "Un vaste incendie a détruit 25 hectares à Jumilhac-le-Grand en Dordogne, mobilisant de nombreux pompiers.",
-          "url": "https://www.sudouest.fr/dordogne/jumilhac-le-grand/jumilhac-le-grand-un-incendie-ravage-25-hectares-30112637.php"
-        },
-        {
-          "title": "Creysse : un homme intoxiqué par feu domestique",
-          "summary": "Un homme a été intoxiqué suite à un départ de feu dans sa maison à Creysse, nécessitant une intervention rapide.",
-          "url": "https://www.sudouest.fr/dordogne/creysse/creysse-un-homme-est-intoxique-par-un-depart-de-feu-dans-sa-maison-30112631.php"
-        }
-      ]
-    },
-    {
-      "label": "JDG",
+      "label": "Culture Geek",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Spider-Man : d'où viennent ses nouveaux pouvoirs ?",
-          "summary": "Les fans de Spider-Man s'interrogent sur l'origine des mystérieux nouveaux pouvoirs de Peter Parker dans Brand New Day.",
+          "title": "Spider-Man : Nouveaux Pouvoirs, Origines Révélées",
+          "summary": "Découvrez l'origine des nouveaux pouvoirs de Peter Parker dans Spider-Man Brand New Day. (Spoilers!)",
           "url": "https://www.journaldugeek.com/2026/07/30/spider-man-brand-new-day-dou-viennent-les-nouveaux-pouvoirs-de-peter-spoilers/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/critique-spider-man-brand-new-day-6-1280x853.jpg"
         },
         {
-          "title": "Doom et les 4 Fantastiques : la vérité révélée !",
-          "summary": "Une révélation choc bouscule la compréhension collective autour de Doctor Doom et des Quatre Fantastiques.",
+          "title": "Telegram : Mandat d'Arrêt Russe Contre Durov",
+          "summary": "La Russie émet un mandat d'arrêt international contre Pavel Durov, le patron de la messagerie Telegram.",
+          "url": "https://www.journaldugeek.com/2026/07/30/la-russie-lance-un-mandat-darret-contre-pavel-durov-patron-de-telegram/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/05/telegram-1280x853.jpg"
+        },
+        {
+          "title": "Doom et 4 Fantastiques : Erreurs Révélées",
+          "summary": "Une nouvelle analyse révèle que tout le monde s'est trompé sur Doom et les Quatre Fantastiques.",
           "url": "https://www.journaldugeek.com/2026/07/29/tout-le-monde-sest-trompe-au-sujet-de-doom-et-des-4-fantastiques/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/doctor-doom-quatre-fantastiques-1280x853.jpg"
         }
@@ -147,23 +125,23 @@
     },
     {
       "label": "Sport",
-      "emoji": "🏆",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama inspire les jeunes prospects NBA",
-          "summary": "Victor Wembanyama a délivré un discours puissant, exhortant les jeunes talents à l'excellence dans leur passion.",
+          "title": "Wembanyama : Discours Inspirant pour Jeunes Prospects",
+          "summary": "Victor Wembanyama livre un discours percutant aux jeunes basketteurs : exceller est primordial.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-la-seule-chose-dans-laquelle-tu-dois-exceller-le-discours-inspirant-de-wembanyama-a-des-jeunes-prospects_AV-202607270367.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_6t2pjkEAx12FOi9SGYneRph2rU=/0x61:2048x1213/800x0/images/Spurs-Knicks-match-2-Victor-Wembanyama-05-06-2026-2298854.jpg"
         },
         {
-          "title": "LeBron James à Philadelphie, avec une vie new-yorkaise ?",
-          "summary": "Nouveau joueur des 76ers, LeBron James pourrait résider à New York et utiliser l'hélicoptère pour ses entraînements.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/des-allers-retours-a-l-entrainement-en-helicoptere-le-bron-james-nouveau-joueur-de-philadelphie-pourrait-vivre-a-new-york_AV-202607270577.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/4nEXsbwV3tLA5Sc0ASdk4VIWnkI=/0x191:2048x1343/800x0/images/LeBron-James-lors-d-un-match-de-pre-saison-entre-les-Lakers-et-les-Suns-le-03-10-2025-2152113.jpg"
+          "title": "Samuel Vessat : Recordman de France au 400m",
+          "summary": "Champion de France et nouveau recordman du 400m, Samuel Vessat partage sa joie et sa fierté.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-athletisme-champion-de-france-du-400m-et-nouveau-recordman-de-france-samuel-vessat-est-super-content-et-honore_VN-202607290377.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/05ZSb1O3rHW8q2pfZVAabF3d-YY=/0x0:1280x720/800x0/images/Athletisme-Champion-de-France-du-400m-et-nouveau-recordman-de-France-Samuel-Vessat-est-super-content-et-honore-2326701.jpg"
         },
         {
-          "title": "Oleksandra Paskal, 10 ans, leçon de résilience",
-          "summary": "La jeune gymnaste ukrainienne Oleksandra Paskal, 10 ans, a ému le monde avec son histoire et sa résilience.",
+          "title": "Oleksandra Paskal : Leçon de Résilience en Gymnastique",
+          "summary": "La jeune gymnaste ukrainienne Oleksandra Paskal, 10 ans, inspire par sa force et son incroyable résilience.",
           "url": "https://rmcsport.bfmtv.com/societe/je-voulais-que-le-monde-connaisse-mon-histoire-invitee-speciale-de-la-finale-de-coupe-du-monde-la-gymnaste-ukrainienne-de-10-ans-oleksandra-paskal-donne-une-lecon-de-resilience_AN-202607190055.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5Bnv5YUVknZOYdp77PCwqtVVRAU=/5x613:837x1081/800x0/images/Oleksandra-Pascal-prend-la-pose-avec-en-fond-la-Tour-Eiffel-lors-de-son-etape-a-Paris-juillet-2026-2322132.jpg"
         }
