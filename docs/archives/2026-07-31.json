@@ -1,0 +1,169 @@
+{
+  "ephemeride": "Saint Ignace de Loyola",
+  "global_summary": "L'actualité mondiale reste tendue, marquée par la rhétorique belliciste autour de l'Iran et de nouvelles accusations d'implication nord-coréenne dans le conflit ukrainien, tandis que le Bénin avance institutionnellement avec l'installation de son Sénat. Sur le front national, la France fait face à des défis économiques et des initiatives locales contrastées, entre gestion d'infrastructures et modes de vie alternatifs.\n\nLe monde du sport est secoué par des bouleversements financiers comme ceux de l'Asvel de Tony Parker, mais aussi illuminé par des performances individuelles et des actes de solidarité face aux incendies en Gironde. La technologie, elle, continue d'interroger notre rapport à la donnée et à l'IA, avec des débats sur la surveillance et la personnalisation des recherches. Ces nouvelles peignent un tableau de défis persistants, d'innovations techniques et d'adaptations sociétales.",
+  "running_advice": "Allez, enfile tes baskets ! C'est une journée fantastique qui s'annonce pour booster ton cardio ! Avec des températures allant de 18°C à 27.8°C et un ciel peu nuageux (13% de risque de pluie, c'est presque zéro!), les conditions sont presque parfaites pour une session running énergisante. L'heure idéale pour te lancer et profiter de la douceur matinale ou de la fraîcheur du soir serait tôt le matin, juste après le lever du soleil à 06:47, ou alors en fin de journée, à partir de 18h jusqu'au coucher du soleil à 21:31. Attention cependant, l'indice UV est de 7.25, ce qui est élevé ! Protège-toi impérativement : crème solaire SPF 50, casquette et lunettes de soleil sont tes meilleurs alliés. Hydrate-toi bien et écoute ton corps. Prêt(e) à conquérir le bitume ?",
+  "weather_string": "🌤️ Peu nuageux (18°C / 27.8°C)",
+  "weather_stats": {
+    "temp": "27.8°C",
+    "rain": "13%",
+    "uv": "7.25"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Bénin : Un Sénat voit le jour",
+          "summary": "Le Bénin franchit une étape institutionnelle majeure en installant officiellement sa nouvelle chambre parlementaire.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260730-le-b%C3%A9nin-installe-officiellement-le-s%C3%A9nat-une-nouvelle-chambre-du-parlement",
+          "image": "https://s.france24.com/media/display/949e19a2-8c41-11f1-b755-005056a97e36/w:1024/p:16x9/Couv-BENIN-S%C3%A9nat.jpg"
+        },
+        {
+          "title": "Trump s'enflamme sur l'Iran",
+          "summary": "La rhétorique agressive de Donald Trump sur l'Iran révèle l'impasse américaine au Moyen-Orient.",
+          "url": "https://www.lemonde.fr/international/article/2026/07/30/guerre-en-iran-la-rhetorique-belliciste-de-donald-trump-reflet-de-l-enlisement-americain_6737068_3210.html",
+          "image": "https://img.lemde.fr/2026/07/29/60/0/5054/2527/644/322/60/0/e8b037a_ftp-1-inv56wbgi2hp-4af34b505198405da4a364f93db7cd82-0-9176111411c745da9bb2c36915d46e35.jpg"
+        },
+        {
+          "title": "Ukraine : Pyongyang accusé de livraisons",
+          "summary": "Zelensky accuse la Corée du Nord d'avoir fourni à Moscou le missile meurtrier ayant décimé une famille.",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-volodymyr-zelensky-accuse-la-coree-du-nord-d-avoir-fourni-a-moscou-le-missile-ayant-decime-une-famille_8129030.html",
+          "image": "https://www.franceinfo.fr/pictures/cepLNWguI1k6UkMc1MBqfKA_TUA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/07/30/6a6b8a1e901bb968844277.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Joigny : Climatiseurs vite retirés",
+          "summary": "Des climatiseurs mobiles installés à l'hôpital de Joigny sont déjà retirés et leur usage limité.",
+          "url": "https://www.lyonne.fr/joigny-89300/actualites/quelques-jours-apres-leur-installation-des-climatiseurs-mobiles-deja-retires-et-leur-utilisation-limitee-a-l-hopital-de-joigny_15027266/",
+          "image": "https://www.lyonne.fr/photoSRC/VVZTJ19dUTgIDAVOBQwd/centre-hospitalier-du-jovinien-illustration-urgences-hopital_7780114.jpeg"
+        },
+        {
+          "title": "Orne : Chantiers routiers en août",
+          "summary": "Une dizaine de chantiers routiers en août dans l'Orne provoqueront déviations et ralentissements pour les usagers.",
+          "url": "https://actu.fr/societe/attention-aux-deviations-et-ralentissement-une-dizaine-de-chantiers-routiers-en-aout-dans-l-orne_64610173.html",
+          "image": "https://static.actu.fr/uploads/2026/07/routes-cd61-1024x557.jpg"
+        },
+        {
+          "title": "30k€ pour un fourgon aménagé",
+          "summary": "Une femme a tout quitté pour transformer un fourgon en camping-car, investissant 30 000 euros dans ce projet.",
+          "url": "https://www.autoplus.fr/actualite/insolite/cette-femme-a-tout-quitte-avant-de-depenser-30-000-euros-pour-transformer-un-fourgon-en-camping-car-1458783.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/captura-de-pantalla-2026-07-30-a-las-18.18.48.png"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Google : Maîtrisez l'IA Overview",
+          "summary": "Découvrez comment masquer les aperçus d'IA lors de vos recherches Google pour une meilleure confidentialité.",
+          "url": "https://www.tf1info.fr/high-tech/overview-ia-comment-masquer-les-apercus-d-ia-lorsque-vous-effectuez-une-recherche-sur-google-2455992.html",
+          "image": "https://photos.tf1info.fr/images/1024/660/ai-overviews-google-c27d6d-0@1x.jpeg"
+        },
+        {
+          "title": "Telegram : Non à la surveillance",
+          "summary": "Le patron de Telegram, considéré comme \"terroriste\" en Russie, refuse surveillance et censure.",
+          "url": "https://www.lefigaro.fr/flash-actu/considere-comme-terroriste-en-russie-le-patron-de-telegram-assure-avoir-refuse-la-surveillance-et-la-censure-demandees-par-moscou-20260730",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/07/30/dbab1347a2ddd4bda51b81d3b748f68a1e86c8aa5b301888d38a1db86e8f6ec9.jpg"
+        },
+        {
+          "title": "Casio : La montre connectée au doigt",
+          "summary": "Casio innove en proposant une montre connectée se portant au doigt, réinventant les accessoires tech.",
+          "url": "https://www.journaldugeek.com/2026/07/31/casio-met-une-montre-connectee-au-doigt/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/casio-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Monoprix Grasse fête 70 ans",
+          "summary": "Une exposition retrace soixante-dix ans d'histoire du Monoprix de Grasse, mêlant photos et archives.",
+          "url": "https://www.nicematin.com/culture/expos/photos-archives-objets-une-exposition-retrace-pres-de-70-ans-d-histoire-du-monoprix-de-grasse-10697197",
+          "image": "https://assets.nicematin.com/articles/10/69/71/97/OG-10697197-1200-800-1e04452_upload-1-qu5zfidvvi3x-11e877a8476a6e4e8b8e87v-01318903.jpg"
+        },
+        {
+          "title": "Bruxelles retire trottinettes",
+          "summary": "La ville de Bruxelles ordonne le retrait des trottinettes et vélos en libre-service dès septembre.",
+          "url": "https://www.lefigaro.fr/conjoncture/bruxelles-ordonne-le-retrait-des-trottinettes-et-velos-en-libre-service-des-le-1er-septembre-20260730",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/07/30/34e23c0e2cd32fd381096a80ccbcdd2e2063576b3a96444c78925070bf19b71b.JPG"
+        },
+        {
+          "title": "France : Croissance molle sans réformes",
+          "summary": "Sans réformes structurelles, la France est vouée à une croissance économique faible.",
+          "url": "https://www.lefigaro.fr/conjoncture/sans-reformes-la-france-se-condamne-a-la-croissance-molle-20260730",
+          "image": "https://i.f1g.fr/media/cms/3000x1687_crop/2026/07/30/6b37a003402416370f9a412cdabe7ade495a332ab8c3300914461cedfc4eb083.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🌳🔥",
+      "articles": [
+        {
+          "title": "Ducasse, champion, aide pompiers",
+          "summary": "L'ancien Bordelais Pierre Ducasse, champion de France 2009, a aidé les pompiers face aux incendies en Gironde.",
+          "url": "https://rmcsport.bfmtv.com/societe/incendies-en-gironde-l-ancien-bordelais-et-champion-de-france-2009-pierre-ducasse-a-apporte-son-aide-aux-pompiers_AV-202607290522.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6Wf_9CS6XUuUn5kMSCKtQ93cNPY=/0x106:2048x1258/800x0/images/Une-zone-boisee-en-proie-aux-flammes-a-Marcheprime-a-l-ouest-de-Bordeaux-le-26-juillet-2026-2325488.jpg"
+        },
+        {
+          "title": "UBB solidaire des sinistrés",
+          "summary": "Belle initiative des joueurs de l'UBB au chevet des personnes évacuées suite aux incendies de Gironde.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/incendie-en-gironde-la-belle-initiative-des-joueurs-de-l-ubb-au-chevet-des-personnes-evacuees_AV-202607280441.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/9jD-o8kWpF5rd-u-Wikp5DETI_U=/0x53:464x314/800x0/images/Louis-Bielle-Biarrey-au-parc-des-expositions-de-Bordeaux-au-chevet-des-sinistres-de-l-incendie-le-27-07-2026-2326296.jpg"
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Spider-Man : Caméo surprise !",
+          "summary": "Un caméo inattendu dans Spider-Man Brand New Day fait le lien avec Avengers Doomsday, surprenant les fans.",
+          "url": "https://www.journaldugeek.com/2026/07/31/spider-man-brand-new-day-un-cameo-surprise-fait-le-lien-avec-avengers-doomsday-spoilers/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/critique-spider-man-brand-new-day-4-1280x853.jpg"
+        },
+        {
+          "title": "Thor 4 : Pourquoi le départ ?",
+          "summary": "Ce soir sur TF1, retour sur les raisons du départ de Natalie Portman de la saga Thor.",
+          "url": "https://www.journaldugeek.com/2026/07/30/thor-4-ce-soir-sur-tf1-pourquoi-natalie-portman-avait-quitte-la-saga/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/02/thor-love-and-thunder-natalie-portman-1-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Séisme à l'Asvel de Parker",
+          "summary": "Le projet XXL de Tony Parker à l'Asvel s'effondre avec un budget revu à la baisse et des départs majeurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/seisme-a-l-asvel-le-projet-xxl-de-tony-parker-vole-en-eclat-francisco-part-au-panathinaikos-sans-avoir-joue-le-moindre-match_AV-202607300391.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Qi-HfY49GxQIx1F5FCCuqID33VE=/0x157:2048x1309/800x0/images/Tony-Parker-le-23-juin-2026-2327101.jpg"
+        },
+        {
+          "title": "Wembanyama : Impatient de revenir",
+          "summary": "Victor Wembanyama exprime son impatience de retrouver l'équipe de France, la NBA ne lui manquant pas encore.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/la-nba-ne-me-manque-pas-pour-l-instant-mais-la-fiba-oui-l-impatience-de-wembanyama-avant-son-grand-retour-en-bleu_AV-202607300399.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/W0cL_-w-3vunk9EorimFKeEf6O0=/0x0:2048x1152/800x0/images/Victor-Wembanyama-a-Nanterre-le-30-juillet-2026-2327115.jpg"
+        },
+        {
+          "title": "Powerlifting : Sabotage raciste",
+          "summary": "Un incroyable acte de sabotage raciste choque les championnats du monde de powerlifting, révélant une sombre histoire.",
+          "url": "https://rmcsport.bfmtv.com/societe/je-suis-raciste-et-je-l-ai-fait-expres-incroyable-histoire-de-sabotage-au-championnats-du-monde-de-powerlifting_AN-202607300350.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h7BprHuCw0hEysh8ythkowVyBso=/0x117:2048x1269/800x0/images/Sonita-Muluh-en-2025-en-Chine-2327064.jpg"
+        }
+      ]
+    }
+  ]
+}
