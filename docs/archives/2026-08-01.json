@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Alphonse",
-  "global_summary": "Cette journée est marquée par une actualité aux multiples facettes, oscillant entre défis humanitaires pressants et records climatiques alarmants. L'Europe est confrontée à une crise migratoire sans précédent en Espagne, tandis que la France fait face à une canicule historique et des incendies dévastateurs en Gironde, mobilisant les efforts de tous, y compris des figures sportives. Les incidents sociaux et les accidents routiers rappellent la fragilité de notre quotidien et les tensions persistantes.\n\nMais au-delà de ces épreuves, l'esprit d'innovation et la performance humaine continuent de briller. Du monde du sport, avec des exploits en athlétisme et des prolongations de contrats majeurs, aux avancées technologiques qui redéfinissent nos divertissements et notre vision de l'avenir, en passant par les initiatives économiques locales qui insufflent un nouveau dynamisme. Cette journée nous invite à la vigilance tout en célébrant la résilience et les petites victoires qui façonnent notre futur.",
-  "running_advice": "Prêt(e) à enfiler vos baskets ? C'est une excellente journée pour courir, avec un ciel peu nuageux et aucune pluie en vue ! Cependant, les températures monteront jusqu'à 30.5°C et l'indice UV atteindra 7.3. Pour une séance optimale et sécurisée, privilégiez le lever du soleil, idéalement juste après 06h48, ou en soirée, avant 21h29. N'oubliez surtout pas une protection solaire forte, un chapeau, des lunettes et une bonne hydratation. Donnez le meilleur de vous-même et faites de chaque foulée un pas vers vos objectifs !",
-  "weather_string": "🌤️ Peu nuageux (16.4°C / 30.5°C)",
+  "global_summary": "Cette semaine, l'actualité mondiale est marquée par des défis humains et environnementaux majeurs. L'Europe fait face à une crise migratoire déchirante en Espagne, tandis que la France suffoque sous une canicule record, avec des incendies dévastateurs en Gironde. Ces événements nous rappellent la fragilité de notre monde et l'urgence d'agir collectivement.\nPourtant, au milieu de ces épreuves, des lueurs d'espoir et d'innovation apparaissent. Le monde du sport célèbre des talents comme Wembanyama et Vessat, et la tech nous projette vers l'avenir avec Google Earth. L'économie locale montre aussi sa résilience, avec des librairies indépendantes et des ports qui retrouvent un souffle. C'est un tableau contrasté qui nous invite à rester informés, engagés et toujours en mouvement.",
+  "running_advice": "Alors, prêt à chausser vos baskets ? Avec des températures allant de 16.4°C à 30.7°C et un ciel peu nuageux, la journée offre de belles opportunités. Pour éviter la chaleur et le soleil intense, je vous conseille vivement de courir tôt le matin, juste après le lever du soleil vers 06h48, ou en fin de journée, avant le coucher du soleil à 21h29. Privilégiez l'intervalle entre 07h00 et 09h00, ou après 19h30. Attention, l'indice UV est de 7.3, ce qui est élevé ! Protection solaire indispensable : crème, casquette et lunettes de soleil sont vos meilleurs alliés. Hydratez-vous abondamment avant, pendant et après l'effort. Votre corps vous remerciera ! Allez, on se dépasse !",
+  "weather_string": "🌤️ Peu nuageux (16.4°C / 30.7°C)",
   "weather_stats": {
-    "temp": "30.5°C",
+    "temp": "30.7°C",
     "rain": "0%",
     "uv": "7.3"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Crise migratoire : l'Espagne submergée, 57 vies perdues",
-          "summary": "L'Espagne est confrontée à une vague de 60 000 migrants, avec 57 décès, soulignant une crise humanitaire urgente en Europe.",
+          "title": "Crise migratoire en Espagne: 60 000 arrivées, 57 morts",
+          "summary": "L'Espagne est confrontée à un afflux massif de migrants, soulignant un drame humain persistant en Europe.",
           "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/crise-en-europe-60-000-migrants-entres-en-espagne-57-d-entre-eux-sont-morts_8130584.html",
           "image": "https://www.franceinfo.fr/pictures/OSFHTmXTGFUVHD5v24AEWGbJBzs/0x0:1920x1080/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6ce8839904b745472576.jpg"
         },
         {
-          "title": "Bade-Wurtemberg : Choc frontal mortel, 14 blessés",
-          "summary": "Un accident tragique en Bade-Wurtemberg impliquant un utilitaire et un bus fait un mort et 14 blessés.",
+          "title": "Allemagne: Accident mortel entre utilitaire et bus, 15 victimes",
+          "summary": "Un choc frontal tragique en Bade-Wurtemberg a coûté la vie à une personne et blessé quatorze autres.",
           "url": "https://www.lalsace.fr/faits-divers-justice/2026/07/31/choc-frontal-entre-un-utilitaire-et-un-bus-un-mort-14-blesses",
           "image": "https://cdn-s-www.lalsace.fr/images/AB0BD619-F655-4A56-B287-3FE5DD17D1FF/NW_listB/choc-frontal-entre-un-utilitaire-et-un-bus-un-mort-14-blesses-1626428753.jpg"
         },
         {
-          "title": "Bagneux : Un chien policier lâché violemment sur un habitant",
-          "summary": "Lors d'un contrôle à Bagneux, la police a utilisé un chien de manière violente sur un habitant, soulevant des questions.",
+          "title": "Bagneux: Un chien policier violemment lâché sur un habitant",
+          "summary": "Un incident choquant lors d'un contrôle de police soulève des questions sur l'usage de la force.",
           "url": "https://www.revolutionpermanente.fr/Bagneux-Pendant-un-controle-de-police-la-police-lache-violemment-un-chien-sur-un-habitant",
           "image": "https://www.revolutionpermanente.fr/IMG/logo/img_3001.jpg"
         }
@@ -38,70 +38,94 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Canicule record à Bordeaux : 40°C historiques en 2026",
-          "summary": "Bordeaux endure une canicule historique avec 40°C, battant tous les records de chaleur pour 2026.",
+          "title": "Canicule record à Bordeaux: 40°C et des records battus",
+          "summary": "La Gironde souffre d'une canicule historique, avec des températures extrêmes jamais atteintes en 2026.",
           "url": "https://www.rtl.fr/actu/meteo/canicule-a-bordeaux-pourquoi-les-40-c-battent-deja-tous-les-records-en-2026-7900658676",
           "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1853437-des-pietons-passent-devant-la-croix-verte-lumineuse-d-une-pharmacie-affichant-40-c-a-bordeaux-le-6-juillet-2026-illustration.jpg"
         },
         {
-          "title": "Incendie Gironde : La lutte acharnée des pompiers continue",
-          "summary": "Dans la forêt de Lège-Cap-Ferret, les pompiers mènent une lutte 'chirurgicale' contre les incendies dévastateurs.",
-          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendie-en-gironde-dans-la-foret-de-lege-cap-ferret-la-lutte-contre-le-feu-devient-de-plus-en-plus-chirurgicale-30126949.php",
-          "image": null
-        },
-        {
-          "title": "Aytré : Disparitions inquiétantes d'animaux domestiques",
-          "summary": "Face à la disparition de nombreux chats à Aytré, une habitante demande à la Ville de cartographier ces incidents anormaux.",
-          "url": "https://www.sudouest.fr/charente-maritime/aytre/je-pense-qu-il-se-passe-quelque-chose-d-anormal-face-a-la-disparition-de-nombreux-animaux-domestiques-une-habitante-d-aytre-sollicite-la-ville-pour-cartographier-les-disparitions-de-chats-30105234.php",
-          "image": null
-        }
-      ]
-    },
-    {
-      "label": "Technologie",
-      "emoji": "💡",
-      "articles": [
-        {
-          "title": "PlayStation : Sony abandonne les disques physiques dès 2028",
-          "summary": "Sony prévoit la fin des disques PlayStation dès 2028, provoquant la colère des joueurs attachés au format physique.",
-          "url": "https://www.clubic.com/actualite-623737-sony-prepare-la-fin-des-disques-playstation-des-2028-malgre-la-cole-re-des-joueurs.html",
-          "image": "https://pic.clubic.com/v1/images/2439100/raw"
-        },
-        {
-          "title": "Prêt immobilier : Un placement à taux réduit plus intéressant",
-          "summary": "Un placement méconnu offrant un prêt immobilier à taux réduit devient plus attractif depuis le 1er août.",
+          "title": "Prêt immobilier à taux réduit: un placement méconnu avantageux",
+          "summary": "Un placement financier prend de l'ampleur pour obtenir des prêts immobiliers plus intéressants dès août.",
           "url": "https://www.capital.fr/votre-argent/pret-immobilier-a-taux-reduit-ce-placement-meconnu-devient-plus-interessant-depuis-le-1er-aout-1528936",
           "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~07~31~bd3f0417-ded1-491e-b87d-83ea90516867.jpeg/1200x900/quality/80/pret-immobilier-a-taux-reduit-ce-placement-meconnu-devient-plus-interessant-depuis-le-1er-aout.jpg"
         },
         {
-          "title": "Nano Banana : Google Earth réimagine votre quartier en 2100",
-          "summary": "Découvrez le futur avec Nano Banana sur Google Earth, permettant de visualiser votre quartier en 2100 grâce à des prompts IA.",
-          "url": "https://www.journaldugeek.com/2026/07/31/nano-banana-sur-google-earth/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Etats-Unis-Google-Earth_1920x1280-1280x853.jpg"
+          "title": "Idrissa Soukouna s'affirme en l'absence d'Antoine Mille",
+          "summary": "Le joueur Idrissa Soukouna gagne en importance, preuve de résilience et d'opportunité dans le sport.",
+          "url": "http://www.lardennais.fr/id820512/article/2026-07-31/en-labsence-prolongee-dantoine-mille-idrissa-soukouna-prend-de-lepaisseur",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/07/31/node_820512/15486819/public/2026/07/31/94357022.jpeg?itok=cM8VKJP41785523627"
         }
       ]
     },
     {
-      "label": "Économie & Business",
-      "emoji": "📈",
+      "label": "Tech",
+      "emoji": "💻",
       "articles": [
         {
-          "title": "Vacances d'été : Ruée sur les équipements auto",
-          "summary": "Le week-end de chassé-croisé des vacances d'été voit une forte demande pour les équipements automobiles.",
+          "title": "Sony met fin aux disques PlayStation dès 2028",
+          "summary": "Les joueurs sont en colère, mais Sony s'apprête à dématérialiser ses jeux console d'ici 2028.",
+          "url": "https://www.clubic.com/actualite-623737-sony-prepare-la-fin-des-disques-playstation-des-2028-malgre-la-colere-des-joueurs.html",
+          "image": "https://pic.clubic.com/v1/images/2439100/raw"
+        },
+        {
+          "title": "Google Earth avec Nano Banana: Réimaginez votre quartier en 2100",
+          "summary": "Une nouvelle fonctionnalité utilise l'IA pour visualiser le futur de nos villes sur Google Earth.",
+          "url": "https://www.journaldugeek.com/2026/07/31/nano-banana-sur-google-earth/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Etats-Unis-Google-Earth_1920x1280-1280x853.jpg"
+        },
+        {
+          "title": "Une mamie découvre une collection Pokémon de 250 000 $",
+          "summary": "Une découverte inattendue prouve que certaines passions peuvent rapporter gros, même des années après.",
+          "url": "https://www.journaldugeek.com/2026/07/31/pokemon-une-mamie-retrouve-une-collection-qui-vaut-plus-de-250-000-dollars/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/cartes-pokemon-illustration-article-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Ruée sur les équipements auto pour le chassé-croisé estival",
+          "summary": "Les vacanciers se précipitent pour équiper leurs véhicules en ce week-end de grands départs et retours.",
           "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/vacances-d-ete-la-ruee-sur-les-equipements-auto-en-ce-week-end-de-chasse-croise_8130590.html",
           "image": "https://www.franceinfo.fr/pictures/wKTe6j73pF5XX6ERtBCtyk5Ey9M/151x0:1593x811/432x243/filters:format(jpg):quality(50)/2026/07/31/6a6ced2fd832a869983525.png"
         },
         {
-          "title": "Librairie de Sablé-sur-Sarthe : Nouveaux projets des repreneurs",
-          "summary": "Alice et François, repreneurs de l'unique librairie indépendante de Sablé-sur-Sarthe, dévoilent leurs ambitions.",
+          "title": "Sablé-sur-Sarthe: La librairie indépendante renaît",
+          "summary": "Alice et François reprennent la seule librairie de la ville, annonçant des projets prometteurs pour la culture locale.",
           "url": "https://actu.fr/pays-de-la-loire/sable-sur-sarthe_72264/repreneurs-de-la-seule-librairie-independante-de-sable-sur-sarthe-alice-et-francois-devoilent-leurs-projets_64614128.html",
           "image": "https://static.actu.fr/uploads/2026/07/8789947bac6a68b89947bac6a5f899v-1024x557.jpg"
         },
         {
-          "title": "Port de Nice : Bonne nouvelle après la Conférence Océan",
-          "summary": "Un an après la Conférence de l'ONU sur l'Océan, les commerçants du port de Nice ont enfin de bonnes nouvelles.",
+          "title": "Port de Nice: Bonne nouvelle pour les commerçants",
+          "summary": "Un an après la Conférence sur l'Océan, l'activité reprend, portée par des initiatives environnementales.",
           "url": "https://www.nicematin.com/environnement/un-an-apres-la-conference-des-nations-unies-sur-l-ocean-enfin-une-bonne-nouvelle-pour-les-commercants-du-port-de-nice-10697964",
           "image": "https://assets.nicematin.com/articles/10/69/79/64/OG-10697964-1200-800-85195ab_upload-1-tzxnqjujsn2z-archive-photo-1-3900-39001322.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🔥",
+      "articles": [
+        {
+          "title": "Incendies Gironde: Des dons massifs aux pompiers",
+          "summary": "Le Parc des expositions de Bordeaux coordonne la redistribution des dons aux pompiers et associations.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-en-gironde-les-dons-du-parc-des-expositions-redistribues-aux-pompiers-et-aux-associations-30129427.php",
+          "image": ""
+        },
+        {
+          "title": "Gironde: La lutte contre le feu devient chirurgicale",
+          "summary": "Les pompiers affinent leurs tactiques pour maîtriser les incendies dévastateurs en forêt de Lège-Cap-Ferret.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendie-en-gironde-dans-la-foret-de-lege-cap-ferret-la-lutte-contre-le-feu-devient-de-plus-en-plus-chirurgicale-30126949.php",
+          "image": ""
+        },
+        {
+          "title": "Aytré: Disparitions d'animaux domestiques inexpliquées",
+          "summary": "Une habitante d'Aytré alerte la mairie face à une série de disparitions de chats, jugées anormales.",
+          "url": "https://www.sudouest.fr/charente-maritime/aytre/je-pense-qu-il-se-passe-quelque-chose-d-anormal-face-a-la-disparition-de-nombreux-animaux-domestiques-une-habitante-d-aytre-sollicite-la-ville-pour-cartographier-les-disparitions-de-chats-30105234.php",
+          "image": ""
         }
       ]
     },
@@ -110,20 +134,20 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama prolonge avec Nike, aura sa chaussure signature",
-          "summary": "Victor Wembanyama signe un accord majeur avec Nike pour une prolongation de contrat et une chaussure signature.",
+          "title": "Wembanyama signe un deal signature avec Nike",
+          "summary": "Victor Wembanyama prolonge avec Nike et s'apprête à lancer sa propre ligne de chaussures, une consécration.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/wembanyama-prolonge-avec-nike-et-aura-une-chaussure-signature_AV-202607310511.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/W0cL_-w-3vunk9EorimFKeEf6O0=/0x0:2048x1152/800x0/images/Victor-Wembanyama-a-Nanterre-le-30-juillet-2026-2327115.jpg"
         },
         {
-          "title": "Athlétisme : Samuel Vessat, nouveau phénomène français du 400m",
-          "summary": "Samuel Vessat, champion et recordman de France du 400m, inspire avec son objectif d'être la meilleure version de lui-même.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-j-essaie-d-etre-la-meilleure-version-de-moi-meme-samuel-vessat-le-nouveau-phenomene-francais-du-tour-de-piste_AV-202607290462.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lTV3wwYDhNOqIeTNkHBgzfYq-hw=/0x0:1200x675/800x0/images/Samuel-Vessat-lors-des-championnats-de-France-d-athletisme-a-Albi-le-26-juillet-2026-2325456.jpg"
+          "title": "Samuel Vessat, nouveau recordman de France du 400m",
+          "summary": "Le jeune athlète français brille aux Championnats de France, battant un record et s'affirmant.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-athletisme-champion-de-france-du-400m-et-nouveau-recordman-de-france-samuel-vessat-est-super-content-et-honore_VN-202607290377.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/05ZSb1O3rHW8q2pfZVAabF3d-YY=/0x0:1280x720/800x0/images/Athletisme-Champion-de-France-du-400m-et-nouveau-recordman-de-France-Samuel-Vessat-est-super-content-et-honore-2326701.jpg"
         },
         {
-          "title": "Powerlifting : Sabotage raciste aux championnats du monde",
-          "summary": "Un incroyable acte de sabotage raciste secoue les championnats du monde de powerlifting, choquant le milieu sportif.",
+          "title": "Sabotage raciste aux Mondiaux de powerlifting",
+          "summary": "Une athlète dénonce un acte de sabotage aux Championnats du monde, choquant le monde sportif.",
           "url": "https://rmcsport.bfmtv.com/societe/je-suis-raciste-et-je-l-ai-fait-expres-incroyable-histoire-de-sabotage-au-championnats-du-monde-de-powerlifting_AN-202607300350.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h7BprHuCw0hEysh8ythkowVyBso=/0x117:2048x1269/800x0/images/Sonita-Muluh-en-2025-en-Chine-2327064.jpg"
         }
