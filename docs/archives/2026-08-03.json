@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Sainte Lydie",
+  "global_summary": "L'actualité de ce jour est un mélange captivant de politique internationale, de défis environnementaux et d'exploits humains. Au Brésil, Lula se lance dans une course présidentielle complexe, tandis qu'en Europe, les tensions frontalières persistent à Ceuta et la lutte contre le narcotrafic s'intensifie en pleine mer. Ces enjeux mondiaux dessinent un paysage géopolitique en constante évolution.\n\nEn France, les mégafeux en Gironde continuent de préoccuper, mais la résilience s'organise avec des retours autorisés et des initiatives solidaires. Le monde de la tech et de la culture nous transporte entre un concept rétro-moderne de Windows 7 et le succès phénoménal du dernier Spider-Man. Enfin, le sport nous offre des moments poignants avec la disparition de l'alpiniste Nirmal Purja, des duels inattendus comme Gane face à Gobert, et des messages inspirants de Victor Wembanyama.",
+  "running_advice": "Prêt à transpirer et à conquérir cette journée ? Avec des températures agréables oscillant entre 19.5°C et 28.6°C et un ciel peu nuageux, c'est une excellente journée pour votre séance de running ! Cependant, l'indice UV est de 6.1, ce qui est élevé. Pour profiter au maximum et protéger votre peau, privilégiez un départ tôt le matin, juste après le lever du soleil à 06h50, ou en fin de journée, après 19h30, pour éviter les heures les plus chaudes. N'oubliez pas votre crème solaire à indice élevé, un chapeau, des lunettes et surtout, hydratez-vous avant, pendant et après l'effort. Allez, on lâche rien, chaque foulée compte !",
+  "weather_string": "🌤️ Peu nuageux (19.5°C / 28.6°C)",
+  "weather_stats": {
+    "temp": "28.6°C",
+    "rain": "25%",
+    "uv": "6.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Lula vise un 4ème mandat au Brésil",
+          "summary": "Sous l'ombre de Trump, Lula entreprend sa conquête pour un quatrième mandat présidentiel au Brésil, face au fils Bolsonaro.",
+          "url": "https://www.huffingtonpost.fr/international/article/au-bresil-lula-a-la-conquete-d-un-quatrieme-mandat-sous-l-ombre-de-trump-et-face-au-fils-bolsonaro_298422.html",
+          "image": "https://focus.huffingtonpost.fr/2026/08/02/215/0/4134/2325/0/0/60/0/d1a8b5f_upload-1-wf5rjybiad75-afp-20260802-c3td7ef-v1-highres-brazilelectionconventioncandidate.jpg"
+        },
+        {
+          "title": "Ceuta : Vox réclame frontières militarisées",
+          "summary": "Face à la crise de Ceuta, le parti Vox exige une frontière militarisée et des sanctions sévères contre le Maroc.",
+          "url": "http://fr.euronews.com/my-europe/2026/08/02/crise-de-ceuta-vox-reclame-une-frontiere-militarisee-et-des-sanctions-contre-le-maroc",
+          "image": "https://images.euronews.com/articles/stories/09/85/94/35/1440x810_cmsv2_2a6db7e6-c5dc-5ef6-8772-1127186d5ba5-9859435.jpg"
+        },
+        {
+          "title": "Narcotrafic : la mer, nouveau front de lutte",
+          "summary": "Les organisations criminelles modernisent leurs moyens nautiques, forçant la lutte contre le narcotrafic à s'adapter en pleine mer.",
+          "url": "https://www.franceinfo.fr/societe/drogue/les-organisations-criminelles-ont-fait-evoluer-leurs-moyens-nautiques-comment-la-lutte-contre-le-narcotrafic-se-traduit-en-pleine-mer_8132528.html",
+          "image": "https://www.franceinfo.fr/pictures/vUCFmuS8Gr-7cJ-76Nq2acEYg-Y/6x0:1231x689/432x243/filters:format(jpg):quality(50)/2026/08/02/6a6f93fa37c4d041761668.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Paris s'enflamme : les soirées Kimpton Club",
+          "summary": "Testées et approuvées, les soirées Kimpton Club Live Music au Montecito deviennent le nouveau QG des nuits parisiennes.",
+          "url": "https://www.konbini.com/lifestyle/on-a-teste-les-soirees-kimpton-club-live-music-au-montecito-et-on-a-trouve-notre-nouveau-qg-des-soirees-parisiennes/",
+          "image": "https://cdn-www.konbini.com/files/2026/08/Votre-texte-de-paragraphe.png"
+        },
+        {
+          "title": "Israël s'inquiète du désarmement du Hamas",
+          "summary": "Israël exprime officiellement ses préoccupations à Washington concernant les propositions de désarmement du Hamas.",
+          "url": "https://www.i24news.tv/fr/actu/israel-en-guerre/artc-israel-exprime-ses-inquietudes-a-washington-concernant-le-plan-de-desarmement-du-hamas",
+          "image": "https://cdn.i24news.tv/uploads/df/60/cb/e7/77/c8/3d/f9/96/32/ea/ac/3b/bc/99/67/df60cbe777c83df99632eaac3bbc9967.jpg"
+        },
+        {
+          "title": "Mégafeu Gironde : retours autorisés lundi",
+          "summary": "Après les mégafeux en Gironde, les habitants de Lège-Cap-Ferret et du Porge sont autorisés à rentrer, sauf les campings.",
+          "url": "https://www.nicematin.com/faits-divers/megafeu-en-gironde-retours-autorises-lundi-a-lege-cap-ferret-et-au-porge-sauf-campings-10699110",
+          "image": "https://assets.nicematin.com/articles/10/69/91/10/OG-10699110-1200-800-b2cbf0c_ftp-1-otahd19ajwr7-afp-c3rh3g4.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Culture",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Windows 7 réinventé : le concept rétro-moderne",
+          "summary": "Un concept innovant réimagine Windows 7, mêlant son design culte à des touches modernes pour un OS unique.",
+          "url": "https://www.lesnumeriques.com/ordinateur-de-bureau/windows-7-remastered-un-concept-reimagine-l-os-culte-de-microsoft-avec-un-design-moderne-mais-retro-n259989.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/259989/6b805f67-windows-7-remastered-un-concept-reimagine-l-os-culte-de-microsoft-avec-un-design-moderne-mais-retro__800_800__1153-0-4233-3080.jpg"
+        },
+        {
+          "title": "Voitures de sport : pourquoi deux portes ?",
+          "summary": "Ce n'est pas le design, mais des raisons techniques précises qui limitent les voitures de sport à deux portes.",
+          "url": "https://www.lesnumeriques.com/voiture/les-voitures-de-sport-n-ont-que-deux-portes-et-ce-n-est-pas-a-cause-du-design-que-les-ingenieurs-font-ce-choix-n259988.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/25/259988/520cb18e-les-voitures-de-sport-n-ont-que-deux-portes-et-ce-n-est-pas-a-cause-du-design-que-les-ingenieurs-font-ce-choix__800_800__578-0-2581-2003.jpg"
+        },
+        {
+          "title": "Spider-Man frôle le milliard au box-office",
+          "summary": "\"Spider-Man: Brand New Day\" réalise un démarrage historique, approchant déjà le milliard de recettes mondiales.",
+          "url": "https://www.lesechos.fr/tech-medias/medias/spider-man-brand-new-day-frole-deja-le-milliard-de-recettes-et-realise-le-deuxieme-meilleur-demarrage-de-lhistoire-du-cinema-2245627",
+          "image": "https://media.lesechos.com/api/v1/images/view/6a6f98bde86dab5fa0063558/640x360/02001756200665-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Local",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Le Porge meurtri attend le retour à la vie",
+          "summary": "Au Porge, village sinistré par l'incendie en Gironde, les habitants attendent derrière les barrages de rentrer chez eux.",
+          "url": "https://www.sudouest.fr/gironde/le-porge/incendie-en-gironde-au-porge-derriere-les-barrages-un-village-meurtri-qui-attend-toujours-de-rentrer-chez-lui-30148970.php",
+          "image": "https://media.sudouest.fr/30148970/1200x600/359bb6fd-c0da-46fd-84b5-8e1643a6bf9b.jpg"
+        },
+        {
+          "title": "Blevaincourt : deux jeunes pompiers honorés",
+          "summary": "À Blevaincourt, deux jeunes sapeurs-pompiers sont mis à l'honneur pour leur engagement et leur courage.",
+          "url": "https://www.vosgesmatin.fr/faits-divers-justice/2026/08/02/deux-jeunes-sapeurs-pompiers-a-l-honneur",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/030DC6ED-D999-4072-A44D-F9F046F01E1C/NW_listB/deux-jeunes-sapeurs-pompiers-a-l-honneur-1785701171.jpg"
+        },
+        {
+          "title": "Vittel en deuil : décès de Marcel Loisant",
+          "summary": "Vittel déplore la disparition de Marcel Loisant, une figure locale dont la nécrologie marque la vie de la commune.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/08/02/deces-de-marcel-loisant",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/39CBB7DE-8B69-4A86-8E2A-63E66FF64389/NW_listB/deces-de-marcel-loisant-1785701171.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualité Régionale",
+      "emoji": "🔥",
+      "articles": [
+        {
+          "title": "Gironde : dix millions d'arbres brûlés",
+          "summary": "Avec dix millions d'arbres brûlés, la Gironde fait face à un risque majeur d'inondations futures.",
+          "url": "https://www.sudouest.fr/gironde/incendie-en-gironde-environ-dix-millions-d-arbres-brules-on-court-un-grand-risque-d-inondations-derriere-30146064.php",
+          "image": null
+        },
+        {
+          "title": "Super U Claouey prêt pour la reprise",
+          "summary": "À Claouey, le Super U se mobilise et se tient prêt pour la reprise d'activité après les incendies en Gironde.",
+          "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/incendie-en-gironde-nous-nous-tenons-prets-mobilisation-de-reprise-au-super-u-de-claouey-30149352.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Divertissement & Innovation",
+      "emoji": "🚀",
+      "articles": [
+        {
+          "title": "House of the Dragon : malaise garanti",
+          "summary": "La série \"House of the Dragon\" atteint un niveau de malaise inédit, surpassant même \"Game of Thrones\".",
+          "url": "https://www.journaldugeek.com/2026/08/03/house-of-the-dragon-meme-game-of-thrones-na-jamais-atteint-ce-niveau-de-malaise/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/house-of-the-dragon-episode-7-1280x853.jpg"
+        },
+        {
+          "title": "Drones rechargés en vol par laser",
+          "summary": "Des chercheurs innovent en proposant de recharger les drones en plein vol grâce à une technologie laser avancée.",
+          "url": "https://www.journaldugeek.com/2026/08/03/des-chercheurs-veulent-recharger-les-drones-en-plein-vol-avec-un-laser/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/drone-1280x853.jpg"
+        },
+        {
+          "title": "Galileo au secours des véhicules militaires",
+          "summary": "Le système de navigation Galileo est mobilisé pour renforcer l'efficacité des véhicules militaires français.",
+          "url": "https://www.journaldugeek.com/2026/08/03/galileo-a-la-rescousse-des-vehicules-militaires-francais/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/thales-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Gane met un panier à Gobert",
+          "summary": "Ciryl Gane brille au basket en scorant face à Rudy Gobert, quatre fois meilleur défenseur NBA de l'année.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-ciryl-gane-a-l-aise-au-basket-face-au-quatre-fois-meilleur-defenseur-de-l-annee-en-nba-rudy-gobert_VN-202608020234.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/96nO71cXIeIvZsDjv_nY0cpkNas=/0x0:1280x720/800x0/images/Ciryl-Gane-a-l-aise-au-basket-face-au-quatre-fois-meilleur-defenseur-de-l-annee-en-NBA-Rudy-Gobert-2327988.jpg"
+        },
+        {
+          "title": "L'alpiniste Nirmal Purja mort en avalanche",
+          "summary": "Le corps de l'alpiniste star Nirmal Purja a été retrouvé, confirmant sa mort tragique dans une avalanche.",
+          "url": "https://rmcsport.bfmtv.com/societe/le-corps-de-l-alpiniste-nirmal-purja-tue-dans-une-avalanche-a-ete-retrouve_AN-202608020153.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/giF69dxHbD-X-BpnDSGEp6eS4v4=/0x106:2048x1258/800x0/images/Nirmal-Purja-2327295.jpg"
+        },
+        {
+          "title": "Wembanyama inspire les jeunes prospects NBA",
+          "summary": "Victor Wembanyama livre un discours percutant aux jeunes prospects, soulignant l'excellence comme unique chemin.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-la-seule-chose-dans-laquelle-tu-dois-exceller-le-discours-inspirant-de-wembanyama-a-des-jeunes-prospects_AV-202607270367.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_6t2pjkEAx12FOi9SGYneRph2rU=/0x61:2048x1213/800x0/images/Spurs-Knicks-match-2-Victor-Wembanyama-05-06-2026-2298854.jpg"
+        }
+      ]
+    }
+  ]
+}
