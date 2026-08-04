@@ -1,0 +1,121 @@
+{
+  "ephemeride": "Saint Jean-Marie Vianney",
+  "global_summary": "L'actualité mondiale reste marquée par des décisions diplomatiques fortes, avec le limogeage de l'ambassadrice ukrainienne aux États-Unis par le président Zelensky. Sur le territoire français, les faits divers révèlent des enquêtes judiciaires intenses, tandis que des initiatives locales montrent une dynamique positive pour le développement des communautés.\n\nDu côté économique, Boeing célèbre une certification majeure pour son 737 MAX 7, tandis que les marchés des matières premières et de l'immobilier affichent des mouvements significatifs, notamment avec les vastes investissements de JPMorgan. Le monde de la tech et du sport ne sont pas en reste, entre trouvailles insolites, innovations nostalgiques, exploits sportifs et la triste nouvelle d'une légende de l'alpinisme disparue.",
+  "running_advice": "Excellente nouvelle, amis sportifs ! Avec des températures allant de 18.5°C à 30°C et un ciel peu nuageux sans aucune pluie, c'est une journée parfaite pour votre session running. Pour optimiser votre performance et votre bien-être, je vous conseille vivement de courir tôt le matin, dès le lever du soleil à 06:51, ou en fin de journée, avant son coucher à 21:26. L'indice UV étant de 7.2, la protection solaire est cruciale : crème solaire, casquette et hydratation sont vos meilleurs alliés. Allez, enfilez vos baskets, la journée vous attend !",
+  "weather_string": "🌤️ Peu nuageux (18.5°C / 30°C)",
+  "weather_stats": {
+    "temp": "30°C",
+    "rain": "0%",
+    "uv": "7.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Zelensky limoge son ambassadrice aux États-Unis",
+          "summary": "Le président ukrainien a démis de ses fonctions son ambassadrice à Washington, une décision marquante dans le contexte de la guerre.",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-le-president-volodymyr-zelensky-limoge-l-ambassadrice-ukrainienne-aux-etats-unis_8133581.html",
+          "image": "https://www.franceinfo.fr/pictures/vOsmjJdtGzdAvOkmccCfJaup2Zp/0x48:4000x2298/432x243/filters:format(jpg):quality(50)/2026/08/03/6a70de1448f16592489397.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Isère: Un homme soupçonné d'homicide interpellé par le GIGN",
+          "summary": "Après une traque intense, un suspect d'homicide a été appréhendé en Isère par l'unité d'élite du GIGN.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/08/03/un-homme-soupconne-d-homicide-interpelle-par-le-gign-apres-une-traque",
+          "image": "https://cdn-s-www.lalsace.fr/images/4D7D2E01-3756-4817-BE65-45ECDC643414/NW_listB/un-homme-soupconne-d-homicide-interpelle-par-le-gign-apres-une-traque-1785781689.jpg"
+        },
+        {
+          "title": "Belfort: Un piquet de tente dans l'abdomen du beau-frère",
+          "summary": "Un fait divers surprenant à Belfort où un homme a blessé son beau-frère avec un piquet de tente. Une enquête est en cours.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/08/03/il-plante-un-piquet-de-tente-dans-l-abdomen-de-son-beau-frere",
+          "image": "https://cdn-s-www.lalsace.fr/images/96E4BA25-6981-4209-A0D3-38A8D3897B39/MF_contenu/il-plante-un-piquet-de-tente-dans-l-abdomen-de-son-beau-frere-1785782876.jpg"
+        },
+        {
+          "title": "Vallées du Clain: Former les futurs animateurs du territoire",
+          "summary": "Un nouveau dispositif voit le jour dans les Vallées du Clain pour former la prochaine génération d'animateurs locaux.",
+          "url": "https://www.lanouvellerepublique.fr/vienne/commune/aslonnes/vallees-du-clain-un-dispositif-pour-former-les-futurs-animateurs-du-territoire-1785782838",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a70e2339e6f541a6f8b4569"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovations",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Ferrari inattendue: 3,2 millions d'euros pour une vente record",
+          "summary": "Une veuve voulant vendre la Ferrari de son mari pour 300 000 euros, a été stupéfaite d'en obtenir 3,2 millions.",
+          "url": "https://www.autoplus.fr/actualite/insolite/elle-veut-vendre-la-ferrari-275-de-son-defunt-mari-300-000-euros-on-lui-en-donne-32-milions-deuros-1459239.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-03-a-las-16.32.59.png"
+        },
+        {
+          "title": "Konkr Pocket Advance: La Game Boy Advance ressuscitée",
+          "summary": "Une nouvelle console portable, la Konkr Pocket Advance, ramène la Game Boy Advance au goût du jour pour les gamers.",
+          "url": "https://www.journaldugeek.com/2026/08/04/la-konkr-pocket-advance-remet-la-game-boy-advance-au-gout-du-jour/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/ayaneo-konkr2-1280x853.jpg"
+        },
+        {
+          "title": "Star Wars: Un crossover très attendu en 2027",
+          "summary": "L'univers Star Wars s'étend avec l'annonce d'un crossover majeur prévu pour 2027, excitant les fans.",
+          "url": "https://www.journaldugeek.com/2026/08/03/star-wars-lunivers-setend-avec-un-crossover-tres-attendu-en-2027/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/Star-Wars-donjons-dragons-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Boeing 737 MAX 7 certifié, l'action grimpe à Wall Street",
+          "summary": "Après des années d'attente, Boeing a obtenu la certification pour son 737 MAX 7, faisant bondir son titre en bourse.",
+          "url": "https://www.lecho.be/entreprises/aviation/boeing-obtient-la-certification-pour-le-737-max-7-apres-des-annees-de-retard-et-grimpe-a-wall-street/10681087.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:DKFwMcCL44LBhVkbggfJA6&context=ONLINE&ratio=16/9&width=640&u=1785782633000"
+        },
+        {
+          "title": "Blé Euronext rebondit après un plus bas",
+          "summary": "Le prix du blé sur Euronext enregistre un rebond notable, après avoir atteint son plus bas niveau en trois semaines.",
+          "url": "https://fr.investing.com/news/stock-market-news/le-ble-euronext-rebondit-apres-un-plus-bas-de-trois-semaines-93CH-3533012",
+          "image": "https://i-invdn-com.investing.com/news/7-Eleven_800x533_L_1673420630.jpg"
+        },
+        {
+          "title": "JPMorgan déploie 750 milliards $ dans le logement américain",
+          "summary": "La banque JPMorgan Chase prévoit un investissement colossal de plus de 750 milliards de dollars dans le marché immobilier américain.",
+          "url": "https://fr.investing.com/news/stock-market-news/jpmorgan-prevoit-de-deployer-plus-de-750-milliards--dans-le-logement-americain-93CH-3533026",
+          "image": "https://i-invdn-com.investing.com/news/JPMorganChasebankinNewYork_800x533_L_1641836893.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Ciryl Gane marque face à Rudy Gobert",
+          "summary": "Le combattant de MMA Ciryl Gane a montré ses talents au basket en marquant contre le défenseur NBA Rudy Gobert.",
+          "url": "https://rmcsport.bfmtv.com/basket/quand-ciryl-gane-met-un-panier-a-rudy-gobert-elu-quatre-fois-meilleur-defenseur-de-l-annee-en-nba_AN-202608020206.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/bzYy1ZDjyWVpvO2Zs58yjuBDaXI=/3x188:723x593/800x0/images/Ciryl-Gane-met-un-panier-depuis-la-zone-des-trois-points-a-Rudy-Gobert-le-2-aout-2026-2327959.jpg"
+        },
+        {
+          "title": "Samuel Vessat, nouveau phénomène du 400m français",
+          "summary": "Champion et recordman de France du 400m, Samuel Vessat est le nouveau visage prometteur de l'athlétisme français.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-athletisme-champion-de-france-du-400m-et-nouveau-recordman-de-france-samuel-vessat-est-super-content-et-honore_VN-202607290377.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/05ZSb1O3rHW8q2pfZVAabF3d-YY=/0x0:1280x720/800x0/images/Athletisme-Champion-de-France-du-400m-et-nouveau-recordman-de-France-Samuel-Vessat-est-super-content-et-honore-2326701.jpg"
+        },
+        {
+          "title": "Mort de Nirmal Purja, l'alpiniste star, dans une avalanche",
+          "summary": "Le corps de l'alpiniste de renommée mondiale Nirmal Purja, décédé dans une avalanche, a été retrouvé.",
+          "url": "https://rmcsport.bfmtv.com/societe/l-alpiniste-star-nirmal-purja-est-mort-dans-une-avalanche_AN-202608010209.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/giF69dxHbD-X-BpnDSGEp6eS4v4=/0x106:2048x1258/800x0/images/Nirmal-Purja-2327295.jpg"
+        }
+      ]
+    }
+  ]
+}
