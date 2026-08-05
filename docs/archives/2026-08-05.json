@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Abel",
-  "global_summary": "La scène mondiale dévoile un mélange d'ingéniosité face au changement climatique, à l'image de l'aéroport rafraîchissant de Singapour, et de préoccupations géopolitiques avec les ingérences numériques. En France, le pays enregistre un nouveau record historique de chaleur, entraînant des feux de forêt et mobilisant les secours, tandis que l'actualité criminelle marque les esprits. Côté technologie, l'innovation s'accélère, des films générés par IA aux nouvelles compatibilités entre systèmes d'exploitation. Enfin, le monde des affaires est secoué par des mouvements sociaux, et le sport retient son souffle avec des alertes sanitaires majeures et des transferts de stars.",
-  "running_advice": "Aujourd'hui, Saint Abel vous invite à chausser vos baskets ! Avec des températures agréables oscillant entre 19.8°C et 27.8°C et un ciel peu nuageux, c'est une excellente journée pour une session running. Pour optimiser votre performance et éviter la chaleur, visez les créneaux matinaux juste après le lever du soleil à 06:52 ou en fin de journée, avant le coucher à 21:24. Attention cependant à l'indice UV élevé (6.6) : protégez impérativement votre peau avec de la crème solaire, un chapeau et des lunettes de soleil. Hydratez-vous bien et allez chercher cette énergie qui sommeille en vous ! Chaque foulée compte.",
-  "weather_string": "🌤️ Peu nuageux (19.8°C / 27.8°C)",
+  "global_summary": "Le climat se positionne comme le grand défi du jour : la France enregistre un nouveau record de chaleur, alimentant des incendies dévastateurs nécessitant des mesures d'urgence, tandis que Singapour imagine des solutions rafraîchissantes. Sur le front géopolitique, des inquiétudes persistent autour des ingérences numériques ciblant des personnalités politiques, rappelant la fragilité de notre environnement numérique. Au niveau national, les faits divers locaux contrastent avec les vastes enjeux environnementaux et sociaux.\n\nMais l'actualité nous montre aussi une résilience remarquable : des entreprises sinistrées par les feux envisagent de reconstruire avec plus d'ambition. La technologie continue de repousser les limites, avec un film entièrement créé par IA, préfigurant de nouvelles ères créatives et de connectivité. Enfin, le monde du sport, riche en émotions, nous rappelle l'importance de la santé pour nos athlètes stars, honore la mémoire de figures emblématiques et vit au rythme des transferts majeurs, nous inspirant à chaque défi.",
+  "running_advice": "Salut les champions ! Préparez vos baskets, car la journée s'annonce idéale pour un run vivifiant ! Avec des températures douces oscillant entre 19.8°C et 27°C et un ciel peu nuageux, les conditions sont parfaites pour vous dépasser. L'heure idéale ? Je vous conseille de viser tôt le matin, juste après le lever du soleil à 06:52, ou en fin d'après-midi, avant le coucher à 21:24. Attention, l'indice UV est de 6.6, c'est élevé : n'oubliez pas votre crème solaire, vos lunettes et une casquette. Hydratez-vous à fond avant, pendant et après l'effort. Allez, on lâche rien, chaque foulée compte pour votre bien-être !",
+  "weather_string": "🌤️ Peu nuageux (19.8°C / 27°C)",
   "weather_stats": {
-    "temp": "27.8°C",
+    "temp": "27°C",
     "rain": "5%",
     "uv": "6.6"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Singapour: L'aéroport, une oasis de fraîcheur",
-          "summary": "Face aux vagues de chaleur, l'aéroport de Singapour se mue en \"mini-frigidaire\" végétalisé, offrant une fraîcheur innovante sous la lumière du jour.",
+          "title": "Singapour : Oasis de Fraîcheur",
+          "summary": "L'aéroport de Singapour utilise des technologies innovantes pour créer un espace frais face aux vagues de chaleur mondiales.",
           "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/vagues-de-chaleur-canicules/c-est-comme-un-mini-frigidaire-mais-avec-la-lumiere-du-jour-l-aeroport-de-singapour-une-oasis-de-fraicheur_8134907.html",
           "image": "https://www.franceinfo.fr/pictures/rE4FLz_hoNE_onCzhSfx5O8_5TE/0x33:1698x989/432x243/filters:format(jpg):quality(50)/2026/08/04/6a7233f29c392036233587.png"
         },
         {
-          "title": "Glucksmann Cible Russe: Crainte d'Ingérences Numériques",
-          "summary": "Raphaël Glucksmann, en vue pour 2027, est visé par la Russie, ravivant les inquiétudes autour des ingérences numériques dans le processus électoral.",
+          "title": "Glucksmann Cible Russe",
+          "summary": "La Russie est accusée de cibler Raphaël Glucksmann, soulevant des craintes d'ingérences numériques dans les élections françaises.",
           "url": "https://www.lalsace.fr/elections/2026/08/04/raphael-glucksmann-cible-par-la-russie-faut-il-craindre-les-ingerences-numeriques",
           "image": "https://cdn-s-www.lalsace.fr/images/D7D6D94C-F480-4DF7-89D0-012ACEFFCF45/NW_listB/raphael-glucksmann-cible-par-la-russie-faut-il-craindre-les-ingerences-numeriques-1785865348.jpg"
         },
         {
-          "title": "Le Déficit Commercial Américain se Stabilise",
-          "summary": "Aux États-Unis, le déficit commercial montre des signes de stabilisation, un indicateur crucial pour l'économie mondiale.",
+          "title": "Déficit Commercial US Stabilisé",
+          "summary": "Le déficit commercial américain se stabilise, offrant un signe positif pour l'économie d'outre-Atlantique.",
           "url": "https://www.lesechos.fr/monde/etats-unis/aux-etats-unis-le-deficit-commercial-se-stabilise-2245904",
           "image": "https://media.lesechos.com/api/v1/images/view/6a7223d3434fef9f4d09c01a/1280x720/02001868119479-web-tete.jpg"
         }
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Record Historique de Chaleur en France Battu",
-          "summary": "La France a enregistré 24,9°C de moyenne sur un mois, un nouveau record historique alarmant et témoin du changement climatique.",
-          "url": "https://www.journaldugeek.com/2026/08/05/meteo-historique-avec-249-c-de-moyenne-sur-tout-un-mois-la-france-vient-de-battre-un-nouveau-record-de-chaleur/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/canicule-1-1280x853.jpg"
-        },
-        {
-          "title": "Incendies Multiples le Long des Autoroutes A36/A31",
-          "summary": "46 pompiers sont mobilisés face à de multiples départs de feu sur les bords des autoroutes A36 et A31, sous haute tension.",
+          "title": "Feux d'Autoroute : Pompiers Mobilisés",
+          "summary": "De multiples départs de feu le long des autoroutes A36 et A31 ont mobilisé 46 pompiers.",
           "url": "https://www.bienpublic.com/faits-divers-justice/2026/08/04/multiples-departs-de-feu-au-bord-des-autoroutes-a36-et-a31-46-pompiers-mobilises",
           "image": "https://cdn-s-www.bienpublic.com/images/217ADE8C-9CFE-409C-B18D-415890ADA949/MF_contenu/multiples-departs-de-feu-au-bord-des-autoroutes-a36-et-a31-46-pompiers-mobilises-1785870748.jpg"
         },
         {
-          "title": "Narcotrafic : Mehdi Laribi, Fondateur DZ Mafia, Arrêté",
-          "summary": "Mehdi Laribi, co-fondateur de la tristement célèbre DZ Mafia de Marseille, a été appréhendé en Algérie, marquant un coup dur pour le narcotrafic.",
-          "url": "https://www.sudouest.fr/faits-divers/narcotrafic/narcotrafic-mehdi-laribi-l-un-des-fondateurs-de-la-dz-mafia-a-marseille-a-ete-arrete-fin-juillet-en-algerie-30168009.php",
-          "image": ""
+          "title": "Vannes : Contrôle Stupéfiant",
+          "summary": "Un homme a été interpellé à Vannes pour conduite sans assurance et sous l'influence de stupéfiants.",
+          "url": "https://www.letelegramme.fr/morbihan/vannes-56000/a-vannes-un-homme-est-controle-sans-assurance-et-sous-stupefiant-7095451.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a72342916f66bdfbf089530/web_golden_xxl/6a72342916f66bdfbf089530.1"
+        },
+        {
+          "title": "Amboise : Tentative de Meurtre",
+          "summary": "Un touriste australien mis en examen et écroué pour tentative de meurtre après des coups dans un hôtel de luxe.",
+          "url": "https://www.lanouvellerepublique.fr/amboise/coups-a-la-tete-dans-un-hotel-de-luxe-pres-d-amboise-un-touriste-australien-mis-en-examen-et-ecroue-pour-tentative-de-meurtre-1785869324",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a72340af26a05e0038b45d2"
         }
       ]
     },
@@ -62,46 +62,94 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Un Film Entièrement Créé par IA : Les Coulisses",
-          "summary": "Découvrez les secrets de fabrication d'un film entièrement généré par IA, nécessitant 3 229 prompts et 242 heures de travail.",
+          "title": "Ferrari Tyson : 9 Millions ?",
+          "summary": "La Ferrari de Myke Tyson, mise aux enchères, pourrait atteindre la somme colossale de 9 millions d'euros.",
+          "url": "https://www.autoplus.fr/actualite/insolite/mise-aux-encheres-la-ferrari-de-myke-tyson-pourrait-bien-se-vendre-9-millions-deuros-1459533.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-04-a-las-20.35.50.png"
+        },
+        {
+          "title": "Nouveau Radar Pas-de-Calais",
+          "summary": "Un radar temporaire a été installé dans le Pas-de-Calais pour renforcer la sécurité routière.",
+          "url": "http://www.nordlittoral.fr/293817/article/2026-08-04/un-nouveau-radar-temporaire-installe-dans-le-pas-de-calais",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/04/node_293817/3771810/public/2026/08/04/94994016.jpeg?itok=nMHw3OX61785868600"
+        },
+        {
+          "title": "Film IA : 242h de Travail",
+          "summary": "Un film entièrement créé par IA révèle ses coulisses après 3229 prompts et 242 heures de travail intensif.",
           "url": "https://www.macg.co/intelligence-artificielle/2026/07/3-229-prompts-et-242-heures-de-travail-les-coulisses-dun-film-entierement-cree-par-ia-309995",
           "image": "https://cdn.mgig.fr/2026/07/mga-99e4e135-w375-w1500-w750_accroche.jpg"
-        },
-        {
-          "title": "Les Jeux Xbox 360 Bientôt Disponibles sur PC",
-          "summary": "Bonne nouvelle pour les nostalgiques : les jeux de la Xbox 360 pourraient bientôt faire leur grand retour sur PC.",
-          "url": "https://www.journaldugeek.com/2026/08/05/les-jeux-xbox-360-pourraient-bientot-debarquer-sur-pc/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/02/Xbox-Series-logo-1280x853.jpg"
-        },
-        {
-          "title": "Apple & Windows: Copier-Coller Inter-appareils en 2027",
-          "summary": "Le copier-coller fluide entre iPhone et PC Windows deviendra réalité en 2027, une avancée majeure pour la productivité multi-écrans.",
-          "url": "https://www.journaldugeek.com/2026/08/05/copier-coller-entre-iphone-et-pc-windows-apple-est-daccord-mais-pas-avant-2027/",
-          "image": "https://www.journaldugeek.com/app/uploads/2025/10/Apple-iPhone-Air-13-1280x853.jpg"
         }
       ]
     },
     {
       "label": "Business",
-      "emoji": "💰",
+      "emoji": "📊",
       "articles": [
         {
-          "title": "Grève EasyJet: Préavis du 7 Août au 2 Septembre",
-          "summary": "Un préavis de grève des hôtesses et stewards d'EasyJet menace le trafic aérien entre le 7 août et le 2 septembre, impactant les vacances.",
-          "url": "https://www.europe1.fr/economie/easyjet-un-preavis-de-greve-des-hotesses-et-stewards-du-7-aout-au-2-septembre-999282",
-          "image": "https://static.europe1.fr/var/europe1/storage/2026_redaction/A%C3%A9roport-Avion/easyjet_credits_beata_zawrzel_nurphoto_nurphoto_via_afp_69cfae48c4854.jpg"
-        },
-        {
-          "title": "Le Porge: La Résilience du Calyptus Après l'Incendie",
-          "summary": "Face aux cendres de l'incendie en Gironde, Le Calyptus au Porge incarne la résilience, prêt à reconstruire en mieux qu'avant.",
+          "title": "Le Porge : Résilience Post-Feu",
+          "summary": "Après les incendies, l'entreprise Le Calyptus au Porge fait preuve d'une résilience exemplaire pour mieux reconstruire.",
           "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendie-en-gironde-quitte-a-devoir-tout-reconstruire-autant-le-faire-encore-mieux-dans-le-porge-devaste-la-resilience-du-calyptus-30165631.php",
           "image": "https://media.sudouest.fr/30165631/1200x600/20260804175030-fcot361.jpg"
         },
         {
-          "title": "Ferrari de Mike Tyson aux Enchères: 9 Millions?",
-          "summary": "La Ferrari de Myke Tyson est mise aux enchères, avec une estimation qui pourrait atteindre la somme astronomique de 9 millions d'euros.",
-          "url": "https://www.autoplus.fr/actualite/insolite/mise-aux-encheres-la-ferrari-de-myke-tyson-pourrait-bien-se-vendre-9-millions-deuros-1459533.html",
-          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-04-a-las-20.35.50.png"
+          "title": "EasyJet : Grève en Vue",
+          "summary": "Un préavis de grève des hôtesses et stewards EasyJet menace de perturber les vols d'août à septembre.",
+          "url": "https://www.europe1.fr/economie/easyjet-un-preavis-de-greve-des-hotesses-et-stewards-du-7-aout-au-2-septembre-999282",
+          "image": "https://static.europe1.fr/var/europe1/storage/2026_redaction/A%C3%A9roport-Avion/easyjet_credits_beata_zawrzel_nurphoto_nurphoto_via_afp_69cfae48c4854.jpg"
+        },
+        {
+          "title": "Incendies : Aide Exceptionnelle",
+          "summary": "Un dispositif exceptionnel d'indemnisation est mis en place pour l'activité partielle dans les zones sinistrées par les incendies.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde-et-dans-les-landes-un-dispositif-exceptionnel-d-indemnisation-de-l-activite-partielle-va-etre-mis-en-place-30165773.php",
+          "image": "https://media.sudouest.fr/30165773/1200x600/20260804194037-dsf4694.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🔥",
+      "articles": [
+        {
+          "title": "Bois : Allègement Post-Incendie",
+          "summary": "Le gouvernement allège les modalités de coupes de bois pour aider la Gironde et les Landes après les incendies.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde-et-dans-les-landes-le-gouvernement-allege-les-modalites-pour-faciliter-les-coupes-de-bois-30168060.php",
+          "image": null
+        },
+        {
+          "title": "Drôme : Situation Incendie Stable",
+          "summary": "L'incendie dans la Drôme est stable après une nuit fraîche, malgré deux pompiers blessés dans un accident.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-dans-la-drome-situation-stable-apres-une-nuit-fraiche-et-humide-deux-pompiers-blesses-dans-un-accident-30167996.php",
+          "image": null
+        },
+        {
+          "title": "Narcotrafic : Chef DZ Mafia Arrêté",
+          "summary": "Mehdi Laribi, co-fondateur de la DZ Mafia, est arrêté en Algérie : un coup majeur porté au narcotrafic marseillais.",
+          "url": "https://www.sudouest.fr/faits-divers/narcotrafic/narcotrafic-mehdi-laribi-l-un-des-fondateurs-de-la-dz-mafia-a-marseille-a-ete-arrete-fin-juillet-en-algerie-30168009.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Xbox 360 bientôt sur PC",
+          "summary": "Les jeux Xbox 360 pourraient prochainement faire leur apparition sur les ordinateurs, élargissant l'accès au gaming.",
+          "url": "https://www.journaldugeek.com/2026/08/05/les-jeux-xbox-360-pourraient-bientot-debarquer-sur-pc/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/Xbox-Series-logo-1280x853.jpg"
+        },
+        {
+          "title": "Apple : Copier-Coller PC/iPhone",
+          "summary": "Le copier-coller entre iPhone et PC Windows sera possible, mais Apple annonce une attente jusqu'en 2027.",
+          "url": "https://www.journaldugeek.com/2026/08/05/copier-coller-entre-iphone-et-pc-windows-apple-est-daccord-mais-pas-avant-2027/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/10/Apple-iPhone-Air-13-1280x853.jpg"
+        },
+        {
+          "title": "France : Record Historique Chaleur",
+          "summary": "La France bat un nouveau record de chaleur avec 24,9°C de moyenne sur un mois, une météo historique.",
+          "url": "https://www.journaldugeek.com/2026/08/05/meteo-historique-avec-249-c-de-moyenne-sur-tout-un-mois-la-france-vient-de-battre-un-nouveau-record-de-chaleur/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/canicule-1-1280x853.jpg"
         }
       ]
     },
@@ -110,22 +158,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama Alerté sur les Caillots Sanguins",
-          "summary": "Chris Bosh, retraité pour caillots sanguins, met en garde Victor Wembanyama sur ce risque grave, un message fort pour la jeune star.",
+          "title": "Wemby : Bosh Prévient Caillots",
+          "summary": "Chris Bosh alerte Victor Wembanyama sur les risques des caillots sanguins, ayant dû arrêter sa propre carrière.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/il-suffit-d-une-seule-fois-de-plus-force-de-prendre-sa-retraite-a-cause-de-caillots-dans-le-sang-chris-bosh-previent-victor-wembanyama_AV-202608040192.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
         },
         {
-          "title": "LeBron James aux 76ers: Vie à New York?",
-          "summary": "LeBron James rejoint Philadelphie, mais envisage de résider à New York, soulevant la question d'allers-retours quotidiens en hélicoptère.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/des-allers-retours-a-l-entrainement-en-helicoptere-le-bron-james-nouveau-joueur-de-philadelphie-pourrait-vivre-a-new-york_AV-202607270577.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/4nEXsbwV3tLA5Sc0ASdk4VIWnkI=/0x191:2048x1343/800x0/images/LeBron-James-lors-d-un-match-de-pre-saison-entre-les-Lakers-et-les-Suns-le-03-10-2025-2152113.jpg"
-        },
-        {
-          "title": "Nirmal Purja, Alpiniste Star, Retrouvé Mort",
-          "summary": "Le corps de Nirmal Purja, célèbre alpiniste disparu dans une avalanche, a été retrouvé, concluant tragiquement les recherches.",
+          "title": "Nirmal Purja : Corps Retrouvé",
+          "summary": "Le corps de l'alpiniste star Nirmal Purja, décédé dans une avalanche, a été retrouvé, confirmant la tragédie.",
           "url": "https://rmcsport.bfmtv.com/societe/le-corps-de-l-alpiniste-nirmal-purja-tue-dans-une-avalanche-a-ete-retrouve_AN-202608020153.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/giF69dxHbD-X-BpnDSGEp6eS4v4=/0x106:2048x1258/800x0/images/Nirmal-Purja-2327295.jpg"
+        },
+        {
+          "title": "Rugby : Ramos quitte Toulouse",
+          "summary": "Le talentueux Thomas Ramos quitte le Stade Toulousain pour rejoindre le Racing 92, un transfert marquant.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/top-14-c-est-fait-thomas-ramos-quitte-toulouse-et-rejoint-le-racing-92_AV-202608040392.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/nFzgScjb3X97WQAYt-gzUV9f6kg=/0x0:2048x1152/800x0/images/Thomas-Ramos-lors-du-match-face-a-l-ASM-Clermont-Auvergne-le-26-avril-dernier-2309635.jpg"
         }
       ]
     }
