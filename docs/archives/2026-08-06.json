@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Fête de la Transfiguration",
+  "global_summary": "L'actualité mondiale est marquée par des tensions persistantes, entre l'alerte à l'aéroport de Leipzig suite à un drone explosif et la déclaration de Zelensky sur la détermination russe en Ukraine. Parallèlement, le secteur spatial retient l'attention avec un impact de débris SpaceX sur la Lune, signe de grandes ambitions futures. \nEn France, les défis environnementaux sont omniprésents avec les restrictions d'eau dans la Marne et la mobilisation générale face aux incendies en Gironde et dans les Landes. Le monde de la technologie et du sport n'est pas en reste, offrant son lot d'innovations, de réussites sportives et de drames, tout en posant des questions sur la gouvernance sportive.",
+  "running_advice": "Prêt à enfiler tes baskets ? C'est une excellente journée pour courir ! Avec des températures allant de 17.9°C à 28.1°C et un ciel peu nuageux, les conditions sont quasiment parfaites. \nJe te conseille vivement de privilégier ta session tôt le matin, juste après le lever du soleil (dès 06:54), pour profiter de la fraîcheur. Sinon, opte pour la fin de journée, après 18h, voire au coucher du soleil (21:23) si tu as une bonne visibilité, quand la chaleur redescend. Attention, l'indice UV est de 7.1 : la protection solaire est IMPÉRATIVE ! Crème solaire, casquette et lunettes de soleil sont tes meilleurs alliés. Hydrate-toi bien et profite de chaque foulée pour te dépasser !",
+  "weather_string": "🌤️ Peu nuageux (17.9°C / 28.1°C)",
+  "weather_stats": {
+    "temp": "28.1°C",
+    "rain": "0%",
+    "uv": "7.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Drone explosif sème la pagaille à Leipzig",
+          "summary": "Un drone muni d'explosifs a semé la pagaille à l'aéroport de Leipzig, soulevant de vives préoccupations de sécurité.",
+          "url": "https://www.huffingtonpost.fr/international/article/un-drone-muni-d-un-explosif-seme-la-pagaille-a-l-aeroport-de-leipzig-mais-que-s-est-il-passe-ce-mercredi_300038.html",
+          "image": "https://focus.huffingtonpost.fr/2026/08/05/263/0/3000/1687/0/0/60/0/55b986e_upload-1-snwschzvfrlo-afp-20260805-c3zw6yg-v3-highres-germanyairportaviationdronepolicesecurity.jpg"
+        },
+        {
+          "title": "Zelensky: la Russie ne veut pas s'arrêter",
+          "summary": "Volodymyr Zelensky affirme que la Russie n'a pas l'intention de mettre fin à la guerre en Ukraine.",
+          "url": "https://www.bfmtv.com/international/asie/russie/video-guerre-en-ukraine-la-russie-ne-veut-pas-s-arreter-assure-volodymy-zelensky_VN-202608050499.html",
+          "image": "https://images.bfmtv.com/-7iMpeCVTmnfLLbBALd0hNKXYHI=/0x0:1280x720/800x0/images/Guerre-en-Ukraine-La-Russie-ne-veut-pas-s-arreter-assure-Volodymy-Zelensky-2329252.jpg"
+        },
+        {
+          "title": "Débris SpaceX s'écrase sur la Lune",
+          "summary": "Un débris de fusée SpaceX a percuté la Lune, marquant un impact mineur mais symbolique des grandes ambitions spatiales.",
+          "url": "https://www.france24.com/fr/%C3%A9co-tech/20260805-crash-d%C3%A9bris-fus%C3%A9e-spacex-lune-petit-impact-grandes-ambitions",
+          "image": "https://s.france24.com/media/display/e7370230-90b7-11f1-a983-005056bf30b7/w:1024/p:16x9/AP26216753468274.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Marne sous restrictions d'eau",
+          "summary": "La préfecture de la Marne a imposé des restrictions d'eau, reflétant les défis de sécheresse en France.",
+          "url": "http://www.lardennais.fr/id821258/article/2026-08-05/des-restrictions-deau-imposees-par-la-prefecture-de-la-marne",
+          "image": "https://www.lardennais.fr/sites/all/themes/enabootstrap_rem_lardennais/images/logo_lardennais.svg"
+        },
+        {
+          "title": "Incendies Gironde/Landes: solidarité active",
+          "summary": "Face aux incendies en Gironde et dans les Landes, le Secours populaire s'organise pour soutenir sinistrés et secours.",
+          "url": "https://www.sudouest.fr/dordogne/boulazac/incendies-en-gironde-et-dans-les-landes-en-dordogne-le-secours-populaire-ouvre-un-hangar-pour-fluidifier-l-acheminement-des-dons-30170431.php",
+          "image": null
+        },
+        {
+          "title": "Naufrage mortel en rade de Brest",
+          "summary": "Une femme de 78 ans est décédée tragiquement dans le naufrage d'un bateau en rade de Brest.",
+          "url": "https://www.sudouest.fr/faits-divers/une-femme-de-78-ans-meurt-dans-le-naufrage-d-un-bateau-en-rade-de-brest-30177490.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Porsche Boxster/Cayman électriques confirmées",
+          "summary": "Porsche a officiellement confirmé l'arrivée prochaine de ses modèles Boxster et Cayman en versions entièrement électriques.",
+          "url": "https://www.20minutes.fr/auto/4237985-20260805-porsche-boxster-cayman-electriques-finalement-confirmees",
+          "image": "https://img.20mn.fr/-ZR0eXyRQuyzCScBGl12tik/1200x768_revirement-pour-porsche"
+        },
+        {
+          "title": "Android dit adieu à Google Assistant",
+          "summary": "Les smartphones Android s'apprêtent à dire bientôt au revoir à Google Assistant, un changement d'ère majeur.",
+          "url": "https://www.journaldugeek.com/2026/08/06/les-smartphones-android-diront-bientot-au-revoir-a-google-assistant/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/02/google-pixel-10a-accueil-1280x853.jpg"
+        },
+        {
+          "title": "Construire son équipe d'agents IA",
+          "summary": "Découvrez comment bâtir votre propre équipe d'agents IA à domicile, sous l'égide d'OpenClaw.",
+          "url": "https://www.macg.co/intelligence-artificielle/2026/08/mon-ia-la-maison-batir-mon-equipe-dagents-ia-sous-la-houlette-dopenclaw-310217",
+          "image": "https://cdn.mgig.fr/2026/08/mga-e96cd6c1-w375-w1500-w750_accroche.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Vendanges anticipées au Domaine Kennel",
+          "summary": "Le Domaine Kennel à Pierrefeu lance déjà ses vendanges, se fiant aux sensations pour un millésime unique.",
+          "url": "https://www.nicematin.com/economie/agriculture/je-prends-des-baies-sans-les-choisir-et-je-goute-a-pierrefeu-le-domaine-kennel-se-fie-aux-sensations-du-vigneron-et-lance-deja-les-vendanges-10700846",
+          "image": "https://assets.nicematin.com/articles/10/70/08/46/OG-10700846-1200-800-5951e99_ftp-1-oogn707v4vzj-touxxq0548-lb-domaine-de-vin-kennel-pierre-feu.jpg"
+        },
+        {
+          "title": "Actions IA : les pépites selon Baird",
+          "summary": "Selon Baird, certaines actions d'infrastructure IA sont particulièrement prometteuses et à surveiller attentivement.",
+          "url": "https://fr.investing.com/news/stock-market-news/les-meilleures-actions-dinfrastructure-ia-a-surveiller-selon-baird-93CH-3538837",
+          "image": "https://i-invdn-com.investing.com/news/LYNXMPEB0508S_M.jpg"
+        },
+        {
+          "title": "FIFA: Infantino et sa promesse au Maroc",
+          "summary": "Dans la crise que traverse la FIFA, Gianni Infantino aurait fait une promesse au Maroc en échange de soutien.",
+          "url": "https://www.lefigaro.fr/flash-sport/crise-a-la-fifa-gianni-infantino-fait-une-grande-promesse-au-maroc-en-echange-d-un-soutien-public-20260805",
+          "image": "https://i.f1g.fr/media/cms/1200x_cropupscale/2026/08/05/ff07537a4c7225d7832a15f07025f55c5aa7d8b817a823a6aa98b6f6908b5481.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama et les Spurs à Nanterre",
+          "summary": "Les Spurs de Victor Wembanyama ont créé la surprise en s'entraînant à Nanterre, sous les yeux des fans.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-basketball-entrainement-surprise-des-spurs-de-wembanyama-a-nanterre_VN-202608050255.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KtGMjYo1gihdbLEBJKtv5hXjUUw=/0x0:1280x720/800x0/images/Basketball-Entrainement-surprise-des-Spurs-de-Wembanyama-a-Nanterre-2329073.jpg"
+        },
+        {
+          "title": "Le corps de Nirmal Purja retrouvé",
+          "summary": "Le corps de l'alpiniste star Nirmal Purja, disparu tragiquement dans une avalanche, a été retrouvé.",
+          "url": "https://rmcsport.bfmtv.com/societe/le-corps-de-l-alpiniste-nirmal-purja-tue-dans-une-avalanche-a-ete-retrouve_AN-202608020153.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/giF69dxHbD-X-BpnDSGEp6eS4v4=/0x106:2048x1258/800x0/images/Nirmal-Purja-2327295.jpg"
+        },
+        {
+          "title": "Gaffe d'Infantino sur le Mondial 2026",
+          "summary": "Gianni Infantino a félicité Mbappé pour un \"doublé\" deux semaines après le Mondial 2026, créant la confusion.",
+          "url": "https://rmcsport.bfmtv.com/basket/championnats-du-monde/coupe-du-monde-2026-infantino-felicite-mbappe-pour-son-double-deux-semaines-apres-la-fin-du-mondial_AV-202608040521.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/-cBfg6DuNHNRCeCJuGoTsOWbLxU=/0x0:2048x1152/800x0/images/Macron-aux-cotes-de-Infantino-Mbappe-et-Le-Graet-1144770.jpg"
+        }
+      ]
+    }
+  ]
+}
