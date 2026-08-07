@@ -1,0 +1,145 @@
+{
+  "ephemeride": "Saint Gaétan",
+  "global_summary": "L'actualité mondiale est marquée par des contrastes saisissants. Alors que l'Europe suffoque sous une canicule historique, entraînant records de température et incendies, les États-Unis voient un ex-conseiller Covid visé par des recommandations de poursuites. La France doit quant à elle faire face à des enjeux nationaux importants, notamment la lutte contre la criminalité organisée et des tensions géopolitiques autour de Ceuta. L'économie, elle, se concentre sur l'avenir incertain de fleurons industriels. \n\nSur le plan sportif, un scandale secoue le monde du football tandis que l'athlétisme français brille avec de nouveaux talents, mais de sérieuses mises en garde sur la santé sont émises pour nos stars du basket. Le secteur de la Tech et du Gaming continue d'innover et de susciter l'intérêt, offrant une dynamique plus légère à cette journée chargée.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets, mais avec une stratégie intelligente ! Le ciel est peu nuageux et aucune pluie n'est prévue : des conditions parfaites pour la motivation. Cependant, avec une température maximale de 32.3°C, il faudra être malin. L'heure idéale pour votre run sera tôt le matin, juste après le lever du soleil vers 07h00, pour profiter de la fraîcheur matinale autour de 17°C. Si le matin est impossible, visez le début de soirée, après 20h30, quand le soleil commence à décliner et que les températures sont plus douces. Attention, l'indice UV est de 7.1, ce qui est élevé ! Protégez impérativement votre peau avec une crème solaire adaptée et pensez à une casquette ou des lunettes. Hydratez-vous abondamment avant, pendant et après l'effort. Votre corps est votre moteur, traitez-le bien et dépassez-vous !",
+  "weather_string": "🌤️ Peu nuageux (16.9°C / 32.3°C)",
+  "weather_stats": {
+    "temp": "32.3°C",
+    "rain": "0%",
+    "uv": "7.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Poursuites contre Fauci",
+          "summary": "Le Sénat américain recommande des poursuites contre l'ex-conseiller Covid pour des allégations controversées.",
+          "url": "https://www.la-croix.com/international/etats-unis-le-senat-recommande-des-poursuites-contre-l-ex-conseiller-covid-anthony-fauci-20260806",
+          "image": "https://i.la-croix.com/x/2026/08/06/2506832-le-docteur-anthony-fauci-ancien-directeur-de-l-ins.jpg"
+        },
+        {
+          "title": "Europe : canicule et incendies",
+          "summary": "L'Europe suffoque sous des températures records, entraînant incendies et tensions énergétiques sans précédent.",
+          "url": "http://fr.euronews.com/my-europe/2026/08/06/canicule-en-europe-des-records-de-temperature-des-incendies-et-des-tensions-sur-les-reseau",
+          "image": "https://images.euronews.com/articles/stories/09/86/49/62/1440x810_cmsv2_d6f5f1c4-ccdb-5e20-86a1-13c9ea9dd4d0-9864962.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "DZ Mafia : interpellation clé",
+          "summary": "Un cadre présumé de la DZ Mafia, groupe criminel marseillais, a été interpellé en Algérie.",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/06/dz-mafia-un-nouveau-cadre-presume-du-groupe-criminel-marseillais-interpelle-et-place-sous-controle-judiciaire-en-algerie_6740081_3224.html",
+          "image": "https://img.lemde.fr/2026/06/16/250/0/3000/1500/1342/671/60/0/cabaade_upload-1-yyclbmzye3cs-frame-1160.jpg"
+        },
+        {
+          "title": "Ceuta cherche soutien Europe",
+          "summary": "Ceuta demande un appui clair de l'Europe face à ses tensions croissantes avec le Maroc.",
+          "url": "https://www.lecho.be/economie-politique/europe/general/ceuta-cherche-un-soutien-explicite-de-l-europe-dans-son-face-a-face-avec-le-maroc/10681534.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:EPYSa44z46RBy4FmfzDqhZ&context=ONLINE&ratio=16/9&width=640&u=1786040468000"
+        },
+        {
+          "title": "Aisne : meurtre à l'arme blanche",
+          "summary": "Un homme d'une trentaine d'années a été déféfé pour un meurtre à l'arme blanche dans l'Aisne.",
+          "url": "https://www.dna.fr/faits-divers-justice/2026/08/06/un-trentenaire-defere-pour-un-meurtre-a-l-arme-blanche",
+          "image": "https://cdn-s-www.dna.fr/images/7474E724-2C0B-47F5-807B-212DAED3DA93/NW_listB/un-trentenaire-defere-pour-un-meurtre-a-l-arme-blanche-1786040290.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Samsung Z Fold 8 en avant-première",
+          "summary": "Les nouveaux Samsung Galaxy Z Fold 8 et Ultra sont déjà disponibles sur le Real Cloud Device de TestMu AI.",
+          "url": "http://www.businesswire.com/news/home/20260805895480/fr/",
+          "image": "https://mms.businesswire.com/media/20260805895480/fr/2868817/21/TestMu_AI_Logo_%283%29.jpg"
+        },
+        {
+          "title": "SpaceX alimente son IA avec Tesla",
+          "summary": "SpaceX a investi massivement dans des batteries Tesla pour ses centres de données d'intelligence artificielle.",
+          "url": "https://fr.qz.com/spacex-tesla-megapack-ai-centres-de-donnes-080626",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2245429934.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Duralex : un sursis pour les verres",
+          "summary": "Trois offres de reprise déposées pour Duralex en redressement judiciaire, la décision prolongée d'un mois.",
+          "url": "https://www.bfmtv.com/economie/entreprises/industries/les-verres-duralex-seront-ils-sauves-trois-candidats-ont-depose-des-offres-de-reprise-pour-la-verrerie-en-redressement-judiciaire-mais-la-date-limite-a-ete-encore-prolongee-d-un-mois_AD-202608060501.html",
+          "image": "https://images.bfmtv.com/kg2Lar2qy2mPSy9J3XeDivXWVYQ=/20x0:1236x684/800x0/images/-445218.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualité Régionale",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Origny-en-Thiérache retrouve la scène",
+          "summary": "Seize ans après, la commune d'Origny-en-Thiérache retrouve sa place sur la scène régionale.",
+          "url": "http://www.lardennais.fr/id821405/article/2026-08-06/seize-ans-apres-origny-en-thierache-retrouve-la-scene-regionale",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/06/node_821405/15489947/public/2026/08/06/95299732.jpeg?itok=ejYcZuZy1786040468"
+        }
+      ]
+    },
+    {
+      "label": "Gaming & Gadgets",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Revendre sa console ? Le bon moment ?",
+          "summary": "Face à la hausse des prix, les joueurs s'interrogent sur l'opportunité de revendre leur console.",
+          "url": "https://www.journaldugeek.com/2026/08/07/avec-la-hausse-des-prix-est-ce-le-bon-moment-pour-revendre-sa-console/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/PS5-consoles-revente-1280x853.jpg"
+        },
+        {
+          "title": "EA Sports FC 27 innove avec The Grounds",
+          "summary": "Les créateurs d'EA Sports FC 27 dévoilent \"The Grounds\", un monde ouvert évolutif avec la communauté.",
+          "url": "https://www.journaldugeek.com/2026/08/06/un-bebe-qui-va-evoluer-selon-la-communaute-les-developpeurs-dea-sports-fc-27-partagent-leur-optimisme-pour-leur-monde-ouvert-the-grounds/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/Bucketball-FC-27-1280x853.jpg"
+        },
+        {
+          "title": "Roborock Z120 : test robot tondeuse",
+          "summary": "Le test du Roborock RockMow Z120 LiDAR révèle un robot tondeuse tout-terrain redéfinissant le haut de gamme.",
+          "url": "https://www.journaldugeek.com/test/test-roborock-rockmow-z120-lidar-le-tout-terrain-qui-redefinit-le-robot-tondeuse-haut-de-gamme/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/rockmow-20-1280x960.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Scandale : vente Coupe du Monde FIFA",
+          "summary": "La Fifpro critique \"l'abus flagrant de pouvoir\" de Gianni Infantino concernant la vente de la Coupe du Monde.",
+          "url": "https://rmcsport.bfmtv.com/basket/championnats-du-monde/vente-de-la-coupe-du-monde-un-abus-flagrant-du-pouvoir-presidentiel-la-fifpro-charge-aussi-gianni-infantino_AV-202608060509.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/405c6ht4jJF6ZaSriVfg97ggMus=/0x80:2048x1232/800x0/images/Gianni-Infantino-avec-la-Coupe-du-monde-le-11-juin-2026-2307587.jpg"
+        },
+        {
+          "title": "Samuel Vessat, champion et recordman",
+          "summary": "Samuel Vessat est champion de France et nouveau recordman du 400m, exprimant sa joie et son honneur.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-athletisme-champion-de-france-du-400m-et-nouveau-recordman-de-france-samuel-vessat-est-super-content-et-honore_VN-202607290377.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/05ZSb1O3rHW8q2pfZVAabF3d-YY=/0x0:1280x720/800x0/images/Athletisme-Champion-de-France-du-400m-et-nouveau-recordman-de-France-Samuel-Vessat-est-super-content-et-honore-2326701.jpg"
+        },
+        {
+          "title": "Wembanyama : la mise en garde de Bosh",
+          "summary": "L'ex-joueur Chris Bosh, retraité forcé, alerte Victor Wembanyama sur les risques de caillots sanguins.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/il-suffit-d-une-seule-fois-de-plus-force-de-prendre-sa-retraite-a-cause-de-caillots-dans-le-sang-chris-bosh-previent-victor-wembanyama_AV-202608040192.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        }
+      ]
+    }
+  ]
+}
