@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Gaétan",
-  "global_summary": "L'actualité mondiale est marquée par des contrastes saisissants. Alors que l'Europe suffoque sous une canicule historique, entraînant records de température et incendies, les États-Unis voient un ex-conseiller Covid visé par des recommandations de poursuites. La France doit quant à elle faire face à des enjeux nationaux importants, notamment la lutte contre la criminalité organisée et des tensions géopolitiques autour de Ceuta. L'économie, elle, se concentre sur l'avenir incertain de fleurons industriels. \n\nSur le plan sportif, un scandale secoue le monde du football tandis que l'athlétisme français brille avec de nouveaux talents, mais de sérieuses mises en garde sur la santé sont émises pour nos stars du basket. Le secteur de la Tech et du Gaming continue d'innover et de susciter l'intérêt, offrant une dynamique plus légère à cette journée chargée.",
-  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets, mais avec une stratégie intelligente ! Le ciel est peu nuageux et aucune pluie n'est prévue : des conditions parfaites pour la motivation. Cependant, avec une température maximale de 32.3°C, il faudra être malin. L'heure idéale pour votre run sera tôt le matin, juste après le lever du soleil vers 07h00, pour profiter de la fraîcheur matinale autour de 17°C. Si le matin est impossible, visez le début de soirée, après 20h30, quand le soleil commence à décliner et que les températures sont plus douces. Attention, l'indice UV est de 7.1, ce qui est élevé ! Protégez impérativement votre peau avec une crème solaire adaptée et pensez à une casquette ou des lunettes. Hydratez-vous abondamment avant, pendant et après l'effort. Votre corps est votre moteur, traitez-le bien et dépassez-vous !",
-  "weather_string": "🌤️ Peu nuageux (16.9°C / 32.3°C)",
+  "global_summary": "L'actualité de ce jour est marquée par une série de défis et d'adaptations, sur fond de préoccupations environnementales et de tensions géopolitiques. En Europe, la canicule s'intensifie, entraînant des records de température et des incendies, mettant à rude épreuve les réseaux énergétiques. Sur le plan judiciaire, des poursuites sont recommandées contre Anthony Fauci aux États-Unis, tandis que la France fait face à la criminalité organisée et aux enjeux frontaliers avec l'Algérie et le Maroc. Une fusillade tragique en Thaïlande rappelle les sombres réalités mondiales. \nLe monde du sport n'est pas en reste, entre les polémiques autour de la Coupe du Monde de football et les exploits inspirants de nos athlètes, comme Victor Wembanyama. Le secteur économique navigue entre espoir de reprise pour des entreprises emblématiques comme Duralex et la nécessité d'innover pour la préservation des ressources. Ces événements soulignent l'importance de la résilience et de l'ingéniosité face aux enjeux contemporains, tout en offrant des lueurs d'optimisme technologique et sportif.",
+  "running_advice": "Absolument ! Avec un ciel peu nuageux et aucune pluie, c'est une excellente journée pour chausser vos baskets et vous dépasser. Cependant, les températures diurnes montant jusqu'à 32.2°C, je vous conseille vivement de privilégier votre course tôt le matin, juste après le lever du soleil vers 06h55, pour profiter d'une fraîcheur optimale. Si le matin n'est pas possible, visez la fin de journée après 20h00, quand le soleil commence à décliner et la chaleur s'adoucit. L'indice UV étant de 7.1, une protection solaire (crème, casquette, lunettes) est ABSOLUMENT INDISPENSABLE pour protéger votre peau. Et surtout, hydratez-vous abondamment avant, pendant et après l'effort ! Allez, on lâche rien, chaque foulée compte pour votre bien-être !",
+  "weather_string": "🌤️ Peu nuageux (16.9°C / 32.2°C)",
   "weather_stats": {
-    "temp": "32.3°C",
+    "temp": "32.2°C",
     "rain": "0%",
     "uv": "7.1"
   },
@@ -14,16 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Poursuites contre Fauci",
-          "summary": "Le Sénat américain recommande des poursuites contre l'ex-conseiller Covid pour des allégations controversées.",
+          "title": "Europe suffoque : canicule, incendies et tensions énergétiques",
+          "summary": "L'Europe bat des records de chaleur, faisant face aux incendies et pressions sur son réseau énergétique.",
+          "url": "http://fr.euronews.com/my-europe/2026/08/06/canicule-en-europe-des-records-de-temperature-des-incendies-et-des-tensions-sur-les-reseau",
+          "image": "https://images.euronews.com/articles/stories/09/86/49/62/1440x810_cmsv2_d6f5f1c4-ccdb-5e20-86a1-13c9ea9dd4d0-9864962.jpg"
+        },
+        {
+          "title": "Poursuites contre Fauci : le Sénat américain recommande",
+          "summary": "L'ex-conseiller Covid Anthony Fauci pourrait être poursuivi, selon la recommandation du Sénat américain.",
           "url": "https://www.la-croix.com/international/etats-unis-le-senat-recommande-des-poursuites-contre-l-ex-conseiller-covid-anthony-fauci-20260806",
           "image": "https://i.la-croix.com/x/2026/08/06/2506832-le-docteur-anthony-fauci-ancien-directeur-de-l-ins.jpg"
         },
         {
-          "title": "Europe : canicule et incendies",
-          "summary": "L'Europe suffoque sous des températures records, entraînant incendies et tensions énergétiques sans précédent.",
-          "url": "http://fr.euronews.com/my-europe/2026/08/06/canicule-en-europe-des-records-de-temperature-des-incendies-et-des-tensions-sur-les-reseau",
-          "image": "https://images.euronews.com/articles/stories/09/86/49/62/1440x810_cmsv2_d6f5f1c4-ccdb-5e20-86a1-13c9ea9dd4d0-9864962.jpg"
+          "title": "Thaïlande : fusillade meurtrière dans un lycée, tireur neutralisé",
+          "summary": "Une fusillade tragique dans un lycée thaïlandais fait des victimes, le tireur est interpellé.",
+          "url": "https://www.sudouest.fr/faits-divers/fusillade-dans-un-lycee-en-thailande-au-moins-deux-morts-le-tireur-neutralise-30187024.php",
+          "image": null
         }
       ]
     },
@@ -32,88 +38,70 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "DZ Mafia : interpellation clé",
-          "summary": "Un cadre présumé de la DZ Mafia, groupe criminel marseillais, a été interpellé en Algérie.",
+          "title": "DZ Mafia : un cadre interpellé en Algérie",
+          "summary": "Un nouveau cadre présumé du groupe criminel marseillais DZ Mafia a été arrêté en Algérie.",
           "url": "https://www.lemonde.fr/societe/article/2026/08/06/dz-mafia-un-nouveau-cadre-presume-du-groupe-criminel-marseillais-interpelle-et-place-sous-controle-judiciaire-en-algerie_6740081_3224.html",
           "image": "https://img.lemde.fr/2026/06/16/250/0/3000/1500/1342/671/60/0/cabaade_upload-1-yyclbmzye3cs-frame-1160.jpg"
         },
         {
-          "title": "Ceuta cherche soutien Europe",
-          "summary": "Ceuta demande un appui clair de l'Europe face à ses tensions croissantes avec le Maroc.",
+          "title": "Ceuta cherche soutien européen face au Maroc",
+          "summary": "Ceuta sollicite l'Europe pour un soutien clair dans son face-à-face avec le Maroc.",
           "url": "https://www.lecho.be/economie-politique/europe/general/ceuta-cherche-un-soutien-explicite-de-l-europe-dans-son-face-a-face-avec-le-maroc/10681534.html",
           "image": "https://images.lecho.be/view?iid=Elvis:EPYSa44z46RBy4FmfzDqhZ&context=ONLINE&ratio=16/9&width=640&u=1786040468000"
         },
         {
-          "title": "Aisne : meurtre à l'arme blanche",
-          "summary": "Un homme d'une trentaine d'années a été déféfé pour un meurtre à l'arme blanche dans l'Aisne.",
+          "title": "Aisne : un trentenaire déféré pour meurtre",
+          "summary": "Un homme a été déféré pour un meurtre à l'arme blanche dans l'Aisne.",
           "url": "https://www.dna.fr/faits-divers-justice/2026/08/06/un-trentenaire-defere-pour-un-meurtre-a-l-arme-blanche",
           "image": "https://cdn-s-www.dna.fr/images/7474E724-2C0B-47F5-807B-212DAED3DA93/NW_listB/un-trentenaire-defere-pour-un-meurtre-a-l-arme-blanche-1786040290.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
-      "emoji": "💻",
+      "label": "Tech",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "Samsung Z Fold 8 en avant-première",
-          "summary": "Les nouveaux Samsung Galaxy Z Fold 8 et Ultra sont déjà disponibles sur le Real Cloud Device de TestMu AI.",
+          "title": "Samsung Z Fold 8 déjà disponible sur TestMu AI",
+          "summary": "Les Galaxy Z Fold 8 et Z Fold 8 Ultra de Samsung sont accessibles sur TestMu AI avant leur lancement.",
           "url": "http://www.businesswire.com/news/home/20260805895480/fr/",
           "image": "https://mms.businesswire.com/media/20260805895480/fr/2868817/21/TestMu_AI_Logo_%283%29.jpg"
         },
         {
-          "title": "SpaceX alimente son IA avec Tesla",
-          "summary": "SpaceX a investi massivement dans des batteries Tesla pour ses centres de données d'intelligence artificielle.",
+          "title": "SpaceX : 295 M$ en batteries Tesla pour l'IA",
+          "summary": "SpaceX a investi massivement dans des batteries Tesla pour alimenter ses centres de données d'IA.",
           "url": "https://fr.qz.com/spacex-tesla-megapack-ai-centres-de-donnes-080626",
           "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2245429934.jpg"
+        },
+        {
+          "title": "Consoles : le bon moment pour la revente ?",
+          "summary": "Avec la hausse des prix, c'est peut-être le moment idéal pour revendre sa console de jeu.",
+          "url": "https://www.journaldugeek.com/2026/08/07/avec-la-hausse-des-prix-est-ce-le-bon-moment-pour-revendre-sa-console/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/PS5-consoles-revente-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Économie",
+      "label": "Business",
       "emoji": "💰",
       "articles": [
         {
-          "title": "Duralex : un sursis pour les verres",
-          "summary": "Trois offres de reprise déposées pour Duralex en redressement judiciaire, la décision prolongée d'un mois.",
+          "title": "Duralex : trois offres de reprise, espoir renouvelé",
+          "summary": "La verrerie Duralex en redressement judiciaire voit trois candidats déposer des offres de reprise.",
           "url": "https://www.bfmtv.com/economie/entreprises/industries/les-verres-duralex-seront-ils-sauves-trois-candidats-ont-depose-des-offres-de-reprise-pour-la-verrerie-en-redressement-judiciaire-mais-la-date-limite-a-ete-encore-prolongee-d-un-mois_AD-202608060501.html",
           "image": "https://images.bfmtv.com/kg2Lar2qy2mPSy9J3XeDivXWVYQ=/20x0:1236x684/800x0/images/-445218.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Actualité Régionale",
-      "emoji": "📍",
-      "articles": [
-        {
-          "title": "Origny-en-Thiérache retrouve la scène",
-          "summary": "Seize ans après, la commune d'Origny-en-Thiérache retrouve sa place sur la scène régionale.",
-          "url": "http://www.lardennais.fr/id821405/article/2026-08-06/seize-ans-apres-origny-en-thierache-retrouve-la-scene-regionale",
-          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/06/node_821405/15489947/public/2026/08/06/95299732.jpeg?itok=ejYcZuZy1786040468"
-        }
-      ]
-    },
-    {
-      "label": "Gaming & Gadgets",
-      "emoji": "🎮",
-      "articles": [
-        {
-          "title": "Revendre sa console ? Le bon moment ?",
-          "summary": "Face à la hausse des prix, les joueurs s'interrogent sur l'opportunité de revendre leur console.",
-          "url": "https://www.journaldugeek.com/2026/08/07/avec-la-hausse-des-prix-est-ce-le-bon-moment-pour-revendre-sa-console/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/PS5-consoles-revente-1280x853.jpg"
         },
         {
-          "title": "EA Sports FC 27 innove avec The Grounds",
-          "summary": "Les créateurs d'EA Sports FC 27 dévoilent \"The Grounds\", un monde ouvert évolutif avec la communauté.",
-          "url": "https://www.journaldugeek.com/2026/08/06/un-bebe-qui-va-evoluer-selon-la-communaute-les-developpeurs-dea-sports-fc-27-partagent-leur-optimisme-pour-leur-monde-ouvert-the-grounds/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/Bucketball-FC-27-1280x853.jpg"
+          "title": "Finistère : astuces vacances pour économiser l'eau",
+          "summary": "Dans le Finistère, les vacanciers adoptent des solutions créatives pour économiser l'eau en période de sécheresse.",
+          "url": "https://www.tf1info.fr/environnement-ecologie/secheresse-on-l-utilise-pour-les-toilettes-dans-le-finistere-toutes-les-solutions-sont-bonnes-pour-economiser-l-eau-en-vacances-2457116.html",
+          "image": "https://photos.tf1info.fr/images/960/540/capjta-economie-eau-finistere-9680b0-1@1x.jpeg"
         },
         {
-          "title": "Roborock Z120 : test robot tondeuse",
-          "summary": "Le test du Roborock RockMow Z120 LiDAR révèle un robot tondeuse tout-terrain redéfinissant le haut de gamme.",
-          "url": "https://www.journaldugeek.com/test/test-roborock-rockmow-z120-lidar-le-tout-terrain-qui-redefinit-le-robot-tondeuse-haut-de-gamme/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/07/rockmow-20-1280x960.jpg"
+          "title": "Avignon : dégustation de vins au Palais des Papes",
+          "summary": "Les jardins du Palais des Papes d'Avignon accueillent des dégustations de vins tous les jeudis d'août.",
+          "url": "https://www.ledauphine.com/economie/2026/08/06/degustation-de-vins-dans-les-jardins-du-palais-les-jeudis-d-aout",
+          "image": "http://cdn-files.prsmedia.fr/files/LDL/fr/images/LDL_placeholder.png"
         }
       ]
     },
@@ -122,22 +110,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Scandale : vente Coupe du Monde FIFA",
-          "summary": "La Fifpro critique \"l'abus flagrant de pouvoir\" de Gianni Infantino concernant la vente de la Coupe du Monde.",
-          "url": "https://rmcsport.bfmtv.com/basket/championnats-du-monde/vente-de-la-coupe-du-monde-un-abus-flagrant-du-pouvoir-presidentiel-la-fifpro-charge-aussi-gianni-infantino_AV-202608060509.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/405c6ht4jJF6ZaSriVfg97ggMus=/0x80:2048x1232/800x0/images/Gianni-Infantino-avec-la-Coupe-du-monde-le-11-juin-2026-2307587.jpg"
+          "title": "Mondial 2030 : l'UEFA maintient son boycott",
+          "summary": "Malgré le rétropédalage de Gianni Infantino, l'UEFA boycotte toujours la Coupe du monde 2030.",
+          "url": "https://rmcsport.bfmtv.com/basket/championnats-du-monde/vente-de-la-coupe-du-monde-l-uefa-maintient-son-boycott-de-la-coupe-du-monde-2030-malgre-le-retropedalage-de-gianni-infantino_AD-202608060401.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/BSEVgmSf1HUOPvjUobAUyqL8WRk=/243x143:2019x1142/800x0/images/Le-president-de-l-UEFA-Aleksander-Ceferin-et-le-president-de-la-Fifa-Gianni-Infantino-en-juin-2024-2315950.jpg"
         },
         {
-          "title": "Samuel Vessat, champion et recordman",
-          "summary": "Samuel Vessat est champion de France et nouveau recordman du 400m, exprimant sa joie et son honneur.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/video-athletisme-champion-de-france-du-400m-et-nouveau-recordman-de-france-samuel-vessat-est-super-content-et-honore_VN-202607290377.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/05ZSb1O3rHW8q2pfZVAabF3d-YY=/0x0:1280x720/800x0/images/Athletisme-Champion-de-France-du-400m-et-nouveau-recordman-de-France-Samuel-Vessat-est-super-content-et-honore-2326701.jpg"
+          "title": "Wembanyama fait visiter le Louvre aux Spurs",
+          "summary": "Victor Wembanyama partage la culture française avec ses coéquipiers des San Antonio Spurs au Louvre.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-quand-victor-wembanyama-fait-decouvrir-le-louvre-a-ses-coequipiers-des-san-antonio-spurs_AV-202608060133.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/FXmVlN6V7J3b4gQ1iyKbfnHCS6g=/0x635:1152x1283/800x0/images/Les-San-Antonio-Spurs-de-Victor-Wembanyama-en-visite-au-Louvre-2329360.jpg"
         },
         {
-          "title": "Wembanyama : la mise en garde de Bosh",
-          "summary": "L'ex-joueur Chris Bosh, retraité forcé, alerte Victor Wembanyama sur les risques de caillots sanguins.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/il-suffit-d-une-seule-fois-de-plus-force-de-prendre-sa-retraite-a-cause-de-caillots-dans-le-sang-chris-bosh-previent-victor-wembanyama_AV-202608040192.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+          "title": "Nirmal Purja, corps retrouvé après l'avalanche",
+          "summary": "Le corps de l'alpiniste star Nirmal Purja, décédé dans une avalanche, a été retrouvé.",
+          "url": "https://rmcsport.bfmtv.com/societe/le-corps-de-l-alpiniste-nirmal-purja-tue-dans-une-avalanche-a-ete-retrouve_AN-202608020153.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/giF69dxHbD-X-BpnDSGEp6eS4v4=/0x106:2048x1258/800x0/images/Nirmal-Purja-2327295.jpg"
         }
       ]
     }
