@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Dominique",
+  "global_summary": "L'actualité du jour dessine un tableau contrasté, mêlant innovations technologiques, faits de société marquants et développements sportifs. Sur le plan international, la géopolitique se tend avec des incidents comme la découverte d'un drone piégé, tandis que des notes plus légères émergent, à l'image des naissances de guépards et des études insolites sur les marmottes. En France, l'autorisation des robots de livraison autonome annonce un futur plus connecté, mais les tribunaux font aussi la une avec des condamnations importantes et de nouveaux talents brillent sur la scène athlétique. \nLes sphères économique et sportive ne sont pas en reste : Trenitalia prévoit une liaison Paris-Londres, tandis que le monde du sport est secoué par des accusations graves au sein de la FIFA et de la gymnastique française, tout en célébrant l'influence culturelle grandissante de stars comme Victor Wembanyama. Entre progrès et défis, cette journée nous rappelle la complexité et la diversité du monde qui nous entoure.",
+  "running_advice": "Attention, champion(ne) ! Aujourd'hui, le soleil joue à fond la carte de l'été. Avec des températures grimpant jusqu'à 36.9°C et un indice UV de 7.05, courir en pleine journée serait une erreur stratégique. La meilleure fenêtre pour performer en toute sécurité ? Très tôt le matin, juste après le lever du soleil à 06h56, ou alors en soirée, après 19h00, quand la chaleur commence à baisser. N'oublie jamais ta protection solaire (crème, casquette, lunettes), même par ciel peu nuageux. Hydratation maximale avant, pendant et après l'effort ! Fais preuve de sagesse et d'endurance. À toi de jouer !",
+  "weather_string": "🌤️ Peu nuageux (19.2°C / 36.9°C)",
+  "weather_stats": {
+    "temp": "36.9°C",
+    "rain": "8%",
+    "uv": "7.05"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Marmottes sur OnlyFans : La Science s'amuse",
+          "summary": "Des chercheurs utilisent la plateforme pour étudier le comportement des marmottes, une approche... originale et scientifique.",
+          "url": "https://www.franceinfo.fr/sciences/des-marmottes-sur-onlyfans_8138561.html",
+          "image": "https://www.franceinfo.fr/pictures/-XVNl9e1hE2fI3hMmOaeZAeYWFE/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/07/6a75ce337c0f6441351492.jpg"
+        },
+        {
+          "title": "Naissances : Six guépards voient le jour à Bâle",
+          "summary": "Le zoo de Bâle célèbre l'arrivée de six bébés guépards, une excellente nouvelle pour la biodiversité.",
+          "url": "https://www.lalsace.fr/societe/2026/08/07/six-bebes-guepards-sont-nes-en-juin-au-zoo-de-bale",
+          "image": "https://cdn-s-www.lalsace.fr/images/8755BE5C-B440-4A10-9AF0-9D122315BD4B/NW_listB/six-bebes-guepards-sont-nes-en-juin-au-zoo-de-bale-1786126965.jpg"
+        },
+        {
+          "title": "Drone piégé : la Russie dénonce une provocation",
+          "summary": "Un incident avec un drone près d'un avion ukrainien à Leipzig provoque une réaction ferme de la Russie.",
+          "url": "https://www.lindependant.fr/2026/08/07/une-provocation-montee-de-toutes-pieces-la-russie-reagit-apres-la-decouverte-dun-drone-piege-a-cote-dun-avion-ukrainien-a-laeroport-de-leipzig-en-13501033.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/6a761de53bbbec2d9b0f7e00/standard/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Athlétisme U20 : Niang décroche le bronze",
+          "summary": "La jeune athlète française Soudatou Niang s'illustre aux Mondiaux U20 avec une médaille de bronze.",
+          "url": "https://actu.fr/normandie/evreux_27229/athletisme-aux-mondiaux-u20-lebroicienne-soudatou-niang-bondit-sur-la-medaille-de-bronze_64638847.html",
+          "image": "https://static.actu.fr/uploads/2026/08/e96e37ae167a60e6e37ae167ae17e3v-1024x557.jpg"
+        },
+        {
+          "title": "Révolution robotique : Livraison autonome autorisée",
+          "summary": "Une première nationale : la France autorise les robots de livraison sans conducteur sur la voie publique.",
+          "url": "https://www.bfmtv.com/auto/la-france-autorise-les-premiers-robots-de-livraison-autonome-sans-conducteur-sur-la-chaussee_AV-202608070445.html",
+          "image": "https://images.bfmtv.com/H-pLMhuGtIhRPIXHGiqjQGWYliM=/4x3:1252x705/800x0/images/-161433.jpg"
+        },
+        {
+          "title": "Moha La Squale condamné pour violences",
+          "summary": "Le rappeur Moha La Squale écope de deux ans de prison ferme pour agressions sur deux femmes.",
+          "url": "https://www.sudouest.fr/ile-de-france/paris/le-rappeur-moha-la-squale-condamne-a-deux-ans-de-prison-pour-des-violences-sur-deux-femmes-30195737.php",
+          "image": "https://www.sudouest.fr/assets/v1/img/placeholder-og.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Trump ironise sur les voitures électriques",
+          "summary": "Donald Trump critique les propriétaires de véhicules électriques, les jugeant \"malades\" de leur obsession d'autonomie.",
+          "url": "https://www.ladepeche.fr/2026/08/07/video-donald-trump-ces-gens-la-ont-une-maladie-le-president-americain-se-moque-des-proprietaires-de-voitures-electriques-obsedes-selon-lui-par-13501020.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a761e067a653578820e0a0c/standard/image.jpg?v=1"
+        },
+        {
+          "title": "ChatGPT : la fin d'une limite majeure",
+          "summary": "Une nouvelle mise à jour de ChatGPT supprime une restriction clé, rendant l'outil encore plus accessible.",
+          "url": "https://www.journaldugeek.com/2026/08/07/chatgpt-fait-sauter-sa-principale-limite-sans-vous-faire-payer-23-e-par-mois/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/chatgpt-travail-1280x853.jpg"
+        },
+        {
+          "title": "PS5 Pro : PSSR2 en standard",
+          "summary": "La fonctionnalité PSSR2 deviendra prochainement par défaut sur la PlayStation 5 Pro, optimisant l'expérience gaming.",
+          "url": "https://www.journaldugeek.com/2026/08/07/playstation-5-pro-le-pssr2-va-bientot-devenir-une-fonctionnalite-par-defaut/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/PS5-Pro-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Trenitalia lance le Paris-Londres en 2029",
+          "summary": "Trenitalia commande 19 trains pour concrétiser l'ambitieuse liaison ferroviaire entre Paris et Londres d'ici 2029.",
+          "url": "https://www.lemonde.fr/economie/article/2026/08/07/trenitalia-commande-19-trains-a-hitachi-et-confirme-l-ouverture-de-la-liaison-paris-londres-en-2029_6740535_3234.html",
+          "image": "https://img.lemde.fr/2026/08/07/767/0/5540/2770/1342/671/60/0/c6b71af_upload-1-qbwidxk57y4m-000-628c4g4.jpg"
+        },
+        {
+          "title": "Pension d'invalidité : gain de cause",
+          "summary": "Un homme obtient une importante pension et 90 000€ d'arriérés après un refus initial en Espagne.",
+          "url": "https://www.capital.fr/votre-carriere/invalidite-il-obtient-3-300-euros-de-pension-et-90-000-euros-d-arrieres-apres-un-refus-de-la-securite-sociale-espagnole-1529118",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~08~07~77982f3c-2921-459b-9b89-feef3ebc031b.jpg/1200x900/quality/80/invalidite-il-obtient-3-300-euros-de-pension-et-90-000-euros-d-arrieres-apres-un-refus-de-la-securite-sociale-espagnole.jpg"
+        },
+        {
+          "title": "Chantier vital : fermeture Dulcie-September",
+          "summary": "Un chantier spécialisé et essentiel pour la sécurité entraîne la fermeture temporaire du boulevard à Saint-Martin-d'Hères.",
+          "url": "https://www.ledauphine.com/economie/2026/08/07/isere-saint-martin-d-heres-boulevard-dulcie-september-un-chantier-essentiel-pour-la-securite",
+          "image": "https://cdn-s-www.ledauphine.com/images/1B07F272-6AD7-4427-93AE-EA2E64228992/NW_listB/boulevard-dulcie-september-une-fermeture-pour-un-chantier-tres-specialise-et-essentiel-pour-la-securite-1786127300.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Scandale FIFA : Infantino accusé d'abus",
+          "summary": "La Fifpro critique \"un abus flagrant\" du pouvoir présidentiel de Gianni Infantino concernant la vente de la Coupe du monde.",
+          "url": "https://rmcsport.bfmtv.com/basket/championnats-du-monde/vente-de-la-coupe-du-monde-un-abus-flagrant-du-pouvoir-presidentiel-la-fifpro-charge-aussi-gianni-infantino_AV-202608060509.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/405c6ht4jJF6ZaSriVfg97ggMus=/0x80:2048x1232/800x0/images/Gianni-Infantino-avec-la-Coupe-du-monde-le-11-juin-2026-2307587.jpg"
+        },
+        {
+          "title": "Wembanyama guide les Spurs au Louvre",
+          "summary": "Victor Wembanyama fait découvrir le Louvre à ses coéquipiers des San Antonio Spurs, alliant sport et culture.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-quand-victor-wembanyama-fait-decouvrir-le-louvre-a-ses-coequipiers-des-san-antonio-spurs_AV-202608060133.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/FXmVlN6V7J3b4gQ1iyKbfnHCS6g=/0x635:1152x1283/800x0/images/Les-San-Antonio-Spurs-de-Victor-Wembanyama-en-visite-au-Louvre-2329360.jpg"
+        },
+        {
+          "title": "Gymnastique : éducateur mis en examen",
+          "summary": "Un éducateur de gymnastique est mis en examen pour agressions et harcèlement sexuels sur une dizaine de mineures.",
+          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
+        }
+      ]
+    }
+  ]
+}
