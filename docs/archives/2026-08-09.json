@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Amour",
+  "global_summary": "Chers abonnés, bienvenue dans votre dose quotidienne d'analyse pointue ! Cette journée est un mélange intense de défis géopolitiques et de réussites humaines inspirantes. Entre les tensions internationales ravivées par l'incident de drone en Bulgarie et les accusations de pillage culturel en Crimée, le monde navigue en eaux troubles, cherchant des équilibres fragiles. Pendant ce temps, certaines nations comme l'Islande doivent repenser leur modèle face à l'afflux touristique, illustrant la pression croissante sur nos environnements.\n\nSur le front national et sportif, la France brille par son dynamisme ! Le Tour de France Femmes nous offre un suspense haletant, tandis que de jeunes talents comme Samuel Vessat repoussent les limites de l'athlétisme. L'innovation n'est pas en reste, avec l'envolée du marché de la voiture électrique et l'audace d'Emirates intégrant les cryptomonnaies. Ces éclairs de progrès et de résilience nous rappellent que même face aux complexités, l'ingéniosité et l'esprit humain continuent de forger l'avenir.",
+  "running_advice": "Salut les athlètes ! Aujourd'hui, Saint Amour nous invite à aimer... nos baskets, mais avec sagesse ! Les conditions météo annoncent un ciel partiellement nuageux, mais attention : avec un minimum de 21.7°C et un pic à 36.7°C, la chaleur sera bien présente. L'indice UV est à 7, ce qui est ÉLEVÉ. Mon conseil de coach : visez l'efficacité et la sécurité.\nL'heure idéale pour chausser vos runnings ? Sans hésiter, juste après le lever du soleil à 06h57. Profitez de la fraîcheur matinale avant que la chaleur ne s'installe. Si vous êtes un coureur du soir, attendez bien après 20h00, approchant le coucher du soleil à 21h19, quand les températures commencent à descendre. Dans tous les cas, crème solaire indice 50, casquette, lunettes de soleil sont vos meilleurs alliés. Et surtout, hydratez-vous abondamment avant, pendant et après l'effort ! Écoutez votre corps, dépassez-vous, mais toujours intelligemment !",
+  "weather_string": "🌤️ Peu nuageux (21.7°C / 36.7°C)",
+  "weather_stats": {
+    "temp": "36.7°C",
+    "rain": "45%",
+    "uv": "7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Drone en Bulgarie: Sofia convoque l'ambassadrice ukrainienne",
+          "summary": "Un drone ukrainien s'est écrasé près d'un gazoduc en Bulgarie, poussant Sofia à convoquer l'ambassadrice de Kyiv pour explication.",
+          "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-drone-en-bulgarie-sofia-convoque-l-ambassadrice-ukrainienne-a-une-reunion-lundi_VN-202608080243.html",
+          "image": "https://images.bfmtv.com/4lbkuW7Y2spLGVsqfiLTAqA-qS8=/0x0:1280x720/800x0/images/Drone-en-Bulgarie-Sofia-convoque-l-ambassadrice-ukrainienne-a-une-reunion-lundi-2330222.jpg"
+        },
+        {
+          "title": "Islande: afflux touristique menace environnement",
+          "summary": "L'Islande est confrontée aux défis de l'afflux massif de touristes, menaçant son fragile écosystème et son authenticité.",
+          "url": "https://www.franceinfo.fr/monde/europe/l-islande-face-a-l-afflux-de-touristes_8137499.html",
+          "image": "https://www.franceinfo.fr/pictures/vzYKhFgCi1DdcirUnRa3DJ9ms9E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/06/6a74b58376605408695209.jpg"
+        },
+        {
+          "title": "Russie accusée de piller le patrimoine en Crimée",
+          "summary": "La Russie est accusée de piller activement le patrimoine archéologique ukrainien dans la Crimée occupée, dénoncent les autorités de Kyiv.",
+          "url": "https://www.lepoint.fr/monde/en-crimee-occupee-la-russie-accusee-de-piller-le-patrimoine-archeologique-ukrainien-OHJ6TLUF6RE5LAYUBAYVAV2ILU/",
+          "image": "https://www.lepoint.fr/resizer/v2/5X2I7YOEGZFOXGBNR53ERXUA3Q.jpg?auth=809fb4d97f1c8541e563f7df6b6b4e016ebcc5e46ce31e253b5df9ee9ba9ff10&smart=true&width=1200&height=900"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Tour de France Femmes: suspense intense !",
+          "summary": "Huit petites secondes séparent les leaders du Tour de France Femmes, rendant la fin de course absolument palpitante.",
+          "url": "https://www.letelegramme.fr/sports/cyclisme/suspense-total-sur-le-tour-de-france-femmes-vollering-depossede-niewiadoma-du-maillot-jaune-pour-huit-petites-secondes-7097384.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a777250d303c638a20fd76f/web_golden_xxl/6a777250d303c638a20fd76f.1"
+        },
+        {
+          "title": "Glaces de l'été 2026: saveurs inattendues à Blois",
+          "summary": "De la vanille au poire piment d'Espelette, Blois révèle les parfums de glace les plus audacieux de l'été 2026.",
+          "url": "https://www.lanouvellerepublique.fr/blois/vanille-pistache-ou-encore-poire-piment-d-espelette-les-saveurs-de-glace-qui-font-l-ete-2026-a-blois-1786212663",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a7771367a65d9437d8b4617"
+        },
+        {
+          "title": "Voiture électrique: juillet historique en France",
+          "summary": "Le marché français de la voiture électrique a enregistré un mois de juillet record, marquant une accélération sans précédent.",
+          "url": "https://www.journaldugeek.com/2026/08/08/en-france-la-voiture-electrique-signe-un-mois-de-juillet-historique/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/01/Renault-R5-E-Tech-23-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Ferrari 288 GTO: vente record attendue",
+          "summary": "Une Ferrari 288 GTO quasi neuve est estimée à plus de 11 millions de dollars, faisant monter les enchères à Monterey.",
+          "url": "https://www.autojournal.fr/actu/insolites-actu/ferrari-288-gto-neuve-11-millions-dollars-421530.html",
+          "image": "https://sf2.autojournal.fr/wp-content/uploads/autojournal/2026/08/ferrari-288-gto.jpg"
+        },
+        {
+          "title": "Faillite du n°1 du vélo européen",
+          "summary": "Le géant européen du vélo Accell Group fait faillite, un coup dur pour l'industrie, mais des acteurs se réinventent.",
+          "url": "https://www.frandroid.com/survoltes/3206941_la-faillite-du-n1-du-velo-en-europe-lusine-de-29-000-m%C2%B2-de-rebirth-et-la-r5-electrique-qui-se-met-a-jour",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/07/accell-group.jpeg?resize=1600,900&key=098256f9"
+        },
+        {
+          "title": "Emirates accepte les cryptomonnaies",
+          "summary": "Emirates innove en acceptant les cryptomonnaies, tout en maintenant sa préférence pour les paiements en monnaie fiduciaire.",
+          "url": "https://www.journaldugeek.com/2026/08/08/emirates-accepte-les-cryptomonnaies-mais-tient-a-etre-payee-avec-du-vrai-argent/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/emirates-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Société",
+      "emoji": "🤝",
+      "articles": [
+        {
+          "title": "Strasbourg: l'État condamné pour carence hébergement",
+          "summary": "L'État est condamné à verser plus de 500 000 euros à Strasbourg pour carence dans l'hébergement d'urgence des plus démunis.",
+          "url": "https://www.sudouest.fr/politique/hebergement-d-urgence-l-etat-condamne-a-verser-plus-de-500-000-euros-a-la-ville-de-strasbourg-pour-carence-30200824.php",
+          "image": null
+        },
+        {
+          "title": "Incendie à Lacanau: maison dévastée",
+          "summary": "Une maison a été entièrement ravagée par les flammes à Lacanau après un violent orage, causant d'importants dégâts.",
+          "url": "https://www.sudouest.fr/gironde/lacanau/incendie-a-lacanau-une-maison-ravagee-par-les-flammes-apres-un-violent-orage-30202171.php",
+          "image": null
+        },
+        {
+          "title": "Éducateur de gymnastique mis en examen",
+          "summary": "Un éducateur de gymnastique est mis en examen pour agressions et harcèlement sexuels impliquant une dizaine de mineures.",
+          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Décès tragique du basketteur NBA Brandon Clarke",
+          "summary": "Le joueur NBA Brandon Clarke est décédé à 29 ans, les causes officielles évoquent les effets de la cocaïne et de l'héroïne.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/la-mort-a-29-ans-du-joueur-nba-brandon-clarke-due-aux-effets-de-la-cocaine-et-de-l-heroine_AV-202608080131.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/o5zxKf8cIR_eHRLIVn7eENYQlD0=/0x126:2048x1278/800x0/images/Brandon-Clarke-avec-les-Memphis-Grizzlies-en-fevrier-2025-2285087.jpg"
+        },
+        {
+          "title": "Samuel Vessat, nouveau recordman 400m français",
+          "summary": "Samuel Vessat est champion de France et nouveau recordman du 400m, une performance saluée avec joie et honneur.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-athletisme-champion-de-france-du-400m-et-nouveau-recordman-de-france-samuel-vessat-est-super-content-et-honore_VN-202607290377.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/05ZSb1O3rHW8q2pfZVAabF3d-YY=/0x0:1280x720/800x0/images/Athletisme-Champion-de-France-du-400m-et-nouveau-recordman-de-France-Samuel-Vessat-est-super-content-et-honore-2326701.jpg"
+        },
+        {
+          "title": "Ma'a Nonu défie les All Blacks à 44 ans",
+          "summary": "La légende néo-zélandaise du rugby, Ma'a Nonu, à 44 ans, se prépare à un défi incroyable face aux redoutables All Blacks.",
+          "url": "https://rmcsport.bfmtv.com/rugby/rugby-a-44-ans-la-legende-neo-zelandaise-ma-a-nonu-va-defier-les-all-blacks_AV-202608080137.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ds4BoUqo3yiwtBGOJ-5kakhbhSw=/0x76:800x526/800x0/images/-646626.jpg"
+        }
+      ]
+    }
+  ]
+}
