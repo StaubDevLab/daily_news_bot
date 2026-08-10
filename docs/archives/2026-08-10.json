@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Laurent",
+  "global_summary": "L'actualité mondiale est dominée par des événements climatiques extrêmes, avec un typhon dévastateur en Chine et des vagues de chaleur record en Asie et en France, provoquant incendies et évacuations. Sur le plan géopolitique, les tensions persistent au Moyen-Orient et dans le détroit d'Ormuz, signalant une instabilité continue.\nParallèlement, le monde économique s'adapte, avec des innovations comme l'agriculture biologique et des stratégies d'emploi des seniors, tandis que la tech explore des applications allant de la cybersécurité à la télémédecine. Dans le sport, des tragédies et des affaires judiciaires ébranlent le milieu, soulignant les défis humains derrière les performances athlétiques.",
+  "running_advice": "Salut à toi, champion ! La météo d'aujourd'hui nous lance un petit défi, mais rien n'arrête un coureur déterminé, n'est-ce pas ? Avec des températures oscillant entre 20.2°C et 31.3°C et un ciel peu nuageux, la chaleur sera bien présente. Le vrai point de vigilance, c'est ce 80% de probabilité de pluie, qui pourrait transformer ton parcours en aventure aquatique, ou au contraire, offrir un rafraîchissement bienvenu si elle est légère. L'indice UV de 6.85 est élevé, donc la protection est CRUCIALE !\n\nMon conseil de coach ? Privilégie une sortie très tôt le matin, juste après le lever du soleil vers **6h58**. L'air sera plus frais, et tu éviteras le pic de chaleur et d'UV de la mi-journée. Si tu ne peux pas courir le matin, vise la fin de journée, après **19h00**, quand le soleil commence à descendre et que l'air se fait plus doux, mais attention à la pluie potentielle.\n\nDans tous les cas : **Hydratation maximale** avant, pendant et après l'effort. **Crème solaire SPF 50+** obligatoire pour te protéger de ce soleil généreux. **Casquette et lunettes de soleil** ne seront pas de trop. **Adapte ton rythme** ! Ce n'est pas le jour pour battre des records, mais pour maintenir ta forme en écoutant ton corps. Et si la pluie est forte, un entraînement en intérieur est toujours une option futée ! Allez, on reste au top !",
+  "weather_string": "🌤️ Peu nuageux (20.2°C / 31.3°C)",
+  "weather_stats": {
+    "temp": "31.3°C",
+    "rain": "80%",
+    "uv": "6.85"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Typhon Dolphin et chaleur extrême en Asie",
+          "summary": "La Chine subit un typhon dévastateur et Hong Kong des chaleurs record, déplaçant un million de personnes.",
+          "url": "https://www.lesechos.fr/monde/chine/un-million-de-deplaces-en-chine-a-cause-du-typhon-dolphin-et-record-de-chaleur-a-hong-kong-2246445",
+          "image": "https://media.lesechos.com/api/v1/images/view/6a78ba83b41079226a0d5d63/1280x720/02002201689825-web-tete.jpg"
+        },
+        {
+          "title": "Gaza : Netanyahou rejette le plan américain",
+          "summary": "Le Premier ministre israélien rejette le plan américain pour Gaza, plongeant l'enclave dans l'incertitude.",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/en-rejetant-le-plan-americain-pour-gaza-le-premier-ministre-israelien-benyamin-netanyahou-cree-l-incertitude-sur-l-avenir-de-l-enclave_8140808.html",
+          "image": "https://www.franceinfo.fr/pictures/5Aw0yOWoseFeFyprJg9knTOhQgo/0x168:3240x1991/432x243/filters:format(jpg):quality(50)/2026/08/09/6a78b137454b8682324729.jpg"
+        },
+        {
+          "title": "Détroit d’Ormuz : la crise s'intensifie",
+          "summary": "Une nouvelle position iranienne éloigne une sortie de crise au détroit d’Ormuz, lieu stratégique.",
+          "url": "https://www.huffingtonpost.fr/international/article/avec-cette-nouvelle-prise-de-position-iranienne-une-sortie-de-crise-au-detroit-d-ormuz-s-eloigne-encore-un-peu-plus_302315.html",
+          "image": "https://focus.huffingtonpost.fr/2026/03/01/422/0/8097/4554/0/0/60/0/28d9a59_upload-1-t6eeemml4wut-afp-20260225-98wg8tn-v5-highres-uaemaritimetransport.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Vague de chaleur intense revient en France",
+          "summary": "La France se prépare à une nouvelle vague de chaleur, avec des températures atteignant 40°C.",
+          "url": "https://www.lanouvellerepublique.fr/a-la-une/une-vague-de-chaleur-frappe-a-nouveau-la-france-des-ce-mardi-jusqu-a-40-0c-prevus-jeudi-1786299778",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a78c5817a65d9f1568b4594"
+        },
+        {
+          "title": "Incendie majeur en Lozère : des évacuations",
+          "summary": "Plus de 100 hectares brûlés en Lozère, entraînant l'évacuation d'une vingtaine de maisons.",
+          "url": "https://www.bfmtv.com/meteo/plus-de-100-hectares-parcourus-par-un-incendie-en-cours-en-lozere-vingt-maisons-evacuees_AD-202608090225.html",
+          "image": "https://images.bfmtv.com/VCJsQ7uOmqCIWLbbyOfj2f4AdT0=/0x106:2048x1258/800x0/images/Un-pompier-a-Marcheprime-en-Gironde-ce-dimanche-26-juillet-2026-2325549.jpg"
+        },
+        {
+          "title": "Chaleurs extrêmes frappent l'Europe et les océans",
+          "summary": "L'Europe occidentale et les océans subissent des chaleurs inédites, signe d'un climat alarmant.",
+          "url": "https://www.sudouest.fr/environnement/climat/rechauffement-climatique/nous-n-avons-pas-connu-un-tel-climat-de-notre-vivant-l-europe-occidentale-et-les-oceans-frappes-par-des-chaleurs-extremes-30209528.php",
+          "image": "https://media.sudouest.fr/30209528/1200x600/b132f6a7-47b8-450f-a9b0-ae404c00ef67.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Axios : faille de sécurité détectée",
+          "summary": "Vigilance.fr alerte sur une pollution de prototype via HTTP Adapter, menaçant la sécurité.",
+          "url": "https://www.globalsecuritymag.fr/vigilance-fr-axios-pollution-de-prototype-via-http-adapter-analyse-le-09-06.html",
+          "image": "https://www.globalsecuritymag.fr/local/cache-vignettes/L40xH21/a3c0c28306689c72833bd0e5592942-00c4a.png"
+        },
+        {
+          "title": "Photo de peau simplifie l'accès au dermato",
+          "summary": "Une simple photo pourrait réduire l'attente pour consulter un dermatologue, innovation prometteuse.",
+          "url": "https://www.journaldugeek.com/2026/08/09/une-simple-photo-de-la-peau-pour-reduire-la-file-dattente-chez-le-dermato/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/legit-health-1280x853.jpg"
+        },
+        {
+          "title": "Vide-greniers geek : carton plein à Mont-de-Marsan",
+          "summary": "Le vide-greniers geek de Mont-de-Marsan attire une foule inattendue, un succès retentissant.",
+          "url": "https://www.sudouest.fr/sciences-et-technologie/jeux-video/mont-de-marsan-je-ne-m-attendais-pas-a-ce-qu-il-y-ait-autant-de-monde-le-vide-greniers-geek-fait-carton-plein-30204664.php",
+          "image": "https://media.sudouest.fr/30204664/1200x600/20260809-115639.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Seniors : vivier pour l'économie allemande",
+          "summary": "Grandes entreprises allemandes comme BMW recrutent des seniors, valorisant leur expérience.",
+          "url": "https://www.lesechos.fr/industrie-services/services-conseils/bmw-bosch-deutsche-bahn-ces-grandes-entreprises-allemandes-qui-piochent-dans-le-vivier-des-seniors-2246446",
+          "image": "https://media.lesechos.com/api/v1/images/view/6a78c1d07809c51d0e0e2c01/1280x720/02001115985947-web-tete.jpg"
+        },
+        {
+          "title": "Maraichers bio en Beaujolais Vert",
+          "summary": "Des maraichers en reconversion font prospérer l'agriculture biologique dans le Beaujolais Vert.",
+          "url": "https://www.leprogres.fr/economie/2026/08/09/ces-maraichers-en-reconversion-font-pousser-du-bio-dans-le-beaujolais-vert",
+          "image": "https://cdn-s-www.leprogres.fr/images/E06B15B3-2895-46BA-AA09-89B6C20E570E/NW_listB/ces-maraichers-en-reconversion-font-pousser-du-bio-dans-le-beaujolais-vert-1786299810.jpg"
+        },
+        {
+          "title": "L'IA fait flamber les loyers tech",
+          "summary": "L'essor de l'IA provoque une hausse significative des loyers pour les géants de la technologie.",
+          "url": "https://www.journaldugeek.com/2026/08/10/lia-fait-deja-flamber-les-loyers-des-geants-de-la-tech/",
+          "image": "https://www.journaldugeek.com/app/uploads/2021/12/data-center-google.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Éducateur de gym mis en examen pour agressions sexuelles",
+          "summary": "Un éducateur de gymnastique est mis en examen, concernant une dizaine de mineures.",
+          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
+        },
+        {
+          "title": "Brandon Clarke, joueur NBA, mort à 29 ans",
+          "summary": "Le joueur NBA Brandon Clarke est décédé à 29 ans, suite à des effets de stupéfiants.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/la-mort-a-29-ans-du-joueur-nba-brandon-clarke-due-aux-effets-de-la-cocaine-et-de-l-heroine_AV-202608080131.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/o5zxKf8cIR_eHRLIVn7eENYQlD0=/0x126:2048x1278/800x0/images/Brandon-Clarke-avec-les-Memphis-Grizzlies-en-fevrier-2025-2285087.jpg"
+        },
+        {
+          "title": "Don Nelson, légende NBA des Celtics, est mort",
+          "summary": "Le légendaire coach NBA Don Nelson, figure des Boston Celtics, s'est éteint.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-coach-de-legende-et-figure-des-boston-celtics-don-nelson-est-mort_AN-202608090267.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/r5Je42-rvcCXuMn3Z_sE3Jvg4EM=/0x58:2048x1210/800x0/images/Don-Nelson-en-conference-de-presse-avant-de-recevoir-une-distinction-honorifique-8-juin-2025-2330442.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Incendie à Arcachon boulevard de la Plage",
+          "summary": "Un bâtiment prend feu sur le boulevard de la Plage à Arcachon, suscitant l'inquiétude locale.",
+          "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-un-batiment-prend-feu-boulevard-de-la-plage-30209855.php",
+          "image": null
+        },
+        {
+          "title": "Landes : la saison estivale reprend post-incendies",
+          "summary": "À Biscarrosse, la saison estivale redémarre après les incendies, mais les pertes sont lourdes.",
+          "url": "https://www.sudouest.fr/landes/biscarrosse/incendie-dans-les-landes-les-vacanciers-sont-de-retour-mais-ce-qui-est-perdu-est-perdu-a-biscarrosse-la-saison-estivale-reprend-peu-a-peu-30205068.php",
+          "image": null
+        },
+        {
+          "title": "Éclipse : Où trouver des lunettes dans les Landes ?",
+          "summary": "Des lunettes spéciales éclipse pour observer le phénomène du 12 août sont disponibles dans les Landes.",
+          "url": "https://www.sudouest.fr/sciences-et-technologie/eclipse/eclipse-du-12-aout-ou-se-procurer-des-lunettes-pour-la-regarder-dans-les-landes-30114312.php",
+          "image": "https://media.sudouest.fr/30114312/1200x600/fc76c38e-361e-4098-9f95-5d8876ee9d44.jpg"
+        }
+      ]
+    }
+  ]
+}
