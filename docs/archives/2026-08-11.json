@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Claire",
-  "global_summary": "La semaine s'ouvre sur un panorama d'actualités contrasté, mêlant enjeux géopolitiques sensibles et défis nationaux. Des révélations troublantes sur des enfants ukrainiens en Corée du Nord et la politique migratoire marocaine agitent la scène internationale, tandis qu'en France, l'agression d'une personnalité et les incendies en Gironde rappellent la nécessité de vigilance.\nSur le plan économique, les discussions autour des retraites et les répercussions inattendues des politiques commerciales de Trump dessinent un paysage financier mouvant. Le monde du sport alterne entre performances remarquables, problématiques profondes et initiatives innovantes. Dans l'ensemble, c'est un jour où l'engagement et l'adaptation sont les maîtres-mots face à un flux d'informations varié.",
-  "running_advice": "Aujourd'hui, chers athlètes, la météo vous lance un défi ! Avec un ciel dégagé, mais une température maximale de 35.6°C et un indice UV de 7, la prudence est de mise. L'heure idéale pour chausser vos baskets sera sans aucun doute très tôt le matin, juste après le lever du soleil à 06:59, ou bien tard le soir, avant le coucher à 21:16. Évitez les heures chaudes à tout prix ! Hydratez-vous abondamment avant, pendant et après votre course. Portez des vêtements légers et n'oubliez surtout pas une protection solaire forte (crème, casquette, lunettes de soleil) pour contrer cet indice UV élevé. Votre corps est un temple, respectez-le et poussez vos limites intelligemment !",
-  "weather_string": "☀️ Ciel dégagé (19°C / 35.6°C)",
+  "global_summary": "Les actualités du jour dressent un tableau riche et contrasté, oscillant entre des enjeux géopolitiques complexes et des défis nationaux. Sur la scène mondiale, des révélations choquantes sur la 'russification' d'enfants ukrainiens en Corée du Nord côtoient des tractations diplomatiques, tandis que les grandes puissances redessinent les cartes du commerce international. En France, la sécurité est au cœur des préoccupations avec l'agression d'un ancien ministre et de policiers, sans oublier la lutte acharnée contre les incendies estivaux. Les débats budgétaires sur les retraites promettent également des discussions animées.\n\nPourtant, la performance et l'innovation ne sont pas en reste. Le monde du sport brille avec des médailles européennes et des transferts audacieux dans le basket, tandis que les nouvelles technologies continuent de faire parler d'elles. Entre actualités graves et moments plus légers, cette journée nous rappelle l'importance de rester informés, engagés et toujours en mouvement.",
+  "running_advice": "Aujourd'hui, Sainte Claire vous invite à un réveil tonique ! Avec un ciel dégagé et aucune pluie en vue, la journée est propice au running. Mais attention, la température peut grimper jusqu'à 35.4°C et l'indice UV atteint 7, un niveau élevé. Pour une course optimale et sécurisée, privilégiez absolument les heures les plus fraîches : soit très tôt le matin après le lever du soleil (dès 06:59 pour profiter de la fraîcheur), soit en fin de soirée, juste avant le coucher du soleil (autour de 20:00-20:30, avant 21:16). Et n'oubliez jamais votre protection solaire : crème, casquette et lunettes de soleil sont vos meilleurs alliés pour conquérir le bitume sans risque ! Votre corps est votre temple, protégez-le tout en le défiant !",
+  "weather_string": "☀️ Ciel dégagé (18.9°C / 35.4°C)",
   "weather_stats": {
-    "temp": "35.6°C",
+    "temp": "35.4°C",
     "rain": "0%",
     "uv": "7"
   },
@@ -14,112 +14,142 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Enfants ukrainiens 'russifiés' en Corée du Nord",
-          "summary": "Une alerte glaçante révèle la 'russification' d'enfants ukrainiens dans des camps nord-coréens. Une tragédie humaine en cours.",
+          "title": "Enfants Ukrainiens 'russifiés' en Corée du Nord",
+          "summary": "Un rapport alarmant révèle la 'russification' forcée d'enfants ukrainiens dans des camps nord-coréens, un drame humain choquant.",
           "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/dans-ce-camp-en-coree-du-nord-des-enfants-ukrainiens-sont-russifies_8141675.html",
           "image": "https://www.franceinfo.fr/pictures/wdetcKyhG5ifpkYGVVS7NnemX_w/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/10/6a799722661c3202519558.jpg"
         },
         {
-          "title": "Maroc accélère expulsions de ressortissants",
-          "summary": "Suite aux pressions suisses, le Maroc intensifie ses procédures d'expulsion. La coopération internationale s'améliore sur ces dossiers.",
+          "title": "Maroc-Suisse : Expulsions Accélérées",
+          "summary": "Sous la pression suisse, le Maroc accélère les expulsions de ses ressortissants, soulignant l'efficacité de la coopération.",
           "url": "https://www.fdesouche.com/2026/08/10/apres-de-fermes-protestations-des-autorites-suisses-le-maroc-a-accelere-les-procedures-permettant-dexpulser-des-ressortissants-marocains-si-le-maroc-le-veut-il-effectue-les-verifica/",
           "image": "https://www.fdesouche.com/wp-content/uploads/2026/08/6k48oj-29076471-740x416.jpg"
+        },
+        {
+          "title": "Droits Trump : Brésil-Chine Dopés",
+          "summary": "Les droits de douane de Trump ont, paradoxalement, stimulé les échanges entre le Brésil et la Chine, redessinant le commerce mondial.",
+          "url": "https://www.lefigaro.fr/conjoncture/exportations-partenariat-commercial-les-droits-de-douane-de-trump-dopent-les-echanges-entre-le-bresil-et-la-chine-20260810",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/08/10/b4d65204e1a71321229cc55431322e8adaad26eda1e72265b4f3c4763de044aa.jpg"
         }
       ]
     },
     {
-      "label": "France & Actualités Nationales",
+      "label": "France & Société",
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "L'ex-ministre Baylet agressé, un couple jugé",
-          "summary": "Jean-Michel Baylet a été agressé, un couple passera devant la justice. L'insécurité touche aussi les personnalités.",
+          "title": "Ancien Ministre Baylet Aggressé",
+          "summary": "L'ancien ministre Jean-Michel Baylet a porté plainte suite à une agression. La sécurité des personnalités interroge.",
           "url": "https://www.leprogres.fr/faits-divers-justice/2026/08/10/agresse-l-ancien-ministre-jean-michel-baylet-porte-plainte-un-couple-sera-juge-en-fevrier",
           "image": "https://cdn-s-www.leprogres.fr/images/9E9BBEF1-DFFA-4268-99E5-234E138BCF8D/MF_contenu/agresse-l-ancien-ministre-jean-michel-baylet-porte-plainte-un-couple-sera-juge-en-fevrier-1786383965.jpg"
         },
         {
-          "title": "Policiers blessés à l'arme blanche à Toulouse",
-          "summary": "Deux policiers municipaux ont été blessés à Toulouse. Cet acte de violence rappelle les défis de nos forces de l'ordre.",
-          "url": "https://www.sudouest.fr/faits-divers/deux-policiers-municipaux-blesses-a-l-arme-blanche-a-toulouse-30217877.php",
-          "image": null
-        },
-        {
-          "title": "Incendies: consignes essentielles en Gironde",
-          "summary": "Les feux de forêt ravagent la Gironde. Consignes de sécurité cruciales pour protéger les populations. Restez informés !",
+          "title": "Incendies : Consignes d'Urgence",
+          "summary": "Face aux feux de forêt en Gironde et dans les Landes, les autorités rappellent les consignes cruciales aux populations.",
           "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/incendies-en-gironde-et-dans-les-landes-quelles-sont-les-consignes-donnees-aux-populations-lors-des-feux-de-foret-30213254.php",
           "image": null
-        }
-      ]
-    },
-    {
-      "label": "Tech & Innovations",
-      "emoji": "💡",
-      "articles": [
-        {
-          "title": "Mauvaise nouvelle pour l'iPhone 18 Pro",
-          "summary": "Les futurs acheteurs de l'iPhone 18 Pro pourraient être déçus. Attendez-vous à des révélations inattendues.",
-          "url": "https://www.journaldugeek.com/2026/08/10/on-a-une-tres-mauvaise-nouvelle-pour-ceux-qui-vont-acheter-liphone-18-pro-en-septembre/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Apple-logo-1280x853.jpg"
         },
         {
-          "title": "Ferrari rare en vente pour 4,3 millions",
-          "summary": "Une Ferrari oubliée refait surface, estimée à des millions. Un trésor automobile pour collectionneurs avertis.",
-          "url": "https://www.autoplus.fr/actualite/insolite/restee-dans-lombre-pendant-des-decennies-cette-ferrari-pourrait-bien-se-vendre-43-millions-deuros-1460578.html",
-          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-10-a-las-17.13.00.png"
-        },
-        {
-          "title": "Éclipse solaire: où l'observer en Gironde",
-          "summary": "Préparez-vous à l'éclipse solaire du 12 août ! Découvrez les meilleurs spots pour ce spectacle céleste unique.",
-          "url": "https://www.sudouest.fr/gironde/langon/eclipse-solaire-du-12-aout-les-meilleurs-spots-pour-l-observer-en-sud-gironde-30212248.php",
-          "image": "https://media.sudouest.fr/30212248/1200x600/paysbasqueinterieuretsoule-532889cdfa444e92956374badab209d1-154940-ph0.jpg"
+          "title": "Policiers Blessés à Toulouse",
+          "summary": "Deux policiers municipaux ont été blessés à l'arme blanche à Toulouse, un incident soulignant les risques quotidiens.",
+          "url": "https://www.sudouest.fr/faits-divers/deux-policiers-municipaux-blesses-a-l-arme-blanche-a-toulouse-30217877.php",
+          "image": null
         }
       ]
     },
     {
       "label": "Économie & Marchés",
-      "emoji": "📈",
+      "emoji": "💰",
       "articles": [
         {
-          "title": "Droits de douane Trump dopent Brésil-Chine",
-          "summary": "Les tarifs douaniers de Trump ont des effets inattendus, stimulant les échanges commerciaux entre Brésil et Chine.",
-          "url": "https://www.lefigaro.fr/conjoncture/exportations-partenariat-commercial-les-droits-de-douane-de-trump-dopent-les-echanges-entre-le-bresil-et-la-chine-20260810",
-          "image": "https://i.f1g.fr/media/cms/orig/2026/08/10/b4d65204e1a71321229cc55431322e8adaad26eda1e72265b4f3c4763de044aa.jpg"
-        },
-        {
-          "title": "Retraites: Bercy envisage la désindexation",
-          "summary": "Le budget 2027 pourrait voir la désindexation des retraites les plus élevées. Une mesure d'austérité majeure.",
+          "title": "Retraites : Bercy Envisage Désindexation",
+          "summary": "Le ministère de l'Économie pourrait désindexer les retraites les plus élevées pour 2027, une mesure qui fait débat.",
           "url": "https://www.lefigaro.fr/conjoncture/budget-2027-bercy-envisage-de-desindexer-les-retraites-les-plus-elevees-20260810",
           "image": "https://i.f1g.fr/media/cms/1200x_cropupscale/2026/08/10/4ab1418dda6d8b0642335de682b7deec3fc917fda5ed8aa59b961d4b706cbc06.jpg"
         },
         {
-          "title": "Des ânes nettoyeurs de plages à Fos",
-          "summary": "À Fos-sur-Mer, des ânes sont employés pour nettoyer les plages. Une initiative écologique et originale.",
+          "title": "Ferrari Oubliée Vaut des Millions",
+          "summary": "Une Ferrari méconnue pourrait atteindre 4,3 millions d'euros aux enchères, prouvant l'attrait des trésors automobiles.",
+          "url": "https://www.autoplus.fr/actualite/insolite/restee-dans-lombre-pendant-des-decennies-cette-ferrari-pourrait-bien-se-vendre-43-millions-deuros-1460578.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-10-a-las-17.13.00.png"
+        },
+        {
+          "title": "Fos-sur-Mer : Ânes Nettoyeurs de Plages",
+          "summary": "À Fos-sur-Mer, des ânes sont déployés pour nettoyer les plages, une initiative écologique et économique surprenante.",
           "url": "https://www.bfmtv.com/marseille/replay-emissions/bonsoir-marseille/video-fos-sur-mer-des-anes-pour-nettoyer-les-plages_VN-202608100488.html",
           "image": "https://images.bfmtv.com/Gyul_VlWscIMYkBwgZY2qRJF3WU=/0x0:1280x720/800x0/images/Fos-sur-Mer-des-anes-pour-nettoyer-les-plages-2330805.jpg"
         }
       ]
     },
     {
-      "label": "Sport & Performances",
-      "emoji": "🏆",
+      "label": "Tech & Innovation",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "Abus en gymnastique: éducateur mis en examen",
-          "summary": "Un éducateur de gymnastique est mis en examen pour agressions. Une triste affaire qui touche de nombreuses mineures.",
-          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
+          "title": "Eclipse Solaire : Où Observer ?",
+          "summary": "Préparez vos lunettes ! Les meilleurs spots pour admirer la prochaine éclipse solaire en Sud-Gironde sont révélés.",
+          "url": "https://www.sudouest.fr/gironde/langon/eclipse-solaire-du-12-aout-les-meilleurs-spots-pour-l-observer-en-sud-gironde-30212248.php",
+          "image": "https://media.sudouest.fr/30212248/1200x600/paysbasqueinterieuretsoule-532889cdfa444e92956374badab209d1-154940-ph0.jpg"
         },
         {
-          "title": "L'ASVEL signe un champion NBA",
-          "summary": "Malgré les difficultés financières, l'ASVEL réalise un coup de maître en recrutant un champion NBA. Un défi de taille !",
+          "title": "Extincteur Voiture : Indispensable ?",
+          "summary": "L'extincteur de voiture gagne en popularité en Provence, devenant un accessoire de sécurité plébiscité par les automobilistes.",
+          "url": "https://www.bfmtv.com/marseille/replay-emissions/bonsoir-marseille/video-provence-l-extincteur-de-voiture-plebiscite-par-les-automobilistes_VN-202608100487.html",
+          "image": "https://images.bfmtv.com/eCvv0qoSQEhFMEIFD-gnejdkic=/0x0:1280x720/800x0/images/Provence-l-extincteur-de-voiture-plebiscite-par-les-automobilistes-2330803.jpg"
+        },
+        {
+          "title": "Mauvaise Nouvelle pour l'iPhone 18",
+          "summary": "Une nouvelle alarmante circule pour les futurs acquéreurs de l'iPhone 18 Pro. Une raison de plus d'attendre avant d'investir?",
+          "url": "https://www.journaldugeek.com/2026/08/10/on-a-une-tres-mauvaise-nouvelle-pour-ceux-qui-vont-acheter-liphone-18-pro-en-septembre/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Apple-logo-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performances",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "ASVEL Recrute un Champion NBA",
+          "summary": "Malgré des défis financiers, l'ASVEL frappe fort en recrutant un champion NBA, un signal fort pour le basket français.",
           "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/basket-malgre-ses-galeres-financieres-l-asvel-s-offre-un-champion-nba-comme-renfort_AV-202608100490.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7g6Nhw6VZyVVMsMZTKbdmWWx3xE=/0x91:2048x1243/800x0/images/Patty-Mills-en-defense-contre-Boogie-Ellis-lors-d-un-match-de-Ligue-des-champions-de-basket-avril-2026-2330804.jpg"
         },
         {
-          "title": "Athlé: Daguinos en bronze, Gressier déçu",
-          "summary": "Daguinos décroche le bronze au 5000m aux Championnats d'Europe. Gressier, quant à lui, manque le podium de peu.",
+          "title": "Athlétisme : Daguinos en Bronze",
+          "summary": "Magnifique performance aux Championnats d'Europe : Daguinos décroche le bronze sur 5 000m, une médaille prometteuse.",
           "url": "https://rmcsport.bfmtv.com/athletisme/direct-championnats-d-europe-d-athletisme-suivez-les-epreuves-du-lundi-10-aout-avec-jimmy-gressier-en-live_LN-202608100209.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/TJmSYiwtIQ8oQwp_48blpzwA9w8=/0x115:2048x1267/800x0/images/Etienne-Daguinos-avec-la-medaille-de-bronze-aux-Championnats-d-Europe-d-athletisme-le-10-aout-2026-2330832.jpg"
+        },
+        {
+          "title": "Wembanyama : Échecs et Monde",
+          "summary": "Victor Wembanyama se confie sur sa passion pour les échecs, un moyen inattendu pour lui de 'faire du bien au monde'.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-un-moyen-de-faire-du-bien-au-monde-wembanyama-evoque-sa-passion-pour-les-echecs_VN-202608100238.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/W90PmSFc51gQ0QEFfQ9OvRB2YaY=/0x0:1280x720/800x0/images/Un-moyen-de-faire-du-bien-au-monde-Wembanyama-evoque-sa-passion-pour-les-echecs-2330605.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Régions",
+      "emoji": "🎭",
+      "articles": [
+        {
+          "title": "House of the Dragon : Saison 4 ?",
+          "summary": "La question brûle les lèvres des fans : une saison 4 pour House of the Dragon ? Les rumeurs vont bon train.",
+          "url": "https://www.journaldugeek.com/2026/08/11/house-of-the-dragon-y-aura-t-il-une-saison-4/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/house-of-the-dragon-saison-3-1280x853.jpg"
+        },
+        {
+          "title": "Charente : Permis Suspendus",
+          "summary": "82 permis suspendus en trois mois en Charente-Maritime pour téléphone au volant. Un rappel sévère des dangers.",
+          "url": "https://www.sudouest.fr/charente-maritime/charente-maritime-en-trois-mois-deja-82-conducteurs-se-sont-vus-suspendre-leur-permis-a-cause-du-telephone-au-volant-30197198.php",
+          "image": null
+        },
+        {
+          "title": "BC Chauray Vise la Perennité",
+          "summary": "Repêché en Nationale 1, le BC Chauray renforce son équipe pour s'assurer une place durable. Un défi de taille !",
+          "url": "https://www.lanouvellerepublique.fr/deux-sevres/commune/chauray/nationale-1-repeche-le-bc-chauray-monte-en-gamme-pour-esperer-se-perenniser-1786385727",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a7a153de80c7c38528b4573"
         }
       ]
     }
