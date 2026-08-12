@@ -1,7 +1,7 @@
 {
   "ephemeride": "Sainte Clarisse",
-  "global_summary": "L'actualité du jour est un mélange dynamique de défis et de réussites, illustrant la résilience humaine face aux événements mondiaux et locaux. Sur le plan international, les tensions géopolitiques persistent, avec des révélations sur des exfiltrations et des opérations d'espionnage, tandis que des pourparlers diplomatiques s'organisent.\nEn France, on observe une mixité de situations : la solidarité nationale se manifeste auprès des agriculteurs sinistrés par les incendies, l'économie reste sous surveillance face aux vagues de chaleur et les performances sportives tricolores sont au rendez-vous. Le monde de la technologie se concentre sur la régulation de l'IA et la cybersécurité, tandis que les enjeux locaux et les passions du geek ne sont pas en reste. Une journée sous le signe de la vigilance, mais aussi de l'inspiration et du dépassement de soi.",
-  "running_advice": "Coach ici ! Aujourd'hui, le soleil brille avec éclat et la pluie est aux abonnés absents, une excellente nouvelle pour l'esprit ! Cependant, avec des températures atteignant 38.1°C et un indice UV élevé (6.95), la prudence est de mise pour votre run. Pour une session optimale et sans risque, visez impérativement l'aube, juste après le lever du soleil vers 07h01, ou en fin de journée, bien avant le coucher du soleil aux alentours de 20h30. N'oubliez surtout pas une crème solaire à indice élevé, un chapeau ou une casquette, et restez hydraté en permanence ! Votre corps est votre temple, protégez-le tout en vous surpassant ! Allez, on lâche rien !",
+  "global_summary": "L'actualité de ce jour dépeint un paysage contrasté, marqué par une forte résilience face aux défis, mais aussi par des tensions persistantes. Sur la scène internationale, les manœuvres géopolitiques s'intensifient, avec des révélations sur des opérations d'espionnage et de nouvelles tentatives de dialogue diplomatique au Moyen-Orient. Au niveau national, la France fait face aux conséquences des incendies dévastateurs, mais montre sa capacité à se relever grâce à des aides concrètes pour les agriculteurs sinistrés.\nParallèlement, la technologie continue d'évoluer, poussant à une régulation accrue, comme en témoignent les efforts d'Anthropic pour se conformer aux normes européennes. Le monde du sport, quant à lui, brille par ses performances exceptionnelles lors des championnats d'Europe, offrant des moments de fierté nationale, tout en étant malheureusement secoué par des affaires plus sombres, rappelant l'importance de la vigilance et de l'intégrité. L'économie, malgré une croissance modeste, reste attentive aux défis climatiques.",
+  "running_advice": "Absolument ! C'est une excellente journée pour chausser vos baskets, à condition de bien choisir votre moment. Avec un ciel dégagé et aucune pluie, les conditions sont parfaites, mais la chaleur sera un facteur majeur. Je vous recommande vivement de privilégier votre sortie très tôt le matin, juste après le lever du soleil vers 07h01, ou en fin de soirée, une fois que le soleil commence à décliner, idéalement après 19h00. Évitez absolument les heures les plus chaudes de la journée, où la température peut grimper jusqu'à 38°C. De plus, avec un indice UV élevé (6.95), une protection solaire est indispensable : crème solaire, casquette et lunettes de soleil sont vos meilleurs alliés. Hydratez-vous abondamment avant, pendant et après votre course. Écoutez votre corps et transformez ce défi en une victoire personnelle !",
   "weather_string": "☀️ Ciel dégagé (20.8°C / 38.1°C)",
   "weather_stats": {
     "temp": "38.1°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Trump en Turquie : Le récit d'une exfiltration inédite.",
-          "summary": "Un journaliste témoigne des événements marquants entourant l'exfiltration de Donald Trump vers la Turquie.",
+          "title": "Révélations sur l'exfiltration de Donald Trump",
+          "summary": "Un journaliste témoigne d'une journée mouvementée impliquant l'ancien président américain en Turquie.",
           "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-exfiltration-de-donald-trump-en-turquie-un-journaliste-present-raconte-cette-journee_VN-202608110478.html",
           "image": "https://images.bfmtv.com/UvQlzuaexP2RoOx5UKebhAZol9I=/0x0:1280x720/800x0/images/Exfiltration-de-Donald-Trump-en-Turquie-un-journaliste-present-raconte-cette-journee-2331194.jpg"
         },
         {
-          "title": "Suède déjoue une opération du renseignement russe.",
-          "summary": "La Suède révèle avoir contrecarré une tentative d'espionnage russe impliquant un agent sur son sol.",
+          "title": "La Suède déjoue une opération russe majeure",
+          "summary": "Une opération d'espionnage russe impliquant un agent en poste a été mise en échec en Suède.",
           "url": "https://www.bfmtv.com/international/asie/russie/video-la-suede-affirme-avoir-dejoue-une-operation-du-renseignement-russe-impliquant-un-agent-en-poste_VN-202608110475.html",
           "image": "https://images.bfmtv.com/CxyBOq2a_aM32QTVfWf2U6ISHXI=/0x0:1280x720/800x0/images/La-Suede-affirme-avoir-dejoue-une-operation-du-renseignement-russe-impliquant-un-agent-en-poste-2331193.jpg"
         },
         {
-          "title": "De nouveaux pourparlers israélo-libanais à Rome.",
-          "summary": "Des discussions cruciales entre Israël et le Liban sont prévues en septembre à Rome pour la paix.",
+          "title": "Pourparlers Israël-Liban : espoir à Rome",
+          "summary": "De nouvelles discussions diplomatiques sont prévues en septembre à Rome pour apaiser les tensions.",
           "url": "https://www.bfmtv.com/international/moyen-orient/liban/de-nouveaux-pourparlers-israelo-libanais-auront-lieu-a-rome-en-septembre_AD-202608110473.html",
           "image": "https://images.bfmtv.com/Nxj7w9oMV0xNe9yL3eBQ5rRa1lM=/0x0:2048x1152/800x0/images/LIBAN-2282375.jpg"
         }
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Var : Aides et avenir pour les agriculteurs sinistrés.",
-          "summary": "Le préfet du Var promet soutien financier et réflexion future aux agriculteurs touchés par l'incendie du Gros Bessillon.",
+          "title": "Incendies dans le Var : le Préfet promet des aides",
+          "summary": "Soutien financier et réflexion pour l'avenir des agriculteurs sinistrés du Gros Bessillon après l'incendie.",
           "url": "https://www.nicematin.com/faits-divers/incendie-dans-le-var/on-va-y-arriver-face-aux-agriculteurs-sinistres-par-l-incendie-du-gros-bessillon-le-prefet-du-var-annonce-des-aides-financieres-et-une-reflexion-pour-l-avenir-10704258",
           "image": "https://assets.nicematin.com/articles/10/70/42/58/OG-10704258-1200-800-97984e9_ftp-1-hgtiulmten9j-varxxq338-cd-visite-du-prefet-agriculteurs-victimes-des-incendies.jpg"
         },
         {
-          "title": "Natation : Relais 4x100m mixte champion d'Europe.",
-          "summary": "La France décroche l'or européen en relais 4x100m quatre nages mixte, avec Amaury Albar.",
-          "url": "https://www.letelegramme.fr/sports/natation/le-relais-francais-du-4x100-m-quatre-nages-mixte-sacre-champion-deurope-le-brestois-amaury-albar-fait-partie-de-lequipe-7098862.php",
-          "image": "https://media.letelegramme.fr/api/v1/images/view/6a7b6d62ff08a061bb0bbbfe/web_golden_xxl/6a7b6d62ff08a061bb0bbbfe.1"
+          "title": "Éducateur de gymnastique mis en examen",
+          "summary": "Un scandale secoue le sport français, un éducateur est accusé d'agressions sur mineures.",
+          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
         },
         {
-          "title": "Croissance PIB modeste et vigilance sur l'économie.",
-          "summary": "La Banque de France observe une croissance de 0,2% du PIB, mais alerte sur l'impact des vagues de chaleur.",
-          "url": "https://www.bfmtv.com/economie/une-croissance-modeste-de-0-2-du-pib-au-troisieme-trimestre-malgre-les-previsions-optimistes-la-banque-de-france-reste-vigilante-avec-les-futures-vagues-de-chaleur-qui-pesent-sur-l-economie_AD-202608110484.html",
-          "image": "https://images.bfmtv.com/TSGTjCbLN3c0vudjr5iw-WRJ27Y=/0x37:2048x1189/800x0/images/Banque-de-France-2269464.jpg"
+          "title": "Un touriste français agressé à Rome",
+          "summary": "Attaque antisémite à Rome : un Français victime d'une agression pour avoir porté sa kippa.",
+          "url": "https://www.sudouest.fr/societe/attaque-antisemite-un-touriste-francais-victime-d-une-agression-a-rome-parce-qu-il-portait-la-kippa-30225631.php",
+          "image": null
         }
       ]
     },
@@ -62,88 +62,88 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "IA : Anthropic intègre un filigrane pour Claude.",
-          "summary": "Pour se conformer à Bruxelles, Anthropic ajoute un filigrane numérique aux textes générés par son robot Claude.",
+          "title": "IA : Anthropic watermark pour l'Europe",
+          "summary": "Claude intègre un filigrane dans ses textes pour se conformer à la réglementation de Bruxelles.",
           "url": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/intelligence-artificielle-anthropic-integre-un-filigrane-dans-les-textes-de-son-robot-claude-pour-se-conformer-a-bruxelles-30224899.php",
           "image": "https://media.sudouest.fr/30224899/1200x600/20260610123310-36935212.jpg"
         },
         {
-          "title": "Ubuntu Kylin : Alerte élévation de privilèges.",
-          "summary": "Une vulnérabilité critique a été détectée dans Ubuntu Kylin, permettant une élévation de privilèges via D-Bus Service.",
+          "title": "Vulnérabilité critique sur Ubuntu Kylin",
+          "summary": "Une faille D-Bus permet une élévation de privilèges sur le Software Center d'Ubuntu Kylin.",
           "url": "https://www.globalsecuritymag.fr/vigilance-fr-ubuntu-kylin-software-center-elevation-de-privileges-via-d-bus.html",
           "image": "https://www.globalsecuritymag.fr/local/cache-vignettes/L40xH21/a3c0c28306689c72833bd0e5592942-00c4a.png"
         },
         {
-          "title": "Firefox/Thunderbird : Multiples vulnérabilités.",
-          "summary": "Mozilla avertit de multiples failles de sécurité affectant Firefox et Thunderbird, nécessitant une mise à jour rapide.",
+          "title": "Multiples failles sur Firefox et Thunderbird",
+          "summary": "Des vulnérabilités critiques affectent les navigateurs et clients mail de Mozilla, soyez vigilant.",
           "url": "https://www.globalsecuritymag.fr/vigilance-fr-mozilla-firefox-thunderbird-multiples-vulnerabilites-du-11-11-2025.html",
           "image": "https://www.globalsecuritymag.fr/local/cache-vignettes/L40xH21/a3c0c28306689c72833bd0e5592942-00c4a.png"
         }
       ]
     },
     {
-      "label": "Business",
-      "emoji": "💼",
+      "label": "Économie",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Arcachon : Verbalisation des trottinettes électriques.",
-          "summary": "La police d'Arcachon sévit contre les usagers de trottinettes électriques en infraction, renforçant la sécurité locale.",
-          "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-la-police-verbalise-des-usagers-de-trottinette-electrique-en-infraction-30224923.php",
-          "image": "https://media.sudouest.fr/30224923/1200x600/20250926175038-uge8trottvitesse5.jpg"
+          "title": "PIB : croissance modeste, vigilance climatique",
+          "summary": "La Banque de France alerte sur l'impact des vagues de chaleur sur une économie à 0,2% de croissance.",
+          "url": "https://www.bfmtv.com/economie/une-croissance-modeste-de-0-2-du-pib-au-troisieme-trimestre-malgre-les-previsions-optimistes-la-banque-de-france-reste-vigilante-avec-les-futures-vagues-de-chaleur-qui-pesent-sur-l-economie_AD-202608110484.html",
+          "image": "https://images.bfmtv.com/TSGTjCbLN3c0vudjr5iw-WRJ27Y=/0x37:2048x1189/800x0/images/Banque-de-France-2269464.jpg"
         },
         {
-          "title": "Cherbourg : Un food-truck italien en bord de mer.",
-          "summary": "Un nouveau food-truck à Cherbourg-en-Cotentin régale les passants avec ses pâtes italiennes fraîches, face à la mer.",
+          "title": "Cherbourg : Food-truck de pâtes fraîches",
+          "summary": "Un nouveau food-truck propose des pâtes italiennes artisanales avec vue sur mer à Cherbourg.",
           "url": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/cherbourg-en-cotentin-ce-food-truck-propose-des-pates-fraiches-italiennes-avec-vue-sur-mer_64654085.html",
           "image": "https://static.actu.fr/uploads/2026/08/2d865c570a7a611965c570a7af4965v-1024x557.jpg"
         }
       ]
     },
     {
-      "label": "Gironde",
-      "emoji": "🌊",
-      "articles": [
-        {
-          "title": "Royan : Une agression violente après accusation.",
-          "summary": "Un homme à Royan a violemment agressé un passant, soupçonné de pédophilie, une affaire locale choquante.",
-          "url": "https://www.sudouest.fr/faits-divers/faits-divers-en-charente-maritime/royan-il-soupconne-un-passant-de-pedophilie-et-le-roue-de-coups-des-pieds-a-la-tete-30224032.php",
-          "image": ""
-        },
-        {
-          "title": "Le Porge : La longue reconstruction après l'incendie.",
-          "summary": "Au Porge, les habitants s'interrogent sur l'avenir, face aux défis de la reconstruction post-incendie.",
-          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/au-porge-le-long-chemin-de-la-reconstruction-apres-l-incendie-demolition-permis-entreprises-quel-va-etre-notre-paysage-de-demain-30224338.php",
-          "image": ""
-        },
-        {
-          "title": "Rome : Un touriste français agressé par antisémitisme.",
-          "summary": "À Rome, un touriste français a été agressé en raison de sa kippa, soulevant l'indignation.",
-          "url": "https://www.sudouest.fr/societe/attaque-antisemite-un-touriste-francais-victime-d-une-agression-a-rome-parce-qu-il-portait-la-kippa-30225631.php",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "label": "Journal du Geek",
+      "label": "Loisirs & Pratique",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Canicule : Gérez l'ouverture de vos fenêtres.",
-          "summary": "Découvrez les heures précises pour optimiser l'ouverture et la fermeture de vos fenêtres pendant la canicule.",
+          "title": "Canicule : maîtrisez l'ouverture de vos fenêtres",
+          "summary": "Conseils pratiques pour rafraîchir son intérieur efficacement pendant les fortes chaleurs.",
           "url": "https://www.journaldugeek.com/2026/08/12/canicule-voici-lheure-exacte-a-laquelle-ouvrir-vos-fenetres-et-celle-ou-il-faut-absolument-les-refermer/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/fenetre-ouverte-matin-frais-canicule-1280x853.jpeg"
         },
         {
-          "title": "Critique : La Fin d’Oak Street, un film ambitieux.",
-          "summary": "Ce film audacieux est salué comme l'œuvre que Jurassic World 3 aurait dû être, selon les critiques.",
+          "title": "Critique : La Fin d'Oak Street",
+          "summary": "Une critique cinématographique promettant une expérience que Jurassic World 3 aurait enviée.",
           "url": "https://www.journaldugeek.com/critique/critique-la-fin-doak-street-ce-que-jurassic-world-3-aurait-aime-etre/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/08/critique-la-fin-doak-street-3-1280x853.jpg"
         },
         {
-          "title": "Preview CoD MW4 : Le mode le plus attendu testé.",
-          "summary": "Plongez dans notre preview exclusive du mode de jeu le plus attendu de Call of Duty Modern Warfare 4.",
+          "title": "Preview exclusive Call of Duty MW4",
+          "summary": "Immersion dans le mode de jeu le plus attendu de Call of Duty Modern Warfare 4.",
           "url": "https://www.journaldugeek.com/test/preview-call-of-duty-modern-warfare-4-on-a-joue-au-mode-de-jeu-le-plus-attendu/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/08/preview-cod-mw4--1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Le Porge : la longue reconstruction",
+          "summary": "Après les incendies dévastateurs, la communauté du Porge s'engage sur le chemin de la reconstruction.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde/au-porge-le-long-chemin-de-la-reconstruction-apres-l-incendie-demolition-permis-entreprises-quel-va-etre-notre-paysage-de-demain-30224338.php",
+          "image": null
+        },
+        {
+          "title": "Royan : agression après un soupçon",
+          "summary": "Un homme roué de coups à Royan, suite à une suspicion de pédophilie.",
+          "url": "https://www.sudouest.fr/faits-divers/faits-divers-en-charente-maritime/royan-il-soupconne-un-passant-de-pedophilie-et-le-roue de-coups-des-pieds-a-la-tete-30224032.php",
+          "image": null
+        },
+        {
+          "title": "Arcachon : verbalisations de trottinettes",
+          "summary": "La police d'Arcachon sévit contre les infractions aux règles de la trottinette électrique.",
+          "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-la-police-verbalise-des-usagers-de-trottinette-electrique-en-infraction-30224923.php",
+          "image": "https://media.sudouest.fr/30224923/1200x600/20250926175038-uge8trottvitesse5.jpg"
         }
       ]
     },
@@ -152,22 +152,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "NBA : Wembanyama et les Spurs face à OKC.",
-          "summary": "Victor Wembanyama débutera la saison NBA avec les Spurs contre OKC, promettant un choc d'entrée.",
+          "title": "Natation : Relais français champion d'Europe !",
+          "summary": "Le relais mixte 4x100m quatre nages décroche l'or aux Championnats d'Europe, une fierté nationale.",
+          "url": "https://www.letelegramme.fr/sports/natation/le-relais-francais-du-4x100-m-quatre-nages-mixte-sacre-champion-deurope-le-brestois-amaury-albar-fait-partie-de-lequipe-7098862.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a7b6d62ff08a061bb0bbbfe/web_golden_xxl/6a7b6d62ff08a061bb0bbbfe.1"
+        },
+        {
+          "title": "Athlétisme : podium et finale européenne",
+          "summary": "Chevrier en finale de la perche, Bapté décroche la médaille de bronze sur 100m haies.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-championnats-d-europe-d-athletisme-c-est-fou-savoure-chevrier-qualifiee-pour-la-finale-de-la-perche_VN-202608110525.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/XqlOMnxY-ZPu7egpXGJ1n4__MEU=/0x0:1280x720/800x0/images/Championnats-d-Europe-d-athletisme-C-est-fou-savoure-chevrier-qualifiee-pour-la-finale-de-la-perche-2331234.jpg"
+        },
+        {
+          "title": "Wembanyama et les Spurs : reprise NBA",
+          "summary": "La NBA reprend, Wembanyama et les Spurs affrontent OKC pour un début de saison très attendu.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-retrouvailles-entre-wembanyama-et-les-spurs-contre-okc-pour-debuter-le-bron-james-face-au-champion_AV-202608110455.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
-        },
-        {
-          "title": "Athlétisme Europe : Bapté décroche le bronze.",
-          "summary": "Laeticia Bapté s'offre une médaille de bronze aux Championnats d'Europe sur le 100m haies, Glave sacré.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/championnats-d-europe/direct-championnats-d-europe-d-athletisme-suivez-les-epreuves-du-mardi-11-aout-en-live_LN-202608110183.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/oMdrob9IoMmJVVfJiuguWaf2GVY=/0x0:2048x1152/800x0/images/Laeticia-Bapte-lors-des-championnats-d-Europe-d-athletisme-en-aout-2026-2331227.jpg"
-        },
-        {
-          "title": "Badminton : Popov en finale de l'Open de Chine.",
-          "summary": "Toma Junior Popov réalise une performance historique en atteignant la finale d'un majeur, malgré sa défaite en Chine.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/badminton-premier-francais-a-atteindre-la-finale-simple-d-un-majeur-toma-junior-popov-finalement-battu-a-l-open-de-chine_AN-202607260178.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/q2N9KlTCPm9LXmKJ6jfsRvrgMoo=/0x50:1200x725/800x0/images/Le-Francais-Toma-Junior-Popov-lors-de-la-finale-du-simple-hommes-contre-le-Taiwanais-Chou-Tien-chen-a-l-Open-de-Chine-de-badminton-le-26-juillet-2026-2325432.jpg"
         }
       ]
     }
