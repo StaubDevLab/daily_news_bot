@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Hippolyte",
-  "global_summary": "Ce jour nous révèle une actualité contrastée, oscillant entre les défis environnementaux et les avancées technologiques. Des problèmes de surchauffe dans les transports en commun aux réserves d'eau épuisées dans le Jura, les impacts du climat se font sentir. Sur le plan social, des incidents graves sont signalés, notamment des feux de forêt dévastateurs en Ille-et-Vilaine et des faits divers préoccupants comme l'affaire d'un éducateur sportif.\n\nCependant, l'innovation ne marque pas de pause, avec la France révolutionnant l'IA de défense et le marché boursier voyant l'IA reprendre son élan. Les passionnés de tech découvrent de nouvelles supercars, tandis que le monde du sport vibre au rythme des championnats d'Europe d'athlétisme et d'annonces majeures comme la retraite d'une légende du basket. Un panorama riche, invitant à la réflexion et à l'action.",
-  "running_advice": "Aujourd'hui, l'appel de la course est fort, mais l'intelligence est de mise ! Avec des températures allant de 21.6°C à près de 40°C et un indice UV élevé (6.95), courir en pleine journée serait risqué. Pour une séance vivifiante et sécurisée, visez absolument le début de matinée, juste après le lever du soleil vers 7h15-7h45, avant que la chaleur ne monte en flèche. Si le matin est impossible, la fin de soirée, après 20h30, peut être une alternative. Peu importe l'heure, hydratez-vous abondamment avant, pendant et après votre effort. N'oubliez pas une protection solaire forte (crème, casquette, lunettes), même par temps peu nuageux. Allez, enfilez vos baskets et écoutez votre corps pour une course intelligente et pleine d'énergie !",
+  "global_summary": "L'actualité de ce jour est marquée par une tension palpable entre les défis environnementaux et les avancées technologiques. Tandis que la France fait face à des feux de forêt dévastateurs et des pénuries d'eau critiques dans certaines régions, la question des conditions de transport en période de fortes chaleurs met en lumière les enjeux sociaux. Des drames humains, comme l'accident d'un cycliste, rappellent également la fragilité de notre quotidien.\n\nParallèlement, le dynamisme ne manque pas : l'IA continue de révolutionner des secteurs clés, de la défense à la finance, même si des défis comme les bugs de Waze rappellent la complexité du numérique. Le monde du sport est agité par des transferts colossaux et des retraites emblématiques, mais aussi, malheureusement, par des affaires judiciaires graves. Enfin, les passionnés de culture et de loisirs ne sont pas en reste, avec l'annonce de nouveaux jeux et des conseils pour immortaliser les merveilles célestes.",
+  "running_advice": "Coach vous parle ! Aujourd'hui, avec des températures oscillant entre 21.6°C et 39.4°C et un ciel peu nuageux, la prudence est de mise pour votre séance de running. Courir sous cette chaleur représente un risque sérieux pour votre santé. Si vous tenez absolument à chausser vos baskets, visez l'extrême matin, juste après le lever du soleil à 07:02, ou très tard le soir, proche du coucher à 21:13. Évitez absolument les heures centrales de la journée ! Avec un indice UV de 6.95, la protection solaire est non négociable : crème solaire, casquette, lunettes de soleil et vêtements légers sont vos meilleurs alliés. Mais surtout, hydratez-vous abondamment avant, pendant et après l'effort, et écoutez votre corps. Votre bien-être est ma priorité, pas le chrono à tout prix !",
   "weather_string": "🌤️ Peu nuageux (21.6°C / 39.4°C)",
   "weather_stats": {
     "temp": "39.4°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Bus surchauffés : clim's exigées",
-          "summary": "L'inspection du travail sévit : des clims fonctionnelles sont désormais exigées dans les bus face à la chaleur.",
+          "title": "Bus surchauffés : l'inspection du travail intervient",
+          "summary": "Face aux plaintes, l'inspection du travail exige des climatisations fonctionnelles pour les bus, protégeant usagers et chauffeurs.",
           "url": "https://www.leprogres.fr/transport/2026/08/12/on-exige-des-clims-fonctionnelles-les-bus-surchauffes-dans-le-viseur-de-l-inspection-du-travail",
           "image": "https://cdn-s-www.leprogres.fr/images/4966D4BB-581C-4506-A7B7-8F84CC3879F/MF_contenu/on-exige-des-clims-fonctionnelles-les-bus-surchauffes-dans-le-viseur-de-l-inspection-du-travail-1786557620.jpg"
         },
         {
-          "title": "France réinvente l'IA de défense",
-          "summary": "Avec Arcadia, la France révolutionne l'intelligence artificielle pour sa défense, une avancée stratégique majeure.",
+          "title": "La France à la pointe de l'IA de défense",
+          "summary": "Avec le projet Arcadia, la France se positionne en leader, révolutionnant l'intelligence artificielle pour la défense nationale.",
           "url": "https://www.lopinion.fr/international/comment-la-france-revolutionne-lia-de-defense-avec-arcadia",
           "image": "https://beymedias.brightspotcdn.com/6c/e9/aed573c848e5bf98f26993e9a4a5/03-2023-ecpad-059-r-003-015-1.jpg"
         },
         {
-          "title": "Jura : 5 ans d'eau épuisée",
-          "summary": "Une commune du Jura sous ravitaillement, ses réserves d'eau étant critiques depuis cinq ans.",
+          "title": "Jura : des villages privés d'eau depuis 5 ans",
+          "summary": "Une commune du Jura dépend de ravitaillements alors que ses réserves d'eau sont épuisées depuis cinq ans.",
           "url": "https://www.leprogres.fr/environnement/2026/08/12/des-ravitaillements-dans-une-commune-du-jura-aux-reserves-d-eau-epuisees-depuis-cinq-ans",
           "image": "https://cdn-s-www.leprogres.fr/images/684C58E0-0D4D-4453-B408-6A5FB10E0CC8/MF_contenu/des-ravitaillements-dans-une-commune-du-jura-aux-reserves-d-eau-epuisees-depuis-cinq-ans-1786558403.jpg"
         }
@@ -38,20 +38,20 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Feu de forêt dévastateur en Ille-et-Vilaine",
-          "summary": "Plus de 100 hectares déjà ravagés par un violent incendie au sud de Rennes, l'alerte est maximale.",
+          "title": "Feu de forêt dévastateur près de Rennes",
+          "summary": "Plus de 100 hectares ont déjà brûlé en Ille-et-Vilaine, mobilisant d'importants moyens de lutte contre les flammes.",
           "url": "https://www.tf1info.fr/environnement-ecologie/ille-et-vilaine-un-violent-feu-de-foret-au-sud-de-rennes-plus-de-100-hectares-deja-parcourus-2458109.html",
           "image": "https://photos.tf1info.fr/images/610/480/pompiers-numero-18-6aca61-0@1x.jpeg"
         },
         {
-          "title": "Un cycliste retrouvé mort à Isturits",
-          "summary": "Un cycliste a été découvert sans vie à Isturits, une enquête est ouverte pour déterminer les causes du drame.",
+          "title": "Décès d'un cycliste à Isturits",
+          "summary": "Un cycliste a été retrouvé mort à Isturits, une enquête est en cours pour déterminer les circonstances du drame.",
           "url": "https://www.larepubliquedespyrenees.fr/societe/accident/un-cycliste-retrouve-mort-a-isturits-30234866.php",
           "image": "https://media.larepubliquedespyrenees.fr/30234866/1200x600/1482237-hd.jpg"
         },
         {
-          "title": "Éclipse : les premières photos",
-          "summary": "Depuis Calais et sa région, découvrez les images captivantes de la première éclipse du jour.",
+          "title": "L'éclipse vue de Calais : premières images",
+          "summary": "Admirez les clichés captivants de l'éclipse solaire depuis Calais et le Calaisis, un spectacle céleste inoubliable.",
           "url": "http://www.nordlittoral.fr/294571/article/2026-08-12/eclipse-decouvrez-les-premieres-photos-calais-et-dans-le-calaisis",
           "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/12/node_294571/3774438/public/2026/08/12/96240647.jpeg?itok=Q5ibFEIb1786559256"
         }
@@ -59,121 +59,97 @@
     },
     {
       "label": "Tech & Innovation",
-      "emoji": "💻",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "L'IA boursière reprend son élan",
-          "summary": "L'intelligence artificielle retrouve une dynamique positive sur les marchés boursiers, portée par le neocloud.",
+          "title": "L'IA reboostée en Bourse via le neocloud",
+          "summary": "L'intelligence artificielle retrouve de l'élan boursier, dopée par l'essor des services de cloud computing.",
           "url": "https://www.lecho.be/les-marches/actu/actions-bourses-etrangeres/l-ia-retrouve-son-apesanteur-boursiere-dans-le-neocloud/10682108.html",
           "image": "https://images.lecho.be/view?iid=Elvis:0epizZB_KjZ9QF363kNkgz&context=ONLINE&ratio=16/9&width=640&u=1786556848000"
         },
         {
-          "title": "Rezvani Beast X : la supercar folle",
-          "summary": "La Rezvani Beast X, cousine mutante de la Corvette C8, dévoile ses 1 582 ch et son design extrême.",
-          "url": "https://www.autoplus.fr/actualite/insolite/la-rezvani-beast-x-la-cousine-mutante-de-1-582-ch-de-la-corvette-c8-devoilee-1460997.html",
-          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-12-a-las-18.57.16.png"
-        },
-        {
-          "title": "Waze : vague de bugs sur les alertes",
-          "summary": "L'application Waze est confrontée à de nombreux bugs affectant ses alertes de police et de radars.",
+          "title": "Waze : bugs sur les alertes police et radars",
+          "summary": "Les utilisateurs de Waze signalent une vague de dysfonctionnements affectant les précieuses alertes de sécurité routière.",
           "url": "https://www.generation-nt.com/actualites/waze-bug-alertes-police-radars-android-2079724",
           "image": "https://img.generation-nt.com/logo-waze_01701786.png"
+        },
+        {
+          "title": "Rezvani Beast X : la Corvette C8 survitaminée",
+          "summary": "Découvrez la Rezvani Beast X, une supercar mutante de 1 582 ch, cousine musclée de la célèbre Corvette C8.",
+          "url": "https://www.autoplus.fr/actualite/insolite/la-rezvani-beast-x-la-cousine-mutante-de-1-582-ch-de-la-corvette-c8-devoilee-1460997.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-12-a-las-18.57.16.png"
         }
       ]
     },
     {
       "label": "Économie & Business",
-      "emoji": "📈",
+      "emoji": "💼",
       "articles": [
         {
-          "title": "Chute de l'action Sutro Biopharma",
-          "summary": "L'action de Sutro Biopharma subit une baisse notable ce mercredi, suscitant des interrogations du marché.",
+          "title": "Lakers vendus pour 12,5 milliards de dollars",
+          "summary": "Un proche de Trump, interdit par la Fifa, s'apprête à acquérir les Lakers pour une somme astronomique record.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-interdit-d-investir-a-la-fifa-un-proche-de-trump-va-acheter-les-lakers-pour-12-milliards-de-dollars_AV-202608120384.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/X_W2y2tro5f-3hggQt8RX4xhkoM=/0x106:2048x1258/800x0/images/Le-logo-de-la-franchise-NBA-des-Lakers-de-Los-Angeles-en-2025-2331525.jpg"
+        },
+        {
+          "title": "Sutro Biopharma : chute de l'action",
+          "summary": "L'action de Sutro Biopharma a enregistré une baisse significative ce mercredi, suscitant l'inquiétude des marchés.",
           "url": "https://fr.benzinga.com/news/france/general/pourquoi-laction-de-sutro-biopharma-baisse-t-elle-mercredi/",
           "image": "https://cdn.benzinga.com/files/images/story/2026/08/12/Cancer-research.jpg?width=2048&height=1536"
         },
         {
-          "title": "Bus supprimés : IDF Mobilités s'explique",
-          "summary": "Retards et suppressions sur la ligne 613 : Île-de-France Mobilités répond aux réclamations des usagers.",
+          "title": "IDF Mobilités répond aux plaintes usagers bus",
+          "summary": "Face aux retards et suppressions de bus en Seine-et-Marne, Île-de-France Mobilités s'explique auprès des usagers.",
           "url": "https://actu.fr/ile-de-france/chelles_77108/retards-bus-supprimes-en-seine-et-marne-ile-de-france-mobilites-repond-aux-usagers-de-la-ligne-613_64658229.html",
           "image": "https://static.actu.fr/uploads/2026/08/9a3bbf394c1963e3bbf394c19c14bbv-1024x557.jpeg"
-        },
-        {
-          "title": "Mont-Louis : l'Atelier 1600 ouvre",
-          "summary": "Marie-Noëlle lance l'Atelier 1600 à Mont-Louis, une nouvelle initiative dynamisant le commerce local.",
-          "url": "https://www.lindependant.fr/2026/08/12/marie-noelle-vous-attend-a-latelier-1600-a-mont-louis-13506678.php",
-          "image": "https://images.lindependant.fr/api/v1/images/view/6a7cb7ab29d0ac0b360a0b00/standard/image.jpg?v=1"
         }
       ]
     },
     {
-      "label": "Faits Divers & Société",
-      "emoji": "🚨",
-      "articles": [
-        {
-          "title": "Montpellier : ado de 17 ans mis en examen",
-          "summary": "Un adolescent est mis en examen à Montpellier, soupçonné d'avoir mortellement poignardé un mineur de 16 ans.",
-          "url": "https://www.sudouest.fr/faits-divers/montpellier-un-adolescent-de-17-ans-mis-en-examen-pour-avoir-mortellement-poignarde-un-mineur-de-16-ans-30240435.php",
-          "image": ""
-        },
-        {
-          "title": "Bordeaux : pédophile multirécidiviste en prison",
-          "summary": "La justice bordelaise condamne un pédophile exhibitionniste multirécidiviste à un an de prison ferme.",
-          "url": "https://www.sudouest.fr/faits-divers/bordeaux-la-justice-s-est-interrogee-sur-la-peine-a-infliger-a-ce-pedophile-et-exhibitionniste-multirecidiviste-30223002.php",
-          "image": ""
-        },
-        {
-          "title": "Près de Bordeaux : arracheur de colliers identifié",
-          "summary": "Un arracheur de colliers présumé près de Bordeaux a été identifié et extrait de prison par la police.",
-          "url": "https://www.sudouest.fr/gironde/pessac/pres-de-bordeaux-un-arracheur-de-colliers-identifie-et-extrait-de-prison-30237238.php",
-          "image": ""
-        }
-      ]
-    },
-    {
-      "label": "Divertissement & Culture Geek",
+      "label": "Culture & Loisirs",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Ghost of Yōtei : édition complète",
-          "summary": "Découvrez une édition complète de Ghost of Yōtei, enrichie de bonus et de contenus supplémentaires inédits.",
+          "title": "Ghost of Yōtei : une édition complète riche",
+          "summary": "La version intégrale de Ghost of Yōtei dévoile une multitude de bonus et de nouveaux contenus captivants.",
           "url": "https://www.journaldugeek.com/2026/08/13/une-edition-complete-de-ghost-of-yotei-avec-des-tas-de-bonus-et-de-contenus-supplementaires/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/08/ghost-of-yotei-1280x853.jpg"
         },
         {
-          "title": "Photos d'étoiles filantes : nos conseils",
-          "summary": "Après l'éclipse, suivez nos astuces pour réussir vos clichés spectaculaires de la prochaine pluie d'étoiles filantes !",
+          "title": "Pluie d'étoiles filantes : réussissez vos photos",
+          "summary": "Après l'éclipse, le guide complet pour capturer la beauté spectaculaire des prochaines pluies d'étoiles filantes.",
           "url": "https://www.journaldugeek.com/dossier/pluie-detoiles-filante-quand-lobserver-et-comment-reussir-vos-photos/",
           "image": "https://www.journaldugeek.com/app/uploads/2020/08/photographer-1674177-1920-780x452.jpg"
         },
         {
-          "title": "Pokémon Vents et Vagues : le point",
-          "summary": "Toutes les informations connues à ce jour sur Pokémon Vents et Vagues : annonces, date de sortie, personnages.",
+          "title": "Pokémon Vents et Vagues : les premières infos",
+          "summary": "Toutes les annonces, personnages et dates de sortie du très attendu jeu Pokémon Vents et Vagues.",
           "url": "https://www.journaldugeek.com/2026/08/12/pokemon-vents-et-vagues-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-personnages/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/03/dossier-pokemon-vents-vagues-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Sports",
-      "emoji": "🏆",
+      "label": "Sport",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "Russell Westbrook prend sa retraite",
-          "summary": "L'ancien MVP NBA Russell Westbrook, à 37 ans, annonce la fin de sa carrière professionnelle.",
+          "title": "Éducateur de gym mis en examen pour agressions",
+          "summary": "Un éducateur de gymnastique est poursuivi pour agressions et harcèlement sexuels impliquant une dizaine de mineures.",
+          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
+        },
+        {
+          "title": "NBA : Russell Westbrook prend sa retraite",
+          "summary": "L'ancien MVP de la NBA, Russell Westbrook, tire sa révérence à 37 ans après une carrière emblématique.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ancien-mvp-russell-westbroolk-prend-sa-retraite-a-37-ans_AV-202608130022.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/blIbteV2uIp1062wkM-57fTG32o=/0x105:2048x1257/800x0/images/Russell-Westbrook-Denver-2041175.jpg"
         },
         {
-          "title": "Athlétisme : la France brille aux Europe",
-          "summary": "Kounta en argent, Bapté en bronze, Chevrier en finale : les athlètes français s'illustrent aux championnats.",
+          "title": "Athlétisme : médailles françaises aux Championnats d'Europe",
+          "summary": "Kounta en argent et Bapté en bronze, la France brille aux Championnats d'Europe d'athlétisme avec plusieurs finalistes.",
           "url": "https://rmcsport.bfmtv.com/athletisme/direct-championnats-d-europe-d-athletisme-suivez-en-live-les-epreuves-du-mercredi-12-aout-avec-melina-robert-michon-et-gabriel-tual_LN-202608120223.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/L-xY1--HN25AjFRD_hI9iKf13UE=/0x212:2048x1364/800x0/images/Muhammad-Abdallah-Kounta-medaille-d-argent-le-12-aout-2026-2331646.jpg"
-        },
-        {
-          "title": "Gymnastique : éducateur mis en examen",
-          "summary": "Un éducateur de gymnastique est mis en examen pour agressions sexuelles, une affaire impliquant des mineures.",
-          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
         }
       ]
     }
