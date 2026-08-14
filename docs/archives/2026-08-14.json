@@ -1,0 +1,145 @@
+{
+  "ephemeride": "Saint Evrard",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques persistantes, notamment l'escalade au Yémen et les positions diplomatiques de Washington en Europe. Sur le front national, des faits divers tragiques et une interpellation spectaculaire ont retenu l'attention, tandis que des feux de forêt ravagent la Croatie, soulignant les défis environnementaux et humanitaires. \nCôté innovation, l'intelligence artificielle continue de progresser avec le lancement de DeepSeek, et un jeune étudiant propose une solution novatrice contre les fake news. Le monde du sport vibre entre l'émouvante retraite de Russell Westbrook en NBA, les performances de l'athlétisme français aux Championnats d'Europe et les révélations d'un scandale dans la gymnastique, rappelant l'importance de l'éthique sportive.",
+  "running_advice": "Amis sportifs, préparez-vous ! Avec un ciel peu nuageux et des températures allant de 20°C à 36.1°C, cette journée offre de belles opportunités pour votre séance de course. Toutefois, l'indice UV élevé (6.85) et la chaleur annoncée exigent une prudence particulière. Je vous recommande vivement de chausser vos baskets tôt le matin, juste après le lever du soleil à 07h03, pour profiter de la fraîcheur. Si vous préférez la fin de journée, visez après 20h00, avant le coucher du soleil à 21h11. Dans tous les cas, hydratez-vous abondamment et n'oubliez pas une protection solaire adaptée et une casquette pour vous protéger du soleil. Allez, on lâche rien, chaque foulée compte !",
+  "weather_string": "🌤️ Peu nuageux (20°C / 36.1°C)",
+  "weather_stats": {
+    "temp": "36.1°C",
+    "rain": "3%",
+    "uv": "6.85"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Yémen : Escalade menaçante au détroit stratégique",
+          "summary": "Les tensions géopolitiques s'intensifient au Yémen, risquant de déstabiliser une voie maritime cruciale pour le commerce mondial.",
+          "url": "https://www.lopinion.fr/international/au-yemen-la-dangereuse-escalade-qui-menace-le-detroit-de-bab-el-mandeb",
+          "image": "https://beymedias.brightspotcdn.com/03/14/2a135773449fbd56284924cc42f7/sipa-ap23051508-000001.jpg"
+        },
+        {
+          "title": "Washington : Alliés pour défendre le christianisme européen",
+          "summary": "Les États-Unis orientent leur politique étrangère en Europe, recherchant des alliés pour la protection des valeurs chrétiennes.",
+          "url": "https://www.lopinion.fr/international/croyants-ou-pas-washington-veut-des-allies-qui-defendent-le-christianisme-en-europe",
+          "image": "https://beymedias.brightspotcdn.com/27/53/40f3943045fb819d75fc719811a2/sipa-ap22937533-000040.jpg"
+        },
+        {
+          "title": "Croatie : Incendie majeur, évacuations en zone touristique",
+          "summary": "Des feux de forêt dévastateurs ravagent la Croatie, entraînant l'évacuation urgente de zones habitées et touristiques.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/croatie-un-violent-feu-de-foret-attise-par-le-vent-detruit-des-habitations-des-evacuations-ordonnees-dans-une-zone-touristique-30252356.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Mont-Blanc : Alpiniste tué par une chute de pierres",
+          "summary": "Un jeune alpiniste a perdu la vie dans le massif du Mont-Blanc, victime d'une tragique chute de pierres.",
+          "url": "https://www.lefigaro.fr/flash-actu/massif-du-mont-blanc-un-alpiniste-de-31-ans-tue-par-une-chute-de-pierres-20260813",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/08/13/04023ceef5e5fe311059818b7650b5c3dc7d8c2c20f39133a68b7a7a644725de.jpg"
+        },
+        {
+          "title": "Brest : Fillette de 2 ans décédée, intoxication suspectée",
+          "summary": "Le décès tragique d'une enfant de 2 ans à Brest soulève la suspicion d'une intoxication alimentaire, une enquête est en cours.",
+          "url": "https://www.20minutes.fr/faits_divers/4239134-20260813-brest-intoxication-alimentaire-suspectee-apres-mort-fillette-2-ans",
+          "image": "https://img.20mn.fr/iclWGffWSvq-j6tpqKxgnCk/1200x768_cette-photographie-montre-une-vue-du-service-des-urgences-de-l-hopital-la-cavale-blanche-a-brest-dans-l-ouest-de-la-france-le-22-aout-2024-de-l-aveu-meme-de-la-direction-de-l-hopital-71-patients-ages-de-plus-de-75-ans-ont-passe-plus-de-23-heures-aux-urgences-entre-le-10-juillet-et-le-7-aout-2024-photo-de-fred-tanneau-afp"
+        },
+        {
+          "title": "Arcachon : Course-poursuite et interpellation sur la plage",
+          "summary": "Un couple de receleurs de bijoux a été arrêté à Arcachon après une course-poursuite spectaculaire sur le sable.",
+          "url": "https://www.sudouest.fr/faits-divers/arcachon-course-poursuite-sur-la-plage-un-couple-de-receleurs-de-bijoux-interpelle-30249266.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Porsche 911 Singer-LV : Luxe horloger et automobile",
+          "summary": "Singer et Louis Vuitton s'associent pour deux Porsche 911 uniques, intégrant une montre amovible inspirée de l'iconique Tambour.",
+          "url": "https://www.autoplus.fr/actualite/insolite/singer-et-louis-vuitton-devoilent-deux-porsche-911-realisees-sur-mesure-dotees-dune-montre-amovible-inspiree-de-lemblematique-modele-tambour-1461210.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-13-a-las-20.06.18.png"
+        },
+        {
+          "title": "DeepSeek lance son IA phare après sa pré-version",
+          "summary": "Après une longue période de test, DeepSeek officialise le lancement de son modèle d'IA majeur, marquant une étape technologique clé.",
+          "url": "https://fr.qz.com/lancement-officiel-deepseek-v4-pro-081326",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2196161812.jpg"
+        },
+        {
+          "title": "Un ado crée un réseau contre les fake news",
+          "summary": "À 17 ans, un étudiant lance une plateforme sociale innovante dédiée à la fiabilité de l'information, une réponse aux fake news.",
+          "url": "https://www.nicematin.com/societe/mettre-en-avant-les-contenus-fiables-a-17-ans-cet-etudiant-cree-un-reseau-social-pour-lutter-contre-les-fake-news-10705350",
+          "image": "https://assets.nicematin.com/articles/10/70/53/50/OG-10705350-1200-800-2c1efab_upload-from-url-1-xe7c64cfgub9-istock-495835910.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie Locale",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Track Eaux Fuites : Chasseur de fuites à Sigean",
+          "summary": "L'entreprise Track Eaux Fuites, basée à Sigean, innove en détectant les fuites invisibles pour une meilleure gestion de l'eau.",
+          "url": "https://www.lindependant.fr/2026/08/13/basee-a-sigean-track-eaux-fuites-traque-linvisible-pour-preserver-lor-bleu-13508164.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/6a7e0ab4e451290fb0027914/standard/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Amazon : Fin de l'ère des MMO",
+          "summary": "Amazon Games semble réorienter sa stratégie, mettant de côté le développement et l'édition de jeux online massifs.",
+          "url": "https://www.journaldugeek.com/2026/08/14/amazon-range-ses-mmo-au-placard/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/amazon-mmo-1280x853.jpg"
+        },
+        {
+          "title": "God Of War : La série live-action se dévoile",
+          "summary": "Toutes les infos cruciales sur l'adaptation en live-action de God of War sont révélées, de son casting à son intrigue.",
+          "url": "https://www.journaldugeek.com/2026/08/13/god-of-war-date-de-sortie-casting-intrigue-tout-savoir-sur-la-serie-live-action/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/god-of-war-prime-video-tout-savoir-1280x853.jpg"
+        },
+        {
+          "title": "Sony & TSMC : Photo smartphone révolutionnée",
+          "summary": "Deux mastodontes asiatiques, Sony et TSMC, unissent leurs forces pour une avancée majeure dans la technologie des appareils photo mobiles.",
+          "url": "https://www.journaldugeek.com/2026/08/13/sony-et-tsmc-deux-geants-asiatiques-sallient-pour-revolutionner-les-appareils-photo-de-nos-smartphones/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/TSMC_1920x1280-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : Russell Westbrook, une légende tire sa révérence",
+          "summary": "L'ancien MVP de la NBA, Russell Westbrook, met fin à sa carrière emblématique à l'âge de 37 ans.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ancien-mvp-russell-westbroolk-prend-sa-retraite-a-37-ans_AV-202608130022.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/blIbteV2uIp1062wkM-57fTG32o=/0x105:2048x1257/800x0/images/Russell-Westbrook-Denver-2041175.jpg"
+        },
+        {
+          "title": "Athlétisme Euro : Finot et Bonnin médaillées",
+          "summary": "La France brille aux Championnats d'Europe d'athlétisme avec l'argent de Finot au steeple et le bronze de Bonnin à la perche.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/championnats-d-europe/direct-championnats-d-europe-d-athletisme-suivez-en-live-les-epreuves-du-jeudi-13-aout-2026_LN-202608130248.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lCgvsyllxU22c_TTqNA_QdR9-tw=/0x212:2048x1364/800x0/images/Marie-Julie-Bonnin-lors-du-concours-de-saut-a-la-perche-des-championnats-d-Europe-d-athletisme-13-aout-2026-2332100.jpg"
+        },
+        {
+          "title": "Gymnastique : Éducateur mis en examen pour agressions",
+          "summary": "Un éducateur de gymnastique est mis en examen pour agressions et harcèlement sexuels impliquant une dizaine de mineures.",
+          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
+        }
+      ]
+    }
+  ]
+}
