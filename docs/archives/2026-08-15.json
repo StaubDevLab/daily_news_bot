@@ -1,0 +1,178 @@
+{
+  "ephemeride": "Fête de l'Assomption",
+  "global_summary": "Le monde fait face à des réalités complexes et souvent sombres. Juillet a malheureusement marqué un pic de violence civile en Ukraine, tandis que l'Afghanistan continue de naviguer dans l'incertitude sous le régime Taliban. Un drame a également secoué le monde du sport avec le décès d'un jeune cycliste, nous rappelant la fragilité de la vie. En France, la lutte acharnée contre les incendies dans les Landes se poursuit, mobilisant des moyens considérables, et le secteur technologique s'interroge sur l'éthique de l'IA face à la préservation du patrimoine littéraire.",
+  "running_advice": "Prépare-toi à relever le défi, athlète ! Avec des températures maximales à 31.8°C et minimales à 21.6°C sous un ciel peu nuageux, c'est une occasion en or de te dépasser. Pour une performance optimale et pour éviter le pic de chaleur, privilégie une séance matinale juste après le lever du soleil à 07:04 ou une course rafraîchissante en soirée, idéalement après 19:00. L'indice UV est de 6.55, ce qui est significatif : n'oublie pas ta crème solaire, ta casquette et tes lunettes ! Hydratation et protection sont tes alliés. Chaque foulée compte, alors fonce et laisse ton énergie t'emporter !",
+  "weather_string": "🌤️ Peu nuageux (21.6°C / 31.8°C)",
+  "weather_stats": {
+    "temp": "31.8°C",
+    "rain": "15%",
+    "uv": "6.55"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Ukraine: Juillet le plus meurtrier",
+          "summary": "Le mois de juillet a vu plus de 3 000 victimes civiles, marquant un triste record depuis 2022.",
+          "url": "https://www.ladepeche.fr/2026/08/14/guerre-en-ukraine-juillet-devient-le-mois-le-plus-meurtrier-pour-les-civils-depuis-2022-les-missiles-et-les-drones-russes-ont-fait-plus-de-3-000-13509515.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a7f57d8a61ff48d2c0af9e1/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Afghanistan: 5 ans de règne Taliban",
+          "summary": "Cinq ans après la prise de pouvoir, les Talibans exercent un monopole violent sans légitimité durable.",
+          "url": "https://www.lepoint.fr/monde/les-talibans-ont-le-monopole-de-la-violence-pas-de-veritable-legitimite-cinq-ans-apres-ou-va-MX5AWW3J4NDERGTRAYONIRBL4E/",
+          "image": "https://www.lepoint.fr/resizer/v2/Z2D2TKEQ7FLYHBGXJJH75KFE5I.jpg?auth=c10aeb221ffc06978a0a7d91c061f135bd3bfdf628533fc9bc730c6e3d4ca964&smart=true&width=1200&height=900"
+        },
+        {
+          "title": "Finlay Tarling: Cycliste décédé",
+          "summary": "Le jeune cycliste Finlay Tarling est décédé suite à un accident sur le Tour du Portugal.",
+          "url": "https://www.france24.com/fr/sports/20260814-le-jeune-cycliste-finlay-tarling-trouve-la-mort-dans-un-accident-au-tour-du-portugal",
+          "image": "https://s.france24.com/media/display/79eb2dcc-9806-11f1-81ef-005056a90284/w:1024/p:16x9/AP24267348865759.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Landes: L'incendie s'atténue légèrement",
+          "summary": "L'incendie dans les Landes continue de progresser, mais l'intensité du feu diminue légèrement.",
+          "url": "https://www.letelegramme.fr/france/incendie-dans-les-landes-le-feu-progresse-un-peu-mais-son-intensite-diminue-legerement-7100362.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a7f591147aa1942de0170b2/web_golden_xxl/6a7f591147aa1942de0170b2.1"
+        },
+        {
+          "title": "Genève: Circulation restreinte",
+          "summary": "D'importantes restrictions de circulation sont prévues à Genève en raison de manifestations à venir.",
+          "url": "https://www.lemessager.fr/649356548/article/2026-08-14/d-importantes-restrictions-de-circulation-lundi-et-mardi-geneve-en-raison-de",
+          "image": "https://www.lemessager.fr/sites/default/files/dpistyles_v2/ena_16_9_medium/2024/08/16/node_649356548/428789/public/2024/08/16/24033448.jpeg"
+        },
+        {
+          "title": "Sur les traces des blockhaus",
+          "summary": "Plongez dans l'histoire avec des photos inédites des blockhaus du littoral français.",
+          "url": "http://www.nordlittoral.fr/294780/article/2026-08-14/des-histoires-de-bunker-sur-les-traces-des-blockhaus-en-photos",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/14/node_294780/3775206/public/2026/08/14/94509937.jpeg?itok=7dnvpnBS1786731633"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "IA: Menace sur les livres rares",
+          "summary": "Les libraires soupçonnent l'IA de détruire des livres rares après numérisation, limitant les commandes.",
+          "url": "https://intelligence-artificielle.developpez.com/actu/386166/Les-libraires-soupconnent-les-entreprises-d-IA-d-acheter-des-livres-rares-et-de-les-detruire-apres-numerisation-Elles-refusent-desormais-les-gros-volumes-de-commandes-pour-empecher-cette-approche-destructrice/",
+          "image": "https://www.developpez.com/images/logos/intelligence-artificielle2.png"
+        },
+        {
+          "title": "Seagate: L'action s'envole",
+          "summary": "L'action Seagate Technology enregistre une forte hausse, attirant l'attention du marché boursier.",
+          "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-seagate-technology-senvoletelle-aujourdhui--93CH-3558583",
+          "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+        },
+        {
+          "title": "Porsche Flachbau RS revient",
+          "summary": "La Porsche Flachbau RS fait son grand retour, version 911 GT2 RS, avec des images spectaculaires.",
+          "url": "https://www.autojournal.fr/info-nouveautes-produits/porsche-flachbau-rs-911-gt2-rs-presentation-nouveaute-2026-422013.html",
+          "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2026/08/porsche-flachbau-rs-911-gt2-rs-presentation-nouveaute-2026.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Bullish: Chute inattendue",
+          "summary": "L'action Bullish connaît une chute significative en bourse, interrogeant les analystes financiers.",
+          "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-bullish-chutetelle-aujourdhui--93CH-3558580",
+          "image": "https://content-media.investing.com/news/LYNXNPEB9M0BY_M.jpg"
+        },
+        {
+          "title": "AXT: Forte hausse de l'action",
+          "summary": "L'action AXT est en nette progression aujourd'hui, signalant un intérêt accru des investisseurs.",
+          "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-axt-estelle-en-hausse-aujourdhui--93CH-3558582",
+          "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_M.jpg"
+        },
+        {
+          "title": "Trinseo: AGO après chute d'actifs",
+          "summary": "Trinseo organise une AGE d'urgence suite à une importante diminution de ses actifs nets.",
+          "url": "https://fr.investing.com/news/sec-filings/trinseo-convoque-une-assemblee-generale-extraordinaire-apres-une-chute-de-ses-actifs-nets-93CH-3558584",
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1AG_1200_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🌊",
+      "articles": [
+        {
+          "title": "Landes: Nouvelle saute de feu",
+          "summary": "Une nouvelle saute de feu dans les Landes a entraîné l'évacuation d'un quartier et mobilise 550 pompiers.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/direct-incendie-dans-les-landes-une-nouvelle-saute-de-feu-en-debut-de-nuit-un-quartier-evacue-550-pompiers-mobilises-suivez-en-direct-cette-lutte-acharnee-contre-le-mega-feu-30262871.php"
+        },
+        {
+          "title": "RD834 fermée par le feu",
+          "summary": "La route RD834 est coupée à la circulation à cause d'une nouvelle saute de feu vers Garein.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-dans-les-landes-la-rd834-fermee-en-raison-d-une-nouvelle-saute-de-feu-vers-garein-30261447.php"
+        },
+        {
+          "title": "Grand Crohot rouverte",
+          "summary": "La route du Grand Crohot à Lège-Cap-Ferret est de nouveau accessible ce lundi matin.",
+          "url": "https://www.sudouest.fr/gironde/lege-cap-ferret/incendie-en-gironde-a-lege-cap-ferret-la-route-du-grand-crohot-rouverte-ce-lundi-17-aout-a-9-heures-30260639.php"
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Avengers Doomsday: Doom dévoilé",
+          "summary": "La nouvelle bande-annonce d'Avengers Doomsday révèle l'incroyable puissance du vilain Doom.",
+          "url": "https://www.journaldugeek.com/2026/08/15/avengers-doomsday-une-nouvelle-bande-annonce-montre-la-puissance-de-doom/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/avengers-doomsday-bande-annonce-2-1280x853.jpg"
+        },
+        {
+          "title": "X-Men: Tout sur le MCU",
+          "summary": "Découvrez la date de sortie, le casting et tous les secrets du prochain événement X-Men du MCU.",
+          "url": "https://www.journaldugeek.com/dossier/x-men-date-de-sortie-casting-tout-savoir-sur-le-prochain-grand-evenement-du-mcu/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/X-Men-Tout-savoir-1280x853.jpg"
+        },
+        {
+          "title": "Test Navee XT5 Ultra",
+          "summary": "La trottinette électrique Navee XT5 Ultra excelle en montée, mais sa capacité de freinage est limitée.",
+          "url": "https://www.journaldugeek.com/test/test-trottinette-electrique-navee-xt5-ultra-elle-grimpe-tout-mais-elle-ne-sarrete-plus/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Navee-XT5-Ultra-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama s'essaie au rugby",
+          "summary": "Victor Wembanyama a étonné en s'entraînant avec Provence Rugby, impressionnant les pros.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/wembanyama-etait-impressionnant-vraiment-a-l-aise-la-star-des-spurs-s-est-entraine-avec-provence-rugby-philippe-saint-adnre-raconte_AV-202608140362.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/x97rbcF7zoq23tBBb8qQ2n-oK7k=/0x25:2048x1177/800x0/images/Victor-Wembanyama-lors-de-la-Fashion-Week-de-Paris-23-juin-2026-2318616.jpg"
+        },
+        {
+          "title": "Gymnastique: Elena Colas en bronze",
+          "summary": "Elena Colas remporte une médaille de bronze historique au concours général aux Championnats d'Europe.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/gymnastique-la-francaise-elena-colas-en-bronze-au-concours-general-a-l-euro-une-premiere-depuis-2019_AV-202608130538.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/oDys2wqD1lRfijCf6EHAqRW0WY4=/0x106:2048x1258/800x0/images/La-gymnaste-francaise-elena-colas-en-juin-2026-2326380.jpg"
+        },
+        {
+          "title": "Gymnastique: Scandale sexuel",
+          "summary": "Un éducateur de gymnastique est mis en examen pour agressions et harcèlement sexuels sur mineures.",
+          "url": "https://rmcsport.bfmtv.com/societe/une-dizaine-de-mineures-concernees-un-educateur-de-gymnastique-mis-en-examen-pour-agressions-et-harcelement-sexuels_AN-202608070325.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DO8rpsfTJvHzg63knxalyuTRqBY=/759x736:1783x1312/800x0/images/Illustration-gymnastique-2163934.jpg"
+        }
+      ]
+    }
+  ]
+}
