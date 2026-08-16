@@ -1,0 +1,151 @@
+{
+  "ephemeride": "Sainte Armel",
+  "global_summary": "La journée s'annonce sous le signe de la vigilance internationale et des prouesses nationales. Tandis que Lourdes se prépare avec une sécurité renforcée pour accueillir le Pape Léon XIV, des révélations sur Kim Jong-un animent l'actualité mondiale, soulignant des enjeux géopolitiques majeurs. L'intelligence artificielle est également au cœur des débats, de la production artistique aux nouvelles politiques de plateformes comme Spotify.\n\nEn France, l'esprit de résilience se manifeste avec le témoignage inspirant d'une jeune auteure victime de violences, et le pays mobilise des moyens technologiques comme l'hélicoptère Chinook pour lutter contre les incendies. Le sport français brille particulièrement, avec des jeunes talents en gymnastique, des athlètes pugnaces et des défis inédits dans le monde du basket, témoignant d'une période riche en émotions et en performances.",
+  "running_advice": "Aujourd'hui, c'est Sainte Armel, et la météo nous offre une belle opportunité de nous dépasser ! Avec des températures oscillant entre 19.9°C et 31.2°C et un brouillard matinal qui devrait vite se dissiper, c'est une excellente journée pour un running revigorant. Le risque de pluie est minime (13%), vous pouvez donc courir l'esprit tranquille. L'heure idéale pour chausser vos baskets serait tôt le matin, juste après le lever du soleil à 07:05, pour profiter de la fraîcheur. Sinon, optez pour la fin de journée, après 19h00 et avant le coucher du soleil à 21:08, quand la chaleur commence à baisser. Attention cependant, l'indice UV est de 6.55, ce qui est élevé ! Crème solaire, casquette et lunettes de soleil sont indispensables pour vous protéger. N'oubliez pas de bien vous hydrater. Allez, on y va, chaque foulée vous rapproche de vos objectifs !",
+  "weather_string": "🌫️ Brouillard (19.9°C / 31.2°C)",
+  "weather_stats": {
+    "temp": "31.2°C",
+    "rain": "13%",
+    "uv": "6.55"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Sécurité Maximale pour Léon XIV en France",
+          "summary": "Le maire de Lourdes assure une sécurité sans précédent pour la visite du Pape Léon XIV, garantissant la tranquillité de l'événement.",
+          "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/leon-xiv-en-france-une-securite-de-tres-tres-haut-niveau-a-lourdes-rassure-le-maire_8149178.html",
+          "image": "https://www.franceinfo.fr/pictures/mC2fNAlPOAYLFlng0Yby05CUdog/0x167:1322x911/432x243/filters:format(jpg):quality(50)/2026/08/15/6a80b4afad7cd014960906.png"
+        },
+        {
+          "title": "Kim Jong-un: Révélations d'un livre choc",
+          "summary": "Un nouvel ouvrage, « La face cachée de Kim Jong-un », promet des éclairages inédits sur le leader nord-coréen.",
+          "url": "https://www.rfi.fr/fr/podcasts/livre-international/20260815-la-face-cach%C3%A9e-de-kim-jong-un-de-cheong-seong-chang",
+          "image": "https://s.rfi.fr/media/display/271ccb5c-980e-11f1-80ed-005056bf30b7/w:1024/p:16x9/livreinter-1.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Un exploit salué à Paris",
+          "summary": "Un acteur majeur, Marchand, exprime une immense fierté pour une réalisation significative accomplie au cœur de la capitale.",
+          "url": "http://www.lardennais.fr/id822693/article/2026-08-15/marchand-hyper-fier-surtout-de-le-faire-ici-paris",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/15/node_822693/15494850/public/2026/08/15/B9738684959Z.1_20260815211427_000%2BG07SSODKV.2-0.jpg?itok=2JO0IhMM1786821273"
+        },
+        {
+          "title": "Le Chinook australien, un allié face aux flammes",
+          "summary": "Découverte du Chinook, l'hélicoptère bombardier d'eau géant prêté par l'Australie, crucial dans la lutte contre les incendies en France.",
+          "url": "http://www.lardennais.fr/id822692/article/2026-08-15/incendies-cest-quoi-le-chinook-cet-helico-bombardier-deau-geant-prete-par",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/15/node_822692/15494847/public/2026/08/15/96722535.jpeg?itok=0SMg3jhj1786820945"
+        },
+        {
+          "title": "Stade Brestois: Test grandeur nature avant la Ligue 1",
+          "summary": "Le Stade Brestois affronte des équipes anglaises en Ligue des Champions, un révélateur clé avant le début du championnat national.",
+          "url": "https://www.letelegramme.fr/sports/football/stade-brestois/la-ligue-des-champions-nous-a-offert-des-adversaires-plus-calibrees-le-stade-brestois-passe-au-revelateur-anglais-avant-la-ligue-1-7100669.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a80ba85cb417a86e0073470/web_golden_xxl/6a80ba85cb417a86e0073470.1"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Supergirl: L'IA sème le doute chez Warner Bros.",
+          "summary": "Warner Bros. retire une vidéo de Supergirl, alimentant les spéculations sur l'utilisation de l'intelligence artificielle dans sa production.",
+          "url": "https://www.begeek.fr/supergirl-warner-bros-retire-une-video-lombre-de-lia-grandit-438584",
+          "image": "https://www.begeek.fr/wp-content/uploads/2026/06/supergirl-milly-alcock.webp"
+        },
+        {
+          "title": "Spotify étiquette les artistes générés par IA",
+          "summary": "Pour plus de transparence, Spotify va identifier clairement les morceaux créés ou assistés par intelligence artificielle.",
+          "url": "https://www.journaldugeek.com/2026/08/15/spotify-va-coller-une-etiquette-aux-artistes-ia/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/spotify-1280x853.jpg"
+        },
+        {
+          "title": "Voyager 2: Mission spatiale prolongée",
+          "summary": "La sonde Voyager 2 continue son incroyable périple, avec une année supplémentaire d'exploration dans l'espace intersidéral.",
+          "url": "https://www.journaldugeek.com/2026/08/15/voyager-2-rempile-pour-une-annee-de-plus-dans-lespace/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/voyager-2-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Marché aux puces des Carmes, l'institution avignonnaise",
+          "summary": "Le marché des Carmes à Avignon continue de séduire, offrant une expérience unique dans un cadre historique remarquable.",
+          "url": "https://www.ledauphine.com/economie/2026/08/15/le-marche-aux-puces-des-carmes-une-institution-dans-un-cadre-exceptionnel",
+          "image": "https://cdn-s-www.ledauphine.com/images/8EE2566D-80A9-481B-A5AD-16ABF44BF2E0/NW_listB/le-marche-aux-puces-des-carmes-une-institution-dans-un-cadre-exceptionnel-1786820491.jpg"
+        },
+        {
+          "title": "CompX: Ann Manix cède des actions",
+          "summary": "La directrice de CompX, Ann Manix, a vendu des actions de l'entreprise pour un montant de 44 395 dollars.",
+          "url": "https://fr.investing.com/news/insider-trading-news/la-directrice-de-compx-ann-manix-cede-des-actions-pour-44395-93CH-3558934",
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3S10Z_1200_L.jpg"
+        },
+        {
+          "title": "Otter Tail: Vente d'actions par le VP RH",
+          "summary": "Le vice-président des ressources humaines d'Otter Tail a cédé des actions de la société pour 68 159 dollars.",
+          "url": "https://fr.investing.com/news/insider-trading-news/le-vp-des-ressources-humaines-dotter-tail-vend-des-actions-pour-68159-93CH-3558935",
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3T1K3_1200_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Région (Sud-Ouest)",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Chloé, 19 ans: Résilience et nouveau départ",
+          "summary": "Victime de violences, Chloé, jeune auteure, fait preuve d'une résilience inspirante et entreprend une formation d'infirmière.",
+          "url": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/la-resilience-c-est-accepter-et-continuer-a-avancer-a-19-ans-chloe-victime-de-violences-jeune-auteure-s-est-lancee-dans-une-formation-d-infirmiere-30212785.php",
+          "image": null
+        },
+        {
+          "title": "Vague de vols ciblant des seniors à Artigues",
+          "summary": "Une femme est suspectée d'avoir commis plusieurs vols chez des personnes âgées à Artigues-près-Bordeaux.",
+          "url": "https://www.sudouest.fr/gironde/artigues-pres-bordeaux/artigues-pres-bordeaux-une-femme-multiplie-les-vols-chez-des-personnes-agees-30269280.php",
+          "image": null
+        },
+        {
+          "title": "Landes: Routes coupées suite aux incendies",
+          "summary": "Les incendies en cours dans les Landes entraînent la fermeture de plusieurs routes ce dimanche 16 août.",
+          "url": "https://www.sudouest.fr/economie/transports/circulation/incendies-dans-les-landes-quelles-sont-les-routes-coupees-ce-dimanche-16-aout-30273587.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Littlegiant défie Wembanyama en duel",
+          "summary": "Naelle Bernard, alias Littlegiant, crée le buzz en défiant Victor Wembanyama dans un match de basket un contre un.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/elle-dribble-n-importe-qui-en-robe-naelle-bernard-alias-littlegiant-defie-wembanyama-en-un-contre-un_AV-202608140400.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/aZQPsHcmG-zYQjGezchBnrPZj7A=/8x212:504x491/800x0/images/Littlegiant-une-creatrice-de-contenus-avec-Victor-Wembanyama-2332351.jpg"
+        },
+        {
+          "title": "Athlétisme: Quinion, la médaille et le choc",
+          "summary": "Aurélien Quinion décroche le bronze au marathon marche, visiblement sous le coup de l'effort et de l'émotion intense.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/championnats-d-europe-d-athl%C3%A9tisme-je-ne-comprends-rien-a-ce-qui-se-passe-les-images-d-aur%C3%A9lien-quinion-hagard-apr%C3%A8s-sa-m%C3%A9daille-de-bronze_AV-202608150170.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOONumFW_dqF-Hzn1ac8d_N1My4=/0x106:2048x1258/800x0/images/Aurelien-Quinion-lors-des-Championnats-d-Europe-d-athl%C3%A9tisme-le-15-aout-2026-2332622.jpg"
+        },
+        {
+          "title": "Elena Colas, 16 ans, brille en Gymnastique",
+          "summary": "La jeune gymnaste française Elena Colas rafle l'or à la poutre et l'argent au sol aux Championnats d'Europe.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/championnats-d-europe-de-gymnastique-la-francaise-elena-colas-medaillee-d-or-a-la-poutre-a-seulement-16-ans_AN-202608150221.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/hPTqlZHUniRgJETbIpbO33OSSzU=/0x72:2048x1224/800x0/images/La-gymnaste-francaise-Elena-Colas-lors-des-championnats-d-Europe-de-gymnastique-13-aout-2026-2332654.jpg"
+        }
+      ]
+    }
+  ]
+}
