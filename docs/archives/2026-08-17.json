@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Hyacinthe",
+  "global_summary": "L'actualité de ce jour présente un kaléidoscope d'événements, mêlant drames humains et exploits sportifs. Au niveau mondial, un tragique accident de car en Hongrie endeuille les esprits, tandis que les tensions internationales autour de Gaza persistent. Cependant, la France brille sur la scène sportive avec les médailles obtenues aux Championnats d'Europe d'athlétisme et de gymnastique, et la victoire historique du pongiste Félix Lebrun. Une disparition marquante dans le monde du divertissement nous rappelle la fragilité de la vie, tandis que des innovations technologiques continuent de surprendre. \n\nEn parallèle, des sujets sociétaux et économiques importants retiennent l'attention, comme les cyberattaques touchant les données fiscales de milliers de Français et les discussions autour du gel des pensions. Les drames régionaux, comme les incendies dans les Landes, rappellent également les défis locaux. Cette journée est donc un mélange d'alertes et d'inspirations, nous rappelant la complexité et la richesse de notre monde.",
+  "running_advice": "Préparez vos baskets ! Avec des températures oscillant entre 19.8°C et 29.3°C et un ciel peu nuageux, c'est une excellente journée pour chausser vos runnings. Cependant, l'indice UV élevé (6.8) et la chaleur de l'après-midi nécessitent de la prudence. L'heure idéale pour votre séance serait tôt le matin, juste après le lever du soleil vers 07h06, pour profiter de la fraîcheur. Si vous préférez courir en soirée, visez après 19h00, quand le soleil commence à descendre. Dans tous les cas, n'oubliez pas votre crème solaire, un chapeau et hydratez-vous abondamment pour transformer cette belle journée en une performance mémorable !",
+  "weather_string": "🌤️ Peu nuageux (19.8°C / 29.3°C)",
+  "weather_stats": {
+    "temp": "29.3°C",
+    "rain": "0%",
+    "uv": "6.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Hongrie : Tragique accident de car",
+          "summary": "Un accident routier dévastateur fait 12 morts et 37 blessés en Hongrie. Le chauffeur est en garde à vue.",
+          "url": "https://www.ladepeche.fr/2026/08/16/accident-mortel-en-hongrie-12-morts-et-37-blesses-chauffeur-en-garde-a-vue-que-sait-on-sur-la-dramatique-sortie-de-route-dun-car-13511250.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a820d6c877a6f2be10b3c70/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Gaza : Huit pays condamnent Israël",
+          "summary": "Huit nations musulmanes s'unissent pour dénoncer le refus israélien du plan Trump pour Gaza. Tensions internationales.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/huit-pays-musulmans-condamnent-le-refus-israelien-de-poursuivre-le-plan-de-donald-trump-pour-gaza_8150273.html",
+          "image": "https://www.franceinfo.fr/pictures/rXwFuX0RdIaW3-_0caOXvghjn9E/0x18:1024x594/432x243/filters:format(jpg):quality(50)/2026/08/16/6a8206a4a4b13253161258.jpg"
+        },
+        {
+          "title": "Félix Lebrun, champion de tennis de table",
+          "summary": "Le pongiste français Félix Lebrun s'impose au Grand Smash, l'équivalent d'un Grand Chelem. Une performance mondiale !",
+          "url": "https://www.france24.com/fr/sports/20260816-tennis-de-table-f%C3%A9lix-lebrun-remporte-son-premier-grand-smash-pongiste-fran%C3%A7ais",
+          "image": "https://s.france24.com/media/display/6b2f87fa-99a1-11f1-ace5-005056bf30b7/w:1280/p:16x9/000-B2DE7J8.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Natation : Relais 4x100m en beauté",
+          "summary": "L'équipe de France conclut les championnats avec une performance remarquable au relais 4 × 100 m quatre nages.",
+          "url": "http://www.lardennais.fr/id822806/article/2026-08-16/et-il-conclut-en-beaute-avec-le-relais-4-x-100-m-quatre-nages",
+          "image": "https://www.lardennais.fr/sites/all/themes/enabootstrap_rem_lardennais/images/logo_lardennais.svg"
+        },
+        {
+          "title": "Feria de Dax : Ambiance festive",
+          "summary": "La Feria de Dax bat son plein ce dimanche, promettant une édition mémorable sous le signe de l'émeraude.",
+          "url": "https://www.larepubliquedespyrenees.fr/societe/feria-de-dax-dimanche-16-08-2026-divine-emeraude-30278421.php",
+          "image": "https://media.larepubliquedespyrenees.fr/30278421/1200x600/p6w6866-web-1mo.jpg"
+        },
+        {
+          "title": "Landes : Incendies dévastateurs",
+          "summary": "À Biscarrosse, un entrepreneur voit sa salle de sport neuve partir en fumée, dévastée par les incendies.",
+          "url": "https://www.sudouest.fr/landes/biscarrosse/incendies-dans-les-landes-en-partant-je-savais-que-ca-allait-cramer-a-biscarrosse-il-a-vu-la-salle-de-sport-qu-il-venait-d-ouvrir-partir-en-fumee-30258200.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Carrefour : Interdiction VE en Belgique",
+          "summary": "Carrefour Belgique bannit les voitures électriques de certains parkings. La France pourrait-elle suivre ?",
+          "url": "https://www.capital.fr/auto/carrefour-interdit-les-voitures-electriques-sur-certains-parkings-en-belgique-la-france-va-t-elle-suivre-1529317",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~08~16~bd0a89cf-097f-460a-8509-44b14485fa87.jpg/1200x900/quality/80/carrefour-interdit-les-voitures-electriques-sur-certains-parkings-en-belgique-la-france-va-t-elle-suivre.jpg"
+        },
+        {
+          "title": "Cannes : Le taxi Lamborghini affole",
+          "summary": "Un chauffeur de taxi de Cannes surprend ses clients en Lamborghini Urus, créant le buzz sur la Croisette.",
+          "url": "https://www.autoplus.fr/actualite/insolite/cannes-taxi-lamborghini-urus-de-666-ch-qui-affole-la-croisette-et-defie-le-porsche-cayenne-1461524.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-16-a-las-20.50.11.png"
+        },
+        {
+          "title": "Tesla Model 3 : 700 000 km !",
+          "summary": "Une Tesla Model 3 impressionne en atteignant 700 000 km avec sa batterie d'origine. Un exploit de longévité.",
+          "url": "https://www.autoplus.fr/actualite/insolite/toujours-avec-sa-batterie-dorigine-cette-tesla-model-3-depasse-les-700-000-km-1461523.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-16-a-las-20.44.25.png"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Retraites : Gel des pensions ?",
+          "summary": "Les pensions des retraités les plus aisés pourraient être désindexées de l'inflation. Une mesure controversée.",
+          "url": "https://www.franceinfo.fr/economie/budget/gel-des-pensions-les-retraites-les-plus-aises-bientot-desindexes-sur-l-inflation_8150258.html",
+          "image": "https://www.franceinfo.fr/pictures/o2iqKCJl8cqBvY--kFu24_HqU8E/0x79:1770x1075/432x243/filters:format(jpg):quality(50)/2026/08/16/6a8203f14b9a1024168796.png"
+        },
+        {
+          "title": "Cyberattaque majeure sur le fisc",
+          "summary": "700 000 Français impactés par une cyberattaque fiscale. Le gouvernement tente de faire face à la crise.",
+          "url": "https://www.ladepeche.fr/2026/08/16/cyberattaque-contre-le-fisc-700-000-francais-concernes-cellule-interministerielle-comment-le-gouvernement-tente-de-faire-face-a-la-crise-13511240.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a82071a0558713a3105afdc/standard/image.jpg?v=6"
+        },
+        {
+          "title": "Bouvante : 10 ans pour La Rouye",
+          "summary": "La Rouye célèbre ses 10 ans à Bouvante avec des portes ouvertes et de nombreuses animations.",
+          "url": "https://www.ledauphine.com/economie/2026/08/16/portes-ouvertes-et-animations-pour-les-10-ans-de-la-rouye",
+          "image": "http://cdn-files.prsmedia.fr/files/LDL/fr/images/LDL_placeholder.png"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Athlétisme : Nouvelles médailles !",
+          "summary": "Kpatcha et Thiery enrichissent le palmarès français aux Championnats d'Europe d'athlétisme. Bravo !",
+          "url": "https://rmcsport.bfmtv.com/athletisme/championnats-d-europe/direct-championnats-d-europe-d-athletisme-suivez-en-live-la-derniere-journee-en-ce-dimanche-16-aout_LN-202608160063.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/z5pWZZHaSPtKk9lAr8NY2sGAsUo=/0x212:2048x1364/800x0/images/Hilary-Kpatcha-lors-du-concours-de-saut-en-longueur-aux-championnats-d-Europe-d-athletisme-16-aout-2026-2332934.jpg"
+        },
+        {
+          "title": "Gymnastique : Or et argent pour Elena Colas",
+          "summary": "À 16 ans, Elena Colas brille aux Championnats d'Europe, décrochant l'or à la poutre et l'argent au sol.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/championnats-d-europe-de-gymnastique-la-francaise-elena-colas-medaillee-d-or-a-la-poutre-a-seulement-16-ans_AN-202608150221.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/hPTqlZHUniRgJETbIpbO33OSSzU=/0x72:2048x1224/800x0/images/La-gymnaste-francaise-Elena-Colas-lors-des-championnats-d-Europe-de-gymnastique-13-aout-2026-2332654.jpg"
+        },
+        {
+          "title": "NBA : Russell Westbrook prend sa retraite",
+          "summary": "L'ancien MVP de la NBA Russell Westbrook met fin à une carrière légendaire à 37 ans. Une page se tourne.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ancien-mvp-russell-westbroolk-prend-sa-retraite-a-37-ans_AV-202608130022.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/blIbteV2uIp1062wkM-57fTG32o=/0x105:2048x1257/800x0/images/Russell-Westbrook-Denver-2041175.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Curiosités",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Hayden Panettiere nous a quittés",
+          "summary": "L'actrice Hayden Panettiere, héroïne de 'Heroes' et star de 'Scream', est décédée tragiquement à 36 ans.",
+          "url": "https://www.journaldugeek.com/2026/08/17/hayden-panettiere-lheroine-de-heroes-devenue-star-de-scream-est-decedee-a-36-ans/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/Hayden-Panettiere-mort-1280x853.jpg"
+        },
+        {
+          "title": "Contrôleurs aériens gamers aux USA",
+          "summary": "Les États-Unis recrutent leurs futurs contrôleurs aériens parmi les passionnés de jeux vidéo. Une approche innovante !",
+          "url": "https://www.journaldugeek.com/2026/08/17/aux-etats-unis-les-controleurs-aeriens-se-recrutent-chez-les-joueurs/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/09/aeroport-cyberattaque-1280x853.jpg"
+        },
+        {
+          "title": "Les chiens nous comprennent !",
+          "summary": "Des études récentes révèlent que les chiens sont capables de lire et interpréter nos expressions faciales.",
+          "url": "https://www.journaldugeek.com/2026/08/17/les-chiens-lisent-vraiment-nos-tetes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/chien-1280x853.jpg"
+        }
+      ]
+    }
+  ]
+}
