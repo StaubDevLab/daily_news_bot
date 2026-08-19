@@ -1,0 +1,151 @@
+{
+  "ephemeride": "Saint Jean-Eudes",
+  "global_summary": "L'actualité mondiale reste sous tension, entre les discussions complexes sur les exercices militaires en Corée et les conflits tragiques à Gaza. Au Pakistan, la situation politique tendue avec l'ancien Premier ministre Imran Khan continue de faire les gros titres. En France, les défis sont variés, allant des préoccupations environnementales liées à la sécheresse et aux incendies, aux enjeux de santé publique avec des cas de légionellose, sans oublier l'impact potentiel d'un nouveau médicament sur le marché de la leucémie. \n\nParallèlement, le monde de la technologie innove à grande vitesse, intégrant l'IA dans nos quotidiens et redéfinissant l'interface homme-machine dans l'automobile. Côté business, les cryptomonnaies s'ouvrent aux institutions, tandis que les transitions de générations façonnent le paysage entrepreneurial. Enfin, le sport nous offre un spectacle motivant : des transferts majeurs, le retour très attendu de stars comme Wembanyama, et les exploits impressionnants de jeunes talents français en gymnastique.",
+  "running_advice": "Prêt à chausser vos baskets ? Aujourd'hui, avec des températures oscillant entre 17.5°C et 28.7°C et un léger brouillard matinal, les conditions sont globalement favorables pour une bonne session de running ! Je vous recommande vivement de viser tôt le matin, juste après le lever du soleil à 07h09, ou en fin de journée, vers 19h00, pour profiter des températures plus douces et d'une meilleure visibilité après la dissipation du brouillard. L'indice UV étant de 6.7, une protection solaire est absolument essentielle : crème, casquette et lunettes de soleil sont vos meilleurs alliés. Hydratez-vous bien et écoutez votre corps. Chaque pas compte, faites de cette journée un nouveau record personnel !",
+  "weather_string": "🌫️ Brouillard (17.5°C / 28.7°C)",
+  "weather_stats": {
+    "temp": "28.7°C",
+    "rain": "3%",
+    "uv": "6.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump réduit les exercices Corée du Sud",
+          "summary": "Trump vise à diminuer les manœuvres militaires, un enjeu clé pour la diplomatie régionale et la sécurité.",
+          "url": "https://www.huffingtonpost.fr/international/video/trump-veut-reduire-les-exercices-conjoints-avec-la-coree-du-sud-de-quoi-s-agit-il_307111.html",
+          "image": "https://focus.huffingtonpost.fr/2026/08/18/0/0/1920/1080/0/0/60/0/c8b7cfa_upload-1-sbmdyvnctqf0-vignette-sk-trump-clean.jpg"
+        },
+        {
+          "title": "Frappe israélienne meurtrière à Gaza",
+          "summary": "Une frappe tragique à Gaza coûte la vie à six personnes, dont un enfant, intensifiant les tensions régionales.",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/six-personnes-dont-un-enfant-tuees-lors-d-une-frappe-israelienne-a-gaza_8152598.html",
+          "image": "https://www.franceinfo.fr/pictures/IxejOCvL90DRXREmZODDOFl1BnE/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/18/6a849cd06609a261489119.jpg"
+        },
+        {
+          "title": "Imran Khan transféré à l'hôpital",
+          "summary": "Emprisonné depuis trois ans, l'ex-Premier ministre pakistanais Imran Khan obtient un transfert temporaire pour raisons de santé.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/18/au-pakistan-l-ancien-premier-ministre-imran-khan-emprisonne-depuis-trois-ans-obtient-son-transfert-temporaire-dans-un-hopital-d-islamabad_6749087_3210.html",
+          "image": "https://img.lemde.fr/2026/08/18/696/0/4174/2087/1342/671/60/0/300c36f_ftp-1-pbtsujli20j4-5866304-01-06.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France & Société",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Légionellose: 3e décès en Savoie",
+          "summary": "Un troisième décès en Savoie est lié à la recrudescence de la bactérie de la légionellose, alertant la santé publique.",
+          "url": "https://www.sudouest.fr/sante/legionellose-un-troisieme-deces-en-savoie-lie-a-une-recrudescence-de-la-bacterie-30299254.php",
+          "image": null
+        },
+        {
+          "title": "Incendies: l'été difficile des artificiers",
+          "summary": "La sécheresse impacte durement les artificiers de Villeneuve-sur-Lot, avec seulement deux feux d'artifice tirés cet été.",
+          "url": "https://www.sudouest.fr/environnement/secheresse/risque-incendie-on-n-a-tire-que-deux-feux-de-l-ete-sale-temps-pour-cet-artificier-de-villeneuve-sur-lot-30295643.php",
+          "image": null
+        },
+        {
+          "title": "Agriculteurs, clés contre les feux",
+          "summary": "Face aux incendies, la ministre Genevard souligne le rôle crucial des agriculteurs et annonce des aides financières.",
+          "url": "https://www.sudouest.fr/economie/agriculture/entretien-secheresse-et-incendies-les-agriculteurs-jouent-un-role-fondamental-dans-la-lutte-contre-les-feux-la-ministre-annie-genevard-promet-de-sortir-le-carnet-de-cheque-30297211.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "ChatGPT pour ados: quelles nouveautés?",
+          "summary": "L'arrivée de ChatGPT pour les adolescents suscite des questions sur son impact et ses changements spécifiques.",
+          "url": "http://www.lardennais.fr/id823104/article/2026-08-18/chatgpt-pour-les-adolescents-ca-change-quoi",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/18/node_823104/15496313/public/2026/08/18/97274766.jpeg?itok=d71gnWGN1787076316"
+        },
+        {
+          "title": "Écran voiture: danger d'aveuglement",
+          "summary": "Une étude alerte: les écrans de voiture peuvent masquer la route, causant un roulage à l'aveugle sur 1km.",
+          "url": "https://www.autoplus.fr/actualite/lecran-dune-voiture-peut-vous-fait-rouler-a-laveugle-sur-pres-dun-kilometre-selon-une-etude-1461977.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/07/audi_q3-3-grande.jpeg"
+        },
+        {
+          "title": "LG innove: machine à laver IA",
+          "summary": "LG lance une machine à laver intelligente intégrant l'IA, capable de prendre de nombreuses décisions pour vous.",
+          "url": "https://www.journaldugeek.com/2026/08/19/lg-glisse-de-lia-dans-sa-nouvelle-machine-a-laver-et-elle-decide-de-presque-tout-a-votre-place/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/LG-lave-linge-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Citi lance la garde de Bitcoin",
+          "summary": "Citi se prépare à offrir des services de garde de Bitcoin aux clients institutionnels, marquant un tournant crypto.",
+          "url": "https://fr.benzinga.com/crypto/la-garde-de-bitcoin-pour-les-clients-institutionnels-arrivera-chez-citi-plus-tard-cette-annee/",
+          "image": "https://cdn.benzinga.com/files/images/story/2026/08/18/citigroup.jpg?width=2048&height=1536"
+        },
+        {
+          "title": "Enliven: un remède qui bouleverse le marché",
+          "summary": "Le médicament phare d'Enliven est attendu pour transformer le traitement de la leucémie et son marché économique.",
+          "url": "https://fr.benzinga.com/news/france/general/le-medicament-phare-denliven-pourrait-perturber-le-marche-du-traitement-de-la-leucemie-selon-un-analyste/",
+          "image": "https://cdn.benzinga.com/files/images/story/2026/08/18/Cancer-research.jpg?width=2048&height=1536"
+        },
+        {
+          "title": "Aguillon: une entreprise familiale passe le flambeau",
+          "summary": "Après 60 ans, l'entreprise familiale Aguillon confie ses rênes à la troisième génération, assurant la pérennité.",
+          "url": "https://www.nrpyrenees.fr/2026/08/18/apres-60-ans-dexistence-lentreprise-familiale-de-pompes-funebres-et-menuiserie-aguillon-passe-la-main-a-la-3e-generation-13513366.php",
+          "image": "https://images.nrpyrenees.fr/api/v1/images/view/6a84782ff4e537bafd0b0985/standard/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Rodri signe au FC Barcelone",
+          "summary": "Le champion du monde Rodri rejoint officiellement le Barça, un transfert majeur dans le monde du football.",
+          "url": "https://www.lanouvellerepublique.fr/sports/le-champion-du-monde-rodri-au-barca-c-est-officiel-1787076353",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a849eff9e6f54d9478b45ae"
+        },
+        {
+          "title": "Wembanyama: retour attendu avec les Bleus",
+          "summary": "Victor Wembanyama exprime son impatience de retrouver les Bleus et de sentir l'évolution du public français.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/basket-wembanyama-a-hate-de-voir-si-le-public-francais-a-change-pour-son-retour-avec-les-bleus_AV-202608170426.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/aXfqYRZHx_JAhsxzWfo6GPZxhK4=/0x83:2048x1235/800x0/images/Victor-Wembanyama-avant-un-match-des-Spurs-en-NBA-en-mars-2026-2333270.jpg"
+        },
+        {
+          "title": "Elena Colas, double médaillée européenne",
+          "summary": "À 16 ans, la gymnaste française Elena Colas brille aux Championnats d'Europe, décrochant l'or et l'argent.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/championnats-d-europe-de-gymnastique-la-francaise-elena-colas-medaillee-d-or-a-la-poutre-a-seulement-16-ans_AN-202608150221.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/hPTqlZHUniRgJETbIpbO33OSSzU=/0x72:2048x1224/800x0/images/La-gymnaste-francaise-elena-colas-lors-des-championnats-d-europe-de-gymnastique-13-aout-2026-2332654.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Loisirs",
+      "emoji": "🎬",
+      "articles": [
+        {
+          "title": "Zack Snyder: un retour jugé \"mauvais\"",
+          "summary": "Le réalisateur Zack Snyder revient avec un nouveau projet qui suscite déjà des critiques mitigées.",
+          "url": "https://www.journaldugeek.com/2026/08/18/zack-snyder-fait-son-retour-avec-un-projet-qui-sent-pas-bon/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/Zack-Snyder-The-Last-Photograph-1280x853.jpg"
+        },
+        {
+          "title": "Intergalactic: toutes les infos révélées",
+          "summary": "Découvrez les dernières informations, annonces et détails du jeu \"Intergalactic: The Heretic Prophet\".",
+          "url": "https://www.journaldugeek.com/2026/08/18/intergalactic-the-heretic-prophet-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-lieux-personnages/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/09/Dossiers-JDG-Intergalactic-The-Heretic-Prophet-1280x853.jpg"
+        }
+      ]
+    }
+  ]
+}
