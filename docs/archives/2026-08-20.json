@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Bernard",
-  "global_summary": "L'actualité de ce jour est marquée par des enjeux humanitaires et sociétaux profonds, avec des récits poignants de femmes en première ligne contre Ebola au Congo et la mise en péril de la santé féminine en Afghanistan. En France, la scène politique et judiciaire retient l'attention, soulignant les défis quotidiens et les débats sur l'avenir économique du pays. \n\nParallèlement, le monde de la technologie continue son évolution fulgurante avec l'émergence des robots humanoïdes et des innovations vertes dans l'automobile. Sur le front économique, les grandes entreprises et les marchés mondiaux connaissent des fluctuations importantes, tandis que le sport nous offre des moments forts, entre retraites marquantes et performances athlétiques inspirantes.",
-  "running_advice": "Champion(ne), aujourd'hui, c'est une excellente journée pour chausser vos baskets ! Avec des températures agréables oscillant entre 19.4°C et 26.3°C et un ciel peu nuageux, les conditions sont presque parfaites pour une session de running revigorante. L'heure idéale ? Je vous conseille vivement de sortir soit tôt le matin, juste après le lever du soleil vers 07h10 pour profiter de la fraîcheur et du calme, soit en fin d'après-midi, entre 18h00 et le coucher du soleil à 21h01. Attention, l'indice UV est de 4.95, ce qui est modéré à élevé : n'oubliez pas votre crème solaire et une casquette pour vous protéger. Hydratez-vous bien et profitez de chaque foulée pour vous dépasser !",
+  "global_summary": "Ce jour nous offre un panorama d'actualités contrastées, entre défis humains persistants et avancées technologiques fulgurantes. À l'international, les récits poignants de femmes luttant contre Ebola au Congo ou confrontées à des restrictions sanitaires en Afghanistan soulignent des enjeux humanitaires cruciaux, pendant que la robotique et les véhicules électriques redessinent notre futur.\n\nEn parallèle, la France vibre au rythme des événements sportifs, des suspensions au PSG aux exploits de nos athlètes, et l'économie mondiale navigue entre nouvelles stratégies chinoises et tensions géopolitiques impactant les marchés. Des divertissements populaires aux décisions financières majeures, cette journée révèle la complexité et la richesse de notre monde contemporain, nous invitant à rester connectés.",
+  "running_advice": "Alors, prêt(e) à chausser tes baskets, champion(ne) ? Aujourd'hui, c'est une excellente journée pour courir ! Avec des températures allant de 19.4°C à 26.3°C et un ciel peu nuageux, les conditions sont parfaites pour t'aérer l'esprit et le corps. Pour une performance optimale et pour profiter pleinement, je te conseille de privilégier ta session tôt le matin, juste après le lever du soleil vers 7h10, ou en fin d'après-midi, après 18h. L'indice UV est de 4.95, pense absolument à te protéger : crème solaire, casquette et lunettes de soleil sont tes meilleurs alliés. Et surtout, hydrate-toi bien ! Allez, on y va, l'énergie t'attend !",
   "weather_string": "🌤️ Peu nuageux (19.4°C / 26.3°C)",
   "weather_stats": {
     "temp": "26.3°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Congo: Femmes en première ligne contre Ebola",
-          "summary": "Des femmes congolaises luttent héroïquement contre Ebola, révélant la résilience face à la crise sanitaire persistante.",
+          "title": "Congo : Les héroïnes d'Ebola",
+          "summary": "Au Congo, des femmes courageuses sont en première ligne, soignant les malades d'Ebola malgré les risques immenses.",
           "url": "https://www.nouvelobs.com/monde/20260819.OBS117522/si-on-abandonne-les-malades-qui-s-en-occupera-au-congo-avec-les-femmes-en-premiere-ligne-contre-ebola.html",
           "image": "https://focus.nouvelobs.com/2026/08/13/193/156/5710/3807/1200/800/0/0/53e4ae9_upload-1-qkzynyjwa7pn-edited-photo.png"
         },
         {
-          "title": "Afghanistan: La santé des femmes menacée",
-          "summary": "Les talibans compromettent l'accès aux soins et l'éducation médicale des femmes, mettant en péril toute une génération.",
+          "title": "Afghanistan : Santé des femmes en péril",
+          "summary": "En Afghanistan, la santé des femmes est menacée par les talibans, privant le pays de professionnelles de santé essentielles.",
           "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/19/j-ai-travaille-jour-et-nuit-pour-devenir-medecin-et-j-y-etais-presque-a-quelques-semaines-pres-en-afghanistan-la-sante-des-femmes-mise-en-danger-par-les-talibans_6750002_3451060.html",
           "image": "https://img.lemde.fr/2026/08/11/827/0/5958/2979/1342/671/60/0/c62c27b_upload-1-wgkou89sqpnb-26-blanchardelise.JPG"
         },
         {
-          "title": "Robots humanoïdes: L'avenir est déjà là",
-          "summary": "Les robots à forme humaine ne sont plus un fantasme futuriste, ils transforment déjà notre quotidien et industries.",
+          "title": "Robots humanoïdes : Fin de la science-fiction",
+          "summary": "Les robots humanoïdes sortent des films pour entrer dans notre réalité, promettant une révolution technologique majeure.",
           "url": "https://www.franceinfo.fr/internet/les-robots-humanoides-ce-n-est-plus-de-la-science-fiction_8153756.html",
           "image": "https://www.franceinfo.fr/pictures/YXjDL5jAdtTfEFhexjUvqaTzpjk/0x0:900x1600/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/19/6a85bc31b620c533367665.jpg"
         }
@@ -38,118 +38,116 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Strasbourg: Harcèlement sexuel sanctionné",
-          "summary": "Un individu condamné à douze mois de prison pour harcèlement sexuel à Strasbourg, une peine exemplaire.",
+          "title": "Strasbourg : Prison ferme pour harcèlement",
+          "summary": "Un homme de Strasbourg condamné à douze mois de prison pour plus de 80 messages et appels à caractère sexuel.",
           "url": "https://www.dna.fr/faits-divers-justice/2026/08/19/plus-de-50-messages-et-30-appels-a-caractere-sexuel-douze-mois-de-prison",
           "image": "https://cdn-s-www.dna.fr/images/34CB5830-D57E-40D1-B674-7D754D714C24/NW_listB/plus-de-50-messages-et-30-appels-a-caractere-sexuel-douze-mois-de-prison-1787162756.jpg"
         },
         {
-          "title": "Lorient: Le Jeu des 1000 euros en fête",
-          "summary": "Lorient a accueilli le mythique \"Jeu des 1000 euros\", pour le grand bonheur des auditeurs et du public.",
-          "url": "https://www.letelegramme.fr/morbihan/lorient-56100/banco-banco-banco-le-celebre-jeu-des-1-000-euros-a-investi-le-palais-des-congres-de-lorient-7102447.php",
-          "image": "https://media.letelegramme.fr/api/v1/images/view/6a85f46dcaa3586fb6067d62/web_golden_xxl/6a85f46dcaa3586fb6067d62.1"
+          "title": "Procès Maradona : Expertise médicale contestée",
+          "summary": "La défense conteste la validité d'une expertise cruciale lors du procès sur les circonstances de la mort de Maradona.",
+          "url": "https://www.sudouest.fr/sport/football/proces-sur-la-mort-de-diego-maradona-la-defense-conteste-la-validite-d-une-expertise-medicale-30311071.php"
         },
         {
-          "title": "Brun lance son programme économique",
-          "summary": "Le député socialiste Philippe Brun dévoile son plan pour la présidentielle, prônant une \"révolution productive\".",
-          "url": "https://www.lefigaro.fr/flash-actu/presidentielle-le-depute-socialiste-de-l-eure-philippe-brun-annonce-son-programme-economique-et-milite-pour-une-revolution-productive-20260819",
-          "image": "https://i.f1g.fr/media/cms/orig/2026/08/19/0f5e9cd5f853d5b8f044af0f4999aa5c9ce391116c13442c69289fb4fb25c850.jpg"
+          "title": "Gironde : Artisans relogés après les feux",
+          "summary": "Saint-Georges-de-Didonne accueille les artisans girondins, forcés de quitter leurs ateliers suite aux récents incendies.",
+          "url": "https://www.sudouest.fr/charente-maritime/saint-georges-de-didonne/saint-georges-de-didonne-la-commune-accueille-des-artisans-girondins-chasses-par-les-incendies-30294301.php"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
-      "emoji": "💡",
+      "label": "Technologie",
+      "emoji": "⚙️",
       "articles": [
         {
-          "title": "Chine: Nouvelle stratégie batteries VE",
-          "summary": "La Chine réoriente sa politique concernant les batteries de voitures électriques, impactant le marché mondial.",
+          "title": "Chine : Nouvelle ère pour batteries EV",
+          "summary": "La Chine redéfinit sa stratégie pour les batteries de voitures électriques, marquant un tournant pour le secteur.",
           "url": "https://www.automobile-magazine.fr/voitures-electriques/article/52867-la-chine-change-de-strategie-avec-les-batteries-de-voitures-electriques",
           "image": "https://static.ncr.re/img/1200x675/3d/3d7f97beb5a8ead7a2642b9f90ea9352.jpg"
         },
         {
-          "title": "Ford: Mini camion de pompiers solaire",
-          "summary": "Ford innove en transformant son Ranger Super Duty en mini camion de pompiers autonome, propulsé par l'énergie solaire.",
-          "url": "https://www.autojournal.fr/actu/insolites-actu/ford-transforme-ranger-super-duty-mini-camion-pompiers-pompes-alimentees-energie-solaire-422520.html",
-          "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2026/08/copie-de-sans-titre-11.jpg"
-        },
-        {
-          "title": "Diablo IV bientôt sur Switch 2",
-          "summary": "Le célèbre jeu Diablo IV se prépare à débarquer sur Nintendo Switch 2, les détails du lancement se précisent.",
-          "url": "https://www.journaldugeek.com/2026/08/19/diablo-iv-sur-nintendo-switch-2-quand-et-a-quel-prix/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/diablo-4-nintendo-switch-2-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Business & Finance",
-      "emoji": "💰",
-      "articles": [
-        {
-          "title": "Apple: L'IA, un avantage boursier",
-          "summary": "Les faibles investissements d'Apple dans l'IA deviennent étonnamment un atout pour son action en bourse.",
+          "title": "Apple : L'IA, un atout sous-estimé",
+          "summary": "L'action Apple brille, son approche mesurée de l'IA devenant un avantage concurrentiel sur le marché technologique.",
           "url": "https://fr.qz.com/apple-stock-magnificent-seven-ai-dpenses-avantage-march-081926",
           "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2257911741.jpg"
         },
         {
-          "title": "Émirats coupent liens Iran: Pétrole flambe",
-          "summary": "La rupture des liens commerciaux entre Émirats et Iran fait grimper les prix du pétrole à des sommets.",
-          "url": "https://fr.qz.com/suspension-mirats-iran-commerce-prix-du-ptrole-081926",
-          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2260052014.jpg"
+          "title": "Ford : Camion de pompiers solaire",
+          "summary": "Ford transforme son Ranger en un innovant mini camion de pompiers, alimenté par des pompes solaires.",
+          "url": "https://www.autojournal.fr/actu/insolites-actu/ford-transforme-ranger-super-duty-mini-camion-pompiers-pompes-alimentees-energie-solaire-422520.html",
+          "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2026/08/copie-de-sans-titre-11.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Présidentielle : Le programme de Brun",
+          "summary": "Philippe Brun dévoile son programme économique, prônant une \"révolution productive\" pour la prochaine présidentielle.",
+          "url": "https://www.lefigaro.fr/flash-actu/presidentielle-le-depute-socialiste-de-l-eure-philippe-brun-annonce-son-programme-economique-et-milite-pour-une-revolution-productive-20260819",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/08/19/0f5e9cd5f853d5b8f044af0f4999aa5c9ce391116c13442c69289fb4fb25c850.jpg"
         },
         {
-          "title": "HOOPP: Nouveaux co-directeurs private equity",
-          "summary": "Le fonds de retraite HOOPP annonce des nominations importantes à la tête de son département de private equity.",
+          "title": "HOOPP : Nouveaux leaders private equity",
+          "summary": "Le fonds de retraite HOOPP nomme des co-directeurs intérimaires pour sa division de private equity.",
           "url": "https://fr.investing.com/news/economy-news/le-fonds-de-retraite-hoopp-nomme-des-codirecteurs-interimaires-pour-le-private-equity-93CH-3564487",
           "image": "https://content-media.investing.com/news/LYNXMPEM541GN_1200_L.jpg"
+        },
+        {
+          "title": "Pétrole : Tensions Émirats-Iran",
+          "summary": "La rupture des liens commerciaux entre les Émirats et l'Iran fait grimper les prix du pétrole.",
+          "url": "https://fr.qz.com/suspension-mirats-iran-commerce-prix-du-ptrole-081926",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2260052014.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Divertissement",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Diablo IV sur Switch 2 : infos",
+          "summary": "Toutes les informations cruciales sur la sortie très attendue de Diablo IV sur la Nintendo Switch 2.",
+          "url": "https://www.journaldugeek.com/2026/08/19/diablo-iv-sur-nintendo-switch-2-quand-et-a-quel-prix/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/diablo-4-nintendo-switch-2-1280x853.jpg"
+        },
+        {
+          "title": "Lanterns HBO MAX : Le calendrier !",
+          "summary": "Découvrez le calendrier complet de diffusion des épisodes de la nouvelle série \"Lanterns\" sur HBO MAX.",
+          "url": "https://www.journaldugeek.com/2026/08/19/lanterns-quand-sortent-les-episodes-sur-hbo-max-voici-le-calendrier-complet/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/lanterns-calendrier-episodes-1280x853.jpg"
+        },
+        {
+          "title": "A Plague Tale Legacy : Nouveautés",
+          "summary": "Toutes les dernières infos, annonces et détails sur le très attendu jeu \"Resonance: A Plague Tale Legacy\".",
+          "url": "https://www.journaldugeek.com/2026/08/19/resonance-a-plague-tale-legacy-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-lieux-personnages/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/resonance-plague-tale-legacy-tout-savoir-1280x853.jpg"
         }
       ]
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "NBA: Russell Westbrook prend sa retraite",
-          "summary": "L'ancien MVP de la NBA, Russell Westbrook, tire sa révérence à 37 ans, marquant la fin d'une ère.",
+          "title": "FIFA : Crise de confiance pour Infantino",
+          "summary": "Un vice-président du conseil FIFA retire son soutien à Infantino, signalant une crise majeure au sommet.",
+          "url": "https://rmcsport.bfmtv.com/basket/championnats-du-monde/fifa-un-vice-president-du-conseil-retire-son-soutien-a-infantino_AD-202608190404.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/4EQm6lhn8FgufkHKzs27gmnq-w0=/0x109:2048x1261/800x0/images/Sandor-Csanyi-avec-Alexander-Ceferin-president-de-l-UEFA-le-1er-juin-2022-2334109.jpg"
+        },
+        {
+          "title": "NBA : Russell Westbrook prend sa retraite",
+          "summary": "Ancien MVP, la star du basket Russell Westbrook met un terme à sa carrière à l'âge de 37 ans.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ancien-mvp-russell-westbroolk-prend-sa-retraite-a-37-ans_AV-202608130022.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/blIbteV2uIp1062wkM-57fTG32o=/0x105:2048x1257/800x0/images/Russell-Westbrook-Denver-2041175.jpg"
         },
         {
-          "title": "Duplantis: Sa \"grosse erreur\" révélée",
-          "summary": "Armand Duplantis confesse une faute qui aurait pu compromettre son titre européen, une leçon d'humilité.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/championnats-d-europe/la-chose-la-plus-stupide-que-j-ai-faite-armand-duplantis-revele-la-grosse-erreur-qui-aurait-pu-lui-couter-son-titre-aux-championnats-d-europe-d-athletisme_AV-202608180605.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/eCJUy4ao2-vx9cbE_kGdCzt_ZYg=/491x225:2043x1098/800x0/images/Armand-Duplantis-lors-de-la-finale-du-saut-a-la-perche-aux-Championnats-d-Europe-d-athletisme-le-16-aout-2026-2333738.jpg"
-        },
-        {
-          "title": "Badminton: Gicquel-Delrue en huitièmes",
-          "summary": "La paire française Gicquel-Delrue brille aux Mondiaux de badminton, se qualifiant pour les huitièmes de finale.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/mondiaux-de-badminton-entree-en-lice-reussie-pour-la-doublette-gicquel-delrue-direction-les-huitiemes_AV-202608190360.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/GHuTZUuCNKpxUCtIFktZNheYPF8=/0x0:2048x1152/800x0/images/Thom-Gicquel-et-Delphine-Delrue-lors-d-un-tournoi-de-badminton-en-Chine-en-juillet-2026-2334087.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Société & Environnement",
-      "emoji": "🌱",
-      "articles": [
-        {
-          "title": "Gironde: Artisans relogés après feux",
-          "summary": "Saint-Georges-de-Didonne tend la main aux artisans girondins déplacés par les récents et dévastateurs incendies.",
-          "url": "https://www.sudouest.fr/charente-maritime/saint-georges-de-didonne/saint-georges-de-didonne-la-commune-accueille-des-artisans-girondins-chasses-par-les-incendies-30294301.php",
-          "image": ""
-        },
-        {
-          "title": "La Palmyre: 50 ans après l'incendie",
-          "summary": "Un demi-siècle après l'incendie de La Palmyre, le souvenir de la reconstruction par les élèves perdure.",
-          "url": "https://www.sudouest.fr/charente-maritime/royan/50-ans-de-l-incendie-de-la-palmyre-dans-l-annee-qui-a-suivi-chaque-eleve-a-replante-un-arbre-30302335.php",
-          "image": ""
-        },
-        {
-          "title": "Lanterns sur HBO Max: Le guide",
-          "summary": "Découvrez le calendrier de diffusion complet de la série \"Lanterns\" sur HBO Max pour ne rien manquer.",
-          "url": "https://www.journaldugeek.com/2026/08/19/lanterns-quand-sortent-les-episodes-sur-hbo-max-voici-le-calendrier-complet/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/lanterns-calendrier-episodes-1280x853.jpg"
+          "title": "Wembanyama : Retour avec les Spurs",
+          "summary": "Victor Wembanyama et les Spurs affrontent OKC pour démarrer la saison NBA, grand rendez-vous très attendu.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-retrouvailles-entre-wembanyama-et-les-spurs-contre-okc-pour-debuter-le-bron-james-face-au-champion_AV-202608110455.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
         }
       ]
     }
