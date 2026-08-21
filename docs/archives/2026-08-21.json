@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Christophe",
-  "global_summary": "Le monde navigue entre tensions géopolitiques persistantes, comme la situation en Cisjordanie et le sort des femmes en Afghanistan, et des phénomènes naturels révélateurs du changement climatique au Groenland. Pendant ce temps, l'écosystème technologique et économique évolue rapidement, avec des innovations comme l'Apple Watch qui sauve des vies et des géants comme Nvidia qui redessinent leur stratégie mondiale, sans oublier les dynamiques des marchés boursiers. Sur le front national, la France célèbre ses succès cinématographiques et voit renaître des événements sportifs locaux. Enfin, le sport, qu'il s'agisse des performances de Victor Wembanyama, des confessions d'Armand Duplantis ou des contrats majeurs en NBA, continue de nous offrir des moments de passion et de rebondissements. Ces différentes actualités dressent un tableau d'un monde en constante mutation, riche en défis et en opportunités.",
-  "running_advice": "Prépare-toi, champion(ne) ! Ce n'est pas parce que c'est la Saint Christophe qu'il faut rester immobile. Avec des températures idéales entre 16.8°C et 24.8°C et un ciel peu nuageux, les conditions sont globalement excellentes pour une course énergisante ! Attention à la légère probabilité de pluie (58%) ; un k-way léger ou un œil sur la météo sera ton meilleur ami. Et surtout, l'indice UV de 6.6 est élevé : crème solaire, casquette et lunettes de soleil sont obligatoires pour protéger ta peau. L'heure parfaite ? Vise tôt le matin après 7h11 pour profiter de la fraîcheur, ou en fin de journée, vers 18h-19h, quand le soleil est moins agressif et offre une lumière magnifique. Enfile tes baskets, et va chercher cette sensation de dépassement !",
+  "global_summary": "Tensions géopolitiques persistent, notamment en Cisjordanie et avec la situation déchirante des femmes en Afghanistan. Des préoccupations environnementales majeures sont également soulevées, comme l'impact de la fonte des glaces au Groenland. Le monde est en quête d'équilibre. \nCôté innovations, la technologie se distingue avec une Apple Watch révélant une maladie vitale et Nvidia annonçant de nouvelles puces IA. Le sport nous offre son lot d'émotions, du retour de Wembanyama aux confidences de Duplantis, en passant par une retraite emblématique en NBA et une transaction financière colossale. Enfin, la culture française célèbre un succès inattendu au box-office.",
+  "running_advice": "Aujourd'hui, l'occasion est belle pour une session de running revigorante ! Les températures oscillent entre 16.8°C et 24.8°C, parfaites pour l'effort. Le ciel peu nuageux offrira de bonnes conditions, mais attention : avec 58% de probabilité de pluie, une averse surprise est possible. N'oubliez pas l'indice UV élevé (6.6) : crème solaire et lunettes sont indispensables ! Le créneau idéal ? Privilégiez tôt le matin, juste après 7h30 pour une fraîcheur maximale, ou la fin de journée, entre 18h00 et 19h30, pour profiter d'une lumière douce. Préparez-vous et foncez, l'énergie est au rendez-vous !",
   "weather_string": "🌤️ Peu nuageux (16.8°C / 24.8°C)",
   "weather_stats": {
     "temp": "24.8°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Cisjordanie: Une Colonie Évacuée Réinvestie",
-          "summary": "Des Israéliens reviennent sur un site auparavant évacué en 2005, relançant les tensions dans la région.",
+          "title": "Retour controversé en Cisjordanie",
+          "summary": "Une colonie évacuée en 2005 est de nouveau réinvestie par des Israéliens, ravivant les tensions régionales.",
           "url": "https://www.charentelibre.fr/international/proche-orient/israel/en-cisjordanie-des-israeliens-reinvestissent-une-colonie-evacuee-en-2005-30318168.php",
           "image": "https://media.charentelibre.fr/30318168/1200x600/74092521-3d4e-4c56-a5fb-1acd7cd5b754.jpg"
         },
         {
-          "title": "Afghanistan: Le Sort Tragique des Femmes",
-          "summary": "Un témoignage poignant révèle les horreurs subies par les Afghanes en prison sous le régime taliban.",
+          "title": "Afghanes : la terreur des Talibans",
+          "summary": "Les récits glaçants des femmes afghanes en prison révèlent l'hypocrisie et la brutalité du régime taliban.",
           "url": "https://www.lemonde.fr/series-d-ete/article/2026/08/20/les-talibans-prechent-la-purete-et-la-moralite-et-ils-se-ruent-pour-deshabiller-les-femmes-en-prison-les-afghanes-au-pays-de-la-terreur_6751163_3451060.html",
           "image": "https://img.lemde.fr/2026/08/17/584/0/7008/3504/1342/671/60/0/706c1c2_upload-1-e3d2w4skodjf-afg-2025-04-10-1116.jpg"
         },
         {
-          "title": "Groenland: De Nouvelles Baleines Arrivent",
-          "summary": "La fonte des glaces ouvre de nouvelles voies, permettant à des espèces de baleines d'explorer l'est du Groenland.",
+          "title": "Fonte des glaces, nouvelles baleines",
+          "summary": "Le réchauffement climatique au Groenland modifie l'écosystème marin, accueillant de nouvelles espèces de baleines.",
           "url": "https://www.courrierinternational.com/article/science-dans-l-est-du-groenland-la-fonte-des-glaces-favorise-l-arrivee-de-nouvelles-especes-de-baleines_261794",
           "image": "https://focus.courrierinternational.com/2022/09/21/0/0/4313/2875/644/0/60/0/deeb9ab_1663757120571-baleine.jpg"
         }
@@ -38,118 +38,118 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Box Office: 'L'Odyssée' Cartonne en 2026",
-          "summary": "Le film 'L'Odyssée' est le plus gros succès de l'année, avec une belle surprise pour 'Tombé du ciel'.",
-          "url": "https://www.ozap.com/actu/box-office-lodyssee-devient-le-plus-gros-succes-de-2026-tombe-du-ciel-avec-ilyes-djadel-cree-la-surprise/656540",
-          "image": "https://static1.ozap.com/uploads/1f/8e/96/34/d814f60d46ff469b-1200x705-1.png"
-        },
-        {
-          "title": "L'Histoire des Gardes Suisses du Pape",
-          "summary": "Découvrez l'origine historique de la présence des Gardes Suisses pour la sécurité pontificale au Vatican.",
+          "title": "Les Gardes suisses veillent sur le Pape",
+          "summary": "Découvrez l'histoire et les raisons pour lesquelles la sécurité papale est confiée aux célèbres Gardes suisses.",
           "url": "https://actu.fr/histoire-patrimoine/personnages-historiques/mais-au-fait-pourquoi-ce-sont-des-gardes-suisses-qui-se-chargent-de-la-securite-du-pape_64689385.html",
           "image": "https://static.actu.fr/uploads/2026/08/adobestock-267215066-1024x557.jpeg"
         },
         {
-          "title": "Laloubère: La Course Renait en Septembre",
-          "summary": "Grâce à ATP Running, la course de Laloubère revient avec un parcours et un format inédits le 11 septembre.",
-          "url": "https://www.nrpyrenees.fr/2026/08/20/la-course-la-laloubatere-renait-grace-a-lassociation-atp-running-rendez-vous-le-11-septembre-a-laloubere-pour-un-parcours-et-un-format-insolite-13516165.php",
-          "image": "https://images.nrpyrenees.fr/api/v1/images/view/6a87097fb51ca2511408610f/standard/image.jpg?v=1"
+          "title": "\"L'Odyssée\" : carton au box-office",
+          "summary": "\"L'Odyssée\" devient le plus grand succès de 2026, tandis qu'un film d'Ilyes Djadel surprend agréablement.",
+          "url": "https://www.ozap.com/actu/box-office-lodyssee-devient-le-plus-gros-succes-de-2026-tombe-du-ciel-avec-ilyes-djadel-cree-la-surprise/656540",
+          "image": "https://static1.ozap.com/uploads/1f/8e/96/34/d814f60d46ff469b-1200x705-1.png"
+        },
+        {
+          "title": "Philippe Sella : pertes de mémoire inquiétantes",
+          "summary": "L'icône du rugby français, Philippe Sella, partage ses troubles de mémoire, un témoignage poignant.",
+          "url": "https://rmcsport.bfmtv.com/rugby/rugby-je-n-ai-aucun-souvenir-de-ce-match-la-legende-des-bleus-philippe-sella-evoque-ses-problemes-de-perte-de-memoire_AV-202608170326.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/4HIcFnwLpKoZMQ9AvNDSRVzoG3o=/0x85:2048x1237/800x0/images/Philippe-Sella-le-14-novembre-2024-2333169.jpg"
         }
       ]
     },
     {
-      "label": "Technologie",
-      "emoji": "💡",
+      "label": "Tech & Innovation",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Apple Watch: Sauvetage Grâce aux Capteurs",
-          "summary": "Une Apple Watch a détecté un rythme cardiaque alarmant, révélant une maladie congénitale et sauvant une vie.",
+          "title": "L'Apple Watch, un ange gardien",
+          "summary": "Une Apple Watch révèle une maladie congénitale grave, prouvant l'impact vital de la technologie portable.",
           "url": "https://www.macg.co/video/2026/08/219-battements-par-minute-son-apple-watch-lui-revele-une-maladie-congenitale-310487",
           "image": "https://cdn.mgig.fr/2026/08/mga-0582b055-w375-w1500-w750_accroche.jpg"
         },
         {
-          "title": "Bon Plan: OnePlus 15R en Promo",
-          "summary": "Le smartphone OnePlus 15R est proposé avec une réduction de 37%, une occasion à saisir pour les amateurs de tech.",
-          "url": "https://www.01net.com/bons-plans/performant-et-ultra-endurant-le-oneplus-15r-a-37-est-la-bonne-affaire-du-jour.html",
-          "image": "https://www.01net.com/app/uploads/2026/05/Oneplus-15R-1344x896.jpeg"
-        },
-        {
-          "title": "Nvidia Revient sur le Marché Chinois IA",
-          "summary": "Nvidia envisage de réintégrer le marché chinois de l'IA avec le lancement d'une nouvelle puce dédiée.",
+          "title": "Nvidia prépare son retour IA en Chine",
+          "summary": "Le géant Nvidia s'apprête à réinvestir le marché chinois avec une nouvelle puce dédiée à l'intelligence artificielle.",
           "url": "https://fr.investing.com/news/stock-market-news/nvidia-prevoit-un-retour-en-chine-avec-une-nouvelle-puce-ia-3566489",
           "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+        },
+        {
+          "title": "GTA 6 : tout sur les fuites majeures",
+          "summary": "Les fuites massives de GTA 6 révèlent des détails cruciaux et excitent la communauté des gamers.",
+          "url": "https://www.journaldugeek.com/2026/08/20/leaks-gta-6-resume-de-laffaire-tout-ce-quil-faut-savoir/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/gta-6-dossier-leaks-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Économie",
+      "label": "Économie & Finance",
       "emoji": "📈",
       "articles": [
         {
-          "title": "Robinhood Markets: Forte Volatilité de l'Action",
-          "summary": "L'action Robinhood Markets a connu une journée mouvementée, suscitant l'interrogation des investisseurs.",
-          "url": "https://fr.benzinga.com/crypto/quest-ce-qui-se-passe-avec-laction-de-robinhood-markets-mercredi/",
+          "title": "Robinhood Markets : l'action s'emballe",
+          "summary": "Le marché boursier observe des mouvements significatifs autour de l'action de Robinhood Markets.",
+          "url": "https://fr.benzinga.com/crypto/quest-ce-qui-se-passe-avec-laction-de-robinhood-markets-jeudi/",
           "image": "https://cdn.benzinga.com/files/images/story/2026/08/20/Robinhood--An-Online-Investing-Platform-.jpg?width=2048&height=1536"
         },
         {
-          "title": "Nord Stream: Un Suspect Arrêté sur un Tournage",
-          "summary": "Un Ukrainien impliqué dans le sabotage de Nord Stream a été interpellé lors d'un film inspiré de l'affaire.",
-          "url": "https://www.midilibre.fr/2026/08/20/sabotage-du-gazoduc-russe-nord-stream-un-ukrainien-arrete-sur-le-tournage-dun-film-hollywoodien-inspire-de-lexplosion-des-conduites-13516394.php",
-          "image": "https://images.midilibre.fr/api/v1/images/view/6a873808b8a07398e2061ade/standard/image.jpg?v=1"
-        },
-        {
-          "title": "Truist Dégrade sa Note sur l'Or",
-          "summary": "En raison de la fluctuation des taux et du dollar, Truist a revu à la baisse sa recommandation pour l'or.",
+          "title": "L'or passe à \"neutre\" chez Truist",
+          "summary": "Truist ajuste sa perspective sur l'or à neutre, influencé par les taux d'intérêt et la force du dollar.",
           "url": "https://fr.investing.com/news/commodities-news/truist-releve-sa-note-sur-lor-a-neutre-en-raison-des-taux-et-du-dollar-93CH-3566491",
           "image": "https://content-media.investing.com/news/gold_4_M_1440048044.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Culture Pop & Gaming",
-      "emoji": "🎮",
-      "articles": [
-        {
-          "title": "GTA 6: Le Point sur les Leaks",
-          "summary": "Résumé complet des dernières révélations concernant GTA 6, faisant le tour de l'affaire des fuites.",
-          "url": "https://www.journaldugeek.com/2026/08/20/leaks-gta-6-resume-de-laffaire-tout-ce-quil-faut-savoir/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/gta-6-dossier-leaks-1280x853.jpg"
         },
         {
-          "title": "Films Gratuits: Que Regarder ce Soir?",
-          "summary": "Une sélection de trois films disponibles gratuitement en streaming pour animer votre soirée cinéma.",
-          "url": "https://www.journaldugeek.com/2026/08/20/rien-a-la-tv-ce-soir-ces-trois-films-sont-gratuits-en-streaming/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/films-gratuits-aout-2026-1280x853.jpg"
-        },
-        {
-          "title": "The Blood of Dawnwalker: Infos Complètes",
-          "summary": "Toutes les informations connues à ce jour sur 'The Blood of Dawnwalker': annonces, date de sortie, personnages.",
-          "url": "https://www.journaldugeek.com/2026/08/20/the-blood-of-dawnwalker-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-personnages/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/01/dossier-jdg-the-blood-of-dawnwalker-1280x853.jpg"
+          "title": "Lakers : vente record à 12,5 milliards !",
+          "summary": "Les Lakers de Los Angeles sont acquis pour une somme colossale par un proche de Donald Trump.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-interdit-d-investir-a-la-fifa-un-proche-de-trump-va-acheter-les-lakers-pour-12-milliards-de-dollars_AV-202608120384.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/X_W2y2tro5f-3hggQt8RX4xhkoM=/0x106:2048x1258/800x0/images/Le-logo-de-la-franchise-NBA-des-Lakers-de-Los-Angeles-en-2025-2331525.jpg"
         }
       ]
     },
     {
       "label": "Sport",
-      "emoji": "🏆",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama Revient, Bleus S'inclinent",
-          "summary": "Malgré le retour très attendu de Victor Wembanyama, l'équipe de France s'est inclinée en Serbie.",
-          "url": "https://rmcsport.bfmtv.com/basket/basket-pour-le-retour-de-wembanyama-les-bleus-s-inclinent-en-serbie_AD-202608200584.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/sjAB48l6ezFEPUxBMsX3h1qWfsc=/0x106:2048x1258/800x0/images/Victor-Wembanyama-le-10-aout-2024-2333215.jpg"
+          "title": "Wembanyama : Les Bleus ont de la ressource",
+          "summary": "Malgré la défaite face à la Serbie, Victor Wembanyama estime que l'équipe de France a montré de la résilience.",
+          "url": "https://rmcsport.bfmtv.com/basket/les-bleus-ont-de-la-ressource-estime-wembanyama-malgre-la-defaite-en-serbie_AD-202608200595.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/I2bAOjHxyNpG4R-lUJ2WgwVjRPM=/0x107:2048x1259/800x0/images/Victor-Wembanyama-lors-de-Serbie-France-le-20-aout-2026-2334692.jpg"
         },
         {
-          "title": "Duplantis Révèle sa 'Grosse Erreur'",
-          "summary": "Armand Duplantis confesse une 'stupide' erreur ayant failli lui coûter le titre européen en athlétisme.",
+          "title": "Duplantis : l'aveu d'une \"grosse erreur\"",
+          "summary": "Armand Duplantis révèle une faute cruciale qui aurait pu lui coûter son titre européen à la perche.",
           "url": "https://rmcsport.bfmtv.com/athletisme/championnats-d-europe/la-chose-la-plus-stupide-que-j-ai-faite-armand-duplantis-revele-la-grosse-erreur-qui-aurait-pu-lui-couter-son-titre-aux-championnats-d-europe-d-athletisme_AV-202608180605.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/eCJUy4ao2-vx9cbE_kGdCzt_ZYg=/491x225:2043x1098/800x0/images/Armand-Duplantis-lors-de-la-finale-du-saut-a-la-perche-aux-Championnats-d-Europe-d-athletisme-le-16-aout-2026-2333738.jpg"
         },
         {
-          "title": "NBA: James Harden Prolonge avec les Cavs",
-          "summary": "À 37 ans, James Harden signe un nouveau contrat lucratif avec les Cleveland Cavaliers, défiant l'âge.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-a-37-ans-james-harden-signe-un-enorme-nouveau-contrat-avec-les-cleveland-cavaliers_AD-202608200571.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/LTTvz3LxCAIBv1qkspqOrtzSA6U=/0x0:2048x1152/800x0/images/J-Harden-2291781.jpg"
+          "title": "Russell Westbrook prend sa retraite NBA",
+          "summary": "L'ancien MVP de la NBA, Russell Westbrook, met un terme à sa carrière à l'âge de 37 ans.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ancien-mvp-russell-westbroolk-prend-sa-retraite-a-37-ans_AV-202608130022.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/blIbteV2uIp1062wkM-57fTG32o=/0x105:2048x1257/800x0/images/Russell-Westbrook-Denver-2041175.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Faits Divers & Régions",
+      "emoji": "🚨",
+      "articles": [
+        {
+          "title": "Voyeurisme : condamnation à Pau",
+          "summary": "Un voyeur sévit depuis trois ans à Pau, près de 500 clichés volés dans son téléphone.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/bearn/pres-de-500-cliches-voles-retrouves-dans-son-telephone-a-pau-un-voyeur-qui-sevisssait-depuis-plus-de-trois-ans-condamne-30318880.php",
+          "image": null
+        },
+        {
+          "title": "Compostelle : pèlerins tapageurs condamnés",
+          "summary": "Deux pèlerins fauteurs de troubles dans un gîte du Pays basque écopent de peines de prison avec sursis.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pays-basque-deux-pelerins-de-compostelle-font-du-grabuge-dans-un-gite-et-ecopent-de-peines-de-prison-avec-sursis-30317843.php",
+          "image": null
+        },
+        {
+          "title": "Pompiers contre boas en Haute-Garonne",
+          "summary": "Scène insolite pour les pompiers de Haute-Garonne, confrontés à la capture de deux boas en trois jours.",
+          "url": "https://www.sudouest.fr/faits-divers/insolite-les-pompiers-de-haute-garonne-aux-prises-avec-deux-boas-en-trois-jours-30321929.php",
+          "image": null
         }
       ]
     }
