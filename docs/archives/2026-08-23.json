@@ -1,0 +1,151 @@
+{
+  "ephemeride": "Sainte Rose de Lima",
+  "global_summary": "Le tableau mondial de l'actualité de ce jour révèle une persistance des tensions, avec de nouvelles frappes en Ukraine et Russie, ainsi que des accusations syriennes contre Israël, tandis que le Canada riposte commercialement aux États-Unis. En France, la scène politique s'anime autour des universités d'été et le football reprend ses droits, mais l'économie locale fait face aux défis de la canicule et des réalités des marchés. \n\nDu côté de l'innovation, l'intelligence artificielle continue de brouiller les frontières entre vie et mémoire, Tesla promet une révolution des transports et le Vatican se tourne vers le solaire. Dans le domaine sportif, les performances humaines et robotiques repoussent les limites, mais des enjeux cruciaux comme la sécurité des athlètes et les ambitions olympiques retiennent également l'attention.",
+  "running_advice": "Salut les champions ! Aujourd'hui, on fête Sainte Rose de Lima, et c'est un excellent rappel pour cultiver votre jardin intérieur... et extérieur ! Pour votre session running, la météo nous offre un ciel peu nuageux, avec des températures agréables le matin (18.5°C) et plus chaudes l'après-midi (jusqu'à 32.8°C). La probabilité de pluie est faible (23%), donc pas de souci côté averse.\n\nCependant, l'indice UV est de 6.55, ce qui est élevé ! Mon conseil de coach : privilégiez une course matinale juste après le lever du soleil (vers 07h14) pour profiter de la fraîcheur et d'un UV moins intense, ou optez pour une session en fin de journée, avant le coucher du soleil (vers 20h56). Quel que soit votre choix, hydratez-vous abondamment et PROTÉGEZ-VOUS du soleil : crème solaire, casquette et lunettes de soleil sont vos meilleurs alliés. Allez, on lâche rien et on bouge intelligemment !",
+  "weather_string": "🌤️ Peu nuageux (18.5°C / 32.8°C)",
+  "weather_stats": {
+    "temp": "32.8°C",
+    "rain": "23%",
+    "uv": "6.55"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Syrie : Attaques israéliennes près du Golan",
+          "summary": "Damas accuse Israël d'attaques répétées après une frappe de drone, ravivant les tensions régionales.",
+          "url": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-syrie-denonce-des-attacques-repetees-d-israel-apres-une-frappe-de-drone-pres-du-golan_8157650.html",
+          "image": "https://www.franceinfo.fr/pictures/kbEH7Ui0pb_LDxoidppTcocQsnA/0x106:1024x682/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89e4642b599738219024.jpg"
+        },
+        {
+          "title": "Ukraine/Russie : Nouvelles frappes meurtrières",
+          "summary": "Treize victimes recensées dans des frappes récentes, soulignant l'escalade continue du conflit.",
+          "url": "https://www.franceguyane.fr/actualite/international/treize-morts-en-ukraine-et-en-russie-dans-de-nouvelles-frappes-1090529.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/6a89def73e4e3919f0078502/width_1000/image.jpg"
+        },
+        {
+          "title": "Canada : Riposte commerciale face aux USA",
+          "summary": "Ottawa impose des mesures de rétorsion sur l'acier et les produits laitiers américains après les surtaxes.",
+          "url": "https://www.franceinfo.fr/monde/canada/en-reponse-aux-surtaxes-imposees-par-les-etats-unis-le-canada-annonce-des-mesures-de-retorsion-sur-l-acier-et-les-produits-laitiers-americains_8157563.html",
+          "image": "https://www.franceinfo.fr/pictures/7B0MlTQ8ODPmf2LCF4itn6Ns2-c/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/22/6a89ccb8f2fa8477987086.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Pigasse : Trait d'union de la gauche",
+          "summary": "Aux universités d'été de LFI, Matthieu Pigasse prône l'unité pour la victoire de la gauche.",
+          "url": "https://www.rtl.fr/actu/politique/on-ne-pourra-gagner-qu-ensemble-aux-universites-d-ete-de-lfi-matthieu-pigasse-veut-etre-le-trait-d-union-de-la-gauche-7900664046",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1862294-matthieu-pigasse-pendant-les-universites-d-ete-de-lfi-le-22-aout-2026.jpg"
+        },
+        {
+          "title": "Ligue 1 : Toulouse affronte un OL remanié",
+          "summary": "L'Olympique Lyonnais entame sa saison de Ligue 1 avec une équipe fortement renouvelée face à Toulouse.",
+          "url": "https://www.leprogres.fr/sport/2026/08/22/suivez-tefece-ol-des-lyonnais-tres-remanies-pour-la-reprise-de-la-ligue-1",
+          "image": "https://cdn-s-www.leprogres.fr/images/4D2E0EA1-00A6-48FD-839C-CC6285F4O81/MF_contenu/suivez-toulouse-ol-des-lyonnais-tres-remanies-pour-la-reprise-de-la-ligue-1-1787381119.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & IA",
+      "emoji": "🤖",
+      "articles": [
+        {
+          "title": "IA : Quête d'immortalité pour les proches",
+          "summary": "De la Chine au Japon, l'IA est utilisée pour recréer la présence de disparus, soulevant des questions éthiques.",
+          "url": "https://www.lefigaro.fr/international/je-voulais-faire-revivre-mon-pere-de-la-chine-au-japon-la-quete-d-amour-et-d-immortalite-par-l-ia-20260822",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/08/21/d60e777e54bf962fe411effc995cf37742abed5be98f6c671147d0b7b9789967.jpg"
+        },
+        {
+          "title": "Tech : Crise e-bike, Chine, simulation panne",
+          "summary": "Le récap Survoltés aborde la crise du vélo électrique, la méfiance envers la Chine au Sénat et une simulation de panne.",
+          "url": "https://www.frandroid.com/survoltes/3219127_crise-du-velo-electrique-peur-de-la-chine-au-senat-et-simulation-de-panne-geante-le-recap-survoltes",
+          "image": "https://c0.lestechnophiles.com/images.frandroid.com/wp-content/uploads/2026/08/transalpes1.jpg?resize=1600,900&key=2157e5b6"
+        },
+        {
+          "title": "Tesla : Le Cybercab arrive bientôt",
+          "summary": "Tesla prévoit de lancer son service de robotaxis Cybercab dans les rues d'ici quelques jours, une révolution attendue.",
+          "url": "https://www.journaldugeek.com/2026/08/22/tesla-veut-lacher-son-cybercab-dans-les-rues-dans-quelques-jours/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/S0-il-sera-possible-de-decouvrir-et-tester-le-cybercab-le-robotaxi-de-tesla-a-paris-des-le-23-novembre-212385-1280x719.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Marché producteurs : Succès à l'Étang Cocagne",
+          "summary": "À Sandrans, le marché de producteurs locaux de l'étang Cocagne rencontre un succès retentissant.",
+          "url": "https://www.leprogres.fr/economie/2026/08/22/avec-son-marche-de-producteurs-l-etang-cocagne-n-a-jamais-aussi-bien-porte-son-nom",
+          "image": "https://cdn-s-www.leprogres.fr/images/A6CBD19A-FC97-45A9-8BB8-80D32D608B9C/NW_listB/avec-son-marche-de-producteurs-l-etang-cocagne-n-a-jamais-aussi-bien-porte-son-nom-1787421866.jpg"
+        },
+        {
+          "title": "Canicule : Un frein pour les restaurants",
+          "summary": "À Colmar, la vague de chaleur impacte négativement les restaurants, rendant les terrasses moins attractives.",
+          "url": "https://www.lalsace.fr/economie/2026/08/22/la-belle-terrasse-au-soleil-ne-fait-plus-rever-la-canicule-joue-les-trouble-fetes",
+          "image": "https://cdn-s-www.lalsace.fr/images/5CF7AB43-EA89-452C-B15F-486B5FDC26B0/NW_listB/la-belle-terrasse-au-soleil-ne-fait-plus-rever-dans-les-restaurants-la-canicule-joue-les-trouble-fetes-1787418650.jpg"
+        },
+        {
+          "title": "Vatican : Vers une énergie 100% solaire",
+          "summary": "Le Vatican lance un projet de parc agrivoltaïque de 200 hectares pour fonctionner entièrement à l'énergie solaire.",
+          "url": "https://www.centrepresseaveyron.fr/2026/08/22/le-premier-pays-au-monde-a-fonctionner-entierement-a-lenergie-solaire-le-vatican-lance-la-construction-dun-parc-agrivoltaique-de-200-hectares-13518533.php",
+          "image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6a899a83b40a07554b0dbcaa/standard/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Actualités Locales & Sécurité",
+      "emoji": "🚨",
+      "articles": [
+        {
+          "title": "Accident : Vendangeur de 17 ans tué",
+          "summary": "La remorque d'un tracteur se renverse, tuant un jeune vendangeur et blessant neuf personnes.",
+          "url": "https://www.sudouest.fr/faits-divers/la-remorque-d-un-tracteur-se-renverse-un-vendangeur-de-17-ans-tue-et-neuf-blesses-dont-deux-graves-30337891.php",
+          "image": null
+        },
+        {
+          "title": "Charente-Maritime : Accident fait 4 blessés",
+          "summary": "Le conducteur perd le contrôle de sa voiture, percutant un véhicule à l'arrêt et blessant quatre personnes.",
+          "url": "https://www.sudouest.fr/charente-maritime/semussac/charente-maritime-il-perd-le-controle-de-sa-voiture-et-percute-une-voiture-a-l-arret-quatre-personnes-blesses-30337177.php",
+          "image": null
+        },
+        {
+          "title": "Mégafeux : Leçons des stratégies canadiennes",
+          "summary": "Étude des stratégies préventives du Canada face aux mégafeux, une leçon pour la gestion forestière mondiale.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/megafeux-quelles-strategies-preventives-a-applique-le-canada-dans-ses-forets-30324030.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performances",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Robot : Record de Bolt battu, puis explosion",
+          "summary": "Un robot humanoïde dépasse le record du 100m d'Usain Bolt, avant de subir une avarie spectaculaire.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-robot-humanoide-court-le-100-metres-bat-le-record-d-usain-bolt-et-explose_AN-202608210601.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/BC80nh1sOuOb4rhbB2G4qvusAxI=/0x106:2048x1258/800x0/images/Les-robots-de-l-entreprise-Unitree-a-la-World-Robot-Conference-2026-2335140.jpg"
+        },
+        {
+          "title": "Rugby : Procès pour commotions autorisé",
+          "summary": "Un juge autorise pour la première fois un procès concernant des centaines d'anciens joueurs victimes de commotions.",
+          "url": "https://rmcsport.bfmtv.com/rugby/rugby-pour-la-premiere-fois-un-juge-autorise-un-proces-pour-les-centaines-d-anciens-joueurs-touches-par-les-commotions_AD-202608210444.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YszoCIiWagSwIuA5ANzOmK7fVnc=/0x226:2032x1369/800x0/images/Victime-de-demence-le-rugbyman-anglais-Steve-Thomson-fait-parti-du-consortium-de-joueurs-qui-vise-la-World-Rugby-pour-negligence-face-au-risque-de-commotions-1757287.jpg"
+        },
+        {
+          "title": "Squash : Crouin vise l'or aux JO 2028",
+          "summary": "Victor Crouin, après un quatrième titre européen, affiche son ambition olympique pour les JO 2028 en squash.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/squash-l-ambition-c-est-l-or-aux-jo-2028-victor-crouin-annonce-la-couleur-apres-son-quatrieme-titre-europeen-consecutif_AN-202608220321.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/bAXogYhQ2_9KFgJyjS5V5R2luto=/0x25:2048x1177/800x0/images/Victor-Crouin-en-avril-2026-2304128.jpg"
+        }
+      ]
+    }
+  ]
+}
