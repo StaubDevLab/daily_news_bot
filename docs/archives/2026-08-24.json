@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Barthélémy",
-  "global_summary": "Cette journée est marquée par une actualité dense et contrastée, mêlant enjeux géopolitiques internationaux et drames humains. Tandis que l'Ukraine continue de naviguer les eaux troubles des accusations, un effondrement tragique en Guinée rappelle la fragilité des vies. En parallèle, la sphère politique française s'agite avec la rentrée des Insoumis et des Écologistes, tandis que des récits de vie et des incidents locaux dessinent le tableau de notre quotidien national.\n\nMalgré ces défis, l'esprit d'innovation brille avec des avancées technologiques surprenantes et des performances sportives exceptionnelles. Le badminton français célèbre un doublé historique aux Championnats du Monde, et les Bleus du basket arrachent une victoire dramatique, illustrant le dynamisme et la capacité à se surpasser qui animent notre monde.",
-  "running_advice": "Alors, prêt à transpirer ? La météo de ce Saint Barthélémy nous offre des températures élevées, oscillant entre 21°C et 32.4°C, avec un ciel peu nuageux mais une probabilité de pluie assez forte à 73%. L'indice UV est de 6.45, ce qui est élevé ! Mon conseil de coach : pour éviter la chaleur et le soleil ardent, ciblez impérativement la fraîcheur matinale juste après le lever du soleil, vers 7h30, ou alors attendez la fin de journée, après 19h30, lorsque le soleil commence à décliner. Si vous sortez, même par temps couvert, crème solaire, casquette et lunettes de soleil sont obligatoires. N'oubliez pas une bonne hydratation, et rappelez-vous que chaque foulée compte, même sous un ciel incertain ! Adaptez votre effort et restez à l'écoute de votre corps. Allez, on se motive !",
-  "weather_string": "🌤️ Peu nuageux (21°C / 32.4°C)",
+  "global_summary": "L'actualité mondiale est marquée par des enjeux diplomatiques majeurs, avec l'Ukraine qui se défend des accusations liées au gazoduc Nord Stream, tandis qu'une tragédie humaine frappe la Guinée. Sur le front national, la rentrée politique bat son plein, dessinant un mélange d'ombre et de lumière.\n\nMalgré ces défis, le sport français brille, notamment au badminton et au basketball, offrant de belles victoires et des performances historiques. Cependant, l'ombre plane sur le rugby avec un procès inédit concernant les commotions cérébrales, soulignant des enjeux de santé cruciaux. Côté technologie, les fuites de GTA 6 excitent les fans, équilibrées par les avancées matérielles et les innovations automobiles de luxe qui continuent de nous surprendre.",
+  "running_advice": "Aujourd'hui, Saint Barthélémy, l'énergie est au rendez-vous, mais restons vigilants ! Avec des températures fluctuant entre 21°C et 31.2°C et des averses annoncées (73% de probabilité), il faudra jouer avec les éléments. L'indice UV de 6.45 est élevé, donc la protection solaire est IMPÉRATIVE si vous sortez avant le coucher du soleil. Pour éviter la chaleur la plus intense et les potentielles averses, privilégiez un run tôt le matin, juste après le lever du soleil (vers 07:15), ou en fin de journée, après 18h00. Écoutez votre corps, hydratez-vous abondamment et restez motivés ! Chaque goutte de sueur est un pas vers vos objectifs !",
+  "weather_string": "🌦️ Averses (21°C / 31.2°C)",
   "weather_stats": {
-    "temp": "32.4°C",
+    "temp": "31.2°C",
     "rain": "73%",
     "uv": "6.45"
   },
@@ -14,22 +14,16 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Ukraine nie le sabotage Nord Stream",
-          "summary": "Zelensky dément fermement l'implication de l'Ukraine dans l'explosion du gazoduc Nord Stream.",
+          "title": "Zelensky dément l'implication ukrainienne dans Nord Stream",
+          "summary": "Le président ukrainien réfute fermement les accusations de sabotage du gazoduc Nord Stream.",
           "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-assure-que-l-ukraine-n-a-pas-pris-part-au-sabotage-du-gazoduc-nord-stream_8158781.html",
           "image": "https://www.franceinfo.fr/pictures/6Z32XIH9-iNg-eW0crY2J60a5wk/0x0:1024x576/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b367c5b77d125338643.jpg"
         },
         {
-          "title": "Guinée: Tragédie à la décharge",
-          "summary": "Un éboulement mortel dans une décharge en Guinée fait au moins trente victimes et de nombreux blessés.",
+          "title": "Guinée : Drame mortel à la décharge",
+          "summary": "Trente morts et vingt blessés suite à l'effondrement tragique d'une décharge en Guinée.",
           "url": "https://www.franceinfo.fr/monde/afrique/guinee/au-moins-trente-morts-et-une-vingtaine-de-blesses-dans-l-eboulement-d-une-decharge-en-guinee_8158778.html",
           "image": "https://www.franceinfo.fr/pictures/AzsiQ4aF4JWuuOSA9kOhrpi9oYo/0x12:1024x588/432x243/filters:format(jpg):quality(50)/2026/08/23/6a8b31531199f078228588.jpg"
-        },
-        {
-          "title": "Trump à un Grand Prix à Washington",
-          "summary": "Donald Trump a été aperçu au premier rang d'un grand prix automobile, attirant l'attention à Washington.",
-          "url": "https://www.laprovence.com/article/france-monde/4876340250003214/trump-au-premier-rang-dun-grand-prix-automobile-dans-les-rues-de-washington",
-          "image": "https://pictures.laprovence.com/media/afp/956fb10b4725effb33898f723dfaba6367085676.jpg?twic=v1/focus=0x0/cover=470x247"
         }
       ]
     },
@@ -38,136 +32,112 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Rentrée politique des Insoumis et Verts",
-          "summary": "La rentrée politique est marquée par les rassemblements des partis de gauche et écologistes en France.",
+          "title": "La rentrée politique anime le débat",
+          "summary": "Les Insoumis et Ecologistes lancent leur rentrée, annonçant une nouvelle dynamique nationale.",
           "url": "https://www.nouvelobs.com/politique/20260823.OBS117613/rentree-politique-des-insoumis-et-des-ecologistes-guerre-commerciale-usa-canada-cinq-infos-du-week-end.html",
           "image": "https://focus.nouvelobs.com/2026/08/23/40/0/2000/1333/1200/800/0/0/ac2a074_upload-1-zblrqyy76bpp-design-sans-titre-4.jpg"
         },
         {
-          "title": "Incident violent en gare de Reims",
-          "summary": "Un individu a été interpellé à Reims après avoir proféré insultes et menaces de mort envers des agents SNCF.",
+          "title": "Tensions à la gare de Reims",
+          "summary": "Un incident violent impliquant insultes et menaces de mort a secoué la gare de Reims.",
           "url": "http://www.lest-eclair.fr/id823837/article/2026-08-23/insultes-et-menaces-de-mort-la-gare-de-reims-le-chti-na-pas-souhaite-la",
           "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/04/10/node_823837/15498947/public/2026/04/10/73336723.jpeg?itok=hg-N1oOu1787508357"
         },
         {
-          "title": "Nadège, gardienne d'immeuble et d'âmes",
-          "summary": "Un portrait touchant de Nadège, gardienne d'immeuble à Nice depuis 34 ans, témoin de générations.",
-          "url": "https://www.nicematin.com/societe/j-ai-vu-les-familles-s-installer-les-bebes-naitre-puis-devenir-parents-a-leur-tour-nadege-gardienne-d-immeuble-et-d-ames-depuis-34-ans-a-nice-10704978",
-          "image": "https://assets.nicematin.com/articles/10/70/49/78/OG-10704978-1200-800-2a2c0ed_ftp-1-qxcndo53wmqt-nic12q400-jfo-nadege-gardienne-residence-le-ferber.jpg"
+          "title": "Succès de l'Agglo Tour à Pordic",
+          "summary": "128 coureurs ont participé avec succès à l'Agglo Tour, un événement sportif rassembleur.",
+          "url": "https://www.letelegramme.fr/cotes-d-armor/saint-brieuc-22000/a-pordic-les-128-coureurs-de-lagglo-tour-ont-rallie-un-a-un-le-chateau-deau-a-leglise-en-images-7104089.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a8b368a22ca43dd55027e73/web_golden_xxl/6a8b368a22ca43dd55027e73.1787508364"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
-      "emoji": "💡",
+      "label": "Tech & Auto",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Test MOVA LumeGret A4000: monstre en rodage",
-          "summary": "Le nouveau MOVA LumeGret A4000, un matériel puissant, est encore en phase de réglage logiciel.",
+          "title": "MOVA A4000 : Un hardware prometteur",
+          "summary": "Le test du MOVA LumeGret A4000 révèle une machine puissante mais un logiciel à affiner.",
           "url": "https://www.01net.com/tests/test-mova-lumegret-a4000-un-monstre-materiel-encore-en-rodage-logiciel.html",
           "image": "https://www.01net.com/app/uploads/2026/08/test-mova-lumegret-a4000-1-1344x896.jpg"
         },
         {
-          "title": "Lamborghini Revuelto SV : million de dollars",
-          "summary": "La Lamborghini Revuelto SV, avec ses nombreuses options, atteint un prix vertigineux près du million de dollars.",
+          "title": "Une Lamborghini à un million de dollars",
+          "summary": "La Lamborghini Revuelto SV, avec ses options, atteint le million de dollars au Colorado.",
           "url": "https://www.autojournal.fr/actu/insolites-actu/lamborghini-revuelto-sv-frole-million-dollars-options-422840.html",
           "image": "https://sf2.autojournal.fr/wp-content/uploads/autojournal/2026/08/lamborghini-revuelto-sv.jpg"
         },
         {
-          "title": "Un robot sprinteur bat Bolt puis explose",
-          "summary": "Un robot humanoïde a battu le record d'Usain Bolt sur 100m avant une fin spectaculaire et explosive.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/un-robot-humanoide-court-le-100-metres-bat-le-record-d-usain-bolt-et-explose_AN-202608210601.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/BC80nh1sOuOb4rhbB2G4qvusAxI=/0x106:2048x1258/800x0/images/Les-robots-de-l-entreprise-Unitree-a-la-World-Robot-Conference-2026-2335140.jpg"
+          "title": "GTA 6 : La saga des leaks continue",
+          "summary": "Un résumé complet des informations et rumeurs suite aux fuites massives de GTA 6.",
+          "url": "https://www.journaldugeek.com/2026/08/23/leaks-gta-6-resume-de-laffaire-tout-ce-quil-faut-savoir/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/gta-6-dossier-leaks-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Économie & Société",
-      "emoji": "📈",
+      "label": "Business & Société",
+      "emoji": "💼",
       "articles": [
         {
-          "title": "Flers: Alimentation saine et durable",
-          "summary": "Des animations autour de Flers mettent en avant l'importance d'une alimentation saine et respectueuse.",
+          "title": "Nadège, 34 ans gardienne à Nice",
+          "summary": "Portrait émouvant de Nadège, gardienne d'immeuble et témoin des générations à Nice.",
+          "url": "https://www.nicematin.com/societe/j-ai-vu-les-familles-s-installer-les-bebes-naitre-puis-devenir-parents-a-leur-tour-nadege-gardienne-d-immeuble-et-d-ames-depuis-34-ans-a-nice-10704978",
+          "image": "https://assets.nicematin.com/articles/10/70/49/78/OG-10704978-1200-800-2a2c0ed_ftp-1-qxcndo53wmqt-nic12q400-jfo-nadege-gardienne-residence-le-ferber.jpg"
+        },
+        {
+          "title": "Flers s'engage pour une alimentation saine",
+          "summary": "Des animations autour de Flers promeuvent une alimentation saine et des pratiques durables.",
           "url": "https://actu.fr/normandie/flers_61169/alimentation-saine-et-durable-autour-de-flers-des-animations-pour-vous-mettre-leau-a-la-bouche_64691862.html",
           "image": "https://static.actu.fr/uploads/2026/08/38287185388a66c287185388a40387v-1024x557.jpg"
         },
         {
-          "title": "Faverges-Seythenex: Au rythme des vaches",
-          "summary": "Une immersion dans la vie de Baptiste, éleveur, et son troupeau à Faverges-Seythenex.",
+          "title": "Immersion pastorale à Faverges",
+          "summary": "Baptiste partage son quotidien au rythme des sonnailles de son troupeau à Faverges-Seythenex.",
           "url": "https://www.ledauphine.com/economie/2026/08/23/un-dimanche-au-rythme-des-sonnailles-du-troupeau-de-vaches-de-baptiste",
           "image": "https://cdn-s-www.ledauphine.com/images/D625E81C-6CEC-4C28-B895-2303184BACB7/NW_listB/un-dimanche-au-rythme-des-sonnailles-du-troupeau-de-vaches-de-baptiste-1787507673.jpg"
-        },
-        {
-          "title": "Procès historique sur les commotions rugby",
-          "summary": "Pour la première fois, un procès est autorisé pour des centaines d'anciens rugbymen blessés par des commotions.",
-          "url": "https://rmcsport.bfmtv.com/rugby/rugby-pour-la-premiere-fois-un-juge-autorise-un-proces-pour-les-centaines-d-anciens-joueurs-touches-par-des-commotions_AD-202608210444.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YszoCIiWagSwIuA5ANzOmK7fVnc=/0x226:2032x1369/800x0/images/Victime-de-demence-le-rugbyman-anglais-Steve-Thomson-fait-parti-du-consortium-de-joueurs-qui-vise-la-World-Rugby-pour-negligence-face-au-risque-de-commotions-1757287.jpg"
         }
       ]
     },
     {
-      "label": "Actualités Régionales (Sud-Ouest)",
+      "label": "Actualités Locales",
       "emoji": "📍",
       "articles": [
         {
-          "title": "Orages et intempéries dans les Landes",
-          "summary": "Violents orages dans les Landes, causant blessés, dégâts et nombreuses interventions des pompiers.",
+          "title": "Les Landes frappées par de violents orages",
+          "summary": "Orages destructeurs dans les Landes: inondations, arbres couchés, routes coupées et blessés légers.",
           "url": "https://www.sudouest.fr/environnement/meteo/intemperies/deux-blesses-legers-arbres-couches-routes-fermees-150-interventions-de-pompiers-inondations-et-depart-de-feux-les-landes-touchees-par-de-violentes-intemperies-30350199.php",
-          "image": ""
+          "image": null
         },
         {
-          "title": "Les pompiers landais, héros de l'été",
-          "summary": "Le bilan d'un été exceptionnel salue le courage et l'efficacité des sapeurs-pompiers des Landes face aux incendies.",
+          "title": "Bilan héroïque des pompiers landais",
+          "summary": "Le colonel Arnaud Fabre salue l'exceptionnel travail des sapeurs-pompiers landais cet été.",
           "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-les-landais-peuvent-etre-fiers-de-leurs-sapeurs-pompiers-leur-patron-le-colonel-arnaud-fabre-fait-le-bilan-d-un-ete-exceptionnel-30342934.php",
-          "image": ""
+          "image": null
         }
       ]
     },
     {
-      "label": "Culture Geek & Divertissement",
-      "emoji": "🎮",
+      "label": "Sport",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "Spider-Man: scène cachée sur TF1",
-          "summary": "Un personnage crucial est caché dans une scène de Spider-Man diffusé ce soir sur TF1, que beaucoup ont manqué.",
-          "url": "https://www.journaldugeek.com/2026/08/23/spider-man-ce-soir-sur-tf1-cette-scene-cache-un-personnage-crucial/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/spider-man-anecdote-personnage-crucial-1280x853.jpg"
-        },
-        {
-          "title": "GTA 6: le grand résumé des leaks",
-          "summary": "Tout ce qu'il faut savoir sur l'affaire des fuites massives concernant le très attendu jeu vidéo GTA 6.",
-          "url": "https://www.journaldugeek.com/2026/08/23/leaks-gta-6-resume-de-laffaire-tout-ce-quil-faut-savoir/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/gta-6-dossier-leaks-1280x853.jpg"
-        },
-        {
-          "title": "3 films à voir à la TV ce soir",
-          "summary": "Découvrez notre sélection de trois films incontournables à regarder ce dimanche soir à la télévision.",
-          "url": "https://www.journaldugeek.com/2026/08/23/a-la-tv-ce-soir-3-films-a-regarder-ce-dimanche-23-aout-2026/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/spider-man-homecoming-a-la-tv-2026-08-23-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Sport & Performance",
-      "emoji": "🏆",
-      "articles": [
-        {
-          "title": "Wembanyama et les Bleus héroïques !",
-          "summary": "Victor Wembanyama mène les Bleus à une victoire in extremis contre la Serbie dans un match haletant.",
+          "title": "Les Bleus du basket s'imposent au buzzer",
+          "summary": "Wembanyama et les Bleus arrachent une victoire intense contre la Serbie en amical.",
           "url": "https://rmcsport.bfmtv.com/basket/direct-france-serbie-suivez-le-deuxieme-match-amical-des-bleus-avec-victor-wembanyama_LN-202608230240.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/-4Y8Wk5txlAjYHbemMpUTgS5RTU=/0x0:2032x1143/800x0/images/Victor-Wembanyama-lors-de-France-Serbie-le-23-aout-2026-a-Orleans-2335611.jpg"
         },
         {
-          "title": "Alex Lanier, champion du monde historique !",
-          "summary": "Alex Lanier entre dans l'histoire en devenant le premier Français champion du monde de badminton en simple.",
+          "title": "Alex Lanier, champion du monde de badminton",
+          "summary": "Alex Lanier écrit l'histoire en devenant le premier champion du monde français en simple.",
           "url": "https://rmcsport.bfmtv.com/jeux-olympiques/le-double-pour-les-bleus-du-badminton-alex-lanier-devient-le-tout-premier-champion-francais-en-simple_AV-202608230194.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Gh2os88sDm6xzO62uQ9gzAkU1hA=/0x101:2048x1253/800x0/images/Alex-Lanier-aux-championnats-du-monde-de-badminton-le-21-aout-2026-2335288.jpg"
         },
         {
-          "title": "Badminton: Gicquel-Delrue sacrés !",
-          "summary": "Thom Gicquel et Delphine Delrue remportent le titre mondial en double mixte, une victoire historique pour le badminton français.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/une-victoire-historique-pour-le-badminton-francais-thom-gicquel-et-delphine-delrue-sacres-champions-du-monde-en-double-mixte_AV-202608230133.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YT8iZ70aJ4knjbrjPb_uLRYmvXE=/0x106:2048x1258/800x0/images/Thom-Gicquel-et-Delphine-Delrue-sacres-champions-du-monde-en-double-mixte-le-23-aout-2026-2335498.jpg"
+          "title": "Rugby : Procès historique pour les commotions",
+          "summary": "Un juge autorise un procès inédit pour les ex-joueurs de rugby victimes de commotions cérébrales.",
+          "url": "https://rmcsport.bfmtv.com/rugby/rugby-pour-la-premiere-fois-un-juge-autorise-un-proces-pour-les-centaines-d-anciens-joueurs-touches-par-des-commotions_AD-202608210444.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YszoCIiWagSwIuA5ANzOmK7fVnc=/0x226:2032x1369/800x0/images/Victime-de-demence-le-rugbyman-anglais-Steve-Thomson-fait-parti-du-consortium-de-joueurs-qui-vise-la-World-Rugby-pour-negligence-face-au-risque-de-commotions-1757287.jpg"
         }
       ]
     }
