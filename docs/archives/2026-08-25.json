@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Louis",
-  "global_summary": "Cette journée est marquée par des tensions géopolitiques persistantes, des défis internes pour des nations majeures et d'importants mouvements dans le monde du sport. Les États-Unis accentuent leur pression économique sur l'Iran et s'inquiètent de la fatigue de leur armée, tandis qu'Haïti fait face à une nouvelle vague de violence. En France, un investissement saoudien majeur dynamise le tourisme, mais des questions sociales délicates émergent concernant le secteur périscolaire. \n\nSur le front technologique, de nouvelles innovations audio et des mises à jour système sont au rendez-vous. Le monde des affaires observe des investissements de personnalités influentes. Enfin, le sport français brille avec des titres mondiaux historiques en badminton, et le rugby fait face à un procès majeur sur les commotions, tandis que la NBA voit une légende tirer sa révérence. Une actualité dense et variée qui témoigne de la complexité de notre monde.",
-  "running_advice": "Aujourd'hui, l'ambiance météo est un peu capricieuse, mais cela ne doit pas freiner ta motivation ! Avec des températures agréables entre 19.8°C et 27°C, l'air sera doux pour ta course. Cependant, attention aux averses et à la probabilité de pluie élevée (93%). Ce n'est pas une raison pour annuler ! Équipe-toi d'une veste légère et imperméable, et des chaussures adaptées. L'indice UV de 5.95 est modéré à élevé, donc même avec les nuages, n'oublie pas ta crème solaire et une casquette. Pour une course optimale, je te conseille de viser tôt le matin, juste après le lever du soleil à **07h16**. L'air sera plus frais et tu pourras profiter de la quiétude avant l'agitation de la journée. Si tu es un coureur du soir, l'heure entre **19h00 et 20h00** peut aussi être agréable, mais sois prêt pour la pluie. Dans tous les cas, écoute ton corps et savoure chaque foulée ! Tu es capable de tout affronter !",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques significatives. Les États-Unis dévoilent leur stratégie économique contre l'Iran, tandis que leur armée fait face à un épuisement des ressources. La situation à Haïti reste dramatique avec une nuit de terreur et de nombreuses victimes. En France, les nouvelles oscillent entre faits divers locaux et initiatives culturelles ou éducatives, comme la question sensible de la suspicion envers les animateurs périscolaires masculins.\nLe monde de la tech innove avec de nouvelles sorties audio et célèbre les anniversaires médiatiques, tandis que l'actualité business voit des investissements remarquables comme celui de Trump dans SpaceX. Le sport brille avec des victoires françaises historiques en badminton, mais fait aussi face à des défis majeurs, comme la question des commotions dans le rugby et le départ de légendes NBA.",
+  "running_advice": "Aujourd'hui, l'appel du bitume se fait sentir, et Saint Louis nous invite à la persévérance ! Les températures, entre 19.8°C et 27°C, sont clémentes, mais prépare-toi à affronter les éléments : 93% de chances d'averses 🌦️ ! Ne laisse pas la pluie te freiner, elle peut même être rafraîchissante. L'indice UV à 5.95 est élevé, donc si tu cours en pleine journée, la protection solaire est IMPÉRATIVE (crème, casquette). Le créneau idéal pour chasser le chrono tout en douceur serait le très tôt matin, juste après le lever du soleil à 07:16, pour profiter de la fraîcheur et d'une éventuelle accalmie, ou en fin de journée, avant le coucher du soleil à 20:53, en croisant les doigts pour que les nuages se soient dissipés. Enfile ta tenue de pluie, reste hydraté(e) et pars conquérir ton objectif ! Chaque goutte de sueur est une victoire !",
   "weather_string": "🌦️ Averses (19.8°C / 27°C)",
   "weather_stats": {
     "temp": "27°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "L'Amérique dévoile sa stratégie économique anti-Iran",
-          "summary": "Les États-Unis renforcent leur pression économique contre l'Iran avec un \"jour J\" financier majeur.",
+          "title": "Les États-Unis dévoilent leur “jour J économique” pour faire plier l’Iran",
+          "summary": "Washington intensifie la pression économique sur Téhéran avec une stratégie ciblée pour l'isoler financièrement.",
           "url": "https://www.courrierinternational.com/article/geopolitique-les-etats-unis-devoilent-leur-jour-j-economique-pour-faire-plier-l-iran_263080",
-          "image": "https://focus.courrierinternational.com/2026/08/24/0/0/4807/3205/644/0/60/0/f404c3_ftp-1-pzmmdcyaufnu-2026-08-24t172356z-1251564812-rc255nanc00z-rtrmadp-3-usa-treasury-bessent.JPG"
+          "image": "https://focus.courrierinternational.com/2026/08/24/0/0/4807/3205/644/0/60/0/f404c34_ftp-1-pzmmdcyaufnu-2026-08-24t172356z-1251564812-rc255nanc00z-rtrmadp-3-usa-treasury-bessent.JPG"
         },
         {
-          "title": "L'armée américaine face à la tension mondiale",
-          "summary": "Militaires épuisés, armes limitées : l'armée US fait face à des menaces croissantes et une forte pression.",
+          "title": "L’armée américaine sous tension: militaires épuisés, armes limitées",
+          "summary": "L'armée US fait face à un défi de taille, entre épuisement des troupes et pénuries d'armements face aux menaces croissantes.",
           "url": "https://www.la-croix.com/international/militaires-epuises-armes-a-flux-tendus-menaces-accrues-l-armee-americaine-sous-tension-20260824",
           "image": "https://i.la-croix.com/x/2026/08/24/2517672-des-eleves-officiers-des-marines-sur-la-base-milit.jpg"
         },
         {
-          "title": "Haïti : nuit de terreur et enlèvements massifs",
-          "summary": "Près de Port-au-Prince, une attaque de gangs a fait 40 morts et des enlèvements, plongeant Haïti dans l'horreur.",
+          "title": "Haïti: nuit de terreur, des dizaines de victimes d’attaques de gangs",
+          "summary": "Près de Port-au-Prince, une attaque brutale de gangs a coûté la vie à environ 40 personnes et en a enlevé d'autres.",
           "url": "https://www.sudouest.fr/international/haiti-une-nuit-de-terreur-environ-40-personnes-tuees-et-certaines-enlevees-dans-une-attaque-de-gangs-pres-de-port-au-prince-30359531.php"
         }
       ]
@@ -37,43 +37,42 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "L'Arabie Saoudite investit dans des parcs près de Paris",
-          "summary": "Trois nouveaux parcs d'attractions seront financés par l'Arabie Saoudite, stimulant l'économie francilienne.",
-          "url": "https://www.france24.com/fr/moyen-orient/20260824-pr%C3%A8s-de-paris-l-arabie-saoudite-va-financer-trois-parcs-d-attractions",
-          "image": "https://s.france24.com/media/display/7a181164-9fdd-11f1-86a6-005056a97e36/w:1024/p:16x9/AP26236547093503.jpg"
-        },
-        {
-          "title": "Périscolaire : le poids du soupçon sur les animateurs hommes",
-          "summary": "Suite à des scandales, les animateurs masculins du périscolaire dénoncent un climat de défiance généralisé.",
-          "url": "https://www.sudouest.fr/politique/education/ecole/periscolaire-apres-de-nombreux-scandales-sexuels-dans-differentes-structures-le-poids-du-soupcon-pese-sur-les-animateurs-masculins-30359595.php"
-        },
-        {
-          "title": "Découverte macabre près d'une gare d'Occitanie",
-          "summary": "Le corps d'un homme a été retrouvé sans vie sur un parking, déclenchant une enquête.",
+          "title": "Occitanie: un homme retrouvé mort sur un parking de gare",
+          "summary": "Le corps d'un homme a été découvert sans vie près d'une gare d'Occitanie, suscitant une enquête.",
           "url": "https://www.midilibre.fr/2026/08/24/son-corps-gisait-sur-un-parking-a-cote-de-cette-gare-doccitanie-un-homme-retrouve-mort-par-des-temoins-13521386.php",
           "image": "https://images.midilibre.fr/api/v1/images/view/6a8c8360b026dd85da077470/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Villenave-d’Ornon: un sans-abri vole une voiture et prend la rocade à contresens",
+          "summary": "Un homme sans-abri a commis un vol de voiture suivi d'une course dangereuse à contresens sur la rocade.",
+          "url": "https://www.sudouest.fr/gironde/villenave-d-ornon/villenave-d-ornon-un-sans-abri-vole-une-voiture-et-prend-la-rocade-a-contresens-30357442.php"
+        },
+        {
+          "title": "Périscolaire: le poids du soupçon sur les animateurs masculins",
+          "summary": "Suite à des scandales, les animateurs masculins dans le périscolaire subissent un climat de méfiance et de suspicion.",
+          "url": "https://www.sudouest.fr/politique/education/ecole/periscolaire-apres-de-nombreux-scandales-sexuels-dans-differentes-structures-le-poids-du-soupcon-pese-sur-les-animateurs-masculins-30359595.php"
         }
       ]
     },
     {
       "label": "Tech",
-      "emoji": "💻",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "Shokz lance l'OpenFit Air 2, plus léger et amélioré",
-          "summary": "Le nouveau casque audio Shokz promet légèreté et design optimisé pour une expérience sans fil supérieure.",
+          "title": "Shokz officialise l’OpenFit Air 2, plus léger et mieux fichu",
+          "summary": "Le géant de l'audio Shokz lance l'OpenFit Air 2, promettant légèreté et design amélioré pour les sportifs.",
           "url": "https://www.journaldugeek.com/2026/08/24/shokz-officialise-lopenfit-air-2-plus-leger-et-enfin-mieux-fichu/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/08/Shokz_OpenFit-Air-2_BL_Lifestyle_038-1280x854.jpg"
         },
         {
-          "title": "Le Journal du Geek se réinvente pour ses 20 ans",
-          "summary": "Nouveau logo, nouvelles ambitions : le Journal du Geek célèbre ses 20 ans avec une refonte.",
+          "title": "Le Journal du Geek célèbre ses 20 ans avec un nouveau logo",
+          "summary": "Le Journal du Geek fête ses deux décennies d'existence en dévoilant un nouveau logo et des ambitions renouvelées.",
           "url": "https://www.journaldugeek.com/2026/08/24/le-nouveau-journal-du-geek-est-la-20-ans-un-nouveau-logo-et-encore-plus-dambition/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/08/Frame-785-1280x840.jpg"
         },
         {
-          "title": "Deuxième RC de macOS 26.7 et 15.8 disponible",
-          "summary": "Apple déploie une nouvelle Release Candidate pour macOS, annonçant la version finale imminente.",
+          "title": "Une deuxième RC disponible pour macOS 26.7 et macOS 15.8",
+          "summary": "Apple déploie une nouvelle Release Candidate pour les futures mises à jour des systèmes macOS.",
           "url": "https://www.macg.co/macos/2026/08/une-deuxieme-rc-est-aussi-disponible-pour-macos-267-et-macos-158-310563",
           "image": "https://cdn.mgig.fr/2026/08/mga-17a502a9-w375-w1500-w750_accroche.jpg"
         }
@@ -84,20 +83,20 @@
       "emoji": "💰",
       "articles": [
         {
-          "title": "Trump investit dans SpaceX en juin",
-          "summary": "L'ancien président Donald Trump a discrètement acquis des actions de la société SpaceX le mois dernier.",
+          "title": "Trump a acheté des actions SpaceX en juin",
+          "summary": "Donald Trump a investi dans SpaceX en juin, une transaction notoire dans le monde de la finance.",
           "url": "https://fr.investing.com/news/stock-market-news/trump-a-achete-des-actions-spacex-en-juin-3570047",
           "image": "https://content-media.investing.com/news/LYNXNPEB5S0BB_M.jpg"
         },
         {
-          "title": "Dijon met l'artisanat local à l'honneur",
-          "summary": "La Cité Gastronomique de Dijon accueille CréArts, valorisant la richesse de l'artisanat local.",
+          "title": "Dijon: l'artisanat local avec CréArts à la Cité Gastronomique",
+          "summary": "La Cité Gastronomique de Dijon met en valeur l'artisanat local grâce à l'événement CréArts.",
           "url": "https://www.bienpublic.com/culture-loisirs/2026/08/24/l-artisanat-local-avec-crearts-a-la-cite-gastronomique",
           "image": "https://cdn-s-www.bienpublic.com/images/781FB591-16DC-4D51-9B57-967EAEA895DC/NW_listB/l-artisanat-local-avec-crearts-a-la-cite-gastronomique-1787594919.jpg"
         },
         {
-          "title": "Charente-Maritime : perturbations routières prévues",
-          "summary": "Des travaux importants entre Charron et Marans nécessiteront une vigilance accrue pour les automobilistes.",
+          "title": "Charente-Maritime: attention aux travaux entre Charron et Marans",
+          "summary": "Des travaux routiers sont en cours entre Charron et Marans, impactant la circulation locale.",
           "url": "https://www.sudouest.fr/charente-maritime/charron/charente-maritime-attention-aux-travaux-entre-charron-et-marans-30355716.php",
           "image": "https://media.sudouest.fr/30355716/1200x600/larochelleaunisre-6e210b7bc6504b808c159b0d469ab2d0-194448-ph1.jpg"
         }
@@ -105,23 +104,23 @@
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "Alex Lanier, champion du monde historique en badminton",
-          "summary": "Le jeune Français Alex Lanier devient le premier champion du monde tricolore en simple masculin de badminton.",
+          "title": "Badminton français : deux titres de champions du monde historiques !",
+          "summary": "Alex Lanier, Thom Gicquel et Delphine Delrue sont sacrés champions du monde, une première pour la France.",
           "url": "https://rmcsport.bfmtv.com/jeux-olympiques/le-double-pour-les-bleus-du-badminton-alex-lanier-devient-le-tout-premier-champion-francais-en-simple_AV-202608230194.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Gh2os88sDm6xzO62uQ9gzAkU1hA=/0x101:2048x1253/800x0/images/Alex-Lanier-aux-championnats-du-monde-de-badminton-le-21-aout-2026-2335288.jpg"
         },
         {
-          "title": "Rugby : procès historique pour commotions cérébrales",
-          "summary": "Des centaines d'anciens rugbymen blessés auront enfin leur jour au tribunal pour des commotions.",
+          "title": "Rugby: un procès historique pour les joueurs victimes de commotions",
+          "summary": "Pour la première fois, des centaines d'anciens rugbymen touchés par des commotions cérébrales obtiennent un procès.",
           "url": "https://rmcsport.bfmtv.com/rugby/rugby-pour-la-premiere-fois-un-juge-autorise-un-proces-pour-les-centaines-d-anciens-joueurs-touches-par-des-commotions_AD-202608210444.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YszoCIiWagSwIuA5ANzOmK7fVnc=/0x226:2032x1369/800x0/images/Victime-de-demence-le-rugbyman-anglais-Steve-Thomson-fait-parti-du-consortium-de-joueurs-qui-vise-la-World-Rugby-pour-negligence-face-au-risque-de-commotions-1757287.jpg"
         },
         {
-          "title": "NBA : Russell Westbrook prend sa retraite",
-          "summary": "À 37 ans, l'ancien MVP Russell Westbrook met un terme à une carrière légendaire en NBA.",
+          "title": "NBA: Russell Westbrook prend sa retraite à 37 ans",
+          "summary": "L'ancien MVP Russell Westbrook met un terme à sa carrière en NBA à l'âge de 37 ans.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-ancien-mvp-russell-westbroolk-prend-sa-retraite-a-37-ans_AV-202608130022.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/blIbteV2uIp1062wkM-57fTG32o=/0x105:2048x1257/800x0/images/Russell-Westbrook-Denver-2041175.jpg"
         }
