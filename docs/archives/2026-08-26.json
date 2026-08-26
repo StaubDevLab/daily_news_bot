@@ -1,0 +1,149 @@
+{
+  "ephemeride": "Sainte Natacha",
+  "global_summary": "L'actualité mondiale reste tendue, avec la Syrie et Gaza au cœur des préoccupations géopolitiques, soulignant des situations humaines délicates et des conflits persistants. Sur le front économique, l'incertitude plane avec des prévisions boursières révisées à la baisse et la possibilité d'une hausse des taux par la Fed, même sans fléchissement de l'inflation. Ces dynamiques globales appellent à une vigilance constante et à une compréhension fine des enjeux.\n\nEn France, la rentrée scolaire approche à grands pas, tandis que la météo est marquée par des alertes orageuses dans plusieurs départements et des questions environnementales locales, comme la chasse en Gironde post-incendies. Côté divertissement, le monde de la musique pleure une icône, Dolly Parton, et le gaming a vibré avec les annonces de la Gamescom. Enfin, le sport nous offre des exploits inattendus et des drames humains, mais aussi des triomphes français en badminton.",
+  "running_advice": "Alors, prêt à transpirer ? La météo du jour est un vrai défi, mais c'est dans l'adversité que l'on se forge ! Avec des températures allant de 17.5°C à un maximal de 34.2°C et 73% de probabilité de pluie sous un brouillard matinal, il va falloir être stratégique. Le brouillard peut rendre la course mystique, mais la pluie et la chaleur forte demandent de l'adaptation. L'indice UV de 6.25 est élevé, même avec le brouillard, la protection solaire reste essentielle : crème, casquette et lunettes sont vos alliés.\n\nL'heure idéale pour votre séance ? C'est sans hésiter TÔT le matin, juste après le lever du soleil à 07:17, ou bien tard en soirée, après 19h00, pour éviter le pic de chaleur et les fortes probabilités d'averses. Hydratez-vous abondamment avant, pendant et après. C'est le moment de prouver votre détermination, chaque foulée compte ! Allez, on y va !",
+  "weather_string": "🌫️ Brouillard (17.5°C / 34.2°C)",
+  "weather_stats": {
+    "temp": "34.2°C",
+    "rain": "73%",
+    "uv": "6.25"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Israël maintient ses troupes en Syrie",
+          "summary": "Le ministre de la Défense israélien réaffirme la présence de ses forces en Syrie pour la sécurité d'Israël, Damas condamne.",
+          "url": "https://www.franceinfo.fr/monde/syrie/depuis-la-syrie-le-ministre-de-la-defense-israelien-jure-d-y-maintenir-ses-troupes-pour-la-securite-d-israel-damas-condamne_8161289.html",
+          "image": "https://www.franceinfo.fr/pictures/VQC6cg0UsyNd7aJpKWfrocVqfp4/0x207:4000x2457/432x243/filters:format(jpg):quality(50)/2026/08/25/6a8dd7eb8453a426870299.jpg"
+        },
+        {
+          "title": "Gaza : les enfants rangent leurs cerfs-volants",
+          "summary": "Suite aux menaces israéliennes, les enfants de Gaza sont contraints d'abandonner leurs cerfs-volants, symbole d'espoir.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/25/a-gaza-les-enfants-doivent-ranger-leurs-cerfs-volants-apres-des-menaces-israeliennes_6756617_3210.html",
+          "image": "https://img.lemde.fr/2026/07/31/149/0/6000/3000/1342/671/60/0/4eebfd8_ftp-1-xua61drej6yk-33dd18f511164e37a0ac6481b8972175-0-ec24579710ff4644a6d1b93f2f5c3c73.jpg"
+        },
+        {
+          "title": "Appel à l'aide en Cisjordanie occupée",
+          "summary": "Un Palestinien assiégé en Cisjordanie occupée lance un appel déchirant à l'aide internationale face à sa situation critique.",
+          "url": "https://www.franceinfo.fr/monde/palestine/l-appel-a-l-aide-d-un-palestinien-assiege-en-cisjordanie-occupee_8161166.html",
+          "image": "https://www.franceinfo.fr/pictures/DgMjxjKZ9Yer3Eg0rfQ19IA2iRU/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg):quality(50)/2026/08/25/6a8dbbb3d74b6150793908.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Rentrée scolaire J-7 : la checklist sérénité",
+          "summary": "À une semaine de la rentrée, une checklist essentielle est proposée aux parents pour aborder cette période sereinement.",
+          "url": "https://www.epochtimes.fr/j-7-rentree-scolaire-checklist-parents-3333261.html",
+          "image": "https://images-fr.epochtimes.fr/uploads/2026/08/shutterstock_2321173933.jpg"
+        },
+        {
+          "title": "Orages : 12 départements en vigilance orange",
+          "summary": "Météo France place douze départements en vigilance orange pour de violents orages ce mercredi soir, prudence requise.",
+          "url": "https://www.sudouest.fr/environnement/meteo/intemperies/orages-12-departements-places-en-vigilance-orange-ce-mercredi-soir-30369286.php"
+        },
+        {
+          "title": "Gironde : chasse fermée après les incendies",
+          "summary": "La Fédération de chasse confirme la fermeture de la chasse dans les zones incendiées de Gironde, décision évidente.",
+          "url": "https://www.sudouest.fr/environnement/chasse/il-est-evident-que-la-chasse-restera-fermee-sur-les-zones-incendiees-en-gironde-la-federation-fait-le-point-30367126.php"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Antenne 5G Bouygues au Manoir du Roselier",
+          "summary": "Bouygues envisage le Manoir du Roselier à Plérin comme nouveau site pour implanter son antenne 5G locale.",
+          "url": "https://www.letelegramme.fr/cotes-d-armor/plerin-22190/le-manoir-du-roselier-a-plerin-nouveau-site-envisage-par-bouygues-pour-y-implanter-son-antenne-5g-7105038.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a8dd9ee60c427595c001f28/web_golden_xxl/6a8dd9ee60c427595c001f28.1"
+        },
+        {
+          "title": "Tribe Property Technologies : prévisions manquées",
+          "summary": "L'entreprise Tribe Property Technologies annonce des résultats inférieurs aux prévisions pour son second trimestre 2026.",
+          "url": "https://fr.investing.com/news/transcripts/tribe-property-technologies-rate-en-dessous-des-previsions-au-t2-2026-93CH-3571721",
+          "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Présidentielle 2027 : 'Beaucoup de surprises'",
+          "summary": "Thierry Breton, ancien ministre de l'Économie, prédit de nombreuses surprises pour la présidentielle de 2027.",
+          "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-presidentielle-2027-il-va-se-passer-beaucoup-de-choses-beaucoup-de-surprises-declare-thierry-breton-ancien-ministre-de-l-economie_VN-202608250749.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kxhSb17HggAEPMpy-emZNKXxMe4=/0x0:1280x720/800x0/images/Presidentielle-2027-Il-va-se-passer-beaucoup-de-choses-beaucoup-de-surprises-declare-thierry-breton-ancien-ministre-de-l-Economie-2336851.jpg"
+        },
+        {
+          "title": "XPeng : objectif de cours abaissé",
+          "summary": "Freedom Broker réduit l'objectif de cours de XPeng à 22$ en raison de la demande en baisse en Chine.",
+          "url": "https://fr.investing.com/news/analyst-ratings/lobjectif-de-cours-de-xpeng-abaisse-a-22-par-freedom-broker-sur-la-demande-en-chine-93CH-3571713",
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0V4_1200_L.jpg"
+        },
+        {
+          "title": "La Fed pourrait relever ses taux",
+          "summary": "La Réserve fédérale américaine envisage une hausse des taux, même sans baisse de l'inflation actuelle.",
+          "url": "https://fr.investing.com/news/economy-news/la-fed-pourrait-relever-ses-taux-sans-baisse-de-linflation-93CH-3571714",
+          "image": "https://content-media.investing.com/news/OilwellinColorado_800x533_L_1645345712.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Loisirs",
+      "emoji": "🎬",
+      "articles": [
+        {
+          "title": "Dolly Parton nous quitte à 80 ans",
+          "summary": "La légendaire chanteuse country Dolly Parton est décédée à 80 ans, laissant un héritage musical immense.",
+          "url": "https://www.laprovence.com/article/culture-loisirs/54735911857623/mort-de-dolly-parton-la-chanteuse-country-est-decedee-a-l-age-de-80-ans",
+          "image": "https://pictures.laprovence.com/media/melody/2026/08/25/files-singer-songwriter-dolly-parton-performs-in-concert-during-her-pure-simple-tour-at-the-frank-er-1787681272_9e895ed8dd8a682995ed8dd8a56995v_.jpg?twic=v1/focus=0x0/cover=470x247"
+        },
+        {
+          "title": "Critique : The Dog Stars déçoit",
+          "summary": "La critique du film \"The Dog Stars\" de Ridley Scott est tombée, malheureusement le verdict est mitigé.",
+          "url": "https://www.journaldugeek.com/critique/critique-the-dog-stars-un-ridley-scott-qui-naboie-plus/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/Critique-The-Dog-Stars-1280x853.jpg"
+        },
+        {
+          "title": "Gamescom : toutes les annonces gaming",
+          "summary": "L'Opening Night Live de la Gamescom a révélé toutes les grandes nouveautés et annonces marquantes du jeu vidéo.",
+          "url": "https://www.journaldugeek.com/2026/08/25/gamescom-opening-night-live-voici-toutes-les-annonces-gaming-de-la-soiree/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/gamescom-opening-night-live-resume-2026-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Robot sprinteur : record battu et explosion !",
+          "summary": "Un robot humanoïde a battu le record du 100 mètres d'Usain Bolt avant de s'autodétruire en plein effort.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-robot-humanoide-court-le-100-metres-bat-le-record-d-usain-bolt-et-explose_AN-202608210601.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/BC80nh1sOuOb4rhbB2G4qvusAxI=/0x106:2048x1258/800x0/images/Les-robots-de-l-entreprise-Unitree-a-la-World-Robot-Conference-2026-2335140.jpg"
+        },
+        {
+          "title": "NBA : Anthony Edwards, décision de justice",
+          "summary": "La star NBA Anthony Edwards est condamnée à verser 14 000 dollars par mois pour subvenir aux besoins de son fils.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-anthony-edwards-condamne-a-verser-14-000-dollars-par-mois-pour-subvenir-aux-besoins-d-un-fils-qu-il-ne-verra-jamais_AV-202608250532.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_V5Vzq-rYzOpU-ZgzpJwCvsJ110=/0x106:2048x1258/800x0/images/Anthony-Edwards-avec-les-Timberwolves-contre-les-Clippers-le-11-mars-2026-2336686.jpg"
+        },
+        {
+          "title": "Badminton : Alex Lanier champion du monde !",
+          "summary": "Exploit historique : Alex Lanier devient le premier champion du monde français en simple, doublé pour le badminton tricolore.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/le-double-pour-les-bleus-du-badminton-alex-lanier-devient-le-tout-premier-champion-francais-en-simple_AV-202608230194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Gh2os88sDm6xzO62uQ9gzAkU1hA=/0x101:2048x1253/800x0/images/Alex-Lanier-aux-championnats-du-monde-de-badminton-le-21-aout-2026-2335288.jpg"
+        }
+      ]
+    }
+  ]
+}
