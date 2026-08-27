@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Sainte Monique",
+  "global_summary": "La journée s'annonce riche en émotions et en défis. Sur la scène internationale, les inondations meurtrières au Népal et au Tibet rappellent la puissance de la nature, tandis qu'à Lyon, le rêve de Ligue des Champions s'est brisé. La politique sénégalaise fait aussi parler d'elle avec l'invalidation d'une loi clé.\nEn France, le sport brille par des histoires de dépassement de soi, comme celle d'un athlète recalé qui va enfin participer à l'UTMB, ou des performances mondiales en badminton. Mais elle est aussi marquée par des incidents locaux et des questions de société, de la detox numérique à l'encadrement des géants du web. Les enjeux économiques, des prévisions de revenus d'entreprises aux ajustements des politiques énergétiques, complètent ce panorama d'une actualité en constante effervescence.",
+  "running_advice": "Prépare-toi, champion(ne) ! Aujourd'hui, on sent le potentiel d'une belle course, mais avec une petite touche d'aventure ! Les températures sont idéales, oscillant entre 18.3°C et 26.9°C, parfait pour maintenir un bon rythme sans surchauffe. Cependant, garde un œil sur le ciel : une probabilité de pluie de 75% te suggère de prévoir un équipement adapté ou d'être flexible sur l'horaire. Le meilleur créneau pour t'élancer, c'est clairement en début de matinée, juste après le lever du soleil à 07:18, ou en fin d'après-midi, avant le coucher à 20:49. Tu éviteras ainsi la chaleur potentielle du milieu de journée. Et surtout, avec un indice UV de 4.9, la protection solaire est NON NÉGOCIABLE ! Crème solaire, casquette et lunettes de soleil sont tes meilleurs alliés. Quelle que soit l'heure, l'essentiel est de chausser tes baskets et de profiter de chaque foulée. C'est TA course, fais-en un moment unique !",
+  "weather_string": "🌤️ Peu nuageux (18.3°C / 26.9°C)",
+  "weather_stats": {
+    "temp": "26.9°C",
+    "rain": "75%",
+    "uv": "4.9"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Lyon échoue en Ligue des Champions",
+          "summary": "Déception pour Lyon : le club n'a pas réussi à se qualifier pour la C1, battu à domicile par Fenerbahçe.",
+          "url": "https://www.france24.com/fr/sports/20260826-ligue-des-champions-lyon-%C3%A9choue-%C3%A0-se-qualifier-pour-la-c1-battu-%C3%A0-domicile-par-fenerbah%C3%A7e",
+          "image": "https://s.france24.com/media/display/28f80e66-a18f-11f1-80c6-005056bf30b7/w:1280/p:16x9/000-C6KU8Z2.jpg"
+        },
+        {
+          "title": "Crues meurtrières au Népal et Tibet",
+          "summary": "Des images déchirantes montrent les ravages des crues au Népal et au Tibet, avec torrents de boue et bâtiments submergés.",
+          "url": "https://www.france24.com/fr/asie-pacifique/20260826-n%C3%A9pal-tibet-torrents-de-boue-b%C3%A2timents-submerg%C3%A9s-les-images-des-crues-meurtri%C3%A8res",
+          "image": "https://s.france24.com/media/display/c38c623a-a18d-11f1-b8ba-005056a90284/w:1024/p:16x9/000-C6JC4G4.jpg"
+        },
+        {
+          "title": "Sénégal : loi sur les fonds spéciaux invalidée",
+          "summary": "Au Sénégal, la proposition de loi encadrant les fonds spéciaux a été invalidée, soulevant des questions politiques.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260826-s%C3%A9n%C3%A9gal-la-proposition-de-loi-sur-l-encadrement-des-fonds-sp%C3%A9ciaux-invalid%C3%A9e",
+          "image": "https://s.france24.com/media/display/feab7ffc-a18a-11f1-a7a4-005056a97e36/w:1024/p:16x9/FRAN260826-2143-Live-01.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Un Marckois réalise son rêve UTMB",
+          "summary": "Après des années d'échecs, ce Marckois va enfin prendre le départ de l'Ultra-Trail du Mont-Blanc 2026.",
+          "url": "http://www.nordlittoral.fr/295891/article/2026-08-26/utmb-2026-j-ai-toujours-ete-recale-ce-marckois-va-enfin-participer-l-ultra-trail",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/26/node_295891/3779059/public/2026/08/26/98566696.jpeg?itok=AbqXg8841787778018"
+        },
+        {
+          "title": "Militants identitaires jugés à Faches-Thumesnil",
+          "summary": "Huit militants identitaires sont jugés pour violences suite à une irruption dans un meeting LFI à Faches-Thumesnil.",
+          "url": "https://www.bfmtv.com/grand-lille/ils-avaient-fait-irruption-dans-un-meeting-lfi-a-faches-thumesnil-huit-militants-identitaires-juges-pour-violences-sur-un-elu-public_AD-202608260842.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/-Z5NJrDCmXiCV5A3kqxZposxvUY=/0x106:2048x1258/800x0/images/Patrick-Proisy-lors-de-son-meeting-a-Faches-Thumesnil-le-9-mars-2337513.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Société",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Détox numérique : restez déconnecté !",
+          "summary": "Découvrez des stratégies efficaces pour échapper au piège des écrans après une détox numérique réussie.",
+          "url": "https://www.epochtimes.fr/detox-numerique-comment-eviter-de-retomber-dans-le-piege-des-ecrans-3333874.html",
+          "image": "https://images-fr.epochtimes.fr/uploads/2026/08/id6079585-update-dgital-detox-2.jpg"
+        },
+        {
+          "title": "Meta face à l'addiction aux réseaux",
+          "summary": "Meta a conclu un accord amiable avec 29 États américains concernant l'addiction aux réseaux sociaux.",
+          "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-addiction-aux-reseaux-sociaux-meta-trouve-un-accord-amiable-avec-29-etats-americains_VN-202608260830.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Vjo-Rm5gcHP8fH6CePNcT5T136Y=/0x0:1280x720/800x0/images/Addiction-aux-reseaux-sociaux-Meta-trouve-un-accord-amiable-avec-29-Etats-americains-2337539.jpg"
+        },
+        {
+          "title": "Taxe foncière : hausse quasi-invisible",
+          "summary": "La plupart des propriétaires ne devraient que très peu ressentir la hausse de la taxe foncière cette année.",
+          "url": "https://www.capital.fr/immobilier/taxe-fonciere-pourquoi-la-hausse-sera-a-peine-perceptible-pour-la-plupart-des-proprietaires-1529589",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~08~26~2d0f3101-83c4-45b5-9ea8-b014c9f86be6.jpg/1200x900/quality/80/taxe-fonciere-pourquoi-la-hausse-sera-a-peine-perceptible-pour-la-plupart-des-proprietaires.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Entreprises",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Ooma Inc. surpasse les prévisions",
+          "summary": "Le BPA et le chiffre d'affaires d'Ooma Inc ont dépassé les attentes, signalant une belle performance économique.",
+          "url": "https://fr.investing.com/news/earnings/le-bpa-de-ooma-inc-a-depasse-les-attentes-de-002-le-ca--a-surpasse-les-previsions-3573696",
+          "image": "https://content-media.investing.com/news/LYNXNPEB6R0AQ_M.jpg"
+        },
+        {
+          "title": "DPE : le gaz moins avantageux",
+          "summary": "Le gouvernement modifie les DPE, réduisant l'avantage énergétique du gaz par rapport à l'électricité.",
+          "url": "https://www.franceinfo.fr/economie/immobilier/le-gouvernement-reduit-l-avantage-du-gaz-par-rapport-a-l-electricite-dans-le-cadre-des-dpe_8164223.html",
+          "image": "https://www.franceinfo.fr/pictures/mjmBHDN2CvXbMuX_aihddq5wht0/0x802:7707x5138/432x243/filters:format(jpg):quality(50)/2026/08/26/6a8f53bfabc9a948150595.jpg"
+        },
+        {
+          "title": "Beauté et art s'exposent au Lavandou",
+          "summary": "Une esthéticienne du Lavandou transforme son institut en galerie, prouvant que beauté et art s'entremêlent.",
+          "url": "https://www.nicematin.com/culture/arts/la-beaute-et-l-art-sont-similaires-au-lavandou-cette-estheticienne-expose-ses-uvres-dans-son-propre-institut-10711141",
+          "image": "https://assets.nicematin.com/articles/10/71/11/41/OG-10711141-1200-800-5b53235_upload-1-56uywlilhlqo-6e5757b9488a6e26727675v-01322455.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualités Locales",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Alpe d'Huez : télécabine heurte grue",
+          "summary": "Un accident grave à l'Alpe d'Huez : une télécabine a heurté une grue, faisant 23 blessés, dont trois graves.",
+          "url": "https://www.sudouest.fr/faits-divers/une-telecabine-heurte-une-grue-a-l-alpe-d-huez-23-blesses-dont-trois-graves-30381615.php",
+          "image": null
+        },
+        {
+          "title": "Orages en Charente-Maritime",
+          "summary": "Des orages violents ont privé des foyers d'électricité et endommagé des toitures à Fouras, en Charente-Maritime.",
+          "url": "https://www.sudouest.fr/charente-maritime/fouras/orages-en-charente-maritime-des-foyers-prives-d-electricite-et-des-toitures-endommegees-a-fouras-30381518.php",
+          "image": null
+        },
+        {
+          "title": "Périgueux : évasion et nouvelle condamnation",
+          "summary": "Un homme condamné à de la prison supplémentaire à Périgueux après s'être évadé de la maison d'arrêt.",
+          "url": "https://www.sudouest.fr/dordogne/course-poursuite-a-perigueux-un-homme-condamne-a-trois-mois-de-prison-supplementaires-pour-s-etre-evade-de-la-maison-d-arret-30382065.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture & Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Nouveau LEGO Star Wars Super Destroyer",
+          "summary": "Découvrez le nouveau Super Destroyer Stellaire LEGO Star Wars, une pièce impressionnante et très grande pour les fans.",
+          "url": "https://www.journaldugeek.com/2026/08/27/lego-star-wars-super-destroyer-stellaire/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/lego-star-wars-Super-Destroyer-Stellaire--1280x853.jpg"
+        },
+        {
+          "title": "Suite officielle à Alien: Covenant",
+          "summary": "Ridley Scott confirme une suite à Alien: Covenant, les détails de l'intrigue sont déjà révélés !",
+          "url": "https://www.journaldugeek.com/2026/08/27/cest-officiel-ridley-scott-prepare-une-suite-a-alien-covenant-et-on-sait-deja-ce-que-ca-racontrera/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/alien-david-ridley-scott-1280x853.jpg"
+        },
+        {
+          "title": "Netflix : une loi sur le partage de compte ?",
+          "summary": "Bientôt une loi pour encadrer le partage de compte Netflix, afin de contrer les restrictions actuelles ?",
+          "url": "https://www.journaldugeek.com/2026/08/27/partage-de-compte-netflix-bientot-une-loi-pour-contrer-les-restrictions/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/netflix-partage-de-compte-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama, futur Tony Parker ?",
+          "summary": "Avec un engagement similaire, Victor Wembanyama semble bien parti pour une carrière à la hauteur de Tony Parker.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/equipe-de-france-de-basket-ils-ont-le-meme-engagement-victor-wembanyama-parti-pour-une-carriere-a-la-tony-parker_AV-202608260573.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/NHIbhSw7CS4mg0hiKHBNX0ORT8s=/0x0:1920x1080/800x0/images/Victor-Wembanyama-et-Tony-Parker-2337300.jpg"
+        },
+        {
+          "title": "UTMB : l'exploit d'une femme à un poumon",
+          "summary": "Fanny Barbara réalise l'incroyable : courir l'UTMB avec un poumon en moins, un véritable exploit de résilience.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-courir-l-utmb-avec-un-poumon-en-moins-l-exploit-de-fanny-barbara_VN-202608270265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5SzHXK98g_9cEtAPSxSXcgqOjpM=/0x0:1280x720/800x0/images/Courir-l-UTMB-avec-un-poumon-en-moins-l-exploit-de-Fanny-Barbara-2337769.jpg"
+        },
+        {
+          "title": "La course, une leçon de vie inspirante",
+          "summary": "Le témoignage bouleversant d'un autiste Asperger qui a trouvé dans la course à pied un moyen de surmonter ses défis.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-sans-la-course-a-pied-je-me-serais-foutu-en-l-air-la-lecon-de-vie-d-un-autiste-asperger_VN-202608260295.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KknGyhnwxhzBxxZCBwJUsa7sWpc=/0x0:1280x720/800x0/images/Sans-la-course-a-pied-je-me-serais-foutu-en-l-air-la-lecon-de-vie-d-un-autiste-Asperger-2337138.jpg"
+        }
+      ]
+    }
+  ]
+}
