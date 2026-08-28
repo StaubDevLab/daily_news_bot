@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Augustin",
-  "global_summary": "L'actualité mondiale est marquée par des tensions persistantes et des crises humanitaires en RD Congo, où les activités académiques sont suspendues dans les zones de conflit, et en Ukraine, avec un appel urgent à l'évacuation de Kherson face aux frappes russes. Gaza reste également au centre des préoccupations, suite à des frappes israéliennes qui ont coûté la vie à plusieurs personnes, soulignant la fragilité de la paix dans ces régions. \nMalgré ce contexte géopolitique complexe, l'innovation et l'excellence humaine continuent de briller. Le monde du sport célèbre des exploits inspirants, tandis que le secteur tech repousse les limites avec des avancées en IA et le très attendu GTA VI. Les marchés financiers, quant à eux, montrent une dynamique contrastée, avec des hausses et des baisses d'actions notables.",
-  "running_advice": "Préparez-vous à une session exceptionnelle ! Aujourd'hui, avec des températures oscillant entre 16.7°C et 25.4°C et un ciel peu nuageux, les conditions sont parfaites pour une course revigorante. L'heure idéale pour vous élancer se situe en fin de journée, entre 18h00 et 19h30, quand la lumière est douce et que la chaleur du jour s'estompe, offrant un cadre dynamique pour votre effort. Attention, l'indice UV étant de 6.25, la protection solaire est indispensable. Pensez à une crème adaptée et à bien vous hydrater. Chaque foulée est une occasion de vous dépasser, alors enfilez vos baskets, la performance vous attend !",
-  "weather_string": "🌤️ Peu nuageux (16.7°C / 25.4°C)",
+  "global_summary": "L'actualité mondiale reste marquée par des tensions préoccupantes, des suspensions académiques en RD Congo aux appels à l'évacuation à Kherson face aux frappes russes, sans oublier les conflits persistants à Gaza. Ces événements soulignent une période d'incertitude géopolitique qui exige notre attention.\n\nHeureusement, d'autres fronts offrent des nouvelles plus dynamiques : le secteur technologique est en pleine effervescence avec les avancées en IA et l'engouement autour de GTA VI, tandis que le monde du sport rayonne. De la performance impressionnante de Wembanyama aux exploits humains incroyables comme courir l'UTMB avec un seul poumon et les titres mondiaux historiques en badminton, ces réussites nous rappellent la puissance de la détermination et de l'esprit sportif.",
+  "running_advice": "Coach ici ! Aujourd'hui, la météo est une véritable invitation à chausser vos baskets ! Avec des températures parfaites, entre 16.7°C et 25.3°C, et un ciel peu nuageux, c'est une excellente journée pour vous dépasser. L'heure idéale ? Je vous conseille de viser tôt le matin, juste après le lever du soleil vers 07h20, ou en fin d'après-midi, entre 17h00 et 19h00, pour profiter de la douceur. Attention, l'indice UV est élevé (6.25) : protection solaire et casquette sont vos meilleurs alliés. Allez, on respire à plein poumons et on va chercher cette énergie ! Chaque foulée compte !",
+  "weather_string": "🌤️ Peu nuageux (16.7°C / 25.3°C)",
   "weather_stats": {
-    "temp": "25.4°C",
+    "temp": "25.3°C",
     "rain": "25%",
     "uv": "6.25"
   },
@@ -14,92 +14,92 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "RDC: L'éducation suspendue en zones M23",
-          "summary": "Les activités académiques sont arrêtées dans les régions sous contrôle de l'AFC/M23, aggravant la crise humanitaire.",
+          "title": "RD Congo: Académie suspendue dans les zones de conflit",
+          "summary": "Les activités académiques sont interrompues dans les régions sous contrôle de l'AFC/M23, affectant des milliers d'étudiants.",
           "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260827-en-rd-congo-les-activit%C3%A9s-acad%C3%A9miques-dans-les-zones-sous-contr%C3%B4le-de-l-afc-m23-sont-suspendues",
           "image": "https://s.france24.com/media/display/19408b1e-a253-11f1-862d-005056bf30b7/w:1024/p:16x9/FRAN260827-2143-Live-01.jpg"
         },
         {
-          "title": "Kherson évacuée face aux frappes russes",
-          "summary": "Les autorités ukrainiennes exhortent les civils à quitter Kherson, sous la menace constante des attaques russes.",
+          "title": "Kherson: Évacuation urgente face aux frappes russes",
+          "summary": "Les autorités ukrainiennes exhortent les habitants de Kherson à partir, la ville étant sous le feu incessant des forces russes.",
           "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/partez-je-vous-en-prie-les-autorites-ukrainiennes-appellent-les-habitants-de-kherson-a-quitter-la-ville-face-aux-frappes-russes_8165687.html",
           "image": "https://www.franceinfo.fr/pictures/0TQ6zHyO7TiLMj8mBw7Izdk9wcY/0x321:6177x3796/432x243/filters:format(jpg)/2026/08/27/6a909d1c25e73428720257.jpg"
         },
         {
-          "title": "Gaza : Frappes israéliennes mortelles",
-          "summary": "Trois personnes ont péri dans des frappes israéliennes à Gaza, exacerbant les tensions régionales.",
+          "title": "Gaza: Trois morts suite aux frappes israéliennes",
+          "summary": "De nouvelles frappes aériennes israéliennes ont causé la mort de trois personnes, selon les services de secours locaux.",
           "url": "https://www.franceinfo.fr/monde/palestine/gaza/a-gaza-des-frappes-israeliennes-font-trois-morts-selon-les-secours_8165651.html",
           "image": "https://www.franceinfo.fr/pictures/Ks2I1a0R8w5m7s0TJiddx1nG-dM/0x285:5472x3363/432x243/filters:format(jpg)/2026/08/27/6a909606c31c1527034517.jpg"
         }
       ]
     },
     {
-      "label": "France & Europe",
+      "label": "France",
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Espagne : Le trésor de Villena volé",
-          "summary": "Un inestimable trésor de l'âge de Bronze a été dérobé d'un musée espagnol, suscitant l'indignation.",
+          "title": "Top 10 villes européennes à visiter hors saison",
+          "summary": "Découvrez les destinations européennes incontournables pour des voyages mémorables loin des foules estivales.",
+          "url": "https://fr.qz.com/meilleures-villes-europennes-visiter-hors-saison",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/ervin-lukacs-sMyQb3i9bNA-unsplash%2520(1).jpg"
+        },
+        {
+          "title": "Espagne: Le trésor de Villena dérobé au musée",
+          "summary": "Un inestimable trésor de l'âge de Bronze a été volé, laissant l'Espagne sous le choc de cette perte culturelle.",
           "url": "https://www.lejdd.fr/International/espagne-le-tresor-de-villena-joyau-de-lage-de-bronze-vole-dans-un-musee-181995",
           "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/08/27/22/capture-decran-2026-08-27-224805.jpg?VersionId=ds60bwuIIHsO99gyIiTMwD4KWZ4UBLS5"
         },
         {
-          "title": "Meta restreint les réseaux : et la France ?",
-          "summary": "Les nouvelles règles de Meta aux USA questionnent leur application en France, impactant notre usage des réseaux.",
-          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-limites-a-deux-heures-par-jour-likes-invisibles-les-nouvelles-restrictions-de-meta-sur-le-sol-americain-peuvent-elles-s-appliquer-en-france_8165705.html",
-          "image": "https://www.franceinfo.fr/pictures/P8v5pg_ih5PctaXxHwu3weaUUdU/2x0:1317x740/432x243/filters:format(jpg)/2026/08/27/6a90a30dbd0c0974807480.jpg"
-        },
-        {
-          "title": "Top 10 des villes européennes hors saison",
-          "summary": "Découvrez les destinations européennes incontournables pour des voyages uniques en arrière-saison.",
-          "url": "https://fr.qz.com/meilleures-villes-europennes-visiter-hors-saison",
-          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/ervin-lukacs-sMyQb3i9bNA-unsplash%2520(1).jpg"
+          "title": "Turquie: 10 surprises pour les voyageurs",
+          "summary": "Préparez-vous à des révélations inattendues sur la Turquie, changeant votre perception de cette destination.",
+          "url": "https://fr.qz.com/choses-qui-surprennent-les-visiteurs-en-turquie",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/pexels-nourabiad-11633177.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Gaming",
-      "emoji": "🎮",
+      "label": "Tech",
+      "emoji": "💻",
       "articles": [
         {
-          "title": "Marvell bat des records grâce à l'IA",
-          "summary": "Le géant Marvell réalise un trimestre historique, boosté par l'explosion des puces IA personnalisées.",
+          "title": "Marvell: Record historique grâce aux puces IA",
+          "summary": "L'entreprise Marvell annonce des résultats record, boostés par la forte demande en puces IA personnalisées des géants du cloud.",
           "url": "https://fr.qz.com/recette-record-de-marvell-puces-ai-hausse-des-prvisions-082726",
           "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2169879676.jpg"
         },
         {
-          "title": "GTA 6 : Vice City et Leonida inédites",
-          "summary": "Le prochain GTA 6 promet une immersion totale avec des détails bluffants sur Vice City et Leonida.",
-          "url": "https://www.journaldugeek.com/2026/08/28/gta-6-la-ville-de-vice-city-et-la-region-de-leonida-sannoncent-plus-realistes-et-immersives-que-jamais/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/gta-6-vice-city-leonida-1280x853.jpg"
+          "title": "GTA VI: La présentation fait planter Netflix",
+          "summary": "L'engouement mondial pour le très attendu jeu GTA VI a été tel qu'il a provoqué des perturbations sur Netflix.",
+          "url": "https://www.macg.co/ailleurs/2026/08/le-live-de-presentation-de-gta-vi-met-netflix-genoux-310673",
+          "image": "https://cdn.mgig.fr/2026/08/mga-c41a9436-w375-w1500-w750_accroche.jpg"
         },
         {
-          "title": "Redmi Note 17 Pro Max : autonomie XXL",
-          "summary": "Le nouveau Redmi Note 17 Pro Max révolutionne l'autonomie, offrant jusqu'à trois jours sans recharge.",
-          "url": "https://www.journaldugeek.com/2026/08/28/vivre-sans-chargeur-pendant-3-j-le-redmi-note-17-pro-max-arrive-et-promet-une-autonomie-hors-norme/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/Xiaomi-Redmi-Note-17-Pro-Max-5G-1280x853.jpg"
+          "title": "Meta: Nouvelles restrictions de réseaux sociaux",
+          "summary": "Meta teste des limites de temps et likes invisibles aux États-Unis, soulevant des questions sur leur application future en France.",
+          "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/reseaux-limites-a-deux-heures-par-jour-likes-invisibles-les-nouvelles-restrictions-de-meta-sur-le-sol-americain-peuvent-elles-s-appliquer-en-france_8165705.html",
+          "image": "https://www.franceinfo.fr/pictures/P8v5pg_ih5PctaXxHwu3weaUUdU/2x0:1317x740/432x243/filters:format(jpg)/2026/08/27/6a90a30dbd0c0974807480.jpg"
         }
       ]
     },
     {
       "label": "Business",
-      "emoji": "💰",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Rubrik : forte chute en Bourse",
-          "summary": "L'action Rubrik connaît une baisse significative en Bourse, interrogeant les investisseurs sur sa performance.",
+          "title": "Rubrik: Chute du cours de l'action",
+          "summary": "L'action Rubrik connaît une baisse significative aujourd'hui, les investisseurs s'interrogeant sur les raisons de ce recul.",
           "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-rubrik-chutetelle-aujourdhui--93CH-3575792",
           "image": "https://content-media.investing.com/news/LYNXNPEC0E0NI_L.jpg"
         },
         {
-          "title": "Lifevantage dévisse en Bourse",
-          "summary": "L'action Lifevantage dégringole, laissant planer des doutes sur les perspectives de l'entreprise.",
+          "title": "Lifevantage: L'action dégringole en bourse",
+          "summary": "Le titre de Lifevantage enregistre une forte chute en bourse, suscitant des inquiétudes parmi les actionnaires.",
           "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-lifevantage-chutetelle-aujourdhui--93CH-3575811",
           "image": "https://content-media.investing.com/news/LYNXNPEC0D0AP_M.jpg"
         },
         {
-          "title": "Elastic : bond spectaculaire en Bourse",
-          "summary": "L'action Elastic s'envole, signant une performance exceptionnelle et rassurant les marchés.",
+          "title": "Elastic: Forte hausse du titre en bourse",
+          "summary": "L'action Elastic affiche une performance exceptionnelle, bondissant et attirant l'attention des marchés financiers.",
           "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-elastic-bonditelle-aujourdhui--93CH-3575823",
           "image": "https://content-media.investing.com/news/LYNXNPEB660A4_M.jpg"
         }
@@ -107,25 +107,25 @@
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "Wembanyama enflamme Bercy, les Bleus gagnent",
-          "summary": "De retour, Victor Wembanyama a mené l'Équipe de France de basket à la victoire contre la Slovénie.",
+          "title": "Wembanyama enflamme Bercy et les Bleus",
+          "summary": "Victor Wembanyama a brillé à Bercy, menant l'équipe de France à la victoire face à la Slovénie après les JO 2024.",
           "url": "https://rmcsport.bfmtv.com/basket/b-asket-de-retour-a-bercy-depuis-les-jo-2024-wembanyama-porte-les-bleus-face-a-la-slovenie_AD-202608270835.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/q0WloHczT01Pu00LogbSH4U6wLA=/0x106:2048x1258/800x0/images/Victor-Wembanyama-avec-les-Bleus-contre-la-Serbie-le-23-aout-2026-2337286.jpg"
         },
         {
-          "title": "Badminton : Doublé historique pour la France",
-          "summary": "Alex Lanier et la paire Gicquel-Delrue sont sacrés champions du monde, une première historique pour le badminton français.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/le-double-pour-les-bleus-du-badminton-alex-lanier-devient-le-tout-premier-champion-francais-en-simple_AV-202608230194.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Gh2os88sDm6xzO62uQ9gzAkU1hA=/0x101:2048x1253/800x0/images/Alex-Lanier-aux-championnats-du-monde-de-badminton-le-21-aout-2026-2335288.jpg"
-        },
-        {
-          "title": "UTMB : Fanny Barbara, l'exploit inspirant",
-          "summary": "Fanny Barbara défie les limites en courant l'UTMB avec un seul poumon, une leçon de résilience incroyable.",
+          "title": "UTMB: L'incroyable exploit de Fanny Barbara",
+          "summary": "Avec un poumon en moins, Fanny Barbara a accompli l'ultra-trail du Mont-Blanc, un témoignage de résilience exceptionnelle.",
           "url": "https://rmcsport.bfmtv.com/athletisme/video-courir-l-utmb-avec-un-poumon-en-moins-l-exploit-de-fanny-barbara_VN-202608270265.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5SzHXK98g_9cEtAPSxSXcgqOjpM=/0x0:1280x720/800x0/images/Courir-l-UTMB-avec-un-poumon-en-moins-l-exploit-de-Fanny-Barbara-2337769.jpg"
+        },
+        {
+          "title": "Badminton: Les Bleus champions du monde !",
+          "summary": "Alex Lanier et la paire Gicquel-Delrue ont décroché des titres mondiaux historiques, offrant une journée de rêve au badminton français.",
+          "url": "https://rmcsport.bfmtv.com/societe/video-badminton-un-journee-de-dingue-lanier-et-la-paire-gicquel-delrue-champions-du-monde_VN-202608230288.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/67Vi4Dk5mSCmSfBE9JoD7tu_5vA=/0x0:1280x720/800x0/images/Badminton-Un-journee-de-dingue-Lanier-et-la-paire-Gicquel-Delrue-champions-du-monde-2335626.jpg"
         }
       ]
     }
