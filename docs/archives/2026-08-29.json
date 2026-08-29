@@ -1,7 +1,7 @@
 {
   "ephemeride": "Sainte Sabine",
-  "global_summary": "La scène internationale est marquée aujourd'hui par des sujets complexes, allant du débat sociétal sur l'interdiction des téléphones portables au lycée, aux zones d'ombre concernant un meurtre potentiellement anti-chrétien en Syrie. Les crues au Népal rappellent également l'impact des catastrophes naturelles, avec Pékin contrôlant étroitement l'information. Pendant ce temps, le monde de la tech fait face à une menace grandissante de cyberattaques par l'IA, poussant les grandes entreprises à s'unir pour un renforcement global de la cyberdéfense, tandis que des hausses de prix touchent les services de streaming.\n\nEn France, l'actualité locale se mêle à des réussites sportives éclatantes. Si des histoires humaines touchantes rythment la vie des régions, le sport français brille particulièrement avec des athlètes qui repoussent les limites. Ces performances exceptionnelles, notamment en badminton, offrent une bouffée d'oxygène et illustrent la détermination et l'esprit de dépassement qui animent nos champions.",
-  "running_advice": "Absolument ! Sainte Sabine est une excellente journée pour chausser vos baskets, même avec quelques averses prévues. La température, variant de 18.4°C à 27.1°C, est idéale : ni trop chaud, ni trop froid, parfaite pour maintenir un rythme soutenu sans surchauffe.\n\nAvec un ciel prévoyant des averses (23% de probabilité), cela signifie qu'une bonne partie de la journée sera sèche. Je vous recommande de viser votre sortie en **début de matinée, juste après le lever du soleil à 07:21**, ou en **fin d'après-midi, avant 18h**. Cela vous permettra de profiter des températures plus douces et d'éviter les potentielles averses de fin de journée, tout en bénéficiant de la lumière du jour. L'indice UV est de 5.85, ce qui est modéré à élevé : **une protection solaire est donc INDISPENSABLE !** Crème solaire, casquette et lunettes de soleil sont vos meilleurs alliés. Préparez-vous à transpirer, à vous dépasser et à sentir cette énergie incroyable ! Allez, on y va !",
+  "global_summary": "L'actualité de ce jour est marquée par des débats sociétaux importants, comme l'interdiction des portables au lycée, et des tensions géopolitiques persistantes en Syrie et au Népal. Le monde de la technologie s'inquiète des cyberattaques par l'IA, tandis que le jeu vidéo le plus attendu de l'histoire, GTA 6, continue de faire rêver. Sur le front économique, la rentrée scolaire est à l'honneur avec des comportements d'achat modifiés.\nCôté sport, la France brille avec un doublé historique au championnat du monde de badminton et l'émergence d'une synergie prometteuse entre Wembanyama et Gobert. Des exploits individuels inspirants comme celui de Fanny Barbara à l'UTMB rappellent la puissance du dépassement. Enfin, l'actualité locale reste vive, des célébrations estivales aux défis environnementaux comme les incendies dans les Landes.",
+  "running_advice": "Aujourd'hui, Sainte Sabine nous offre une fenêtre parfaite pour chausser vos baskets ! Avec des températures douces allant de 18.4°C à 27.1°C et seulement 23% de risque d'averses, la météo est idéale pour une session running énergisante. Je vous recommande vivement de sortir soit tôt le matin, juste après le lever du soleil à 07:21, pour profiter de la fraîcheur et d'un UV plus bas, soit en fin d'après-midi, vers 17h00-18h00, avant le coucher à 20:46. Attention, l'indice UV étant à 5.85, n'oubliez pas votre protection solaire, même par temps couvert, et hydratez-vous généreusement. C'est le moment de vous dépasser et de ressentir cette énergie qui vous pousse !",
   "weather_string": "🌦️ Averses (18.4°C / 27.1°C)",
   "weather_stats": {
     "temp": "27.1°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Portables au lycée : pour ou contre l'interdiction ?",
-          "summary": "Un débat crucial sur la place des smartphones dans nos établissements scolaires.",
+          "title": "Interdiction des portables au lycée",
+          "summary": "Un vote crucial relance le débat sur l'usage des smartphones chez les jeunes au lycée.",
           "url": "https://www.dna.fr/format/2026/08/28/que-pensez-vous-de-l-interdiction-des-portables-au-lycee",
           "image": "https://cdn-s-www.dna.fr/images/5B40458D-0AAB-42A6-9AC7-45EE04DF4B87/NW_listB/que-pensez-vous-de-l-interdiction-des-portables-au-lycee-1787939859.jpg"
         },
         {
-          "title": "Syrie : confusion autour d'un meurtre potentiellement anti-chrétien",
-          "summary": "Un acte de \"vengeance\" instrumentalisé soulève des questions au Moyen-Orient.",
+          "title": "Syrie : Meurtre controversé à Homs",
+          "summary": "Confusion et instrumentalisation politique autour d'un acte de violence en Syrie, qualifié d'anti-chrétien.",
           "url": "https://www.france24.com/fr/moyen-orient/20260828-syrie-homs-meurtre-anti-chr%C3%A9tien-confusion-vengeance-instrumentalis%C3%A9-israel",
           "image": "https://s.france24.com/media/display/efbc11e2-a2f6-11f1-bfe9-005056bfb2b6/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-11-2.png"
         },
         {
-          "title": "Crues au Népal : Pékin contrôle l'information et l'accès",
-          "summary": "La Chine impose ses images et boucle la zone sinistrée, suscitant des interrogations.",
+          "title": "Népal : Pékin contrôle l'information",
+          "summary": "Face aux crues au Népal, la Chine impose un strict contrôle médiatique et de ses images.",
           "url": "https://www.la-croix.com/international/crues-au-nepal-cote-chinois-pekin-boucle-la-zone-sinistree-et-impose-ses-images-20260828",
           "image": "https://i.la-croix.com/x/2026/08/28/2521241-le-28-aout-2026-dans-le-comte-de-gyirong-situe-dan.jpg"
         }
@@ -38,20 +38,20 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Chinon : quarante ans d'enseignement pour Marie-Rose Méron",
-          "summary": "Une professeure de musique tire sa révérence après une carrière dédiée à la passion.",
+          "title": "Quarante ans d'enseignement à Chinon",
+          "summary": "Marie-Rose Méron, professeure de musique, prend sa retraite après quatre décennies de dévouement.",
           "url": "https://www.lanouvellerepublique.fr/chinon/a-chinon-la-professeure-de-musique-marie-rose-meron-prend-sa-retraite-apres-quarante-ans-d-enseignement-1787940339",
           "image": "https://images.lanouvellerepublique.fr/image/upload/6a91cdf1f9f37d601e8b458f"
         },
         {
-          "title": "US Chauvigny : nouvelle chance en National 2",
-          "summary": "Le club local est prêt à rebondir avec de nouvelles ambitions pour la saison.",
+          "title": "Chauvigny : Nouvelle chance en National 2",
+          "summary": "L'US Chauvigny est prête à saisir sa nouvelle chance en National 2 avec un esprit conquérant.",
           "url": "https://www.lanouvellerepublique.fr/chauvigny/national-2-j-ai-vu-des-dirigeants-et-des-joueurs-qui-avaient-envie-de-repartir-de-l-avant-une-nouvelle-chance-a-saisir-pour-l-us-chauvigny-1787940333",
           "image": "https://images.lanouvellerepublique.fr/image/upload/6a91cdeb8e0184546d8b4570"
         },
         {
-          "title": "Cameroun : quand le football devient enjeu politique",
-          "summary": "La guerre des clans Eto’o-Mouelle Kombi éclate via le sport national.",
+          "title": "Cameroun : Conflit Eto'o-Mouelle Kombi",
+          "summary": "Le football camerounais est pris dans une guerre de clans politique à la tête de la fédération.",
           "url": "https://www.jeuneafrique.com/1837783/politique/cameroun-etoo-mouelle-kombi-la-guerre-des-clans-par-football-interpose/",
           "image": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=960,fit=cover/https://prod.cdn-medias.jeuneafrique.com/medias/2026/08/26/jad20260826-ass-cameroun-foot-etoo-combi.jpg"
         }
@@ -62,20 +62,20 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Cyberattaques IA : appel mondial à la cyberdéfense",
-          "summary": "Des géants de la tech s'unissent contre la menace croissante des IA malveillantes.",
+          "title": "Cyberdéfense mondiale contre l'IA",
+          "summary": "Cent géants de la tech sonnent l'alarme pour renforcer la cyberdéfense face aux IA.",
           "url": "https://www.epochtimes.fr/cyberattaques-par-lia-cent-grandes-entreprises-technologiques-appellent-a-un-renforcement-mondial-des-mesures-de-cyberdefense-3335562.html",
           "image": "https://images-fr.epochtimes.fr/uploads/2026/08/GettyImages-1231781686.jpg"
         },
         {
-          "title": "\"GTA 6\" : les premières impressions des chanceux sont élogieuses",
-          "summary": "\"Démonstration impressionnante\" et \"excellence cinématographique\" pour le jeu tant attendu.",
+          "title": "GTA 6 : Premiers retours élogieux",
+          "summary": "Les premières impressions sur GTA 6 sont unanimes : une expérience de jeu \"radicalement différente\".",
           "url": "https://www.bfmtv.com/tech/gaming/gta-6-demonstration-impressionnante-experience-radicalement-differente-et-excellence-cinematographique-ce-que-disent-ceux-qui-ont-deja-approche-le-jeu-le-plus-attendu-de-l-histoire_AV-202608280727.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/HXrM2BeDrT7yqVXhh9n17KPZLYk=/0x0:1536x864/800x0/images/Grand-Theft-Auto-VI-2338693.jpg"
         },
         {
-          "title": "Apple TV+ augmente son prix : 14,99 $ par mois",
-          "summary": "Le service de streaming d'Apple ajuste ses tarifs, impactant les abonnés.",
+          "title": "Apple TV+ : augmentation de prix",
+          "summary": "Le service de streaming d'Apple augmente son abonnement à 14,99 $ par mois.",
           "url": "https://fr.qz.com/augmentation-du-prix-du-streaming-apple-tv-1499-082826",
           "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2271847731.jpg"
         }
@@ -86,20 +86,20 @@
       "emoji": "📈",
       "articles": [
         {
-          "title": "Rentrée scolaire : achats de fournitures en baisse malgré les prix",
-          "summary": "Une légère baisse des prix ne suffit pas à relancer les dépenses des ménages.",
+          "title": "Fournitures scolaires : baisse des achats",
+          "summary": "Malgré une légère baisse des prix, les familles réduisent leurs dépenses en fournitures scolaires.",
           "url": "https://www.bfmtv.com/economie/consommation/malgre-une-baisse-des-prix-de-0-6-en-moyenne-cette-annee-les-achats-de-fournitures-scolaires-diminuent_AD-202608280743.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/XsUU0zvCHTeYnGDnDpm51e0yTfo=/0x106:2048x1258/800x0/images/Rentree-scolaire-le-prix-des-fournitures-recule-selon-Familles-de-France-2124151.jpg"
         },
         {
-          "title": "Sigean : dernière soirée estivale au domaine Caccia",
-          "summary": "Un événement local qui marque la fin de la saison estivale avec succès.",
+          "title": "Soirée estivale au Domaine Caccia",
+          "summary": "Sigean a vibré lors de la dernière soirée estivale au magnifique domaine Caccia.",
           "url": "https://www.lindependant.fr/2026/08/28/une-derniere-soiree-estivale-au-domaine-caccia-a-sigean-13527347.php",
           "image": "https://images.lindependant.fr/api/v1/images/view/6a91cda0573bb9edf1084bd3/standard/image.jpg?v=1"
         },
         {
-          "title": "Leucate : succès de la braderie des commerçants du port",
-          "summary": "Un bel afflux de visiteurs pour cette édition de la braderie estivale.",
+          "title": "Braderie réussie à Leucate",
+          "summary": "La braderie des commerçants du port de Leucate a rencontré un vif succès auprès du public.",
           "url": "https://www.lindependant.fr/2026/08/28/beau-succes-a-leucate-pour-la-braderie-des-commercants-du-port-13527345.php",
           "image": "https://images.lindependant.fr/api/v1/images/view/6a91cd934c5f85a5e80a348f/standard/image.jpg?v=1"
         }
@@ -107,35 +107,35 @@
     },
     {
       "label": "Gironde",
-      "emoji": "🇫🇷",
+      "emoji": "📍",
       "articles": [
         {
-          "title": "Les pompiers : un appel à l'écoute après les feux",
-          "summary": "Un dessin interpelle sur l'importance de suivre les consignes de sécurité.",
-          "url": "https://www.sudouest.fr/redaction/le-dessin-du-jour/le-dessin-du-samedi-29-aout-les-pompiers-on-les-ecoute-oui-ou-non-30404246.php",
+          "title": "Landes : L'incendie maîtrisé",
+          "summary": "33 hectares dévastés dans les Landes par un feu finalement maîtrisé après une forte mobilisation.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-dans-les-landes-33-hectares-parcourus-par-un-feu-fixe-en-milieu-de-soiree-une-centaine-de-pompiers-et-une-flotte-d-aeronefs-pour-gagner-cette-lutte-contre-les-flammes-30402898.php",
           "image": ""
         },
         {
-          "title": "Incendie dans les Landes : 33 hectares dévastés, feu fixé",
-          "summary": "Une centaine de pompiers ont lutté toute la nuit pour maîtriser les flammes.",
-          "url": "https://www.sudouest.fr/faits-divers/incendies/incendie-dans-les-landes-33-hectares-parcourus-par-un-feu-fixe-en-milieu-de-soiree-une-centaine-de-pompiers-et-une-flotte-d-aeronefs-pour-gagner-cette-lutte-contre-les-flammes-30402898.php",
+          "title": "Appel des pompiers",
+          "summary": "Un dessin du jour souligne l'importance vitale d'écouter les consignes des services de secours.",
+          "url": "https://www.sudouest.fr/redaction/le-dessin-du-jour/le-dessin-du-samedi-29-aout-les-pompiers-on-les-ecoute-oui-ou-non-30404246.php",
           "image": ""
         }
       ]
     },
     {
-      "label": "Gaming & Divertissement",
+      "label": "Journal du Geek",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Avengers Endgame : comment bien choisir sa séance ?",
-          "summary": "La ressortie événementielle promet des extraits inédits, un guide essentiel.",
+          "title": "Avengers Endgame : une ressortie ?",
+          "summary": "La ressortie d'Avengers Endgame promet des extraits inédits : attention à bien choisir sa séance !",
           "url": "https://www.journaldugeek.com/2026/08/28/avengers-endgame-promet-des-extraits-inedits-de-doomsday-mais-il-y-a-un-hic/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/08/avengers-endgame-ressortie-hic-1280x853.jpg"
         },
         {
-          "title": "Palarticho et Pichu : nouvelle bande-annonce délirante",
-          "summary": "Une série d'animation en pâte à modeler dévoile une aventure prometteuse et unique.",
+          "title": "Palarticho & Pichu : Nouvelle bande-annonce",
+          "summary": "Découvrez la bande-annonce d'une nouvelle série d'animation en pâte à modeler avec Palarticho et Pichu.",
           "url": "https://www.journaldugeek.com/2026/08/28/les-mesaventures-de-palarticho-et-pichu-une-nouvelle-bande-annonce-sur-la-prochaine-serie-danimation-en-pate-a-modeler-vient-de-tomber/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/08/Capture-decran-2026-08-28-111012-1280x708.jpg"
         }
@@ -143,23 +143,23 @@
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "Alex Lanier, champion du monde de badminton historique",
-          "summary": "Le premier Français sacré en simple, une victoire mémorable pour le sport tricolore.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/le-double-pour-les-bleus-du-badminton-alex-lanier-devient-le-tout-premier-champion-francais-en-simple_AV-202608230194.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Gh2os88sDm6xzO62uQ9gzAkU1hA=/0x101:2048x1253/800x0/images/Alex-Lanier-aux-championnats-du-monde-de-badminton-le-21-aout-2026-2335288.jpg"
+          "title": "Badminton : Doublé français historique !",
+          "summary": "Alex Lanier et la paire Gicquel-Delrue sont sacrés champions du monde, une \"journée de dingue\" pour le badminton français.",
+          "url": "https://rmcsport.bfmtv.com/societe/video-badminton-un-journee-de-dingue-lanier-et-la-paire-gicquel-delrue-champions-du-monde_VN-202608230288.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/67Vi4Dk5mSCmSfBE9JoD7tu_5vA=/0x0:1280x720/800x0/images/Badminton-Un-journee-de-dingue-Lanier-et-la-paire-Gicquel-Delrue-champions-du-monde-2335626.jpg"
         },
         {
-          "title": "Gobert et Wembanyama : une synergie unique en basket",
-          "summary": "Rudy Gobert évoque l'entente exceptionnelle avec Victor Wembanyama, futur des Bleus.",
+          "title": "Wembanyama-Gobert : synergie unique",
+          "summary": "Rudy Gobert salue la synergie \"unique\" avec Victor Wembanyama, promettant de belles performances pour les Bleus.",
           "url": "https://rmcsport.bfmtv.com/basket/video-quand-on-est-en-synergie-c-est-unique-rudy-gobert-revient-sur-son-duo-avec-victor-wembanyama_VN-202608280235.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Y12JXFe1YkTjWGtj4qyBfWL_Y_c=/0x0:1280x720/800x0/images/Quand-on-est-en-synergie-c-est-unique-Rudy-Gobert-revient-sur-son-duo-avec-Victor-Wembanyama-2338390.jpg"
         },
         {
-          "title": "Fanny Barbara : l'incroyable exploit de l'UTMB",
-          "summary": "Courir le trail mythique avec un poumon en moins, un exemple de résilience inspirant.",
+          "title": "L'exploit de Fanny Barbara à l'UTMB",
+          "summary": "Avec un poumon en moins, Fanny Barbara réalise l'incroyable exploit de courir l'UTMB, une leçon de courage.",
           "url": "https://rmcsport.bfmtv.com/athletisme/video-courir-l-utmb-avec-un-poumon-en-moins-l-exploit-de-fanny-barbara_VN-202608270265.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5SzHXK98g_9cEtAPSxSXcgqOjpM=/0x0:1280x720/800x0/images/Courir-l-UTMB-avec-un-poumon-en-moins-l-exploit-de-Fanny-Barbara-2337769.jpg"
         }
