@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Saint Fiacre",
+  "global_summary": "L'actualité mondiale nous emmène entre la solennité d'un nouveau roi norvégien et les tensions géopolitiques persistantes autour du conflit ukrainien, soulignant la complexité des enjeux internationaux. En France, un hommage poignant contraste avec la vivacité de la scène culturelle locale et l'émergence de jeunes talents sportifs en Ligue 1. \nDu côté de la technologie, l'innovation est à l'honneur avec des avancées majeures dans l'IA signées Apple, tandis que le monde des affaires navigue entre d'importantes provisions financières et la volatilité des marchés. Le sport, quant à lui, célèbre des exploits historiques en badminton et des performances athlétiques record, nous rappelant le pouvoir du dépassement de soi et l'inspiration du succès.",
+  "running_advice": "Attention, champion ! La météo du jour nous promet des averses entre 18.4°C et 23.2°C. Pas de quoi nous arrêter, n'est-ce pas ? C'est le moment idéal pour une séance dynamique sous la pluie, qui rafraîchit et donne un sentiment de liberté incroyable. Visez une sortie après 18h00, quand le soleil commence à descendre et que l'ambiance devient plus douce, sans pour autant manquer de luminosité avant 20h44. Et attention, avec un indice UV à 5.15, même par temps couvert, la protection solaire reste de mise ! Hydratez-vous bien et affrontez les éléments : chaque goutte de pluie est une goutte de motivation en plus !",
+  "weather_string": "🌦️ Averses (18.4°C / 23.2°C)",
+  "weather_stats": {
+    "temp": "23.2°C",
+    "rain": "68%",
+    "uv": "5.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Curling au Colisée : Une Première Glaciale",
+          "summary": "Rome offre une scène inédite pour le curling, transformant le Colisée en arène sportive éphémère.",
+          "url": "https://www.franceinfo.fr/monde/italie/jouer-au-curling-au-pied-du-colisee-une-experience-inedite_8166599.html",
+          "image": "https://www.franceinfo.fr/pictures/PssLXH1HTfsYNuQiSmMMBPmO7X4/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/08/28/6a9188e4bb801636874565.jpg"
+        },
+        {
+          "title": "Norvège : Haakon VIII, Nouveau Roi, Premier Discours",
+          "summary": "Le prince Haakon VIII accède au trône norvégien, prononçant un discours poignant en mémoire de son père.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/29/le-nouveau-roi-de-norvege-haakon-viii-prononce-son-premier-discours-officiel-en-memoire-de-son-pere-defunt_6760234_3210.html",
+          "image": "https://img.lemde.fr/2026/08/29/541/0/6494/3247/1342/671/60/0/71bc228_ftp-1-d7njy7mczsrr-5947501-01-06.jpg"
+        },
+        {
+          "title": "Ukraine : Tensions Diplomatiques et Réunion Cruciale",
+          "summary": "Kiev convoqué par Ankara, Poutine rencontre leaders iraniens et chinois sur la crise ukrainienne.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4241634-20260829-guerre-ukraine-ambassadeur-kiev-convoque-ankara-poutine-face-dirigeants-iraniens-chinois",
+          "image": "https://img.20mn.fr/0qTfDwSQQNe6UYsbtEgJik/1200x768_les-secouristes-ukrainiens-s-efforcent-d-eteindre-un-incendie-dans-un-centre-commercial-endommage-a-la-suite-d-une-attaque-aerienne-a-zaporizhzhia-le-28-aout-2026-dans-le-cadre-de-l-invasion-russe-de-l-ukraine-photo-de-darya-nazarova-afp"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Hommage Émouvant à Sabrina à Chalon-sur-Saône",
+          "summary": "Un hommage poignant a réuni la communauté pour se souvenir de Sabrina, disparue tragiquement.",
+          "url": "https://www.lejsl.com/faits-divers-justice/2026/08/29/hommage-a-sabrina-a-chaque-pas-que-nous-ferons-tu-marcheras-avec-nous",
+          "image": "https://cdn-s-www.lejsl.com/images/028D6E82-4E4C-4553-973B-6C15D89B1BB5/MF_contenu/hommage-a-sabrina-a-chaque-pas-que-nous-ferons-tu-marcheras-avec-nous-1788028287.jpg"
+        },
+        {
+          "title": "Ligue 1 : Charlie Cresswell, la Pépite Rennaise",
+          "summary": "Rennes accueille Charlie Cresswell, jeune talent prometteur qui pourrait marquer la Ligue 1.",
+          "url": "https://www.lanouvellerepublique.fr/sports/ligue-1-charlie-cresswell-la-nouvelle-pepite-de-rennes-1788026730",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a931f688e018487688b4586"
+        },
+        {
+          "title": "Châteaudun : Succès pour l'Expo des Artistes Euréliens",
+          "summary": "Plus de 700 visiteurs ont déjà découvert l'exposition estivale des artistes locaux à Châteaudun.",
+          "url": "https://www.lechorepublicain.fr/chateaudun-28200/loisirs/deja-plus-de-700-visiteurs-a-l-exposition-estivale-des-artistes-eureliens-a-chateaudun_15038344/",
+          "image": "https://img.centrefrance.com/u3FGg9NfLDTxS0S9xmGqZ-XxCSgnoJ3_7am3iJ69wcw/rs:auto:1200:800:1:0/g:sm/bG9jYWw6Ly8vMDAvMDAvMDcvNzkvOTIvMjAwMDAwNzc5OTI5NQ.webp"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Apple : Mac Mini et Studio boostés à l'IA M6/M5 Ultra",
+          "summary": "Apple lance de nouveaux Mac Mini et Studio avec puces M6/M5 Ultra, optimisés pour l'IA locale.",
+          "url": "https://intelligence-artificielle.developpez.com/actu/386586/Apple-annonce-de-nouveaux-modeles-de-Mac-Mini-et-Mac-Studio-optimises-pour-le-developpement-et-l-inference-de-l-IA-en-local-et-dotes-des-puces-de-derniere-generation-M6-et-M5-Ultra/",
+          "image": "https://www.developpez.com/images/logos/apple.png"
+        },
+        {
+          "title": "Récap' Survoltés : Panneaux, Batteries et Rebirth",
+          "summary": "Un point sur Rebirth, les panneaux solaires en feu et les innovations en batteries électriques.",
+          "url": "https://www.frandroid.com/survoltes/3225413_rebirth-qui-refuse-de-plier-panneaux-solaires-en-feu-et-batteries-au-banc-dessai-le-recap-survoltes",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/09/usine-rebirth-1.jpeg?resize=1600,900&key=e609bbc5"
+        },
+        {
+          "title": "Doubs : Grêlons Géants Détruisent 50 Voitures",
+          "summary": "Des grêlons de la taille de mandarines ont causé d'importants dégâts matériels dans le Doubs.",
+          "url": "https://www.autoplus.fr/actualite/insolite/doubs-des-grelons-gros-comme-des-mandarines-detruisent-50-voitures-1463644.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/08/captura-de-pantalla-2026-08-29-a-las-17.00.09.png"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Glencore : 480 M$ de Provision sur Radiant World",
+          "summary": "Glencore annonce une provision majeure de 480 millions de dollars liée à Radiant World.",
+          "url": "https://fr.investing.com/news/stock-market-news/glencore-provisionne-480-millions--sur-son-exposition-a-radiant-world-3577488",
+          "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
+        },
+        {
+          "title": "Bessent Alerte sur le Yen et Risques Mondiaux",
+          "summary": "Bessent met en garde contre la forte volatilité du yen, source de risques économiques globaux.",
+          "url": "https://fr.investing.com/news/economy-news/bessent-met-en-garde-contre-la-volatilite-du-yen-et-ses-risques-mondiaux-3577486",
+          "image": "https://content-media.investing.com/news/JapaneseYen_M_1440047753.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🍷",
+      "articles": [
+        {
+          "title": "Chasse sous Tension après Été Sec et Incendies",
+          "summary": "L'ouverture de la chasse en Gironde se fait dans un climat tendu post-incendies et sécheresse.",
+          "url": "https://www.sudouest.fr/environnement/chasse/une-ouverture-de-la-chasse-sous-haute-tension-apres-un-ete-marque-par-les-incendies-et-la-secheresse-30382598.php",
+          "image": null
+        },
+        {
+          "title": "Biscarrosse : Ivre, il Pericute Trois Voitures",
+          "summary": "Un homme en état d'ivresse a percuté plusieurs véhicules à Biscarrosse, placé en détention.",
+          "url": "https://www.sudouest.fr/landes/biscarrosse/landes-un-homme-ivre-percute-trois-voitures-a-biscarrosse-et-atterrit-en-detention-provisoire-30413871.php",
+          "image": null
+        },
+        {
+          "title": "Tarnos Victime d'une Cyberattaque avec Rançon",
+          "summary": "La commune de Tarnos fait face à une cyberattaque perturbant ses services et exigeant une rançon.",
+          "url": "https://www.sudouest.fr/landes/tarnos/landes-la-ville-de-tarnos-victime-d-une-cyberattaque-avec-demande-de-rancon-30413165.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🤓",
+      "articles": [
+        {
+          "title": "7 Espèces en Danger : Histoires qui Touchent",
+          "summary": "Découvrez 7 espèces menacées, leurs histoires poignantes alertant sur leur disparition imminente.",
+          "url": "https://www.journaldugeek.com/2026/08/29/7-especes-en-danger-critique-dont-les-histoires-vont-vous-briser-le-coeur/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/animaux-danger-critique-extinction-especes-menacees-1280x853.jpeg"
+        },
+        {
+          "title": "Vols : Économisez 150€ avec cette Méthode Secrète",
+          "summary": "Une astuce méconnue permet d'économiser jusqu'à 150€ sur vos prochains billets d'avion.",
+          "url": "https://www.journaldugeek.com/2026/08/29/economisez-150-e-sur-vos-prochains-vols-la-methode-cachee-que-les-compagnies-ne-veulent-pas-que-vous-sachiez/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/billet-avion-hidden-city-ticketing-aeroport-1-1280x853.jpeg"
+        },
+        {
+          "title": "Grande Barrière de Corail : Un Paysage Oublié Refait Surface",
+          "summary": "Une découverte fascinante révèle un ancien paysage submergé sous la Grande Barrière de corail.",
+          "url": "https://www.journaldugeek.com/2026/08/29/sous-la-grande-barriere-de-corail-un-ancien-paysage-oublie-refait-surface/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/csiro-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Badminton Français : Alex Lanier Champion du Monde !",
+          "summary": "Alex Lanier devient le premier Français champion du monde en simple, exploit historique pour le badminton.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/le-double-pour-les-bleus-du-badminton-alex-lanier-devient-le-tout-premier-champion-francais-en-simple_AV-202608230194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Gh2os88sDm6xzO62uQ9gzAkU1hA=/0x101:2048x1253/800x0/images/Alex-Lanier-aux-championnats-du-monde-de-badminton-le-21-aout-2026-2335288.jpg"
+        },
+        {
+          "title": "Athlétisme Zurich : Pluie de Records Mondiaux",
+          "summary": "Le meeting de Zurich a été le théâtre de performances exceptionnelles et de nouveaux records mondiaux.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-pluie-de-records-du-monde-et-de-performances-exceptionnelles-a-zurich_AD-202608270847.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/y90g2ANsDTBoFUqbUTcO6A5KSF4=/0x212:2048x1364/800x0/images/Armand-Duplantis-et-Emmanouil-Karalis-le-21-mars-2026-2282491.jpg"
+        },
+        {
+          "title": "NBA : James Harden Signe aux Cavaliers à 37 Ans",
+          "summary": "James Harden, 37 ans, signe un contrat colossal avec les Cleveland Cavaliers en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-a-37-ans-james-harden-signe-un-enorme-nouveau-contrat-avec-les-cleveland-cavaliers_AD-202608200571.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/LTTvz3LxCAIBv1qkspqOrtzSA6U=/0x0:2048x1152/800x0/images/J-Harden-2291781.jpg"
+        }
+      ]
+    }
+  ]
+}
