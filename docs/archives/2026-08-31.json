@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Aristide",
+  "global_summary": "La scène mondiale est marquée par des développements variés : de l'influence surprenante des chiens dans le monde de la mode aux conséquences diplomatiques du rejet islandais des négociations d'adhésion à l'UE, sans oublier les défis posés par les catastrophes naturelles et les menaces légales. En France, l'actualité oscille entre de tragiques naufrages et le dynamisme des initiatives locales en matière de transport. \nL'innovation technologique continue de susciter l'intérêt, notamment avec des discussions sur la fiabilité des moteurs automobiles et l'émergence de nouveaux gadgets. Sur le plan économique et social, les changements apportés à MaPrimeRénov' et les débats sur l'impact des travailleurs frontaliers sont au cœur des préoccupations. Le sport, quant à lui, est à la fois célébré pour ses records et assombri par des affaires judiciaires impliquant d'anciens athlètes, ainsi que par la frustration de Wembanyama concernant son absence des Bleus.",
+  "running_advice": "Aujourd'hui, c'est une EXCELLENTE journée pour chausser vos baskets et vous dépasser ! Avec des températures idéales entre 17°C et 26°C et un ciel peu nuageux, les conditions sont optimales pour une performance revigorante. Pour profiter au maximum sans risquer les fortes chaleurs de la mi-journée, visez votre run entre 07h23 et 10h00 ou après 17h00 jusqu'au coucher du soleil à 20h42. Attention, l'indice UV de 6.2 est modéré à élevé : une protection solaire (crème, casquette, lunettes) est INDISPENSABLE ! N'oubliez pas de bien vous hydrater avant, pendant, et après l'effort. Allez, on lâche rien, chaque foulée compte et vous rapproche de vos objectifs !",
+  "weather_string": "🌤️ Peu nuageux (17°C / 26°C)",
+  "weather_stats": {
+    "temp": "26°C",
+    "rain": "3%",
+    "uv": "6.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Mode et Canins : La Nouvelle Vague ?",
+          "summary": "Une tendance surprenante voit les chiens inspirer la mode, questionnant leur rôle futur dans l'industrie du luxe.",
+          "url": "https://www.courrierinternational.com/stories/video-dogue-ou-vogue-les-chiens-sauveront-ils-la-mode_264036",
+          "image": "https://focus.courrierinternational.com/2026/08/27/0/0/2475/3300/644/0/60/0/9972018_upload-1-itawures4klw-canine-cuisine-3.jpg"
+        },
+        {
+          "title": "L'Islande dit Non à l'UE : Revers pour Bruxelles",
+          "summary": "Le refus islandais de poursuivre les négociations d'adhésion est perçu comme un coup dur pour l'Union Européenne.",
+          "url": "https://www.lemonde.fr/international/article/2026/08/30/a-bruxelles-le-non-islandais-aux-negociations-d-adhesion-a-l-ue-est-percu-comme-un-revers_6761561_3210.html",
+          "image": "https://img.lemde.fr/2026/08/30/459/0/5500/2750/1342/671/60/0/792c3b9_ftp-1-8zhznxkmo65p-2026-08-30t132119z-503976770-rc219nad7jsz-rtrmadp-3-iceland-eu.JPG"
+        },
+        {
+          "title": "Pyrénées : La Sauvagerie Allemande",
+          "summary": "Des visiteurs allemands partagent leur surprise face à la nature \"sauvage\" des Pyrénées, offrant une perspective unique.",
+          "url": "https://www.courrierinternational.com/article/vu-d-allemagne-nous-n-avions-pas-imagine-les-pyrenees-aussi-sauvages_251297",
+          "image": "https://focus.courrierinternational.com/2026/08/10/0/0/5315/3543/644/0/60/0/6c2d837_upload-1-riia5lmnnbqs-043-aurimages-0044494-0098.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Naufrage en Manche : Deux Marins Disparus",
+          "summary": "Le récit poignant du naufrage du chalutier Maranello en Manche, laissant deux marins portés disparus.",
+          "url": "https://www.letelegramme.fr/cotes-d-armor/saint-quay-portrieux-22410/je-suis-sous-le-choc-le-recit-du-naufrage-en-manche-du-maranello-un-chalutier-briochin-ayant-entraine-la-disparition-de-deux-marins-7107650.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a948d546f6903dbe9092190/web_golden_xxl/6a948d546f6903dbe9092190.1"
+        },
+        {
+          "title": "Un Réseau de Bus Rural Développé en Loire-Atlantique",
+          "summary": "Une intercommunalité innove en déployant un réseau de bus en zone rurale, améliorant l'accès aux services.",
+          "url": "https://actu.fr/pays-de-la-loire/clisson_44043/situe-en-zone-rurale-en-loire-atlantique-cette-intercommunalite-developpe-un-reseau-de-bus_64724271.html",
+          "image": "https://static.actu.fr/uploads/2026/08/519b4f930b8a6a59b4f930b8ac99b4v-1024x557.jpg"
+        },
+        {
+          "title": "Football : Kaltenhouse Se Rassure en Coupe",
+          "summary": "Victoire en Coupe de France pour Kaltenhouse contre Hunspach, une performance rassurante pour l'équipe.",
+          "url": "https://www.dna.fr/sport/2026/08/30/kaltenhouse-se-rassure-en-coupe-de-france-contre-hunspach",
+          "image": "http://cdn-files.prsmedia.fr/files/DNA/fr/images/DNA_placeholder.png"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "⚙️",
+      "articles": [
+        {
+          "title": "Plaud One : Le Futur de la Prise de Notes",
+          "summary": "Le nouveau Plaud One promet d'aller encore plus loin pour transcrire et organiser vos pensées efficacement.",
+          "url": "https://www.journaldugeek.com/2026/08/31/le-nouveau-plaud-one-va-encore-plus-loin-pour-prendre-des-notes-a-votre-place/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/plaud-one-1-1280x853.jpg"
+        },
+        {
+          "title": "Voitures Chinoises : Difficultés d'Assurance",
+          "summary": "De nombreux véhicules chinois rencontrent des obstacles pour trouver des assureurs sur le marché actuel.",
+          "url": "https://www.journaldugeek.com/2026/08/31/des-voitures-chinoises-ont-du-mal-a-trouver-un-assureur/",
+          "image": "https://www.journaldugeek.com/app/uploads/2023/08/lucid-air-sapphire.jpg"
+        },
+        {
+          "title": "Moteur Puretech : Fiabilité en Question",
+          "summary": "Le moteur Puretech, autrefois jugé fiable, fait désormais l'objet de nouvelles interrogations sur sa durabilité.",
+          "url": "https://www.caradisiac.com/dans-un-passe-pas-si-lointain-le-moteur-puretech-aurait-ete-considere-comme-fiable-et-voici-pourquoi-223769.htm",
+          "image": "https://images.caradisiac.com/logos/5/7/5/6/295756/S4-dans-un-passe-pas-si-lointain-le-moteur-puretech-aurait-ete-considere-comme-fiable-et-voici-pourquoi-223769.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Société",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "MaPrimeRénov' : Les Règles Changent Encore",
+          "summary": "De nouvelles modifications impactent les conditions d'accès à l'aide gouvernementale MaPrimeRénov'.",
+          "url": "https://www.ledauphine.com/societe/2026/08/30/les-regles-changent-encore-pour-maprimerenov",
+          "image": "http://cdn-files.prsmedia.fr/files/LDL/fr/images/LDL_placeholder.png"
+        },
+        {
+          "title": "Rentrée 2026 : Nouveaux Bus à Vannes",
+          "summary": "La ville de Vannes annonce des nouveautés et améliorations sur ses lignes de bus pour la rentrée 2026.",
+          "url": "https://www.letelegramme.fr/morbihan/vannes-56000/voici-les-nouveautes-de-la-rentree-2026-sur-les-lignes-de-bus-de-vannes-7107306.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6a941e63e6ca8e9a7d098db8/web_golden_xxl/6a941e63e6ca8e9a7d098db8.1"
+        },
+        {
+          "title": "Frontaliers : Plus Riches que le Tourisme",
+          "summary": "Jean-Pierre Robin affirme que les travailleurs frontaliers rapportent deux fois plus à la France que le tourisme.",
+          "url": "https://www.lefigaro.fr/conjoncture/jean-pierre-robin-nos-travailleurs-frontaliers-rapportent-deux-fois-plus-d-argent-a-la-france-que-le-tourisme-20260830",
+          "image": "https://i.f1g.fr/media/cms/1200x_cropupscale/2026/08/30/da4ba0c2ebd8d60b5d008158a0949c956007908bc7c8954c9d06f2a14229d914.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama Frustré : Absence des Bleus",
+          "summary": "Victor Wembanyama exprime sa \"grosse frustration\" de manquer l'équipe de France pendant un an.",
+          "url": "https://rmcsport.bfmtv.com/basket/la-grosse-frustration-de-victor-wembanyama-qui-ne-retrouvera-pas-l-equipe-de-france-avant-un-an_AV-202608300416.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/q0WloHczT01Pu00LogbSH4U6wLA=/0x106:2048x1258/800x0/images/Victor-Wembanyama-avec-les-Bleus-contre-la-Serbie-le-23-aout-2026-2337286.jpg"
+        },
+        {
+          "title": "Athlétisme : Pluie de Records à Zurich",
+          "summary": "Zurich a été le théâtre de records du monde et de performances exceptionnelles, marquant l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-pluie-de-records-du-monde-et-de-performances-exceptionnelles-a-zurich_AD-202608270847.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/y90g2ANsDTBoFUqbUTcO6A5KSF4=/0x212:2048x1364/800x0/images/Armand-Duplantis-et-Emmanouil-Karalis-le-21-mars-2026-2282491.jpg"
+        },
+        {
+          "title": "Anciens Athlètes Condamnés : Affaire Éthique",
+          "summary": "Après un médaillé britannique, trois autres athlètes écopent de condamnations pour des faits similaires.",
+          "url": "https://rmcsport.bfmtv.com/societe/apres-l-incarceration-d-un-ancien-medaille-britannique-trois-autres-athletes-condamnes-pour-les-memes-faits_AN-202608280819.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/egU1XJP3r7thexCMQB12jXhy2TM=/0x64:2048x1216/800x0/images/Leon-Baptiste-lors-des-Jeux-du-Commonwealth-en-2010-2338833.jpg"
+        }
+      ]
+    }
+  ]
+}
