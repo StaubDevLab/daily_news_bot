@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Sainte Ingrid",
+  "global_summary": "L'actualité mondiale est marquée par des tensions géopolitiques avec l'Allemagne accusant la Russie d'une tentative d'attentat, tandis que l'énigme du meurtre de Chevaline rebondit avec la découverte d'une arme. En France, la scène politique s'anime avec l'annonce de l'engagement de Natacha Polony, et la rentrée scolaire est mise en lumière par des initiatives locales de soutien. Une histoire de \"Modern Love\" nous plonge aussi dans les complexités des relations humaines.\n\nSur le front technologique, Sonos innove avec sa nouvelle barre de son et l'IA bouleverse la détection de vulnérabilités Linux, tout en alertant sur une vague d'arnaques. Côté économie, le Sénégal obtient un soutien financier crucial du FMI, tandis que le monde du sport vibre avec la frustration de Wembanyama, le duel passionnant Duplantis-Karalis en athlétisme, et un contrat NBA impressionnant pour James Harden. La rentrée est également marquée par un retour à la normale dans des régions sinistrées par les incendies.",
+  "running_advice": "Chers champions, avec des températures idéales (14.5°C à 27.3°C) et un ciel peu nuageux, c'est une journée parfaite pour enchaîner les kilomètres ! L'absence totale de pluie est un véritable cadeau. Pour une course optimale, je vous recommande vivement de privilégier la première partie de la matinée, juste après le lever du soleil à 07:26, ou le début de soirée, environ une heure avant le coucher à 20:38. Ces créneaux vous offriront une fraîcheur bienvenue. Et n'oubliez pas : avec un indice UV de 6.2, la protection solaire est votre meilleure alliée ! Crème, casquette et lunettes de soleil sont indispensables. Hydratez-vous et courez vers vos objectifs, la réussite est à portée de foulée !",
+  "weather_string": "🌤️ Peu nuageux (14.5°C / 27.3°C)",
+  "weather_stats": {
+    "temp": "27.3°C",
+    "rain": "0%",
+    "uv": "6.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "L'Amour de ma Vie : un mensonge pour le quitter",
+          "summary": "Une confession déchirante sur les raisons complexes d'une rupture, explorant les zones d'ombre de l'amour.",
+          "url": "https://www.courrierinternational.com/article/modern-love-j-ai-menti-a-l-amour-de-ma-vie-pour-le-quitter_236929_1",
+          "image": "https://focus.courrierinternational.com/2025/11/07/0/0/1721/2048/644/0/60/0/e95e9bd_upload-1-8zeig2fymieh-26st-modern-adem-superjumbo.jpg"
+        },
+        {
+          "title": "Mystère de Chevaline : un pistolet relance l'enquête",
+          "summary": "La découverte d'une arme dans le lac d'Annecy pourrait enfin élucider le quadruple meurtre non résolu.",
+          "url": "https://www.vosgesmatin.fr/faits-divers-justice/2026/09/01/chevaline-qu-attendre-du-pistolet-retrouve-dans-le-lac-d-annecy",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/D4E92364-E6AA-43B5-B944-601C33F218F2/NW_listB/chevaline-qu-attendre-du-pistolet-retrouve-dans-le-lac-d-annecy-1788290108.jpg"
+        },
+        {
+          "title": "L'Allemagne accuse la Russie de tentative d'attentat",
+          "summary": "Berlin pointe du doigt Moscou pour une tentative d'attentat à Leipzig, intensifiant les tensions géopolitiques.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/01/l-allemagne-accuse-la-russie-d-avoir-pilote-une-tentative-d-attentat-a-leipzig_6763526_3210.html",
+          "image": "https://img.lemde.fr/2026/09/01/377/0/7958/3979/1342/671/60/0/4c7a589_ftp-1-mssmhqagt2e1-5970478-01-06.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Natacha Polony : une journaliste se lance en politique",
+          "summary": "La journaliste et essayiste Natacha Polony confirme son engagement en politique, marquant un tournant.",
+          "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-je-me-lance-en-politique-reaffirme-natacha-polony-journaliste-et-essayiste_VN-202609010866.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JwKKSLYyx74ePpsT_VJSt2weGr0=/0x0:1280x720/800x0/images/Je-me-lance-en-politique-reaffirme-Natacha-Polony-journaliste-et-essayiste-2340700.jpg"
+        },
+        {
+          "title": "Rentrée à Rocbaron : un principal engagé pour ses équipes",
+          "summary": "À Rocbaron, le principal soutient activement élèves et professeurs pour une rentrée scolaire sereine.",
+          "url": "https://www.nicematin.com/societe/education/a-rocbaron-le-principal-du-college-se-porte-au-soutien-des-eleves-et-des-profs-lors-de-la-rentree-scolaire-10715789",
+          "image": "https://assets.nicematin.com/articles/10/71/57/89/OG-10715789-1200-800-6d41f69_ftp-1-mz0uiwtwse4l-brixxq501-ra-rentree-scolaire-college-rocbaron-lycee-raynouard-college-le-luc.jpg"
+        },
+        {
+          "title": "Tennis : Comesana bat Cobolli dans un duel intense",
+          "summary": "Comesana s'impose face à Cobolli après un match disputé, prenant l'avantage dans la compétition.",
+          "url": "https://www.eurosport.fr/tennis/us-open/2026/us-open-2026-comesana-fait-plier-cobolli-dans-un-echange-de-costauds-et-prend-les-devants_vid60096423/video.shtml",
+          "image": "https://i.eurosport.com/2026/09/01/image-143dc5e7-7409-4db1-9310-24223ad6b1cb-68-310-310.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Sonos Beam Ultra : la barre de son passe au 7.1.2",
+          "summary": "Sonos révolutionne sa barre de son Beam Ultra, offrant une expérience audio immersive en 7.1.2.",
+          "url": "https://www.lesnumeriques.com/barre-de-son/beam-ultra-fini-la-virtualisation-sonos-fait-passer-sa-barre-de-son-intermediaire-au-7-1-2-n261230.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/26/261230/0abd9a6d-sonos__800_800__1103-612-4886-4395.jpg"
+        },
+        {
+          "title": "Arnaques aux faux conseillers : la Caisse des Dépôts alerte",
+          "summary": "La Caisse des Dépôts met en garde contre une recrudescence d'escroqueries, incitant à la vigilance maximale.",
+          "url": "https://www.generation-nt.com/actualites/arnaque-caisse-depots-fraude-conseillers-phishing-escroquerie-2080463",
+          "image": "https://img.generation-nt.com/parler_04B002A301716502.webp"
+        },
+        {
+          "title": "Linux face à une avalanche de vulnérabilités IA-détectées",
+          "summary": "L'IA détecte un record de failles Linux, submergeant les mainteneurs mais renforçant la sécurité du noyau.",
+          "url": "https://linux.developpez.com/actu/386705/Linux-approche-du-record-de-2-000-vulnerabilites-corrigees-par-version-les-outils-d-IA-scrutent-les-40-millions-de-lignes-de-code-du-noyau-laissant-les-mainteneurs-submerges-par-l-afflux-de-CVE/",
+          "image": "https://www.developpez.com/images/logos/linux.png"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Finance",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Espalion : fin de saison pour les marchés de producteurs",
+          "summary": "Les marchés locaux d'Espalion clôturent leur saison, soulignant l'importance du circuit court.",
+          "url": "https://www.centrepresseaveyron.fr/2026/09/01/clap-de-fin-pour-les-marches-de-producteurs-de-pays-13531497.php",
+          "image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6a971b9b6ebdcab8df017490/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Sénégal : accord FMI de 2,2 milliards, dette restructurée",
+          "summary": "Le FMI débloque des fonds majeurs pour le Sénégal, qui s'engage à restructurer sa dette nationale.",
+          "url": "https://www.jeuneafrique.com/1839414/economie-entreprises/senegal-le-fmi-ouvre-la-voie-a-22-milliards-de-dollars-dakar-accepte-de-restructurer-sa-dette/",
+          "image": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=960,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2026/09/01/jad20260901-eco-senegal-visite-fmi.jpg"
+        },
+        {
+          "title": "Marché Adonis de Sauvé : un nouveau souffle commercial",
+          "summary": "Le Marché Adonis de Sauvé connaît un regain d'activité, promettant un avenir prospère pour le commerce local.",
+          "url": "http://www.businesswire.com/news/home/20260901234212/fr/",
+          "image": "https://mms.businesswire.com/media/20260901234212/fr/2887312/21/Adonis-Magasin_Sauve.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualité Régionale",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Tragédie à Oléron : un baigneur perd la vie",
+          "summary": "Un baigneur décède au large de Saint-Georges-d'Oléron, rappelant les dangers de la mer.",
+          "url": "https://www.sudouest.fr/charente-maritime/ile-d-oleron/ile-d-oleron-un-baigneur-meurt-au-large-de-saint-georges-d-oleron-30451838.php",
+          "image": null
+        },
+        {
+          "title": "Incendie à Villeneuve-sur-Lot : un septuagénaire blessé",
+          "summary": "Un septuagénaire a été hospitalisé suite à un incendie dans son appartement de Villeneuve-sur-Lot.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/villeneuve-sur-lot/incendie-dans-un-appartement-a-villeneuve-sur-lot-un-septuagenaire-transporte-a-l-hopital-30451897.php",
+          "image": null
+        },
+        {
+          "title": "Rentrée à Biscarrosse : la normalité après les incendies",
+          "summary": "Après un été marqué par les flammes, la rentrée scolaire à Biscarrosse marque un retour très attendu à la normale.",
+          "url": "https://www.sudouest.fr/landes/biscarrosse/rentree-scolaire-a-biscarrosse-un-retour-a-la-normale-tres-attendu-par-les-parents-et-leurs-enfants-apres-les-incendies-de-l-ete-30443964.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Gadgets & Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "John Ternus : les défis majeurs du nouveau CEO Apple",
+          "summary": "Le nouveau PDG d'Apple, John Ternus, doit relever deux défis cruciaux pour l'avenir de la marque.",
+          "url": "https://www.journaldugeek.com/2026/09/02/john-ternus-voici-les-2-grands-defis-qui-attendent-le-nouveau-ceo-dapple/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/john-ternus-nouveau-patron-apple-anecdotes-2026-1280x853.jpeg"
+        },
+        {
+          "title": "Atlas : un coach mental révolutionnaire derrière l'oreille",
+          "summary": "Découvrez Atlas, un gadget innovant qui offre un soutien mental discret, améliorant concentration et bien-être.",
+          "url": "https://www.journaldugeek.com/2026/09/02/atlas-un-coach-mental-planque-derriere-loreille/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/atlas-1280x853.jpg"
+        },
+        {
+          "title": "Sonos booste ses produits : Ace et Beam améliorés",
+          "summary": "Sonos renforce sa gamme avec des mises à jour pour son casque Ace et sa célèbre barre de son Beam.",
+          "url": "https://www.journaldugeek.com/2026/09/02/sonos-muscle-son-casque-ace-et-sa-barre-de-son-beam/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/sonos-ace-ultra-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama frustré : pas d'équipe de France avant un an",
+          "summary": "Victor Wembanyama exprime sa déception de ne pas retrouver l'équipe de France de basket avant un an.",
+          "url": "https://rmcsport.bfmtv.com/basket/la-grosse-frustration-de-victor-wembanyama-qui-ne-retrouvera-pas-l-equipe-de-france-avant-un-an_AV-202608300416.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/q0WloHczT01Pu00LogbSH4U6wLA=/0x106:2048x1258/800x0/images/Victor-Wembanyama-avec-les-Bleus-contre-la-Serbie-le-23-aout-2026-2337286.jpg"
+        },
+        {
+          "title": "Athlétisme : Duplantis et Karalis enflamment la perche",
+          "summary": "Le duel au sommet entre Duplantis et Karalis propulse le saut à la perche vers de nouveaux records.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-duplantis-karalis-le-duel-qui-fait-decoller-la-perche_AV-202608290268.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/J42L2h8ilOX-OovQj607Abp51OU=/0x123:2048x1275/800x0/images/Armand-Duplantis-et-Emmanouil-Karalis-a-Zuerich-le-27-août-2026-2339033.jpg"
+        },
+        {
+          "title": "NBA : Harden signe un contrat colossal à 37 ans",
+          "summary": "À 37 ans, James Harden surprend en signant un contrat majeur avec les Cleveland Cavaliers en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-a-37-ans-james-harden-signe-un-enorme-nouveau-contrat-avec-les-cleveland-cavaliers_AD-202608200571.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/LTTvz3LxCAIBv1qkspqOrtzSA6U=/0x0:2048x1152/800x0/images/J-Harden-2291781.jpg"
+        }
+      ]
+    }
+  ]
+}
