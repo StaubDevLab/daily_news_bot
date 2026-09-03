@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Grégoire",
+  "global_summary": "L'actualité de ce jour nous plonge dans un mélange d'espoirs scientifiques majeurs et de défis géopolitiques complexes. Tandis que le monde s'enthousiasme pour des avancées médicales révolutionnaires et l'essor de l'intelligence artificielle, des tensions persistent à l'échelle internationale, notamment autour de la guerre en Ukraine et de scandales aux relents sombres. \nEn France, la rentrée est marquée par des réflexions sociétales profondes, et l'économie locale témoigne d'une dynamique positive, portée par l'énergie verte et l'innovation industrielle. Le sport, quant à lui, navigue entre sanctions retentissantes, bouleversements de ligues et rappels à l'éthique, nous offrant une mosaïque de performances et de drames humains.",
+  "running_advice": "Salut les champions ! Prêts à défier le brouillard matinal et à engranger les kilomètres ? Aujourd'hui, la météo vous offre une fenêtre de tir intéressante ! Avec un brouillard matinal qui devrait se dissiper, les températures évolueront de 12.2°C à 29°C, une amplitude qui demande un peu d'adaptation. L'absence de pluie est une excellente nouvelle ! Je vous conseille vivement de sortir pour votre run entre 17h00 et 19h00. Vous bénéficierez de températures douces et d'une luminosité agréable avant le coucher du soleil à 20h37. Attention, l'indice UV est de 6.2, même par temps couvert, donc n'oubliez pas votre crème solaire et une casquette pour vous protéger. Hydratez-vous bien et écoutez votre corps. Chaque pas compte, faites de cette journée une victoire personnelle !",
+  "weather_string": "🌫️ Brouillard (12.2°C / 29°C)",
+  "weather_stats": {
+    "temp": "29°C",
+    "rain": "0%",
+    "uv": "6.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Vaccin anti-cancer Moderna : étape historique",
+          "summary": "Moderna annonce une avancée majeure dans son vaccin anticancéreux, suscitant un immense espoir mondial pour la médecine.",
+          "url": "https://www.journaldugeek.com/2026/09/02/le-vaccin-anticancereux-de-moderna-franchit-une-etape-historique/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/recherche-laboratoire-arnm-cancer-medical-1280x853.jpeg"
+        },
+        {
+          "title": "UE : durcissement des visas pour les Russes",
+          "summary": "L'Union Européenne envisage de renforcer les conditions d'obtention de visas pour les citoyens russes, signe d'un soutien accru à l'Ukraine.",
+          "url": "https://www.lemonde.fr/international/live/2026/09/02/en-direct-guerre-en-ukraine-l-union-europeenne-affiche-un-large-soutien-a-un-durcissement-des-conditions-d-obtention-des-visas-pour-les-russes_6760568_3210.html",
+          "image": "https://img.lemde.fr/2026/09/02/322/0/5000/2500/1440/720/60/0/66438d3_ftp-1-dwysgbmdvtwp-5978839-01-06.jpg"
+        },
+        {
+          "title": "Kickboxing : scandale nazi à Orlando",
+          "summary": "Un combat de kickboxing en Floride est au cœur d'une polémique suite à l'apparition de symboles nazis, provoquant l'indignation.",
+          "url": "https://www.courrierinternational.com/article/etats-unis-croix-gammee-et-salut-nazi-a-orlando-un-combat-de-kickboxing-fait-scandale_266564",
+          "image": "https://focus.courrierinternational.com/2026/09/02/0/0/1920/1446/644/0/60/0/cbd6a51_upload-1-mpdq1exuaurc-kia-center-12-22-24.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "IA et commerçants : débat en France",
+          "summary": "Une réflexion s'engage sur l'éthique des affiches publicitaires générées par l'IA et leur impact sur le commerce.",
+          "url": "https://www.lefigaro.fr/vox/societe/anne-sophie-de-rous-faut-il-en-vouloir-aux-commercants-qui-nous-abreuvent-d-affiches-generees-par-l-ia-20260902",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/09/02/0fe38afeac63ba2dd70cc6ed3ff34f30ff6b5a8990de0b0723e0d1c752bb1399.jpg"
+        },
+        {
+          "title": "Les lois de l'amitié : enjeu politique",
+          "summary": "L'amitié devient un thème central de la rentrée politique, interrogeant ses dimensions sociales et ses implications actuelles.",
+          "url": "https://www.mediapart.fr/journal/culture-et-idees/020926/les-lois-de-l-amitie-objet-politique-de-la-rentree",
+          "image": "https://static.mediapart.fr/etmagine/default/files/2026/09/02/260902-img-les-lois-de-l-amitie.jpg"
+        },
+        {
+          "title": "Rentrée colorée pour l'école des Lilas",
+          "summary": "L'école des Lilas à Landrethun-les-Ardres fait sa rentrée avec des façades entièrement rénovées et très colorées, pour le bonheur des élèves.",
+          "url": "http://www.nordlittoral.fr/296555/article/2026-09-02/landrethun-les-ardres-l-ecole-des-lilas-s-habille-en-couleur-pour-la-rentree",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/02/node_296555/3781283/public/2026/09/02/99625585.jpeg?itok=B53YkhYV1788372523"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Trump et la Tech : campagne pour l'IA",
+          "summary": "Donald Trump s'associe aux milliardaires de la tech pour défendre les centres de données IA menacés par des blocages de projets.",
+          "url": "https://cloud-computing.developpez.com/actu/386752/-Que-les-donnees-regnent-Trump-et-les-milliardaires-de-la-tech-lancent-une-campagne-pour-sauver-les-centres-de-donnees-IA-apres-le-blocage-de-projets-estimes-a-130-milliards-de-dollars/",
+          "image": "https://www.developpez.com/images/logos/cloud-computing.png"
+        },
+        {
+          "title": "Google Pics : l'IA simplifie la création visuelle",
+          "summary": "Google lance un nouvel outil, Google Pics, qui permet de créer facilement de superbes visuels grâce à l'intelligence artificielle.",
+          "url": "https://www.journaldugeek.com/2026/09/02/google-lance-google-pics-un-outil-dedie-pour-creer-de-beaux-visuels-sans-effort-grace-a-lia/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/Generate-and-edit-graphics-with-Google-Pics-0-25-screenshot_1920x1280-1280x853.jpg"
+        },
+        {
+          "title": "L'accessoire qui filme vos trajets",
+          "summary": "Un accessoire Amazon innovant gagne en popularité en enregistrant l'intégralité des trajets automobiles, sécurité garantie.",
+          "url": "https://www.lefigaro.fr/bons-plans/high-tech/je-ne-roule-plus-sans-cet-accessoire-decouvert-sur-amazon-et-qui-enregistre-tout-mon-trajet-20260902",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/09/02/e2f04e500c0bf2833eacbde90e10fbc232feca3c110adfb90004e5378db9177b.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Renault recrute pour ses voitures électriques",
+          "summary": "Les ventes de véhicules électriques Renault boostent l'emploi à Douai, l'usine cherchant 350 nouveaux collaborateurs.",
+          "url": "https://www.automobile-magazine.fr/toute-l-actualite/article/52991-les-voitures-electriques-de-renault-se-vendient-bien-lusine-de-douai-cherche-maintenant-350-personnes",
+          "image": "https://static.ncr.re/img/1200x675/5f/5fe380c3c7a6fce9b907d26a49ef5e98.jpg"
+        },
+        {
+          "title": "Nouvelle centrale solaire en Calaísie",
+          "summary": "Une centrale solaire photovoltaïque de six hectares voit le jour à Menneville, renforçant l'énergie verte dans la région.",
+          "url": "http://www.nordlittoral.fr/296553/article/2026-09-02/une-centrale-solaire-photovoltaique-de-plus-de-six-hectares-sort-de-terre",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/02/node_296553/3781278/public/2026/09/02/99463832.jpeg?itok=LiYVw8Zj1788372379"
+        },
+        {
+          "title": "IKEA : bonne nouvelle pour budgets serrés",
+          "summary": "IKEA annonce une initiative réjouissante pour ses clients aux budgets contraints, allégeant la pression financière.",
+          "url": "https://www.journaldugeek.com/2026/09/03/ikea-a-une-tres-bonne-nouvelle-pour-ses-clients-fauches/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/ikea-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : lourde amende pour les Clippers",
+          "summary": "Les Clippers écopent d'une amende de 30 millions de dollars et de suspensions pour avoir enfreint les règles salariales NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-30-millions-de-dollars-d-amende-dirigeants-suspendus-les-clippers-lourdement-sanctionnes-pour-avoir-contourne-les-regles-salariales-pour-leonard_AV-202609020948.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h2d0M7YmP3Jj7zgoSWKSfmu1pRw=/6x144:2022x1278/800x0/images/Kawhi-Leonard-au-duel-avec-Donte-DiVincenzo-lors-du-match-entre-Minnesota-et-les-Los-Angeles-Clippers-108-106-le-6-janvier-2025-2009844.jpg"
+        },
+        {
+          "title": "Monaco Basket : avenir incertain après exclusion",
+          "summary": "Après son exclusion de Betclic Elite, l'AS Monaco envisage de rejoindre la Ligue Adriatique, un tournant historique pour le club.",
+          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/une-decision-historique-monaco-envisagerait-de-jouer-en-ligue-adriatique-apres-son-exclusion-de-betclic-elite_AV-202608310816.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Add9pKlDVeSnXgWkamCQCSNS6Fs=/0x212:2048x1364/800x0/images/Logo-Monaco-Basket-2079550.jpg"
+        },
+        {
+          "title": "Athlètes britanniques condamnés pour crime",
+          "summary": "Après un médaillé britannique, trois autres athlètes sont reconnus coupables des mêmes faits, entachant l'image du sport.",
+          "url": "https://rmcsport.bfmtv.com/societe/apres-l-incarceration-d-un-ancien-medaille-britannique-trois-autres-athletes-condamnes-pour-les-memes-faits_AN-202608280819.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/egU1XJP3r7thexCMQB12jXhy2TM=/0x64:2048x1216/800x0/images/Leon-Baptiste-lors-des-Jeux-du-Commonwealth-en-2010-2338833.jpg"
+        }
+      ]
+    }
+  ]
+}
