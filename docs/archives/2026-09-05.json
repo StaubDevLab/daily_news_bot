@@ -1,7 +1,7 @@
 {
   "ephemeride": "Sainte Raïssa",
-  "global_summary": "L'actualité mondiale est marquée par des défis complexes, allant de la lutte contre la désinformation en Afrique à une réforme historique de la cartographie par l'ONU, sans oublier les tensions géopolitiques en Europe. Sur le plan technologique, l'innovation continue de surprendre avec le lancement furtif du Cybercab de Tesla et les avancées de DJI. En France, au-delà des échos de la guerre en Ukraine, des questions sociétales importantes émergent concernant les violences sexuelles sur mineurs, tandis que le monde des affaires s'adapte aux conséquences des événements climatiques et des négociations financières. Le sport, quant à lui, est sous le signe des exploits, des ambitions et des rebondissements, avec des performances éclatantes en basket et des scandales en NBA. Ces développements, allant de l'international au local, reflètent une période dynamique où l'information circule à grande vitesse et où les acteurs, qu'ils soient institutions, entreprises ou individus, naviguent entre progrès, crises et aspirations.",
-  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets, champion ! Malgré un petit brouillard matinal qui se lèvera, la probabilité de pluie est nulle, ce qui est parfait pour une séance sans interruption. Avec des températures allant de 15.8°C à 32.3°C, le créneau idéal pour éviter la chaleur de l'après-midi et le pic d'UV serait tôt le matin, juste après le lever du soleil à 07:29, ou en fin d'après-midi/début de soirée, avant le coucher à 20:33, quand la température commence à descendre. L'indice UV est de 6.1, donc même par temps brumeux, n'oubliez pas votre crème solaire et une casquette pour vous protéger. Hydratez-vous bien et écoutez votre corps. Chaque pas compte, faites de cette journée votre terrain de jeu !",
+  "global_summary": "L'actualité mondiale est marquée par des enjeux cruciaux, allant de la lutte contre la désinformation en Afrique à une réforme significative de la cartographie par l'ONU, en passant par des tensions géopolitiques en Suède. L'innovation technologique avance avec le lancement discret du Cybercab de Tesla, tandis que la France fait face à une escalade notoire en Ukraine, sans oublier des histoires plus légères qui font le bonheur des jeunes créateurs.\nLes défis sociétaux et environnementaux restent préoccupants, notamment avec le renforcement des enquêtes sur les violences sexuelles et l'impact continu des incendies sur les régions et l'économie. Dans le monde du sport, les Bleues brillent en basket, tandis que la NBA est secouée par des scandales financiers et que l'athlétisme voit ses stars, comme Duplantis, créer la surprise.",
+  "running_advice": "Aujourd'hui, Sainte Raïssa nous inspire à nous dépasser, et c'est l'état d'esprit parfait pour chausser vos baskets ! Avec des températures variant de 15.8°C à 32.3°C et un brouillard matinal sans pluie, la journée offre de belles fenêtres. L'heure idéale pour votre run ? Visez tôt le matin, juste après 7h30 une fois le brouillard levé, pour profiter de la fraîcheur. Sinon, optez pour la fin de journée, après 19h30, quand la chaleur commence à s'apaiser. Attention, l'indice UV est élevé (6.1) : protégez-vous impérativement avec une crème solaire, un chapeau et des lunettes. Hydratez-vous à fond et foncez, chaque foulée compte !",
   "weather_string": "🌫️ Brouillard (15.8°C / 32.3°C)",
   "weather_stats": {
     "temp": "32.3°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Désinformation : le virus invisible en Afrique",
-          "summary": "L'ampleur de la désinformation en Afrique est alarmante. Un podcast RFI explore comment la combattre.",
+          "title": "Désinformation en Afrique, un virus invisible",
+          "summary": "L'Afrique lutte contre une \"épidémie\" de désinformation, un défi majeur pour sa stabilité.",
           "url": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox/20260904-le-virus-invisible-de-la-d%C3%A9sinformation-en-afrique-quelle-est-l-ampleur-de-l-%C3%A9pid%C3%A9mie-comment-la-combattre",
           "image": "https://s.rfi.fr/media/display/39d679ca-a87e-11f1-b30a-005056bf30b7/w:1024/p:16x9/processed-881E6F84-F8AE-4008-A022-64CEA8A968C9.jpeg"
         },
         {
-          "title": "L'ONU réforme la cartographie mondiale",
-          "summary": "L'ONU adopte une nouvelle cartographie, plus proche de la réalité géographique actuelle.",
+          "title": "L'ONU redessine la carte du monde",
+          "summary": "L'ONU adopte une réforme cartographique pour une représentation plus fidèle de la réalité géographique.",
           "url": "https://www.franceinfo.fr/monde/onu/l-onu-adopte-une-reforme-de-la-cartographie-mondiale-plus-proche-de-la-realite_8177771.html",
           "image": "https://www.franceinfo.fr/pictures/gzVj18mXVXtA2UWqybeQhIkdqik/82x0:2917x1595/432x243/filters:format(jpg)/2026/09/04/6a9acb39e0878250162494.jpg"
         },
         {
-          "title": "Suède : l'extrême droite et les liens prorusses",
-          "summary": "Des connexions prorusses embarrassent l'extrême droite suédoise, révélant des tensions politiques.",
+          "title": "Suède: l'extrême droite embarrassée par connexions russes",
+          "summary": "Des liens prorusses controversés mettent en difficulté l'extrême droite suédoise.",
           "url": "https://www.lemonde.fr/international/article/2026/09/04/en-suede-des-connexions-prorusses-qui-embarrassent-l-extreme-droite_6765854_3210.html",
           "image": "https://img.lemde.fr/2026/09/04/500/0/6006/3003/1342/671/60/0/3aaa424_upload-1-iilwkmny3suh-000-32j796w.jpg"
         }
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Ukraine : Kiev dénonce une escalade grave",
-          "summary": "Après une frappe russe, Kiev dénonce une escalade majeure visant les services secrets ukrainiens.",
+          "title": "Ukraine: Kiev dénonce une grave escalade russe",
+          "summary": "Kiev alerte sur une escalade majeure après une frappe russe ciblant le chef des services secrets ukrainiens.",
           "url": "https://www.europe1.fr/international/guerre-en-ukraine-kiev-denonce-une-grave-escalade-apres-une-frappe-russe-visant-le-patron-des-services-secrets-ukrainiens-1055582",
           "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/09/04/19/080_hl_vnguyen_3249850_1_6a9afc3a319d0.jpg"
         },
         {
-          "title": "Violences sexuelles : enquêteurs triplés à Paris",
-          "summary": "Après l'affaire Lyhanna, le nombre d'enquêteurs à Paris a triplé pour les violences sexuelles.",
-          "url": "https://www.sudouest.fr/faits-divers/violences-sexuelles-sur-mineurs-le-nombre-d-enqueteurs-a-ete-triple-a-paris-apres-l-affaire-lyhanna-30490399.php",
-          "image": null
+          "title": "Étudiant cinéphile rencontre Spider-Man",
+          "summary": "Un étudiant de Seine-et-Marne réalise son rêve en rencontrant Tom Holland grâce à ses vidéos.",
+          "url": "https://actu.fr/ile-de-france/lognes_77258/grace-a-ses-videos-cet-etudiant-en-cinema-de-seine-et-marne-a-rencontre-le-veritable-acteur-de-spider-man_64749967.html",
+          "image": "https://static.actu.fr/uploads/2026/09/fbaa9fb8da9a610ba9fb8da9a44ba9v-1024x557.jpeg"
         },
         {
-          "title": "Incendie majeur dans l'Aude, évacuations",
-          "summary": "Un incendie ravage 150 hectares dans l'Aude, entraînant l'évacuation préventive de 30 personnes.",
-          "url": "https://www.sudouest.fr/faits-divers/incendies/un-incendie-ravage-150-hectares-dans-l-aude-une-trentaine-de-personnes-evacuees-par-precaution-30490317.php",
-          "image": null
+          "title": "L'arche disparue retrouve son âme",
+          "summary": "Un manoir de Mazangé accueille l'arche retrouvée, symbole d'un patrimoine ressuscité.",
+          "url": "https://www.lanouvellerepublique.fr/loir-et-cher/commune/mazange/l-arche-disparue-retrouve-son-ame-au-manoir-de-bonaventure-a-mazange-1788545127",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6a9b0865f65031db3b8b460f"
         }
       ]
     },
@@ -62,22 +62,22 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Tesla lance son Cybercab furtif",
-          "summary": "Le Cybercab de Tesla, sans volant ni pédales, a été lancé discrètement.",
+          "title": "Tesla Cybercab, l'arrivée discrète",
+          "summary": "Tesla lance en catimini son Cybercab révolutionnaire, sans volant ni pédales.",
           "url": "https://www.journaldugeek.com/2026/09/04/tesla-lance-enfin-son-cybercab-sans-volant-ni-pedales-mais-presque-en-catimini/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/09/robotaxi-futuriste-portes-papillon-ville-1280x853.jpeg"
         },
         {
-          "title": "DJI Osmo 360 II : la correction majeure",
-          "summary": "DJI dévoile l'Osmo 360 II, corrigeant le défaut principal de son prédécesseur.",
+          "title": "DJI Osmo 360 II corrige ses défauts",
+          "summary": "DJI dévoile la nouvelle Osmo 360 II, promettant des améliorations majeures pour les créateurs.",
           "url": "https://www.journaldugeek.com/2026/09/04/dji-devoile-losmo-360-ii-et-elle-corrige-le-plus-gros-defaut-de-la-precedente/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/09/dji-osmo-360-2-IFA-2026-1280x853.jpg"
         },
         {
-          "title": "Pennpetro Energy AG : assemblée générale",
-          "summary": "Pennpetro Energy convoque son assemblée générale pour le 30 septembre prochain.",
-          "url": "https://fr.investing.com/news/company-news/pennpetro-energy-convoque-son-assemblee-generale-pour-le-30-septembre-93CH-3584987",
-          "image": "https://content-media.investing.com/news/LYNXMPEM1B112_1200_L.jpg"
+          "title": "Netflix: une saison 2 déjà au top",
+          "summary": "La nouvelle saison d'une série Netflix cartonne, saluée par les abonnés.",
+          "url": "https://www.journaldugeek.com/critique/the-gentlemen-saison-2-netflix/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/the-gentlemen-saison-2-1-1280x853.jpg"
         }
       ]
     },
@@ -86,20 +86,20 @@
       "emoji": "📈",
       "articles": [
         {
-          "title": "Altarea : indemnité de 10M€ pour Praemia",
-          "summary": "Altarea verse 10 millions d'euros aux actionnaires de Praemia, fin d'un bras de fer.",
+          "title": "Altarea: 10M€ pour clore un différend",
+          "summary": "Altarea verse 10 millions d'euros pour solder un litige avec les actionnaires de Praemia.",
           "url": "https://www.lesechos.fr/finance-marches/gestion-actifs/altarea-et-praemia-mettent-fin-a-leur-bras-de-fer-2249969",
           "image": "https://media.lesechos.com/api/v1/images/view/6a9b06db35c1c574c80695d1/1280x720/0210173076835-web-tete.jpg"
         },
         {
-          "title": "Incendies : des entreprises menacées de faillite",
-          "summary": "Le président de CCI France alerte : des entreprises touchées par les incendies pourraient ne pas s'en relever.",
-          "url": "https://www.sudouest.fr/landes/biscarrosse/incendies-pour-reconstruire-les-entreprises-je-prone-la-relance-des-pge-affirme-alain-di-crescenzo-president-de-cci-france-30455286.php",
-          "image": null
+          "title": "Lingolsheim: nouveau centre de secours en 2027",
+          "summary": "L'ouverture du centre d'incendie et de secours de Lingolsheim est prévue pour 2027.",
+          "url": "https://www.dna.fr/economie/2026/09/04/l-ouverture-du-centre-d-incendie-et-de-secours-est-prevue-pour-2027",
+          "image": "https://cdn-s-www.dna.fr/images/71FD33D2-DCB7-4DBC-BA56-CC648740DD26/NW_listB/l-ouverture-du-centre-d-incendie-et-de-secours-est-prevue-pour-2027-1788541880.jpg"
         },
         {
-          "title": "Forage gaz/pétrole USA : tendances divergentes",
-          "summary": "Les appareils de forage gaz reculent aux USA, tandis que ceux du pétrole progressent.",
+          "title": "Gaz recule, pétrole progresse aux USA",
+          "summary": "Les forages de gaz naturel diminuent aux États-Unis, tandis que ceux de pétrole augmentent.",
           "url": "https://fr.investing.com/news/commodities-news/les-appareils-de-forage-de-gaz-naturel-aux-etatsunis-reculent-de-2-tandis-que-ceux-pour-le-petrole-progressent-93CH-3584988",
           "image": "https://content-media.investing.com/news/LYNXNPEB720FY_M.jpg"
         }
@@ -107,18 +107,22 @@
     },
     {
       "label": "Gironde",
-      "emoji": "📍",
-      "articles": []
-    },
-    {
-      "label": "Jdg",
-      "emoji": "🎮",
+      "emoji": "🚨",
       "articles": [
         {
-          "title": "Netflix : The Gentlemen S2 au top",
-          "summary": "La saison 2 de \"The Gentlemen\" sur Netflix est déjà un succès critique et public.",
-          "url": "https://www.journaldugeek.com/critique/the-gentlemen-saison-2-netflix/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/09/the-gentlemen-saison-2-1-1280x853.jpg"
+          "title": "Violences sexuelles: plus d'enquêteurs à Paris",
+          "summary": "Le nombre d'enquêteurs a triplé à Paris pour les violences sexuelles sur mineurs post-affaire Lyhanna.",
+          "url": "https://www.sudouest.fr/faits-divers/violences-sexuelles-sur-mineurs-le-nombre-d-enqueteurs-a-ete-triple-a-paris-apres-l-affaire-lyhanna-30490399.php"
+        },
+        {
+          "title": "Incendies: l'impact économique sur entreprises",
+          "summary": "Des entreprises menacées de non-rétablissement après les incendies, alerte CCI France.",
+          "url": "https://www.sudouest.fr/landes/biscarrosse/incendies-pour-reconstruire-les-entreprises-je-prone-la-relance-des-pge-affirme-alain-di-crescenzo-president-de-cci-france-30455286.php"
+        },
+        {
+          "title": "Aude: 150 hectares ravagés par le feu",
+          "summary": "Un violent incendie dans l'Aude a ravagé 150 hectares, entraînant des évacuations préventives.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/un-incendie-ravage-150-hectares-dans-l-aude-une-trentaine-de-personnes-evacuees-par-precaution-30490317.php"
         }
       ]
     },
@@ -127,22 +131,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Basket : les Bleues surclassent la Hongrie",
-          "summary": "Débuts réussis pour l'équipe de France féminine de basket en Coupe du monde.",
+          "title": "Basket: les Bleues surclassent la Hongrie",
+          "summary": "Débuts réussis en Coupe du monde pour les Bleues qui s'imposent brillamment face à la Hongrie.",
           "url": "https://rmcsport.bfmtv.com/basket/feminin/coupe-du-monde-de-basket-debuts-reussis-pour-les-bleues-qui-surclassent-la-hongrie_AV-202609040949.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/FdFJrP71XqnuAP6hcQhNkBxGEx4=/0x107:2048x1259/800x0/images/L-equipe-de-France-feminine-de-basket-lors-de-l-Euro-le-19-juin-2025-2337206.jpg"
         },
         {
-          "title": "Tony Parker : \"15 ans à l'ASVEL !\"",
-          "summary": "Tony Parker affiche ses ambitions, se voyant à la tête de l'ASVEL pour les 15 prochaines années.",
-          "url": "https://rmcsport.bfmtv.com/basket/video-basket-je-me-vois-bien-15-ans-a-l-asvel-annonce-tony-parker_VN-202609040624.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/aypwLwE1tWb17CJ4wgmuVRWNQPE=/0x0:1280x720/800x0/images/Basket-Je-me-vois-bien-15-ans-a-l-ASVEL-annonce-Tony-Parker-2342543.jpg"
-        },
-        {
-          "title": "NBA : Clippers lourdement sanctionnés",
-          "summary": "Les Clippers écopent d'une amende de 30M$ pour avoir contourné les règles salariales autour de Leonard.",
+          "title": "NBA: lourde sanction pour les Clippers",
+          "summary": "Les Clippers écopent d'une amende de 30M$ et de suspensions pour contournement des règles salariales.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-30-millions-de-dollars-d-amende-dirigeants-suspendus-les-clippers-lourdement-sanctionnes-pour-avoir-contourne-les-regles-salariales-pour-leonard_AV-202609020948.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h2d0M7YmP3Jj7zgoSWKSfmu1pRw=/6x144:2022x1278/800x0/images/Kawhi-Leonard-au-duel-avec-Donte-DiVincenzo-lors-du-match-entre-Minnesota-et-les-Los-Angeles-Clippers-108-106-le-6-janvier-2025-2009844.jpg"
+        },
+        {
+          "title": "Athlétisme: forfait surprise d'Armand Duplantis",
+          "summary": "Le recordman Armand Duplantis déclare forfait pour la compétition de Bruxelles, une surprise pour tous.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-le-forfait-surprise-d-armand-duplantis-a-bruxelles_AV-202609040918.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/eCJUy4ao2-vx9cbE_kGdCzt_ZYg=/491x225:2043x1098/800x0/images/Armand-Duplantis-lors-de-la-finale-du-saut-a-la-perche-aux-Championnats-d-Europe-d-athletisme-le-16-aout-2026-2333738.jpg"
         }
       ]
     }
