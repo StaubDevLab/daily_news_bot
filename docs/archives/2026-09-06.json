@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Bertrand",
+  "global_summary": "L'actualité mondiale est marquée par des événements à fort enjeu politique et judiciaire, allant d'une messe papale aux répercussions politiques à Metz au retour controversé de Rachida Dati dans la magistrature. Sur le front international, les espoirs de désescalade entre l'Ukraine et la Russie renaissent avec la visite d'émissaires de Donald Trump à Moscou et Kiev, signe d'une diplomatie potentiellement renouvelée.\n\nEn France, des drames secouent la population avec une explosion meurtrière à Aubervilliers et la découverte des corps après le naufrage du Maranello. Le monde du sport n'est pas en reste, avec des sanctions record en NBA, les débuts victorieux des Bleues au basket, et une démonstration de force des Springboks face aux All-Blacks, illustrant un quotidien fait de défis, de performances et parfois de controverses.",
+  "running_advice": "Attention les champions ! Aujourd'hui, Saint Bertrand nous accompagne, et c'est une excellente journée pour enfiler vos baskets ! Avec des températures allant de 20.8°C à 32.9°C et un ciel peu nuageux, les conditions sont dynamisantes. Le risque de pluie est minime (5%), donc pas d'excuse pour ne pas vous lancer ! L'indice UV est de 4, ce qui nécessite une protection solaire. Je vous recommande donc vivement crème solaire, casquette et lunettes. L'heure idéale pour votre run sera tôt le matin, juste après le lever du soleil à 07:30 pour profiter d'une fraîcheur relative, ou en fin de journée, après 19:00, pour éviter le pic de chaleur. Chaque foulée est une victoire, alors sortez et donnez tout !",
+  "weather_string": "🌤️ Peu nuageux (20.8°C / 32.9°C)",
+  "weather_stats": {
+    "temp": "32.9°C",
+    "rain": "5%",
+    "uv": "4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Le pape Léon XIV : une messe politique à Metz",
+          "summary": "À Metz, la visite du pape Léon XIV s'est transformée en un événement aux enjeux fortement politiques.",
+          "url": "https://www.lalsace.fr/politique/2026/09/05/a-metz-une-grand-messe-avant-tout-politique-pour-le-pape-leon-xiv",
+          "image": "https://cdn-s-www.lalsace.fr/images/B9F1F02C-C076-432F-80BC-C125AA82E79D/NW_listB/a-metz-une-grand-messe-avant-tout-politique-pour-le-pape-leon-xiv-1788631470.jpg"
+        },
+        {
+          "title": "Retour de Rachida Dati dans la magistrature",
+          "summary": "Rachida Dati réintègre la magistrature avant son procès, une décision qui suscite de nombreuses interrogations.",
+          "url": "https://www.leprogres.fr/faits-divers-justice/2026/09/05/avant-son-proces-rachida-dati-fait-son-retour-dans-la-magistrature",
+          "image": "https://cdn-s-www.leprogres.fr/images/AECDE771-079A-4B77-86B9-B92362BCD603/MF_contenu/avant-son-proces-rachida-dati-fait-son-retour-dans-la-magistrature-1788626076.jpg"
+        },
+        {
+          "title": "Trump envoie des émissaires à Moscou et Kiev",
+          "summary": "Des émissaires de Donald Trump visitent Moscou et Kiev, soulevant l'espoir d'une potentielle désescalade.",
+          "url": "https://www.europe1.fr/international/visite-des-emissaires-de-donald-trump-a-moscou-et-a-kiev-faut-il-croire-a-une-amorce-de-desescalade-entre-lukraine-et-la-russie-1057448",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/09/05/18/000_a7hg446_1_6a9c491555d7c.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Explosion meurtrière à Aubervilliers",
+          "summary": "Un pavillon explose à Aubervilliers, causant la mort d'un enfant et blessant sept autres personnes.",
+          "url": "https://www.sudouest.fr/faits-divers/un-enfant-decede-et-sept-personnes-blessees-apres-l-explosion-d-un-pavillon-a-aubervilliers-30503773.php",
+          "image": null
+        },
+        {
+          "title": "Maranello : les corps des marins retrouvés",
+          "summary": "Après le naufrage du chalutier Maranello, les corps des deux marins portés disparus ont été retrouvés.",
+          "url": "https://www.sudouest.fr/faits-divers/naufrage-du-chalutier-francais-maranello-les-corps-des-deux-marins-ont-ete-retrouves-30501010.php",
+          "image": null
+        },
+        {
+          "title": "Handball : Toulon s'incline face à Saint-Maur",
+          "summary": "L'équipe de handball de Toulon subit une défaite cuisante face à Saint-Maur, révélant un manque de rigueur.",
+          "url": "https://www.nicematin.com/sports/handball-battu-par-saint-maur-toulon-a-pris-une-lecon-de-rigueur-10718373",
+          "image": "https://assets.nicematin.com/articles/10/71/83/73/OG-10718373-1200-800-2adaf8b_upload-from-url-1-83j800ijfhbw-data-art-18318341.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "La semaine de la mobilité électrique",
+          "summary": "Entre innovations et actualités insolites, la mobilité électrique fait parler d'elle avec Tesla et les vélos.",
+          "url": "https://www.frandroid.com/survoltes/3234687_velos-aux-encheres-antivol-qui-pue-et-fsd-de-tesla-en-france-la-semaine-mobilite-electrique",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/08/accell-group.jpg?resize=1600,900&key=89c75589"
+        },
+        {
+          "title": "Des drones livreurs en prison",
+          "summary": "L'utilisation de drones pour des livraisons illicites en prison révèle des profils de trafiquants surprenants.",
+          "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-drones-en-prison-l-etonnant-profil-des-livreurs-88940-2462547.html",
+          "image": "https://photos.tf1info.fr/images/1024/576/drones-en-prison-l-etonnant-profil-des-livreurs-2854bb-0@1x.jpeg"
+        },
+        {
+          "title": "Samsung The Freestyle+ : le projecteur pratique",
+          "summary": "Le projecteur portable Samsung The Freestyle+ offre une expérience grand écran simplifiée pour tous.",
+          "url": "https://www.journaldugeek.com/2026/09/05/samsung-the-freestyle-une-grande-image-moins-de-prise-de-tete/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/sansung-freestyle-2-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "L'économie en effervescence : espoir de retombées",
+          "summary": "Une analyse économique met en lumière une effervescence et un optimisme généralisé quant aux retombées futures.",
+          "url": "https://www.vosgesmatin.fr/economie/2026/09/05/l-effervescence-et-l-espoir-de-retombees",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/4BB0065D-85AD-4640-BD5D-AAE2BEDCBE8A/NW_listB/l-effervescence-et-l-espoir-de-retombees-1788629486.jpg"
+        },
+        {
+          "title": "Ouverture de Maison 1815 à Montfavet",
+          "summary": "Le commerce d'Avignon s'anime avec l'ouverture d'une nouvelle enseigne, \"Maison 1815\", à Montfavet.",
+          "url": "https://www.ledauphine.com/economie/2026/09/05/montfavet-ouverture-de-maison-1815",
+          "image": "https://cdn-s-www.ledauphine.com/images/4ADFB782-7C57-4680-8FA7-8C6FEE34E49C/NW_listB/montfavet-ouverture-de-maison-1815-1788631225.jpg"
+        },
+        {
+          "title": "Vague de vols : rien n'arrête les malfrats",
+          "summary": "Les vols se multiplient, ciblant stations de ski et bornes électriques, montrant l'audace des malfaiteurs.",
+          "url": "https://www.tf1info.fr/justice-faits-divers/videos/video-stations-de-ski-bornes-electriques-rien-n-arrete-les-voleurs-88285-2462543.html",
+          "image": "https://photos.tf1info.fr/images/1024/576/stations-de-ski-bornes-electriques-rien-n-arrete-les-voleurs-f4c5e9-0@1x.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "NBA : lourdement sanctionnés, les Clippers paient l'affaire Leonard",
+          "summary": "Les Clippers écopent d'une amende de 30 millions de dollars et de suspensions pour avoir fraudé sur Leonard.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-30-millions-de-dollars-d-amende-dirigeants-suspendus-les-clippers-lourdement-sanctionnes-pour-avoir-contourne-les-regles-salariales-pour-leonard_AV-202609020948.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h2d0M7YmP3Jj7zgoSWKSfmu1pRw=/6x144:2022x1278/800x0/images/Kawhi-Leonard-au-duel-avec-Donte-DiVincenzo-lors-du-match-entre-Minnesota-et-les-Los-Angeles-Clippers-108-106-le-6-janvier-2025-2009844.jpg"
+        },
+        {
+          "title": "Les Bleues triomphent en Coupe du monde",
+          "summary": "L'équipe de France féminine de basket débute sa Coupe du monde avec une victoire convaincante contre la Hongrie.",
+          "url": "https://rmcsport.bfmtv.com/basket/feminin/coupe-du-monde-de-basket-debuts-reussis-pour-les-bleues-qui-surclassent-la-hongrie_AV-202609040949.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/FdFJrP71XqnuAP6hcQhNkBxGEx4=/0x107:2048x1259/800x0/images/L-equipe-de-France-feminine-de-basket-lors-de-l-Euro-le-19-juin-2025-2337206.jpg"
+        },
+        {
+          "title": "Rugby : les Springboks dominent les All-Blacks",
+          "summary": "Les Springboks, doubles champions du monde, ont démontré leur supériorité face aux légendaires All-Blacks.",
+          "url": "https://rmcsport.bfmtv.com/rugby/fafe-aux-all-blacks-l-experience-des-springboks-doubles-champions-du-monde-a-parle_AN-202609050438.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/720pPW45stMRCr1ZGjHGXYvOSa0=/0x106:2048x1258/800x0/images/Le-capitaine-sud-africain-Siya-Kolisi-au-centre-face-au-Neo-Zelandais-George-Bower-le-5-septembre-2026-2343085.jpg"
+        }
+      ]
+    }
+  ]
+}
