@@ -1,7 +1,7 @@
 {
   "ephemeride": "Sainte Reine",
-  "global_summary": "Le paysage mondial est marqué par des secousses politiques significatives, notamment en Allemagne où l'extrême droite réalise une percée historique, tandis que des décisions géopolitiques majeures sont prises en Cisjordanie et qu'un procès international pour pédocriminalité révèle une sombre réalité. En France, l'actualité jongle entre des faits divers insolites, des enjeux économiques locaux et des perturbations du quotidien.\n\nDu côté de l'innovation, la technologie repousse les frontières de l'espace avec le succès d'une fusée allemande et révolutionne la santé grâce à une IA capable de diagnostics cardiaques ultra-rapides. Le monde des affaires s'anime avec des lancements de concepts naturels et des analyses des tensions européennes. Enfin, le sport nous offre son lot d'émotions intenses, entre compétitions haletantes, procès judiciaires touchants et performances remarquables sur les terrains.",
-  "running_advice": "Prêt(e) à chausser vos baskets ? Absolument ! Aujourd'hui est une excellente journée pour courir, avec un ciel peu nuageux et aucune pluie en vue. Pour profiter au maximum de ces conditions idéales et éviter les pics de chaleur, privilégiez votre sortie tôt le matin après le lever du soleil (vers 07:32) ou en fin d'après-midi, juste avant le coucher (vers 20:29). Attention, l'indice UV est de 5.95, ce qui est modéré à élevé : une protection solaire (crème, casquette) est indispensable. Hydratez-vous bien, écoutez votre corps et transformez cette énergie matinale ou de fin de journée en performance ! C'est le moment de vous dépasser !",
+  "global_summary": "L'actualité de ce jour révèle une ambiance contrastée, marquée par des bouleversements politiques majeurs en Allemagne et des tensions géopolitiques persistantes à l'échelle mondiale. En France, des récits poignants de défis administratifs et des impacts économiques locaux côtoient des faits divers qui interpellent. \nParallèlement, le monde de la technologie progresse avec des innovations spatiales et médicales prometteuses, tandis que le sport nous offre son lot d'exploits, de controverses et de belles initiatives caritatives. C'est un panorama riche, entre enjeux globaux et histoires humaines, qui dessine les contours de cette journée.",
+  "running_advice": "Incroyable journée en perspective pour vos runs, champions ! Avec des températures idéales variant de 19.1°C à 28.8°C et un ciel peu nuageux, les conditions sont parfaites pour vous dépasser. Pour profiter au maximum de cette météo sans risquer les coups de chaud, je vous recommande vivement de chausser vos baskets tôt le matin, juste après le lever du soleil à 07:32, ou en fin de journée, à l'approche du coucher du soleil à 20:29. Attention, l'indice UV est de 5.95, alors n'oubliez pas votre crème solaire et une casquette ! Hydratez-vous bien et allez chercher cette énergie !",
   "weather_string": "🌤️ Peu nuageux (19.1°C / 28.8°C)",
   "weather_stats": {
     "temp": "28.8°C",
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "L'extrême droite AfD réalise un score historique en Allemagne.",
-          "summary": "L'AfD a obtenu un score sans précédent en Saxe-Anhalt, marquant un tournant politique majeur en Allemagne.",
+          "title": "L'extrême droite allemande marque l'histoire",
+          "summary": "L'AfD réalise un score inédit en Saxe-Anhalt, signalant un séisme politique majeur outre-Rhin.",
           "url": "https://www.la-croix.com/international/allemagne-l-extreme-droite-de-lafd-realise-un-score-historique-en-saxe-anhalt-20260906",
           "image": "https://i.la-croix.com/x/2026/09/06/2527732-ulrich-siegmung-alice-weidel-tino-chrupalla-et-seb.jpg"
         },
         {
-          "title": "Netanyahu ordonne l'évacuation de colonies en Cisjordanie.",
-          "summary": "Benjamin Netanyahu a commandité l'évacuation de certaines implantations en Cisjordanie, selon un de ses ministres.",
+          "title": "Netanyahou ordonne des évacuations en Cisjordanie",
+          "summary": "Le Premier ministre israélien a ordonné l'évacuation de colonies en Cisjordanie occupée, créant de nouvelles tensions.",
           "url": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-a-donne-l-ordre-d-evacuer-des-implantations-de-colons-en-cisjordanie-occupee-selon-l-un-de-ses-ministres_8180066.html",
           "image": "https://www.franceinfo.fr/pictures/hrE2v2wvBhuvefLlktKWc9sMGxo/0x0:4604x2589/432x243/filters:format(jpg)/2026/09/06/6a9dabe15319a589478037.jpg"
         },
         {
-          "title": "Un homme jugé pour pédocriminalité en Finlande.",
-          "summary": "Un individu est jugé en Finlande pour avoir demandé des vidéos à plus de 350 enfants.",
+          "title": "Finlande : pédocriminalité internationale jugée",
+          "summary": "Un homme est jugé en Finlande pour avoir ciblé plus de 350 enfants, une affaire de violences sexuelles choquante.",
           "url": "https://www.sudouest.fr/faits-divers/violences-sexuelles-sur-mineurs-un-homme-juge-pour-avoir-demande-des-videos-nues-ou-sexuelles-a-plus-de-350-enfants-en-finlande-30516084.php",
-          "image": ""
+          "image": null
         }
       ]
     },
@@ -38,20 +38,20 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Un habitant des Ardennes sans courrier depuis 9 ans.",
-          "summary": "Une situation invraisemblable : un habitant du Nord Ardennes n'a plus de courrier depuis neuf ans.",
+          "title": "9 ans sans courrier en Ardennes",
+          "summary": "Un habitant du Nord Ardennes n'a pas reçu son courrier depuis neuf ans, un cas surréaliste d'isolement administratif.",
           "url": "http://www.lardennais.fr/id826413/article/2026-09-06/cet-habitant-du-nord-ardennes-ne-recoit-pas-le-courrier-depuis-9-ans",
           "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/06/node_826413/15507943/public/2026/09/06/99281641.jpeg?itok=kd0K4Asa1788718154"
         },
         {
-          "title": "L'imprimerie Techni Print ferme, 18 emplois perdus.",
-          "summary": "À Montauban, l'imprimerie Techni Print met la clé sous la porte, laissant 18 salariés sans emploi.",
+          "title": "Montauban : une imprimerie ferme",
+          "summary": "L'imprimerie Techni Print de Montauban ferme, provoquant la perte de 18 emplois et un \"effondrement\" pour les salariés.",
           "url": "https://www.ladepeche.fr/2026/09/06/cest-toute-une-vie-qui-seffondre-a-montauban-limprimerie-techni-print-ferme-ses-portes-18-salaries-perdent-leur-emploi-13535873.php",
           "image": "https://images.ladepeche.fr/api/v1/images/view/6a9add75c7ad84252d0280a4/standard/image.jpg?v=1"
         },
         {
-          "title": "Trafic perturbé à Nice et Antibes.",
-          "summary": "Convoi officiel et accident perturbent fortement le trafic sur l'A8 près de Nice et Antibes ce soir.",
+          "title": "Trafic A8 perturbé près de Nice",
+          "summary": "Circulation coupée près de Nice pour un convoi officiel et un accident, entraînant des perturbations sur l'A8.",
           "url": "https://www.nicematin.com/info-trafic/circulation-coupee-temporairement-a-nice-pour-laisser-passer-un-convoi-officiel-et-un-accident-du-cote-d-antibes-le-trafic-est-perturbe-sur-l-a8-ce-dimanche-soir-10719075",
           "image": "https://assets.nicematin.com/articles/10/71/90/75/OG-10719075-1200-800-79b0135_ftp-1-4pyys8zqdoma-rcaxxq524-dm-peage-saint-isidore.jpg"
         }
@@ -59,23 +59,23 @@
     },
     {
       "label": "Tech",
-      "emoji": "🤖",
+      "emoji": "💻",
       "articles": [
         {
-          "title": "La fusée Spectrum d'Isar Aerospace réussit son vol.",
-          "summary": "Isar Aerospace marque l'histoire avec le succès de sa fusée Spectrum, propulsant l'Allemagne dans le spatial.",
+          "title": "Fusée Spectrum : succès spatial allemand",
+          "summary": "Isar Aerospace réussit son lancement de Spectrum, positionnant l'Allemagne en pointe du spatial européen.",
           "url": "https://air-cosmos.latribune.fr/article/espace/81097929469921/isar-aerospace-marque-l-histoire-des-lanceurs-europeens-avec-le-premier-vol-reussi-de-spectrum",
           "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1200,quality=80/media/melody/2026/09/06/succes-spectrum-disar-aerospace-reussit-son-second-lancement-1788717569_18408559ad9a61c408559ad9adf408v_.jpg"
         },
         {
-          "title": "Une IA détecte les maladies du cœur en 2 secondes.",
-          "summary": "Une intelligence artificielle \"superhumaine\" révolutionne le diagnostic en repérant les maladies cardiaques instantanément.",
+          "title": "IA détecte maladies cardiaques rapidement",
+          "summary": "Une IA \"superhumaine\" est capable de diagnostiquer les maladies cardiaques en seulement deux secondes.",
           "url": "https://www.journaldugeek.com/2026/09/06/une-ia-superhumaine-peut-reperer-les-maladies-du-coeur-en-deux-secondes/",
           "image": "https://www.journaldugeek.com/app/uploads/2025/11/Coeur-1280x853.jpg"
         },
         {
-          "title": "Chaise Percko : une assise séduisante, un montage décevant.",
-          "summary": "Test de la chaise ergonomique Percko : le confort est là, mais le montage laisse à désirer.",
+          "title": "Chaise ergonomique Percko : notre avis",
+          "summary": "La chaise ergonomique Percko séduit par son assise, mais son montage complexe déçoit lors de notre test.",
           "url": "https://www.frandroid.com/produits-android/3231937_on-a-teste-la-chaise-ergonomique-percko-lassise-seduit-le-montage-decoit",
           "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/chaise-ergonomique-percko.jpeg?resize=1600,900&key=2fdc994c"
         }
@@ -83,23 +83,23 @@
     },
     {
       "label": "Business",
-      "emoji": "💰",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Capinatis, un nouveau salon de coiffure 100% naturel.",
-          "summary": "Un salon de coiffure innovant, Capinatis, ouvre ses portes à Lancié, misant sur le 100% naturel.",
+          "title": "Capinatis : un nouveau salon naturel",
+          "summary": "Le salon de coiffure Capinatis ouvre à Lancié, promettant une expérience 100% naturelle et innovante.",
           "url": "https://www.leprogres.fr/economie/2026/09/06/capinatis-le-nouveau-salon-de-coiffure-100-naturel",
           "image": "https://cdn-s-www.leprogres.fr/images/69A610B7-5EA6-4EBD-B9A4-A8446FDDCCB3/NW_listB/capinatis-le-nouveau-salon-de-coiffure-100-naturel-1788718008.jpg"
         },
         {
-          "title": "L'Europe défie la Russie : un édito.",
-          "summary": "L'édito du jour analyse les tensions croissantes et les défis que l'Europe lance à la Russie.",
+          "title": "Europe défie Russie : l'édito",
+          "summary": "Un éditorial analyse la stratégie européenne face à la Russie, soulignant les enjeux géopolitiques et économiques actuels.",
           "url": "https://www.vosgesmatin.fr/societe/2026/09/06/l-edito-quand-l-europe-defie-la-russie",
           "image": "https://cdn-s-www.vosgesmatin.fr/images/46902A4A-3246-467E-B5B9-683B9D23E9F5/NW_listB/l-edito-quand-l-europe-defie-la-russie-1788717541.jpg"
         },
         {
-          "title": "Amazon Prime inclus dans Revolut Ultra, est-ce rentable ?",
-          "summary": "L'abonnement Revolut Ultra inclut désormais Amazon Prime. On s'interroge sur sa véritable valeur.",
+          "title": "Amazon Prime inclus avec Revolut Ultra",
+          "summary": "L'abonnement Revolut Ultra inclut désormais Amazon Prime, interrogeant la valeur ajoutée pour les utilisateurs.",
           "url": "https://www.journaldugeek.com/2026/09/07/amazon-prime-inclus-dans-revolut-est-ce-que-labonnement-ultra-vaut-le-coup/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/09/prime-revolut-1280x853.jpg"
         }
@@ -110,22 +110,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Les Bleues de basket et leur hôtel mouvementé.",
-          "summary": "Gabby Williams raconte les péripéties et les désagréments vécus par les Bleues en Coupe du monde.",
-          "url": "https://rmcsport.bfmtv.com/basket/feminin/coupe-du-monde-de-basket-je-me-sentais-mal-pour-l-australie-et-la-turquie-gabby-williams-raconte-la-mesaventure-des-bleues-dans-leur-hotel_AV-202609060231.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UvNLBGnDKl2rMRuDR2xZO3nyPvc=/0x0:2048x1152/800x0/images/La-capitaine-de-l-equipe-de-France-Gabby-Williams-face-a-la-Coree-du-Sud-le-5-septembre-2026-a-Berlin-2343220.jpg"
+          "title": "ZEvent : Zidane et Brady pour la charité",
+          "summary": "Des lots exceptionnels, dont un maillot de Zidane et un casque de Tom Brady, mis en jeu pour le ZEvent de Domingo.",
+          "url": "https://rmcsport.bfmtv.com/societe/maillot-dedicace-par-zidane-casque-de-tom-brady-les-lots-exceptionnels-proposes-par-domingo-lors-du-z-event_AN-202609050248.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/A4YYlaVYq6cIjEIMac7Xi5KPb_k=/7x72:2039x1215/800x0/images/ZEvent-2340553.jpg"
         },
         {
-          "title": "Procès pour le meurtre de l'ex-rugbyman Aramburu.",
-          "summary": "Le procès des meurtriers présumés de Federico Martin Aramburu, ex-rugbyman, s'ouvre ce lundi.",
-          "url": "https://rmcsport.bfmtv.com/rugby/mort-de-l-ex-rugbyman-federico-martin-aramburu-le-proces-de-ses-meurtriers-presumes-debute-ce-lundi_AV-202609070047.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gD0JBJEW6D-pbWNZSt2snephA7o=/0x42:768x474/800x0/images/Une-femme-tient-le-portrait-de-Federico-Martin-Aramburu-durant-les-funerailles-du-joueur-de-rugby-argentin-a-Biarritz-le-26-mars-2022-1379079.jpg"
-        },
-        {
-          "title": "La Rochelle fait chuter Toulouse en Top 14.",
-          "summary": "Coup de tonnerre en Top 14 : La Rochelle s'impose face au champion Toulousain à la sirène.",
+          "title": "Top 14 : La Rochelle renverse Toulouse",
+          "summary": "Le Stade Rochelais crée la surprise en battant le champion toulousain à la sirène lors d'un match palpitant.",
           "url": "https://rmcsport.bfmtv.com/rugby/top-14/direct-top-14-suivez-en-live-le-choc-la-rochelle-toulouse-dernier-match-de-la-1ere-journee_LS-202609060050.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_lIqeChS061KQ03_aHCIeZinY6w=/0x212:2048x1364/800x0/images/Antoine-Dupont-balle-en-main-avec-le-Stade-Toulousain-19-juin-2026-2311165.jpg"
+        },
+        {
+          "title": "Ingebrigtsen tacle ses rivaux athlétiques",
+          "summary": "Jakob Ingebrigtsen, double champion olympique, déchaîne sa colère contre ses adversaires, les qualifiant de \"lâches\" et \"losers\".",
+          "url": "https://rmcsport.bfmtv.com/athletisme/ligue-de-diamant-laches-et-losers-le-double-champion-olympique-jakob-ingerbrigsten-se-lache-contre-ses-adversaires_AN-202609060161.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gecq8x1sHU2z0BrgZ0FaYCYbCKA=/0x0:2048x1152/800x0/images/Le-Norvegien-Jakob-Ingebrigtsen-a-Chorzow-Pologne-le-23-aout-2026-2343162.jpg"
         }
       ]
     }
