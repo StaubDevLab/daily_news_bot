@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Reine",
+  "global_summary": "Le paysage mondial est marqué par des secousses politiques significatives, notamment en Allemagne où l'extrême droite réalise une percée historique, tandis que des décisions géopolitiques majeures sont prises en Cisjordanie et qu'un procès international pour pédocriminalité révèle une sombre réalité. En France, l'actualité jongle entre des faits divers insolites, des enjeux économiques locaux et des perturbations du quotidien.\n\nDu côté de l'innovation, la technologie repousse les frontières de l'espace avec le succès d'une fusée allemande et révolutionne la santé grâce à une IA capable de diagnostics cardiaques ultra-rapides. Le monde des affaires s'anime avec des lancements de concepts naturels et des analyses des tensions européennes. Enfin, le sport nous offre son lot d'émotions intenses, entre compétitions haletantes, procès judiciaires touchants et performances remarquables sur les terrains.",
+  "running_advice": "Prêt(e) à chausser vos baskets ? Absolument ! Aujourd'hui est une excellente journée pour courir, avec un ciel peu nuageux et aucune pluie en vue. Pour profiter au maximum de ces conditions idéales et éviter les pics de chaleur, privilégiez votre sortie tôt le matin après le lever du soleil (vers 07:32) ou en fin d'après-midi, juste avant le coucher (vers 20:29). Attention, l'indice UV est de 5.95, ce qui est modéré à élevé : une protection solaire (crème, casquette) est indispensable. Hydratez-vous bien, écoutez votre corps et transformez cette énergie matinale ou de fin de journée en performance ! C'est le moment de vous dépasser !",
+  "weather_string": "🌤️ Peu nuageux (19.1°C / 28.8°C)",
+  "weather_stats": {
+    "temp": "28.8°C",
+    "rain": "0%",
+    "uv": "5.95"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "L'extrême droite AfD réalise un score historique en Allemagne.",
+          "summary": "L'AfD a obtenu un score sans précédent en Saxe-Anhalt, marquant un tournant politique majeur en Allemagne.",
+          "url": "https://www.la-croix.com/international/allemagne-l-extreme-droite-de-lafd-realise-un-score-historique-en-saxe-anhalt-20260906",
+          "image": "https://i.la-croix.com/x/2026/09/06/2527732-ulrich-siegmung-alice-weidel-tino-chrupalla-et-seb.jpg"
+        },
+        {
+          "title": "Netanyahu ordonne l'évacuation de colonies en Cisjordanie.",
+          "summary": "Benjamin Netanyahu a commandité l'évacuation de certaines implantations en Cisjordanie, selon un de ses ministres.",
+          "url": "https://www.franceinfo.fr/monde/israel/benyamin-netanyahou-a-donne-l-ordre-d-evacuer-des-implantations-de-colons-en-cisjordanie-occupee-selon-l-un-de-ses-ministres_8180066.html",
+          "image": "https://www.franceinfo.fr/pictures/hrE2v2wvBhuvefLlktKWc9sMGxo/0x0:4604x2589/432x243/filters:format(jpg)/2026/09/06/6a9dabe15319a589478037.jpg"
+        },
+        {
+          "title": "Un homme jugé pour pédocriminalité en Finlande.",
+          "summary": "Un individu est jugé en Finlande pour avoir demandé des vidéos à plus de 350 enfants.",
+          "url": "https://www.sudouest.fr/faits-divers/violences-sexuelles-sur-mineurs-un-homme-juge-pour-avoir-demande-des-videos-nues-ou-sexuelles-a-plus-de-350-enfants-en-finlande-30516084.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Un habitant des Ardennes sans courrier depuis 9 ans.",
+          "summary": "Une situation invraisemblable : un habitant du Nord Ardennes n'a plus de courrier depuis neuf ans.",
+          "url": "http://www.lardennais.fr/id826413/article/2026-09-06/cet-habitant-du-nord-ardennes-ne-recoit-pas-le-courrier-depuis-9-ans",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/06/node_826413/15507943/public/2026/09/06/99281641.jpeg?itok=kd0K4Asa1788718154"
+        },
+        {
+          "title": "L'imprimerie Techni Print ferme, 18 emplois perdus.",
+          "summary": "À Montauban, l'imprimerie Techni Print met la clé sous la porte, laissant 18 salariés sans emploi.",
+          "url": "https://www.ladepeche.fr/2026/09/06/cest-toute-une-vie-qui-seffondre-a-montauban-limprimerie-techni-print-ferme-ses-portes-18-salaries-perdent-leur-emploi-13535873.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a9add75c7ad84252d0280a4/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Trafic perturbé à Nice et Antibes.",
+          "summary": "Convoi officiel et accident perturbent fortement le trafic sur l'A8 près de Nice et Antibes ce soir.",
+          "url": "https://www.nicematin.com/info-trafic/circulation-coupee-temporairement-a-nice-pour-laisser-passer-un-convoi-officiel-et-un-accident-du-cote-d-antibes-le-trafic-est-perturbe-sur-l-a8-ce-dimanche-soir-10719075",
+          "image": "https://assets.nicematin.com/articles/10/71/90/75/OG-10719075-1200-800-79b0135_ftp-1-4pyys8zqdoma-rcaxxq524-dm-peage-saint-isidore.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "🤖",
+      "articles": [
+        {
+          "title": "La fusée Spectrum d'Isar Aerospace réussit son vol.",
+          "summary": "Isar Aerospace marque l'histoire avec le succès de sa fusée Spectrum, propulsant l'Allemagne dans le spatial.",
+          "url": "https://air-cosmos.latribune.fr/article/espace/81097929469921/isar-aerospace-marque-l-histoire-des-lanceurs-europeens-avec-le-premier-vol-reussi-de-spectrum",
+          "image": "https://pictures.latribune.fr/cdn-cgi/image/width=1200,quality=80/media/melody/2026/09/06/succes-spectrum-disar-aerospace-reussit-son-second-lancement-1788717569_18408559ad9a61c408559ad9adf408v_.jpg"
+        },
+        {
+          "title": "Une IA détecte les maladies du cœur en 2 secondes.",
+          "summary": "Une intelligence artificielle \"superhumaine\" révolutionne le diagnostic en repérant les maladies cardiaques instantanément.",
+          "url": "https://www.journaldugeek.com/2026/09/06/une-ia-superhumaine-peut-reperer-les-maladies-du-coeur-en-deux-secondes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/Coeur-1280x853.jpg"
+        },
+        {
+          "title": "Chaise Percko : une assise séduisante, un montage décevant.",
+          "summary": "Test de la chaise ergonomique Percko : le confort est là, mais le montage laisse à désirer.",
+          "url": "https://www.frandroid.com/produits-android/3231937_on-a-teste-la-chaise-ergonomique-percko-lassise-seduit-le-montage-decoit",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/chaise-ergonomique-percko.jpeg?resize=1600,900&key=2fdc994c"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Capinatis, un nouveau salon de coiffure 100% naturel.",
+          "summary": "Un salon de coiffure innovant, Capinatis, ouvre ses portes à Lancié, misant sur le 100% naturel.",
+          "url": "https://www.leprogres.fr/economie/2026/09/06/capinatis-le-nouveau-salon-de-coiffure-100-naturel",
+          "image": "https://cdn-s-www.leprogres.fr/images/69A610B7-5EA6-4EBD-B9A4-A8446FDDCCB3/NW_listB/capinatis-le-nouveau-salon-de-coiffure-100-naturel-1788718008.jpg"
+        },
+        {
+          "title": "L'Europe défie la Russie : un édito.",
+          "summary": "L'édito du jour analyse les tensions croissantes et les défis que l'Europe lance à la Russie.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/09/06/l-edito-quand-l-europe-defie-la-russie",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/46902A4A-3246-467E-B5B9-683B9D23E9F5/NW_listB/l-edito-quand-l-europe-defie-la-russie-1788717541.jpg"
+        },
+        {
+          "title": "Amazon Prime inclus dans Revolut Ultra, est-ce rentable ?",
+          "summary": "L'abonnement Revolut Ultra inclut désormais Amazon Prime. On s'interroge sur sa véritable valeur.",
+          "url": "https://www.journaldugeek.com/2026/09/07/amazon-prime-inclus-dans-revolut-est-ce-que-labonnement-ultra-vaut-le-coup/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/prime-revolut-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Les Bleues de basket et leur hôtel mouvementé.",
+          "summary": "Gabby Williams raconte les péripéties et les désagréments vécus par les Bleues en Coupe du monde.",
+          "url": "https://rmcsport.bfmtv.com/basket/feminin/coupe-du-monde-de-basket-je-me-sentais-mal-pour-l-australie-et-la-turquie-gabby-williams-raconte-la-mesaventure-des-bleues-dans-leur-hotel_AV-202609060231.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UvNLBGnDKl2rMRuDR2xZO3nyPvc=/0x0:2048x1152/800x0/images/La-capitaine-de-l-equipe-de-France-Gabby-Williams-face-a-la-Coree-du-Sud-le-5-septembre-2026-a-Berlin-2343220.jpg"
+        },
+        {
+          "title": "Procès pour le meurtre de l'ex-rugbyman Aramburu.",
+          "summary": "Le procès des meurtriers présumés de Federico Martin Aramburu, ex-rugbyman, s'ouvre ce lundi.",
+          "url": "https://rmcsport.bfmtv.com/rugby/mort-de-l-ex-rugbyman-federico-martin-aramburu-le-proces-de-ses-meurtriers-presumes-debute-ce-lundi_AV-202609070047.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gD0JBJEW6D-pbWNZSt2snephA7o=/0x42:768x474/800x0/images/Une-femme-tient-le-portrait-de-Federico-Martin-Aramburu-durant-les-funerailles-du-joueur-de-rugby-argentin-a-Biarritz-le-26-mars-2022-1379079.jpg"
+        },
+        {
+          "title": "La Rochelle fait chuter Toulouse en Top 14.",
+          "summary": "Coup de tonnerre en Top 14 : La Rochelle s'impose face au champion Toulousain à la sirène.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/direct-top-14-suivez-en-live-le-choc-la-rochelle-toulouse-dernier-match-de-la-1ere-journee_LS-202609060050.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_lIqeChS061KQ03_aHCIeZinY6w=/0x212:2048x1364/800x0/images/Antoine-Dupont-balle-en-main-avec-le-Stade-Toulousain-19-juin-2026-2311165.jpg"
+        }
+      ]
+    }
+  ]
+}
