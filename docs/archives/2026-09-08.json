@@ -1,0 +1,145 @@
+{
+  "ephemeride": "Fête de la Nativité",
+  "global_summary": "L'actualité de ce jour est marquée par un mélange d'urgences géopolitiques et environnementales. En Europe, le sentiment d'une « dernière chance » résonne face à la montée de l'extrême droite en Allemagne, tandis que l'Indonésie fait face à des éruptions volcaniques menaçant sa capitale. Ces événements soulignent une période de défis mondiaux intenses et un besoin de vigilance constant.\nParallèlement, l'innovation technologique continue d'étonner, de l'IA dans les hôpitaux aux nouveaux robots aspirateurs futuristes. Le monde des affaires n'est pas en reste avec des affaires judiciaires majeures comme le Dieselgate. Enfin, le sport nous offre son lot d'émotions fortes, entre les succès des Bleues au basket, la tragédie d'un marathon et les démêlés de la NBA, rappelant la nature parfois imprévisible de la performance humaine et de ses coulisses.",
+  "running_advice": "Salut l'athlète ! Aujourd'hui, l'appel de la course est fort, mais la météo nous met au défi ! Avec des températures agréables entre 16.1°C et 26.7°C, l'air sera respirable. Cependant, attention aux averses et aux 90% de probabilité de pluie 🌦️. Si tu braves les éléments, pense à t'équiper d'une tenue imperméable et visible. L'indice UV de 4.8 n'est pas négligeable, alors même sous la grisaille, une bonne protection solaire sur le visage et les zones exposées reste une sage précaution ! L'heure idéale pour tenter ta chance serait en début de soirée, entre 18h et 19h, pour profiter de la relative douceur avant le coucher du soleil et, espérons-le, un petit répit entre les averses. Mais l'esprit de guerrier est ce qui compte le plus, alors à toi de jouer !",
+  "weather_string": "🌦️ Averses (16.1°C / 26.7°C)",
+  "weather_stats": {
+    "temp": "26.7°C",
+    "rain": "90%",
+    "uv": "4.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Urgence en Europe : l'AfD secoue le continent",
+          "summary": "Le succès de l'extrême droite allemande provoque un sentiment d'urgence politique à travers l'Europe.",
+          "url": "https://www.la-croix.com/international/c-est-notre-derniere-chance-apres-le-succes-de-lafd-en-allemagne-un-sentiment-durgence-en-europe-20260907",
+          "image": "https://i.la-croix.com/x/2026/09/07/2528616-ulrich-siegmund-au-centre-a-gauche-tete-de-liste-d.jpg"
+        },
+        {
+          "title": "Jakarta sous la menace des volcans indonésiens",
+          "summary": "Des éruptions volcaniques en série inquiètent la capitale indonésienne, mettant en lumière des risques naturels.",
+          "url": "https://www.courrierinternational.com/article/climat-en-indonesie-des-eruptions-volcaniques-en-serie-inquietent-la-capitale-jakarta_268429",
+          "image": "https://focus.courrierinternational.com/2026/09/06/0/0/4280/2852/644/0/60/0/f2bcffb_ftp-1-7yzlhoym9evc-afp-c7ha9c6.jpg"
+        },
+        {
+          "title": "L'UE renforce ses liens avec le Groenland",
+          "summary": "L'Union européenne s'engage à resserrer ses relations diplomatiques et stratégiques avec le Groenland.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/07/l-union-europeenne-promet-de-resserrer-les-liens-avec-le-groenland_6767987_3210.html",
+          "image": "https://img.lemde.fr/2026/09/07/1291/0/7744/3872/1342/671/60/0/e7aef6c_ftp-1-y5ufooycedd1-492065b72edf4bd1afa4e7c1915d26b2-0-7d97f696fddb4d75adb9d84d63857119.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "\"La Mère et l'Assassin\" sur France 2",
+          "summary": "Hélène de Fougerolles à l'affiche d'un téléfilm captivant diffusé ce soir sur France 2.",
+          "url": "https://www.sortiraparis.com/loisirs/cinema/articles/351827-la-mere-et-l-assassin-sur-france-2-avec-helene-de-fougerolles",
+          "image": "https://cdn.sortiraparis.com/images/800/69688/1308572-la-mere-et-l-assassin.jpg"
+        },
+        {
+          "title": "Prince Claus : 100 ans d'une vie royale",
+          "summary": "Retour sur la vie du prince Claus, époux de la reine Beatrix, qui aurait eu 100 ans.",
+          "url": "https://www.parismatch.com/Royal-Blog/le-prince-claus-aurait-100-ans-quand-lepoux-allemand-de-la-reine-beatrix-se-disait-un-peu-un-vieil-africain-275336",
+          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/09/07/18/gettyimages-1192073176.jpg?VersionId=Vu3CFLswPdMDecjBRzW.VlS4KTsF9O1F"
+        },
+        {
+          "title": "Grève des pompiers après un été brûlant",
+          "summary": "Les pompiers entament une grève de six semaines pour dénoncer leurs conditions de travail.",
+          "url": "https://www.sudouest.fr/france/apres-un-ete-brulant-les-pompiers-debutent-ce-mardi-une-greve-de-six-semaines-30527367.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "L'IA révolutionne le scanner de Lisieux",
+          "summary": "Un nouvel équipement médical doté d'intelligence artificielle optimisera les diagnostics à Lisieux.",
+          "url": "https://actu.fr/normandie/lisieux_14366/un-nouveau-scanner-a-lhopital-de-lisieux-dope-a-lintelligence-artificielle_64757292.html",
+          "image": "https://static.actu.fr/uploads/2026/09/11de80c5ba9a605de80c5ba9ae8de8v-1024x557.jpg"
+        },
+        {
+          "title": "L'Audi A2 électrique menace Tesla",
+          "summary": "L'emblématique Audi A2 fait son retour en version électrique, prête à concurrencer Tesla.",
+          "url": "https://www.journaldugeek.com/2026/09/08/laudi-a2-reviens-26-ans-apres-et-tesla-ne-va-pas-apprecier/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/audi-a2-e-tron-compacte-electrique-route-1280x853.jpeg"
+        },
+        {
+          "title": "Roborock innove avec des robots à jambes",
+          "summary": "Roborock dévoile des aspirateurs robots futuristes, dont un modèle capable de monter les escaliers.",
+          "url": "https://www.journaldugeek.com/2026/09/07/roborock-devoile-ses-nouveaux-robots-aspirateurs-saros-20-flow-complete-et-saros-20-neo-ainsi-quune-autre-avec-des-jambes-capable-de-monter-les-escaliers/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/rover-1280x853.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Nouvelle terrasse couverte au Pous'café",
+          "summary": "Le Pous'café de Talencieux installe une terrasse couverte pour le confort de ses clients.",
+          "url": "https://www.ledauphine.com/economie/2026/09/07/une-terrasse-couverte-en-cours-d-installation-au-pous-cafe",
+          "image": "https://cdn-s-www.ledauphine.com/images/1D213747-DF18-4444-91C1-649A102220FB/NW_listB/une-terrasse-couverte-en-cours-d-installation-au-pous-cafe-1788804328.jpg"
+        },
+        {
+          "title": "Épicerie sanctionnée : 90 jours de fermeture",
+          "summary": "Une épicerie près de Toulouse subit 90 jours de fermeture administrative pour raisons non précisées.",
+          "url": "https://actu.fr/occitanie/villefranche-de-lauragais_31582/commerce-pourquoi-cette-epicerie-a-ete-sanctionnee-de-90-jours-de-fermeture-administrative-au-sud-est-de-toulouse_64754519.html",
+          "image": "https://static.actu.fr/uploads/2026/09/mini-market-villefranche-de-lauragais-fermeture-1024x557.jpg"
+        },
+        {
+          "title": "Dieselgate : Fiat Chrysler devant la justice",
+          "summary": "Fiat Chrysler est à son tour renvoyé devant le tribunal correctionnel dans l'affaire du Dieselgate.",
+          "url": "https://www.lesechos.fr/industrie-services/automobile/dieselgate-fiat-chrysler-a-son-tour-renvoye-devant-le-tribunal-correctionnel-2250251",
+          "image": "https://media.lesechos.com/api/v1/images/view/6a9efc10f872e8f0f506527c/1280x720/0210234494067-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Basket : les Bleues invaincues en phase de groupes",
+          "summary": "L'équipe de France féminine de basket écrase le Nigeria et termine invaincue sa phase de groupes.",
+          "url": "https://rmcsport.bfmtv.com/basket/feminin/direct-france-nigeria-suivez-en-live-le-match-de-coupe-du-monde-de-basket-des-bleues_LN-202609070513.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/txfzBh-sxpO5EUZ7Am9B_k4Lh5Q=/0x212:2048x1364/800x0/images/Marine-Johannes-lors-de-France-Nigeria-a-la-coupe-du-monde-de-basket-le-7-septembre-2026-2343766.jpg"
+        },
+        {
+          "title": "Tragédie au marathon de Nouvelle-Calédonie",
+          "summary": "Le marathon est interrompu après le décès d'un coureur et de multiples malaises, un drame bouleversant.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-marathon-de-nouvelle-caledonie-interrompu-apres-la-mort-d-un-coureur-et-une-serie-de-malaises_AN-202609070310.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lAyS-hxJf6x9kGPd56dmdIgQw4o=/0x41:800x491/800x0/images/Culligan-Schneider-Electric-Marathon-de-Paris-2262602.jpg"
+        },
+        {
+          "title": "NBA : lourde sanction pour les Clippers",
+          "summary": "Les Clippers écopent de 30 millions de dollars d'amende pour avoir contourné les règles salariales.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-30-millions-de-dollars-d-amende-dirigeants-suspendus-les-clippers-lourdement-sanctionnes-pour-avoir-contourne-les-regles-salariales-pour-leonard_AV-202609020948.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h2d0M7YmP3Jj7zgoSWKSfmu1pRw=/6x144:2022x1278/800x0/images/Kawhi-Leonard-au-duel-avec-Donte-DiVincenzo-lors-du-match-entre-Minnesota-et-les-Los-Angeles-Clippers-108-106-le-6-janvier-2025-2009844.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Un sans-abri se baigne nu à Bordeaux",
+          "summary": "Un homme sans-abri se baigne nu dans une fontaine de Bordeaux, devant une école.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-un-sans-abri-se-baigne-nu-dans-une-fontaine-devant-une-ecole-30525775.php",
+          "image": null
+        }
+      ]
+    }
+  ]
+}
