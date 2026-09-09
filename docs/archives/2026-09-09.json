@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Alain",
+  "global_summary": "Le monde est en ébullition avec des gestes diplomatiques audacieux et des hommages historiques, tandis que les tensions géopolitiques persistent, notamment autour des sanctions en Cisjordanie. Donald Trump continue de surprendre avec une carte controversée, et l'actualité pleure la disparition du premier dirigeant de Hong Kong post-rétrocession. En France, le débat politique s'intensifie avec les annonces des candidats à la présidentielle et les réflexions sur l'épineuse réforme des retraites. \nLe secteur tech n'est pas en reste, marqué par des allégations sérieuses de piratage d'IA chez Meta et le lancement de son nouvel assistant, ainsi que l'émergence d'une compétition féroce dans le domaine du satellite internet. Côté sport, les athlètes français brillent, l'endurance est mise à l'honneur, mais les coulisses révèlent aussi des sanctions lourdes dans la NBA. Enfin, la Gironde nous rappelle que les faits divers locaux peuvent avoir une résonance nationale et humaine très forte.",
+  "running_advice": "Salut champion(ne) ! Aujourd'hui, les conditions sont absolument FANTASTIQUES pour une session de course. Avec des températures allant de 13.3°C à 22.2°C et un ciel peu nuageux, c'est le moment idéal pour chausser tes baskets. Pas de pluie à l'horizon, juste un air frais pour te pousser ! Je te conseille de viser le créneau de fin de journée, **entre 18h00 et 20h00**. Tu profiteras d'une température douce et d'une lumière magnifique pour booster ton énergie. Attention cependant, l'indice UV est à 5.75, donc n'oublie pas ta crème solaire et une casquette. Hydrate-toi bien avant, pendant et après. C'est TA journée pour repousser tes limites et te sentir invincible. Go go go !",
+  "weather_string": "🌤️ Peu nuageux (13.3°C / 22.2°C)",
+  "weather_stats": {
+    "temp": "22.2°C",
+    "rain": "5%",
+    "uv": "5.75"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump s'approprie les Antilles françaises",
+          "summary": "Une nouvelle carte polémique de Donald Trump choque les Outre-mer français, ravivant les tensions géopolitiques.",
+          "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-s-approprie-les-antilles-francaises-dans-une-nouvelle-carte-polemique-qui-fait-reagir-les-outre-mer_8183699.html",
+          "image": "https://www.franceinfo.fr/pictures/8wKnujhQe6-Uulg_qKtjsp9yq8w/1x0:1477x830/432x243/filters:format(jpg)/2026/09/08/6aa05dbb30718356338468.jpg"
+        },
+        {
+          "title": "Disparition du premier chef de Hong Kong",
+          "summary": "Tung Chee-hwa, premier dirigeant de Hong Kong après sa rétrocession à la Chine, est décédé.",
+          "url": "https://www.la-croix.com/international/mort-de-tung-chee-hwa-premier-dirigeant-de-hong-kong-apres-sa-restitution-a-la-chine-20260908",
+          "image": "https://i.la-croix.com/x/2026/09/08/2529712-tung-chee-hwa-premier-chef-de-l-executif-de-hong-k.jpg"
+        },
+        {
+          "title": "Sanctions occidentales en Cisjordanie",
+          "summary": "Les sanctions occidentales contre les colonies israéliennes en Cisjordanie soulèvent de multiples interrogations.",
+          "url": "https://www.france24.com/fr/moyen-orient/20260908-cisjordanie-trois-questions-autour-sanctions-occidentales-contre-colonies-isra%C3%A9liennes-territoires-palestiniens-royaume-uni-france-canada",
+          "image": "https://s.france24.com/media/display/c018ae48-abaf-11f1-bf07-005056bf30b7/w:1024/p:16x9/000-C4N48XL.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Lisnard dévoile son programme présidentiel",
+          "summary": "David Lisnard, candidat à la présidentielle, prône la décentralisation et la dérégulation pour la France.",
+          "url": "https://www.bfmtv.com/replay-emissions/100-mabrouk/video-il-faut-decentraliser-debureaucratiser-et-dereguler-annonce-david-lisnard-candidat-a-l-election-presidentielle_VN-202609080887.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Blx3WngmCvVzcSy0ru9qGFbfAHo=/0x0:1280x720/800x0/images/Il-faut-decentraliser-debureaucratiser-et-dereguler-annonce-David-Lisnard-candidat-a-l-election-presidentielle-2344702.jpg"
+        },
+        {
+          "title": "Réforme des retraites: Philippe entretient le suspense",
+          "summary": "Edouard Philippe maintient le flou sur l'âge de départ à la retraite, laissant planer le doute sur sa future réforme.",
+          "url": "https://www.capital.fr/votre-retraite/65-66-ou-67-ans-edouard-philippe-garde-le-mystere-sur-sa-reforme-des-retraites-1529961",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~09~08~a704baae-ae18-48e6-a5ae-2c29f1d74b4f.jpg/1200x900/focus-point/604%2C292/65-66-ou-67-ans-edouard-philippe-garde-le-mystere-sur-sa-reforme-des-retraites.jpg"
+        },
+        {
+          "title": "Bilan positif pour l'hippodrome de Chambray",
+          "summary": "L'hippodrome de Chambray-lès-Tours affiche un bilan très encourageant, apprécié par les jockeys.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/chambray-les-tours/les-jockeys-ont-plaisir-a-venir-un-bilan-positif-pour-l-hippodrome-de-chambray-les-tours-1788894992",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6aa05f0e7a65d9242c8b45e8"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Meta accusé de piratage pour IA",
+          "summary": "Meta ferait face à des accusations de piratage de films pour l'entraînement de ses intelligences artificielles.",
+          "url": "https://www.lesnumeriques.com/intelligence-artificielle/meta-accuse-d-avoir-pirate-3-000-films-x-pour-entrainer-ses-ia-un-employe-pris-la-main-dans-le-sac-n261562.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/26/261562/a8073795-meta-accuse-d-avoir-pirate-3-000-films-x-pour-entrainer-ses-ia-un-employe-pris-la-main-dans-le-sac__800_800__1328-0-3593-2265.jpg"
+        },
+        {
+          "title": "Meta lance son assistant IA Muse",
+          "summary": "Meta dévoile Muse, son nouvel agent IA ambitieux, visant à devenir votre assistant personnel quotidien.",
+          "url": "https://www.journaldugeek.com/2026/09/09/meta-veut-maintenant-devenir-votre-assistant-personnel-avec-son-agent-ia-muse/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/muse-1280x853.jpg"
+        },
+        {
+          "title": "L'Élysée rêve d'un 'Cannes du jeu vidéo'",
+          "summary": "L'Élysée propose un festival de Cannes du jeu vidéo, suscitant des réactions mitigées dans l'industrie.",
+          "url": "https://www.generation-nt.com/actualites/festival-jeu-video-france-macron-montpellier-culture-2080831",
+          "image": "https://img.generation-nt.com/gamer_01709521.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Le Premier ministre le mieux payé",
+          "summary": "Découvrez quel Premier ministre gagne 1,5 million d'euros par an, un salaire record, et va même être augmenté.",
+          "url": "https://actu.fr/monde/le-chef-d-etat-le-mieux-paye-au-monde-ce-premier-ministre-gagne-1-5-million-d-euros-par-an-et-il-va-etre-augmente_64762806.html",
+          "image": "https://static.actu.fr/uploads/2026/09/newsmlafp-com-20260902t000000zpartners-075-decian-notitle260902-np3ai-1024x557.jpg"
+        },
+        {
+          "title": "Top 10 des portefeuilles crypto sécurisés",
+          "summary": "Un classement des dix portefeuilles crypto les plus fiables pour sécuriser vos actifs numériques.",
+          "url": "https://fr.qz.com/portefeuilles-crypto-les-plus-scuriss",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/ewan-kennedy-o7bTIZ7j-iw-unsplash.jpg"
+        },
+        {
+          "title": "Orange lance un défi à Starlink",
+          "summary": "Orange et des opérateurs européens envisagent un service satellite concurrentiel face à Starlink.",
+          "url": "https://www.journaldugeek.com/2026/09/09/tous-contre-starlink-orange-pourrait-lancer-un-service-concurrent-avec-dautres-grands-operateurs-europeens/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/10/Orange-panne--1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Procès du racisme au Pays Basque",
+          "summary": "Injures xénophobes et salut nazi devant le tribunal de Bayonne, un procès contre la banalisation du racisme.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pays-basque-injures-xenophobes-et-salut-nazi-a-guiche-devant-le-tribunal-de-bayonne-le-proces-de-la-banalisation-du-racisme-30540195.php",
+          "image": null
+        },
+        {
+          "title": "Saisie record de cocaïne en Pyrénées",
+          "summary": "930 kg de cocaïne saisis dans les Pyrénées-Orientales, un homme écroué après cette opération.",
+          "url": "https://www.sudouest.fr/faits-divers/narcotrafic/narcotrafic-un-homme-ecroue-apres-la-saisie-de-930-kg-de-cocaine-dans-les-pyrenees-orientales-30542208.php",
+          "image": null
+        },
+        {
+          "title": "Évasion spectaculaire d'un légionnaire",
+          "summary": "Un soldat français enlevé en Colombie réussit une évasion incroyable, jeté mains liées dans la rivière.",
+          "url": "https://www.sudouest.fr/international/jete-mains-liees-dans-la-riviere-comment-le-soldat-de-la-legion-etrangere-francaise-enleve-en-colombie-a-reussi-son-evasion-spectaculaire-30541884.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Les Bleues invaincues en Coupe du Monde",
+          "summary": "L'équipe de France de basket écrase le Nigeria, terminant la phase de groupes sans défaite.",
+          "url": "https://rmcsport.bfmtv.com/basket/feminin/direct-france-nigeria-suivez-en-live-le-match-de-coupe-du-monde-de-basket-des-bleues_LN-202609070513.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/txfzBh-sxpO5EUZ7Am9B_k4Lh5Q=/0x212:2048x1364/800x0/images/Marine-Johannes-lors-de-France-Nigeria-a-la-coupe-du-monde-de-basket-le-7-septembre-2026-2343766.jpg"
+        },
+        {
+          "title": "Blandine L'Hirondel, la force du mental",
+          "summary": "Blandine L'Hirondel revient sur son sacre à l'UTMB, soulignant l'importance cruciale du mental.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-utmb-parfois-le-mental-lache-blandine-l-hirondel-revient-sur-son-sacre_VN-202609080664.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Ppe-Ehce4JPCbCqPiGlPpzRvsgQ=/0x0:1280x720/800x0/images/UTMB-Parfois-le-mental-lache-Blandine-L-Hirondel-revient-sur-son-sacre-2344550.jpg"
+        },
+        {
+          "title": "Clippers lourdement sanctionnés par la NBA",
+          "summary": "Les Clippers écopent d'une amende de 30M$ et de suspensions pour avoir enfreint les règles salariales.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-30-millions-de-dollars-d-amende-dirigeants-suspendus-les-clippers-lourdement-sanctionnes-pour-avoir-contourne-les-regles-salariales-pour-leonard_AV-202609020948.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h2d0M7YmP3Jj7zgoSWKSfmu1pRw=/6x144:2022x1278/800x0/images/Kawhi-Leonard-au-duel-avec-Donte-DiVincenzo-lors-du-match-entre-Minnesota-et-les-Los-Angeles-Clippers-108-106-le-6-janvier-2025-2009844.jpg"
+        }
+      ]
+    }
+  ]
+}
