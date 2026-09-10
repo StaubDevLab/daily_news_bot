@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Sainte Inès",
+  "global_summary": "L'actualité mondiale et nationale est rythmée par des enjeux diplomatiques et économiques complexes. Tandis que Marco Rubio renforce ses liens avec l'Amérique latine, les tensions commerciales autour de Donald Trump et les répercussions du conflit israélo-palestinien en France témoignent d'un climat international chargé. Sur le front économique, l'envolée des prix de l'énergie préoccupe, tandis que le secteur de la santé fait face à des défis importants.\nMalgré ces turbulences, l'innovation technologique continue de fasciner avec de nouvelles révélations d'Apple et des débats cruciaux sur l'IA. Au niveau local, des initiatives positives cohabitent avec des faits divers préoccupants. Le monde sportif, entre exploits des Bleues, tragédies et discussions sur la pression exercée sur les athlètes, reflète également une diversité d'émotions et de défis.",
+  "running_advice": "Préparez vos baskets, la journée s'annonce propice à la course ! Avec des températures idéales variant de 10.8°C à 23.2°C et aucune pluie à l'horizon, les conditions sont quasiment parfaites pour fouler le bitume ou les sentiers. Le brouillard matinal, signalé par un ciel 🌫️, devrait se dissiper, offrant une ambiance mystique à vos premiers kilomètres.\nJe vous conseille de viser la fin de matinée ou le début d'après-midi, entre 10h00 et 17h00, pour profiter des températures les plus clémentes et d'une visibilité optimale. L'indice UV de 5.65 reste significatif, alors n'oubliez pas votre crème solaire et une casquette pour une protection maximale. C'est le moment de vous dépasser, de sentir cette énergie vous traverser ! Allez, on y va !",
+  "weather_string": "🌫️ Brouillard (10.8°C / 23.2°C)",
+  "weather_stats": {
+    "temp": "23.2°C",
+    "rain": "0%",
+    "uv": "5.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Rubio réconcilie la Colombie et vise l'Équateur",
+          "summary": "Le sénateur Marco Rubio consolide les liens diplomatiques américains en Amérique du Sud.",
+          "url": "https://www.courrierinternational.com/article/diplomatie-marco-rubio-se-reconcilie-avec-la-colombie-et-met-le-cap-vers-l-equateur_269496",
+          "image": "https://focus.courrierinternational.com/2026/09/08/0/0/6047/4039/644/0/60/0/7625680_ftp-1-fd6w9ynmu261-2026-09-08t223817z-1936029243-rc29fnawze52-rtrmadp-3-usa-colombia.JPG"
+        },
+        {
+          "title": "Trump attaque Bombardier : guerre commerciale en vue",
+          "summary": "Donald Trump cible Bombardier, ravivant les tensions commerciales internationales.",
+          "url": "https://www.courrierinternational.com/article/guerre-commerciale-pourquoi-donald-trump-s-en-prend-il-a-bombardier_269497",
+          "image": "https://focus.courrierinternational.com/2026/09/08/0/0/3600/2400/644/0/60/0/dc15592_ftp-1-rqbuv4xisgd6-2026-09-08t181023z-513248167-rc2vh7as9e6e-rtrmadp-3-usa-trump-bombardier.JPG"
+        },
+        {
+          "title": "Concert annulé à Amiens : Victoire pour France Palestine Solidarité",
+          "summary": "L'annulation d'un concert de Barbara Butch à Amiens fait réagir l'association France Palestine Solidarité.",
+          "url": "https://www.la-croix.com/international/amiens-un-concert-de-barbara-butch-annule-france-palestine-solidarite-crie-victoire-20260909",
+          "image": "https://i.la-croix.com/x/2026/09/09/2530618-barbara-butch-voit-son-concert-du-19-septembre-ann.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Ardennes : une caserne de pompiers se féminise",
+          "summary": "Sept nouveaux pompiers, dont des femmes, rejoignent une caserne rurale des Ardennes.",
+          "url": "http://www.lardennais.fr/id826953/article/2026-09-09/dans-cette-caserne-rurale-des-ardennes-sept-pompiers-arrivent-et-leffectif-se",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/09/node_826953/15509745/public/2026/09/09/100586913.jpeg?itok=mH8mfvMA1788977241"
+        },
+        {
+          "title": "Montpellier : activités extra-scolaires gratuites pour les enfants",
+          "summary": "Une ville proche de Montpellier offre des activités périscolaires gratuites aux enfants.",
+          "url": "https://actu.fr/occitanie/la-grande-motte_34344/cette-ville-proche-de-montpellier-propose-aux-enfants-des-activites-extra-scolaires-gratuites_64706163.html",
+          "image": "https://static.actu.fr/uploads/2025/04/pexels-xhemphoto-15149190-1024x557.jpg"
+        },
+        {
+          "title": "Trump et le 11-Septembre : des versions toujours changeantes",
+          "summary": "Les déclarations contradictoires de Donald Trump sur le 11-Septembre interrogent en France.",
+          "url": "https://www.huffingtonpost.fr/international/video/trump-a-change-mille-fois-de-versions-sur-ce-qu-il-faisait-le-11-septembre-et-pas-sur-qu-une-seule-soit-vraie_321290.html",
+          "image": "https://focus.huffingtonpost.fr/2026/09/09/0/0/3072/2021/0/0/60/0/8920b02_upload-1-qwtqotea7nrx-gettyimages-97337022.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "AirPods 5 : Apple dévoile deux nouveaux modèles sans fil",
+          "summary": "Apple innove avec la présentation de deux nouvelles versions de ses écouteurs AirPods.",
+          "url": "https://www.01net.com/actualites/airpods-5-apple-devoile-nouveaux-ecouteurs-sans-fil.html",
+          "image": "https://www.01net.com/app/uploads/2026/09/airpods-5-caracteristiques-1344x756.jpg"
+        },
+        {
+          "title": "iPhone Duo : Apple lance enfin son smartphone pliable",
+          "summary": "Le géant Apple dévoile l'iPhone Duo, son tout premier smartphone à écran pliable.",
+          "url": "https://www.europe1.fr/technologies/apple-devoile-son-premier-telephone-pliable-liphone-duo-1066646",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/09/09/20/075_tang-dailyins260730_npij4_1_6aa1a1d0f0ab3.jpg"
+        },
+        {
+          "title": "L'IA pourrait-elle détruire l'humanité ? L'avis des experts",
+          "summary": "Des spécialistes de l'IA s'interrogent sérieusement sur les risques existentiels de cette technologie.",
+          "url": "https://www.mediapart.fr/journal/economie-et-social/090926/pourquoi-les-specialistes-de-l-ia-croient-qu-elle-pourrait-tuer-tous-les-humains",
+          "image": "https://static.mediapart.fr/etmagine/default/files/2026/09/09/260907-img-ia-anthropic.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Pétrole et gaz : les prix de l'énergie s'envolent",
+          "summary": "Le pétrole dépasse 100 dollars et le gaz 80 euros, marquant une flambée des prix de l'énergie.",
+          "url": "https://www.rtbf.be/article/petrole-au-dessus-de-100-dollars-gaz-a-plus-de-80-euros-les-prix-de-l-energie-s-envolent-11782300",
+          "image": "https://static-content.rtbf.be/article/image/770x433/c/e/5/a78944e7cae03920b0b1d075300b8eed.jpg"
+        },
+        {
+          "title": "Condom : fermeture de lits d'hôpital, FO exige des réponses",
+          "summary": "La fermeture de lits de médecine générale à Condom suscite l'inquiétude syndicale.",
+          "url": "https://www.ladepeche.fr/2026/09/09/fermeture-des-vingt-lits-de-medecine-generale-a-condom-fo-exige-des-reponses-sur-lavenir-du-service-hospitalier-en-crise-13539806.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6a9ed79e53cfeb3b410012e4/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Ubiquiti Networks : l'action à son plus bas annuel",
+          "summary": "L'action Ubiquiti Networks chute, atteignant son plus bas niveau sur 52 semaines.",
+          "url": "https://fr.investing.com/news/company-news/laction-ubiquiti-networks-touche-un-plus-bas-sur-52-semaines-a-50565-usd-93CH-3589365",
+          "image": "https://content-media.investing.com/news/LYNXMPEM50182_1200_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Agen : onze véhicules incendiés près de la gare",
+          "summary": "Une série d'incendies criminels a détruit onze véhicules dans la nuit à Agen.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/agen/onze-vehicules-incendies-dans-la-nuit-a-agen-pres-de-la-gare-30558090.php",
+          "image": null
+        },
+        {
+          "title": "Agen : refus d'obtempérer et stupéfiants",
+          "summary": "Un automobiliste sans permis est arrêté à Agen après un refus d'obtempérer et possession de drogues.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/agen/il-roule-sans-permis-et-en-possession-de-stupefiants-un-automobiliste-place-en-garde-a-vue-apres-un-refus-d-obtempeter-a-agen-30550400.php",
+          "image": null
+        },
+        {
+          "title": "Agen : un dealer récidiviste interpellé en flagrant délit",
+          "summary": "Un trafiquant de drogue connu des services est arrêté à Agen en pleine transaction.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/agen/a-agen-un-dealer-surpris-en-pleine-transaction-de-stupefiants-place-en-garde-a-vue-30550629.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Basket : les Bleues invaincues en Coupe du Monde",
+          "summary": "L'équipe de France féminine de basket écrase le Nigeria et termine la phase de groupes invaincue.",
+          "url": "https://rmcsport.bfmtv.com/basket/feminin/direct-france-nigeria-suivez-en-live-le-match-de-coupe-de-monde-de-basket-des-bleues_LN-202609070513.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/txfzBh-sxpO5EUZ7Am9B_k4Lh5Q=/0x212:2048x1364/800x0/images/Marine-Johannes-lors-de-France-Nigeria-a-la-coupe-du-monde-de-basket-le-7-septembre-2026-2343766.jpg"
+        },
+        {
+          "title": "Marathon Nouvelle-Calédonie interrompu après drame",
+          "summary": "Le marathon de Nouvelle-Calédonie est arrêté suite au décès d'un coureur et plusieurs malaises.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/le-marathon-de-nouvelle-caledonie-interrompu-apres-la-mort-d-un-coureur-et-une-serie-de-malaises_AN-202609070310.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lAyS-hxJf6x9kGPd56dmdIgQw4o=/0x41:800x491/800x0/images/Culligan-Schneider-Electric-Marathon-de-Paris-2262602.jpg"
+        },
+        {
+          "title": "Papadakis dénonce la pression sur les patineuses",
+          "summary": "Gabriella Papadakis alerte sur la pression esthétique et vestimentaire subie par les patineuses.",
+          "url": "https://rmcsport.bfmtv.com/societe/etre-sexy-porter-des-petites-tenues-gabriella-papadakis-deplore-la-pression-enorme-qui-pese-sur-les-patineuses_AV-202609090482.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5xR8sEdICiXDCyIk2p-0gMpRD90=/0x17:2048x1169/800x0/images/Gabriella-Papadakis-le-15-juin-2026-2345085.jpg"
+        }
+      ]
+    }
+  ]
+}
