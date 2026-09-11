@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Adelphe",
+  "global_summary": "Le panorama de l'actualité de ce jour révèle une scène mondiale sous tension, marquée par des enjeux politiques majeurs aux États-Unis avec Donald Trump et l'ombre persistante du 11-Septembre. L'économie internationale est également impactée par l'extension des conflits au Moyen-Orient, provoquant une flambée des prix du pétrole et des craintes inflationnistes.\n\nEn France, l'on observe un mélange d'initiatives locales innovantes, comme la nouvelle cuisine centrale d'Amboise, et de débats culturels, tel que la féminisation du personnage de Rouletabille. Le monde de la tech est en pleine effervescence, tandis que le sport nous offre des performances inspirantes, avec les Bleues en demi-finale de la Coupe du monde de basket et des récits de dépassement de soi en ultra-trail.",
+  "running_advice": "Salut les champions ! Quelle journée nous attend pour booster votre énergie ! Avec des températures parfaites allant de 12.9°C à 24°C et un ciel peu nuageux, c'est clairement une excellente journée pour chausser vos baskets et aller courir. Pas une goutte de pluie à l'horizon, donc aucune excuse pour rester cloîtré ! L'heure idéale ? Je vous conseille de viser la fin de matinée ou le début d'après-midi, entre 10h00 et 16h00. Vous profiterez d'une chaleur agréable sans les pics UV du milieu de journée, même si avec un indice UV de 5.8, la protection solaire est un IMPÉRATIF absolu. Crème solaire, casquette et lunettes de soleil sont vos meilleurs alliés pour éviter les coups de soleil et profiter pleinement de votre session. Alors, respirez à fond, connectez-vous à la nature et transformez cette belle journée en une victoire personnelle. C'est parti !",
+  "weather_string": "🌤️ Peu nuageux (12.9°C / 24°C)",
+  "weather_stats": {
+    "temp": "24°C",
+    "rain": "0%",
+    "uv": "5.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump: Vers un vote sanction?",
+          "summary": "L'horizon politique américain s'assombrit pour Donald Trump face à un vote sanction potentiel, agitant la sphère internationale.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260910-vers-un-vote-sanction-contre-donald-trump",
+          "image": "https://s.france24.com/media/display/a5dd998a-acc7-11f1-b6c0-005056a90284/w:1024/p:16x9/AP26253063907545.jpg"
+        },
+        {
+          "title": "11-Septembre: Secrets de Moussaoui",
+          "summary": "Les derniers secrets de Zacarias Moussaoui, seul condamné, refont surface, jetant un nouvel éclairage sur les attentats du 11-Septembre.",
+          "url": "https://www.nouvelobs.com/monde/20260910.OBS118118/attentats-du-11-septembre-les-derniers-secrets-de-zacarias-moussaoui-seul-homme-condamne-par-la-justice-americaine.html",
+          "image": "https://focus.nouvelobs.com/2026/09/10/562/0/3375/2250/1200/800/0/0/5f63bd1_upload-1-77yo3qp4wa85-moussaoui.jpg"
+        },
+        {
+          "title": "Pétrole et conflit au Moyen-Orient",
+          "summary": "L'escalade au Moyen-Orient propulse les prix du pétrole à la hausse, menaçant le pouvoir d'achat global.",
+          "url": "https://www.franceguyane.fr/actualite/international/moyen-orient-lextension-du-conflit-fait-bondir-le-petrole-et-les-prix-a-la-pompe-1092604.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/6aa2eca26875b87e4a0bb3aa/width_1000/image.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Rouletabille féminisé sur TF1",
+          "summary": "Le personnage iconique de Rouletabille est féminisé pour une adaptation télévisée, suscitant l'intérêt du public.",
+          "url": "https://www.ozap.com/actu/cela-paraissait-assez-logique-pourquoi-le-personnage-de-rouletabille-a-ete-feminise-dans-le-mystere-de-la-chambre-jaune-sur-tf1/656911",
+          "image": "https://static1.ozap.com/uploads/c1/50/45/39/ddbeb8dbaf2d5476-1200x705-1.jpg"
+        },
+        {
+          "title": "Fierté municipale à Vendôme",
+          "summary": "Les équipes de Vendôme expriment leur immense fierté après l'organisation réussie d'un grand concert local.",
+          "url": "https://www.lanouvellerepublique.fr/vendome/c-est-ultra-gratifiant-la-fierte-des-equipes-municipales-qui-ont-tout-prepare-pour-le-grand-concert-a-vendome-1789063656",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6aa2f1e67c4b925e458b45b6"
+        },
+        {
+          "title": "Amboise: 1.000 repas par jour",
+          "summary": "La nouvelle cuisine centrale du collège Choiseul à Amboise s'apprête à servir 1.000 repas quotidiens.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/cangey/les-eleves-ont-le-temps-de-dejeuner-a-amboise-comment-la-nouvelle-cuisine-centrale-du-college-choiseul-va-bientot-servir-1-000-repas-par-jour-1789063648",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6aa2f1de77cec66d208b45b4"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Muse vs. IA « Muse » de Zuckerberg",
+          "summary": "Le groupe Muse perd ses comptes sociaux au profit de l'outil d'IA de Zuckerberg, soulevant des questions de marque.",
+          "url": "https://intelligence-artificielle.developpez.com/actu/387035/Le-groupe-Muse-connu-pour-avoir-mis-en-garde-contre-un-avenir-technologique-dystopique-perd-ses-comptes-sur-les-reseaux-sociaux-au-profit-de-l-outil-d-IA-Muse-de-Mark-Zuckerberg/",
+          "image": "https://www.developpez.com/images/logos/meta.png"
+        },
+        {
+          "title": "Ford investit 1 milliard au Kentucky",
+          "summary": "Ford engage 1 milliard de dollars au Kentucky pour une cabine de peinture, signe d'un investissement industriel majeur.",
+          "url": "https://fr.investing.com/news/stock-market-news/ford-investit-1-milliard-de-dollars-dans-une-nouvelle-cabine-de-peinture-au-kentucky-93CH-3591629",
+          "image": "https://content-media.investing.com/news/LYNXMPEB1304O_M.jpg"
+        },
+        {
+          "title": "Action HIVE Digital Technologies chute",
+          "summary": "L'action HIVE Digital Technologies connaît un recul inattendu, interrogeant les investisseurs du secteur.",
+          "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-hive-digital-technologies-reculetelle-aujourdhui--93CH-3591596",
+          "image": "https://content-media.investing.com/news/SP500StandardandPoors500Index_800x533_L_1657544297.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Finance",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Rendement canadien bondit: craintes d'inflation",
+          "summary": "Le rendement à 10 ans canadien s'envole, alimenté par la hausse du pétrole et des inquiétudes inflationnistes.",
+          "url": "https://fr.investing.com/news/stock-market-news/le-rendement-canadien-a-10-ans-bondit-sur-fond-de-hausse-du-petrole-et-de-craintes-dinflation-3591599",
+          "image": "https://content-media.investing.com/news/bull_b_5._800x533_L_1414401798.jpg"
+        },
+        {
+          "title": "Actions minières canadiennes chutent",
+          "summary": "Malgré un cuivre record, les actions minières canadiennes reculent, déroutant les marchés.",
+          "url": "https://fr.investing.com/news/stock-market-news/pourquoi-les-actions-minieres-canadiennes-chutent-apres-le-record-du-cuivre--3591600",
+          "image": "https://content-media.investing.com/news/LYNXNPEBAB1AZ_M.jpg"
+        },
+        {
+          "title": "Savoie: Fin des meublés touristiques",
+          "summary": "Bourg-Saint-Maurice met fin à sa réglementation sur les meublés touristiques, une décision notable pour le secteur.",
+          "url": "https://www.ledauphine.com/societe/2026/09/10/bourg-saint-maurice-met-fin-a-la-reglementation-sur-les-meubles-touristiques",
+          "image": "https://cdn-s-www.ledauphine.com/images/31585D77-FB8B-429F-8ED9-47F7719BED4D/NW_listB/bourg-saint-maurice-met-fin-a-la-reglementation-sur-les-meubles-touristiques-1789054811.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Région : Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Bordeaux: 3 ados interpellés après vol",
+          "summary": "Trois adolescents ont été interpellés à Bordeaux suite à un vol, marquant une action rapide des forces de l'ordre.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-trois-adolescents-interpelles-apres-un-vol-30570589.php",
+          "image": ""
+        },
+        {
+          "title": "Motard sans permis à 120km/h à Bordeaux",
+          "summary": "Un motard sans permis, sous stupéfiants, a été contrôlé à 120 km/h en zone 50 à Bordeaux.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-un-motard-sans-permis-et-sous-stups-controle-a-120-km-heure-pour-50-30570653.php",
+          "image": ""
+        },
+        {
+          "title": "Criminels français: Refuges étrangers",
+          "summary": "Le Maroc, l'Algérie et Israël sont identifiés comme des refuges majeurs pour les criminels français en fuite.",
+          "url": "https://www.sudouest.fr/france/maroc-algerie-et-israel-principaux-pays-refuges-des-criminels-francais-en-fuite-30570140.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek & Divertissement",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Google Store enterre Pixel Tablet",
+          "summary": "Le Google Store retire discrètement la Pixel Tablet, marquant la fin d'une ère pour la tablette.",
+          "url": "https://www.journaldugeek.com/2026/09/11/le-google-store-enterre-discretement-la-pixel-tablet/",
+          "image": "https://www.journaldugeek.com/app/uploads/2023/06/google-pixel-tablet-live-13.jpg"
+        },
+        {
+          "title": "Tamagotchi ouvre boutique à Paris",
+          "summary": "Pour ses 30 ans, Tamagotchi s'offre une boutique exclusive à Paris, ravissant les fans de la première heure.",
+          "url": "https://www.journaldugeek.com/2026/09/11/pour-ses-30-ans-tamagotchi-soffre-une-boutique-a-paris-avec-des-surprises-exclusives/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/shop-tamagotchi-1280x853.jpg"
+        },
+        {
+          "title": "Netflix signe les réalisateurs SF",
+          "summary": "Après le succès de \"Projet Dernière Chance\", les réalisateurs signent avec Netflix pour une nouvelle série SF.",
+          "url": "https://www.journaldugeek.com/2026/09/11/apres-le-carton-de-projet-derniere-chance-les-realisateurs-signent-chez-netflix-pour-une-serie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/serie-sf-nouvelle-netflix-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Bleues en demi-finale Coupe du monde!",
+          "summary": "L'équipe de France féminine de basket réalise un exploit historique en se qualifiant pour les demi-finales de la Coupe du monde.",
+          "url": "https://rmcsport.bfmtv.com/basket/feminin/direct-france-chine-suivez-en-live-le-quart-de-finale-de-la-coupe-du-monde-de-basket-feminin_LN-202609100448.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/FvL9kdUOu6ibfehhBJU5_nIeosQ=/0x28:2048x1180/800x0/images/Marine-Johannes-avec-l-equipe-de-France-le-7-septembre-2026-2345938.jpg"
+        },
+        {
+          "title": "Jaylen Brown fait ses débuts en boxe",
+          "summary": "La star NBA Jaylen Brown surprend en se lançant dans la boxe, rêvant même d'un avenir en UFC.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-jaylen-brown-fait-ses-debuts-en-boxe-lors-d-un-combat-au-nigeria-et-reve-de-l-ufc_AV-202609100503.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8IvKK7hZ2RCTDnNXrl-4fwroeHY=/0x0:2048x1152/800x0/images/Jaylen-Brown-avec-les-Boston-Celtics-le-22-fevrier-2026-2345833.jpg"
+        },
+        {
+          "title": "UTMB: la force mentale de L'Hirondel",
+          "summary": "Blandine L'Hirondel revient sur son sacre à l'UTMB, soulignant l'importance cruciale du mental en ultra-trail.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-utmb-parfois-le-mental-lache-blandine-l-hirondel-revient-sur-son-sacre_VN-202609080664.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Ppe-Ehce4JPCbCqPiGlPpzRvsgQ=/0x0:1280x720/800x0/images/UTMB-Parfois-le-mental-lache-Blandine-L-Hirondel-revient-sur-son-sacre-2344550.jpg"
+        }
+      ]
+    }
+  ]
+}
