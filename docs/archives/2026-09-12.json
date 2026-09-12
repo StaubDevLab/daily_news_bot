@@ -1,0 +1,169 @@
+{
+  "ephemeride": "Saint Apollinaire",
+  "global_summary": "L'actualité d'aujourd'hui est un mélange frappant de rappels historiques et de défis contemporains. Le 11 septembre 2001 resurgit dans les témoignages, tandis que la guerre en Ukraine continue de dominer la scène internationale avec l'appel de Zelensky à Trump pour des sanctions immédiates. En France, les débats sur la laïcité agitent la sphère publique, et un déraillement de train en Normandie rappelle la fragilité des infrastructures. \nSur le front technologique, l'intelligence artificielle montre son double visage, avec des accusations de plagiat pour OpenAI et son utilisation alarmante dans le développement d'armes au Yémen, soulignant des enjeux éthiques majeurs. Côté sport, l'innovation est au rendez-vous avec de nouvelles compétitions d'athlétisme, tandis que des scandales financiers agitent la NBA, prouvant que même les plus grandes organisations ne sont pas à l'abri des turbulences.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets et aller vous dépasser ! Avec un ciel peu nuageux et aucune pluie à l'horizon, les conditions sont quasi parfaites pour une session de running. Je vous recommande de viser une sortie matinale, juste après le lever du soleil vers 7h45-8h30, quand la fraîcheur est encore au rendez-vous. Ou bien en fin de journée, après 18h30, pour profiter de températures plus douces et d'une lumière magnifique. Attention, l'indice UV est de 5.75, ce qui est modéré à élevé. Pensez absolument à appliquer une protection solaire, même par temps nuageux, et à porter une casquette. Hydratez-vous bien avant, pendant et après l'effort. Votre corps vous remerciera ! Allez, on lâche rien, on va chercher ces endorphines !",
+  "weather_string": "🌤️ Peu nuageux (14.1°C / 27.3°C)",
+  "weather_stats": {
+    "temp": "27.3°C",
+    "rain": "0%",
+    "uv": "5.75"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "11 septembre 2001 : un témoin se souvient",
+          "summary": "Un ancien travailleur de New York partage son souvenir marquant des attentats, un événement qui a changé le monde.",
+          "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-a-ce-moment-la-le-monde-bascule-mikael-qui-travaillait-a-new-york-se-souvient-des-attentats-du-11-septembre-2001_VN-202609110855.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/wNKf9wYeuerruPMR-jbM1qiD7Dw=/0x0:1280x720/800x0/images/A-ce-moment-la-le-monde-bascule-Mikael-qui-travaillait-a-New-York-se-souvient-des-attentats-du-11-septembre-2001-2346787.jpg"
+        },
+        {
+          "title": "Zelensky exhorte Trump à sanctionner la Russie",
+          "summary": "Le président ukrainien appelle Donald Trump à imposer des sanctions \"sévères\" contre la Russie \"dès maintenant\".",
+          "url": "https://www.bfmtv.com/international/europe/ukraine/guerre-en-ukraine-volodymyr-zelensky-appelle-donald-trump-a-adopter-des-sanctions-severes-contre-la-russie-des-maintenant_AD-202609110853.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/xkJIliy_oc9GyAemABzrJsM7kbo=/0x37:2048x1189/800x0/images/Le-president-ukrainien-Volodymyr-Zelensky-donne-une-conference-de-presse-au-siege-de-France-Televisions-a-Paris-le-27-mars-2025-2057671.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Un chanteur grec victime d'arrêt cardiaque",
+          "summary": "Une star de la pop grecque subit un arrêt cardiaque en suivant un traitement anti-âge, soulevant des interrogations.",
+          "url": "https://www.parismatch.com/Actu/Sante/il-ny-a-pas-de-cadre-une-star-de-la-pop-grecque-victime-dun-arret-cardiaque-alors-quil-entamait-un-traitement-anti-age-275623",
+          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/09/11/21/capture-decran-2026-09-11-a-20.15.48.jpg?VersionId=g9zUdCb.0fHCBV7B8kc_ZVKcHYLRjRoM"
+        },
+        {
+          "title": "Manifestation pour la laïcité à Bussy-Saint-Georges",
+          "summary": "La gauche se mobilise à Bussy-Saint-Georges pour défendre la laïcité, en réponse à diverses polémiques nationales.",
+          "url": "https://actu.fr/ile-de-france/bussy-saint-georges_77058/polemique-a-la-tour-eiffel-rond-point-namaste-la-gauche-manifeste-pour-la-laicite-a-bussy-saint-georges_64780839.html",
+          "image": "https://static.actu.fr/uploads/2026/09/c599b3a154aa6a999b3a154aa7d99bv-1024x557.jpg"
+        },
+        {
+          "title": "Déraillement d'un TER en Normandie",
+          "summary": "Un accident de train entre Rouen et Caen fait 44 blessés, dont une jeune femme en urgence absolue.",
+          "url": "https://www.sudouest.fr/economie/transports/un-train-deraille-en-normandie-44-blesses-dans-le-deraillement-d-un-ter-entre-rouen-et-caen-une-jeune-femme-de-18-ans-en-urgence-absolue-30589716.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "L'IA au service de la propagande en Afrique",
+          "summary": "Des entités russes et émiraties utilisent l'IA américaine pour diffuser de la propagande en Afrique.",
+          "url": "https://www.jeuneafrique.com/1842602/politique/en-afrique-des-propagandes-russe-et-emiratie-dopees-a-lia-americaine/",
+          "image": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=960,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2026/09/11/jad20260911-ass-ia-claude-russie.jpg"
+        },
+        {
+          "title": "OpenAI accusé de plagiat par une startup chinoise",
+          "summary": "La startup chinoise Joyin porte plainte contre OpenAI pour plagiat, une affaire de distillation qui fait du bruit.",
+          "url": "https://www.generation-nt.com/actualites/joyin-plainte-openai-distillation-copie-modele-2081047",
+          "image": "https://img.generation-nt.com/intelligence-artificielle-usa-vs-chine-illustration-ia_01729822.jpg"
+        },
+        {
+          "title": "L'IA de Claude utilisée pour des armes au Yémen",
+          "summary": "L'intelligence artificielle d'Anthropic Claude aurait servi au développement d'armes téléguidées au Yémen, inquiétant.",
+          "url": "https://www.rfi.fr/fr/moyen-orient/20260911-au-y%C3%A9men-l-ia-d-anthropic-claude-a-%C3%A9t%C3%A9-utilis%C3%A9e-pour-d%C3%A9velopper-des-armes-t%C3%A9l%C3%A9guid%C3%A9es",
+          "image": "https://s.rfi.fr/media/display/5cc3545a-ae08-11f1-895b-005056bfb2b6/w:1024/p:16x9/AP26253605816800.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Finances locales : alerte à Romilly-sur-Seine",
+          "summary": "La commune de Romilly-sur-Seine fait face à des difficultés financières, inscrite au réseau d'alerte de l'État.",
+          "url": "http://www.lest-eclair.fr/id827372/article/2026-09-11/letat-inscrit-la-commune-de-romilly-sur-seine-dans-le-reseau-dalerte-des",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/06/04/node_827372/15511105/public/2026/06/04/83481566.jpeg?itok=cTr_9VjL1789154206"
+        },
+        {
+          "title": "Romilly-sur-Seine : baisse de recettes et crédits-relais",
+          "summary": "La rentrée des élus est marquée par une baisse des recettes et un débat crucial sur les finances locales de la ville.",
+          "url": "http://www.lest-eclair.fr/id827373/article/2026-09-11/une-recette-de-33-m-eu-en-moins-un-credit-relais-de-23-m-eu-en-plus-et-un-gros",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/11/node_827373/15511107/public/2026/09/11/101571879.jpeg?itok=aF2uQTcV1789153625"
+        },
+        {
+          "title": "L'essentiel de la semaine économique",
+          "summary": "Retrouvez le récapitulatif des moments forts de l'actualité financière et économique de cette semaine.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/c-est-votre-argent/video-la-semaine-de-marc-vendredi-11-septembre_VN-202609110865.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8aVDVDpAlSi-JO-Ez9hFWEZdys4=/0x0:1280x720/800x0/images/La-semaine-de-Marc-vendredi-11-septembre-2346790.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🗺️",
+      "articles": [
+        {
+          "title": "Deux accidents en Sud-Gironde",
+          "summary": "Cinq personnes ont été blessées dans deux accidents de la route survenus en Sud-Gironde la nuit dernière.",
+          "url": "https://www.sudouest.fr/gironde/bagas/en-sud-gironde-deux-accidents-ont-fait-cinq-blesses-dans-la-nuit-de-vendredi-a-samedi-30590138.php",
+          "image": null
+        },
+        {
+          "title": "Dealer multirécidiviste interpellé à Libourne",
+          "summary": "Un trafiquant de drogue connu des services de police a été arrêté et écroué à Libourne.",
+          "url": "https://www.sudouest.fr/gironde/libourne/libourne-un-dealer-multirecidiviste-interpelle-et-ecroue-30587147.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture & Gaming",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Silo Saison 4 : un final prometteur",
+          "summary": "La saison 4 de la série \"Silo\" s'annonce comme un grand tournant, promettant un final inattendu.",
+          "url": "https://www.journaldugeek.com/2026/09/12/la-saison-4-de-silo-confirme-que-la-serie-va-changer-de-visage-voici-ce-quil-faut-attendre-du-grand-final/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/silo-saison-4-1280x853.jpg"
+        },
+        {
+          "title": "L'avenir de Star Wars sur Disney+",
+          "summary": "Où en est la saga Star Wars sur Disney+ après plusieurs annulations et de nouvelles relances ?",
+          "url": "https://www.journaldugeek.com/dossier/star-wars-sur-disney-ou-en-est-la-saga-apres-les-annulations-et-relances/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/series-star-wars-1280x853.jpg"
+        },
+        {
+          "title": "La Switch 2 Zelda bientôt de retour",
+          "summary": "Bonne nouvelle pour les gamers : la console Switch 2 édition Zelda sera bientôt de nouveau en stock.",
+          "url": "https://www.journaldugeek.com/2026/09/11/pas-de-panique-la-switch-2-zelda-va-revenir-en-stock-tres-bientot/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/NS2_TheLegendofZelda40thEdition_HW_06.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Gabby Williams : \"Nous sommes les meilleures\"",
+          "summary": "La basketteuse Gabby Williams insuffle un esprit de compétition, voulant que son équipe se sente invincible.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-basket-je-veux-qu-on-sente-que-nous-sommes-les-meilleures-affirme-gabby-williams_VN-202609110725.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KF5Dm_7n-dnd85bCMVKLKGBEjkk=/0x0:1280x720/800x0/images/Basket-Je-veux-qu-on-sente-que-nous-sommes-les-meilleures-affirme-Gabby-Williams-2346704.jpg"
+        },
+        {
+          "title": "L'Ultimate révolutionne l'athlétisme",
+          "summary": "Une nouvelle compétition d'athlétisme promet un show spectaculaire avec des javelots lumineux et une piste noire.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/javelots-lumineux-piste-noire-duplantis-chanteur-ces-nouveautes-lancees-par-l-ultimate-la-nouvelle-competition-d-athletisme-revolutionnaire_AV-202609110395.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lLoPJFoIRwPnQTdlqLa7Ldrg6Ig=/0x212:2048x1364/800x0/images/Noah-Lyles-sur-le-tapis-rouge-de-presentation-de-l-Ultimate-championship-nouveau-championnat-d-athletisme-le-10-septembre-2026-2346405.jpg"
+        },
+        {
+          "title": "Clippers lourdement sanctionnés en NBA",
+          "summary": "Les Clippers écopent d'une amende de 30 millions de dollars et de suspensions pour avoir contourné les règles salariales.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-30-millions-de-dollars-d-amende-dirigeants-suspendus-les-clippers-lourdement-sanctionnes-pour-avoir-contourne-les-regles-salariales-pour-leonard_AV-202609020948.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h2d0M7YmP3Jj7zgoSWKSfmu1pRw=/6x144:2022x1278/800x0/images/Kawhi-Leonard-au-duel-avec-Donte-DiVincenzo-lors-du-match-entre-Minnesota-et-les-Los-Angeles-Clippers-108-106-le-6-janvier-2025-2009844.jpg"
+        }
+      ]
+    }
+  ]
+}
