@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Aimé",
-  "global_summary": "L'actualité mondiale est traversée par des mouvements politiques forts, avec des dizaines de milliers d'Allemands manifestant contre l'extrême droite, affirmant des valeurs démocratiques. La diplomatie reste tendue, comme en témoigne le refus de Moscou de rencontrer Zelensky au G20, tandis que les préoccupations climatiques s'intensifient, même loin des pôles. Ces événements soulignent une période de défis géopolitiques et environnementaux majeurs.\n\nEn France, des drames humains côtoient des moments plus légers, illustrant la complexité de notre quotidien. Sur le front technologique, l'investissement dans l'IA par de grands acteurs et l'effervescence du secteur du gaming dessinent l'avenir. Le sport, quant à lui, est particulièrement dynamique, avec nos Bleues en route pour une finale historique et des innovations majeures dans l'athlétisme. C'est une journée où l'engagement civique, l'innovation et la performance résonnent.",
-  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets et aller courir ! Avec un ciel peu nuageux et aucune pluie en vue, les conditions sont idéales pour profiter de l'extérieur. La température maximale atteint 29.9°C, mais le matin et la fin de journée seront parfaits.\n\nJe vous recommande vivement d'opter pour une session matinale juste après le lever du soleil, vers 7h45, pour profiter de la fraîcheur. Sinon, une sortie en fin de journée, après 18h30, sera également très agréable à l'approche du coucher du soleil. Attention, avec un indice UV de 5.65, la protection solaire est indispensable : crème, casquette et lunettes de soleil sont de rigueur ! Allez, on y va, donnez tout et sentez cette énergie vous parcourir !",
+  "global_summary": "L'actualité mondiale est marquée par des mobilisations citoyennes significatives, notamment en Allemagne où des dizaines de milliers de personnes manifestent contre l'extrême droite. Sur le plan géopolitique, l'impasse diplomatique persiste entre l'Ukraine et la Russie, avec un refus du Kremlin de rencontrer Zelensky au prochain G20. Une histoire d'arnaque sentimentale impliquant la célébrité Céline Dion rappelle également l'importance de la vigilance dans un monde connecté.",
+  "running_advice": "Aujourd'hui, c'est une journée absolument fantastique pour chausser vos baskets et vous lancer ! Avec des températures allant de 14.8°C à 29.9°C et un ciel 'Peu nuageux', les conditions sont idéales pour une performance optimale. Pour éviter la chaleur maximale de l'après-midi et profiter d'une ambiance plus douce, l'heure parfaite se situe entre le lever du soleil à 07:38 et le milieu de matinée, ou en fin d'après-midi, idéalement **entre 18h00 et 20h00** juste avant le coucher du soleil. Attention cependant, avec un indice UV de 5.65, n'oubliez pas votre crème solaire et une casquette pour vous protéger. Hydratez-vous bien et profitez de chaque foulée pour booster votre énergie !",
   "weather_string": "🌤️ Peu nuageux (14.8°C / 29.9°C)",
   "weather_stats": {
     "temp": "29.9°C",
@@ -14,21 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Allemagne : Vaste mobilisation anti-extrême droite",
-          "summary": "Des milliers d'Allemands manifestent pour l'interdiction de l'AfD, marquant un fort engagement civique.",
+          "title": "Allemagne : Marée humaine contre l'extrême droite",
+          "summary": "Des dizaines de milliers d'Allemands manifestent pour interdire l'AfD, affichant un rejet clair de l'extrême droite.",
           "url": "https://www.france24.com/fr/europe/20260912-interdisez-l-afd-des-dizaines-de-milliers-d-allemands-manifestent-contre-l-extr%C3%AAme-droite",
           "image": "https://s.france24.com/media/display/83bf7692-aecb-11f1-b02e-005056a97e36/w:1024/p:16x9/000-C84J6TY.jpg"
         },
         {
-          "title": "Zelensky/Poutine : Le Kremlin refuse un G20",
-          "summary": "Zelensky se dit prêt à rencontrer Poutine au G20, mais le Kremlin décline, la paix reste lointaine.",
+          "title": "G20 : Zelensky prêt, Poutine refuse la rencontre",
+          "summary": "Zelensky se dit prêt à rencontrer Poutine au G20 à Miami, mais le Kremlin maintient son refus, prolongeant l'impasse diplomatique.",
           "url": "https://www.franceguyane.fr/actualite/international/zelensky-pret-a-rencontrer-poutine-au-g20-a-miami-le-kremlin-refuse-1092784.php",
           "image": "https://medias.franceantilles.fr/api/v1/images/view/6aa58e776fa18e0dbd0358cf/width_1000/image.jpg"
         },
         {
-          "title": "Climat : Montréal face aux ours polaires ?",
-          "summary": "Le Canada affronte les effets du changement climatique, questionnant l'avenir de ses écosystèmes.",
-          "url": "https://www.sudouest.fr/international/canada/montreal-sera-t-il-un-jour-envahi-par-les-ours-polaires-comment-le-canada-est-pris-au-piege-du-changement-climatique-30578026.php"
+          "title": "Arnaque Céline Dion : faux amour, vrais regrets",
+          "summary": "Un Belge escroqué de milliers d'euros, croyant vivre une relation à distance avec Céline Dion, victime d'une arnaque sentimentale.",
+          "url": "https://www.linternaute.com/actualite/monde/11302613-celine-dion-un-belge-croyait-vivre-une-relation-a-distance-avec-la-star-une-arnaque-de-plusieurs-milliers-d-euros/",
+          "image": "https://img-4.linternaute.com/UaxALuymj5IiifH7An3BUPnI9m4=/1280x/smart/0096dd748c1f46ee82706fb5d892c6ef/ccmcms-linternaute/94314941.jpg"
         }
       ]
     },
@@ -37,92 +38,94 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Drame A13 : Mère et fils périssent",
-          "summary": "Une femme enceinte et son fils de deux ans meurent tragiquement dans l'incendie de leur voiture sur l'A13.",
-          "url": "https://www.sudouest.fr/france/une-femme-enceinte-et-son-fils-de-deux-ans-meurent-dans-l-incendie-de-leur-voiture-sur-l-a13-pres-de-paris-30601970.php"
-        },
-        {
-          "title": "Bayonne : Coups de feu, un homme interpellé",
-          "summary": "Un homme a été interpellé après des coups de feu tirés dans le quartier Balichon à Bayonne.",
-          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pays-basque-un-homme-interpelle-apres-des-coups-de-feu-tires-dans-le-quartier-balichon-a-bayonne-30597987.php"
-        },
-        {
-          "title": "Céline Dion : Son sosie breton cartonne",
-          "summary": "Pendant que la star enflamme Paris, son sosie breton fait sensation et fait chanter les fans.",
-          "url": "https://www.letelegramme.fr/ille-et-vilaine/pendant-que-celine-dion-enflamme-paris-son-sosie-breton-fait-chanter-des-fans-en-ille-et-vilaine-7116499.php",
-          "image": "https://medialb.ultimedia.com/multi/sxpsr/3k5v3qr-O.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Tech & Gaming",
-      "emoji": "🎮",
-      "articles": [
-        {
-          "title": "Xavier Niel investit dans l'IA française",
-          "summary": "Xavier Niel et CMA CGM rejoignent le capital de la startup Arlequin AI, un signal fort pour l'innovation.",
-          "url": "https://www.larevuedudigital.com/xavier-niel-et-larmateur-gma-cgm-entrent-au-capital-de-la-startup-francaise-arlequin-ai/",
-          "image": "https://www.larevuedudigital.com/wp-content/uploads/2026/09/Arlequin-AI-BF2-.jpg"
-        },
-        {
-          "title": "Spyro : Le retour d'une icône du jeu",
-          "summary": "Toutes les infos sur \"Spyro: A Realm Beyond\", attisant l'impatience des fans du célèbre dragon.",
-          "url": "https://www.journaldugeek.com/2026/09/12/spyro-a-realm-beyond-tout-ce-que-lon-sait-a-ce-jour-date-de-sortie-prix-histoire-contexte-play/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/07/spyro-realm-beyond-tout-ce-que-lon-sait-1280x853.jpg"
-        },
-        {
-          "title": "Kingdom Hearts IV : Nouveaux détails révélés",
-          "summary": "Le point sur les dernières informations de Kingdom Hearts IV, très attendu par la communauté.",
-          "url": "https://www.journaldugeek.com/2026/09/13/kingdom-hearts-iv-tout-ce-que-lon-sait-a-ce-jour-date-de-sortie-prix-histoire-contexte-gameplay/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/08/kingdom-hearts-iv-tout-ce-que-lon-sait-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Économie & Politique",
-      "emoji": "💼",
-      "articles": [
-        {
-          "title": "Macron et Lecornu : Record d'impopularité",
-          "summary": "Le baromètre politique révèle une baisse historique de popularité pour Emmanuel Macron et Sébastien Lecornu.",
+          "title": "Macron et Lecornu : Chute record de popularité",
+          "summary": "Un baromètre révèle une impopularité record pour Emmanuel Macron et Sébastien Lecornu, signe de tensions politiques nationales.",
           "url": "https://www.latribune.fr/article/la-tribune-dimanche/politique/35836610340381/barometre-emmanuel-macron-et-sebastien-lecornu-battent-leur-record-d-impopularite",
           "image": "https://pictures.latribune.fr/media/melody/2026/09/12/emmanuel-macron-et-sebastien-lecornu-face-a-une-forte-baisse-de-popularite-y-compris-au-sein-de-leur-1789235999_55e2d32075aa659e2d32075aa2de2dv_.jpg"
         },
         {
-          "title": "Valentigney : Projet centre-ville revu à la baisse",
-          "summary": "Le plan de requalification du cœur de ville de Valentigney subit une révision à la baisse.",
-          "url": "https://www.estrepublicain.fr/politique/2026/09/12/le-projet-de-requalification-du-coeur-de-ville-revu-a-la-baisse",
-          "image": "https://cdn-s-www.estrepublicain.fr/images/E1229321-9516-4CBB-8616-1141034A2364/MF_contenu/le-projet-de-requalification-du-coeur-de-ville-revu-a-la-baisse-1789236059.jpg"
+          "title": "Drame sur l'A13 : Mère et enfant périssent dans l'incendie",
+          "summary": "Une femme enceinte et son fils de deux ans meurent dans l'incendie tragique de leur voiture sur l'A13 près de Paris.",
+          "url": "https://www.sudouest.fr/france/une-femme-enceinte-et-son-fils-de-deux-ans-meurent-dans-l-incendie-de-leur-voiture-sur-l-a13-pres-de-paris-30601970.php",
+          "image": null
         },
         {
-          "title": "Insolite : Plymouth Road Runner 1971 aux enchères",
-          "summary": "Une rare Plymouth Road Runner de 1971 est mise en vente sans prix de réserve, avis aux collectionneurs.",
-          "url": "https://www.autojournal.fr/actu/insolites-actu/plymouth-road-runner-1971-sans-prix-reserve-425131.html",
-          "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2026/09/plymouth.jpg"
+          "title": "Coups de feu à Bayonne : Un homme interpellé",
+          "summary": "Un homme arrêté après des coups de feu tirés dans le quartier Balichon à Bayonne, suscitant l'inquiétude locale.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pays-basque/pays-basque-un-homme-interpelle-apres-des-coups-de-feu-tires-dans-le-quartier-balichon-a-bayonne-30597987.php",
+          "image": null
         }
       ]
     },
     {
-      "label": "Sports",
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Arlequin AI : Niel et CMA CGM investissent",
+          "summary": "Xavier Niel et l'armateur CMA CGM entrent au capital d'Arlequin AI, boostant ainsi une startup française prometteuse.",
+          "url": "https://www.larevuedudigital.com/xavier-niel-et-larmateur-gma-cgm-entrent-au-capital-de-la-startup-francaise-arlequin-ai/",
+          "image": "https://www.larevuedudigital.com/wp-content/uploads/2026/09/Arlequin-AI-BF2-.jpg"
+        },
+        {
+          "title": "Spyro : Le retour du dragon se précise",
+          "summary": "Toutes les infos sur 'Spyro: A Realm Beyond', date de sortie, prix, histoire et gameplay du jeu vidéo révélés.",
+          "url": "https://www.journaldugeek.com/2026/09/12/spyro-a-realm-beyond-tout-ce-que-lon-sait-a-ce-jour-date-de-sortie-prix-histoire-contexte-gameplay/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/spyro-realm-beyond-tout-ce-que-lon-sait-1280x853.jpg"
+        },
+        {
+          "title": "EA Sports FC 27 : Nouvelles révélations majeures",
+          "summary": "Découvrez les dernières informations et annonces concernant 'EA Sports FC 27', incluant un open-world inédit.",
+          "url": "https://www.journaldugeek.com/2026/09/12/ea-sports-fc-27-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-open-world-the-grounds/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/ea-sports-fc-27-tout-ce-que-lon-sait-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Valentigney : Projet de ville réduit à la baisse",
+          "summary": "La requalification du cœur de ville de Valentigney voit son projet revu à la baisse budgétaire, impactant le développement local.",
+          "url": "https://www.estrepublicain.fr/politique/2026/09/12/le-projet-de-requalification-du-coeur-de-ville-revu-a-la-baisse",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/E1229321-9516-4CBB-8616-1141034A2364/MF_contenu/le-projet-de-requalification-du-coeur-de-ville-revu-a-la-baisse-1789236059.jpg"
+        },
+        {
+          "title": "Plymouth Road Runner 1971 : Une rareté aux enchères",
+          "summary": "Une emblématique Plymouth Road Runner de 1971 est mise en vente sans prix de réserve, un événement pour collectionneurs.",
+          "url": "https://www.autojournal.fr/actu/insolites-actu/plymouth-road-runner-1971-sans-prix-reserve-425131.html",
+          "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2026/09/plymouth.jpg"
+        },
+        {
+          "title": "Faillite du n°1 du vélo : Un marché en mutation",
+          "summary": "Le leader du vélo déclare faillite, reflétant les défis et évolutions rapides du marché de la mobilité électrique.",
+          "url": "https://www.frandroid.com/survoltes/3245487_faillite-du-n1-du-velo-panneaux-solaires-pour-chauffer-et-recharger-promos-electriques-la-semaine-sur-survoltes",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/03/dsc01717-2.jpg?resize=1600,900&key=11f34ebf"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Basket Bleues en finale mondiale contre les USA",
-          "summary": "L'équipe de France féminine de basket affrontera les États-Unis en finale de la Coupe du monde.",
+          "title": "Basket : Les Bleues en finale mondiale contre les USA",
+          "summary": "L'équipe de France féminine affrontera les États-Unis en finale de la Coupe du monde de basket après une victoire convaincante.",
           "url": "https://rmcsport.bfmtv.com/basket/feminin/direct-france-allemagne-suivez-en-live-la-demi-finale-de-la-coupe-du-monde-de-basket-feminin_LN-202609120153.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kosUGalmYPkATLXFR9gkYElakiQ=/6x115:2038x1258/800x0/images/Gabby-Williams-lors-de-France-Allemagne-le-12-septembre-2026-2346980.jpg"
         },
         {
-          "title": "Athlétisme : L'Ultimate Championship révolutionne le sport",
-          "summary": "Nouvelles règles et show garanti : l'Ultimate Championship veut transformer l'athlétisme avec 10M$ à la clé.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/de-la-hype-du-show-10-millions-de-dollars-a-la-cle-l-ultimate-championship-veut-revolutionner-l-athle_AV-202609080413.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tEZhz-i8xuBop7mSkanZoBcNHBo=/0x22:1184x688/800x0/images/Athletisme-Julien-Alred-lors-de-sa-victoire-sur-200m-a-Bruxelles-en-Ligue-de-Diamant-le-4-septembre-2026-2344348.jpg"
+          "title": "Athlétisme : L'Ultimate Championship révolutionne la piste",
+          "summary": "Javelots lumineux et piste noire : l'Ultimate Championship lance des innovations spectaculaires pour réinventer l'athlétisme mondial.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/javelots-lumineux-piste-noire-duplantis-chanteur-ces-nouveautes-lancees-par-l-ultimate-la-nouvelle-competition-d-athletisme-revolutionnaire_AV-202609110395.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lLoPJFoIRwPnQTdlqLa7Ldrg6Ig=/0x212:2048x1364/800x0/images/Noah-Lyles-sur-le-tapis-rouge-de-presentation-de-l-Ultimate-championship-nouveau-championnat-d-athletisme-le-10-septembre-2026-2346405.jpg"
         },
         {
-          "title": "NBA : Clippers lourdement sanctionnés pour Leonard",
-          "summary": "30 millions de dollars d'amende et suspensions : les Clippers paient cher pour avoir contourné les règles salariales.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-30-millions-de-dollars-d-amende-dirigeants-suspendus-les-clippers-lourdement-sanctionnes-pour-avoir-contourne-les-regles-salariales-pour-leonard_AV-202609020948.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h2d0M7YmP3Jj7zgoSWKSfmu1pRw=/6x144:2022x1278/800x0/images/Kawhi-Leonard-au-duel-avec-Donte-DiVincenzo-lors-du-match-entre-Minnesota-et-les-Los-Angeles-Clippers-108-106-le-6-janvier-2025-2009844.jpg"
+          "title": "Racing 92 : La spirale négative continue",
+          "summary": "Le Racing 92 s'enfonce dans la crise après une troisième défaite consécutive en Top 14, inquiétant ses supporters.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/jamais-deux-sans-trois-le-racing-92-continue-de-sombrer_AV-202609120343.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/SCEtx6DEe5MdqIArEmrCsrlJsSw=/0x212:2048x1364/800x0/images/Les-joueurs-du-Racing-92-face-au-LOU-le-12-septembre-2026-2347043.jpg"
         }
       ]
     }
