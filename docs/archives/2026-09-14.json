@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Fête de la Croix Glorieuse",
+  "global_summary": "L'actualité mondiale est marquée par les déclarations incisives de Donald Trump, entre explications sur la flambée des prix du diesel et son rôle potentiel dans les négociations ukrainiennes, suggérant des bouleversements diplomatiques majeurs. Pendant ce temps, la Turquie continue de faire parler d'elle par une répression accrue envers les organisations LGBT, révélant des tensions sociétales et politiques persistantes. Ces événements dessinent un tableau international complexe, où les enjeux politiques et humains se confrontent à des défis économiques et sociaux.\n\nSur le plan national, les débats économiques s'intensifient en France, avec des prises de position fortes sur la hausse du Smic et les réformes des retraites, reflétant les préoccupations des citoyens. Le monde du sport, lui, est en pleine effervescence : les basketteuses françaises se préparent à un parcours semé d'embûches pour les JO 2028, tandis que le Tour d'Espagne célèbre un vainqueur tant attendu. Parallèlement, l'athlétisme explore de nouvelles voies avec une compétition prometteuse, signe d'une quête constante d'innovation et de spectacle.",
+  "running_advice": "Salut à toi, champion(ne) ! Aujourd'hui, la météo est une véritable invitation à chausser tes baskets. Avec un ciel peu nuageux et aucune pluie en vue, c'est idéal pour tes sessions. Cependant, les températures atteignant 33.1°C en pleine journée et un indice UV de 5.7 te demandent une stratégie maline. Pour optimiser ta course et préserver ta santé, privilégie un départ matinal, juste après le lever du soleil à 7h40, quand la fraîcheur de 16.4°C est la plus agréable. Si tu es plutôt oiseau de nuit, vise la fin de journée, après 18h30, pour profiter de l'adoucissement progressif. Dans tous les cas, l'hydratation est ta meilleure alliée et, avec un UV si élevé, n'oublie jamais ta crème solaire, tes lunettes et une casquette ! C'est le moment de te dépasser intelligemment. Go !",
+  "weather_string": "🌤️ Peu nuageux (16.4°C / 33.1°C)",
+  "weather_stats": {
+    "temp": "33.1°C",
+    "rain": "0%",
+    "uv": "5.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump désigne le coupable du diesel cher",
+          "summary": "Donald Trump accuse la transition énergétique d'être responsable de la flambée des prix du diesel.",
+          "url": "https://www.huffingtonpost.fr/international/article/donald-trump-a-un-coupable-tout-trouve-pour-expliquer-la-flambee-des-prix-du-diesel_323897.html",
+          "image": "https://focus.huffingtonpost.fr/2026/08/18/117/0/5185/2916/0/0/60/0/0aa157c_upload-1-t2xl5vqltxkl-afp-20260817-c4vk6y3-v1-highres-776547240.jpg"
+        },
+        {
+          "title": "Trump et la paix en Ukraine : rôle clé pour la CIA ?",
+          "summary": "Donald Trump pourrait confier au patron de la CIA un rôle majeur dans les négociations avec Poutine sur l'Ukraine.",
+          "url": "https://www.lexpress.fr/monde/amerique/guerre-en-ukraine-donald-trump-pourrait-confier-un-role-cle-au-patron-de-la-cia-dans-les-MSVQ4XGBGFH6DMAWC3QE3TBGVU/",
+          "image": "https://www.lexpress.fr/resizer/v2/QPX2IIWUAVDMFIQFJEKCPMDM7A.JPG?auth=92e2053348eb8bdf0637426ee434ec206034ed30b1aa6358d20a52ed0513c10c&smart=true&width=5853&height=3902"
+        },
+        {
+          "title": "La Turquie réprime les organisations LGBT",
+          "summary": "La Turquie intensifie sa répression envers les organisations et les droits des personnes LGBT sur son territoire.",
+          "url": "https://www.la-croix.com/international/la-turquie-s-en-prend-aux-organisations-lgbt-20260913",
+          "image": "https://i.la-croix.com/x/2026/09/13/2533569-des-policiers-turcs-devant-une-discotheque-lors-d-.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France & Économie",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Smic : Farandou dit non à la hausse",
+          "summary": "Jean-Pierre Farandou (SNCF) estime qu'il faut \"créer la richesse avant de la partager\", refusant une hausse du Smic.",
+          "url": "https://www.capital.fr/votre-carriere/il-faut-creer-la-richesse-avant-de-la-partager-jean-pierre-farandou-dit-non-a-une-hausse-du-smic-1530102",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~09~13~5e1f1a59-8f60-4079-8b8e-f466b0cbb605.png/1200x900/focus-point/1296%2C464/il-faut-creer-la-richesse-avant-de-la-partager-jean-pierre-farandou-dit-non-a-une-hausse-du-smic.jpg"
+        },
+        {
+          "title": "Retraites : les seniors récalcitrants",
+          "summary": "Face aux projets d'économies du gouvernement, des seniors expriment leur forte réticence sur les retraites.",
+          "url": "https://www.franceinfo.fr/economie/budget/reportage-ca-rime-a-rien-face-a-la-volonte-du-gouvernement-de-realiser-des-economies-sur-les-retraites-des-seniors-reticents_8190929.html",
+          "image": "https://www.franceinfo.fr/pictures/EOP2AbOv68yg4d4Zg57-IckK3h8/0x0:5000x2812/432x243/filters:format(jpg)/2026/09/13/6aa6e25451444133777449.jpg"
+        },
+        {
+          "title": "Éleveur passionné choisit le circuit court",
+          "summary": "À La Valla-en-Gier, Sébastien Tholot, éleveur par passion, s'engage dans le circuit court pour ses produits.",
+          "url": "https://www.leprogres.fr/economie/2026/09/13/eleveur-par-passion-sebastien-tholot-a-fait-le-choix-du-circuit-court",
+          "image": "https://cdn-s-www.leprogres.fr/images/D94DD097-9FE6-482C-9D62-52B9491D350C/NW_listB/eleveur-par-passion-sebastien-tholot-a-fait-le-choix-du-circuit-court-1789322816.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovations",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "BepiColombo se dirige vers Mercure",
+          "summary": "La sonde européenne BepiColombo se prépare à atteindre Mercure après une phase de largage réussie.",
+          "url": "https://www.journaldugeek.com/2026/09/14/la-sonde-europeenne-bepicolombo-se-deleste-avant-de-filer-vers-mercure/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/bepicolombo-1280x853.jpg"
+        },
+        {
+          "title": "Halo 7 : les premières informations dévoilées",
+          "summary": "Découvrez tout ce que l'on sait à ce jour sur le futur titre de science-fiction, Halo 7.",
+          "url": "https://www.journaldugeek.com/2026/09/13/halo-7-tout-ce-que-lon-sait-a-ce-jour-infos-annonces-date-de-sortie-lieux-personnages/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/halo-7-tout-ce-que-lon-sait-1280x853.jpg"
+        },
+        {
+          "title": "Une Kia 2013 avec un problème discret",
+          "summary": "Une Kia Forte de 2013 présentait un problème insoupçonné malgré une batterie en parfait état.",
+          "url": "https://www.autojournal.fr/actu/insolites-actu/kia-forte-batterie-bon-etat-probleme-discret-425162.html",
+          "image": "https://sf1.autojournal.fr/wp-content/uploads/autojournal/2026/09/roue-kia.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Bleues Basket : le défi des JO 2028",
+          "summary": "Après la défaite en finale du Mondial, les Bleues du basket préparent un parcours périlleux pour les JO 2028.",
+          "url": "https://rmcsport.bfmtv.com/basket/feminin/basket-le-parcours-perilleux-qui-attend-les-bleues-pour-se-qualifier-aux-jo-2028-apres-leur-defaite-en-finale-du-mondial_AN-202609130405.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h8_O86Myd-b67yNNa6dhgqrnFkM=/0x107:2048x1259/800x0/images/L-equipe-de-France-feminine-de-basketball-apres-sa-defaite-en-finale-de-a-Coupe-du-monde-face-aux-Etats-Unis-le-13-septembre-2026-2347338.jpg"
+        },
+        {
+          "title": "Enric Mas enfin sacré au Tour d'Espagne",
+          "summary": "Après des années d'attente et de désillusions, Enric Mas savoure enfin sa victoire sur la Vuelta 2026.",
+          "url": "https://www.europe1.fr/sport/tour-despagne-2026-apres-des-annees-de-desillusions-enric-mas-savoure-enfin-son-sacre-sur-la-vuelta-1075277",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/09/13/20/000_c87t67w_1_6aa6e6b2e7922.jpg"
+        },
+        {
+          "title": "L'Ultimate Championship révolutionne l'athlé",
+          "summary": "Javelots lumineux, piste noire : la nouvelle compétition Ultimate Championship veut révolutionner l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/javelots-lumineux-piste-noire-duplantis-chanteur-ces-nouveautes-lancees-par-l-ultimate-la-nouvelle-competition-d-athletisme-revolutionnaire_AV-202609110395.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lLoPJFoIRwPnQTdlqLa7Ldrg6Ig=/0x212:2048x1364/800x0/images/Noah-Lyles-sur-le-tapis-rouge-de-presentation-de-l-Ultimate-championship-nouveau-championnat-d-athletisme-le-10-septembre-2026-2346405.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualités Locales (Faits Divers)",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Complot machiavélique mortel en Gironde",
+          "summary": "Une femme est soupçonnée d'avoir orchestré un complot pour tuer son compagnon avec son amant.",
+          "url": "https://www.sudouest.fr/justice/que-personne-ne-le-cherche-le-complot-machiavelique-d-une-femme-soupconnee-d-avoir-tue-son-compagnon-avec-l-aide-de-son-amant-30619591.php",
+          "image": ""
+        },
+        {
+          "title": "Procès pour viol et agression en Dordogne",
+          "summary": "Deux hommes sont jugés à Sarlat pour avoir frappé et violé un homme en 2023. Le procès débute ce lundi.",
+          "url": "https://www.sudouest.fr/faits-divers/cour-criminelle-departementale-de-la-dordogne-deux-hommes-accuses-d-en-avoir-frappe-et-viole-un-troisieme-a-sarlat-en-2023-juges-a-partir-de-ce-lundi-14-septembre-30608637.php",
+          "image": ""
+        },
+        {
+          "title": "Procès du cambriolage Donnarumma à Paris",
+          "summary": "Le procès s'ouvre à Paris pour le violent cambriolage ayant ciblé Gianluigi Donnarumma et sa femme enceinte.",
+          "url": "https://rmcsport.bfmtv.com/societe/frappe-et-sequestre-avec-sa-femme-enceinte-le-proces-du-violent-cambriolage-chez-gianluigi-donnarumma-s-ouvre-a-paris_AV-202609100306.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/L4iDVat0cl7VXozFEm3bsq19vwk=/0x148:2048x1300/800x0/images/Gianluigi-Donnarumma-lors-de-ses-adieux-au-PSG-le-22-aout-2025-2345709.jpg"
+        }
+      ]
+    }
+  ]
+}
