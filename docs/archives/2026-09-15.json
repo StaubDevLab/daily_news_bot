@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Roland",
+  "global_summary": "Cette journée est marquée par un mélange d'émotions intenses, allant du scandale éthique dans le monde de la publicité sportive à des exploits humains incroyables qui défient le temps et la distance. Les enjeux économiques et sociaux sont également au cœur de l'actualité, avec des discussions sur la préférence européenne dans les marchés publics et les défis de la rentrée pour les étudiants. \nEn France, les transports et les aides sociales mobilisent l'attention, tandis que la sphère technologique française brille avec des projets ambitieux. Enfin, le monde du sport nous offre son lot habituel de retours triomphaux, de drames inattendus et de performances… mémorables, soulignant la complexité et la diversité des événements qui rythment notre quotidien.",
+  "running_advice": "Alors, prêt à chausser vos baskets ? Absolument ! Aujourd'hui, avec un ciel peu nuageux et aucune pluie en vue, c'est une excellente journée pour bouger. Cependant, les températures vont monter jusqu'à 33.3°C et l'indice UV est à 5.65, ce qui est élevé. Mon conseil de coach : privilégiez une course revigorante au lever du soleil, idéalement entre 07h41 et 09h00, ou alors une session plus fraîche en fin de journée, après 19h00. N'oubliez pas votre crème solaire, un chapeau, et hydratez-vous généreusement avant, pendant et après l'effort. Votre corps est une machine incroyable, donnez-lui les meilleures conditions pour s'exprimer !",
+  "weather_string": "🌤️ Peu nuageux (16.9°C / 33.3°C)",
+  "weather_stats": {
+    "temp": "33.3°C",
+    "rain": "0%",
+    "uv": "5.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Scandale : Sydney Sweeney et une pub de paris sportifs",
+          "summary": "Une campagne publicitaire osée avec l'actrice choque et scandalise de nombreuses athlètes.",
+          "url": "https://www.nouvelobs.com/societe/20260914.OBS118242/sydney-sweeney-denudee-pour-la-publicite-un-site-de-paris-sportifs-de-nombreuses-athletes-scandalisees.html",
+          "image": "https://focus.nouvelobs.com/2026/09/14/1/0/4649/3099/0/0/60/0/793d9b8_upload-1-hywlj8v1a68b-075-collin-41stannu260209-npmfx.jpg"
+        },
+        {
+          "title": "L'homme qui a marché du Chili à l'Angleterre",
+          "summary": "Un exploit incroyable : il a mis 28 ans pour parcourir la distance à pied.",
+          "url": "https://www.bfmtv.com/international/europe/angleterre/video-cet-homme-est-parti-du-chili-il-y-a-28-ans-pour-rejoindre-l-angleterre-a-pied_VN-202609140807.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/nNa6cdQsg3YUaLvWueiCB1c86U4=/0x0:1280x720/800x0/images/Cet-homme-est-parti-du-Chili-il-y-a-28-ans-pour-rejoindre-l-angleterre-a-pied-2347891.jpg"
+        },
+        {
+          "title": "Yémen : la reprise du conflit déplace des milliers",
+          "summary": "Le regain de violence au Yémen force près de 94 000 personnes à fuir leurs foyers.",
+          "url": "https://www.lemonde.fr/international/video/2026/09/14/reprise-du-conflit-au-yemen-pres-de-94-000-deplaces-selon-l-oim_6773882_3210.html",
+          "image": "https://img.lemde.fr/2026/09/14/445/0/5335/2667/1342/671/60/0/4abdb89_ftp-1-42diqcsjixfh-13aaaf4f905e4bccbd548a0aefbe3cb6-0-88016ca1daa1435397ea8284e3dd5e64.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Navigo annuel : le remboursement intégral pour des usagers",
+          "summary": "Une bonne nouvelle pour les Franciliens : le forfait annuel Navigo est entièrement remboursé pour certains.",
+          "url": "https://www.journaldugeek.com/2026/09/15/le-forfait-navigo-annuel-est-integralement-rembourse-pour-tous-ces-usagers/",
+          "image": "https://www.journaldugeek.com/app/uploads/2023/12/pass-navigo-1500x844.jpeg"
+        },
+        {
+          "title": "Le TGV M prend du retard : patience requise",
+          "summary": "Le train à grande vitesse de nouvelle génération verra sa mise en service décalée.",
+          "url": "https://www.journaldugeek.com/2026/09/15/encore-un-peu-de-retard-pour-le-tgv-m/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/tgv-m-nouvelle-generation-sncf-paris-marseille-1280x853.jpeg"
+        },
+        {
+          "title": "Rentrée étudiante : Crous face à de multiples enjeux",
+          "summary": "Repas à 1 euro, logement, bourses : la rentrée s'annonce complexe pour les Crous.",
+          "url": "https://www.lanouvellerepublique.fr/poitiers/repas-a-un-euro-logement-bourses-une-rentree-a-enjeux-multiples-pour-les-crous-de-nouvelle-aquitaine-1789413293",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6aa847abd409f1b5298b456d"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Dassault Vortex : la France soutient son avion spatial",
+          "summary": "Le projet d'avion spatial Vortex de Dassault Aviation reçoit un appui décisif pour la conquête orbitale.",
+          "url": "https://www.generation-nt.com/actualites/dassault-vortex-avion-spatial-europe-ohb-2081142",
+          "image": "https://img.generation-nt.com/dassault-ohb-vortex_01724403.jpg"
+        },
+        {
+          "title": "LG rassure : vos télés n'écoutent pas vos soirées",
+          "summary": "Le fabricant s'engage à garantir la confidentialité des données de ses utilisateurs de téléviseurs connectés.",
+          "url": "https://www.journaldugeek.com/2026/09/15/lg-le-promet-ses-teles-ne-passent-pas-leurs-soirées-a-vous-ecouter/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/LG-OLED-65G5-1280x853.jpg"
+        },
+        {
+          "title": "Smartphone photo 2026 : notre guide pour réussir vos clichés",
+          "summary": "Découvrez les meilleurs modèles de smartphones pour des photos et vidéos exceptionnelles en 2026.",
+          "url": "https://www.nicematin.com/guide-conso/smartphone-photo-quels-modeles-choisir-pour-reussir-photos-et-videos-en-2026-10723795",
+          "image": "https://assets.nicematin.com/articles/10/72/37/95/OG-10723795-1200-800-118cef2_upload-1-fpywb1redy0b-comparatif-meilleur-smartphone-photo.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Pierre Frey : la beauté du produit clé de la réussite",
+          "summary": "Le PDG de Pierre Frey souligne l'importance esthétique pour le succès des entreprises créatives.",
+          "url": "https://www.europe1.fr/economie/maison-de-creation-la-reussite-dune-entreprise-repose-avant-tout-sur-la-beaute-du-produit-assure-le-pdg-de-pierre-frey-1077497",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/09/14/17/untitled_6_1_6aa818f8eca11.jpg"
+        },
+        {
+          "title": "Le Débrief de la tech : l'essentiel du jour",
+          "summary": "Retrouvez les dernières actualités et analyses clés du monde de la technologie économique.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-debrief-de-la-tech-lundi-14-septembre_VN-202609140841.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/EBDu6gnc-HTibXuGrUi5I7ny47k=/0x0:1280x720/800x0/images/Le-Debrief-de-la-tech-Lundi-14-septembre-2347913.jpg"
+        },
+        {
+          "title": "Marchés publics : préférence européenne, nos objectifs",
+          "summary": "Stéphane Séjourné défend l'idée que l'argent public doit servir les objectifs européens.",
+          "url": "https://www.bfmtv.com/international/europe/video-preference-europeenne-dans-les-marches-publics-l-argent-public-doit-servir-nos-objectifs-defend-stephane-sejourne_VN-202609140802.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/3pvPcmdv8Cif6gTdIAkuVfxaXic=/0x0:1280x720/800x0/images/Preference-europeenne-dans-les-marches-publics-L-argent-public-doit-servir-nos-objectifs-defend-Stephane-Sejourne-2347884.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Accident grave en Gironde : un homme blessé",
+          "summary": "Une collision entre camions et voiture à Laruscade laisse un homme en urgence absolue.",
+          "url": "https://www.sudouest.fr/gironde/laruscade/gironde-un-homme-en-urgence-absolue-apres-une-collision-entre-deux-camions-et-une-voiture-30633899.php",
+          "image": ""
+        },
+        {
+          "title": "Villenave-d'Ornon : ivre au volant devant la police",
+          "summary": "Un conducteur en état d'ivresse provoque un dérapage spectaculaire face aux forces de l'ordre.",
+          "url": "https://www.sudouest.fr/faits-divers/villenave-d-ornon-ivre-au-volant-il-fait-un-derapage-devant-les-policiers-30628530.php",
+          "image": ""
+        },
+        {
+          "title": "Tourisme Landes : baisse mais anticipation 2024",
+          "summary": "Le taux d'occupation des Gîtes de France est en baisse par rapport à 2025 mais devance 2024.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/saison-touristique-dans-les-landes-le-taux-d-occupation-de-l-ete-pour-les-gites-de-france-est-en-baisse-par-rapport-a-2025-mais-malgre-tout-en-avance-a-date-par-rapport-a-2024-30529593.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "NBA : Kawhi Leonard retourne aux Raptors",
+          "summary": "Sept ans après le sacre, Kawhi Leonard effectue un retour émouvant chez les Toronto Raptors.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-kawhi-leonard-fait-son-grand-retour-aux-toronto-raptors-sept-ans-apres-un-sacre-inoubliable_AV-202609140866.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k90R5q-VHUHxabGrKC2f6pGzzIU=/0x83:2048x1235/800x0/images/Kawhi-Leonard-2009816.jpg"
+        },
+        {
+          "title": "Drame : un coureur meurt près de l'arrivée",
+          "summary": "Un semi-marathon en Bretagne s'achève dans l'effroi après le décès d'un participant.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-coureur-meurt-a-quelques-metres-de-la-ligne-d-arrivee-un-semi-marathon-s-achieve-dans-l-effroi-en-bretagne_AV-202609140762.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/l7P1TvDjyKT3Yz-vgLRaFRvhu6A=/0x106:2048x1258/800x0/images/Photo-illustration-running-2347774.jpg"
+        },
+        {
+          "title": "Hyrox Pékin : victoire insolite pour Wietrzyk",
+          "summary": "La compétition Hyrox à Pékin voit Wietrzyk triompher dans des circonstances pour le moins inattendues.",
+          "url": "https://rmcsport.bfmtv.com/societe/video-hyrox-pekin-wietrzyk-gagne-couverte-d-excrements_VN-202609140520.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/jJTPPXDPkMsLPlCJD4Cxtoey2oA=/0x0:1280x720/800x0/images/Hyrox-Pekin-Wietrzyk-gagne-couverte-d-excrements-2347702.jpg"
+        }
+      ]
+    }
+  ]
+}
