@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Renaud",
+  "global_summary": "L'actualité mondiale est marquée par des tensions politiques et sécuritaires, notamment en Belgique où la ministre de l'asile est critiquée, et en France avec des cyberattaques d'origine russe suspectée. La justice internationale a aussi prononcé une lourde peine contre l'ex-président du Kosovo pour crimes de guerre. Sur le plan économique, la France prolonge ses aides face à la flambée des carburants, tandis que la Réserve fédérale américaine durcit sa politique monétaire en relevant ses taux pour contrer l'inflation. Le secteur technologique voit Apple innover avec de nouvelles bêtas et Google corriger une faille critique sur ses Pixel. Enfin, le monde du sport est secoué par un scandale de bizutage à l'INSEP, mais célèbre également l'organisation des Mondiaux d'athlétisme 2029 au Kenya, une première historique pour l'Afrique.",
+  "running_advice": "Fantastique nouvelle, Saint Renaud ! Aujourd'hui est une journée absolument parfaite pour chausser vos baskets et aller courir. Avec des températures allant de 10.4°C à un agréable 23°C et aucune pluie à l'horizon, les conditions sont optimales. Le brouillard matinal devrait vite laisser place à une ambiance fraîche et vivifiante. Je vous recommande chaudement de planifier votre session entre **10h00 et 16h00**. L'air sera réchauffé, et vous bénéficierez d'une visibilité claire. Mais attention, avec un indice UV de 4.4, n'oubliez pas votre crème solaire et une casquette ! C'est votre bouclier contre les rayons, même quand le ciel est voilé. Hydratez-vous généreusement avant et après l'effort. C'est le moment de vous dépasser, de sentir cette énergie circuler et de vous reconnecter avec vous-même. Allez, on y va, donnez tout !",
+  "weather_string": "🌫️ Brouillard (10.4°C / 23°C)",
+  "weather_stats": {
+    "temp": "23°C",
+    "rain": "0%",
+    "uv": "4.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Belgique : Asile, Gaza et Critiques Ministérielles",
+          "summary": "La ministre belge de l’asile est sous le feu des critiques pour son refus d'accueillir des étudiants de Gaza.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/16/en-belgique-la-ministre-de-l-asile-sous-le-feu-des-critiques-pour-son-refus-d-accueillir-treize-etudiants-de-gaza_6775454_3210.html",
+          "image": "https://img.lemde.fr/2026/09/16/439/0/5265/2632/1342/671/60/0/d4ade1b_upload-1-kxptr2kgdqfv-000-49ch8gx.jpg"
+        },
+        {
+          "title": "Cyberattaques Françaises : L'Ombre Russe",
+          "summary": "Des sites sensibles français ciblés par des cyberattaques, l'État russe apparaît comme commanditaire.",
+          "url": "https://www.lemonde.fr/le-monde-et-vous/article/2026/09/16/cyberattaques-contre-des-sites-sensibles-francais-l-etat-russe-apparait-comme-le-commanditaire-ou-le-beneficiaire-de-toutes-ces-donnees_6775453_6065879.html",
+          "image": "https://img.lemde.fr/2026/09/16/250/0/3000/1500/1342/671/60/0/5a1757a_upload-1-fclfcir9s8yn-nuit-data-chercheuse-ens.jpg"
+        },
+        {
+          "title": "Kosovo : Thaci Condamné pour Crimes de Guerre",
+          "summary": "L'ancien président du Kosovo, Hashim Thaci, a été condamné à 25 ans de prison pour crimes de guerre.",
+          "url": "https://www.courrierinternational.com/article/justice-l-ancien-president-du-kosovo-hashim-thaci-condamne-a-25-ans-de-prison-pour-crimes-de-guerre_271770",
+          "image": "https://focus.courrierinternational.com/2026/09/16/0/0/4390/3022/644/0/60/0/14fedf9_ftp-1-mjo3zjk803y1-afp-c8g44zv.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Carburants : Aides Prolongées en France",
+          "summary": "Sébastien Lecornu prolonge les aides ciblées sur les carburants jusqu'à fin 2026 face à la flambée des prix.",
+          "url": "https://actu.fr/economie/flambee-des-carburants-sebastien-lecornu-prolonge-les-aides-ciblees-jusqu-a-la-fin-2026-voici-qui-est-concerne_64799903.html",
+          "image": "https://static.actu.fr/uploads/2026/09/818b12c1-131c-3d1e-9f46-639782b6417-1024x557.jpeg"
+        },
+        {
+          "title": "Éditorial : Crise et Vide Politique Français",
+          "summary": "Vincent Trémolet de Villers dépeint une \"crise historique\" et un \"vide politique\" dans son éditorial au Figaro.",
+          "url": "https://www.lefigaro.fr/vox/politique/l-editorial-de-vincent-tremolet-de-villers-crise-historique-vide-politique-20260916",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/09/16/632a641c0d6473c2674f2a3085f2a3c548c94a8b427af03b63fe213d7b509b31.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Apple : Nouveaux Bêtas pour iOS, macOS, watchOS",
+          "summary": "Apple lance déjà les premières bêtas d'iOS 27.2, macOS 27.2 et watchOS 27.2, une surprise pour les développeurs.",
+          "url": "https://www.mac4ever.com/divers/198071-surprise-apple-lance-deja-les-premieres-betas-d-ios-27-2-macos-27-2-et-watchos-27-2",
+          "image": "https://img-api.mac4ever.com/1200/0/895da69209_beta-27.webp"
+        },
+        {
+          "title": "Test Google Pixel 11 : Nouveau Cerveau",
+          "summary": "Le Google Pixel 11 est testé : un smartphone familier avec un \"nouveau cerveau\" puissant.",
+          "url": "https://www.presse-citron.net/test-google-pixel-11/",
+          "image": "https://www.presse-citron.net/app/uploads/2026/09/L1040607_DxO_PC-880x585.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "La Fed Relève Ses Taux Face à l'Inflation",
+          "summary": "La Réserve fédérale relève ses taux d'intérêt, première hausse depuis 2023, pour calmer l'inflation.",
+          "url": "https://www.bfmtv.com/economie/kevin-warsh-ne-donne-pas-plus-satisfaction-a-donald-trump-que-jerome-powell-la-fed-releve-ses-taux-d-interets-pour-calmer-l-inflation-et-envisage-une-autre-hausse-d-ici-la-fin-de-l-annee_AD-202609160829.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7boRLILUgHMyARA2t9as7mw5Sd8=/0x0:2048x1152/800x0/images/Donald-Trump-Kevin-Warsh-2326769.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Périgueux : Agent Municipal Sanctionné",
+          "summary": "Un agent municipal de Périgueux sanctionné pour des propos jugés inappropriés.",
+          "url": "https://www.sudouest.fr/dordogne/un-agent-municipal-de-perigueux-sanctionne-pour-des-propos-inappropries-un-ancien-collegue-avait-denonce-son-attitude-aupres-du-precedent-maire-30649202.php",
+          "image": ""
+        },
+        {
+          "title": "Sud-Ouest : Évacuation de Bois Post-Tempêtes",
+          "summary": "5 millions de mètres cubes de bois à évacuer et exploiter pour les sylviculteurs du Sud-Ouest.",
+          "url": "https://www.sudouest.fr/economie/eco-et-entreprises/incendies-et-tempetes-5-millions-de-metres-cubes-de-bois-a-evacuer-et-exploiter-pour-les-sylviculteurs-du-sud-ouest-30633936.php",
+          "image": ""
+        },
+        {
+          "title": "Landes : Feu de Forêt à Labouheyre",
+          "summary": "250 pompiers mobilisés et d'importants moyens aériens pour éteindre un feu de forêt dans les Landes.",
+          "url": "https://www.sudouest.fr/landes/labouheyre/landes-250-pompiers-au-sol-et-d-importants-moyens-aeriens-mobilises-pour-eteindre-un-feu-de-foret-a-labouheyre-30658475.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Google Pixel : Faille Critique Bouchée",
+          "summary": "Google a corrigé une faille critique de sécurité déjà exploitée sur ses téléphones Pixel.",
+          "url": "https://www.journaldugeek.com/2026/09/17/pixel-google-bouche-une-faille-critique-deja-exploitee/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/Google-Pixel-11-Pro-XL-17-1280x853.jpg"
+        },
+        {
+          "title": "Microsoft : Windows & Surface Tournent IA",
+          "summary": "Le grand rendez-vous Windows et Surface de Microsoft sera centré sur l'intelligence artificielle locale.",
+          "url": "https://www.journaldugeek.com/2026/09/17/le-grand-rendez-vous-windows-et-surface-de-microsoft-tournera-autour-de-lia-locale/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/surface-microsoft-1280x853.jpg"
+        },
+        {
+          "title": "Harry Potter : Nouveaux Noms Saison 2",
+          "summary": "La série Harry Potter annonce trois nouveaux acteurs pour sa saison 2, dont un personnage majeur.",
+          "url": "https://www.journaldugeek.com/2026/09/16/la-serie-harry-potter-ajoute-encore-trois-nouveaux-noms-pour-sa-saison-2-et-il-y-a-un-personnage-majeur/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/harry-potter-saison-2-arthur-weasley-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "INSEP : Sanctions Après Bizutage Violent",
+          "summary": "L'INSEP prend des sanctions contre 10 jeunes basketteurs suite à un violent bizutage au Pôle France.",
+          "url": "https://rmcsport.bfmtv.com/basket/violent-bizutage-au-pole-france-l-insep-prend-la-parole-et-annonce-des-sanctions-contre-10-jeunes-basketteurs_AV-202609160580.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/MDkYND4HEnq8aCvnkMkQzLQ_rwU=/415x0:1679x711/800x0/images/L-INSEP-a-Paris-1593352.jpg"
+        },
+        {
+          "title": "Athlétisme : Kenya Hôte des Mondiaux 2029",
+          "summary": "Le Kenya organisera les Championnats du monde d'athlétisme 2029, une première historique pour l'Afrique.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-une-grande-premiere-pour-l-afrique-les-championnats-du-monde-2029-seront-organises-au-kenya_AV-202609150478.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/91TVMVOKgTSDwgZG8vhSAo7Hwns=/0x79:2048x1231/800x0/images/Les-championnats-du-monde-d-athletisme-U20-a-Nairobi-Kenya-le-22-aout-2021-2348363.jpg"
+        },
+        {
+          "title": "Bretagne : Drame au Semi-Marathon",
+          "summary": "Un coureur décède tragiquement à quelques mètres de l'arrivée d'un semi-marathon en Bretagne.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-coureur-meurt-a-quelques-metres-de-la-ligne-d-arrivee-un-semi-marathon-s-acheve-dans-l-effroi-en-bretagne_AV-202609140762.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/l7P1TvDjyKT3Yz-vgLRaFRvhu6A=/0x106:2048x1258/800x0/images/Photo-illustration-running-2347774.jpg"
+        }
+      ]
+    }
+  ]
+}
