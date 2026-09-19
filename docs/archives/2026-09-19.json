@@ -1,0 +1,109 @@
+{
+  "ephemeride": "Sainte Emilie",
+  "global_summary": "La journée est marquée par une actualité dense, oscillant entre les graves enjeux géopolitiques et humanitaires mondiaux, comme la situation au Haut-Karabagh et des révélations sur Vladimir Poutine, et des avancées technologiques fulgurantes. L'intelligence artificielle et l'espace deviennent des terrains de compétition et de régulation intense, illustrant la rapide transformation de notre environnement. \n\nSur le front national, la France est confrontée aux défis de la reconstruction post-incendies en Gironde, soulevant des questions écologiques et politiques cruciales. Le monde du sport, quant à lui, navigue entre drames, innovations majeures et restructurations stratégiques, promettant une effervescence continue pour les athlètes et les fans.",
+  "running_advice": "Excellente nouvelle, amis runners ! Aujourd'hui, les conditions météo sont parfaites pour enfiler vos baskets et booster votre énergie. Avec des températures allant de 11.8°C à 25.3°C et un ciel peu nuageux, sans aucune pluie à l'horizon, c'est le moment idéal pour une séance dynamique. Pour profiter au maximum de cette belle journée et éviter le pic UV (indice de 5.45), je vous conseille de courir tôt le matin, entre 8h00 et 10h00, ou en fin d'après-midi, entre 17h00 et 19h00. Et n'oubliez pas : avec un indice UV si élevé, la protection solaire est de mise ! Crème solaire, casquette, lunettes... Prenez soin de vous tout en vous surpassant. Allez, on se motive et on va chercher nos objectifs !",
+  "weather_string": "🌤️ Peu nuageux (11.8°C / 25.3°C)",
+  "weather_stats": {
+    "temp": "25.3°C",
+    "rain": "0%",
+    "uv": "5.45"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Haut-Karabagh: Le Silence du Droit ?",
+          "summary": "Une question alarmante sur le sort d'un peuple, soulevant des enjeux cruciaux de justice et de reconnaissance internationale.",
+          "url": "https://www.nouvelobs.com/opinions/20260918.OBS118381/haut-karabagh-un-peuple-peut-il-disparaitre-du-droit.html",
+          "image": "https://focus.nouvelobs.com/2026/09/18/0/0/6240/4160/0/0/60/0/8390906_upload-1-uiopu28fgawy-080-hl-nguyonnet-2169372.jpg"
+        },
+        {
+          "title": "Football: UEFA & Concacaf Réclament des Millions",
+          "summary": "Bras de fer financier entre les confédérations et la FIFA, exigeant 10 millions de dollars par fédération.",
+          "url": "https://www.france24.com/fr/sports/20260918-l-uefa-et-la-concacaf-r%C3%A9clament-%C3%A0-la-fifa-de-verser-10-millions-de-dollars-%C3%A0-chaque-f%C3%A9d%C3%A9ration",
+          "image": "https://s.france24.com/media/display/b0165db4-b38a-11f1-aee7-6f779f079bc8/w:1024/p:16x9/000-C6C88F3.jpg"
+        },
+        {
+          "title": "Poutine : Révélations sur un Homme Public",
+          "summary": "Des journalistes lèvent le voile sur la personnalité intime de Vladimir Poutine, loin de l'image officielle.",
+          "url": "https://www.midilibre.fr/2026/09/18/la-face-cachee-de-vladimir-poutine-hypocondriaque-infidele-et-phobique-social-deux-journalistes-revelent-lautre-visage-du-president-russe-13557917.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6aad7d75ead063c11503fed2/standard/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "🤖",
+      "articles": [
+        {
+          "title": "Espace: Armes US en Orbite",
+          "summary": "Les États-Unis confirment le déploiement d'armes spatiales, accélérant la militarisation de l'espace. Un enjeu majeur.",
+          "url": "https://www.journaldugeek.com/2026/09/18/etats-unis-admettent-deploye-armes-orbite-militarisation-lespace-saccelere/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/US-Army-1280x853.jpg"
+        },
+        {
+          "title": "IA: La Californie Veut un \"Stop\"",
+          "summary": "La Californie vise un \"interrupteur d'arrêt\" pour l'IA, posant les bases d'une régulation future et prudente.",
+          "url": "https://fr.qz.com/newsom-californie-ordre-excutif-interrupteur-darrt-ai-091826",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2293289902.jpg"
+        },
+        {
+          "title": "Pliables: iPhone Duo Défie Galaxy Z Fold 8",
+          "summary": "Le marché des smartphones pliables s'intensifie avec le duel très attendu entre Apple et Samsung.",
+          "url": "https://www.vosgesmatin.fr/science-et-technologie/2026/09/18/iphone-duo-vs-galaxy-z-fold-8-le-duel-des-pliants-passeport",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/EF696F40-5220-4E37-BB64-C512FE7CC101/NW_listB/iphone-duo-vs-galaxy-z-fold-8-le-duel-des-pliants-passeport-1789754667.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Gironde: Sylviculteurs Exigent Voix au Chapitre",
+          "summary": "Après les incendies, les professionnels de la forêt revendiquent un rôle central pour reconstruire l'avenir.",
+          "url": "https://www.sudouest.fr/faits-divers/incendies/incendies-en-gironde-et-dans-les-landes-pour-les-sylviculteurs-l-avenir-de-la-foret-se-construira-avec-nous-c-est-non-negociable-30687117.php",
+          "image": null
+        },
+        {
+          "title": "Coquerel en Gironde Post-Incendies",
+          "summary": "Le député Éric Coquerel évalue l'impact climatique et financier des récentes canicules et feux en Gironde.",
+          "url": "https://www.sudouest.fr/gironde/le-porge/incendies-eric-coquerel-au-porge-pour-evaluer-le-cout-climatique-de-la-canicule-et-des-incendies-30690778.php",
+          "image": null
+        },
+        {
+          "title": "Romans-sur-Isère: 15 Ans pour Meurtre",
+          "summary": "L'auteur du coup mortel contre Zakaria condamné à 15 ans de réclusion. Une affaire de vengeance qui a marqué.",
+          "url": "https://www.sudouest.fr/justice/adolescent-tue-en-2024-a-romans-sur-isere-zakaria-a-ete-sacrifie-sur-l-autel-de-la-vengeance-15-ans-de-reclusion-contre-l-auteur-du-coup-mortel-30691457.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Athlétisme: Mondiaux 2029 au Kenya !",
+          "summary": "L'Afrique accueillera les Championnats du Monde d'Athlétisme en 2029 au Kenya, une première historique.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-une-grande-premiere-pour-l-afrique-les-championnats-du-monde-2029-seront-organises-au-kenya_AV-202609150478.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/91TVMVOKgTSDwgZG8vhSAo7Hwns=/0x79:2048x1231/800x0/images/Les-championnats-du-monde-d-athletisme-U20-a-Nairobi-Kenya-le-22-aout-2021-2348363.jpg"
+        },
+        {
+          "title": "Drame en Bretagne: Coureur Décède au Semi-Marathon",
+          "summary": "Un semi-marathon en Bretagne s'achève tragiquement avec le décès d'un coureur près de la ligne d'arrivée.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-coureur-meurt-a-quelques-metres-de-la-ligne-d-arrivee-un-semi-marathon-s-acheve-dans-l-effroi-en-bretagne_AV-202609140762.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/l7P1TvDjyKT3Yz-vgLRaFRvhu6A=/0x106:2048x1258/800x0/images/Photo-illustration-running-2347774.jpg"
+        },
+        {
+          "title": "Basket: NBA et Euroligue se Rapprochent",
+          "summary": "La NBA et l'Euroligue en pourparlers pour créer la NBA Europe, promettant une ère nouvelle pour le basket continental.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/les-discussions-progressent-la-nba-annonce-un-rapprochement-avec-l-euroligue-pour-la-nba-europe_AV-202609160384.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/XyHKNiFbfLe2Ufn_J2IQ0jZUmHc=/0x68:2048x1220/800x0/images/Le-commissionnaire-de-la-NBA-Adam-Silver-avant-le-All-Star-Game-14-fevrier-2026-2235741.jpg"
+        }
+      ]
+    }
+  ]
+}
