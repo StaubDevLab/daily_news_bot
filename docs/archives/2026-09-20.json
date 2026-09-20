@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Davy",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux variés, allant des préparatifs intenses pour la visite du Pape Léon XIV à Paris, soulevant des débats sur la laïcité, jusqu'aux ambitieux mais non moins complexes projets spatiaux d'Elon Musk, qui rencontrent des défis inattendus. Le monde de l'intelligence artificielle est également au cœur des préoccupations, entre l'enthousiasme affiché par des leaders politiques comme Donald Trump et les interrogations éthiques soulevées par des philosophes. \n\nSur le plan national, la France innove avec l'introduction du Pass Patrimoine pour la rentrée, tandis que des drames humains et des analyses sociétales profondes, comme l'improbabilité d'un retour des Gilets Jaunes, continuent de façonner le quotidien. Le sport n'est pas en reste, célébrant des exploits individuels comme la victoire d'Agathe Guillemot, mais aussi confronté à des questions de société, illustrées par le soutien du PSG à Teddy Riner face aux messages de haine.",
+  "running_advice": "Quelle belle journée s'annonce pour enfiler vos baskets et attaquer la piste ! Avec un ciel peu nuageux et aucune pluie en vue, les conditions sont parfaites pour une session running énergisante. Les températures, allant de 14.2°C à 27.3°C, offrent une large fenêtre de confort. Je vous recommande chaudement de viser le début de matinée, juste après le lever du soleil vers 07h47, ou la fin d'après-midi, idéalement entre 17h00 et 19h00, pour profiter des températures plus douces et d'une lumière magnifique. Attention, l'indice UV est de 5.35, ce qui est modéré à élevé : protection solaire (crème, casquette, lunettes) est indispensable, même par temps couvert, pour préserver votre peau. Hydratez-vous bien et écoutez votre corps. Allez, on y va, donnez tout !",
+  "weather_string": "🌤️ Peu nuageux (14.2°C / 27.3°C)",
+  "weather_stats": {
+    "temp": "27.3°C",
+    "rain": "0%",
+    "uv": "5.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Pape à Paris: laïcité et République",
+          "summary": "L'archevêque de Paris défend la messe du Pape Léon XIV, affirmant qu'elle respecte la laïcité française.",
+          "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/la-messe-du-pape-a-paris-ne-franchit-pas-de-ligne-de-la-republique-laique-defend-l-archeveque-de-paris_8201036.html",
+          "image": "https://www.franceinfo.fr/pictures/guuA3SSUe49ZpDL5UfETEu_9U4Q/0x0:4048x2277/432x243/filters:format(jpg)/2026/09/19/6aaedb200d273409435272.jpg"
+        },
+        {
+          "title": "Visite papale: les préparatifs s'intensifient",
+          "summary": "À une semaine de l'événement, les préparatifs s'accélèrent pour la venue très attendue du Pape Léon XIV.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/visite-du-pape-leon-xiv-les-preparatifs-se-poursuivent-a-une-semaine-de-l-evenement_8201021.html",
+          "image": "https://www.franceinfo.fr/pictures/T3GZ1GWcDwXi0u3D6TNuiePlL_c/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/19/6aaed6e6e5fac682410047.jpg"
+        },
+        {
+          "title": "Mégalopole lunaire d'Elon Musk: fuites",
+          "summary": "Le projet de mégalopole lunaire d'Elon Musk rencontre des problèmes inattendus de fuites d'eau.",
+          "url": "https://www.journaldugeek.com/2026/09/19/la-megalopole-lunaire-delon-musk-prend-leau/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Poussiere-Lune-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Pass Patrimoine: la nouveauté 2026",
+          "summary": "La rentrée 2026 marque l'arrivée du Pass Patrimoine, une initiative culturelle très attendue.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20260919-france-le-pass-patrimoine-la-nouveaut%C3%A9-de-cette-rentr%C3%A9e-2026",
+          "image": "https://s.france24.com/media/display/816fa904-b45a-11f1-bfce-6f779f079bc8/w:1024/p:16x9/FR-20260919-191303-191421-CS.jpg"
+        },
+        {
+          "title": "Drame familial dans les Hauts-de-Seine",
+          "summary": "Un drame violent s'est produit, une mère ayant donné une vingtaine de coups de couteau à sa fille.",
+          "url": "https://www.leprogres.fr/faits-divers-justice/2026/09/19/une-mere-donne-une-vingtaine-de-coups-de-couteau-a-sa-fille-la-victime-entre-la-vie-et-la-mort",
+          "image": "https://cdn-s-www.leprogres.fr/images/C1BC2FF1-0106-4E7B-B0E8-59E8F93DB094/MF_contenu/une-mere-donne-une-vingtaine-de-coups-de-couteau-a-sa-fille-la-victime-entre-la-vie-et-la-mort-1789845179.jpg"
+        },
+        {
+          "title": "Gilets jaunes: retour improbable en 2026",
+          "summary": "Un expert explique pourquoi un retour du mouvement des Gilets jaunes, comme en 2018, semble peu probable.",
+          "url": "https://www.rtl.fr/actu/politique/le-mouvement-a-reussi-parce-qu-on-ne-l-attendait-pas-pourquoi-un-retour-des-gilets-jaunes-comme-en-2018-semble-improbable-7900674404",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1867994-un-gilet-jaune-affronte-un-policier-a-strasbourg-le-1er-decembre-2018.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Trump: pas de frein à l'IA, un 'tsar' dédié",
+          "summary": "Donald Trump annonce ne pas freiner la croissance de l'IA et nommera un 'tsar' pour ce secteur.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/nous-ne-freinerons-pas-sa-croissance-donald-trump-balaie-les-critiques-contre-l-ia-et-annonce-la-nomination-prochaine-d-un-tsar-dedie-20260919",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/09/19/8cd81cc6af849d770dfb831b2718e4ff49938d46e754554af3522307956afd05.jpg"
+        },
+        {
+          "title": "Finkielkraut s'inquiète de l'IA Claude",
+          "summary": "Le philosophe Alain Finkielkraut exprime ses inquiétudes face à l'intelligence artificielle Claude.",
+          "url": "https://www.bfmtv.com/societe/video-elle-est-tres-inquietante-alain-finkielkraut-philosophe-et-essayiste-repond-a-claude-l-intelligence-artificielle_VN-202609190355.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/L8KLqfj8lLcRqCTHocNNPjMToBw=/0x0:1280x720/800x0/images/Elle-est-tres-inquietante-Alain-Finkielkraut-philosophe-et-essayiste-repond-a-Claude-l-intelligence-artificielle-2351060.jpg"
+        },
+        {
+          "title": "Meta: lunettes connectées sans caméra",
+          "summary": "Meta explore des lunettes connectées dépourvues de caméra, misant sur une meilleure acceptation publique.",
+          "url": "https://www.journaldugeek.com/2026/09/19/meta-prepare-des-lunettes-connectees-sans-camera-pour-voir-si-ca-passe-mieux/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/meeta-ray-ban-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Société",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Les notaires ciblés par les trafiquants",
+          "summary": "Les notaires deviennent de nouvelles cibles privilégiées pour les réseaux de trafiquants et de fraudeurs.",
+          "url": "https://www.franceinfo.fr/economie/fraude/les-notaires-les-nouvelles-cibles-des-trafiquants_8201027.html",
+          "image": "https://www.franceinfo.fr/pictures/hqQYbcsbS6g6OzI5pfhzU_E-3og/0x99:1574x984/432x243/filters:format(jpg)/2026/09/19/6aaed7b5f2712239292934.png"
+        },
+        {
+          "title": "France Inter: silence avant de parler",
+          "summary": "Un article du JDD questionne les pratiques de prise de parole et le rôle de France Inter.",
+          "url": "https://www.lejdd.fr/Societe/france-inter-priere-de-se-taire-avant-de-parler-183912",
+          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/09/19/21/000_c8rj864.jpg?VersionId=JnZfCBe7vS5GxWswN8csY0nR50ei9HOd"
+        },
+        {
+          "title": "Marques Avenue Cup, événement Hyrox",
+          "summary": "Plongez au cœur de la Marques Avenue Cup, un événement sportif inspiré de l'Hyrox à Romans-sur-Isère.",
+          "url": "https://www.ledauphine.com/sport/2026/09/19/plongez-au-coeur-de-la-marques-avenue-cup-cet-evenement-sportif-inspire-de-l-hyrox-organise-a-romans-sur-isere",
+          "image": "https://cdn-s-www.ledauphine.com/images/09FA9EE6-DB15-4AA8-8040-233FB28FB2EA/NW_listB/plongez-au-coeur-de-la-marques-avenue-cup-cet-evenement-sportif-inspire-de-l-hyrox-organise-a-romans-sur-isere-1789840168.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Agathe Guillemot, championne du monde",
+          "summary": "Agathe Guillemot raconte son \"finish monstrueux\" à Copenhague, où elle est devenue championne du monde du mile.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/je-me-decale-je-me-retrouve-devant-championne-du-monde-du-mile-agathe-guillemot-raconte-son-finish-monstrueux-a-copenhague_AV-202609190235.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/3zRCDg8xfEg7kmpqsA8Q9jOI0HU=/0x65:2048x1217/800x0/images/Agathe-Guillemot-a-decroche-ce-samedi-19-09-2026-a-Copenhague-le-titre-de-championne-du-monde-du-mile-2350948.jpg"
+        },
+        {
+          "title": "PSG soutient Teddy Riner face à la haine",
+          "summary": "Le PSG apporte son soutien à Teddy Riner, ciblé par des messages de haine \"inacceptables\" de l'extrême droite.",
+          "url": "https://rmcsport.bfmtv.com/societe/des-messages-de-haine-inacceptables-le-psg-soutient-teddy-riner-cible-par-l-extreme-droite_AV-202609190208.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7aYPq3wyLMQLcRgGgtcABfYBcHY=/0x28:2048x1180/800x0/images/Teddy-Riner-le-1er-fevrier-2025-2328270.jpg"
+        },
+        {
+          "title": "Tony Parker face à TJ Parker",
+          "summary": "Un duel fratricide inattendu verra Tony Parker affronter son frère TJ à Roland-Garros pour un baptême du feu.",
+          "url": "https://rmcsport.bfmtv.com/basket/tony-parker-face-a-tj-parker-un-duel-fratricide-a-roland-garros-pour-le-bapteme-du-feu-de-tp_AV-202609180037.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/4YxkJtRwsCJNE4LRJQQSDUoFjVU=/0x61:1200x736/800x0/images/Tony-Parker-a-gauche-et-son-frere-TJ-fetent-le-titre-national-de-lASVEL-en-juin-2019-851595.jpg"
+        }
+      ]
+    }
+  ]
+}
