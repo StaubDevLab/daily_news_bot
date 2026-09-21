@@ -1,0 +1,169 @@
+{
+  "ephemeride": "Saint Matthieu",
+  "global_summary": "L'actualité mondiale est marquée par la visite sous très haute surveillance du Pape Léon XIV en France, tandis qu'en Allemagne, la position de Friedrich Merz semble fragilisée par des revers électoraux. Le conflit au Moyen-Orient reste une source de vives tensions, avec Téhéran menaçant d'escalade. Sur le plan national, la politique locale voit des changements, et la sphère sportive est ébranlée par le soutien du PSG à Teddy Riner face à des messages de haine. Nos athlètes français brillent, comme Johann Zarco au GP d'Autriche et Agathe Guillemot, championne du monde d'athlétisme. \n\nCôté économie, la France doit faire face à une dette publique qui inquiète, et les cryptomonnaies font malheureusement la une avec une sombre histoire de séquestration. Dans le domaine de l'innovation, un nouveau modèle de smartphone fait son apparition et la question des bornes de recharge pour véhicules électriques se pose localement. Enfin, des révélations sur l'IA et la politique ou l'originalité des sites olympiques de 2032 ajoutent une touche de surprise à ce panorama d'actualités.",
+  "running_advice": "Excellente nouvelle pour les runners ! Avec un ciel peu nuageux et aucune pluie en vue, c'est une journée idéale pour enfiler vos baskets. Les températures, oscillant entre 14.9°C et 28.7°C, invitent à la prudence en milieu de journée. Je vous conseille donc de privilégier une sortie tôt le matin après le lever du soleil à 07:48 pour profiter de la fraîcheur, ou en fin d'après-midi, à partir de 18h, pour une course plus agréable avant le coucher à 20:02. Attention cependant à l'indice UV de 5.35 qui est modéré à élevé : n'oubliez pas votre crème solaire et une casquette pour vous protéger des rayons ! Allez, on se motive pour une session revigorante !",
+  "weather_string": "🌤️ Peu nuageux (14.9°C / 28.7°C)",
+  "weather_stats": {
+    "temp": "28.7°C",
+    "rain": "0%",
+    "uv": "5.35"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Le Pape Léon XIV en France : Sécurité Maximale",
+          "summary": "La visite du souverain pontife en France se déroule sous d'impressionnantes mesures de sécurité, soulignant les enjeux.",
+          "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/visite-du-pape-leon-xiv-en-france-des-deplacements-sous-tres-haute-surveillance_8202158.html",
+          "image": "https://www.franceinfo.fr/pictures/TXWRZivW4yc-3eY3RJo95OJ2XRc/0x73:1688x1022/432x243/filters:format(jpg)/2026/09/20/6ab02fdc10c19450095451.png"
+        },
+        {
+          "title": "Allemagne : Merz en Sursis Politique",
+          "summary": "Après de nouvelles défaites électorales, le chancelier allemand Friedrich Merz voit sa position fragilisée.",
+          "url": "https://www.la-croix.com/international/en-allemagne-friedrich-merz-en-sursis-apres-deux-nouvelles-debacles-electorales-20260920",
+          "image": "https://i.la-croix.com/x/2026/09/16/25359072-le-chancelier-allemand-friedrich-merz-tient-une-co.jpg"
+        },
+        {
+          "title": "Moyen-Orient : Téhéran Menace d'Escalade",
+          "summary": "Téhéran avertit de frapper de nouvelles cibles si les États-Unis lancent des attaques, exacerbant les tensions.",
+          "url": "https://www.sudouest.fr/international/moyen-orient/guerre-au-moyen-orient-teheran-menace-de-viser-de-nouvelles-cibles-en-cas-d-attaque-americaine-30719785.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "GP Autriche : Zarco Brille",
+          "summary": "Johann Zarco a réalisé une performance remarquée au Grand Prix d'Autriche 2026 en Moto GP.",
+          "url": "https://franceracing.fr/moto-gp/gp-autriche-2026-le-week-end-de-johann-zarco/",
+          "image": "https://franceracing.fr/wp-content/uploads/2026/09/Johann-Zarco-sur-le-Red-Bull-Ring.jpg"
+        },
+        {
+          "title": "Saint-Varent : Pierre Rambault Élu",
+          "summary": "Pierre Rambault a remporté les élections municipales à Saint-Varent, dans les Deux-Sèvres, confirmant un nouveau mandat.",
+          "url": "https://www.lanouvellerepublique.fr/deux-sevres/commune/argenton-l-eglise/pierre-rambault-remporte-les-elections-municipales-a-saint-varent-dans-les-deux-sevres-1789932406",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ab033747c4b92401a8b46a5"
+        },
+        {
+          "title": "PSG Soutient Teddy Riner",
+          "summary": "Le PSG dénonce et apporte son soutien à Teddy Riner, victime de messages de haine inacceptables.",
+          "url": "https://rmcsport.bfmtv.com/societe/des-messages-de-haine-inacceptables-le-psg-soutient-teddy-riner-cible-par-l-extreme-droite_AV-202609190208.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7aYPq3wyLMQLcRgGgtcABfYBcHY=/0x28:2048x1180/800x0/images/Teddy-Riner-le-1er-fevrier-2025-2328270.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Galaxy S26 : Promo Exceptionnelle !",
+          "summary": "Profitez d'une offre irrésistible sur le Samsung Galaxy S26, une occasion à ne pas manquer.",
+          "url": "https://www.bfmtv.com/tech/bons-plans/c-est-le-moment-ou-jamais-pour-profiter-du-samsung-galaxy-s26-au-meilleur-prix-amazon-fait-une-folie_AB-202609200004.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/snp44CdoIneVlIkTy5WX6exNcko=/0x0:1600x900/800x0/images/Ce-site-devoile-une-double-promo-sur-le-Samsung-Galaxy-S26-est-ce-une-vente-a-perte-2321695.jpg"
+        },
+        {
+          "title": "Bornes de Recharge à Ploërmel",
+          "summary": "Découvrez où recharger votre véhicule électrique à Ploërmel, facilitant vos déplacements écoresponsables.",
+          "url": "https://actu.fr/bretagne/ploermel_56165/voiture-electrique-voici-ou-trouver-une-borne-de-recharge-a-ploermel_64803298.html",
+          "image": "https://static.actu.fr/uploads/2026/09/7dc72684c7aa6d1d72684c7aac4d72v-1024x557.jpeg"
+        },
+        {
+          "title": "Trump : Une IA Faillit Déclencher Guerre",
+          "summary": "Une intelligence artificielle aurait presque poussé Donald Trump à déclarer la guerre à la Chine, une révélation choquante.",
+          "url": "https://www.journaldugeek.com/2026/09/21/donald-trump-a-failli-declarer-la-guerre-a-la-chine-a-cause-dune-ia/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/IMG_7285-1280x853.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Cryptomonnaies : Famille Séquestrée",
+          "summary": "Une famille a été séquestrée pour le vol de cryptomonnaies, un acte de criminalité inquiétant.",
+          "url": "https://www.franceinfo.fr/economie/bitcoin/une-famille-sequestree-pour-lui-derober-des-cryptomonnaies_8202170.html",
+          "image": "https://www.franceinfo.fr/pictures/sl_YMxxBwq1ktRN5R9VsOpmY9po/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/20/6ab031ae11f66407460808.jpg"
+        },
+        {
+          "title": "Dette Publique Française : Alerte Rouge",
+          "summary": "La dette publique française atteint des sommets, soulevant des inquiétudes majeures pour l'économie nationale.",
+          "url": "https://www.zonebourse.com/actualite-bourse/dette-publique-la-france-s-offre-un-aller-simple-pour-les-sommets-ce785adad08bf621",
+          "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4363864_800.jpg"
+        },
+        {
+          "title": "Panini : Nouveau Concurrent en France",
+          "summary": "Un rival américain de Panini cherche à percer le marché français des cartes à collectionner, défiant les traditions.",
+          "url": "https://rmcsport.bfmtv.com/societe/aux-etats-unis-nous-n-avons-pas-cette-culture-du-kiosque-comment-le-concurrent-de-panini-tente-de-se-faire-une-place-en-france_AN-202609180919.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8UQE9anMS-HXducCBQkDT4p9uyE=/888x231:1176x393/800x0/images/David-Leiner-President-of-Trading-Cards-in-2023-2350797.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Agathe Guillemot, Championne du Monde !",
+          "summary": "Agathe Guillemot décroche le titre mondial du mile à Copenhague avec un finish spectaculaire, racontant sa victoire.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/je-me-decale-je-me-retrouve-devant-championne-du-monde-du-mile-agathe-guillemot-raconte-son-finish-monstrueux-a-copenhague_AV-202609190235.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/3zRCDg8xfEg7kmpqsA8Q9jOI0HU=/0x65:2048x1217/800x0/images/Agathe-Guillemot-a-decroche-ce-samedi-19-09-2026-a-Copenhague-le-titre-de-championne-du-monde-du-mile-2350948.jpg"
+        },
+        {
+          "title": "JO 2032 : Aviron sur Fleuve à Crocodiles",
+          "summary": "Les épreuves d'aviron et canoë des JO 2032 se tiendront sur un fleuve réputé pour ses crocodiles.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-2032-les-epreuves-d-aviron-et-de-canoe-auront-lieu-sur-un-fleuve-a-crocodiles-mangeurs-d-hommes_AV-202609170398.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/bdqqFcIc-P9RdbtubK8qGrb_Yi4=/0x106:2048x1258/800x0/images/Un-crocodile-sur-le-Fitzroy-en-2017-2349684.jpg"
+        },
+        {
+          "title": "Tony Parker : Coach de Haut Vol",
+          "summary": "Tony Parker développe sa carrière d'entraîneur, s'inspirant de légendes comme Popovich et Henry.",
+          "url": "https://rmcsport.bfmtv.com/basket/jeep-elite/asvel-appels-avec-gregg-popovich-debriefs-avec-thierry-henry-comment-tony-parker-construit-sa-carriere-d-entraineur_AV-202609200228.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/re_p704WW7tLYVFSyKClvI869KE=/0x90:2048x1242/800x0/images/Tony-PARKER-2351265.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualité Régionale",
+      "emoji": "📰",
+      "articles": [
+        {
+          "title": "Gironde : 200 Infractions Routières",
+          "summary": "Les gendarmes ont enregistré 200 infractions routières en Gironde ce week-end, appelant à la prudence.",
+          "url": "https://www.sudouest.fr/gironde/en-gironde-les-gendarmes-constatent-200-infractions-routieres-au-cours-du-week-end-30719786.php",
+          "image": null
+        },
+        {
+          "title": "Bayonne : Deux Hommes Mis en Examen",
+          "summary": "Deux individus ont été mis en examen après des coups de feu signalés dans le quartier de Balichon à Bayonne.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/pays-basque-deux-hommes-de-26-et-30-ans-mis-en-examen-apres-les-coups-de-feu-dans-le-quartier-de-balichon-a-bayonne-30712434.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Test : Silent Hill Townfall",
+          "summary": "Le nouveau Silent Hill : Townfall est à l'épreuve des critiques. Faut-il se laisser emporter par son ambiance ?",
+          "url": "https://www.journaldugeek.com/test/test-silent-hill-townfall-faut-il-se-plonger-dans-le-brouillard-ecossais/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/silent-hill-townfall-pov-tout-savoir-header-1280x587.jpg"
+        },
+        {
+          "title": "Super Mario 64 : Sport Cérébral",
+          "summary": "Des études suggèrent que jouer à Super Mario 64 stimule le cerveau, comme une séance de sport mentale.",
+          "url": "https://www.journaldugeek.com/2026/09/21/super-mario-64-est-une-seance-de-sport-pour-le-cerveau/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/super-mario-galaxy-film-1-1280x853.jpg"
+        }
+      ]
+    }
+  ]
+}
