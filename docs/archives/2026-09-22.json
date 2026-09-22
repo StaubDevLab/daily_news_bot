@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Saint Maurice",
+  "global_summary": "L'actualité de ce jour présente un tableau contrasté, mêlant les défis géopolitiques avec l'analyse incisive des relations internationales et les enjeux nationaux cruciaux comme la lutte contre la criminalité et l'adaptation au changement climatique. Les Français sont également confrontés à des réalités économiques difficiles, illustrées par la hausse des prix des carburants qui pèse sur les budgets des ménages. \n\nSur un ton plus inspirant, le monde du sport vibre entre la fin d'une ère avec la retraite d'une légende du basket français et l'émergence de performances athlétiques exceptionnelles qui rappellent le dépassement de soi. Parallèlement, le secteur technologique évolue rapidement, entre des réflexions sur l'IA et des retours aux fondamentaux ergonomiques, témoignant d'une constante recherche d'équilibre entre innovation et praticité. C'est une journée qui nous pousse à rester informés, résilients et motivés.",
+  "running_advice": "Prépare-toi à un entraînement d'exception aujourd'hui ! Avec un ciel dégagé, aucune pluie en vue et des températures parfaites allant de 14.3°C à 29.2°C, toutes les conditions sont réunies pour pulvériser tes objectifs. C'est une journée idéale pour courir, mais sois stratégique !\n\nJe te recommande vivement de chausser tes baskets dès le lever du soleil, vers 7h49, ou de planifier ta sortie en fin d'après-midi, entre 18h00 et 19h30, avant le coucher du soleil. Pourquoi ? L'indice UV est de 5.3 à son maximum ! Alors, n'oublie absolument pas ta protection solaire : crème, casquette et lunettes de soleil sont tes meilleurs alliés pour te protéger et profiter pleinement de chaque foulée. Go, dépasse-toi !",
+  "weather_string": "☀️ Ciel dégagé (14.3°C / 29.2°C)",
+  "weather_stats": {
+    "temp": "29.2°C",
+    "rain": "0%",
+    "uv": "5.3"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Brutale franchise russe: l'analyse percutante d'Alain Bauer",
+          "summary": "Le professeur de criminologie décrypte la nature directe et parfois abrupte des communications russes.",
+          "url": "https://www.bfmtv.com/international/asie/russie/video-les-russes-sont-d-une-brutale-franchise-analyse-alain-bauer-professeur-emerite-de-criminologie_VN-202609210815.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/yDNuGpjdiu1OgThTY7O-wl7j7PU=/0x0:1280x720/800x0/images/Les-Russes-sont-d-une-brutale-franchise-analyse-Alain-Bauer-professeur-emerite-de-criminologie-2351994.jpg"
+        },
+        {
+          "title": "Zidane lance l'ère Bleue: premier entraînement de l'Équipe de France",
+          "summary": "Les Bleus sont réunis sous la houlette de Zinedine Zidane pour leur première séance officielle.",
+          "url": "https://www.france24.com/fr/sports/20260921-equipe-de-france-premier-entra%C3%AEnement-pour-les-bleus-de-zidane",
+          "image": "https://s.france24.com/media/display/eb99442a-b5ef-11f1-8cc0-4d220c210a04/w:1024/p:16x9/d14a51bd9effe8d83811a1a59a9648ccfda3045d.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "70 cambriolages: l'accusation accable trois suspects en Dordogne",
+          "summary": "Malgré leurs dénégations, des preuves téléphoniques relient trois hommes à une série de cambriolages.",
+          "url": "https://www.dordognelibre.fr/dordogne/vos-telephones-ont-borne-au-meme-endroit-trois-prevenus-nient-toute-implication-dans-70-cambriolages-ou-escroqueries-en-dordogne-30721831.php",
+          "image": "https://media.dordognelibre.fr/30721831/1200x600/dl-20231218-dsc-0664.jpg"
+        },
+        {
+          "title": "Mobilisation climat à Bayeux pour les mobilités douces",
+          "summary": "Un rassemblement citoyen met en lumière l'urgence climatique et promeut des solutions locales.",
+          "url": "https://actu.fr/normandie/bayeux_14047/un-rassemblement-pour-le-climat-et-les-mobilites-douces-a-bayeux_64817349.html",
+          "image": "https://static.actu.fr/uploads/2026/09/f022cc7f18aa66522cc7f18aa5922cv-1024x557.jpeg"
+        },
+        {
+          "title": "Toulouse: vulnérabilité accrue des habitants face aux canicules",
+          "summary": "La ville rose fait face à une augmentation de la fragilité de sa population face aux vagues de chaleur.",
+          "url": "https://www.mediacites.fr/enquete/toulouse/2026/09/21/canicules-les-habitants-sont-de-plus-en-plus-vulnerables-a-toulouse/",
+          "image": "https://www.mediacites.fr/wp-content/uploads/2026/09/Chenane.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Hébergement web: IONOS et Hostinger bousculent le marché avec leurs prix",
+          "summary": "Deux géants du web se disputent les clients en proposant des offres d'hébergement très compétitives.",
+          "url": "https://fr.cnet.com/deals/5828/hebergement-web-ionos-et-hostinger-jouent-la-carte-du-petit-prix",
+          "image": "https://sm.cnet.com/cnet_fr/photo/default/digital-nomad-working-remotly-their-project_v8bh.jpg"
+        },
+        {
+          "title": "SPID en Italie: le guide pratique pour les dirigeants français",
+          "summary": "Tout savoir sur les obligations et démarches pour utiliser l'identité numérique SPID en Italie.",
+          "url": "https://lepetitjournal.com/milan/emploi/spid-italie-dirigeants-francais-obligations-utilite-demarches-pratiques-454057",
+          "image": "https://backoffice.lepetitjournal.com/sites/default/files/2026-09/homme_travaille-ordinateur.jpg"
+        },
+        {
+          "title": "Volvo revient aux boutons physiques: le choix pragmatique",
+          "summary": "Le constructeur automobile réintègre des boutons pour une meilleure ergonomie et sécurité de conduite.",
+          "url": "https://www.20minutes.fr/auto/4247422-20260921-volvo-remet-boutons-hasard",
+          "image": "https://img.20mn.fr/1uL1AyawSyO-A2JiXI7wkCk/1200x768_volvo-redecouvre-les-vertus-du-bouton"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Tugdual Denis quitte la direction de «Valeurs actuelles»",
+          "summary": "Le directeur de la rédaction de l'hebdomadaire ultraconservateur annonce son départ.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/21/tugdual-denis-quitte-la-direction-de-valeurs-actuelles_6779340_3234.html",
+          "image": "https://img.lemde.fr/2026/09/21/373/0/4479/2239/1342/671/60/0/56857b7_upload-1-aeoojm9u2rkh-000-36ve9aq.jpg"
+        },
+        {
+          "title": "Tech Flash: Anthropic accélère tout en visant la prudence IA",
+          "summary": "Anthropic, acteur majeur de l'IA, cherche à innover rapidement tout en explorant les freins éthiques.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-tech-flash-anthropic-veut-freiner-l-ia-mais-continue-d-accelerer-par-lea-benaim-21-09_VN-202609210809.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/2vAAH3E53QcqYVu5NrJoxU9Tyao=/0x0:1280x720/800x0/images/Le-Tech-Flash-Anthropic-veut-freiner-l-IA-mais-continue-d-accelerer-par-Lea-Benaim-21-09-2351989.jpg"
+        },
+        {
+          "title": "Hausse des carburants: les Français contraints de choisir",
+          "summary": "Face à l'envolée des prix, de nombreux Français sacrifient loisirs et achats pour boucler leurs fins de mois.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-ne-vais-pas-au-restaurant-je-ne-fais-jamais-les-boutiques-face-a-la-hausse-des-carburants-les-francais-oblige-s-de-faire-des-choix_8203592.html",
+          "image": "https://www.franceinfo.fr/pictures/oCddyxKKv2J-aSzfDvgUc7XpgDo/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/21/6ab1802303b79554986290.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🏠",
+      "articles": [
+        {
+          "title": "Près de Bordeaux: violence et cambriolage sur personne âgée",
+          "summary": "Une femme agresse et cambriole une personne âgée aux abords de Bordeaux, un fait divers alarmant.",
+          "url": "https://www.sudouest.fr/gironde/artigues-pres-bordeaux/pres-de-bordeaux-une-femme-violente-une-personne-agee-et-la-cambriole-30728274.php",
+          "image": "https://www.sudouest.fr/img/logo-sudouest.svg"
+        },
+        {
+          "title": "OpenAI poursuivi après une tuerie par la Colombie-Britannique",
+          "summary": "La province canadienne attaque OpenAI en justice suite à l'usage de l'IA dans une tragique tuerie.",
+          "url": "https://www.sudouest.fr/faits-divers/intelligence-artificielle-la-colombie-britannique-poursuit-openai-apres-la-tuerie-de-tumbler-ridge-au-canada-30730926.php",
+          "image": "https://www.sudouest.fr/img/logo-sudouest.svg"
+        },
+        {
+          "title": "Attaque devant une école en Turquie: plusieurs blessés",
+          "summary": "Une fusillade devant un établissement scolaire en Turquie a fait plusieurs blessés, l'enquête est en cours.",
+          "url": "https://www.sudouest.fr/faits-divers/turquie-une-attaque-par-balles-devant-un-etablissement-scolaire-fait-plusieurs-blesses-30730962.php",
+          "image": "https://www.sudouest.fr/img/logo-sudouest.svg"
+        }
+      ]
+    },
+    {
+      "label": "Loisirs & Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Stupeur: Daredevil Born Again annulée sans préavis!",
+          "summary": "La série très attendue Daredevil: Born Again est subitement annulée, choquant son showrunner et les fans.",
+          "url": "https://www.journaldugeek.com/2026/09/22/daredevil-born-again-est-annulee-et-le-showrunner-ne-lavait-pas-vu-venir/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/daredevil-born-again-annulation-1280x853.jpg"
+        },
+        {
+          "title": "Bungie rouvre ses archives pour sauver Destiny 2",
+          "summary": "Le studio Bungie mise sur son passé pour revitaliser Destiny 2 et assurer sa survie.",
+          "url": "https://www.journaldugeek.com/2026/09/22/pour-survivre-bungie-rouvre-les-archives-de-destiny-2/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/destiny-1280x853.jpg"
+        },
+        {
+          "title": "Pokémon 30 ans: les cartes à vendre d'urgence!",
+          "summary": "Découvrez quelles sont les 5 cartes Pokémon les plus rares et précieuses pour les collectionneurs.",
+          "url": "https://www.journaldugeek.com/2026/09/22/pokemon-30-ans-voici-les-5-cartes-les-plus-cheres-depechez-vous-de-les-vendre/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/pokemon-mew-RGB-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Nicolas Batum: la légende du basket prend sa retraite",
+          "summary": "Après 18 saisons NBA, l'emblématique Nicolas Batum met un terme émouvant à sa carrière sportive.",
+          "url": "https://rmcsport.bfmtv.com/basket/j-ai-fait-mon-temps-legende-des-bleus-et-taulier-en-nba-batum-officialise-sa-retraite-dans-une-video-emouvante_AV-202609210709.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6a45syEAuwu961wvygfCmpq_1VM=/0x0:2032x1143/800x0/images/Nicolas-Batum-en-mars-2025-2105124.jpg"
+        },
+        {
+          "title": "Johaug: un semi-marathon en moins de 1h10, exploit!",
+          "summary": "L'ancienne fondeuse Therese Johaug sidère le monde de l'athlétisme avec un chrono exceptionnel.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-semi-marathon-en-moins-de-1h10-l-incroyable-chrono-de-l-ancienne-fondeuse-norvegienne-therese-johaug_AN-202609210425.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/53TQfhw8LfsxvorM2tK7rczm8LY=/0x212:2048x1364/800x0/images/Therese-Johaug-lors-de-la-Coupe-du-monde-de-ski-de-fond-le-21-mars-2026-2351732.jpg"
+        },
+        {
+          "title": "Agathe Guillemot, championne du monde du mile avec un finish monstrueux",
+          "summary": "La Française Agathe Guillemot décroche le titre mondial du mile après une course finale époustouflante.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/je-me-decale-je-me-retrouve-devant-championne-du-monde-du-mile-agathe-guillemot-raconte-son-finish-monstrueux-a-copenhague_AV-202609190235.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/3zRCDg8xfEg7kmpqsA8Q9jOI0HU=/0x65:2048x1217/800x0/images/Agathe-Guillemot-a-decroche-ce-samedi-19-09-2026-a-Copenhague-le-titre-de-championne-du-monde-du-mile-2350948.jpg"
+        }
+      ]
+    }
+  ]
+}
