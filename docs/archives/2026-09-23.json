@@ -1,7 +1,7 @@
 {
   "ephemeride": "Equinoxe d'Automne",
-  "global_summary": "Cette journée est un véritable kaleidoscope d'enjeux mondiaux et locaux, d'innovations technologiques et de performances sportives. Entre les déclarations politiques audacieuses de figures internationales et les réformes économiques qui sculptent l'avenir de nations lointaines, le monde est en mouvement. La France n'est pas en reste, gérant des défis comme les aides aux carburants et la transition vers des mobilités plus vertes, tout en étant confrontée à des problématiques de sécurité urbaine.\nSur le front de la technologie, les géants du commerce et de l'aéronautique continuent d'innover, tandis que le sport nous offre des récits de carrière emblématiques, d'exploits individuels et de combats pour la dignité. C'est un mélange de puissance, de persévérance et parfois de fragilité humaine qui dessine le tableau de notre actualité. Restez informés, restez motivés, car chaque jour apporte son lot d'opportunités et de leçons.",
-  "running_advice": "Aujourd'hui, l'Équinoxe d'Automne vous offre une météo quasi parfaite pour chausser vos baskets ! Avec un ciel peu nuageux et aucune pluie, c'est le moment idéal pour une séance dynamique. Pour un confort optimal, visez tôt le matin après le lever du soleil à 07:50 ou en fin de journée, avant le coucher à 19:58. Attention, l'indice UV est de 5.25 : n'oubliez pas votre crème solaire, un chapeau et des lunettes. Hydratez-vous bien et profitez de cette belle énergie pour dépasser vos limites !",
+  "global_summary": "L'actualité internationale est marquée par des annonces politiques fortes, notamment l'initiative de Donald Trump sur un arc de triomphe militaire qui suscite des interrogations, et des remaniements ministériels tendus en Israël. Sur le front économique, le Sri Lanka voit sa note relevée, signe encourageant de réformes budgétaires. L'acteur suisse Infomaniak milite activement pour l'autonomie numérique européenne, posant des jalons pour l'avenir digital du continent. \nEn France, des défis locaux surgissent avec des faits divers significatifs et les lourdes démarches de reconstruction post-incendie en Gironde. Le secteur de la tech innove avec des lancements pratiques et des acquisitions stratégiques, tandis que le monde du sport vibre entre les adieux d'une légende du basket, des performances athlétiques impressionnantes, et des annonces olympiques surprenantes, sans oublier les aides gouvernementales face aux prix des carburants.",
+  "running_advice": "Avis aux runners ! Aujourd'hui est une excellente journée pour chausser vos baskets ! Avec un ciel peu nuageux et aucune pluie en vue, les conditions sont optimales pour une performance remarquable. La température sera clémente, oscillant entre 13.7°C et 30.2°C. Cependant, l'indice UV atteint 5.25, ce qui est significatif. Pour profiter au maximum et en toute sécurité, privilégiez une course tôt le matin, juste après le lever du soleil vers 7h50, ou en fin d'après-midi, idéalement entre 17h00 et 19h00, pour éviter les pics de chaleur et d'UV. N'oubliez pas votre crème solaire et une bonne hydratation ! C'est le moment de booster votre énergie et de profiter de l'équinoxe d'automne pour atteindre vos objectifs !",
   "weather_string": "🌤️ Peu nuageux (13.7°C / 30.2°C)",
   "weather_stats": {
     "temp": "30.2°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Trump : Un arc militaire ?",
-          "summary": "L'annonce d'un 'arc de triomphe à usage militaire' par Trump suscite perplexité et questions internationales.",
+          "title": "Trump et l'arc militaire : une idée choc",
+          "summary": "Donald Trump propose un arc de triomphe à usage militaire, une annonce qui suscite interrogations et réactions internationales.",
           "url": "https://www.courrierinternational.com/article/etats-unis-un-arc-de-triomphe-a-usage-militaire-l-annonce-de-trump-interroge_273413",
           "image": "https://focus.courrierinternational.com/2026/09/22/0/0/5304/3536/644/0/60/0/d3d5cd2_ftp-1-qe177zjtese4-2026-09-22t100020z-196164816-rc2abmaks7rk-rtrmadp-3-usa-trump-security.JPG"
         },
         {
-          "title": "Infomaniak : Autonomie numérique européenne.",
-          "summary": "L'acteur suisse Infomaniak plaide pour une souveraineté numérique accrue en Europe, un enjeu stratégique majeur.",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/22/infomaniak-l-acteur-suisse-qui-milite-pour-l-autonomie-numerique-europeenne_6780283_3234.html",
-          "image": "https://img.lemde.fr/2026/09/22/450/0/5402/2701/1342/671/60/0/7f2af66_upload-1-rjo8qi0g6jjg-infomaniak-staff.jpg"
+          "title": "Sri Lanka : les réformes paient",
+          "summary": "L'agence Fitch relève la note du Sri Lanka, saluant l'efficacité des réformes budgétaires du pays.",
+          "url": "https://fr.investing.com/news/world-news/fitch-releve-la-note-du-sri-lanka-grace-aux-reformes-budgetaires-93CH-3605047",
+          "image": "https://content-media.investing.com/news/news_headline_open_108x81.jpg"
         },
         {
-          "title": "Ben Gvir : Demandes politiques en Israël.",
-          "summary": "Itamar Ben Gvir réclame des postes clés en Israël, provoquant des remous dans la sphère politique locale.",
+          "title": "Israël : tensions politiques autour de la Défense",
+          "summary": "Itamar Ben Gvir réclame le ministère de la Défense, intensifiant les tensions politiques internes en Israël.",
           "url": "https://www.i24news.tv/fr/actu/israel/politique/artc-itamar-ben-gvir-reclame-le-ministere-de-la-defense-et-veut-confier-la-justice-a-tali-gottlieb",
           "image": "https://cdn.i24news.tv/uploads/fd/c0/c0/f3/dc/0b/3a/8f/f6/f9/6a/f9/0a/c6/0a/f2/fdc0c0f3dc0b3a8ff6f96af90ac60af2.jpg"
         }
@@ -38,130 +38,118 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Carburants : Le gouvernement double les aides.",
-          "summary": "Pour apaiser la crise, l'État français renforce son soutien aux automobilistes face à la hausse des prix.",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html",
-          "image": "https://img.lemde.fr/2026/09/22/706/0/3333/1666/1342/671/60/0/eb4a82f_upload-1-oauw2x431dk4-lewisjoly-lemonde-22-09-26-032.JPG"
-        },
-        {
-          "title": "Mobilités : Sorégies acquiert BP Pulse.",
-          "summary": "Le groupe poitevin Sorégies se renforce dans l'électrique en rachetant BP Pulse, accélérant la transition énergétique.",
-          "url": "https://www.lanouvellerepublique.fr/vienne/mobilites-electriques-le-groupe-poitevin-soregies-acquiert-bp-pulse-1790100264",
-          "image": "https://images.lanouvellerepublique.fr/image/upload/6ab2c326b14a85ea668b466d"
-        },
-        {
-          "title": "Cambriolages à Charleville-Mézières.",
-          "summary": "Une série de cambriolages inquiète les habitants de Charleville-Mézières; vigilance est de mise.",
+          "title": "Cambriolages : vigilance à Charleville-Mézières",
+          "summary": "Une série de cambriolages inquiète, rappelant l'importance de la prudence face aux fenêtres ouvertes.",
           "url": "http://www.lardennais.fr/id829441/article/2026-09-22/une-serie-de-cambriolages-charleville-mezieres-ils-profitent-parfois-dune-porte",
           "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/22/node_829441/15518222/public/2026/09/22/103586524.jpeg?itok=zupq2jrA1790100365"
+        },
+        {
+          "title": "Escroquerie en Gironde : un million détourné",
+          "summary": "Un assureur et sa femme sont jugés pour avoir détourné 1,2 million d'euros pour maintenir leur train de vie.",
+          "url": "https://www.sudouest.fr/gironde/libourne/pour-maintenir-leur-train-de-vie-elle-avait-detourne-1-2-million-d-euros-un-assureur-et-sa-femme-devant-le-tribunal-de-libourne-30740755.php",
+          "image": ""
+        },
+        {
+          "title": "Biscarrosse : la reconstruction après les feux",
+          "summary": "Deux mois après les incendies, les habitants de Biscarrosse font face aux défis de la reconstruction.",
+          "url": "https://www.sudouest.fr/landes/biscarrosse/incendie-de-biscarrosse-deux-mois-apres-la-maison-familiale-a-rebatir-on-aura-forcement-des-mauvaises-surprises-apres-le-choc-le-temps-des-demarches-administratives-30725725.php",
+          "image": ""
         }
       ]
     },
     {
-      "label": "Tech",
-      "emoji": "💻",
+      "label": "Tech & Innovation",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Lidl : Scan & Go sur smartphone.",
-          "summary": "Lidl innove avec son service 'Scan & Go' sur mobile, fluidifiant l'expérience d'achat en magasin.",
+          "title": "Lidl innove avec le Scan & Go mobile",
+          "summary": "Lidl déploie son système Scan & Go sur smartphone, simplifiant l'expérience d'achat des clients.",
           "url": "https://pointsdevente.fr/fil-info/2026-09-22-lidl-lance-scan-go-sur-smartphone/",
           "image": "https://pointsdevente.fr/wp-content/uploads/Lidl-lance-Scan-Go-sur-smartphone-pointsdevente-1200x1263.png"
         },
         {
-          "title": "Boeing : Contrat aérien au Japon.",
-          "summary": "Boeing décroche un contrat de 159 millions $ pour le soutien aérien au Japon, renforçant sa présence.",
-          "url": "https://fr.investing.com/news/stock-market-news/boeing-remporte-un-contrat-de-soutien-aerien-au-japon-pour-159-millions--93CH-3605035",
-          "image": "https://content-media.investing.com/news/LYNXNPEC0O18V_L.jpg"
+          "title": "Mobilité électrique : Sorégies acquiert BP Pulse",
+          "summary": "Le groupe poitevin Sorégies renforce sa position dans les mobilités électriques en rachetant BP Pulse.",
+          "url": "https://www.lanouvellerepublique.fr/vienne/mobilites-electriques-le-groupe-poitevin-soregies-acquiert-bp-pulse-1790100264",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ab2c326b14a85ea668b466d"
         },
         {
-          "title": "Beats 360 : Casque pour chaque humeur.",
-          "summary": "Le nouveau casque Beats 360 propose une personnalisation audacieuse pour s'adapter à votre style et mood.",
+          "title": "Beats 360 : le casque qui s'adapte à vous",
+          "summary": "Découvrez le Beats 360, un nouveau casque conçu pour s'harmoniser avec votre humeur du jour.",
           "url": "https://www.journaldugeek.com/2026/09/23/beats-360-un-casque-a-assortir-a-son-humeur/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/09/beats360-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Économie",
+      "label": "Business & Économie",
       "emoji": "📈",
       "articles": [
         {
-          "title": "Sri Lanka : Fitch relève sa note.",
-          "summary": "Grâce à des réformes budgétaires, l'agence Fitch améliore la note du Sri Lanka, signe de progrès économique.",
-          "url": "https://fr.investing.com/news/world-news/fitch-releve-la-note-du-sri-lanka-grace-aux-reformes-budgetaires-93CH-3605047",
-          "image": "https://content-media.investing.com/news/news_headline_open_108x81.jpg"
+          "title": "Carburants : aides doublées pour les Français",
+          "summary": "Le gouvernement double les aides aux automobilistes face aux prix des carburants pour éviter une crise.",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-pour-eviter-une-crise-le-gouvernement-double-les-aides-aux-automobilistes_6780285_823448.html",
+          "image": "https://img.lemde.fr/2026/09/22/706/0/3333/1666/1342/671/60/0/eb4a82f_upload-1-oauw2x431dk4-lewisjoly-lemonde-22-09-26-032.JPG"
         },
         {
-          "title": "Détournement : 1,2 million d'euros.",
-          "summary": "Un couple d'assureurs devant la justice de Libourne pour un détournement massif afin de maintenir leur train de vie.",
-          "url": "https://www.sudouest.fr/gironde/libourne/pour-maintenir-leur-train-de-vie-elle-avait-detourne-1-2-million-d-euros-un-assureur-et-sa-femme-devant-le-tribunal-de-libourne-30740755.php",
-          "image": null
+          "title": "Boeing décroche un contrat majeur au Japon",
+          "summary": "Boeing sécurise un contrat de 159 millions de dollars pour le soutien aérien des forces japonaises.",
+          "url": "https://fr.investing.com/news/stock-market-news/boeing-remporte-un-contrat-de-soutien-aerien-au-japon-pour-159-millions--93CH-3605035",
+          "image": "https://content-media.investing.com/news/LYNXNPEC0O18V_L.jpg"
         },
         {
-          "title": "LNB Basket : Le format doit changer.",
-          "summary": "Le patron du Paris Basket critique le format actuel du championnat LNB, appelant à des réformes structurelles.",
-          "url": "https://rmcsport.bfmtv.com/basket/video-lnb-le-format-du-championnat-doit-changer-tacle-le-patron-du-paris-basket_VN-202609210392.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/XqToIc_vrI5h9BBTtUKI5cdFeps=/0x0:1280x720/800x0/images/LNB-Le-format-du-championnat-doit-changer-tacle-le-patron-du-paris-Basket-2351712.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Région Gironde",
-      "emoji": "📍",
-      "articles": [
-        {
-          "title": "Biscarrosse : Reconstruire après l'incendie.",
-          "summary": "Deux mois après les incendies, les familles de Biscarrosse font face aux défis de la reconstruction administrative.",
-          "url": "https://www.sudouest.fr/landes/biscarrosse/incendie-de-biscarrosse-deux-mois-apres-la-maison-familiale-a-rebatir-on-aura-forcement-des-mauvaises-surprises-apres-le-choc-le-temps-des-demarches-administratives-30725725.php",
-          "image": null
-        }
-      ]
-    },
-    {
-      "label": "Culture & Loisirs",
-      "emoji": "🎮",
-      "articles": [
-        {
-          "title": "Star Trek : TCG annulé, déception.",
-          "summary": "Grosse déception pour les fans : le très attendu jeu de cartes Star Trek est finalement annulé.",
-          "url": "https://www.journaldugeek.com/2026/09/23/mauvaise-nouvelle-pour-les-fans-de-star-trek-ce-tcg-tres-attendu-est-annule/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/09/Star-Trek-Picard-Magic-1280x853.jpg"
-        },
-        {
-          "title": "Cat's Eyes : Saison 2 sur TF1.",
-          "summary": "La très attendue saison 2 de Cat's Eyes se prépare à débarquer sur TF1 et TF1+ prochainement.",
-          "url": "https://www.journaldugeek.com/2026/09/23/quand-sera-diffusee-la-saison-2-de-cats-eyes-sur-tf1-et-tf1/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/09/cateyes-saison-2-1280x853.jpg"
-        },
-        {
-          "title": "Week-end animé au musée brasserie.",
-          "summary": "Le musée de la brasserie de Ville-sur-Illon propose un week-end riche en animations et découvertes.",
-          "url": "https://www.vosgesmatin.fr/societe/2026/09/22/un-week-end-anime-au-musee-de-la-brasserie",
-          "image": "https://cdn-s-www.vosgesmatin.fr/images/81F6CA44-1337-47BA-AB59-F6D2505031C1/NW_listB/un-week-end-anime-au-musee-de-la-brasserie-1790100414.jpg"
+          "title": "NBA Europe : les négociations avancent",
+          "summary": "La NBA confirme des discussions prometteuses avec l'Euroligue pour la création d'une NBA Europe.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/les-discussions-progressent-la-nba-annonce-un-rapprochement-avec-l-euroligue-pour-la-nba-europe_AV-202609160384.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/XyHKNiFbfLe2Ufn_J2IQ0jZUmHc=/0x68:2048x1220/800x0/images/Le-commissionnaire-de-la-NBA-Adam-Silver-avant-le-All-Star-Game-14-fevrier-2026-2235741.jpg"
         }
       ]
     },
     {
       "label": "Sport",
-      "emoji": "🏅",
+      "emoji": "🏆",
       "articles": [
         {
-          "title": "Batum : Retraite émouvante annoncée.",
-          "summary": "Légende du basket français et NBA, Nicolas Batum officialise sa retraite sportive dans une vidéo touchante.",
+          "title": "Batum dit adieu au basket pro",
+          "summary": "Nicolas Batum, légende du basket français et de la NBA, annonce une retraite émouvante.",
           "url": "https://rmcsport.bfmtv.com/basket/j-ai-fait-mon-temps-legende-des-bleus-et-taulier-en-nba-batum-officialise-sa-retraite-dans-une-video-emouvante_AV-202609210709.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6a45syEAuwu961wvygfCmpq_1VM=/0x0:2032x1143/800x0/images/Nicolas-Batum-en-mars-2025-2105124.jpg"
         },
         {
-          "title": "Johaug : Semi-marathon impressionnant.",
-          "summary": "L'ex-fondeuse norvégienne Therese Johaug réalise un chrono incroyable en semi-marathon, moins de 1h10.",
+          "title": "Johaug, l'incroyable semi-marathon",
+          "summary": "L'ancienne fondeuse norvégienne Therese Johaug impressionne avec un semi-marathon en moins d'1h10.",
           "url": "https://rmcsport.bfmtv.com/athletisme/un-semi-marathon-en-moins-de-1h10-l-incroyable-chrono-de-l-ancienne-fondeuse-norvegienne-therese-johaug_AN-202609210425.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/53TQfhw8LfsxvorM2tK7rczm8LY=/0x212:2048x1364/800x0/images/Therese-Johaug-lors-de-la-Coupe-du-monde-de-ski-de-fond-le-21-mars-2026-2351732.jpg"
         },
         {
-          "title": "Teddy Riner : Soutien du PSG.",
-          "summary": "Le PSG exprime son soutien à Teddy Riner, ciblé par des messages de haine inacceptables sur les réseaux.",
-          "url": "https://rmcsport.bfmtv.com/societe/des-messages-de-haine-inacceptables-le-psg-soutient-teddy-riner-cible-par-l-extreme-droite_AV-202609190208.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7aYPq3wyLMQLcRgGgtcABfYBcHY=/0x28:2048x1180/800x0/images/Teddy-Riner-le-1er-fevrier-2025-2328270.jpg"
+          "title": "JO 2032 : des crocodiles pour l'aviron ?",
+          "summary": "Les épreuves d'aviron des JO 2032 prévues sur un fleuve réputé pour ses crocodiles mangeurs d'hommes.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-2032-les-epreuves-d-aviron-et-de-canoe-auront-lieu-sur-un-fleuve-a-crocodiles-mangeurs-d-hommes_AV-202609170398.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/bdqqFcIc-P9RdbtubK8qGrb_Yi4=/0x106:2048x1258/800x0/images/Un-crocodile-sur-le-Fitzroy-en-2017-2349684.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Loisirs",
+      "emoji": "🎭",
+      "articles": [
+        {
+          "title": "Star Trek TCG annulé : déception",
+          "summary": "Mauvaise nouvelle pour les fans de Star Trek, le TCG très attendu ne verra finalement pas le jour.",
+          "url": "https://www.journaldugeek.com/2026/09/23/mauvaise-nouvelle-pour-les-fans-de-star-trek-ce-tcg-tres-attendu-est-annule/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/Star-Trek-Picard-Magic-1280x853.jpg"
+        },
+        {
+          "title": "Cat's Eyes saison 2 : quand la retrouver ?",
+          "summary": "Les fans attendent avec impatience la date de diffusion de la deuxième saison de Cat's Eyes sur TF1.",
+          "url": "https://www.journaldugeek.com/2026/09/23/quand-sera-diffusee-la-saison-2-de-cats-eyes-sur-tf1-et-tf1/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/cateyes-saison-2-1280x853.jpg"
+        },
+        {
+          "title": "Infomaniak défend l'autonomie numérique",
+          "summary": "L'acteur suisse Infomaniak se positionne en fervent défenseur de l'autonomie numérique européenne.",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/22/infomaniak-l-acteur-suisse-qui-milite-pour-l-autonomie-numerique-europeenne_6780283_3234.html",
+          "image": "https://img.lemde.fr/2026/09/22/450/0/5402/2701/1342/671/60/0/7f2af66_upload-1-rjo8qi0g6jjg-infomaniak-staff.jpg"
         }
       ]
     }
