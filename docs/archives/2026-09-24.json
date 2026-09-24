@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Sainte Thècle",
+  "global_summary": "L'actualité mondiale de ce jour est marquée par une intensification préoccupante des frappes russes sur Kiev, ainsi que par une spectaculaire saisie d'argent liée à la Camorra à Naples. Des événements dramatiques, comme le crash d'un avion de chasse au Royaume-Uni, contrastent avec des récits plus légers d'exploits humains et de prouesses technologiques.\n\nEn France, le débat économique se poursuit autour des aides carburant, tandis que la tech explore de nouvelles frontières avec des agents IA puissants, non sans soulever des questions éthiques et de sécurité. Les récits locaux et les performances sportives, de l'ultra-endurance à la gymnastique de haut niveau, complètent un panorama riche en émotions et en enjeux.",
+  "running_advice": "Salut les athlètes ! Aujourd'hui, la météo est une alliée de taille pour votre running. Avec un ciel peu nuageux, pas une goutte de pluie et des températures démarrant à 15°C, c'est l'idéal pour chausser vos baskets. Cependant, attention, le mercure va monter jusqu'à 32.9°C en journée et l'indice UV atteint 5.2, ce qui est significatif. Je vous conseille vivement de privilégier votre sortie tôt le matin, juste après le lever du soleil vers 07h52, pour profiter de la fraîcheur et d'un UV plus bas. Si vous courez plus tard, entre 17h00 et le coucher du soleil à 19h56, n'oubliez absolument pas votre crème solaire, vos lunettes de soleil et une casquette ! Hydratez-vous abondamment avant, pendant et après l'effort. C'est le moment de vous dépasser, mais toujours en sécurité. Allez, on y va, donnez tout !",
+  "weather_string": "🌤️ Peu nuageux (15°C / 32.9°C)",
+  "weather_stats": {
+    "temp": "32.9°C",
+    "rain": "0%",
+    "uv": "5.2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Frappes sur Kiev: intensité inédite depuis 2022",
+          "summary": "Les bombardements russes sur la capitale ukrainienne s'intensifient, marquant une escalade préoccupante du conflit.",
+          "url": "https://www.charentelibre.fr/international/guerre-en-ukraine/l-intensite-des-frappes-russes-sur-la-region-de-kiev-a-atteint-un-niveau-inedit-depuis-mars-2022-30754375.php",
+          "image": "https://media.charentelibre.fr/30754375/1200x600/20260923141707-7262112.jpg"
+        },
+        {
+          "title": "3 millions d'euros découverts chez la Camorra",
+          "summary": "Une somme colossale d'argent saisie à Naples révèle l'étendue de la criminalité organisée italienne.",
+          "url": "https://www.huffingtonpost.fr/international/article/trois-millions-d-euros-decouverts-dans-les-murs-de-la-maison-d-un-membre-de-la-camorra-a-naples_330003.html",
+          "image": "https://focus.huffingtonpost.fr/2026/09/23/393/691/2309/1299/0/0/60/0/20e799d_upload-1-qzwuwcdmhvc0-afp-20260923-c94d463-v1-highres-italypolicecrimemafia.jpg"
+        },
+        {
+          "title": "Royaume-Uni: crash d'un avion de chasse, pilotes sains et saufs",
+          "summary": "Un avion de chasse s'écrase lors d'un entraînement militaire au Royaume-Uni. Heureusement, les pilotes se sont éjectés.",
+          "url": "https://www.sudouest.fr/international/europe/royaume-uni/video-royaume-uni-un-avion-de-chasse-s-ecrase-a-l-entrainement-les-deux-pilotes-se-sont-ejectes-avant-le-crash-30759933.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Suicides assistés au Canada: un deuil impossible",
+          "summary": "Le scandale du vendeur de 'kits de suicide' au Canada suscite l'émotion et l'indignation en France.",
+          "url": "https://www.lefigaro.fr/flash-actu/canada-le-deuil-impossible-des-proches-des-victimes-du-vendeur-de-kits-de-suicide-20260923",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/09/23/e06c9612f09ec836b778a34632dab1fffde5201f32c5fe8c22efe0af25fe22ca.JPG"
+        },
+        {
+          "title": "Soirée de violences à Chauvigny: la liberté refusée",
+          "summary": "Deux jeunes impliqués dans une nuit de violences à Chauvigny fin août resteront en détention.",
+          "url": "https://www.lanouvellerepublique.fr/chauvigny/soiree-de-violences-a-chauvigny-fin-aout-liberte-refusee-pour-deux-jeunes-de-18-et-19-ans-1790191143",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ab4262355b5c7225b8b45e0"
+        },
+        {
+          "title": "Visite du Pape: aucune menace particulière détectée",
+          "summary": "Le ministre de l'Intérieur français assure que la sécurité autour de la visite papale est sous contrôle.",
+          "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/on-n-a-pas-detecte-de-menace-particuliere-autour-de-la-visite-du-pape-assure-le-ministre-de-l-interieur-laurent-nunez-sur-france-2_8206946.html",
+          "image": "https://www.franceinfo.fr/pictures/qwGqCUydlw3xkT4uITpzKB4h99I/0x0:1920x1080/432x243/filters:format(jpg)/2026/09/23/6ab4228a4901b242622139.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Meta: Muse AI dépasse ChatGPT, mais se heurte à Amazon",
+          "summary": "Le nouvel agent IA de Meta connaît un succès fulgurant mais est déjà confronté à des problèmes de vie privée et sécurité.",
+          "url": "https://intelligence-artificielle.developpez.com/actu/387499/Muse-le-nouvel-agent-IA-personnel-de-Meta-depasse-ChatGPT-en-nombre-de-telechargements-mais-se-fait-bloquer-par-Amazon-a-cause-des-risques-lies-a-la-vie-privee-et-a-la-securite/",
+          "image": "https://www.developpez.com/images/logos/meta.png"
+        },
+        {
+          "title": "Leica Cine Compact 1: L'optique qui réinvente l'image",
+          "summary": "Un test élogieux pour le nouvel objectif Leica, promettant une qualité d'image exceptionnelle aux professionnels.",
+          "url": "https://www.journaldugeek.com/test/test-leica-cine-compact-1-quand-loptique-fait-vraiment-la-difference/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/HP-1-2026-09-23T170010.109-1280x854.jpeg"
+        },
+        {
+          "title": "Attention: l'IA et votre argent ne font pas bon ménage",
+          "summary": "Une étude met en garde contre les risques financiers liés à l'utilisation des conseils d'intelligence artificielle.",
+          "url": "https://www.journaldugeek.com/2026/09/24/ne-confiez-surtout-pas-votre-argent-a-lia-une-etude-revele-le-risque-que-vous-prendriez-si-vous-suivez-ses-conseils/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/argent-euro_1920x1280-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Aides carburant: 'Une aumône' pour les infirmières libérales",
+          "summary": "Les mesures gouvernementales pour le carburant sont jugées insuffisantes par les professionnels de santé.",
+          "url": "https://www.bfmtv.com/economie/video-forum-bfmtv-c-est-une-aumone-emmanuelle-infirmiere-liberale-dans-le-val-d-oise-reagit-aux-aides-du-gouvernement-sur-le-carburant_VN-202609230878.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/yuMA7Hvzosy9GoP_mLVVswg-N8c=/0x0:1280x720/800x0/images/FORUM-BFMTV-C-est-une-aumone-Emmanuelle-infirmiere-liberale-dans-le-Val-d-Oise-reagit-aux-aides-du-gouvernement-sur-le-carburant-2353396.jpg"
+        },
+        {
+          "title": "Carburant: chauffeurs VTC jugent les aides insuffisantes",
+          "summary": "Les chauffeurs VTC expriment leur frustration face à des aides gouvernementales ne couvrant pas leurs coûts réels.",
+          "url": "https://www.bfmtv.com/economie/video-forum-bfmtv-aides-du-gouvernement-pour-brahim-chauffeur-vtc-et-syndicat-fo-dans-le-nord-ca-ne-suffit-pas_VN-202609230877.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/qNA3xHjmyIGR2_N2Cet2xjZ9xKo=/0x0:1280x720/800x0/images/FORUM-BFMTV-Aides-du-gouvernement-pour-brahim-chauffeur-vtc-et-syndicat-fo-dans-le-nord-ca-ne-suffit-pas-2353395.jpg"
+        },
+        {
+          "title": "Aménagement portuaire à Port-en-Bessin: les réponses",
+          "summary": "Carole Le Noac'h fait le point sur les importants travaux en cours au port de Port-en-Bessin.",
+          "url": "https://actu.fr/normandie/port-en-bessin-huppain_14515/amenagement-a-port-en-bessin-carole-le-noach-repond-a-toutes-vos-questions-sur-les-travaux-du-port_64826031.html",
+          "image": "https://static.actu.fr/uploads/2026/09/0286d28151ba6f586d28151bae986dv-1024x557.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Mérignac: meurtre mystérieux, 20 ans après l'enquête",
+          "summary": "Vingt ans plus tard, l'assassinat d'un habitant de Mérignac demeure non élucidé, laissant des questions troublantes.",
+          "url": "https://www.sudouest.fr/gironde/merignac-vingt-ans-apres-le-meurtre-reste-un-mystere-30735148.php",
+          "image": null
+        },
+        {
+          "title": "Dordogne: les parents de Valentin condamnés pour maltraitance",
+          "summary": "Les parents de Valentin, symbole de l'enfance maltraitée, ont été condamnés et incarcérés dès le verdict.",
+          "url": "https://www.sudouest.fr/justice/assises-de-la-dordogne-les-parents-de-valentin-symbole-de-l-enfance-maltraitee-condamnes-et-places-en-detention-des-le-verdict-prononce-30751482.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "👾",
+      "articles": [
+        {
+          "title": "Un influenceur affronte un robot Terminator: ça tourne mal",
+          "summary": "Une confrontation inattendue entre un influenceur et un robot Terminator se solde par un résultat douloureux.",
+          "url": "https://www.journaldugeek.com/2026/09/24/un-influenceur-a-affronte-un-robot-terminator-en-combat-et-ca-sest-mal-fini-pour-lui/",
+          "image": "https://www.journaldugeek.com/app/uploads/2022/11/template-jdg-21-1.jpg"
+        },
+        {
+          "title": "Artemis: l'Italie sur la Lune avant la France?",
+          "summary": "L'Italie pourrait devancer la France dans la course à la Lune avec le programme spatial Artemis. Pourquoi un tel retard ?",
+          "url": "https://www.journaldugeek.com/2026/09/24/artemis-nasa-espace-lune-italie-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/thomas-pesquet-espace-nasa-1280x853.jpg"
+        },
+        {
+          "title": "Prodige de 6 ans, la nouvelle championne de Rubik's Cube",
+          "summary": "Une jeune Chinoise étonne le monde entier par son incroyable talent et sa rapidité à résoudre le Rubik's Cube.",
+          "url": "https://www.franceinfo.fr/monde/chine/qui-est-la-chinoise-de-6-ans-championne-du-monde-de-rubik-s-cube_8206880.html",
+          "image": "https://www.franceinfo.fr/pictures/hYoB8W8AJ38BXuFwfEOg58Wamvc/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/23/6ab40d1e2c47c681937195.png"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Incroyable! Therese Johaug bat un semi-marathon en 1h10",
+          "summary": "L'ancienne fondeuse norvégienne Therese Johaug réalise une performance stupéfiante sur semi-marathon.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-semi-marathon-en-moins-de-1h10-l-incroyable-chrono-de-l-ancienne-fondeuse-norvegienne-therese-johaug_AN-202609210425.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/53TQfhw8LfsxvorM2tK7rczm8LY=/0x212:2048x1364/800x0/images/Therese-Johaug-lors-de-la-Coupe-du-monde-de-ski-de-fond-le-21-mars-2026-2351732.jpg"
+        },
+        {
+          "title": "À 57 ans, elle traverse la Manche pour la bonne cause",
+          "summary": "Anne Feat, nièce de Charles Biétry, a accompli l'incroyable défi de traverser la Manche à la nage en 15 heures.",
+          "url": "https://rmcsport.bfmtv.com/societe/a-57-ans-la-niece-de-charles-bietry-traverse-la-manche-en-15h-pour-la-bonne-cause_AN-202609230529.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kHJb21QptFmohgFTqxZdmlzYGh8=/0x147:2048x1299/800x0/images/Anne-Feat-a-traverse-la-Manche-a-la-nage-en-plus-de-15h-le-22-septembre-2026-2353138.jpg"
+        },
+        {
+          "title": "Simone Biles cambriolée: sa Porsche volée par des masqués",
+          "summary": "La star de la gymnastique Simone Biles raconte le cambriolage 'surréaliste' de sa Porsche par trois individus masqués.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/une-porsche-volee-par-trois-individus-masques-simone-biles-raconte-son-cambriolage-surrealiste_AV-202609230444.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/fyl3II_-a4A4U9N2W7s9_40_T4w=/0x184:2048x1336/800x0/images/La-star-de-la-gymnastique-Simone-Biles-aux-JO-de-Paris-le-5-aout-2024-2299185.jpg"
+        }
+      ]
+    }
+  ]
+}
