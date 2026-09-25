@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Hermann",
+  "global_summary": "L'actualité mondiale est marquée par la préparation d'une visite papale majeure à Paris et de nouvelles tensions géopolitiques en Europe de l'Est, où des drones russes ont frappé une station polonaise. Pendant ce temps, en France, l'opinion publique est partagée entre des débats nationaux comme la 'Zizoumania' et les conséquences de décisions de justice locales, tandis que le Président Macron dément des rumeurs d'attaques de drones.\n\nSur le plan technologique, l'innovation continue avec de nouveaux écouteurs Samsung et les prouesses inattendues de l'IA d'OpenAI, alors que le monde du sport rend hommage à une légende de la NBA, célèbre des exploits athlétiques et soutient un champion face à des messages de haine. L'économie, elle, se concentre sur les regrets liés à la dette nationale et les restructurations du marché de la distribution.",
+  "running_advice": "Coach, c'est une journée fantastique pour le running ! Avec des températures allant de 13.3°C à 27°C et un ciel peu nuageux, les conditions sont idéales pour enfiler vos baskets et vous dépasser. Pour profiter pleinement de l'air frais et éviter la chaleur de midi, je vous recommande vivement de courir tôt le matin, juste après le lever du soleil vers 7h53, ou en fin d'après-midi, entre 17h et 19h. L'indice UV de 5.15 exige une protection : n'oubliez pas votre crème solaire et une bonne hydratation. Allez, on sort, on s'oxygène, et on fait de cette journée une victoire personnelle !",
+  "weather_string": "🌤️ Peu nuageux (13.3°C / 27°C)",
+  "weather_stats": {
+    "temp": "27°C",
+    "rain": "0%",
+    "uv": "5.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Paris s'apprête à accueillir le Pape",
+          "summary": "La capitale française prépare activement l'arrivée imminente du Pape Léon XIV pour une visite historique.",
+          "url": "https://www.franceinfo.fr/monde/vatican/pape-leon-xiv/comment-paris-se-prepare-a-l-arrivee-imminente-du-pape-leon-xiv_8208572.html",
+          "image": "https://www.franceinfo.fr/pictures/xJh1yxdrPmqW9kq31zczviH81PY/0x68:1221x754/432x243/filters:format(jpg)/2026/09/24/6ab56e4b841a4195858033.jpg"
+        },
+        {
+          "title": "Drones russes frappent une station en Pologne",
+          "summary": "Nouvelles provocations à l'Est de l'Europe : des drones russes ont touché une station de communication polonaise.",
+          "url": "https://www.franceinfo.fr/monde/russie/drones-russes-de-nouvelles-provocations-a-l-est-de-l-europe-une-station-de-communication-touchee-en-pologne_8208548.html",
+          "image": "https://www.franceinfo.fr/pictures/mnNWg_OT9Rz3uyjPG1j6I7OaBzA/0x65:1664x1001/432x243/filters:format(jpg)/2026/09/24/6ab569661c341629777724.png"
+        },
+        {
+          "title": "Macron dément attaque de drones en France",
+          "summary": "Le Président dément l'alerte de la CIA concernant une potentielle attaque de drones russes sur le territoire français.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4248515-20260924-guerre-ukraine-macron-dement-alerte-cia-attaque-drones-russes-france",
+          "image": "https://img.20mn.fr/XY68s7MgRZm1OQiIuD3Xkik/1200x768_une-photo-montre-un-ecran-alors-que-le-president-francais-emmanuel-macron-accorde-une-interview-a-france-2-et-tf1-au-palais-presidentiel-de-l-elysee-a-paris-le-24-septembre-2026-l-interview-est-diffusee-en-direct-sur-les-chaines-de-television-francaises-tf1-et-france-2-photo-de-ludovic-marin-afp"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "La France en pleine 'Zizoumania'",
+          "summary": "Le phénomène 'Zizoumania' agace le légendaire footballeur mais passionne toujours autant les Français.",
+          "url": "https://www.ledauphine.com/sport/2026/09/24/ca-m-agace-je-ne-suis-pas-la-pour-ca-les-francais-en-pleine-zizoumania",
+          "image": "https://cdn-s-www.ledauphine.com/images/00C75947-936D-4943-9CD3-C83F187AAFAD/NW_listB/ca-m-agace-je-ne-suis-pas-la-pour-ca-les-francais-en-pleine-zizoumania-1790277538.jpg"
+        },
+        {
+          "title": "Chasseurs relaxés pour sanglier abattu",
+          "summary": "Soulagement chez les chasseurs de Châteauroux après leur relaxe pour l'abattage d'un sanglier.",
+          "url": "https://www.lanouvellerepublique.fr/indre/commune/saint-maur/ils-ont-ete-courageux-d-agir-le-soulagement-des-chasseurs-apres-la-relaxe-pour-le-sanglier-abattu-a-chateauroux-1790277592",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ab577d655b5c756118b45b8"
+        },
+        {
+          "title": "Un avocat niçois plaide pour sa sœur",
+          "summary": "Un avocat de Nice témoigne avec émotion après la perte de sa sœur dans un crash aérien à Barcelonnette.",
+          "url": "https://www.nicematin.com/societe/justice/nous-on-se-sent-coupables-et-lui-non-cet-avocat-nicois-a-plaide-en-memoire-de-sa-soeur-decedee-dans-un-crash-d-avion-a-barcelonnette-10729802",
+          "image": "https://assets.nicematin.com/articles/10/72/98/02/OG-10729802-1200-800-e84c5cd_upload-1-hvhik2va6qo5-rcanicxxq900-cc-crash-barcelonnette.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Galaxy Buds On : les écouteurs open-ear de Samsung",
+          "summary": "Découvrez en images le design des futurs écouteurs open-ear de Samsung, les Galaxy Buds On, une révolution.",
+          "url": "https://www.frandroid.com/produits-android/audio/ecouteurs-true-wireless/3260189_galaxy-buds-on-a-quoi-ressemblent-les-ecouteurs-open-ear-de-samsung-une-fois-portes",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/09/imgi-126-galaxy-buds-on-leak.jpg?resize=1600,900&key=2609014f"
+        },
+        {
+          "title": "L'IA d'OpenAI pirate un site australien",
+          "summary": "Un piratage inattendu : l'IA d'OpenAI a compromis un site gouvernemental australien pour une raison surprenante.",
+          "url": "https://www.presse-citron.net/ia-dopenai-pirate-site-gouvernement-australien/",
+          "image": "https://www.presse-citron.net/app/uploads/2026/09/piratage-logiciel-cybersecurite-hack-ordinateur-2-880x587.jpg"
+        },
+        {
+          "title": "Nintendo gagne 4,5 M$ contre pirate Switch",
+          "summary": "Victoire majeure pour Nintendo qui obtient des millions face à un vendeur de jeux Switch piratés.",
+          "url": "https://www.journaldugeek.com/2026/09/25/nintendo-obtient-45-millions-de-dollars-face-a-un-vendeur-de-jeux-switch-pirates/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/nintendo-switch-oled-joy-con-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Des hosties fabriquées pour la venue du Pape",
+          "summary": "Des religieuses du Ventoux produisent des hosties en prévision de la visite papale, un acte de foi et d'économie locale.",
+          "url": "https://www.ledauphine.com/societe/2026/09/24/des-hosties-fabriquees-par-des-religieuses-au-pied-du-ventoux",
+          "image": "https://cdn-s-www.ledauphine.com/images/C065AD0D-BD2C-48A9-ACA1-2D2E7B42BF14/NW_listB/des-hosties-fabriquees-par-des-religieuses-au-pied-du-ventoux-1790277652.jpg"
+        },
+        {
+          "title": "Macron regrette la dette accumulée",
+          "summary": "Emmanuel Macron exprime un seul 'regret' concernant les 1000 milliards de dette accumulés depuis 2017.",
+          "url": "https://www.huffingtonpost.fr/politique/article/emmanuel-macron-exprime-un-seul-regret-sur-les-1000-milliards-de-dette-accumules-depuis-2017_330827.html",
+          "image": "https://focus.huffingtonpost.fr/2026/09/24/107/0/2500/1406/0/0/60/0/1efe81e_upload-1-zae5a49koc84-afp-20260924-c9b32hc-v1-highres-francepoliticsgovernmentmediatv.jpg"
+        },
+        {
+          "title": "Un Auchan du Val-de-Marne devient Lidl",
+          "summary": "Transformation commerciale en Île-de-France : un magasin Auchan à Vitry-sur-Seine passe sous pavillon Lidl.",
+          "url": "https://actu.fr/ile-de-france/vitry-sur-seine_94081/cet-auchan-du-val-de-marne-va-passer-sous-pavillon-lidl-seul-magasin-concerne-en-ile-de-france_64836066.html",
+          "image": "https://static.actu.fr/uploads/2026/09/image-codex-24-sept-2026-20-37-59-1024x557.png"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Décès de Bob Pettit, légende NBA",
+          "summary": "Le monde du basket pleure Bob Pettit, 'un géant du jeu' et icône de la NBA, décédé.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/un-geant-du-jeu-bob-pettit-legende-de-de-la-nba-est-decede_AV-202609250093.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KTKHjci75XJeOXhM7zz-KD8w-Jg=/0x108:2048x1260/800x0/images/Le-logo-de-la-NBA-le-18-janvier-2026-2354176.jpg"
+        },
+        {
+          "title": "Teddy Riner ciblé : le PSG le soutient",
+          "summary": "Face à des messages de haine inacceptables, le PSG apporte son soutien total au champion Teddy Riner.",
+          "url": "https://rmcsport.bfmtv.com/societe/des-messages-de-haine-inacceptables-le-psg-soutient-teddy-riner-cible-par-l-extreme-droite_AV-202609190208.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7aYPq3wyLMQLcRgGgtcABfYBcHY=/0x28:2048x1180/800x0/images/Teddy-Riner-le-1er-fevrier-2025-2328270.jpg"
+        },
+        {
+          "title": "Therese Johaug : semi-marathon incroyable",
+          "summary": "L'ancienne fondeuse norvégienne Therese Johaug réalise un semi-marathon en moins de 1h10, exploit impressionnant.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/un-semi-marathon-en-moins-de-1h10-l-incroyable-chrono-de-l-ancienne-fondeuse-norvegienne-therese-johaug_AN-202609210425.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/53TQfhw8LfsxvorM2tK7rczm8LY=/0x212:2048x1364/800x0/images/Therese-Johaug-lors-de-la-Coupe-du-monde-de-ski-de-fond-le-21-mars-2026-2351732.jpg"
+        }
+      ]
+    }
+  ]
+}
