@@ -1,0 +1,143 @@
+{
+  "ephemeride": "Saint Côme",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux géopolitiques complexes, où la diplomatie entre grandes puissances comme les États-Unis et la Chine tente d'apaiser les tensions, malgré la persistance de menaces comme la cyberguerre. En France, l'information navigue entre des affaires judiciaires de grande importance et des élans de passion pour des événements sportifs mythiques. \n\nLe monde économique n'est pas en reste, avec des mouvements stratégiques majeurs et l'émergence de nouvelles opportunités. Enfin, le sport continue de nous faire vibrer, mêlant hommages à des légendes, célébrations de performances exceptionnelles et défis inattendus auxquels sont confrontés les athlètes. C'est un panorama riche, entre ombres et lumières, qui nous rappelle la vitalité et la complexité de notre monde.",
+  "running_advice": "Félicitations, champion(ne) ! C'est une journée absolument fantastique pour enfiler vos baskets et attaquer votre séance de running. Avec des températures allant de 14.6°C à 26.7°C et un ciel peu nuageux, les conditions sont idéales. Zéro pluie à l'horizon, donc pas d'excuse pour ne pas sortir !\n\nPour profiter au maximum sans les désagréments du soleil de midi, visez le créneau juste après le lever du soleil, vers 8h-9h, ou en fin d'après-midi, entre 17h et 19h, quand le soleil commence à descendre. Attention cependant, l'indice UV est de 5.1, ce qui est modéré à élevé. N'oubliez pas une bonne crème solaire, un chapeau ou une casquette, et des lunettes de soleil pour protéger vos yeux. Hydratez-vous bien avant, pendant et après l'effort. Allez, on lâche rien, chaque foulée compte pour atteindre vos objectifs !",
+  "weather_string": "🌤️ Peu nuageux (14.6°C / 26.7°C)",
+  "weather_stats": {
+    "temp": "26.7°C",
+    "rain": "0%",
+    "uv": "5.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Cyberguerre : le numérique, nouveau champ de bataille",
+          "summary": "L'espace numérique est devenu un terrain d'affrontement global, soulevant des questions cruciales sur la sécurité internationale.",
+          "url": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox/20260925-cyberguerre-quand-l-espace-num%C3%A9rique-devient-un-champ-de-bataille",
+          "image": "https://s.rfi.fr/media/display/7ec3c818-b8db-11f1-84e1-91cf9f3cd539/w:1024/p:16x9/Ancien-compte-1.png"
+        },
+        {
+          "title": "Trump et Xi affichent leur entente à Washington",
+          "summary": "La visite de Xi Jinping à Washington s'est conclue sur une image de réconciliation et d'entente, malgré les divergences.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20260925-xi-ach%C3%A8ve-sa-visite-%C3%A0-washington-sur-une-image-d-entente-avec-trump",
+          "image": "https://s.france24.com/media/display/81e046ea-b90b-11f1-bc30-852b23529bb9/w:1024/p:16x9/61407f68b9f8f6478e2b8020a9dcf60bd0b6e405.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Dijon : 10 ans de réclusion pour viol sur mineure",
+          "summary": "Un homme de 40 ans a été lourdement condamné à Dijon pour un viol, soulignant la fermeté de la justice française.",
+          "url": "https://www.bienpublic.com/faits-divers-justice/2026/09/25/un-quadragenaire-condamne-a-10-ans-de-reclusion-pour-un-viol-sur-mineure",
+          "image": "https://cdn-s-www.bienpublic.com/images/790DC07B-1397-4FD8-9EA5-E2AAE1D90F52/MF_contenu/un-quadragenaire-condamne-a-10-ans-de-reclusion-pour-un-viol-sur-mineure-1784487842.jpg"
+        },
+        {
+          "title": "La Route des légendes du Dakar fait vibrer Châteauroux",
+          "summary": "L'esprit du Dakar perdure à travers la Route des légendes, ravivant la passion des fans dans le cœur de la France.",
+          "url": "https://www.lanouvellerepublique.fr/chateauroux/piquee-ado-par-le-dakar-c-est-a-vie-la-route-des-legendes-ravive-la-passion-jusqu-a-chateauroux-1790359599",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ab6b82da2c1baa4378b45f7"
+        },
+        {
+          "title": "Arnaque aux logements fantômes sur Booking.com en France",
+          "summary": "Une nouvelle vague d'escroqueries aux \"logements fantômes\" sur Booking.com inquiète les voyageurs français. Restez vigilants !",
+          "url": "https://www.journaldugeek.com/2026/09/25/logements-fantomes-une-nouvelle-arnaque-sur-booking-com-prend-de-lampleur-en-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/arnaque-booking-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Exoplanète unique : une orbite à contresens de son étoile",
+          "summary": "Une exoplanète défie les lois connues, orbitant dans la direction opposée à son étoile, un phénomène rarissime passionnant les scientifiques.",
+          "url": "https://www.journaldugeek.com/2026/09/25/exoplanete-pas-comme-autres-orbite-contresens-etoile-phenomene-rarissime/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/Exoplanete-2-1280x853.jpg"
+        },
+        {
+          "title": "L'action FMC au plus bas sur 52 semaines",
+          "summary": "L'action FMC a atteint un nouveau plancher de 9,48 $, marquant une période de défis pour l'entreprise technologique.",
+          "url": "https://fr.investing.com/news/company-news/laction-fmc-atteint-un-plus-bas-sur-52-semaines-a-948--93CH-3610221",
+          "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg"
+        },
+        {
+          "title": "Film Netflix : faut-il voir le portrait d'un terroriste ?",
+          "summary": "Un film Netflix sur un célèbre terroriste américain divise, invitant à la réflexion sur la représentation du mal.",
+          "url": "https://www.journaldugeek.com/critique/sur-netflix-faut-il-regarder-ce-film-sur-lun-des-plus-grands-terroristes-americains/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/unabomber-netflix-1-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Newcleo, pépite nucléaire, vise Wall Street pour ses fonds",
+          "summary": "La startup franco-italienne Newcleo s'envole vers Wall Street, cherchant des financements pour ses innovations nucléaires.",
+          "url": "https://www.lefigaro.fr/societes/la-pepite-franco-italienne-du-nucleaire-newcleo-met-le-cap-sur-wall-street-a-la-recherche-de-financements-20260925",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/09/25/4121b38ab98bed446e3eddf1d1d02bc0ebc079ad8a28b7544d112a576610a778.jpg"
+        },
+        {
+          "title": "BASF veut consolider la chimie allemande face à la Chine",
+          "summary": "Face à la concurrence asiatique, le géant BASF envisage une acquisition pour renforcer la chimie allemande. Une stratégie majeure !",
+          "url": "https://www.lesechos.fr/industrie-services/industrie-lourde/face-a-la-concurrence-chinoise-le-geant-basf-tente-par-une-consolidation-de-la-chimie-allemande-2253658",
+          "image": "https://media.lesechos.com/api/v1/images/view/6ab6b81ae53ffec0f907eb50/1280x720/0210682907548-web-tete.jpg"
+        },
+        {
+          "title": "Cognac : Le Taj ouvre, burgers, naans et bowls au menu",
+          "summary": "Un nouveau restaurant, Le Taj, ouvre ses portes à Cognac, proposant une fusion de burgers, naans et bowls. Bon appétit !",
+          "url": "https://www.charentelibre.fr/charente/cognac/le-taj-un-nouveau-resto-de-burgers-naans-et-bowls-a-cognac-30782231.php",
+          "image": "https://media.charentelibre.fr/30782231/1200x600/img-3716.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Bordeaux : un trentenaire jugé pour viol et agression sexuelle",
+          "summary": "Un homme accusé de viol et agressions sexuelles sur huit femmes rencontrées en ligne comparaît devant les assises de la Gironde.",
+          "url": "https://www.sudouest.fr/faits-divers/accuse-de-viol-en-recidive-et-d-agression-sexuelle-sur-huit-femmes-connues-sur-des-applications-de-rencontres-un-trentenaire-juge-devant-la-cour-d-assises-de-la-gironde-30753697.php"
+        },
+        {
+          "title": "Meurtre Aramburú : Le Priol et Bouvier condamnés",
+          "summary": "Le Priol et Bouvier ont été condamnés à 26 et 19 ans de réclusion criminelle pour le meurtre de Federico Martín Aramburú.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/meurtre-de-federico-martin-aramburu-pas-de-premeditation-vingt-six-et-dix-neuf-ans-de-reclusion-criminelle-pour-le-priol-et-bouvier-30780182.php"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "NBA : Bob Pettit, un géant du jeu, nous a quittés",
+          "summary": "Le monde du basket pleure la disparition de Bob Pettit, légende de la NBA et véritable géant du jeu. Un immense talent !",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/un-geant-du-jeu-bob-pettit-legende-de-de-la-nba-est-decede_AV-202609250093.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KTKHjci75XJeOXhM7zz-KD8w-Jg=/0x108:2048x1260/800x0/images/Le-logo-de-la-NBA-le-18-janvier-2026-2354176.jpg"
+        },
+        {
+          "title": "Para triathlon : Alexis Hanquinquant, 9e titre mondial",
+          "summary": "Alexis Hanquinquant s'adjuge un 9e titre mondial en para triathlon, prouvant une soif de victoire insatiable. Incroyable performance !",
+          "url": "https://rmcsport.bfmtv.com/athletisme/ne-pas-minimiser-les-victoires-un-9e-titre-mondial-et-toujours-de-l-appetit-pour-alexis-hanquinquant-en-para-triathlon_AN-202609250578.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/AiukyVfeVVdacY95frKskfxuQwg=/0x20:2048x1172/800x0/images/Alexis-Hanquinquant-en-juin-2026-2354581.jpg"
+        },
+        {
+          "title": "Athlétisme : Samba-Mayela suspendue pour localisation",
+          "summary": "La vice-championne olympique Cyréna Samba-Mayela est suspendue pour défaut de localisation, un coup dur pour l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-cyrena-samba-mayela-vice-championne-olympique-du-100m-haies-suspendue-pour-defaut-de-localisation_AN-202609250559.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DJdR-MYntvXKQrgmrQPGmALehe0=/0x40:2048x1192/800x0/images/Cyrena-Samba-Mayela-avant-les-demi-finales-du-100m-haies-JO-de-Paris-2024-9-aout-2024-1917954.jpg"
+        }
+      ]
+    }
+  ]
+}
