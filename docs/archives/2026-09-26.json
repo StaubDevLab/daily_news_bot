@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Côme",
-  "global_summary": "L'actualité de ce jour est marquée par des enjeux géopolitiques complexes, où la diplomatie entre grandes puissances comme les États-Unis et la Chine tente d'apaiser les tensions, malgré la persistance de menaces comme la cyberguerre. En France, l'information navigue entre des affaires judiciaires de grande importance et des élans de passion pour des événements sportifs mythiques. \n\nLe monde économique n'est pas en reste, avec des mouvements stratégiques majeurs et l'émergence de nouvelles opportunités. Enfin, le sport continue de nous faire vibrer, mêlant hommages à des légendes, célébrations de performances exceptionnelles et défis inattendus auxquels sont confrontés les athlètes. C'est un panorama riche, entre ombres et lumières, qui nous rappelle la vitalité et la complexité de notre monde.",
-  "running_advice": "Félicitations, champion(ne) ! C'est une journée absolument fantastique pour enfiler vos baskets et attaquer votre séance de running. Avec des températures allant de 14.6°C à 26.7°C et un ciel peu nuageux, les conditions sont idéales. Zéro pluie à l'horizon, donc pas d'excuse pour ne pas sortir !\n\nPour profiter au maximum sans les désagréments du soleil de midi, visez le créneau juste après le lever du soleil, vers 8h-9h, ou en fin d'après-midi, entre 17h et 19h, quand le soleil commence à descendre. Attention cependant, l'indice UV est de 5.1, ce qui est modéré à élevé. N'oubliez pas une bonne crème solaire, un chapeau ou une casquette, et des lunettes de soleil pour protéger vos yeux. Hydratez-vous bien avant, pendant et après l'effort. Allez, on lâche rien, chaque foulée compte pour atteindre vos objectifs !",
+  "global_summary": "L'actualité mondiale de ce jour est marquée par des enjeux de taille, de la cyberguerre qui redéfinit les champs de bataille numériques aux efforts diplomatiques, comme la rencontre entre Trump et Xi Jinping, dépeinte comme très positive. En France, les gros titres naviguent entre des affaires judiciaires lourdes et des événements culturels et sportifs locaux inspirants. L'économie, quant à elle, voit des mouvements de consolidation industrielle et des startups audacieuses se lancer à la conquête des marchés financiers.\nLe secteur technologique nous emmène aux confins de l'univers avec la découverte d'une exoplanète unique, tout en nous alertant sur les arnaques numériques du quotidien et en explorant des récits complexes via le streaming. Enfin, le sport nous offre un florilège d'émotions intenses : des performances exceptionnelles en para-triathlon et des défis humains hors normes, mais aussi des hommages à des légendes disparues.",
+  "running_advice": "Excellente nouvelle, champion ! Avec un ciel peu nuageux et des températures idéales oscillant entre 14.6°C et 26.7°C, c'est une journée parfaite pour enfiler vos baskets. Pour profiter au maximum sans les coups de chaud et le soleil le plus fort, visez votre sortie tôt le matin après 7h54 ou en fin d'après-midi avant 19h52. Attention toutefois à l'indice UV de 5.1 : la crème solaire et un chapeau sont vos meilleurs alliés pour une course en toute sécurité. Prêt à dominer le bitume et à faire le plein d'énergie ?",
   "weather_string": "🌤️ Peu nuageux (14.6°C / 26.7°C)",
   "weather_stats": {
     "temp": "26.7°C",
@@ -14,16 +14,16 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Cyberguerre : le numérique, nouveau champ de bataille",
-          "summary": "L'espace numérique est devenu un terrain d'affrontement global, soulevant des questions cruciales sur la sécurité internationale.",
+          "title": "La Cyberguerre, Nouveau Champ de Bataille Mondial",
+          "summary": "L'espace numérique s'impose comme un théâtre majeur des conflits, redéfinissant les stratégies de défense et d'attaque nationales.",
           "url": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox/20260925-cyberguerre-quand-l-espace-num%C3%A9rique-devient-un-champ-de-bataille",
           "image": "https://s.rfi.fr/media/display/7ec3c818-b8db-11f1-84e1-91cf9f3cd539/w:1024/p:16x9/Ancien-compte-1.png"
         },
         {
-          "title": "Trump et Xi affichent leur entente à Washington",
-          "summary": "La visite de Xi Jinping à Washington s'est conclue sur une image de réconciliation et d'entente, malgré les divergences.",
-          "url": "https://www.france24.com/fr/am%C3%A9riques/20260925-xi-ach%C3%A8ve-sa-visite-%C3%A0-washington-sur-une-image-d-entente-avec-trump",
-          "image": "https://s.france24.com/media/display/81e046ea-b90b-11f1-bc30-852b23529bb9/w:1024/p:16x9/61407f68b9f8f6478e2b8020a9dcf60bd0b6e405.jpg"
+          "title": "Trump Juge Positive la Rencontre avec Xi Jinping",
+          "summary": "La visite de Xi Jinping à Washington a été qualifiée de \"très positive\" par Donald Trump, signalant un apaisement entre les superpuissances.",
+          "url": "https://www.franceinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-dit-que-la-visite-de-xi-jinping-a-ete-tres-positive-pour-les-deux-pays-l-iran-aborde_8210135.html",
+          "image": "https://www.franceinfo.fr/pictures/qVPoWS0ZUDKrzAGe5fROP2RIWIM/0x0:5791x3257/432x243/filters:format(jpg)/2026/09/25/6ab6b2077b162790916112.jpg"
         }
       ]
     },
@@ -32,44 +32,44 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Dijon : 10 ans de réclusion pour viol sur mineure",
-          "summary": "Un homme de 40 ans a été lourdement condamné à Dijon pour un viol, soulignant la fermeté de la justice française.",
+          "title": "10 Ans de Réclusion pour Viol à Dijon",
+          "summary": "Un homme est condamné à Dijon pour un viol sur mineure, soulignant la fermeté de la justice face à ces crimes.",
           "url": "https://www.bienpublic.com/faits-divers-justice/2026/09/25/un-quadragenaire-condamne-a-10-ans-de-reclusion-pour-un-viol-sur-mineure",
           "image": "https://cdn-s-www.bienpublic.com/images/790DC07B-1397-4FD8-9EA5-E2AAE1D90F52/MF_contenu/un-quadragenaire-condamne-a-10-ans-de-reclusion-pour-un-viol-sur-mineure-1784487842.jpg"
         },
         {
-          "title": "La Route des légendes du Dakar fait vibrer Châteauroux",
-          "summary": "L'esprit du Dakar perdure à travers la Route des légendes, ravivant la passion des fans dans le cœur de la France.",
+          "title": "La Route des Légendes du Dakar à Châteauroux",
+          "summary": "La passion du Dakar est ravivée à Châteauroux avec la Route des légendes, témoignant d'un engouement intemporel.",
           "url": "https://www.lanouvellerepublique.fr/chateauroux/piquee-ado-par-le-dakar-c-est-a-vie-la-route-des-legendes-ravive-la-passion-jusqu-a-chateauroux-1790359599",
           "image": "https://images.lanouvellerepublique.fr/image/upload/6ab6b82da2c1baa4378b45f7"
         },
         {
-          "title": "Arnaque aux logements fantômes sur Booking.com en France",
-          "summary": "Une nouvelle vague d'escroqueries aux \"logements fantômes\" sur Booking.com inquiète les voyageurs français. Restez vigilants !",
-          "url": "https://www.journaldugeek.com/2026/09/25/logements-fantomes-une-nouvelle-arnaque-sur-booking-com-prend-de-lampleur-en-france/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/09/arnaque-booking-1280x853.jpg"
+          "title": "Verdict Meurtre Aramburú : Le Priol et Bouvier Condamnés",
+          "summary": "Les accusés du meurtre de Federico Martín Aramburú ont reçu de lourdes peines de réclusion criminelle.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/meurtre-de-federico-martin-aramburu-pas-de-premeditation-vingt-six-et-dix-neuf-ans-de-reclusion-criminelle-pour-le-priol-et-bouvier-30780182.php",
+          "image": null
         }
       ]
     },
     {
       "label": "Tech",
-      "emoji": "💻",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "Exoplanète unique : une orbite à contresens de son étoile",
-          "summary": "Une exoplanète défie les lois connues, orbitant dans la direction opposée à son étoile, un phénomène rarissime passionnant les scientifiques.",
+          "title": "Une Exoplanète Révolutionne l'Astronomie",
+          "summary": "La découverte d'une exoplanète orbitant à contresens de son étoile défie les modèles astronomiques établis, ouvrant de nouvelles perspectives.",
           "url": "https://www.journaldugeek.com/2026/09/25/exoplanete-pas-comme-autres-orbite-contresens-etoile-phenomene-rarissime/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/09/Exoplanete-2-1280x853.jpg"
         },
         {
-          "title": "L'action FMC au plus bas sur 52 semaines",
-          "summary": "L'action FMC a atteint un nouveau plancher de 9,48 $, marquant une période de défis pour l'entreprise technologique.",
-          "url": "https://fr.investing.com/news/company-news/laction-fmc-atteint-un-plus-bas-sur-52-semaines-a-948--93CH-3610221",
-          "image": "https://content-media.investing.com/news/LYNXMPEM4R1OV_1200_L.jpg"
+          "title": "Arnaques aux Logements Fantômes sur Booking.com",
+          "summary": "Une recrudescence d'arnaques aux faux logements sur Booking.com en France pousse à la vigilance des utilisateurs.",
+          "url": "https://www.journaldugeek.com/2026/09/25/logements-fantomes-une-nouvelle-arnaque-sur-booking-com-prend-de-lampleur-en-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/arnaque-booking-1280x853.jpg"
         },
         {
-          "title": "Film Netflix : faut-il voir le portrait d'un terroriste ?",
-          "summary": "Un film Netflix sur un célèbre terroriste américain divise, invitant à la réflexion sur la représentation du mal.",
+          "title": "Netflix : Focus sur un Film Controversé",
+          "summary": "Une critique s'interroge sur la pertinence d'un nouveau film Netflix revenant sur la vie d'un tristement célèbre terroriste américain.",
           "url": "https://www.journaldugeek.com/critique/sur-netflix-faut-il-regarder-ce-film-sur-lun-des-plus-grands-terroristes-americains/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/09/unabomber-netflix-1-1280x853.jpg"
         }
@@ -77,41 +77,25 @@
     },
     {
       "label": "Business",
-      "emoji": "📈",
+      "emoji": "💼",
       "articles": [
         {
-          "title": "Newcleo, pépite nucléaire, vise Wall Street pour ses fonds",
-          "summary": "La startup franco-italienne Newcleo s'envole vers Wall Street, cherchant des financements pour ses innovations nucléaires.",
+          "title": "Newcleo Vise Wall Street pour son Nucléaire",
+          "summary": "La startup nucléaire franco-italienne Newcleo s'apprête à conquérir Wall Street pour sécuriser les financements nécessaires à son développement.",
           "url": "https://www.lefigaro.fr/societes/la-pepite-franco-italienne-du-nucleaire-newcleo-met-le-cap-sur-wall-street-a-la-recherche-de-financements-20260925",
           "image": "https://i.f1g.fr/media/cms/orig/2026/09/25/4121b38ab98bed446e3eddf1d1d02bc0ebc079ad8a28b7544d112a576610a778.jpg"
         },
         {
-          "title": "BASF veut consolider la chimie allemande face à la Chine",
-          "summary": "Face à la concurrence asiatique, le géant BASF envisage une acquisition pour renforcer la chimie allemande. Une stratégie majeure !",
-          "url": "https://www.lesechos.fr/industrie-services/industrie-lourde/face-a-la-concurrence-chinoise-le-geant-basf-tente-par-une-consolidation-de-la-chimie-allemande-2253658",
-          "image": "https://media.lesechos.com/api/v1/images/view/6ab6b81ae53ffec0f907eb50/1280x720/0210682907548-web-tete.jpg"
-        },
-        {
-          "title": "Cognac : Le Taj ouvre, burgers, naans et bowls au menu",
-          "summary": "Un nouveau restaurant, Le Taj, ouvre ses portes à Cognac, proposant une fusion de burgers, naans et bowls. Bon appétit !",
+          "title": "Cognac Accueille le Nouveau Restaurant Le Taj",
+          "summary": "Un nouveau restaurant, Le Taj, ouvre ses portes à Cognac, proposant une offre variée de burgers, naans et bowls gourmands.",
           "url": "https://www.charentelibre.fr/charente/cognac/le-taj-un-nouveau-resto-de-burgers-naans-et-bowls-a-cognac-30782231.php",
           "image": "https://media.charentelibre.fr/30782231/1200x600/img-3716.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Gironde",
-      "emoji": "📍",
-      "articles": [
-        {
-          "title": "Bordeaux : un trentenaire jugé pour viol et agression sexuelle",
-          "summary": "Un homme accusé de viol et agressions sexuelles sur huit femmes rencontrées en ligne comparaît devant les assises de la Gironde.",
-          "url": "https://www.sudouest.fr/faits-divers/accuse-de-viol-en-recidive-et-d-agression-sexuelle-sur-huit-femmes-connues-sur-des-applications-de-rencontres-un-trentenaire-juge-devant-la-cour-d-assises-de-la-gironde-30753697.php"
         },
         {
-          "title": "Meurtre Aramburú : Le Priol et Bouvier condamnés",
-          "summary": "Le Priol et Bouvier ont été condamnés à 26 et 19 ans de réclusion criminelle pour le meurtre de Federico Martín Aramburú.",
-          "url": "https://www.sudouest.fr/pyrenees-atlantiques/biarritz/meurtre-de-federico-martin-aramburu-pas-de-premeditation-vingt-six-et-dix-neuf-ans-de-reclusion-criminelle-pour-le-priol-et-bouvier-30780182.php"
+          "title": "BASF Tente la Consolidation Chimique en Allemagne",
+          "summary": "Face à la concurrence asiatique, le géant BASF explore une fusion pour consolider l'industrie chimique allemande.",
+          "url": "https://www.lesechos.fr/industrie-services/industrie-lourde/face-a-la-concurrence-chinoise-le-geant-basf-tente-par-une-consolidation-de-la-chimie-allemande-2253658",
+          "image": "https://media.lesechos.com/api/v1/images/view/6ab6b81ae53ffec0f907eb50/1280x720/0210682907548-web-tete.jpg"
         }
       ]
     },
@@ -120,22 +104,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "NBA : Bob Pettit, un géant du jeu, nous a quittés",
-          "summary": "Le monde du basket pleure la disparition de Bob Pettit, légende de la NBA et véritable géant du jeu. Un immense talent !",
+          "title": "Décès de Bob Pettit, Légende de la NBA",
+          "summary": "Le monde du basket pleure Bob Pettit, \"un géant du jeu\" et icône de la NBA, dont l'héritage perdurera éternellement.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/un-geant-du-jeu-bob-pettit-legende-de-de-la-nba-est-decede_AV-202609250093.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KTKHjci75XJeOXhM7zz-KD8w-Jg=/0x108:2048x1260/800x0/images/Le-logo-de-la-NBA-le-18-janvier-2026-2354176.jpg"
         },
         {
-          "title": "Para triathlon : Alexis Hanquinquant, 9e titre mondial",
-          "summary": "Alexis Hanquinquant s'adjuge un 9e titre mondial en para triathlon, prouvant une soif de victoire insatiable. Incroyable performance !",
-          "url": "https://rmcsport.bfmtv.com/athletisme/ne-pas-minimiser-les-victoires-un-9e-titre-mondial-et-toujours-de-l-appetit-pour-alexis-hanquinquant-en-para-triathlon_AN-202609250578.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/AiukyVfeVVdacY95frKskfxuQwg=/0x20:2048x1172/800x0/images/Alexis-Hanquinquant-en-juin-2026-2354581.jpg"
+          "title": "Huit Médailles pour la France au Para Triathlon",
+          "summary": "La France brille aux Mondiaux de para triathlon, décrochant huit médailles, dont trois d'or, signe d'une performance remarquable.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/mondiaux-de-para-triathlon-huit-medailles-dont-trois-d-or-pour-la-france_AV-202609250526.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/qifhtI0vq1kNViolDI8Z73bNicc=/0x0:2048x1152/800x0/images/Le-para-triathlete-francais-Alexis-Hanquinquant-aux-championnats-d-Europe-2354528.jpg"
         },
         {
-          "title": "Athlétisme : Samba-Mayela suspendue pour localisation",
-          "summary": "La vice-championne olympique Cyréna Samba-Mayela est suspendue pour défaut de localisation, un coup dur pour l'athlétisme.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-cyrena-samba-mayela-vice-championne-olympique-du-100m-haies-suspendue-pour-defaut-de-localisation_AN-202609250559.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DJdR-MYntvXKQrgmrQPGmALehe0=/0x40:2048x1192/800x0/images/Cyrena-Samba-Mayela-avant-les-demi-finales-du-100m-haies-JO-de-Paris-2024-9-aout-2024-1917954.jpg"
+          "title": "Traversée Héroïque de la Manche à 57 Ans",
+          "summary": "Inspirante, une femme de 57 ans a réussi la prouesse de traverser la Manche à la nage en 15 heures, pour une noble cause.",
+          "url": "https://rmcsport.bfmtv.com/societe/a-57-ans-la-niece-de-charles-bietry-traverse-la-manche-en-15h-pour-la-bonne-cause_AN-202609230529.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kHJb21QptFmohgFTqxZdmlzYGh8=/0x147:2048x1299/800x0/images/Anne-Feat-a-traverse-la-Manche-a-la-nage-en-plus-de-15h-le-22-septembre-2026-2353138.jpg"
         }
       ]
     }
