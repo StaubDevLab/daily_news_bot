@@ -1,0 +1,163 @@
+{
+  "ephemeride": "Saint Vincent de Paul",
+  "global_summary": "La France est en effervescence avec la visite très attendue du Pape Léon XIV, rassemblant des milliers de fidèles à Paris et Lourdes, témoignant d'une profonde ferveur spirituelle. Cet événement majeur captive l'attention nationale, créant un sentiment d'unité et de recueillement. \nParallèlement, l'actualité économique et technologique est marquée par l'impact grandissant de l'IA sur le marché du travail et les initiatives gouvernementales pour améliorer l'efficacité énergétique des logements. Le monde sportif, quant à lui, célèbre de nouvelles victoires inspirantes, tout en gérant des défis et des pertes de légendes, prouvant que le dynamisme est toujours de mise.",
+  "running_advice": "Prépare-toi à une session exceptionnelle ! Aujourd'hui, les conditions sont idéales pour enfiler tes baskets. Avec des températures allant de 15.9°C à 29.7°C et un ciel peu nuageux, tu as carte blanche pour te dépasser et profiter de l'air frais. Le lever du soleil à 07:55 et le coucher à 19:51 offrent de belles fenêtres. Je te conseille vivement une sortie tôt le matin pour profiter de la fraîcheur ou en fin d'après-midi pour un run énergisant au coucher du soleil. Attention, l'indice UV est de 4.15, pense absolument à la crème solaire et à une casquette pour te protéger. Hydrate-toi bien et va chercher tes objectifs, car chaque pas compte !",
+  "weather_string": "🌤️ Peu nuageux (15.9°C / 29.7°C)",
+  "weather_stats": {
+    "temp": "29.7°C",
+    "rain": "10%",
+    "uv": "4.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Pape Léon XIV rassemble les foules à Paris",
+          "summary": "Le Pape Léon XIV a captivé des milliers de fidèles à Paris, célébrant une messe marquante sur la place de la Concorde.",
+          "url": "https://www.lemonde.fr/international/article/2026/09/26/leon-xiv-en-pape-tranquille-et-rassembleur-fait-le-plein-a-paris-pour-la-messe-de-la-concorde_6783543_3210.html",
+          "image": "https://img.lemde.fr/2026/09/26/253/0/6041/3020/1342/671/60/0/8a62731_upload-1-xzwbuqgui1hz-kzihnioglu-pol-concorde-pape-leon-xiv-26092026-60.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Fuite de gaz : 9 évacués dans le Doubs",
+          "summary": "Une fuite de gaz a entraîné l'évacuation préventive de neuf personnes dans le Doubs, sans faire de blessés.",
+          "url": "https://www.estrepublicain.fr/economie/2026/09/26/fuite-de-gaz-neuf-personnes-evacuees-a-la-fruitiere-des-suchaux-aux-fins",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/76CD7786-38A2-4CE6-8BE0-E55F1F1858F3/NW_listB/fuite-de-gaz-neuf-personnes-evacuees-a-la-fruitiere-des-suchaux-aux-fins-1790450120.jpg"
+        },
+        {
+          "title": "Football : Le Blanc s'incline aux tirs au but",
+          "summary": "Le club du Blanc a été éliminé de la coupe après une séance de tirs au but intense face à la Berri.",
+          "url": "https://www.lanouvellerepublique.fr/chateauroux/le-blanc-elimine-par-la-berri-apres-les-tirs-au-but-1790450136",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ab819d77f6d2a82438b4575"
+        },
+        {
+          "title": "Défi de Jerzual : victoire de l'expérience",
+          "summary": "Benoit Fanouillère et Maryline Allain ont démontré leur expérience en remportant le Défi de Jerzual.",
+          "url": "https://www.letelegramme.fr/sports/running/benoit-fanouillere-et-maryline-allain-font-parler-lexperience-pour-simposer-sur-le-defi-de-jerzual-7125875.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6ab8190957b0263d9c03d5e2/web_golden_xxl/6ab8190957b0263d9c03d5e2.1"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "IA : une compétence lucrative pour les salaires",
+          "summary": "Maîtriser l'intelligence artificielle peut augmenter votre salaire jusqu'à 25%, sous certaines conditions.",
+          "url": "https://www.capital.fr/votre-carriere/maitriser-lia-vaut-jusqua-25-de-salaire-en-plus-mais-a-une-condition-1530506",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~09~26~da4d972c-6bb5-4b68-80a5-35b200c06e57.jpeg/1200x900/quality/80/maitriser-l-ia-vaut-jusqu-a-25-de-salaire-en-plus-mais-a-une-condition.jpg"
+        },
+        {
+          "title": "Volets en copropriété facilités pour mieux isoler",
+          "summary": "Le gouvernement vise à simplifier l'installation de volets pour améliorer l'isolation thermique des logements.",
+          "url": "https://www.capital.fr/immobilier/votre-logement-devient-une-bouilloire-lete-meme-avec-un-bon-dpe-le-gouvernement-veut-enfin-faciliter-linstallation-de-volets-en-copropriete-1530507",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~09~26~1231b062-909c-4c72-8cd3-f30d6856d981.png/1200x900/focus-point/1330%2C510/votre-logement-devient-une-bouilloire-l-ete-meme-avec-un-bon-dpe-le-gouvernement-veut-enfin-faciliter-l-installation-de-volets-en-copropriete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Retraités : conditions d'exonération de taxe foncière",
+          "summary": "Des retraités peuvent bénéficier d'une exonération de taxe foncière sous plusieurs conditions spécifiques.",
+          "url": "https://actu.fr/economie/certains-retraites-peuvent-etre-exoneres-de-taxe-fonciere-mais-il-faut-respecter-plusieurs-conditions_64843470.html",
+          "image": "https://static.actu.fr/uploads/2026/09/adobestock-1004315597-1024x557.jpeg"
+        },
+        {
+          "title": "Nouvelle formation inédite animateur tourisme",
+          "summary": "Une formation innovante d'animateur loisir tourisme a été lancée à Miramont-de-Guyenne.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/miramont-de-guyenne/etudiant-une-formation-d-animateur-loisir-tourisme-inedite-dans-la-region-ouvre-a-la-mfr-de-miramont-de-guyenne-30779007.php",
+          "image": "https://media.sudouest.fr/30779007/1200x600/marmandeetmarmandais-ee27128b247a4020a7102df71caab585-124537-ph0.jpg"
+        },
+        {
+          "title": "Sites de défense victimes d'actes de malveillance",
+          "summary": "Les sites sensibles de la défense française, incluant Rafale et nucléaire, subissent des actes de malveillance.",
+          "url": "https://www.franceinfo.fr/economie/aeronautique/rafale/rafale-nucleaire-drones-les-sites-sensibles-de-la-defense-francaise-victimes-d-actes-de-malveillance_8211464.html",
+          "image": "https://www.franceinfo.fr/pictures/OYgfwDh-kVp9Y9ELqJnQYqvNtQ/0x16:1440x826/432x243/filters:format(jpg)/2026/09/26/6ab816cc49bb0179854113.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Interroger un tueur : l'art du silence",
+          "summary": "Un expert souligne l'importance du silence lors de l'interrogatoire des tueurs pour obtenir des informations.",
+          "url": "https://www.sudouest.fr/justice/quand-on-interroge-un-tueur-il-faut-aussi-savoir-se-taire-30769739.php",
+          "image": ""
+        },
+        {
+          "title": "Arcachon : une pinasse chavire près d'Arguin",
+          "summary": "Une pinasse s'est renversée au large d'Arcachon, provoquant une intervention des secours.",
+          "url": "https://www.sudouest.fr/gironde/arcachon/arcachon-une-pinasse-se-renverse-devant-le-banc-d-arguin-30797549.php",
+          "image": ""
+        },
+        {
+          "title": "Grave bagarre sur une aire d'autoroute",
+          "summary": "Un homme a été gravement blessé lors d'une bagarre sur l'aire des Palombières en Gironde.",
+          "url": "https://www.sudouest.fr/justice/un-homme-gravement-blesse-dans-une-bagarre-sur-l-aire-d-autoroute-des-palombieres-en-gironde-30796901.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Toyota déploie 400 000 robots, maintient l'humain",
+          "summary": "Toyota va intégrer 400 000 robots dans ses usines tout en préservant l'emploi humain.",
+          "url": "https://www.journaldugeek.com/2026/09/26/toyota-veut-installer-400-000-robots-dans-ses-usines-tout-en-gardant-des-humains/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/toyota-eley-1280x853.jpg"
+        },
+        {
+          "title": "Ceer Exobot : les électriques saoudiennes ambitieuses",
+          "summary": "Deux nouvelles voitures électriques, Ceer Exobot, promettent de révolutionner le marché automobile saoudien.",
+          "url": "https://www.journaldugeek.com/2026/09/26/ceer-exobot-deux-electriques-darabie-saoudite-qui-en-font-des-caisses/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/ceer-3-1280x853.jpg"
+        },
+        {
+          "title": "La radio défend sa place dans nos voitures",
+          "summary": "Malgré l'évolution technologique, la radio cherche à conserver sa présence dans les automobiles modernes.",
+          "url": "https://www.journaldugeek.com/2026/09/26/la-radio-ne-veut-pas-disparaitre-des-voitures/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/autoradio-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "La NBA pleure la légende Bob Pettit",
+          "summary": "Bob Pettit, figure emblématique de la NBA, s'est éteint, laissant un vide immense dans le monde du basketball.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/un-geant-du-jeu-bob-pettit-legende-de-de-la-nba-est-decede_AV-202609250093.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KTKHjci75XJeOXhM7zz-KD8w-Jg=/0x108:2048x1260/800x0/images/Le-logo-de-la-NBA-le-18-janvier-2026-2354176.jpg"
+        },
+        {
+          "title": "Samba-Mayela suspendue pour défaut de localisation",
+          "summary": "Cyréna Samba-Mayela, vice-championne olympique, a été suspendue pour un manquement à ses obligations de localisation.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-cyrena-samba-mayela-vice-championne-olympique-du-100m-haies-suspendue-pour-defaut-de-localisation_AN-202609250559.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DJdR-MYntvXKQrgmrQPGmALehe0=/0x40:2048x1192/800x0/images/Cyrena-Samba-Mayela-avant-les-demi-finales-du-100m-haies-JO-de-Paris-2024-9-aout-2024-1917954.jpg"
+        },
+        {
+          "title": "Alexis Hanquinquant, 9e titre mondial en para triathlon",
+          "summary": "Alexis Hanquinquant décroche son neuvième titre mondial en para triathlon, montrant une détermination sans faille.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/ne-pas-minimiser-les-victoires-un-9e-titre-mondial-et-toujours-de-l-appetit-pour-alexis-hanquinquant-en-para-triathlon_AN-202609250578.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/AiukyVfeVVdacY95frKskfxuQwg=/0x20:2048x1172/800x0/images/Alexis-Hanquinquant-en-juin-2026-2354581.jpg"
+        }
+      ]
+    }
+  ]
+}
