@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Venceslas",
+  "global_summary": "L'actualité mondiale nous confronte à des réalités contrastées : des tragédies comme l'accident en Allemagne côtoient des tensions géopolitiques persistantes en Arabie Saoudite. Au-delà des drames, des réflexions sociétales profondes émergent, notamment sur l'impact du numérique sur l'éducation financière des enfants et les enjeux de la santé connectée. La vigilance reste de mise face aux défis complexes de notre époque. Des accidents routiers tragiques rappellent aussi notre fragilité quotidienne.\n\nEn parallèle, la France est marquée par la diversité de sa vie locale, entre faits divers et dynamisme économique. Le monde de la technologie innove, des IA souveraines aux véhicules électriques sans fil. Enfin, le sport nous procure des émotions fortes, des hommages aux légendes disparues aux suspensions d'athlètes, sans oublier les exploits inspirants de nos champions français en para triathlon et en gymnastique qui brillent sur la scène internationale.",
+  "running_advice": "Prêt(e) à dynamiser votre journée ? Les températures sont très agréables aujourd'hui, oscillant entre 18.8°C et 27.3°C, parfaites pour une séance de course revigorante ! Malgré une légère probabilité de pluie (23%), cela ne devrait pas gâcher votre plaisir. Avec un indice UV de 4.8, une protection solaire est indispensable : crème, casquette et lunettes de soleil. Pour profiter au mieux de la fraîcheur et éviter le pic de chaleur, je vous conseille de courir tôt le matin après le lever du soleil (07:57) ou en fin d'après-midi, avant le coucher (19:49). C'est le moment de vous dépasser, la victoire est au bout de l'effort !",
+  "weather_string": "🌧️ Pluie (18.8°C / 27.3°C)",
+  "weather_stats": {
+    "temp": "27.3°C",
+    "rain": "23%",
+    "uv": "4.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Accident d'autocar en Allemagne",
+          "summary": "Une tragédie routière près de Munich fait au moins deux morts et de nombreux blessés.",
+          "url": "https://fr.euronews.com/2026/09/27/allemagne-au-moins-deux-morts-et-19-blesses-dans-laccident-dun-autocar-pres-de-munich",
+          "image": "https://images.euronews.com/articles/stories/09/92/95/61/1440x810_cmsv2_fecf7b9d-391a-5157-b5d1-2de94dbc805f-9929561.jpg"
+        },
+        {
+          "title": "Tensions militaires en Arabie Saoudite",
+          "summary": "L'Arabie Saoudite mobilise ses troupes face à la menace des houthistes, signe d'une escalade régionale.",
+          "url": "https://www.la-croix.com/international/en-arabie-saoudite-les-troupes-rappelees-a-leur-devoir-face-aux-houthistes-20260927",
+          "image": "https://i.la-croix.com/x/2026/09/27/2545937-des-soldats-saoudiens-lors-d-un-defile-militaire-a.jpg"
+        },
+        {
+          "title": "Enfants & Argent numérique",
+          "summary": "La dématérialisation de l'argent soulève des questions sur l'éducation financière des plus jeunes.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/09/27/argent-avec-la-disparition-du-liquide-les-enfants-peuvent-ils-comprendre-la-valeur-de-l-argent",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/B63984FD-2E55-43E0-BF00-372D44A74114/NW_listB/argent-avec-la-disparition-du-liquide-les-enfants-peuvent-ils-comprendre-la-valeur-de-l-argent-1790526530.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Violent différend à Montceau",
+          "summary": "Deux individus hospitalisés suite à une altercation violente à Montceau-les-Mines.",
+          "url": "https://www.lejsl.com/societe/2026/09/27/deux-personnes-hospitalisees-apres-un-violent-differend",
+          "image": "https://cdn-s-www.lejsl.com/images/1DAFDE4D-FB88-4C77-B3EB-CE64038E9A10/MF_contenu/deux-personnes-hospitalisees-apres-un-violent-differend-1790532624.jpg"
+        },
+        {
+          "title": "Rentrée mouvementée à Quimper",
+          "summary": "Quimper prépare la réouverture d'un pont, la rentrée judiciaire et des événements culturels.",
+          "url": "https://actu.fr/bretagne/quimper_29232/reouverture-du-pont-pissette-rentree-du-tribunal-et-cinema-lundi-28-septembre-a-quimper_64836630.html",
+          "image": "https://static.actu.fr/uploads/2026/09/eeb8ef9426ba6e2c8ef9426ba64c8ev-1024x557.jpg"
+        },
+        {
+          "title": "Accident de motard dans le Doubs",
+          "summary": "Un motard grièvement blessé et héliporté après une sortie de route dans un champ à Fuans.",
+          "url": "https://www.estrepublicain.fr/faits-divers-justice/2026/09/27/fuans-un-motard-heliporte-vers-besancon-apres-une-sortie-de-route-dans-un-champ",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/686EAE17-6087-497B-83BD-7DD8DCD207F1/NW_listB/accident-a-fuans-un-motard-heliporte-apres-une-sortie-de-route-dans-un-champ-1790532658.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Science",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "IA souveraine testée sur Rafale",
+          "summary": "Des intelligences artificielles françaises sont expérimentées en vol sur des avions de chasse Rafale.",
+          "url": "https://www.journaldugeek.com/2026/09/28/dassault-teste-deux-ia-souveraines-dans-le-rafale-en-plein-vol/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/rafale-1280x853.jpg"
+        },
+        {
+          "title": "Porsche Cayenne sans fil",
+          "summary": "Le nouveau Porsche Cayenne électrique propose une recharge par induction, une avancée majeure.",
+          "url": "https://www.journaldugeek.com/2026/09/28/le-porsche-cayenne-electric-se-recharge-desormais-sans-cable/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/porsche-cayenne-1-1280x853.jpg"
+        },
+        {
+          "title": "Santé et numérique en débat",
+          "summary": "Un forum explore la révolution positive de la santé numérique et ses enjeux actuels.",
+          "url": "https://www.sudouest.fr/lot-et-garonne/bon-encontre/la-sante-a-l-ere-du-numerique-une-revolution-positive-a-bon-encontre-le-forum-sante-allie-prevention-et-discussion-sur-les-sujets-d-actualite-30752528.php",
+          "image": "https://media.sudouest.fr/30752528/1200x600/agenagenaisetalbret-73d5d94454704d1b93fe632d1c7169d7-163847-ph0.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Street food innovante à Montceau",
+          "summary": "Sohaib Zenasni parie sur les dernières tendances de la street food, dynamisant l'économie locale.",
+          "url": "https://www.lejsl.com/economie/2026/09/27/sohaib-zenasni-mise-sur-les-nouvelles-tendances-de-la-street-food",
+          "image": "https://cdn-s-www.lejsl.com/images/6450A279-973D-44A5-9E41-A3BCAEC7A800/NW_listB/sohaib-zenasni-mise-sur-les-nouvelles-tendances-de-la-street-food-1790532613.jpg"
+        },
+        {
+          "title": "100 ans d'histoire familiale",
+          "summary": "L'agence Pasquet Menuiseries à Mérignac célèbre un siècle d'héritage et de savoir-faire.",
+          "url": "https://www.sudouest.fr/gironde/merignac/merignac-l-agence-pasquet-menuiseries-fete-100-ans-d-histoire-familiale-30746141.php",
+          "image": "https://media.sudouest.fr/30746141/1200x600/bordeauxrivegauche-62d68063ea414a5590cbe886d64b190d-093716-ph0.jpg"
+        },
+        {
+          "title": "Dîner caritatif de chefs",
+          "summary": "Trois chefs se mobilisent pour un dîner caritatif, soutenant un chantier d'insertion à Vayres.",
+          "url": "https://www.sudouest.fr/haute-vienne/vayres/l-aide-du-prive-est-vitale-a-vayres-trois-chefs-animeront-un-diner-caritatif-pour-soutenir-le-chantier-d-insertion-de-la-ferme-deux-bouts-30804682.php",
+          "image": "https://media.sudouest.fr/30804682/1200x600/img-4574.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Actualités Locales",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Teckel tué par molosses à Pau",
+          "summary": "Un couple impuissant assiste à la mort de son teckel, attaqué par quatre chiens molosses.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/ils-se-sont-precipites-sur-lui-on-n-a-rien-pu-faire-attaque-par-quatre-molosses-pres-du-bois-de-pau-leur-teckel-meurt-dans-leurs-bras-30802722.php",
+          "image": null
+        },
+        {
+          "title": "Narcotrafic & pollution",
+          "summary": "La production illégale de drogues de synthèse cause une grave pollution environnementale.",
+          "url": "https://www.sudouest.fr/faits-divers/narcotrafic/narcotrafic-la-production-clandestine-de-drogues-de-synthese-entraine-une-lourde-pollution-environnementale-30813696.php",
+          "image": null
+        },
+        {
+          "title": "Affaire de séquestration",
+          "summary": "La mère poursuivie pour violences, sa fille obtient un non-lieu dans l'affaire de séquestration.",
+          "url": "https://www.sudouest.fr/charente-maritime/bignay/info-sud-ouest-femme-sequestree-en-charente-maritime-la-mere-renvoyee-devant-le-tribunal-correctionnel-pour-violences-avec-arme-la-soeur-beneficie-d-un-non-lieu-30753798.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Décès de Bob Pettit, légende NBA",
+          "summary": "Le monde du basket pleure Bob Pettit, un géant de la NBA qui a marqué l'histoire du sport.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/un-geant-du-jeu-bob-pettit-legende-de-de-la-nba-est-decede_AV-202609250093.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/KTKHjci75XJeOXhM7zz-KD8w-Jg=/0x108:2048x1260/800x0/images/Le-logo-de-la-NBA-le-18-janvier-2026-2354176.jpg"
+        },
+        {
+          "title": "Samba-Mayela suspendue pour localisation",
+          "summary": "La vice-championne olympique Cyréna Samba-Mayela écope d'une suspension pour manquement aux règles anti-dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-cyrena-samba-mayela-vice-championne-olympique-du-100m-haies-suspendue-pour-defaut-de-localisation_AN-202609250559.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DJdR-MYntvXKQrgmrQPGmALehe0=/0x40:2048x1192/800x0/images/Cyrena-Samba-Mayela-avant-les-demi-finales-du-100m-haies-JO-de-Paris-2024-9-aout-2024-1917954.jpg"
+        },
+        {
+          "title": "Alexis Hanquinquant, 9e titre mondial",
+          "summary": "Le para-triathlète Alexis Hanquinquant décroche son 9e titre mondial, une performance inspirante.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/ne-pas-minimiser-les-victoires-un-9e-titre-mondial-et-toujours-de-l-appetit-pour-alexis-hanquinquant-en-para-triathlon_AN-202609250578.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/AiukyVfeVVdacY95frKskfxuQwg=/0x20:2048x1172/800x0/images/Alexis-Hanquinquant-en-juin-2026-2354581.jpg"
+        }
+      ]
+    }
+  ]
+}
