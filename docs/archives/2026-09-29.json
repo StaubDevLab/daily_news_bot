@@ -1,0 +1,154 @@
+{
+  "ephemeride": "Saint Michel",
+  "global_summary": "L'actualité de ce jour est marquée par des inquiétudes économiques grandissantes en France, où les chefs d'entreprise se montrent pessimistes et où l'échec du macronisme sur le logement est reconnu. Sur le front social, des blocus lycéens entraînent de nombreuses interpellations, signalant une tension palpable. À l'international, les qualifications de la CAN 2027 battent leur plein, tandis que la Zambie connaît une controverse avec l'arrestation d'un archevêque critique du pouvoir.\nLe secteur technologique n'est pas en reste avec des rappels massifs de véhicules par Volkswagen/Audi et des problèmes logiciels chez Boeing, soulignant des défis industriels. Côté sport, les grandes figures du basketball, LeBron James et Wembanyama, annoncent la couleur pour la saison NBA. L'athlétisme nous offre une histoire d'incroyable résilience avec Tigst Assefa, rappelant que même face à l'adversité, l'esprit humain peut triompher.",
+  "running_advice": "Alors, ami runner, aujourd'hui, le ciel nous offre un défi : de la pluie est annoncée avec 60% de probabilité et des températures clémentes à chaudes, allant de 19.5°C à près de 30°C. Ne laisse pas quelques gouttes te décourager ! L'heure idéale pour chausser tes baskets serait tôt le matin, juste après le lever du soleil à 07h58, pour profiter de la fraîcheur relative et potentiellement éviter les averses les plus fortes. Ou alors, en fin d'après-midi, vers 18h00, si la pluie s'est calmée. Mais attention, l'indice UV est de 4.85, ce qui est modéré à élevé : même par temps nuageux, n'oublie surtout pas ta crème solaire et une casquette ! Reste hydraté, adapte ta tenue et fais de cette séance pluvieuse une victoire personnelle. Allez, on y va !",
+  "weather_string": "🌧️ Pluie (19.5°C / 29.9°C)",
+  "weather_stats": {
+    "temp": "29.9°C",
+    "rain": "60%",
+    "uv": "4.85"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "RD Congo : Deuxième victoire aux Éliminatoires CAN 2027",
+          "summary": "La RDC enchaîne les succès, affirmant sa position dans la course à la qualification pour la Coupe d'Afrique des Nations 2027.",
+          "url": "https://www.france24.com/fr/sports/20260928-%C3%A9liminatoires-can-2027-r%C3%A9sum%C3%A9-zimbabwe-rd-congo",
+          "image": "https://s.france24.com/media/display/02ae6512-bb60-11f1-8ad1-555a0aff87a4/w:1024/p:16x9/000-B7FL2HB.jpg"
+        },
+        {
+          "title": "Zambie : Arrestation d'un archevêque critique du pouvoir",
+          "summary": "Un archevêque influent a été arrêté en Zambie, soulevant des questions sur la liberté d'expression face au pouvoir en place.",
+          "url": "https://www.la-croix.com/international/zambie-arrestation-d-un-archeveque-critique-du-pouvoir-20260928",
+          "image": "https://i.la-croix.com/x/2026/09/28/2547153-l-archeveque-de-lusaka-alick-banda-sest-fait-arret.jpg"
+        },
+        {
+          "title": "Thélyson Orélien, l'intrus littéraire de la rentrée française",
+          "summary": "Cet auteur sénégalais bouscule le paysage littéraire français, suscitant curiosité et débats dans les cercles critiques.",
+          "url": "https://www.courrierinternational.com/article/vu-du-senegal-thelyson-orelien-serait-l-intrus-a-abattre-de-la-rentree-litteraire-francaise_274680",
+          "image": "https://focus.courrierinternational.com/2026/09/24/0/0/7488/4994/644/0/60/0/cc60c2e_ftp-1-ep1d58fijy73-afp-c9ar2l4.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Conjoncture économique : Chefs d'entreprise pessimistes",
+          "summary": "Les dirigeants français anticipent un ralentissement, continuant de revoir leurs prévisions à la baisse face aux incertitudes économiques.",
+          "url": "http://www.lest-eclair.fr/id830609/article/2026-09-28/conjoncture-economique-les-chefs-dentreprise-continuent-de-voir-la-baisse",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/28/node_830609/15522162/public/2026/09/28/103775919.jpeg?itok=2_-EiSXW1790618932"
+        },
+        {
+          "title": "Blocus lycéens : Mouvement durci, plus de 160 interpellations",
+          "summary": "Les blocages s'intensifient dans 180 lycées français, avec des accusations de LFI d'attiser les tensions et une répression policière accrue.",
+          "url": "https://www.ladepeche.fr/2026/09/28/blocus-dans-les-lycees-plus-de-160-interpellations-180-etablissements-concernes-lfi-accuse-dattiser-les-tensions-vers-un-durcissement-du-mouvement-13573388.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6abaac467a442f71f60f895f/standard/image.jpg?v=4"
+        },
+        {
+          "title": "Attal : Échec du macronisme sur le logement reconnu",
+          "summary": "Gabriel Attal admet un \"gros plantage\" concernant la politique du logement, un aveu qui fragilise la majorité présidentielle.",
+          "url": "https://www.capital.fr/economie-politique/un-gros-plantage-gabriel-attal-reconnait-lechec-du-macronisme-sur-le-logement-et-se-met-une-balle-dans-le-pied-1530554",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~09~28~4bbe416d-aeeb-4471-91df-3963adbadd9b.png/1200x900/focus-point/656%2C200/un-gros-plantage-gabriel-attal-reconnait-l-echec-du-macronisme-sur-le-logement-et-se-met-une-balle-dans-le-pied.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Boeing : L'action chute après un défaut logiciel 737-Max",
+          "summary": "Un bug sur un logiciel des 737-Max fait plonger l'action de Boeing, réveillant les craintes sur la sécurité aérienne.",
+          "url": "https://www.lefigaro.fr/societes/boeing-l-action-chute-de-plus-de-5-apres-la-detection-d-un-defaut-sur-un-logiciel-utilise-par-des-737-max-20260928",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/09/28/fd4044fdb421a84502edf5b67857b701e05d69970de03adcc9774b1efc2f6974.jpg"
+        },
+        {
+          "title": "Cherchons-nous la vie ailleurs ? L'humanité est-elle prête ?",
+          "summary": "Les scientifiques s'interrogent sur notre capacité à gérer la découverte de vie extraterrestre, une question aux implications profondes.",
+          "url": "https://www.journaldugeek.com/2026/09/28/cherchons-vie-ailleurs-lunivers-mais-lhumanite-elle-reellement-decouverte-scientifiques-doutent/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/OVNI-2-1280x853.jpg"
+        },
+        {
+          "title": "Volkswagen et Audi rappellent 3 millions de véhicules",
+          "summary": "Un simple problème de vis force les constructeurs à un rappel massif, impactant la confiance des consommateurs.",
+          "url": "https://www.journaldugeek.com/2026/09/29/volkswagen-et-audi-rappellent-pres-de-3-millions-de-vehicules-a-cause-dune-simple-vis/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/11/volkswagen-voiture-electrique-chine-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Paris sportifs : Le Mondial a créé un million de parieurs",
+          "summary": "La Coupe du Monde 2026 a boosté les paris sportifs, transformant durablement les habitudes de jeu en ligne.",
+          "url": "https://footamateur.ouest-france.fr/paris-sportifs-en-2026-le-mondial-a-cree-un-million-de-nouveaux-parieurs-que-deviennent-ils/",
+          "image": "https://footamateur.ouest-france.fr/wp-content/uploads/2026/09/Parsi-sportifs-copie-1280x720.jpg"
+        },
+        {
+          "title": "Metz : L'effet \"waouh\" de la messe du pape Léon XIV",
+          "summary": "La visite pontificale à Metz a généré un enthousiasme considérable, avec un impact notable sur l'économie locale.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/09/28/visite-du-pape-leon-xiv-a-metz-l-effet-waouh-de-la-messe-du-saint-pere-a-la-cathedrale-saint-etienne",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/B21CD909-E607-451F-87FA-C18EDEE8D6D4/NW_listB/visite-du-pape-leon-xiv-a-metz-l-effet-waouh-de-la-messe-du-saint-pere-a-la-cathedrale-saint-etienne-1790618591.jpg"
+        },
+        {
+          "title": "TD Cowen : Les meilleures valeurs pétrolières identifiées",
+          "summary": "Avant la saison des résultats, TD Cowen a mis en lumière les entreprises pétrolières les plus prometteuses, guidant les investisseurs.",
+          "url": "https://fr.investing.com/news/stock-market-news/td-cowen-identifie-les-meilleures-valeurs-petrolieres-avant-la-saison-des-resultats-3612308",
+          "image": "https://content-media.investing.com/news/LYNXMPEB0508S_M.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Explosion Pyrénées-Orientales : Huit tués, fraude présumée",
+          "summary": "Trois hommes sont jugés à Perpignan suite à une explosion meurtrière, soupçonnés de fraude à l'assurance.",
+          "url": "https://www.sudouest.fr/justice/explosion-dans-les-pyrenees-orientales-huit-personnes-tuees-et-fraude-presumee-a-l-assurance-trois-hommes-sont-juges-a-perpignan-30830198.php"
+        },
+        {
+          "title": "Gironde : « Ce pape m’a secoué », la réaction locale",
+          "summary": "Jean-Marie Delbos partage son échange marquant avec le pape Léon XIV, offrant une perspective intime de l'événement.",
+          "url": "https://www.sudouest.fr/societe/religion/ce-pape-m-a-secoue-ce-qu-a-dit-jean-marie-delbos-a-leon-xiv-et-ce-que-le-pape-lui-a-repondu-30823954.php"
+        },
+        {
+          "title": "Viols en récidive : L'accusé se dit victime à la Cour d'assises",
+          "summary": "Un accusé, poursuivi pour viols en récidive, clame son innocence et dénonce un procès partial devant la Cour d'assises de Gironde.",
+          "url": "https://www.sudouest.fr/faits-divers/viols-en-recidive-et-enregistrements-clandestins-devant-la-cour-d-assises-de-la-gironde-l-accuse-se-pose-en-victime-d-un-proces-a-charge-30826516.php"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "LeBron James aux Sixers : \"Jamais rien sacrifié\"",
+          "summary": "LeBron James envoie un message puissant en lançant son aventure aux Sixers, soulignant l'engagement requis pour réussir.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-il-y-a-tellement-de-joueurs-qui-n-ont-jamais-rien-sacrifie-le-message-incisif-de-le-bron-james-pour-lancer-son-aventure-aux-sixers_AV-202609280747.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gUdPLY6M7-REzUhIkhE6lWfR6SQ=/0x38:2048x1190/800x0/images/LeBron-James-le-16-juillet-2026-2355813.jpg"
+        },
+        {
+          "title": "Wembanyama \"hanté\" par la défaite, annonce la couleur",
+          "summary": "Victor Wembanyama, motivé par un esprit de revanche après la défaite en Finales, promet une saison intense pour les Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/nba-il-y-a-un-esprit-de-revanche-hante-par-la-defaite-en-finales-wembanyama-annonce-la-couleur-pour-la-saison-des-spurs_AV-202609280730.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DnvSm-kEqAOtHl-5BW7CAUCCUg4=/48x140:1920x1193/800x0/images/Le-joueur-de-San-Antonio-Victor-Wembanyama-en-conference-de-presse-le-8-mai-2026-2283300.jpg"
+        },
+        {
+          "title": "Tigst Assefa remporte Berlin avec un tendon d'Achille rompu",
+          "summary": "Une prouesse incroyable : Tigst Assefa a gagné le marathon de Berlin malgré une grave blessure, défiant toute attente.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/elle-courait-sur-une-jambe-tigst-assefa-a-remporte-le-marathon-de-berlin-malgre-une-rupture-du-tendon-d-achille_AV-202609280623.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YPen3_AwmyFugs0W7DDiqiidxW4=/0x106:2048x1258/800x0/images/Tigst-Assefa-a-remporte-le-Marathon-de-Berlin-avec-une-rupture-totale-du-tendon-d-Achille-2355729.jpg"
+        }
+      ]
+    }
+  ]
+}
