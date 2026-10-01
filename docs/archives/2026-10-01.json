@@ -1,7 +1,7 @@
 {
   "ephemeride": "Sainte Thérèse de l'Enfant Jésus",
-  "global_summary": "L'actualité de ce jour est marquée par des enjeux géopolitiques complexes et des défis sociétaux. Le Burkina Faso interroge son avenir post-coup d'État, tandis que la Turquie voit la presse indépendante sous pression, soulignant l'importance de la liberté d'expression. En France, les débats budgétaires s'intensifient, et même une prison de luxe en Indonésie fait les gros titres, rappelant les contrastes du monde.\n\nParallèlement, le sport continue d'offrir des récits inspirants de dépassement, avec des athlètes qui repoussent les limites physiques et s'engagent pour des causes sociales. La technologie progresse, avec l'IA et les innovations connectées, tandis que la science nous alerte sur le dérèglement de l'océan Pacifique. Entre défis mondiaux et percées locales, cette journée nous rappelle l'étendue et la diversité des événements qui façonnent notre quotidien.",
-  "running_advice": "Salut la team ! Votre coach ici pour booster votre énergie ! Aujourd'hui, la météo nous offre une fenêtre agréable pour chausser vos baskets : avec des températures entre 15.3°C et 21.3°C, c'est idéal pour un run revigorant. Même si des averses sont possibles (50% de chance), ne vous laissez pas décourager ! Voyez ça comme une petite aventure rafraîchissante. Prévoyez une casquette et un coupe-vent léger, et n'oubliez pas : chaque goutte de pluie est une occasion de prouver votre détermination ! L'indice UV est bas (2.8), pas besoin de crème solaire intense. Je vous conseille de viser un créneau en fin de matinée ou milieu d'après-midi, **entre 10h00 et 16h00**, pour profiter de la meilleure douceur avant le coucher du soleil à 19h43. Allez, on se motive et on va chercher cette dose d'endorphines !",
+  "global_summary": "L'actualité de ce jour est marquée par des défis politiques et sociaux majeurs à travers le monde. Au Burkina Faso, la situation reste incertaine quatre ans après le coup d'État, tandis qu'en Turquie, la liberté de la presse est mise à rude épreuve avec la fermeture d'un média indépendant. En France, les enjeux économiques sont à l'ordre du jour avec des débats sur la gestion budgétaire, complétés par des initiatives locales fortes et des verdicts judiciaires marquants.\n\nDu côté de l'innovation, de nouvelles lunettes intelligentes promettent de simplifier notre quotidien, et le Journal du Geek alerte sur le dérèglement alarmant de l'océan Pacifique. Le sport, quant à lui, nous offre des récits d'exploits surhumains, des prises de position citoyennes fortes de la part d'athlètes de renom, et des observations pertinentes sur les réalités socio-économiques. C'est un tableau riche en contrastes qui nous invite à rester informés et engagés.",
+  "running_advice": "Chers sportifs, la météo de ce jour vous offre des conditions *presque* idéales pour chausser vos baskets ! Avec des températures douces, entre 15.3°C et 21.3°C, c'est parfait pour l'effort. Attention cependant aux averses prévues (50% de probabilité), un équipement adapté, comme un imperméable léger, sera votre meilleur allié. Pour profiter au maximum de la lumière du jour et de cette douce chaleur, visez une sortie entre 17h00 et 19h00, juste avant le coucher du soleil. L'indice UV est bas (2.8), mais une bonne hydratation reste primordiale. Ne laissez pas quelques gouttes vous arrêter, la sensation de courir sous une légère pluie est vivifiante et purifiante. Enfilez votre tenue, et allez chercher cette énergie ! Chaque pas compte pour votre bien-être !",
   "weather_string": "🌦️ Averses (15.3°C / 21.3°C)",
   "weather_stats": {
     "temp": "21.3°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Burkina Faso : L'incertitude après le coup d'État",
-          "summary": "Quatre ans après, le Burkina Faso navigue en eaux troubles, entre défis politiques et questionnements sur son avenir.",
+          "title": "Burkina Faso: 4 ans après le coup d'État",
+          "summary": "Le pays d'Afrique de l'Ouest fait face à l'incertitude politique et sécuritaire, quatre ans après le coup d'État d'Ibrahim Traoré.",
           "url": "https://www.france24.com/fr/vid%C3%A9o/20260930-o%C3%B9-va-le-burkina-faso-4-ans-apr%C3%A8s-le-coup-d-%C3%A9tat-d-ibrahim-traor%C3%A9",
           "image": "https://s.france24.com/media/display/e4a97e14-bcf7-11f1-b996-ddce071186a9/w:1024/p:16x9/Couv-BURKINA-4-ans-Coup-Etat.jpg"
         },
         {
-          "title": "Turquie : Médias indépendants en voie d'extinction",
-          "summary": "Un des derniers médias indépendants turcs contraint de cesser ses activités, un coup dur pour la liberté de la presse.",
+          "title": "Turquie : Médias indépendants sous pression",
+          "summary": "Un des derniers bastions de la presse libre en Turquie est contraint de fermer, marquant un recul démocratique.",
           "url": "https://www.lemonde.fr/international/article/2026/09/30/en-turquie-l-un-des-derniers-medias-independants-contraint-de-cesser-ses-activites_6786116_3210.html",
           "image": "https://img.lemde.fr/2026/09/30/500/0/6000/3000/1342/671/60/0/ebca1db_upload-1-0c2wpgb4f6ma-sipa-sipahub60135665-000007.jpg"
         },
         {
-          "title": "Chine : L'époustouflante randonnée la plus dangereuse",
-          "summary": "Découvrez en Chine le parcours de randonnée réputé le plus risqué du monde, une aventure pour les plus audacieux.",
+          "title": "Chine : L'ultime défi de la randonnée",
+          "summary": "Découvrez le sentier de Huashan, la randonnée la plus périlleuse de la planète, attirant les audacieux.",
           "url": "https://www.franceinfo.fr/monde/chine/en-chine-la-randonnee-la-plus-dangereuse-du-monde_8216821.html",
           "image": "https://www.franceinfo.fr/pictures/la8LP1L22MfwGbYnnPnz85Opz6M/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/09/30/6abd3d4fa53c3584904023.jpg"
         }
@@ -38,136 +38,112 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Budget : La France sous tension budgétaire",
-          "summary": "Gaëtan de Capèle alerte sur la situation économique française, entre dettes et contraintes budgétaires serrées.",
+          "title": "France : L'économie sous pression budgétaire",
+          "summary": "Un éditorial alerte sur la situation économique française, évoquant une gestion budgétaire restrictive.",
           "url": "https://www.lefigaro.fr/vox/economie/l-editorial-de-gaetan-de-capele-la-france-dans-la-seringue-budgetaire-20260930",
           "image": "https://i.f1g.fr/media/cms/1200x_cropupscale/2026/09/30/91fe6f07a90b72be6de62ef9caf9eadaffaf7fc5f6d524cd48791b620e964bc7.jpg"
         },
         {
-          "title": "Halloween : Murder Party au Musée Curie",
-          "summary": "Une soirée frissons vous attend pour Halloween 2026 avec une murder party immersive au cœur du Musée Curie.",
-          "url": "https://www.sortiraparis.com/actualites/halloween/articles/353126-halloween-2026-une-muder-party-au-musee-curie",
-          "image": "https://cdn.sortiraparis.com/images/800/98223/753811-c215-au-musee-curie-a-paris.jpg"
-        },
-        {
-          "title": "Indonésie : Une prison de luxe découverte",
-          "summary": "Un établissement pénitentiaire de luxe avec piscine et bar a été découvert en Indonésie, créant la polémique.",
-          "url": "https://www.bfmtv.com/international/video-indonesie-une-prison-de-luxe-a-ete-decouverte-avec-piscine-alcool-et-salle-de-sport_VN-202609300787.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UBcvDJxcX9AF2jKT179rJ3IAoNk=/0x0:1280x720/800x0/images/Indonesie-une-prison-de-luxe-a-ete-decouverte-avec-piscine-alcool-et-salle-de-sport-2357189.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Tech & Innovation",
-      "emoji": "💡",
-      "articles": [
-        {
-          "title": "IA : NetApp booste les usines d'intelligence artificielle",
-          "summary": "NetApp élimine les goulets d'étranglement de stockage pour optimiser les performances des infrastructures d'IA.",
-          "url": "http://www.businesswire.com/news/home/20260929292526/fr/",
-          "image": "https://mms.businesswire.com/media/20260929292526/fr/1077123/21/170054336_284221259833749_1952292366266641911_n.jpg"
-        },
-        {
-          "title": "Audi F1 : Premier test crucial à Sepang",
-          "summary": "L'écurie Audi F1 se prépare pour un premier test décisif de son nouveau package à Sepang.",
-          "url": "https://sports.auto-moto.com/f1/2023/grand-prix-de-bahrein/audi-f1-sepang-le-premier-veritable-test-du-nouveau-package-38052",
-          "image": "https://static.wui.fr/28/2026/09/photo_article/38052/392204/1200-L-audi-f1-sepang-le-premier-vritable-test-du-nouveau-package.jpg"
-        },
-        {
-          "title": "Lunettes Intelligentes : Enfin utiles en France",
-          "summary": "Ces nouvelles lunettes connectées débarquent en France, promettant des fonctionnalités enfin pertinentes pour le quotidien.",
-          "url": "https://www.journaldugeek.com/2026/10/01/ces-lunettes-intelligentes-debarquent-en-france-avec-une-fonctionnalite-qui-les-rend-enfin-utiles/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/09/rokid-lunettes--1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Économie",
-      "emoji": "📈",
-      "articles": [
-        {
-          "title": "TAP : Air France-KLM et Lufthansa en lice",
-          "summary": "Les offres finales sont déposées par Air France-KLM et Lufthansa pour la reprise de la compagnie TAP.",
-          "url": "https://fr.euronews.com/2026/09/30/tap-air-france-klm-et-lufthansa-remettent-leurs-offres-finales",
-          "image": "https://images.euronews.com/articles/stories/09/93/43/38/1440x810_cmsv2_72892417-0da4-5b13-9784-b31eb9d0ce4e-9934338.jpg"
-        },
-        {
-          "title": "Guingamp : Taxe de 50% sur les logements vacants",
-          "summary": "La ville de Guingamp vote une taxe dissuasive de 50% pour lutter contre les logements inoccupés de longue date.",
+          "title": "Guingamp taxe les logements vacants",
+          "summary": "La ville de Guingamp impose une taxe de 50% sur les logements vides pour dynamiser le marché immobilier.",
           "url": "https://www.letelegramme.fr/cotes-d-armor/guingamp-22200/la-ville-de-guingamp-vote-une-taxe-de-50-sur-les-logements-vacants-depuis-plus-de-deux-ans-7128589.php",
           "image": "https://media.letelegramme.fr/api/v1/images/view/6abd4f8ca28f96e14802837c/web_golden_xxl/6abd4f8ca28f96e14802837c.1"
         },
         {
-          "title": "Biopharma : BTIG réduit son objectif de cours",
-          "summary": "BTIG ajuste son objectif de cours pour Connect Biopharma suite à des retards dans les essais cliniques.",
-          "url": "https://fr.investing.com/news/analyst-ratings/btig-reduit-lobjectif-de-cours-de-connect-biopharma-sur-les-delais-dessai-93CH-3616197",
-          "image": "https://content-media.investing.com/news/moved_small-LYNXMPEM40318_1200_L.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Actualité Locale",
-      "emoji": "📍",
-      "articles": [
-        {
-          "title": "USA : Exécution manquée, la condamnée hospitalisée",
-          "summary": "Aux États-Unis, l'exécution d'une femme condamnée à mort a échoué, nécessitant son transfert à l'hôpital.",
-          "url": "https://www.sudouest.fr/faits-divers/l-execution-d-une-condamnee-a-mort-echoue-aux-etats-unis-la-femme-transportee-a-l-hopital-apres-l-injection-letale-30861774.php",
-          "image": null
-        },
-        {
-          "title": "Gironde : Procès pour viols et enregistrements secrets",
-          "summary": "Un procès glaçant révèle des viols en récidive et des enregistrements clandestins devant la cour criminelle de Gironde.",
-          "url": "https://www.sudouest.fr/faits-divers/viols-en-recidive-et-enregistrements-clandestins-devant-la-cour-criminelle-de-la-gironde-le-recit-glacant-de-celle-par-qui-l-affaire-a-eclate-30858313.php",
-          "image": null
-        },
-        {
-          "title": "Pyrénées-Atlantiques : Lourde peine pour cambrioleurs",
-          "summary": "De 10 à 17 ans de réclusion pour des cambrioleurs ayant violemment agressé un couple à Artix.",
+          "title": "Pyrénées-Atlantiques : Lourde peine",
+          "summary": "Des peines de 10 à 17 ans de réclusion pour des cambrioleurs ayant violenté un couple à Artix.",
           "url": "https://www.sudouest.fr/pyrenees-atlantiques/artix/pyrenees-atlantiques-10-a-17-ans-de-reclusion-criminelle-pour-l-equipe-de-cambrioleurs-qui-a-violente-un-couple-a-coups-de-couteau-et-de-matraque-a-artix-30855770.php",
           "image": null
         }
       ]
     },
     {
-      "label": "Science & Culture",
-      "emoji": "⚛️",
+      "label": "Tech",
+      "emoji": "💻",
       "articles": [
         {
-          "title": "Océan Pacifique : Le vieillissement inversé des eaux",
-          "summary": "Le réchauffement dérègle le Pacifique, ses eaux jeunes vieillissent et les vieilles rajeunissent, impactant l'écosystème.",
-          "url": "https://www.journaldugeek.com/2026/10/01/locean-pacifique-deregle-rechauffement-eaux-jeunes-vieillissent-eaux-vieilles-rajeunissent/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/09/Ocean-Pacifique-1280x853.jpg"
+          "title": "IA : NetApp optimise le stockage",
+          "summary": "NetApp propose des solutions pour fluidifier le stockage des données, accélérant le développement de l'IA.",
+          "url": "http://www.businesswire.com/news/home/20260929292526/fr/",
+          "image": "https://mms.businesswire.com/media/20260929292526/fr/1077123/21/170054336_284221259833749_1952292366266641911_n.jpg"
         },
         {
-          "title": "Carrie : Mike Flanagan vise trois saisons",
-          "summary": "Le réalisateur Mike Flanagan ambitionne de développer l'univers de Carrie sur trois saisons, une idée audacieuse.",
-          "url": "https://www.journaldugeek.com/2026/10/01/mike-flanagan-veut-trois-saisons-pour-sa-serie-carrie-et-cest-peut-etre-pas-une-si-mauvaise-idee/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/09/carrie-en-trois-saisons-1280x853.jpg"
+          "title": "Lunettes intelligentes enfin utiles",
+          "summary": "De nouvelles lunettes connectées arrivent en France, promettant des fonctionnalités réellement pratiques.",
+          "url": "https://www.journaldugeek.com/2026/10/01/ces-lunettes-intelligentes-debarquent-en-france-avec-une-fonctionnalite-qui-les-rend-enfin-utiles/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/rokid-lunettes--1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Sport & Performance",
-      "emoji": "🏆",
+      "label": "Business",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Marathon Berlin : Assefa victorieuse malgré la blessure",
-          "summary": "Tigst Assefa remporte le marathon de Berlin en dépit d'une rupture du tendon d'Achille, une prouesse incroyable.",
+          "title": "TAP : Air France-KLM et Lufthansa en lice",
+          "summary": "Air France-KLM et Lufthansa soumettent leurs offres finales pour l'acquisition de la compagnie aérienne TAP.",
+          "url": "https://fr.euronews.com/2026/09/30/tap-air-france-klm-et-lufthansa-remettent-leurs-offres-finales",
+          "image": "https://images.euronews.com/articles/stories/09/93/43/38/1440x810_cmsv2_72892417-0da4-5b13-9784-b31eb9d0ce4e-9934338.jpg"
+        },
+        {
+          "title": "Biopharma : Objectif de cours réduit",
+          "summary": "L'objectif de cours de Connect Biopharma est revu à la baisse suite à des retards d'essais cliniques.",
+          "url": "https://fr.investing.com/news/analyst-ratings/btig-reduit-lobjectif-de-cours-de-connect-biopharma-sur-les-delais-dessai-93CH-3616197",
+          "image": "https://content-media.investing.com/news/moved_small-LYNXMPEM40318_1200_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Gironde : Violences et récidive",
+          "summary": "Un récit glaçant d'une affaire de viols en récidive et d'enregistrements clandestins devant la cour criminelle.",
+          "url": "https://www.sudouest.fr/faits-divers/viols-en-recidive-et-enregistrements-clandestins-devant-la-cour-criminelle-de-la-gironde-le-recit-glacant-de-celle-par-qui-l-affaire-a-eclate-30858313.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Carrie : Mike Flanagan vise 3 saisons",
+          "summary": "Le réalisateur Mike Flanagan ambitionne d'adapter \"Carrie\" en série sur trois saisons, une idée prometteuse.",
+          "url": "https://www.journaldugeek.com/2026/10/01/mike-flanagan-veut-trois-saisons-pour-sa-serie-carrie-et-cest-peut-etre-pas-une-si-mauvaise-idee/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/carrie-en-trois-saisons-1280x853.jpg"
+        },
+        {
+          "title": "Océan Pacifique : Eaux déréglées",
+          "summary": "Le réchauffement climatique perturbe les eaux du Pacifique, provoquant un vieillissement et un rajeunissement inhabituels.",
+          "url": "https://www.journaldugeek.com/2026/10/01/locean-pacifique-deregle-rechauffement-eaux-jeunes-vieillissent-eaux-vieilles-rajeunissent/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/Ocean-Pacifique-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Assefa remporte Berlin, Achille rompu",
+          "summary": "Tigst Assefa gagne le marathon de Berlin malgré une rupture du tendon d'Achille, un exploit incroyable.",
           "url": "https://rmcsport.bfmtv.com/athletisme/elle-courait-sur-une-jambe-tigst-assefa-a-remporte-le-marathon-de-berlin-malgre-une-rupture-du-tendon-d-achille_AV-202609280623.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YPen3_AwmyFugs0W7DDiqiidxW4=/0x106:2048x1258/800x0/images/Tigst-Assefa-a-remporte-le-Marathon-de-Berlin-avec-une-rupture-totale-du-tendon-d-Achille-2355729.jpg"
         },
         {
-          "title": "Para Triathlon : Alexis Hanquinquant, 9e titre mondial",
-          "summary": "Alexis Hanquinquant décroche son neuvième titre mondial en para triathlon, démontrant une soif de victoire intacte.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/ne-pas-minimiser-les-victoires-un-9e-titre-mondial-et-toujours-de-l-appetit-pour-alexis-hanquinquant-en-para-triathlon_AN-202609250578.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/AiukyVfeVVdacY95frKskfxuQwg=/0x20:2048x1172/800x0/images/Alexis-Hanquinquant-en-juin-2026-2354581.jpg"
-        },
-        {
-          "title": "Thuram : Le sport alerte sur l'extrême droite",
-          "summary": "Lilian Thuram, aux côtés de Riner et Mbappé, lance un appel fort contre la violence de l'extrême droite.",
+          "title": "Thuram alerte sur l'extrême droite",
+          "summary": "Lilian Thuram s'exprime fermement, avec Riner et Mbappé, pour alerter sur la violence de l'extrême droite.",
           "url": "https://rmcsport.bfmtv.com/societe/riner-mbappe-et-moi-pouvons-vous-alerter-sur-la-violence-de-l-extreme-droite-la-prise-de-position-forte-de-lilian-thuram_AV-202609290542.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/MZWfZuJW6Om9ZPcPj8Bgqe0SSW4=/100x80:1828x1052/800x0/images/Lilian-Thuram-lors-de-Parme-Inter-Milan-le-5-avril-2025-2356324.jpg"
+        },
+        {
+          "title": "Wembanyama : Vie difficile aux USA",
+          "summary": "Victor Wembanyama témoigne des difficultés de la vie du citoyen moyen aux États-Unis, surprenant l'opinion.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-les-etats-unis-sont-un-pays-ou-la-vie-du-citoyen-moyen-est-difficile-temoigne-wembanyama_VN-202609290344.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/wrTSbxVtPAHEZSipN4H5hB8kq4Q=/0x0:1280x720/800x0/images/Les-Etats-Unis-sont-un-pays-ou-la-vie-du-citoyen-moyen-est-difficile-temoigne-Wembanyama-2356174.jpg"
         }
       ]
     }
