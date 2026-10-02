@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Léger",
+  "global_summary": "L'actualité de ce jour est marquée par une combinaison de tensions géopolitiques et de mouvements sociaux. À l'échelle mondiale, les conflits au Proche-Orient et en Ukraine continuent de défrayer la chronique, tandis qu'aux États-Unis, des affaires judiciaires soulignent des défis sociétaux profonds. En France, la colère sociale s'exprime vivement, avec des mobilisations lycéennes et étudiantes qui se propagent, sur fond de débats politiques nationaux.\nCôté économie, l'incertitude pèse sur les ménages, et des initiatives gouvernementales comme la \"taxe sucre\" sont à l'étude. Le monde de la tech, lui, innove avec de nouveaux gadgets et des rebondissements financiers spectaculaires. Enfin, le sport nous offre des récits d'exploits incroyables, des prises de position fortes d'athlètes et des perspectives sur les grands événements à venir.",
+  "running_advice": "Prépare-toi à une session exceptionnelle ! Aujourd'hui, la météo est ton alliée : des températures idéales (entre 14.2°C et 23.9°C) et un ciel peu nuageux t'attendent. La pluie, avec seulement 23% de probabilité, ne devrait pas te freiner. Pour profiter au maximum et éviter le soleil au zénith, je te conseille vivement de courir entre 10h00 et 16h00. Avec un indice UV de 4.7, la protection est cruciale : crème solaire et casquette sont tes meilleurs amis. Alors, enfile tes baskets, respire à fond et va chercher ton record ! Chaque foulée te rapproche de tes objectifs !",
+  "weather_string": "🌤️ Peu nuageux (14.2°C / 23.9°C)",
+  "weather_stats": {
+    "temp": "23.9°C",
+    "rain": "23%",
+    "uv": "4.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Gaza : Google révèle l'ampleur de la destruction",
+          "summary": "De nouvelles images satellite de Google Maps montrent l'étendue des dégâts à Gaza, révélant une réalité sombre.",
+          "url": "https://www.rfi.fr/fr/monde/20261001-que-disent-les-images-de-gaza-rendues-publiques-par-google",
+          "image": "https://s.rfi.fr/media/display/65373ee8-bdb8-11f1-842e-1ff0321dbbd3/w:1024/p:16x9/UNE-GZAZ-Capture.png"
+        },
+        {
+          "title": "Kiev frappée par des drones russes",
+          "summary": "Un pont à Kiev a été touché par des drones russes, marquant une nouvelle escalade des attaques en Ukraine.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261001-guerre-en-ukraine-un-pont-de-kiev-frapp%C3%A9-par-des-drones-russes",
+          "image": "https://s.france24.com/media/display/ab461486-bdbd-11f1-b910-1ff0321dbbd3/w:1024/p:16x9/capture-18890246966abe987e3ceb98-93548017.jpg"
+        },
+        {
+          "title": "États-Unis : Famille poursuit administration Trump",
+          "summary": "La famille de Renée Good engage des poursuites contre l'administration Trump après son décès par l'ICE à Minneapolis.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4250515-20261001-etats-unis-famille-renee-good-tuee-ice-minneapolis-engage-poursuites-contre-administration-trump",
+          "image": "https://img.20mn.fr/zSakc6iqT06oBimkb5Pm2yk/1200x768_des-affiches-representant-alex-pretti-et-renee-good-tous-deux-tues-par-balle-par-des-agents-de-l-ice-sont-collees-sur-un-mur-dans-le-quartier-de-union-market-a-washington-d-c-le-vendredi-6-fevrier-2026-photo-d-annabelle-gordon-sipa-etats-unis-67439218-2602062121"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Colère sociale : la jeunesse se mobilise",
+          "summary": "Une vague de colère lycéenne et étudiante déferle en France, dénonçant une profonde crise sociale.",
+          "url": "https://www.humanite.fr/en-debat/etudiants/la-revolte-lyceenne-et-etudiante-une-explosion-de-colere-sociale",
+          "image": "https://www.humanite.fr/wp-content/uploads/2024/02/Vignette_2024_editorial_rosa.png?w=1200"
+        },
+        {
+          "title": "Bardella dément et va porter plainte",
+          "summary": "Jordan Bardella rejette les accusations de Mediapart sur des messages antisémites et annonce une plainte.",
+          "url": "https://www.lefigaro.fr/politique/messages-antisemites-jordan-bardella-denonce-les-pseudo-preuves-de-mediapart-et-va-deposer-plainte-pour-faux-et-usage-de-faux-20261001",
+          "image": "https://i.f1g.fr/media/cms/1200x_cropupscale/2026/10/01/5ca387181c56b870795be5a422e179d3445c7f2f22ad89ff13e75f38f41e5eea.JPG"
+        },
+        {
+          "title": "Niort : le privé aussi rejoint la protestation",
+          "summary": "La mobilisation lycéenne s'étend aux établissements privés, comme à Niort, affirmant une colère unifiée.",
+          "url": "https://www.lanouvellerepublique.fr/niort/dans-le-prive-aussi-on-a-notre-mot-a-dire-a-niort-le-lycee-saint-andre-a-rejoint-la-mobilisation-1790878007",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6abea135d86b87bb748b45bf"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "UGREEN : recharge Qi2 25W et refroidissement liquide",
+          "summary": "UGREEN lance MagFlow Pro, une batterie magnétique 10 000 mAh avec charge Qi2 25W et refroidissement liquide.",
+          "url": "https://www.planet-sansfil.com/qi/ugreen-magflow-pro-qi2-25-w-et-refroidissement-liquide-arrivent-dans-une-batterie-magnetique-de-10-000-mah/",
+          "image": "https://www.planet-sansfil.com/wp-content/uploads/2026/10/UGREEN-MagFlow-Pro.webp"
+        },
+        {
+          "title": "Porsche échappe à une lourde facture",
+          "summary": "Dix-huit ans après, Porsche évite définitivement une amende de 5,4 milliards d'euros liée à son rachat de Volkswagen.",
+          "url": "https://www.automobile-magazine.fr/toute-l-actualite/article/53314-18-ans-apres-sa-folle-tentative-de-racheter-volkswagen-porsche-echappe-definitivement-a-une-facture-de-54-milliards-deuros",
+          "image": "https://static.ncr.re/img/1200x675/db/db0285f4579dcdda2e9ba662df2b1f15.jpg"
+        },
+        {
+          "title": "Cyberattaques iraniennes : Israël principale cible",
+          "summary": "Microsoft révèle que près de 40% des cyberattaques iraniennes ont visé Israël, soulignant une cyber-tension régionale.",
+          "url": "https://www.i24news.tv/fr/actu/technologie/artc-pres-de-40-des-cyberattaques-iraniennes-ont-vise-israel-revele-microsoft",
+          "image": "https://cdn.i24news.tv/uploads/c3/f4/6f/84/11/91/ea/e5/0e/09/b8/44/78/e3/a5/4a/c3f46f841191eae50e09b84478e3a54a.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Taxe sucre : les détails du projet gouvernemental",
+          "summary": "Le gouvernement dévoile les détails de son projet de \"taxe sucre\" visant bonbons, chocolats et céréales.",
+          "url": "https://www.lesechos.fr/industrie-services/conso-distribution/bonbons-chocolats-cereales-les-details-de-la-taxe-sucre-presentee-par-le-gouvernement-2254664",
+          "image": "https://media.lesechos.com/api/v1/images/view/6abe9523cef14a112f0accf4/1280x720/0210834290911-web-tete.jpg"
+        },
+        {
+          "title": "Finances des ménages : l'incertitude demeure",
+          "summary": "Une étude révèle que 34% des consommateurs mondiaux voient leur situation financière se détériorer, signalant l'incertitude.",
+          "url": "http://www.businesswire.com/news/home/20260930305689/fr/",
+          "image": "https://mms.businesswire.com/media/20260930305689/fr/2916760/21/NIQ_Consumer_Outlook_2027_-_Infographic.jpg"
+        },
+        {
+          "title": "Les Délices de Lavoûte ferment leurs portes",
+          "summary": "En Haute-Loire, les Délices de Lavoûte cessent leur activité, un coup dur pour l'économie locale.",
+          "url": "https://www.leprogres.fr/economie/2026/10/01/je-payais-mes-salaries-en-plusieurs-fois-les-delices-de-lavoute-c-est-fini",
+          "image": "https://cdn-s-www.leprogres.fr/images/5334ED8B-A67D-4F3E-924B-D2CF4A6E0134/NW_listB/je-payais-mes-salaries-en-plusieurs-fois-les-delices-de-lavoute-c-est-fini-1790877987.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "USA : Exécution ratée de Christa Pike",
+          "summary": "Christa Pike, condamnée à mort aux États-Unis, est dans un état critique après une exécution ratée au Tennessee.",
+          "url": "https://www.sudouest.fr/justice/prison/etats-unis-la-condamnee-christa-pike-dans-un-etat-critique-apres-son-execution-ratee-dans-le-tennessee-30877995.php",
+          "image": "https://www.sudouest.fr/assets/images/placeholder.svg"
+        },
+        {
+          "title": "Jacky Terrasson mis en examen pour agression",
+          "summary": "L'artiste Jacky Terrasson est mis en examen pour « agression sexuelle », une affaire judiciaire qui secoue la région.",
+          "url": "https://www.sudouest.fr/justice/l-artiste-jacky-terrasson-mis-en-examen-pour-agression-sexuelle-30872087.php",
+          "image": "https://www.sudouest.fr/assets/images/placeholder.svg"
+        },
+        {
+          "title": "La Rochelle : blocus lycéen, la jeunesse parle",
+          "summary": "À La Rochelle, les lycéens manifestent, dénonçant un traitement infantilisant et exprimant leur courage.",
+          "url": "https://www.sudouest.fr/charente-maritime/la-rochelle/blocus-des-lycees-a-la-rochelle-on-nous-traite-comme-une-generation-d-abrutis-alors-qu-on-est-juste-la-generation-qui-a-le-courage-de-dire-stop-30868351.php",
+          "image": "https://www.sudouest.fr/assets/images/placeholder.svg"
+        }
+      ]
+    },
+    {
+      "label": "Culture & Divertissement",
+      "emoji": "🎬",
+      "articles": [
+        {
+          "title": "PS5 : plus beaux graphismes pour Wolverine",
+          "summary": "Une nouvelle technologie Sony promet des graphismes améliorés pour Wolverine et Ghost of Yōtei sur PS5 standard.",
+          "url": "https://www.journaldugeek.com/2026/10/02/wolverine-et-ghost-of-yotei-plus-jolis-sur-la-ps5-standard-grace-a-une-nouvelle-technologie-sony/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/wolverine-1280x853.jpg"
+        },
+        {
+          "title": "L'Île au trésor de Ridley Scott arrive",
+          "summary": "Le film \"L'Île au trésor\" de Ridley Scott, avec Hugh Jackman, sortira bien plus tôt que prévu.",
+          "url": "https://www.journaldugeek.com/2026/10/02/lile-au-tresor-par-ridley-scott-et-avec-hugh-jackman-arrive-bien-plus-tot-que-prevu/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/ile-au-tresor-1280x853.jpg"
+        },
+        {
+          "title": "Test : Google Pixel 11, le smartphone chaud",
+          "summary": "Le test du Google Pixel 11 révèle un smartphone aux performances notables, \"le smartphone chaud de votre région\".",
+          "url": "https://www.journaldugeek.com/test/test-du-google-pixel-11-le-smartphone-chaud-de-votre-region/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/google-pixel-11-une-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Marathon de Berlin : Tigst Assefa, une victoire inimaginable",
+          "summary": "Tigst Assefa a remporté le marathon de Berlin malgré une rupture totale du tendon d'Achille, un exploit incroyable.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/elle-courait-sur-une-jambe-tigst-assefa-a-remporte-le-marathon-de-berlin-malgre-une-rupture-du-tendon-d-achille_AV-202609280623.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YPen3_AwmyFugs0W7DDiqiidxW4=/0x106:2048x1258/800x0/images/Tigst-Assefa-a-remporte-le-Marathon-de-Berlin-avec-une-rupture-totale-du-tendon-d-Achille-2355729.jpg"
+        },
+        {
+          "title": "Thuram alerte sur l'extrême droite",
+          "summary": "Lilian Thuram prend position avec force, alertant sur la violence de l'extrême droite, rejoint par Riner et Mbappé.",
+          "url": "https://rmcsport.bfmtv.com/societe/riner-mbappe-et-moi-pouvons-vous-alerter-sur-la-violence-de-l-extreme-droite-la-prise-de-position-forte-de-lilian-thuram_AV-202609290542.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/MZWfZuJW6Om9ZPcPj8Bgqe0SSW4=/100x80:1828x1052/800x0/images/Lilian-Thuram-lors-de-Parme-Inter-Milan-le-5-avril-2025-2356324.jpg"
+        },
+        {
+          "title": "Wembanyama : la vie américaine est difficile",
+          "summary": "Victor Wembanyama témoigne : les États-Unis sont \"un pays où la vie du citoyen moyen est difficile.\"",
+          "url": "https://rmcsport.bfmtv.com/basket/video-les-etats-unis-sont-un-pays-ou-la-vie-du-citoyen-moyen-est-difficile-temoigne-wembanyama_VN-202609290344.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/wrTSbxVtPAHEZSipN4H5hB8kq4Q=/0x0:1280x720/800x0/images/Les-Etats-Unis-sont-un-pays-ou-la-vie-du-citoyen-moyen-est-difficile-temoigne-Wembanyama-2356174.jpg"
+        }
+      ]
+    }
+  ]
+}
