@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint François d'Assise",
+  "global_summary": "L'actualité mondiale est marquée par des tensions grandissantes, allant des protestations citoyennes contre la surveillance par IA aux États-Unis à la crise du logement en Espagne, en passant par des attaques géopolitiques au Moyen-Orient. Ces événements soulignent une période de défis complexes et de remises en question sociétales à l'échelle planétaire. \n\nSur le front de l'innovation, l'IA continue de susciter débats et projets ambitieux, tandis que le sport nous offre des récits d'endurance exceptionnelle et des discussions sur l'intégration de la technologie. Enfin, l'économie sportive et les initiatives locales en France témoignent d'une vitalité et d'une diversité qui ancrent les grands enjeux dans le quotidien de chacun.",
+  "running_advice": "Coach ici ! Alors, la météo du jour est juste FANTASTIQUE pour chausser vos baskets ! Avec des températures allant de 18.1°C à 24.9°C et un ciel peu nuageux, c'est l'équilibre parfait pour une session revigorante. L'heure idéale ? Je vous conseille de viser la fin d'après-midi, entre 17h00 et 18h30. Le soleil sera encore là pour booster votre moral, mais la chaleur la plus intense de la journée commencera à s'apaiser, vous offrant un confort optimal. Attention, l'indice UV est à 3.75, ce n'est pas très élevé mais une protection légère reste de mise : n'oubliez pas votre crème solaire et une casquette ! Allez, on sort, on respire et on dévore ces kilomètres !",
+  "weather_string": "🌤️ Peu nuageux (18.1°C / 24.9°C)",
+  "weather_stats": {
+    "temp": "24.9°C",
+    "rain": "5%",
+    "uv": "3.75"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Révolte contre la vidéosurveillance IA aux USA",
+          "summary": "Des citoyens américains protestent contre l'usage croissant de caméras de surveillance intelligentes, soulevant des questions éthiques.",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/aux-etats-unis-la-revolte-contre-des-cameras-de-videosurveillance-utilisant-l-ia_8221564.html",
+          "image": "https://www.franceinfo.fr/pictures/ZRR0FVzgoHE3eJ8QBD_9rIjDEDI/0x55:1468x880/432x243/filters:format(jpg)/2026/10/03/6ac15d1f8ab54056592167.png"
+        },
+        {
+          "title": "Madrid manifeste contre la crise du logement",
+          "summary": "Des milliers d'Espagnols dénoncent la crise du logement, avec des menaces d'expulsion touchant de nombreuses familles.",
+          "url": "https://www.franceinfo.fr/monde/espagne/reportage-des-membres-de-ma-famille-vont-etre-expulses-a-madrid-des-milliers-de-personnes-manifestent-leur-colere-face-a-la-crise-du-logement-qui-touche-l-ensemble-du-pays_8221552.html",
+          "image": "https://www.franceinfo.fr/pictures/uxj07akmIiBIdR9JWuSCzhGy2TY/0x48:4000x2298/432x243/filters:format(jpg)/2026/10/03/6ac15be91a669654471143.jpg"
+        },
+        {
+          "title": "Attaque houthie sur un site pétrolier saoudien",
+          "summary": "Les Houthis revendiquent une nouvelle attaque contre une installation pétrolière d'Aramco, ravivant les tensions régionales.",
+          "url": "https://www.lesechos.fr/monde/enjeux-internationaux/les-houthis-revendiquent-une-attaque-contre-un-site-petrolier-daramco-en-arabie-saoudite-2254992",
+          "image": "https://media.lesechos.com/api/v1/images/view/6ac15d36b56340b4760df95a/1280x720/0210889090525-web-tete.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Agression d'un policier à Belfort: deux interpellations",
+          "summary": "Deux nouvelles personnes sont en garde à vue après le passage à tabac d'un policier à Belfort.",
+          "url": "https://www.sudouest.fr/faits-divers/passage-a-tabac-d-un-policier-a-belfort-deux-nouvelles-personnes-en-garde-a-vue-30909295.php",
+          "image": "https://via.placeholder.com/432x243?text=Image+manquante"
+        },
+        {
+          "title": "L'US Chauvigny s'offre sa première victoire",
+          "summary": "L'équipe de National 2 de Chauvigny a décroché sa première victoire de la saison après un match riche en émotions.",
+          "url": "https://www.lanouvellerepublique.fr/chauvigny/national-2-l-us-chauvigny-est-passee-par-toutes-les-emotions-pour-s-offrir-sa-premiere-victoire-face-a-laval-1791061619",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ac16e72516fe5d7228b45bf"
+        },
+        {
+          "title": "L'AS Niort l'emporte au mental",
+          "summary": "L'AS Niort a démontré une force mentale impressionnante pour s'imposer face à Marmande en Nationale 2.",
+          "url": "https://www.lanouvellerepublique.fr/niort/nationale-2-l-as-niort-l-emporte-au-mental-face-a-marmande-1791061478",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ac16de5e34510c0798b45b9"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Sophie Adenot: retour sur Terre reporté",
+          "summary": "Le retour de l'astronaute française Sophie Adenot depuis l'ISS est reporté à cause de conditions météorologiques défavorables.",
+          "url": "https://www.sudouest.fr/sciences-et-technologie/espace/sophie-adenot/espace-le-retour-sur-terre-de-l-astronaute-francaise-sophie-adenot-reporte-en-raison-de-la-meteo-30906400.php",
+          "image": "https://media.sudouest.fr/30906400/1200x600/general-20240423062016-lt2l65442-1600.jpg"
+        },
+        {
+          "title": "Mallow: l'enceinte IA qui réinvente les histoires",
+          "summary": "Une nouvelle enceinte intelligente, Mallow, promet de transformer l'expérience des histoires pour enfants grâce à l'IA.",
+          "url": "https://www.journaldugeek.com/2026/10/04/mallow-cette-enceinte-boostee-a-lia-veut-ringardiser-les-boites-a-histoires/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/mallow-2-1280x853.jpg"
+        },
+        {
+          "title": "Trump et Musk: un projet secret pour l'IA militaire",
+          "summary": "Donald Trump sollicite Elon Musk pour un projet top secret lié à l'IA et la guerre du futur, relançant les spéculations.",
+          "url": "https://www.journaldugeek.com/2026/10/04/donald-trump-fait-appel-a-elon-musk-pour-preparer-la-guerre-du-futur-avec-un-projet-top-secret/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Trump-X-Musk-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Marchés",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Le Forum de la Blanchisserie : un rendez-vous pro",
+          "summary": "Michel Hébrard présente le Forum de la Blanchisserie, un événement clé pour les professionnels de l'entretien du linge.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-michel-hebrard-le-forum-de-la-blanchisserie-le-forum-de-la-blanchisserie-pour-les-pros-du-linge-03-10_VN-202610030385.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/3bfuBdNPa9PqwVlAHXApPfGnCjo=/0x0:1280x720/800x0/images/Michel-Hebrard-Le-Forum-de-la-Blanchisserie-Le-Forum-de-la-Blanchisserie-pour-les-pros-du-linge-03-10-2358837.jpg"
+        },
+        {
+          "title": "NBA: Las Vegas aura sa franchise, Lorient impliqué",
+          "summary": "Trois candidatures, dont celle du propriétaire du FC Lorient, sont retenues pour une future franchise NBA à Las Vegas.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-trois-candidatures-retenues-pour-la-future-franchise-a-las-vegas-dont-le-proprietaire-du-fc-lorient_AV-202609300549.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/qdP09F9YwhqnhIvvxXbR5XjEEic=/0x106:2048x1258/800x0/images/Adam-Silver-le-patron-de-la-NBA-lors-d-une-conference-de-presse-en-2025-2356990.jpg"
+        },
+        {
+          "title": "Budget du sport: baisses et points de vigilance",
+          "summary": "Le CNOSF annonce une baisse 'contenue' du budget du sport, mais alerte sur des points de vigilance importants.",
+          "url": "https://rmcsport.bfmtv.com/societe/budget-du-sport-le-cnosf-annonce-une-baisse-contenue-mais-des-points-de-vigilance-importants_AV-202610020856.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/0ml4bTSUuyqPXb8OCyHdJwvblNY=/0x106:2048x1258/800x0/images/CNOSF-2074510.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport & Performance",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama s'essaie au rugby",
+          "summary": "Des images insolites de Victor Wembanyama s'entraînant avec Provence Rugby créent le buzz.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/je-n-ai-jamais-plaque-de-ma-vie-les-images-insolites-de-l-entrainement-de-wembanyama-avec-provence-rugby_AV-202610040158.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/K8YpSLKTt4X8dD9vJkGNoGtUPj0=/3x37:739x451/800x0/images/Victor-Wembanyama-s-essaie-a-la-touche-avec-Provence-Rugby-2358922.jpg"
+        },
+        {
+          "title": "Marathon: Assefa gagne avec un tendon rompu",
+          "summary": "Tigst Assefa a remporté le marathon de Berlin malgré une rupture du tendon d'Achille, une performance surhumaine.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/elle-courait-sur-une-jambe-tigst-assefa-a-remporte-le-marathon-de-berlin-malgre-une-rupture-du-tendon-d-achille_AV-202609280623.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YPen3_AwmyFugs0W7DDiqiidxW4=/0x106:2048x1258/800x0/images/Tigst-Assefa-a-remporte-le-Marathon-de-Berlin-avec-une-rupture-totale-du-tendon-d-Achille-2355729.jpg"
+        },
+        {
+          "title": "Taekwondo Virtuel: tradition contre techno aux JO",
+          "summary": "Aux Jeux Asiatiques, l'introduction du taekwondo virtuel suscite un vif débat entre tradition et modernité technologique.",
+          "url": "https://rmcsport.bfmtv.com/societe/video-jeux-asiatiques-entre-tradition-et-techno-le-taekwondo-virtuel-fait-debat_VN-202610030269.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/AbT-ZdgcE35wfBwbuCgEOiVSmF4=/0x0:1280x720/800x0/images/Jeux-Asiatiques-Entre-tradition-et-techno-le-TAEKWONDO-VIRTUEL-fait-debat-2358754.jpg"
+        }
+      ]
+    }
+  ]
+}
