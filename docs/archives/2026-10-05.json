@@ -1,0 +1,127 @@
+{
+  "ephemeride": "Sainte Fleur",
+  "global_summary": "L'actualité de ce jour est marquée par un mélange tendu de géopolitique et de défis sociétaux. Des tensions persistent en Éthiopie avec des patrouilles militaires à Mekele, tandis qu'une alerte sanitaire en Russie soulève des craintes d'épidémie, montrant que les enjeux de santé publique restent primordiaux. En France, les mouvements lycéens continuent de faire les gros titres, soulevant des questions de justice et de dialogue national, tandis que le débat sur la taxation de l'héritage anime la sphère économique.\n\nMais au-delà de ces complexités, l'esprit humain brille par sa résilience et son innovation. Le monde du sport nous offre des récits d'exploits incroyables, du cyclisme à l'athlétisme, témoignant d'une détermination sans faille. La technologie, elle, réserve des surprises et des divertissements, entre découvertes fortuites et retours cinématographiques légendaires, rappelant que chaque jour apporte son lot d'opportunités et d'inspirations.",
+  "running_advice": "Préparez-vous, champion(ne) ! C'est une journée fantastique pour enfiler vos baskets et booster votre énergie. Avec des températures allant de 18.3°C à 26.7°C et un ciel \"peu nuageux\", les conditions sont idéales pour une séance revigorante. Je vous conseille de privilégier la fin d'après-midi, juste avant le coucher du soleil à 19h35. La chaleur sera plus douce et l'ambiance parfaite pour vous dépasser.\n\nAttention cependant, avec un indice UV de 4.4, une protection solaire est recommandée. N'oubliez pas votre crème solaire, un chapeau si nécessaire, et surtout, hydratez-vous généreusement avant, pendant et après l'effort. Chaque pas compte, faites de cette journée une victoire personnelle !",
+  "weather_string": "🌤️ Peu nuageux (18.3°C / 26.7°C)",
+  "weather_stats": {
+    "temp": "26.7°C",
+    "rain": "0%",
+    "uv": "4.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Éthiopie : tensions autour de Mekele",
+          "summary": "L'armée éthiopienne patrouille à Mekele, provoquant l'inquiétude régionale alors que ses rivaux se réunissent en Égypte.",
+          "url": "https://www.france24.com/fr/afrique/20261004-l-arm%C3%A9e-%C3%A9thiopienne-patrouille-dans-mekele-ses-rivaux-inquiets-se-r%C3%A9unissent-en-%C3%A9gypte",
+          "image": "https://s.france24.com/media/display/265702e8-c025-11f1-af87-dd51fcab6130/w:1024/p:16x9/000-D2782PU.jpg"
+        },
+        {
+          "title": "Russie : crainte d'une épidémie de peste",
+          "summary": "La mort d'une scientifique en Russie déclenche une quarantaine, soulevant des inquiétudes face à un risque de peste.",
+          "url": "https://www.parismatch.com/Actu/Sante/un-tchernobyl-de-la-peste-pourquoi-la-mort-accidentelle-dune-scientifique-provoque-une-quarantaine-en-russie-276875",
+          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/10/04/21/afp_20200225_1pb438_v6_highres_topshotitalyvenicecarnival.jpg?VersionId=KBNBoJpCHVXWB4pye3f1hiAXPumNYNHW"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Lycées : plaintes après des incidents",
+          "summary": "La famille d'un lycéen blessé à Tours porte plainte, ravivant le débat sur les violences en marge des blocus.",
+          "url": "https://www.rtl.fr/actu/justice-faits-divers/blocus-des-lycees-la-famille-de-l-adolescent-qui-perdu-un-oeil-en-marge-des-incidents-survenus-a-tours-annonce-porter-plainte-7900680654",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1870735-des-crs-lors-d-une-manifestation-de-lyceens-illustration.jpg"
+        },
+        {
+          "title": "Mouvement lycéen : l'appel au dialogue",
+          "summary": "Un édito appelle à renouer le dialogue face au mouvement lycéen, soulignant l'importance de l'écoute.",
+          "url": "https://www.vosgesmatin.fr/education/2026/10/04/l-edito-mouvement-lyceen-renouer-le-dialogue-blik",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/9F011B4F-808D-4D64-ABF8-A3B810AAAC1F/NW_listB/l-edito-mouvement-lyceen-renouer-le-dialogue-1790863797.jpg"
+        },
+        {
+          "title": "Forfait Navigo : remboursement intégral",
+          "summary": "Bonne nouvelle pour les usagers : le forfait Navigo annuel est désormais intégralement remboursé pour de nombreux profils.",
+          "url": "https://www.journaldugeek.com/2026/10/05/le-forfait-navigo-annuel-est-integralement-rembourse-pour-tous-ces-usagers/",
+          "image": "https://www.journaldugeek.com/app/uploads/2023/12/pass-navigo-1500x844.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "SSD surprise : 800 Go de valeur",
+          "summary": "Un acheteur découvre 800 Go de logiciels professionnels sur un SSD censé être vide, une affaire inattendue.",
+          "url": "https://www.lesnumeriques.com/informatique/il-achete-un-ssd-de-1-to-cense-etre-vide-en-le-branchant-il-decouvre-800-go-de-logiciels-professionnels-dont-la-valeur-depasse-largement-celle-du-disque-n262727.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/26/262727/01172263-il-achete-un-ssd-de-1-to-cense-etre-vide-en-le-branchant-il-decouvre-800-go-de-logiciels-professionnels-dont-la-valeur-depasse-largement-celle-du-disque__800_800__946-0-4213-3267.jpg"
+        },
+        {
+          "title": "Avengers Endgame, toujours au sommet",
+          "summary": "Le blockbuster \"Avengers Endgame\" réécrit encore l'histoire du cinéma avec une nouvelle ressortie mondiale en salles.",
+          "url": "https://www.journaldugeek.com/2026/10/05/avengers-endgame-avatar-box-office/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/avengers-endgame-box-office-1280x853.jpg"
+        },
+        {
+          "title": "Pokémon 30 ans : les cartes rares",
+          "summary": "La deuxième vague des 30 ans de Pokémon est lancée, révélant les cartes les plus recherchées par les collectionneurs.",
+          "url": "https://www.journaldugeek.com/2026/10/05/pokemon-30-ans-la-deuxieme-vague-sort-aujourdhui-voici-les-cartes-les-plus-cheres/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/pokemon-30-ans-1-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Héritage : faut-il taxer davantage ?",
+          "summary": "Le débat sur la taxation de l'héritage resurgit, une méthode de transmission au cœur des discussions économiques actuelles.",
+          "url": "https://www.franceinfo.fr/economie/c-est-vraiment-une-methode-de-transmission-qui-est-tres-interessante-faut-il-davantage-taxer-l-heritage_8222566.html",
+          "image": "https://www.franceinfo.fr/pictures/iJb-eKMND_pWuKTchItxrwK2PRI/0x104:1532x965/432x243/filters:format(jpg)/2026/10/04/6ac2a4157d07b739867386.png"
+        },
+        {
+          "title": "AkzoNobel vend en Asie du Sud-Est",
+          "summary": "AkzoNobel serait sur le point de céder son activité de peintures en Asie du Sud-Est à Nippon Paint.",
+          "url": "https://fr.investing.com/news/stock-market-news/akzonobel-proche-de-vendre-son-activite-de-peintures-en-asie-du-sudest-a-nippon-paint-3620181",
+          "image": "https://content-media.investing.com/news/LYNXMPEB1Q06W_M.jpg"
+        },
+        {
+          "title": "Budget fédéral : négociations ajournées",
+          "summary": "Les discussions sur le budget fédéral sont reportées, sans accord conclu, avant une nouvelle rencontre mercredi matin.",
+          "url": "https://www.rtbf.be/article/budget-federal-les-negociations-are-ajournees-sans-accord-prochain-rendez-vous-mercredi-matin-11794709",
+          "image": "https://static-content.rtbf.be/article/image/770x433/3/b/d/b95ac353262a931094d2aa8a426e0ef3.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Evenepoel, champion d'Europe cycliste",
+          "summary": "Remco Evenepoel décroche le titre de champion d'Europe en Slovénie, s'imposant au sprint à la photo-finish.",
+          "url": "https://www.france24.com/fr/sports/20261004-le-cycliste-remco-evenepoel-sacr%C3%A9-champion-d-europe-en-slov%C3%A9nie-%C3%A0-la-photo-finish",
+          "image": "https://s.france24.com/media/display/388c2900-c022-11f1-9fb0-578a4b968fd6/w:1024/p:16x9/000-D27V4RT.jpg"
+        },
+        {
+          "title": "Assefa : un marathon malgré la blessure",
+          "summary": "Tigst Assefa a remporté le marathon de Berlin avec une rupture du tendon d'Achille, un exploit d'endurance inouï.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/elle-courait-sur-une-jambe-tigst-assefa-a-remporte-le-marathon-de-berlin-malgre-une-rupture-du-tendon-d-achille_AV-202609280623.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YPen3_AwmyFugs0W7DDiqiidxW4=/0x106:2048x1258/800x0/images/Tigst-Assefa-a-remporte-le-Marathon-de-Berlin-avec-une-rupture-totale-du-tendon-d-Achille-2355729.jpg"
+        },
+        {
+          "title": "Wembanyama s'essaie au rugby",
+          "summary": "Victor Wembanyama surprend en s'entraînant avec Provence Rugby, des images insolites qui font le buzz.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/je-n-ai-jamais-plaque-de-ma-vie-les-images-insolites-de-l-entrainement-de-wembanyama-avec-provence-rugby_AV-202610040158.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/K8YpSLKTt4X8dD9vJkGNoGtUPj0=/3x37:739x451/800x0/images/Victor-Wembanyama-s-essaie-a-la-touche-avec-Provence-Rugby-2358922.jpg"
+        }
+      ]
+    }
+  ]
+}
