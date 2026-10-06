@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Bruno",
+  "global_summary": "Les projecteurs mondiaux sont tournés vers des enjeux géopolitiques majeurs, avec l'analyse de la stratégie russe en Ukraine et les défis électoraux au Brésil. L'intelligence artificielle continue sa montée en puissance, aux États-Unis comme dans la définition de standards éthiques. \nEn France, les mouvements sociaux lycéens et l'éclat de la Paris Fashion Week animent le débat national. L'économie africaine affiche une belle croissance, tandis que les nouveautés tech bousculent l'aviation et l'automobile. Côté sport, Victor Wembanyama brille déjà, des athlètes repoussent les limites de l'endurance et les Jeux Olympiques se préparent, offrant un mélange de défis et d'inspirations.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour transpirer et te dépasser ! Avec des températures clémentes (entre 17.8°C et 27.1°C) et un ciel peu nuageux, les conditions sont globalement favorables pour une course vivifiante. Attention toutefois au risque de pluie de 58% : pense à vérifier les prévisions locales juste avant de sortir, et prévois un équipement adapté si nécessaire. L'indice UV à 4.4 signifie que le soleil peut être trompeur même derrière quelques nuages ; protège ta peau avec une crème solaire et n'hésite pas à porter une casquette et des lunettes de soleil. Pour profiter pleinement, l'idéal serait de viser le début de matinée, juste après le lever du soleil vers 08h06, pour bénéficier de la fraîcheur. Sinon, la fin d'après-midi, autour de 18h00, avant le coucher du soleil à 19h34, sera également propice, quand la chaleur redescend et que l'intensité UV diminue. Alors, lace tes baskets et va chercher cette énergie qui t'attend !",
+  "weather_string": "🌤️ Peu nuageux (17.8°C / 27.1°C)",
+  "weather_stats": {
+    "temp": "27.1°C",
+    "rain": "58%",
+    "uv": "4.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Poutine : Offensive Hivernale en Ukraine ?",
+          "summary": "Pierre Haski analyse la stratégie russe et l'intensification potentielle du conflit cet hiver.",
+          "url": "https://www.nouvelobs.com/monde/20261005.OBS118924/poutine-va-t-il-tout-jouer-cet-hiver-dans-sa-guerre-contre-l-ukraine-pierre-haski-repond.html",
+          "image": "https://focus.nouvelobs.com/2026/10/04/0/57/570/380/1200/800/0/0/65ebe20_upload-1-b4ltqcyywj1l-capture-d-e-cran-2026-10-04-a-18-21-22.png"
+        },
+        {
+          "title": "Jay Clayton, le nouveau Tsar de l'IA aux USA",
+          "summary": "Découvrez le profil de Jay Clayton, figure clé de la régulation et du développement de l'intelligence artificielle aux États-Unis.",
+          "url": "https://www.lopinion.fr/international/qui-est-jay-clayton-le-nouveau-tsar-de-lia-aux-etats-unis",
+          "image": "https://beymedias.brightspotcdn.com/06/68/5c23122b47c5b34b29f3f78a88b7/sipa-sipausa31682385-000002.jpg"
+        },
+        {
+          "title": "Brésil : Lula Face à un Défi Électoral Crucial",
+          "summary": "Analyse des chances de Lula de remporter les élections, dans un contexte politique brésilien tendu.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261005-br%C3%A9sil-lula-peut-il-encore-gagner",
+          "image": "https://s.france24.com/media/display/629cda5a-bfe6-11f1-b662-13420ab900a2/w:1024/p:16x9/000-C9LQ3ZQ.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Lycéens : Le Mouvement Social S'étend-il ?",
+          "summary": "Analyse de la potentielle expansion du mouvement lycéen à d'autres secteurs sociaux en France.",
+          "url": "http://www.lardennais.fr/id832101/article/2026-10-05/lactualite-vue-par-chaunu-les-lyceens-bientot-rejoints-par-dautres-secteurs-pour",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/10/05/node_832101/15527127/public/2026/10/05/106087034.jpeg?itok=_45bIaok1791228134"
+        },
+        {
+          "title": "Chanel : L'Éclat du Printemps-Été 2027",
+          "summary": "La Fashion Week de Paris dévoile la nouvelle collection Chanel, mariant luxe et innovation pour 2027.",
+          "url": "https://www.sortiraparis.com/loisirs/shopping-mode/articles/267506-paris-fashion-week-chanel-tisse-son-printemps-ete-2027-les-images-et-la-video-du-defile",
+          "image": "https://cdn.sortiraparis.com/images/800/112779/1247095-une-exposition-mode-gratuite-de-centaines-de-pieces-chanel-dans-une-sublime-maison-de-ventes-a-paris.jpg"
+        },
+        {
+          "title": "Jimmy Gressier Précise sa Position",
+          "summary": "L'athlète Jimmy Gressier met au point après ses déclarations sur le mouvement de colère des lycéens.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/la-mise-au-point-de-jimmy-gressier-apres-avoir-partage-son-incomprehension-sur-le-mouvement-de-colere-des-lyceens_AV-202610030328.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/63lC7VDORhzsikFn-mG1DOCIMLg=/0x143:2048x1295/800x0/images/Jimmy-Gressier-en-juin-2026-2350876.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Simulateur VR Cessna : Réalité Virtuelle en Vol",
+          "summary": "Le simulateur de vol Cessna Skyhawk Veris en VR débute au salon NBAA-BACE de Las Vegas.",
+          "url": "http://www.businesswire.com/news/home/20261005417921/fr/",
+          "image": "https://mms.businesswire.com/media/20261005417921/fr/2920347/21/TRU_Simulation_Cessna_Skyhawk_Veris_VR_FTD.jpg"
+        },
+        {
+          "title": "FuzeBox AI Co-auteur sur Vérification Contenus IA",
+          "summary": "FuzeBox AI rejoint un comité clé pour standardiser la vérification de l'utilisation des contenus générés par l'IA.",
+          "url": "http://www.businesswire.com/news/home/20260924487355/fr/",
+          "image": "https://mms.businesswire.com/media/20260924487355/fr/2910976/21/logo-high-res-01.jpg"
+        },
+        {
+          "title": "L'Audi A6 Allroad Fait son Grand Retour",
+          "summary": "La très attendue Audi A6 Allroad signe son grand retour, promettant innovation et performance.",
+          "url": "https://www.20minutes.fr/auto/4251538-20261005-audi-a6-allroad-retour",
+          "image": "https://img.20mn.fr/4r4Vi4WhS2mmQ5VUcGAcwik/1200x768_l-audi-allroad-fait-son-grand-retour-avec-un-diesel"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Cemac : Le Cameroun Tire la Croissance Économique",
+          "summary": "Le Cameroun contribue majoritairement à la hausse de 5,9 % de l'activité économique de la Cemac.",
+          "url": "https://www.investiraucameroun.com/gestion-publique/0510-23917-cemac-le-cameroun-apporte-3-8-points-aux-5-9-de-hausse-de-l-activite-au-2e-trimestre-2026",
+          "image": "https://www.investiraucameroun.com/media/k2/items/cache/998b2e97994423bf8d8b31c933640a1c_XL.jpg"
+        },
+        {
+          "title": "EuroDreams : Les Résultats du 5 Octobre 2026",
+          "summary": "Découvrez les numéros gagnants du tirage EuroDreams de ce lundi 5 octobre 2026.",
+          "url": "https://www.bfmtv.com/loto/resultats-euro-dreams-le-tirage-du-lundi-5-octobre-2026_AN-202610050870.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/3IV20cR-7yLLxq_VvzMzXgYRR4Q=/4x6:868x492/800x0/images/EuroDreams-la-nouveau-jeu-qui-permet-de-gagner-20-000-euros-par-mois-pendant-30-ans-1731027.jpg"
+        },
+        {
+          "title": "Le Débrief Tech du 5 Octobre",
+          "summary": "Un tour d'horizon des actualités et tendances marquantes du secteur de la tech.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/tech-and-co/video-le-debrief-de-la-tech-lundi-5-octobre_VN-202610050877.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lKPlwYkm8jyWjoYtT9p1Mf6AhcU=/0x0:1280x720/800x0/images/Le-Debrief-de-la-tech-lundi-5-octobre-2359798.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama Brille Déjà en Match d'Entraînement",
+          "summary": "Victor Wembanyama impressionne par ses performances lors des matchs d'entraînement de la NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-est-deja-chaud-en-match-d-entrainement_AV-202610050381.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/aXfqYRZHx_JAhsxzWfo6GPZxhK4=/0x83:2048x1235/800x0/images/Victor-Wembanyama-avant-un-match-des-Spurs-en-NBA-en-mars-2026-2333270.jpg"
+        },
+        {
+          "title": "Marathon de Berlin : Victoire sur un Tendon Rompu",
+          "summary": "Tigst Assefa remporte le marathon de Berlin, une prouesse incroyable malgré un tendon d'Achille rompu.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/elle-courait-sur-une-jambe-tigst-assefa-a-remporte-le-marathon-de-berlin-malgre-une-rupture-du-tendon-d-achille_AV-202609280623.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YPen3_AwmyFugs0W7DDiqiidxW4=/0x106:2048x1258/800x0/images/Tigst-Assefa-a-remporte-le-Marathon-de-Berlin-avec-une-rupture-totale-du-tendon-d-Achille-2355729.jpg"
+        },
+        {
+          "title": "JO Los Angeles 2028 : Relais de Flamme Inédit",
+          "summary": "Les Jeux de Los Angeles 2028 annoncent une première historique pour le relais de la flamme olympique.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-de-los-angeles-2028-une-grande-premiere-pour-le-relais-de-la-flamme_AV-202609300069.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/bAGNc9OoS9RdVo4nj2CJldngAr0=/0x141:2048x1293/800x0/images/Los-Angeles-2028-photo-prise-le-14-septembre-2017-2356634.jpg"
+        }
+      ]
+    }
+  ]
+}
