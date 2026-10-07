@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Saint Serge",
+  "global_summary": "L'actualité du jour est marquée par une effervescence politique et sociale. En France, le mouvement lycéen continue de faire parler, allant jusqu'à susciter une ingérence inattendue de Donald Trump. Pendant ce temps, l'Inde est confrontée à une crise de légitimation de sa démocratie, tandis que le Québec navigue un paradoxe souverainiste.\nSur le front de l'entreprise et de la technologie, Google est sous le feu des critiques pour des raisons environnementales en Finlande, et une fusion colossale redessine le paysage du divertissement avec Paramount et Warner Bros. Le monde du sport nous offre des récits contrastés, entre l'exploit de Tigst Assefa et la sombre affaire du bizutage à l'Insep, rappelant que chaque jour est un défi, tant individuel que collectif.",
+  "running_advice": "Aujourd'hui, l'appel de la course est un défi rafraîchissant ! Avec des températures douces entre 17.5°C et 21.5°C, l'air sera vivifiant. Attendez-vous à des averses et préparez-vous avec une tenue imperméable, car la probabilité de pluie est de 80%. L'indice UV bas (2.8) signifie que le soleil ne sera pas votre adversaire. Le meilleur créneau pour chausser vos baskets ? Visez une sortie entre 10h00 et 12h00 pour profiter d'une météo potentiellement plus stable avant les grosses averses, ou tentez un run post-travail vers 17h00-18h00. N'oubliez pas, chaque goutte de pluie est une raison de plus de sentir la puissance de votre corps ! Allez, on se dépasse !",
+  "weather_string": "🌦️ Averses (17.5°C / 21.5°C)",
+  "weather_stats": {
+    "temp": "21.5°C",
+    "rain": "80%",
+    "uv": "2.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Trump s'immisce dans la colère lycéenne",
+          "summary": "Donald Trump commente les lycées français, mais ses propos sont totalement erronés.",
+          "url": "https://www.huffingtonpost.fr/international/article/donald-trump-s-immisce-dans-la-colere-lyceenne-francaise-en-ayant-tout-faux_335909.html",
+          "image": "https://focus.huffingtonpost.fr/2026/10/06/568/0/6048/3402/0/0/60/0/0c61ee6_upload-1-ggirfj5g1rjd-afp-20261006-d2bt376-v1-highres-uspoliticstrump.jpg"
+        },
+        {
+          "title": "Crise de légitimité démocratique en Inde",
+          "summary": "Des allégations de fraudes électorales sèment le doute sur la démocratie indienne.",
+          "url": "https://www.courrierinternational.com/article/politique-en-inde-des-tripatouillages-electoraux-suscitent-une-crise-de-legitimation-de-la-democratie_276425",
+          "image": "https://focus.courrierinternational.com/2026/10/06/0/0/6300/4200/644/0/60/0/3cc349a_ftp-1-cnetcuzj0fye-afp-d2cm8gn.jpg"
+        },
+        {
+          "title": "Google accusé de déforestation en Finlande",
+          "summary": "Google doit stopper la construction de data centers après avoir rasé 300 hectares de forêt.",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/06/finlande-google-accuse-d-avoir-fait-raser-300-hectares-de-foret-somme-de-suspendre-la-construction-de-data-centers_6789090_3244.html",
+          "image": "https://img.lemde.fr/2026/10/04/375/0/4500/2250/1342/671/60/0/4619f88_ftp-1-o4wmogtva5yd-5259208-01-06.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Décrue de la colère lycéenne en France",
+          "summary": "Le rectorat de Besançon constate une baisse des perturbations dans les lycées.",
+          "url": "https://www.estrepublicain.fr/education/2026/10/06/40-des-lycees-perturbes-le-rectorat-confirme-la-decrue-dans-l-academie-de-besancon",
+          "image": "https://cdn-s-www.estrepublicain.fr/images/76ABCE9B-D9D8-4D98-8903-8CD72D0FEF7B/NW_listB/40-des-lycees-perturbes-le-rectorat-confirme-la-decrue-dans-l-academie-de-besancon-1791310119.jpg"
+        },
+        {
+          "title": "Révélations sur le décès de Loana",
+          "summary": "Six mois après, le parquet dévoile les causes médicales de la mort de la célèbre candidate de téléréalité.",
+          "url": "https://www.20minutes.fr/societe/4251962-20261006-six-mois-apres-mort-loana-parquet-revele-causes-medicales-deces",
+          "image": "https://img.20mn.fr/c3QKBJ3vSYe_7C1NtmWiwCk/1200x768_funerailles-de-loana-petrucciani-a-la-cathedrale-sainte-marie-sainte-reparate-nice-france-10-04-2026-syspeo-image2-credit-syspeo-sipa-2604101203"
+        },
+        {
+          "title": "Budget : Disposition critiquée révisée",
+          "summary": "Une mesure controversée du budget sera modifiée, promet le ministre délégué Roland Lescure.",
+          "url": "https://www.lefigaro.fr/flash-eco/entreprises-une-disposition-critiquee-du-budget-va-etre-toilettee-annonce-lescure-20261006",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/06/f5e4a2c2121e7024edf9ac6ddefdc7d12201da488714c7428524cb4511be7029.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "L'IA de NVIDIA s'étend en Asie",
+          "summary": "AM Intelligence déploie l'usine d'IA NVIDIA Vera Rubin en Inde et en Malaisie.",
+          "url": "http://www.businesswire.com/news/home/20261005411554/fr/",
+          "image": "https://mms.businesswire.com/media/20261005411554/fr/2923120/21/AM_Intelligence-_Logo.jpg"
+        },
+        {
+          "title": "Fibre optique remplace le cuivre en Touraine",
+          "summary": "Déploiement de la fibre et fin du réseau cuivre sont en discussion pour 2029 en Touraine.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/ambillou/touraine-ouest-val-de-loire-deploiement-de-la-fibre-et-disparition-du-reseau-cuivre-en-2029-en-discussion-1791309866",
+          "image": "https://www.lanouvellerepublique.fr/theme/nrco/images/meta/placeholder_nr.png"
+        },
+        {
+          "title": "iPhone 15 : une offre à prix cassé",
+          "summary": "Face aux prix des nouveaux iPhones, une astuce permet d'acquérir un iPhone 15 à moins de 380€.",
+          "url": "https://www.lefigaro.fr/bons-plans/high-tech/le-tarif-des-derniers-iphone-explose-mais-ce-site-bien-connu-a-trouve-la-solution-avec-un-iphone-15-a-moins-de-380-20261006",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/02/9a09341e326aff35386152ae76f53f75d766e82c168299726f2e046c7e93eac1.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Paramount et Warner Bros. fusionnent !",
+          "summary": "Les géants du divertissement Paramount et Warner Bros. officialisent leur union.",
+          "url": "https://www.journaldugeek.com/2026/10/07/skydance-paramount-et-warner-bros-ne-font-officiellement-plus-quun/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/03/warner-bros-remuneration-PDG-fusion-1280x853.jpg"
+        },
+        {
+          "title": "Vooruit défie les sociétés de management",
+          "summary": "Le parti Vooruit attaque les sociétés de management, armé de nouveaux chiffres.",
+          "url": "https://www.lecho.be/economie-politique/belgique/federal/vooruit-se-lance-a-l-assaut-des-societes-de-management-avec-ses-nouveaux-chiffres/10694555.html",
+          "image": "https://images.lecho.be/view?iid=Elvis:AaWKhmsaayFB5jBVeoCQhM&context=ONLINE&ratio=16/9&width=640&u=1791309935000"
+        },
+        {
+          "title": "Succès du premier vide-dressing au Noyer",
+          "summary": "Le Troquet du Noyer a inauguré avec succès son tout premier salon vide-dressing.",
+          "url": "https://www.ledauphine.com/economie/2026/10/06/le-troquet-a-organise-son-premier-salon-vide-dressing",
+          "image": "https://cdn-s-www.ledauphine.com/images/E5C05065-2BCA-49A7-AD0A-8DF36265F653/NW_listB/le-troquet-a-organise-son-premier-salon-vide-dressing-1791309770.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🌆",
+      "articles": [
+        {
+          "title": "Alcool et violences intrafamiliales à Bergerac",
+          "summary": "Le tribunal de Bergerac met en lumière l'omniprésence de l'alcool dans les affaires de violences intrafamiliales.",
+          "url": "https://www.sudouest.fr/faits-divers/sans-l-alcool-l-audience-serait-a-moitie-vide-les-violences-intrafamiliales-ciblees-par-le-tribunal-de-bergerac-30948200.php",
+          "image": ""
+        },
+        {
+          "title": "Entretien annuel contre violences enfants",
+          "summary": "L'entretien annuel obligatoire à l'école pour prévenir les violences faites aux enfants revient en 2032.",
+          "url": "https://www.sudouest.fr/politique/education/violences-faites-aux-enfants-les-deputes-retablissent-l-entretien-annuel-obligatoire-a-l-ecole-mais-seulement-a-partir-de-2032-30955703.php",
+          "image": ""
+        },
+        {
+          "title": "Gendarmes de Saujon : alerte aux escroqueries",
+          "summary": "Les gendarmes de Saujon alertent et conseillent la population face à une recrudescence d'escroqueries.",
+          "url": "https://www.sudouest.fr/charente-maritime/saujon/charente-maritime-face-a-la-multiplication-des-escroqueries-les-gendarmes-de-saujon-sensibilisent-et-donnent-des-cles-pour-se-pramunir-30941407.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Modern Warfare : mode multijoueur inédit",
+          "summary": "Un nouveau mode multijoueur révolutionnaire promet de changer les cartes en permanence dans Modern Warfare.",
+          "url": "https://www.journaldugeek.com/dossier/on-na-jamais-fait-ca-dans-modern-warfare-le-nouveau-mode-multijoueur-change-les-cartes-en-permanence/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/call-of-duty-modern-warfare-4-annonce-2-1280x853.jpg"
+        },
+        {
+          "title": "Critique : Carrie version Mike Flanagan",
+          "summary": "Le retour de Carrie par Mike Flanagan soulève des questions, y compris pour les critiques.",
+          "url": "https://www.journaldugeek.com/critique/critique-carrie-mike-flanagan-se-demandait-pourquoi-nous- aussi/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/CINEMASERIES-2-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama brille à l'entraînement NBA",
+          "summary": "Victor Wembanyama impressionne déjà par ses performances lors des matchs d'entraînement NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-est-deja-chaud-en-match-d-entrainement_AV-202610050381.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/aXfqYRZHx_JAhsxzWfo6GPZxhK4=/0x83:2048x1235/800x0/images/Victor-Wembanyama-avant-un-match-des-Spurs-en-NBA-en-mars-2026-2333270.jpg"
+        },
+        {
+          "title": "Bizutage à l'Insep : Pôle France forfait",
+          "summary": "Suite à un violent bizutage, le Pôle France de basket est exclu de la saison de Nationale 1.",
+          "url": "https://rmcsport.bfmtv.com/basket/basket-apres-le-violent-bizutage-a-l-insep-le-pole-france-forfait-general-pour-toute-la-saison-en-nationale-1_AV-202610060537.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gB3V-soNSSkG4RoITNAdLbFqH0I=/0x38:768x470/800x0/images/L-Institut-national-du-sport-de-l-expertise-et-de-la-performance-INSEP-le-18-mai-2020-jour-de-sa-reouverture-apres-le-confinement-du-printemps-2020-994945.jpg"
+        },
+        {
+          "title": "Assefa remporte le marathon malgré sa blessure",
+          "summary": "Incroyable exploit : Tigst Assefa a gagné le marathon de Berlin avec un tendon d'Achille rompu.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/elle-courait-sur-une-jambe-tigst-assefa-a-remporte-le-marathon-de-berlin-malgre-une-rupture-du-tendon-d-achille_AV-202609280623.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/YPen3_AwmyFugs0W7DDiqiidxW4=/0x106:2048x1258/800x0/images/Tigst-Assefa-a-remporte-le-Marathon-de-Berlin-avec-une-rupture-totale-du-tendon-d-Achille-2355729.jpg"
+        }
+      ]
+    }
+  ]
+}
