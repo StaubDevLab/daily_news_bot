@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Sainte Pélagie",
+  "global_summary": "L'actualité du jour est marquée par des enjeux nationaux cruciaux en France : le gouvernement fait face aux mouvements lycéens et tente de rassurer sur les prix des carburants. Des décisions importantes sur la santé publique sont également en discussion, comme l'interdiction des boissons énergisantes pour les mineurs, tandis que des faits divers locaux rappellent l'importance de la vigilance sur les territoires.\n\nSur la scène internationale, les discussions pour l'après 7-Octobre se poursuivent avec des appels au dialogue, et les candidatures pour les JO 2036 animent le monde sportif. En économie, la Fed temporise sur les hausses de taux. Côté tech et innovation, de nouvelles expériences immersives et avancées scientifiques prometteuses sont à l'honneur, contrastant avec les défis financiers et éthiques rencontrés dans le sport, avec la faillite de l'AS Monaco basket et des scandales touchant l'athlétisme.",
+  "running_advice": "Préparez-vous à transpirer ! Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous dépasser. Avec des températures agréables entre 11.1°C et 16.9°C et un ciel peu nuageux, les conditions sont parfaites. Le risque de pluie est modéré (38%), donc n'hésitez pas à braver un éventuel léger crachin pour une sensation vivifiante. Attention, l'indice UV est à 4.3 : n'oubliez pas votre crème solaire et une casquette pour vous protéger! L'heure idéale pour votre séance serait en fin d'après-midi, entre 17h00 et 18h30, afin de profiter d'une lumière douce et d'éviter les rayons les plus intenses. Motivation à bloc, on y va !",
+  "weather_string": "🌤️ Peu nuageux (11.1°C / 16.9°C)",
+  "weather_stats": {
+    "temp": "16.9°C",
+    "rain": "38%",
+    "uv": "4.3"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Espagne : l'icône de la crise du logement est décédée",
+          "summary": "Maricarmen, l'octogénaire expulsée, est devenue un symbole tragique de la crise du logement en Espagne.",
+          "url": "https://www.lalsace.fr/social/2026/10/07/maricarmen-l-octogenaire-devenue-symbole-de-la-crise-du-logement-est-morte",
+          "image": "https://cdn-s-www.lalsace.fr/images/0ECB2669-A284-4363-B849-7F98FFE1AE72/NW_listB/maricarmen-l-octogenaire-expulsee-devenue-symbole-de-la-crise-du-logement-est-morte-1791399748.jpg"
+        },
+        {
+          "title": "7-Octobre : sortir des clichés, appelle un politiste",
+          "summary": "Le politiste franco-israélien Denis Charbit invite à dépasser les préjugés pour l'après 7-Octobre.",
+          "url": "https://www.franceinfo.fr/monde/israel/pour-depasser-le-7-octobre-il-faut-sortir-selon-le-politiste-franco-israelien-denis-charbit-sorti-du-ils-sont-des-antisemites-ils-sont-tous-du-hamas_8227063.html",
+          "image": "https://www.franceinfo.fr/pictures/CQgEvsLfB3OhACrnpobT0ak1prk/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/07/6ac65bec23366842831922.png"
+        },
+        {
+          "title": "JO 2036 : L'Inde et le Qatar parmi les candidats",
+          "summary": "Sept pays, dont l'Inde et le Qatar, sont candidats à l'organisation des Jeux Olympiques de 2036.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/ou-auront-lieu-les-jo-2036-sept-pays-candidats-a-l-organisation-dont-l-inde-et-le-qatar_AV-202610060658.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/s8nX2pAQnqnSijlwRsGxNlQB4JQ=/0x106:2048x1258/800x0/images/Le-logo-des-Jeux-olympiques-JO-image-d-illustration-2114475.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Lecornu : annonces sur lycées, carburants, électricité...",
+          "summary": "Sébastien Lecornu fait des annonces sur des sujets clés : lycées, carburants, électricité et agriculture.",
+          "url": "https://www.vosgesmatin.fr/politique/2026/10/07/lycees-carburants-electricite-agriculture-les-annonces-de-sebastien-lecornu-vous-ont-elles-rassure",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/EA06E451-9DB6-4EE9-9CFD-B9701FBC50FE/NW_listB/lycees-carburants-electricite-agriculture-les-annonces-de-sebastien-lecornu-vous-ont-elles-rassure-1791401154.jpg"
+        },
+        {
+          "title": "Mouvement lycéen : plus d'interpellations que les Gilets Jaunes ?",
+          "summary": "Le mouvement lycéen actuel suscite des interrogations sur le nombre d'interpellations comparé aux Gilets Jaunes.",
+          "url": "https://www.bfmtv.com/societe/video-mouvement-lyceen-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes_VN-202610070872.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/bbZT9M8m2wKujXtLXy3v9rjfoFg=/0x0:1280x720/800x0/images/Mouvement-lyceen-y-a-t-il-plus-d-interpellations-qu-au-plus-fort-des-gilets-jaunes-2361210.jpg"
+        },
+        {
+          "title": "Ardèche : 5 ans après le meurtre de Roberto",
+          "summary": "Cinq ans après le meurtre de Roberto à Soyons, la mémoire de cet acte barbare reste vive.",
+          "url": "https://www.ledauphine.com/faits-divers-justice/2026/10/07/cinq-ans-apres-le-meurtre-de-roberto-a-soyons-cet-acte-barbare-ne-sera-pas-oublie",
+          "image": "https://cdn-s-www.ledauphine.com/images/E352A3C5-5903-4C55-A91D-62B996FC8361/NW_listB/cinq-ans-apres-le-meurtre-de-roberto-a-soyons-cet-acte-barbare-ne-sera-pas-oublie-1791401712.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Microsoft Surface : prix ultra pour la RTX Spark",
+          "summary": "Les premiers modèles de Surface équipés de la nouvelle RTX Spark de NVIDIA sont annoncés à prix élevé.",
+          "url": "https://next.ink/260522/microsoft-prix-ultra-pour-les-premiers-surface-avec-la-rtx-spark-de-nvidia/",
+          "image": "https://next.ink/wp-content/uploads/2026/10/surface-spark.jpg"
+        },
+        {
+          "title": "Paris : un nouvel espace immersif avec séisme et Big Bang",
+          "summary": "Science Experience inaugure à Paris un espace immersif proposant des expériences allant du séisme au Big Bang.",
+          "url": "https://www.journaldugeek.com/2026/10/08/science-experience-inaugure-un-nouvel-espace-immersif-a-paris-avec-seisme-et-big-bang/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/science-immersive-1280x853.jpg"
+        },
+        {
+          "title": "Henri Kagan, Prix Nobel de chimie français",
+          "summary": "Retour sur la découverte majeure qui a valu au Français Henri Kagan le prestigieux Prix Nobel de chimie.",
+          "url": "https://www.journaldugeek.com/2026/10/08/quelle-decouverte-a-permis-au-francais-henri-kagan-de-remporter-le-prix-nobel-de-chimie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/nobel-prix-chimie-france-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Fed : pas de hausses rapides des taux",
+          "summary": "Les minutes de la Fed indiquent que les responsables ne prévoient pas une série rapide de hausses des taux d'intérêt.",
+          "url": "https://fr.qz.com/procs-verbal-de-septembre-du-fomc-de-la-fed--hausses-de-taux-inflation",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2295621872.jpg"
+        },
+        {
+          "title": "Prix du gazole : Lecornu promet une baisse",
+          "summary": "Sébastien Lecornu promet une baisse du prix du gazole de 12 à 18 centimes à la pompe.",
+          "url": "http://www.nordlittoral.fr/300396/article/2026-10-07/prix-du-gazole-lecornu-promet-une-baisse-de-12-18-centimes-la-pompe",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/10/07/node_300396/3794508/public/2026/10/07/106477711.jpeg?itok=CTY4n2MH1791399948"
+        },
+        {
+          "title": "Travaux Grenoble-Gap : pas de train jusqu'au 6 novembre",
+          "summary": "La ligne Grenoble-Gap est interrompue pour travaux jusqu'au 6 novembre, impactant les déplacements régionaux.",
+          "url": "https://www.ledauphine.com/economie/2026/10/07/travaux-sur-la-ligne-grenoble-gap-pas-de-train-jusqu-au-6-novembre-zece",
+          "image": "https://cdn-s-www.ledauphine.com/images/6BCFDA1D-11F4-40CD-999F-FFAD223AACF2/NW_listB/travaux-sur-la-ligne-grenoble-gap-pas-de-train-jusqu-au-6-novembre-1791401023.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "⚓",
+      "articles": [
+        {
+          "title": "Mineurs en garde à vue pour apologie du terrorisme",
+          "summary": "Des mineurs ont été interpellés pour apologie du terrorisme après des références à Merah et Abdeslam.",
+          "url": "https://www.sudouest.fr/justice/terrorisme/des-faits-qui-ne-peuvent-etre-banalises-des-mineurs-font-reference-a-merah-et-abdeslam-ils-sont-places-en-garde-a-vue-pour-apologie-du-terrorisme-30970843.php",
+          "image": null
+        },
+        {
+          "title": "Plants de cannabis à profusion découverts à Saint-Palais-sur-Mer",
+          "summary": "Un quadragénaire a été arrêté à Saint-Palais-sur-Mer pour une plantation de cannabis découverte dans son jardin.",
+          "url": "https://www.sudouest.fr/charente-maritime/saint-palais-sur-mer/a-saint-palais-sur-mer-les-policiers-suivent-un-quadragenaire-et-decouvrent-des-plants-de-cannabis-a-profusion-dans-son-jardin-30967871.php",
+          "image": null
+        },
+        {
+          "title": "Blocus lycéens Marseille : enquête pour violences",
+          "summary": "Une enquête est ouverte pour violences après qu'un adolescent ait été blessé lors d'un blocus lycéen à Marseille.",
+          "url": "https://www.sudouest.fr/faits-divers/blocus-des-lyceens-une-enquete-ouverte-pour-violences-volontaires-apres-la-blessure-a-la-tete-d-un-adolescent-a-marseille-30968877.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "JDG",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Boissons énergisantes : vers une interdiction aux moins de 16 ans ?",
+          "summary": "Le gouvernement envisage d'interdire les boissons énergisantes aux moins de 16 ans pour raisons de santé publique.",
+          "url": "https://www.journaldugeek.com/2026/10/08/red-bull-monster-ciao-energy-mais-pourquoi-le-gouvernement-veut-interdire-les-boissons-energisantes-aux-moins-de-16-ans/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/boissons-energisante-1280x853.jpg"
+        },
+        {
+          "title": "Taekwondo virtuel : le débat entre tradition et techno",
+          "summary": "Aux Jeux Asiatiques, le taekwondo virtuel suscite le débat entre puristes et adeptes des nouvelles technologies.",
+          "url": "https://rmcsport.bfmtv.com/societe/video-jeux-asiatiques-entre-tradition-et-techno-le-taekwondo-virtuel-fait-debat_VN-202610030269.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/AbT-ZdgcE35wfBwbuCgEOiVSmF4=/0x0:1280x720/800x0/images/Jeux-Asiatiques-Entre-tradition-et-techno-le-TAEKWONDO-VIRTUEL-fait-debat-2358754.jpg"
+        },
+        {
+          "title": "L'arbitrage s'invite au collège : une nouvelle approche",
+          "summary": "Découvrez comment l'arbitrage est introduit au collège pour sensibiliser les jeunes aux règles et au respect.",
+          "url": "https://rmcsport.bfmtv.com/societe/dans-ma-tete-ils-mettaient-juste-des-sanctions-quand-l-arbitrage-s-invite-au-college_AN-202610060945.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7tXOn9Y91CZ_iXA_GijjO1qP4-M=/71x174:2039x1281/800x0/images/Des-arbitres-pour-les-journees-de-l-arbitrage-a-Paris-le-6-octobre-2026-2360543.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "AS Monaco basket en cessation de paiements",
+          "summary": "Jour sombre pour le basket monégasque : l'AS Monaco est officiellement placée en cessation de paiements.",
+          "url": "https://rmcsport.bfmtv.com/basket/aujourd-hui-est-un-jour-triste-l-as-monaco-basket-officiellement-placee-en-cessation-de-paiements_AV-202610070529.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/IMMxNHBjl4DIFqz1S3oZMkElwmU=/371x272:2035x1208/800x0/images/Le-logo-de-la-Roca-Team-l-as-monaco-basket-lors-d-un-match-a-gaston-medecin-le-19-juin-2026-2328840.jpg"
+        },
+        {
+          "title": "Euroligue rejette l'offre de la NBA Europe",
+          "summary": "La première offre de la NBA Europe pour l'Euroligue a été rejetée, l'avenir du basket européen en question.",
+          "url": "https://rmcsport.bfmtv.com/basket/euroligue/basket-l-euroligue-rejette-la-premiere-offre-de-la-nba-europe_AV-202610060667.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/sM8scMG6PPsax7A8vniNHZDYNHg=/0x212:2048x1364/800x0/images/Le-logo-de-l-Euroligue-le-09-10-2025-2152863.jpg"
+        },
+        {
+          "title": "Insep : bizutage violent et forfait général du Pôle France",
+          "summary": "Suite à un violent bizutage à l'Insep, le Pôle France est forfait général pour toute la saison en Nationale 1.",
+          "url": "https://rmcsport.bfmtv.com/basket/basket-apres-le-violent-bizutage-a-l-insep-le-pole-france-forfait-general-pour-toute-la-saison-en-nationale-1_AV-202610060537.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gB3V-soNSSkG4RoITNAdLbFqH0I=/0x38:768x470/800x0/images/L-Institut-national-du-sport-de-l-expertise-et-de-la-performance-INSEP-le-18-mai-2020-jour-de-sa-reouverture-apres-le-confinement-du-printemps-2020-994945.jpg"
+        }
+      ]
+    }
+  ]
+}
