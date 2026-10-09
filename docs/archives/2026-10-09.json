@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Denis",
+  "global_summary": "L'actualité du jour est un mélange frappant de défis humains et de solidarité, avec Jarry mobilisant l'humour pour les Restos du Cœur, tandis que des affaires choquantes de maltraitance aux États-Unis rappellent les ombres persistantes. Le monde du sport n'est pas en reste, entre la diplomatie sportive autour de la CAN 2025 et les prises de position de grandes figures.\nSur le front national, la politique s'anime avec une nouvelle candidature présidentielle, et les enjeux de la santé publique se font sentir. La tech continue sa révolution avec l'IA au cœur de la cybersécurité et de la création, tandis que l'économie locale et le tourisme en Guyane montrent des signes de vitalité. C'est une journée où l'engagement, l'innovation et la persévérance tracent les contours de notre monde.",
+  "running_advice": "Excellente nouvelle, cher(e) athlète ! Aujourd'hui est une journée parfaite pour enfiler vos baskets et booster votre énergie. Avec des températures idéales variant entre 9.1°C et 17.9°C et un ciel \"Peu nuageux\", les conditions sont optimales pour une séance de course revigorante. Le risque de pluie est minime (seulement 3%), donc pas d'excuse pour ne pas sortir !\nPour profiter au maximum de cette belle journée, je vous conseille de courir en fin de matinée, vers 10h-11h, ou en fin d'après-midi, entre 16h et 17h. Ces créneaux vous permettront de bénéficier de températures douces et d'éviter le soleil le plus intense. Avec un indice UV de 3.7, n'oubliez pas d'appliquer une protection solaire et de porter une casquette. Hydratez-vous bien et allez chercher cette endorphine ! Le bitume vous attend !",
+  "weather_string": "🌤️ Peu nuageux (9.1°C / 17.9°C)",
+  "weather_stats": {
+    "temp": "17.9°C",
+    "rain": "3%",
+    "uv": "3.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "L'humour au secours des Restos du Cœur",
+          "summary": "Jarry lance \"Les Enflures\", une initiative humoristique pour soutenir les Restos du Cœur, sur les traces des Enfoirés.",
+          "url": "https://www.leprogres.fr/culture-loisirs/2026/10/08/avec-jarry-aux-commandes-les-restos-du-coeur-lancent-les-enflures-les-enfoires-de-l-humour",
+          "image": "https://cdn-s-www.leprogres.fr/images/C0F7C0BF-43FF-478E-B3CE-9E977FB1775D/MF_contenu/avec-jarry-aux-commandes-les-restos-du-coeur-lancent-les-enflures-les-enfoires-de-l-humour-1791486990.jpg"
+        },
+        {
+          "title": "\"Maison de l'horreur\" : 14 enfants maltraités aux US",
+          "summary": "Un couple américain fait face à la justice pour la maltraitance présumée de 14 de leurs 21 enfants.",
+          "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-maison-de-l-horreur-un-couple-americain-poursuivi-pour-maltraitance-sur-14-de-leurs-21-enfants_VN-202610080929.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/uXcMQQl2QVLmvzUoz2DBfhcVGME=/0x0:1280x720/800x0/images/Maison-de-l-horreur-un-couple-americain-poursuivi-pour-maltraitance-sur-14-de-leurs-21-enfants-2361963.jpg"
+        },
+        {
+          "title": "CAN 2025 : le Sénégal au TAS pour ses droits",
+          "summary": "Le Sénégal saisit le Tribunal Arbitral du Sport pour que \"le droit du sport soit dit\" concernant la CAN 2025.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261008-can-2025-le-s%C3%A9n%C3%A9gal-r%C3%A9clame-que-le-droit-du-sport-soit-dit-au-tas",
+          "image": "https://s.france24.com/media/display/202b5f2c-c34a-11f1-a13f-4b195755b8ed/w:1024/p:16x9/Couv-SENEGAL-MAROC-TAS-R%C3%A9action.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Gilles Platret candidat à la présidentielle 2026",
+          "summary": "Le maire de Chalon-sur-Saône, Gilles Platret, officialise sa candidature aux prochaines élections présidentielles.",
+          "url": "https://www.lejsl.com/elections/2026/10/08/gilles-platret-annonce-sa-candidature-a-l-election-presidentielle",
+          "image": "https://cdn-s-www.lejsl.com/images/41E5D5CA-878F-46E7-880A-095746045C58/MF_contenu/gilles-platret-annonce-sa-candidature-a-l-election-presidentielle-1791487486.jpg"
+        },
+        {
+          "title": "Tragédie à Lyon : un jeune homme poignardé",
+          "summary": "Un jeune homme a été mortellement poignardé à Lyon ; le suspect est activement recherché par les forces de l'ordre.",
+          "url": "https://www.20minutes.fr/faits_divers/faits-divers-lyon/4252676-20261008-lyon-jeune-homme-tue-coups-poignard-suspect-fuite",
+          "image": "https://img.20mn.fr/mcjMTM-DRO2NAk06u1jZLik/1200x768_illustration-d-une-illustration-representant-un-policier-pres-de-notre-dame-a-paris-le-24-octobre-2024-hubert-thomas-illustration-police-8-credit-thomas-hubert-sipa-2410241534"
+        },
+        {
+          "title": "L'hôpital de Girac en difficulté financière",
+          "summary": "Plongé dans le rouge, l'hôpital de Girac en Charente doit relever un défi majeur de redressement financier.",
+          "url": "https://www.charentelibre.fr/sante/plonge-dans-le-rouge-l-hopital-de-girac-au-defi-du-redressement-30976731.php",
+          "image": "https://media.charentelibre.fr/30976731/1200x600/hopital.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "L'IA : bouclier et épée de la cybersécurité",
+          "summary": "Un rapport du WEF révèle l'usage croissant de l'IA par cybercriminels et défenseurs en 2026.",
+          "url": "https://fr.qz.com/attaques-cyberntiques-ia-dfense-2026-forum-conomique-mondial",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/quartz-run-370-hero-0-2707.jpg"
+        },
+        {
+          "title": "Ecosia abandonne Mistral pour l'IA chinoise",
+          "summary": "Le moteur de recherche Ecosia opte pour des IA chinoises, interrogeant la souveraineté technologique européenne.",
+          "url": "https://www.macg.co/intelligence-artificielle/2026/10/ecosia-lache-mistral-pour-des-ia-chinoises-la-souverainete-europeenne-prend-un-coup-de-bambou-311521",
+          "image": "https://cdn.mgig.fr/2026/10/mga-e484cecc-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "L'IA Artcraft défie Adobe sur le graphisme",
+          "summary": "De nouveaux logiciels graphiques générés par IA menacent la position dominante d'Adobe sur le marché.",
+          "url": "https://www.journaldugeek.com/2026/10/09/generes-par-ia-les-logiciels-graphiques-artcraft-mettent-adobe-en-pls/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/photocraft-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Guyane : boom du tourisme avec +78%",
+          "summary": "Le tourisme en Guyane explose avec 81 millions d'euros dépensés au premier semestre, un record.",
+          "url": "https://www.franceguyane.fr/actualite/economie-consommation/tourisme-en-guyane-81-millions-deuros-depenses-par-les-visiteurs-au-premier-semestre-78-en-un-an-1095594.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/6ac7ed5970ca8de98a004db4/width_1000/image.jpg"
+        },
+        {
+          "title": "Soutien aux commerces de proximité ce samedi",
+          "summary": "Le Pays welche célèbre la Journée nationale des commerces de proximité, un appel à soutenir l'économie locale.",
+          "url": "https://www.lalsace.fr/economie/2026/10/08/journee-nationale-des-commerces-de-proximite-ce-samedi",
+          "image": "http://cdn-files.prsmedia.fr/files/ALS/fr/images/ALS_placeholder.png"
+        },
+        {
+          "title": "EuroDreams : Le tirage du jour est tombé",
+          "summary": "Découvrez les résultats du tirage EuroDreams de ce jeudi 8 octobre 2026. La chance était-elle avec vous ?",
+          "url": "https://www.rtl.fr/actu/debats-societe/eurodreams-le-tirage-du-jeudi-8-octobre-2026-7900683196",
+          "image": "https://images.rtl.fr/~c/1200v800/rtl/www/1785279-l-eurodreams-a-de-nouvelles-regles.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama soutient le mouvement lycéen",
+          "summary": "Victor Wembanyama exprime son soutien aux lycéens, démontrant son engagement au-delà des terrains de basket.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/nba-j-aimerais-trop-le-message-de-soutien-de-wembanyama-au-mouvement-des-lyceens_AV-202610080818.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        },
+        {
+          "title": "Record du GR20 pour Aurélien Dunand-Pallaz",
+          "summary": "Aurélien Dunand-Pallaz s'illustre en Corse, établissant un nouveau record sur le mythique sentier du GR20.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-aurelien-dunand-pallaz-le-nouveau-record-man-du-gr20_VN-202610080811.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/HgQJWnwinY62rQdTxZyDIsMqp6M=/0x0:1280x720/800x0/images/Aurelien-Dunand-Pallaz-le-nouveau-record-man-du-GR20-2361873.jpg"
+        },
+        {
+          "title": "La FFR inaugure son nouveau centre national",
+          "summary": "La Fédération Française de Rugby dévoile son nouveau centre national, marquant une étape clé pour le rugby français.",
+          "url": "https://rmcsport.bfmtv.com/rugby/j-aurais-fait-des-choix-differents-la-ffr-a-inaugure-son-nouveau-centre-national-dans-un-climat-particulier_AV-202610080065.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/t3Jp0IlnXUKfukNu4WQ-bGkZJs0=/0x108:2048x1260/800x0/images/Le-president-de-la-FFR-Florian-Grill-1937818.jpg"
+        }
+      ]
+    }
+  ]
+}
