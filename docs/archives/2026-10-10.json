@@ -1,0 +1,126 @@
+{
+  "ephemeride": "Saint Ghislain",
+  "global_summary": "Ce jour, l'actualité oscille entre des préoccupations humanitaires intenses et des enjeux sociétaux majeurs. En France, des actions en justice concernant des livraisons d'armement et le coût des lois contre les violences sexuelles mettent en lumière des débats profonds, tandis que des condamnations sévères pour cybercriminalité secouent l'opinion. Les manifestations lycéennes révèlent de nouvelles dynamiques sociales. \n\nParallèlement, le monde technologique innove avec la détection de drones et anticipe les futures consoles. L'économie navigue entre des compromis commerciaux internationaux et des transmissions d'entreprises locales. Sur le plan sportif, l'actualité est riche avec les prises de position de Wembanyama, des controverses en athlétisme et la planification des futurs JO, reflétant un quotidien complexe et plein de défis.",
+  "running_advice": "Allez, on enfile ses baskets ! Malgré un risque de pluie de 28% et un ciel nuageux, les températures sont très agréables aujourd'hui, oscillant entre 12.1°C et 19.4°C. C'est idéal pour un run énergique ! Pour profiter au mieux, je vous conseille de viser un créneau en fin de matinée ou début d'après-midi, entre 10h00 et 14h00. Vous bénéficierez d'une belle luminosité et d'une chaleur douce avant que le soleil ne se couche à 19h26. Et n'oubliez pas, avec un indice UV de 3.75, une légère protection solaire est recommandée, même sous les nuages. Hydratez-vous bien et transformez cette journée en une opportunité de repousser vos limites ! Vous êtes prêts ? Go!",
+  "weather_string": "🌧️ Pluie (12.1°C / 19.4°C)",
+  "weather_stats": {
+    "temp": "19.4°C",
+    "rain": "28%",
+    "uv": "3.75"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Procédure d'urgence contre livraison d'armement",
+          "summary": "Des associations en France lancent une procédure pour bloquer une livraison d'armement à une entreprise israélienne.",
+          "url": "https://www.franceinfo.fr/monde/israel/des-associations-lancent-une-procedure-d-urgence-en-france-contre-une-livraison-pour-une-entreprise-d-armement-israelienne_8230708.html",
+          "image": "https://www.franceinfo.fr/pictures/Sg4fEM_EGvbQICF-pf45k812Xtw/0x0:1024x576/432x243/filters:format(jpg)/2026/10/09/6ac93e0bda797179500651.jpg"
+        },
+        {
+          "title": "Panama frappé par un puissant séisme",
+          "summary": "Un séisme de magnitude 7,7 a causé un grand désastre, blessés et dégâts au Panama vendredi.",
+          "url": "https://www.sudouest.fr/environnement/seisme/videos-panama-un-grand-desastre-des-blesses-et-des-degats-apres-le-puissant-seisme-de-magnitude-7-7-qui-a-frappe-le-pays-vendredi-31004351.php"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "20 ans pour cybercrimes envers mineures",
+          "summary": "Un homme condamné à Paris pour des actes sexuels et tortures imposés en ligne à des mineures.",
+          "url": "https://www.lefigaro.fr/actualite-france/paris-un-indien-condamne-a-20-ans-de-reclusion-pour-des-actes-sexuels-et-des-tortures-imposes-en-ligne-a-des-mineures-20261009",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/09/3c38f73aca773de670101b1e750be73ce839a58620bc1c891186cbb0a5bdb5b5.jpg"
+        },
+        {
+          "title": "Loi intégrale contre violences sexuelles coûte cher",
+          "summary": "La loi «intégrale» contre les violences sexuelles pourrait coûter jusqu'à quatre milliards d'euros supplémentaires par an.",
+          "url": "https://www.leprogres.fr/politique/2026/10/09/violences-sexuelles-la-loi-integrale-couterait-3-a-4-milliards-d-euros-de-plus-par-an",
+          "image": "https://cdn-s-www.leprogres.fr/images/8A6C23B8-A400-4D7B-812A-744F9DC62C2F/MF_contenu/violences-sexuelles-la-loi-integrale-couterait-trois-a-quatre-milliards-d-euros-de-plus-par-an-1791573320.jpg"
+        },
+        {
+          "title": "\"Battles d'aura\": le phénomène lycéen",
+          "summary": "Ces nouveaux duels animant les manifestations lycéennes suscitent l'interrogation et la curiosité.",
+          "url": "http://www.lardennais.fr/id833006/article/2026-10-09/quest-ce-que-les-battles-daura-ces-duels-qui-animent-les-manifestations",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/10/09/node_833006/15530041/public/2026/10/09/106813149.jpeg?itok=lns8UPh71791573428"
+        }
+      ]
+    },
+    {
+      "label": "Technologie",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Orange se lance dans la détection de drones",
+          "summary": "Au Salon des drones de Bordeaux, même Orange explore le marché de la détection de drones.",
+          "url": "https://www.sudouest.fr/gironde/salon-des-drones-de-bordeaux-meme-orange-se-lance-dans-la-detection-des-drones-30998476.php",
+          "image": "https://media.sudouest.fr/30998476/1200x600/photo-orange-drone-360.jpg"
+        },
+        {
+          "title": "iPhone 18 Pro Max: un bug paralysant?",
+          "summary": "Un bug critique pourrait définitivement paralyser l'iPhone 18 Pro Max; êtes-vous concerné par ce problème?",
+          "url": "https://www.journaldugeek.com/2026/10/09/iphone-18-pro-max-bug-paralyse-pouvez-vous-etre-concerne/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/iPhone-18-Pro-bordeaux-dos-1280x853.jpg"
+        },
+        {
+          "title": "PS6: les premières infos dévoilées",
+          "summary": "Découvrez les premières rumeurs sur la PS6, sa fenêtre de sortie, son prix et les annonces attendues.",
+          "url": "https://www.journaldugeek.com/dossier/ps6-premieres-infos-fenetre-de-sortie-prix-annonces-tout-ce-que-lon-sait-a-ce-jour/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/dossier-ps6-tout-ce-que-lon-sait-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Automobile: fragile compromis UE-Chine",
+          "summary": "Bruxelles et Pékin trouvent un accord délicat sur l'automobile pour éviter l'escalade commerciale.",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/09/entre-bruxelles-et-pekin-un-compromis-fragile-sur-l-automobile-pour-eviter-l-escalade-commerciale_6790634_3234.html",
+          "image": "https://img.lemde.fr/2026/10/09/653/0/7834/3917/644/322/60/0/969a17d_ftp-1-6chvmkrpac5k-e29fdc5220b94ef3a6451e7b27a13389-0-cd885ef453c24aecbe1b8cbdc64a86f0.jpg"
+        },
+        {
+          "title": "Intermed Distribution tourne une page",
+          "summary": "Après trente-six ans, les fondateurs d'Intermed Distribution en Indre-et-Loire cèdent leur entreprise.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/parcay-meslay/apres-trente-six-ans-ils-laissent-partir-leur-bebe-une-page-se-tourne-a-la-tete-d-intermed-distribution-en-indre-et-loire-1791573150",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ac93c97405692cb6c8b457b"
+        },
+        {
+          "title": "Mauvaise conduite et fatigue chez les VTC",
+          "summary": "Une enquête révèle des problèmes de vitesse et de fatigue au volant chez les chauffeurs VTC.",
+          "url": "https://www.tf1info.fr/transports/videos/video-vitesse-fatigue-la-mauvaise-conduite-des-vtc-17405-2469103.html",
+          "image": "https://photos.tf1info.fr/images/1024/576/vitesse-fatigue-la-mauvaise-conduite-des-vtc-99b1e4-0@1x.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama soutient le mouvement lycéen",
+          "summary": "Victor Wembanyama exprime son soutien aux lycéens en mouvement, suscitant de vives réactions.",
+          "url": "https://rmcsport.bfmtv.com/basket/video-j-entends-et-je-soutiens-les-lyceens-salue-victor-wembanyama_VN-202610090466.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ZaDVQxoWxI7mQkbwX8Zs_24kpXQ=/0x0:1280x720/800x0/images/J-entends-et-je-soutiens-les-lyceens-salue-Victor-Wembanyama-2362360.jpg"
+        },
+        {
+          "title": "Athlète Happio condamné pour violences",
+          "summary": "Le hurdleur Wilfried Happio a été condamné à 6 mois d'emprisonnement pour violences conjugales.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/athletisme-happio-condamne-a-6-mois-d-emprisonnement-pour-violences-conjugales_AD-202610070885.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_FHBvFV6qPfsUbRIdq1kSEZ_YwI=/301x0:1917x909/800x0/images/Wilfried-Happio-lors-de-la-demi-finale-400m-haies-des-JO-de-Paris-le-7-aout-2024-1999968.jpg"
+        },
+        {
+          "title": "JO 2036: sept pays candidats déjà",
+          "summary": "Sept nations, dont l'Inde et le Qatar, se positionnent déjà pour accueillir les Jeux Olympiques de 2036.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/ou-auront-lieu-les-jo-2036-sept-pays-candidats-a-l-organisation-dont-l-inde-et-le-qatar_AV-202610060658.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/s8nX2pAQnqnSijlwRsGxNlQB4JQ=/0x106:2048x1258/800x0/images/Le-logo-des-Jeux-olympiques-JO-image-d-illustration-2114475.jpg"
+        }
+      ]
+    }
+  ]
+}
