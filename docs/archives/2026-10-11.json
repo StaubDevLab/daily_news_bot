@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Firmin",
+  "global_summary": "L'actualité de ce jour est un mélange captivant de dynamiques géopolitiques, d'évolutions sociétales et d'exploits sportifs. Sur la scène mondiale, les tensions persistent avec une nouvelle attaque à Riyad et des repositionnements stratégiques majeurs concernant l'Ukraine, tandis que la santé d'une figure politique internationale continue de faire les gros titres. En parallèle, des mouvements sociaux en France, couplés à une quête collective de sens illustrée par le succès des Repair Cafés, dénotent une société en pleine effervescence. \nCôté économie, la dette et l'adaptation au climat sont des sujets brûlants, tandis que le secteur tech innove et surprend. Enfin, le monde du sport nous offre des moments de gloire et de solidarité, avec des athlètes qui brillent par leurs performances et leur engagement citoyen. Un panorama riche, invitant à la réflexion et à l'action.",
+  "running_advice": "Salut champion(ne) ! Aujourd'hui, la météo est une véritable invitation à chausser tes baskets. Avec des températures allant de 9.8°C à 17.5°C, c'est l'idéal pour une course sans surchauffe. Même si un léger brouillard matinal (14% de pluie, c'est minime !) peut être présent, il se dissipera rapidement. Le moment parfait pour t'élancer ? Je te suggère de viser **entre 10h00 et 14h00** ! Le soleil aura percé le brouillard et la température sera à son apogée, te garantissant une séance confortable. Et n'oublie pas : avec un indice UV de 4.15, une petite couche de crème solaire sur les zones exposées et des lunettes de soleil sont de mise pour protéger ta peau et tes yeux. Prêt à tout donner ? Allez, on y va !",
+  "weather_string": "🌫️ Brouillard (9.8°C / 17.5°C)",
+  "weather_stats": {
+    "temp": "17.5°C",
+    "rain": "14%",
+    "uv": "4.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Riyad : nouvelle attaque Houthi, plusieurs blessés",
+          "summary": "L'aéroport de Riyad a été la cible d'une nouvelle attaque attribuée aux Houthis, causant des blessés.",
+          "url": "https://www.france24.com/fr/moyen-orient/20261010-nouvelle-attaque-imput%C3%A9e-aux-houthis-%C3%A0-l-a%C3%A9roport-de-riyad-plusieurs-bless%C3%A9s-arabie-saoudite",
+          "image": "https://s.france24.com/media/display/a3556cb4-c4d3-11f1-90a7-53993c5f1f18/w:1024/p:16x9/AP314998123886.jpg"
+        },
+        {
+          "title": "Repair Cafés : une quête de sens collective",
+          "summary": "Les Repair Cafés gagnent en popularité, répondant à un besoin croissant de sens et de communauté.",
+          "url": "https://www.leprogres.fr/economie/2026/10/10/il-y-a-une-quete-de-sens-et-de-faire-commun-pourquoi-les-repair-cafes-seduisent-autant",
+          "image": "https://cdn-s-www.leprogres.fr/images/063256BB-55BF-498B-94B5-852344BAA77B/MF_contenu/il-y-a-une-quete-de-sens-et-de-faire-commun-pourquoi-les-repair-cafes-seduisent-autant-1791647985.jpg"
+        },
+        {
+          "title": "Trump lâche Zelensky pour le diesel russe",
+          "summary": "Donald Trump infléchit sa position sur l'Ukraine pour sécuriser des approvisionnements en diesel russe.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4253130-20261010-guerre-ukraine-donald-trump-lache-zelensky-recuperer-diesel-russe",
+          "image": "https://img.20mn.fr/SCY3_XQJTu2Kwt5qJm-QjCk/1200x768_10-octobre-2026-washington-district-de-columbia-etats-unis-le-president-donald-trump-s-adresse-a-des-membres-des-medias-sur-la-pelouse-sud-de-la-maison-blanche-avant-de-partir-pour-clarksville-dans-le-tennessee-ou-il-doit-participer-a-un-rassemblement-de-campagne-en-faveur-des-candidats-republicains-avant-les-elections-de-mi-mandat-de-novembre-image-de-credit-matt-kaminsky-zuma-press-wire-20261010-znp-k206-027-zeus-2610101930"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Poutine : révélations sur sa santé, un tabou national",
+          "summary": "La santé de Vladimir Poutine serait un sujet sensible, impliquant bureaux factices et équipes médicales.",
+          "url": "https://www.parismatch.com/actu/international/aujourdhui-bureaux-factices-et-equipes-medicales-font-partie-de-son-quotidien-vladimir-poutine-le-tabou-de-sa-sante-revele-277225",
+          "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/10/10/20/2026-10-09t110257z_97230076_rc2mznaon3ha_rtrmadp_3_turkmenistan-summit-caspian-ecology.jpg?VersionId=dXNnGyc_VF6UEAWrBWqsKuiHk45DNpz4"
+        },
+        {
+          "title": "Lycéen amputé à Lens : l'avocate conteste la version",
+          "summary": "L'avocate du lycéen amputé à Lens réfute la version du parquet sur les circonstances de l'accident.",
+          "url": "https://www.sudouest.fr/societe/greves-et-manifestations/lyceen-ampute-d-une-main-a-lens-l-adolescent-conteste-formellement-la-version-du-parquet-et-nie-avoir-ramasse-la-grenade-affirme-son-avocate-31014173.php",
+          "image": null
+        },
+        {
+          "title": "Nantes : dégradations majeures à l'université",
+          "summary": "L'occupation du campus de Nantes a mené à d'importantes dégradations, impactant l'activité universitaire.",
+          "url": "https://www.sudouest.fr/societe/greves-et-manifestations/quatre-interpellations-ecoeurement-impact-majeur-sur-l-activite-importantes-degradations-a-l-universite-de-nantes-apres-l-occupation-du-campus-31014698.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Dette : hausse préoccupante des taux d'intérêt",
+          "summary": "David Amiel alerte sur la hausse des taux d'intérêt et appelle à un « ressaisissement collectif » face à la dette.",
+          "url": "https://www.capital.fr/economie-politique/dette-david-amiel-evoque-une-hausse-preoccupante-des-taux-dinteret-et-appelle-a-un-ressaisissement-collectif-1530881",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~10~10~f7d53a65-6562-4453-98c5-21a151d823af.png/1200x900/focus-point/716%2C376/dette-david-amiel-evoque-une-hausse-preoccupante-des-taux-d-interet-et-appelle-a-un-ressaisissement-collectif.jpg"
+        },
+        {
+          "title": "Barbe : la science explique son évolution",
+          "summary": "Des scientifiques explorent les raisons évolutives derrière l'apparition et la persistance de la barbe chez l'homme.",
+          "url": "https://www.presse-citron.net/vous-portez-barbe-scientifiques-pensent-trouve-pourquoi-levolution-vous-donne/",
+          "image": "https://www.presse-citron.net/app/uploads/2026/10/Barbe-880x587.jpg"
+        },
+        {
+          "title": "Kia EV5, solaire : le récap' Survoltés",
+          "summary": "Un récap' des actualités « Survoltés » met en lumière les essais de la Kia EV5 et les contrats solaires.",
+          "url": "https://www.frandroid.com/survoltes/3280031_2-500-km-en-kia-ev5-contrats-solaires-et-trump-qui-ouvre-le-diesel-rouge-le-recap-survoltes-de-la-semaine",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/04/maison-moderne-connectee-panneaux-mk-sun.jpeg?resize=1600,900&key=48811464"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Affrais : réunion agitée à Saint-Jean-Bonnefonds",
+          "summary": "Une réunion publique concernant l'implantation future d'Affrais a suscité de vives discussions à Saint-Jean-Bonnefonds.",
+          "url": "https://www.leprogres.fr/economie/2026/10/10/future-implantation-d-affrais-une-reunion-publique-agitée",
+          "image": "https://cdn-s-www.leprogres.fr/images/47316CA4-143E-4819-A659-8E0E362FC450/NW_listB/future-implantation-d-affrais-une-reunion-publique-agitée-1791655489.jpg"
+        },
+        {
+          "title": "Calais : les espaces verts s'adaptent au climat",
+          "summary": "Après les fortes chaleurs, Calais fait évoluer ses espaces verts pour s'adapter au nouveau climat.",
+          "url": "http://www.nordlittoral.fr/300714/article/2026-10-10/calais-touches-par-les-fortes-chaleurs-cet-ete-les-espaces-verts-de-la-ville",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/08/25/node_300714/3795528/public/2026/08/25/98220890.jpeg?itok=fGhlJxWg1791655390"
+        },
+        {
+          "title": "Rapport Therapeutics : le PDG vend des actions",
+          "summary": "Le PDG de Rapport Therapeutics a vendu pour 143 272 $ d'actions de l'entreprise.",
+          "url": "https://fr.investing.com/news/insider-trading-news/le-pdg-de-rapport-therapeutics-vend-des-actions-pour-143272-93CH-3629761",
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM4416N_1200_L.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gaming & Gadgets",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Incroyable : Doom (presque) sur Vectrex !",
+          "summary": "Le Journal du Geek explore l'exploit technique de faire tourner Doom sur la console rétro Vectrex.",
+          "url": "https://www.journaldugeek.com/2026/10/10/bien-sur-que-doom-tourne-sur-vectrex-presque/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/doom-vectrex-1280x853.jpg"
+        },
+        {
+          "title": "Googlebook : rapprochement Samsung en attente",
+          "summary": "Le rapprochement entre les Googlebook et les smartphones Samsung semble devoir attendre un peu plus.",
+          "url": "https://www.journaldugeek.com/2026/10/10/sur-les-googlebook-le-rapprochement-avec-les-smartphones-samsung-attendra-un-peu/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/Googlebook-Preview-10-1280x853.jpg"
+        },
+        {
+          "title": "MSI lance son portable RTX Spark premium",
+          "summary": "MSI présente également un nouveau portable RTX Spark à un prix élevé, pour le marché haut de gamme.",
+          "url": "https://www.journaldugeek.com/2026/10/10/msi-aussi-a-son-portable-rtx-spark-hors-de-prix/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Prestige-N16-Flip-AI-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "WNBA : Gabby Williams en finale avec Golden State",
+          "summary": "Gabby Williams et les Françaises de Golden State se qualifient brillamment pour la finale de la WNBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/feminin/wnba-gabby-williams-et-les-francaises-de-golden-state-qualifiees-pour-la-finale_AN-202610100147.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/yjQrZcRIpTfxrSF8A4eTIHdpeMg=/0x85:2048x1237/800x0/images/Gabby-Williams-avec-les-Golden-State-Valkyries-le-9-octobre-2026-2362801.jpg"
+        },
+        {
+          "title": "Wembanyama soutient le mouvement lycéen",
+          "summary": "Victor Wembanyama prend position et exprime son soutien aux lycéens en mouvement social.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/je-les-entends-et-je-les-soutiens-wembanyama-prend-position-pour-le-mouvement-lyceen_AV-202610090142.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JoYGr2YGy3xokMpIdOrVud6bXr4=/336x76:2000x1012/800x0/images/Victor-Wembanyama-lors-de-son-dernier-match-avec-la-France-aux-JO-2024-a-Paris-2323413.jpg"
+        },
+        {
+          "title": "Record du GR20 : Aurélien Dunand-Pallaz",
+          "summary": "Aurélien Dunand-Pallaz devient le nouveau recordman du mythique GR20, une performance exceptionnelle en ultra-trail.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-aurelien-dunand-pallaz-le-nouveau-record-man-du-gr20_VN-202610080811.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/HgQJWnwinY62rQdTxZyDIsMqp6M=/0x0:1280x720/800x0/images/Aurelien-Dunand-Pallaz-le-nouveau-record-man-du-GR20-2361873.jpg"
+        }
+      ]
+    }
+  ]
+}
