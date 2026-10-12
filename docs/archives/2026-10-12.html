@@ -1,0 +1,394 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 12/10/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">lundi 12 octobre • Saint Wilfried</p>
+            <div class="weather-badge">
+              🌦️ Averses (15.1°C / 21.4°C) &nbsp;|&nbsp; ☀️ UV: 2.4 &nbsp;|&nbsp; 💧 18%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité de ce jour est marquée par un mélange d'enjeux géopolitiques et de dynamiques nationales. Sur la scène mondiale, des accords diplomatiques importants côtoient les tensions persistantes, notamment l'accord Washington-Moscou sur le gazole et la situation préoccupante à Riyad après une attaque des Houthis. Le secteur automobile s'interroge aussi sur sa capacité à rivaliser face à la puissance chinoise, soulignant des défis économiques majeurs pour nos industries.
+
+En France, le paysage politique est animé par les résultats de la primaire sociale-démocrate et des annonces de soutien aux communes rurales. Le monde de la tech promet des innovations avec la future keynote Apple et débat de la fiscalité des géants du numérique. Et sur le front sportif, la persévérance est récompensée avec le titre mondial de Vincent Luis en IronMan et les victoires en rugby, tandis que Victor Wembanyama s'illustre aussi en dehors des terrains par son engagement.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Aujourd'hui, c'est une excellente journée pour chausser vos baskets ! Les températures sont idéales, oscillant entre 15.1°C et 21.4°C, parfaites pour une session énergisante. Malgré quelques averses possibles (18% de probabilité), ne laissez pas une petite goutte vous arrêter ; une légère pluie peut même être revigorante. L'indice UV est bas (2.4), pas besoin de protection solaire intensive. Je vous recommande de viser la fin d'après-midi, entre 17h00 et 19h00, pour profiter de la douceur avant le coucher du soleil et d'une lumière magnifique. C'est le moment idéal pour libérer votre esprit et booster votre corps ! Allez, on y va !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://beymedias.brightspotcdn.com/7e/f0/bc2421bcae745ecab43d0bbf57fb/trump-web-bloomberg.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.agefi.fr/news/economie-marches/washington-conclut-un-accord-avec-moscou-sur-le-gazole" target="_blank">Washington et Moscou s'accordent sur le gazole</a>
+                    </h3>
+                    <p class="article-summary">Un accord crucial a été trouvé, apaisant les tensions énergétiques mondiales.</p>
+                    <a href="https://www.agefi.fr/news/economie-marches/washington-conclut-un-accord-avec-moscou-sur-le-gazole" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/2666fa92-c5a0-11f1-821c-53993c5f1f18/w:1024/p:16x9/FR-20261011-201007-201149-CS.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/vid%C3%A9o/20261011-frappe-de-missile-des-houthis-contre-l-a%C3%A9roport-de-riyad-samedi-au-moins-12-morts-et-309-bless%C3%A9s" target="_blank">Attaque meurtrière des Houthis à Riyad</a>
+                    </h3>
+                    <p class="article-summary">Une frappe de missile a causé 13 morts et plus de 300 blessés à l'aéroport.</p>
+                    <a href="https://www.france24.com/fr/vid%C3%A9o/20261011-frappe-de-missile-des-houthis-contre-l-a%C3%A9roport-de-riyad-samedi-au-moins-12-morts-et-309-bless%C3%A9s" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/oSiB1CxfqCeV6TNgcl6Ty2UgNZc/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/11/6acbddb11d420471394127.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/replay-jt/france-2/20-heures/ils-pourraient-tuer-integralement-notre-industrie-peut-on-encore-rivaliser-avec-la-chine-dans-le-domaine-automobile_8233000.html" target="_blank">Automobile : la Chine menace l'industrie mondiale</a>
+                    </h3>
+                    <p class="article-summary">L'Europe s'inquiète de la concurrence chinoise, menaçant son secteur automobile.</p>
+                    <a href="https://www.franceinfo.fr/replay-jt/france-2/20-heures/ils-pourraient-tuer-integralement-notre-industrie-peut-on-encore-rivaliser-avec-la-chine-dans-le-domaine-automobile_8233000.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/vo64ODkogL1PuPCpZsOsVhdzu54=/0x0:1280x720/800x0/images/Raphael-Glucksmann-vainqueur-de-la-primaire-sociale-democrate-retrouve-l-un-de-ses-soutiens-Yannick-Jadot-2363321.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/politique/elections/presidentielle/video-raphael-glucksmann-vainqueur-de-la-primaire-sociale-democrate-retrouve-l-un-de-ses-soutiens-yannick-jadot_VN-202610110371.html" target="_blank">Glucksmann vainqueur, retrouve Jadot</a>
+                    </h3>
+                    <p class="article-summary">Le leader social-démocrate Glucksmann célèbre sa victoire et renforce son alliance.</p>
+                    <a href="https://www.bfmtv.com/politique/elections/presidentielle/video-raphael-glucksmann-vainqueur-de-la-primaire-sociale-democrate-retrouve-l-un-de-ses-soutiens-yannick-jadot_VN-202610110371.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cap.img.pmdstatic.net/fit/~1~cap~2026~10~11~92f45b20-c42c-43bd-89a9-49c264777d9c.png/1200x900/focus-point/827%2C481/sebastien-lecornu-annonce-une-dotation-de-50-millions-d-euros-pour-les-communes-rurales.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.capital.fr/economie-politique/sebastien-lecornu-annonce-une-dotation-de-50-millions-d-euros-pour-les-communes-rurales-1530896" target="_blank">50 millions pour les communes rurales</a>
+                    </h3>
+                    <p class="article-summary">Sébastien Lecornu promet un soutien financier majeur pour revitaliser les campagnes.</p>
+                    <a href="https://www.capital.fr/economie-politique/sebastien-lecornu-annonce-une-dotation-de-50-millions-d-euros-pour-les-communes-rurales-1530896" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.europe1.fr/var/europe1/storage/media/image/2026/10/11/19/000_d2wf7ke_1_6acbca2b45e46.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.europe1.fr/international/harry-et-meghan-vont-effectuer-leur-premier-engagement-public-commun-1139468" target="_blank">Harry et Meghan, retour public</a>
+                    </h3>
+                    <p class="article-summary">Le couple royal effectue son premier engagement public commun, l'attention est maximale.</p>
+                    <a href="https://www.europe1.fr/international/harry-et-meghan-vont-effectuer-leur-premier-engagement-public-commun-1139468" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2023/01/apple-homepod-2.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/12/apple-tv-homepod-siri-ai-et-une-grosse-surprise-voici-tout-ce-quon-attend-de-la-keynote-apple-du-13-octobre-2026/" target="_blank">Keynote Apple : ce qui nous attend</a>
+                    </h3>
+                    <p class="article-summary">Apple prépare une keynote riche en nouveautés : Siri AI, HomePod et une surprise majeure.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/12/apple-tv-homepod-siri-ai-et-une-grosse-surprise-voici-tout-ce-quon-attend-de-la-keynote-apple-du-13-octobre-2026/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/Audition-parlementaire-des-geants-numeriques-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/12/la-taxe-gafam-pourrait-passer-de-3-a-15-4-milliards-pour-renflouer-la-dette-de-la-france/" target="_blank">Taxe GAFAM : 15% pour la France ?</a>
+                    </h3>
+                    <p class="article-summary">La taxe GAFAM pourrait quadrupler, générant 4 milliards pour la dette française.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/12/la-taxe-gafam-pourrait-passer-de-3-a-15-4-milliards-pour-renflouer-la-dette-de-la-france/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://images.caradisiac.com/logos/6/4/0/4/296404/S4-vu-le-passe-de-jaguar-la-nouvelle-type-01-est-peut-etre-une-reussite-esthetique-224498.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.caradisiac.com/vu-le-passe-de-jaguar-la-nouvelle-type-01-est-peut-etre-une-reussite-esthetique-224498.htm" target="_blank">Jaguar : une Type 01 esthétiquement réussie ?</a>
+                    </h3>
+                    <p class="article-summary">La nouvelle Jaguar Type 01 surprend, suscitant des avis partagés sur son design.</p>
+                    <a href="https://www.caradisiac.com/vu-le-passe-de-jaguar-la-nouvelle-type-01-est-peut-etre-une-reussite-esthetique-224498.htm" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💼 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://i.f1g.fr/media/cms/orig/2026/10/11/e06ade7351791992f7b4bc4b49e40d15245e4b0d619c5edf33e51fc44f3548c9.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lefigaro.fr/sports/football/angleterre/andy-burnham-promet-de-publier-le-detail-de-ses-relations-avec-manchester-city-20261011" target="_blank">Burnham et Manchester City : transparence</a>
+                    </h3>
+                    <p class="article-summary">Le Premier ministre britannique s'engage à clarifier ses liens avec le club de football.</p>
+                    <a href="https://www.lefigaro.fr/sports/football/angleterre/andy-burnham-promet-de-publier-le-detail-de-ses-relations-avec-manchester-city-20261011" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.bienpublic.com/images/4077A149-0CEC-4FCB-932B-477143E4B1BB/NW_listB/les-petites-astuces-de-chefs-pour-sublimer-leur-recette-1791746044.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bienpublic.com/economie/2026/10/11/les-petites-astuces-de-chefs-pour-sublimer-leur-recette" target="_blank">Les astuces de chefs à Vougeot</a>
+                    </h3>
+                    <p class="article-summary">Des chefs révèlent leurs secrets pour sublimer les saveurs en cuisine.</p>
+                    <a href="https://www.bienpublic.com/economie/2026/10/11/les-petites-astuces-de-chefs-pour-sublimer-leur-recette" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.ledauphine.com/images/09824617-A11E-4BC1-865B-C8FC3594C451/NW_listB/des-chantiers-participatifs-pour-soigner-les-cabanes-de-montagne-1791746174.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.ledauphine.com/societe/2026/10/11/isere-des-chantiers-participatifs-pour-soigner-les-cabanes-de-montagne" target="_blank">Isère : cabanes de montagne restaurées</a>
+                    </h3>
+                    <p class="article-summary">Des chantiers participatifs redonnent vie aux cabanes de montagne en Isère.</p>
+                    <a href="https://www.ledauphine.com/societe/2026/10/11/isere-des-chantiers-participatifs-pour-soigner-les-cabanes-de-montagne" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" target="_blank">Vincent Luis, champion du monde IronMan</a>
+                    </h3>
+                    <p class="article-summary">Vincent Luis savoure son titre mondial, la plus belle course de sa carrière.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JoYGr2YGy3xokMpIdOrVud6bXr4=/336x76:2000x1012/800x0/images/Victor-Wembanyama-lors-de-son-dernier-match-avec-la-France-aux-JO-2024-a-Paris-2323413.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/je-les-entends-et-je-les-soutiens-wembanyama-prend-position-pour-le-mouvement-lyceen_AV-202610090142.html" target="_blank">Wembanyama soutient les lycéens</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama apporte son soutien au mouvement lycéen, un geste fort.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/je-les-entends-et-je-les-soutiens-wembanyama-prend-position-pour-le-mouvement-lyceen_AV-202610090142.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/0N4z4Ge1SQSGcXEcPQoyEiJeDCY=/0x0:2048x1152/800x0/images/Antoine-Dupont-qui-file-tout-droit-a-l-essai-lors-de-la-6e-journee-de-Top-14-entre-Toulouse-et-Bayonne-le-11-octobre-2026-2363314.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rugby/top-14/direct-toulouse-bayonne-suivez-le-choc-de-la-6e-journee-de-top-14-en-live_LS-202610110343.html" target="_blank">Top 14 : Toulouse l'emporte !</a>
+                    </h3>
+                    <p class="article-summary">Toulouse s'impose dans un match spectaculaire face à Bayonne en Top 14.</p>
+                    <a href="https://rmcsport.bfmtv.com/rugby/top-14/direct-toulouse-bayonne-suivez-le-choc-de-la-6e-journee-de-top-14-en-live_LS-202610110343.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  

@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Wilfried",
+  "global_summary": "L'actualité de ce jour est marquée par un mélange d'enjeux géopolitiques et de dynamiques nationales. Sur la scène mondiale, des accords diplomatiques importants côtoient les tensions persistantes, notamment l'accord Washington-Moscou sur le gazole et la situation préoccupante à Riyad après une attaque des Houthis. Le secteur automobile s'interroge aussi sur sa capacité à rivaliser face à la puissance chinoise, soulignant des défis économiques majeurs pour nos industries.\n\nEn France, le paysage politique est animé par les résultats de la primaire sociale-démocrate et des annonces de soutien aux communes rurales. Le monde de la tech promet des innovations avec la future keynote Apple et débat de la fiscalité des géants du numérique. Et sur le front sportif, la persévérance est récompensée avec le titre mondial de Vincent Luis en IronMan et les victoires en rugby, tandis que Victor Wembanyama s'illustre aussi en dehors des terrains par son engagement.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets ! Les températures sont idéales, oscillant entre 15.1°C et 21.4°C, parfaites pour une session énergisante. Malgré quelques averses possibles (18% de probabilité), ne laissez pas une petite goutte vous arrêter ; une légère pluie peut même être revigorante. L'indice UV est bas (2.4), pas besoin de protection solaire intensive. Je vous recommande de viser la fin d'après-midi, entre 17h00 et 19h00, pour profiter de la douceur avant le coucher du soleil et d'une lumière magnifique. C'est le moment idéal pour libérer votre esprit et booster votre corps ! Allez, on y va !",
+  "weather_string": "🌦️ Averses (15.1°C / 21.4°C)",
+  "weather_stats": {
+    "temp": "21.4°C",
+    "rain": "18%",
+    "uv": "2.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Washington et Moscou s'accordent sur le gazole",
+          "summary": "Un accord crucial a été trouvé, apaisant les tensions énergétiques mondiales.",
+          "url": "https://www.agefi.fr/news/economie-marches/washington-conclut-un-accord-avec-moscou-sur-le-gazole",
+          "image": "https://beymedias.brightspotcdn.com/7e/f0/bc2421bcae745ecab43d0bbf57fb/trump-web-bloomberg.jpg"
+        },
+        {
+          "title": "Attaque meurtrière des Houthis à Riyad",
+          "summary": "Une frappe de missile a causé 13 morts et plus de 300 blessés à l'aéroport.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261011-frappe-de-missile-des-houthis-contre-l-a%C3%A9roport-de-riyad-samedi-au-moins-12-morts-et-309-bless%C3%A9s",
+          "image": "https://s.france24.com/media/display/2666fa92-c5a0-11f1-821c-53993c5f1f18/w:1024/p:16x9/FR-20261011-201007-201149-CS.jpg"
+        },
+        {
+          "title": "Automobile : la Chine menace l'industrie mondiale",
+          "summary": "L'Europe s'inquiète de la concurrence chinoise, menaçant son secteur automobile.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/ils-pourraient-tuer-integralement-notre-industrie-peut-on-encore-rivaliser-avec-la-chine-dans-le-domaine-automobile_8233000.html",
+          "image": "https://www.franceinfo.fr/pictures/oSiB1CxfqCeV6TNgcl6Ty2UgNZc/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/11/6acbddb11d420471394127.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Glucksmann vainqueur, retrouve Jadot",
+          "summary": "Le leader social-démocrate Glucksmann célèbre sa victoire et renforce son alliance.",
+          "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-raphael-glucksmann-vainqueur-de-la-primaire-sociale-democrate-retrouve-l-un-de-ses-soutiens-yannick-jadot_VN-202610110371.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/vo64ODkogL1PuPCpZsOsVhdzu54=/0x0:1280x720/800x0/images/Raphael-Glucksmann-vainqueur-de-la-primaire-sociale-democrate-retrouve-l-un-de-ses-soutiens-Yannick-Jadot-2363321.jpg"
+        },
+        {
+          "title": "50 millions pour les communes rurales",
+          "summary": "Sébastien Lecornu promet un soutien financier majeur pour revitaliser les campagnes.",
+          "url": "https://www.capital.fr/economie-politique/sebastien-lecornu-annonce-une-dotation-de-50-millions-d-euros-pour-les-communes-rurales-1530896",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~10~11~92f45b20-c42c-43bd-89a9-49c264777d9c.png/1200x900/focus-point/827%2C481/sebastien-lecornu-annonce-une-dotation-de-50-millions-d-euros-pour-les-communes-rurales.jpg"
+        },
+        {
+          "title": "Harry et Meghan, retour public",
+          "summary": "Le couple royal effectue son premier engagement public commun, l'attention est maximale.",
+          "url": "https://www.europe1.fr/international/harry-et-meghan-vont-effectuer-leur-premier-engagement-public-commun-1139468",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/11/19/000_d2wf7ke_1_6acbca2b45e46.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Keynote Apple : ce qui nous attend",
+          "summary": "Apple prépare une keynote riche en nouveautés : Siri AI, HomePod et une surprise majeure.",
+          "url": "https://www.journaldugeek.com/2026/10/12/apple-tv-homepod-siri-ai-et-une-grosse-surprise-voici-tout-ce-quon-attend-de-la-keynote-apple-du-13-octobre-2026/",
+          "image": "https://www.journaldugeek.com/app/uploads/2023/01/apple-homepod-2.jpg"
+        },
+        {
+          "title": "Taxe GAFAM : 15% pour la France ?",
+          "summary": "La taxe GAFAM pourrait quadrupler, générant 4 milliards pour la dette française.",
+          "url": "https://www.journaldugeek.com/2026/10/12/la-taxe-gafam-pourrait-passer-de-3-a-15-4-milliards-pour-renflouer-la-dette-de-la-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Audition-parlementaire-des-geants-numeriques-1280x853.jpg"
+        },
+        {
+          "title": "Jaguar : une Type 01 esthétiquement réussie ?",
+          "summary": "La nouvelle Jaguar Type 01 surprend, suscitant des avis partagés sur son design.",
+          "url": "https://www.caradisiac.com/vu-le-passe-de-jaguar-la-nouvelle-type-01-est-peut-etre-une-reussite-esthetique-224498.htm",
+          "image": "https://images.caradisiac.com/logos/6/4/0/4/296404/S4-vu-le-passe-de-jaguar-la-nouvelle-type-01-est-peut-etre-une-reussite-esthetique-224498.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Burnham et Manchester City : transparence",
+          "summary": "Le Premier ministre britannique s'engage à clarifier ses liens avec le club de football.",
+          "url": "https://www.lefigaro.fr/sports/football/angleterre/andy-burnham-promet-de-publier-le-detail-de-ses-relations-avec-manchester-city-20261011",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/11/e06ade7351791992f7b4bc4b49e40d15245e4b0d619c5edf33e51fc44f3548c9.jpg"
+        },
+        {
+          "title": "Les astuces de chefs à Vougeot",
+          "summary": "Des chefs révèlent leurs secrets pour sublimer les saveurs en cuisine.",
+          "url": "https://www.bienpublic.com/economie/2026/10/11/les-petites-astuces-de-chefs-pour-sublimer-leur-recette",
+          "image": "https://cdn-s-www.bienpublic.com/images/4077A149-0CEC-4FCB-932B-477143E4B1BB/NW_listB/les-petites-astuces-de-chefs-pour-sublimer-leur-recette-1791746044.jpg"
+        },
+        {
+          "title": "Isère : cabanes de montagne restaurées",
+          "summary": "Des chantiers participatifs redonnent vie aux cabanes de montagne en Isère.",
+          "url": "https://www.ledauphine.com/societe/2026/10/11/isere-des-chantiers-participatifs-pour-soigner-les-cabanes-de-montagne",
+          "image": "https://cdn-s-www.ledauphine.com/images/09824617-A11E-4BC1-865B-C8FC3594C451/NW_listB/des-chantiers-participatifs-pour-soigner-les-cabanes-de-montagne-1791746174.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Vincent Luis, champion du monde IronMan",
+          "summary": "Vincent Luis savoure son titre mondial, la plus belle course de sa carrière.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "Wembanyama soutient les lycéens",
+          "summary": "Victor Wembanyama apporte son soutien au mouvement lycéen, un geste fort.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/je-les-entends-et-je-les-soutiens-wembanyama-prend-position-pour-le-mouvement-lyceen_AV-202610090142.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JoYGr2YGy3xokMpIdOrVud6bXr4=/336x76:2000x1012/800x0/images/Victor-Wembanyama-lors-de-son-dernier-match-avec-la-France-aux-JO-2024-a-Paris-2323413.jpg"
+        },
+        {
+          "title": "Top 14 : Toulouse l'emporte !",
+          "summary": "Toulouse s'impose dans un match spectaculaire face à Bayonne en Top 14.",
+          "url": "https://rmcsport.bfmtv.com/rugby/top-14/direct-toulouse-bayonne-suivez-le-choc-de-la-6e-journee-de-top-14-en-live_LS-202610110343.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/0N4z4Ge1SQSGcXEcPQoyEiJeDCY=/0x0:2048x1152/800x0/images/Antoine-Dupont-qui-file-tout-droit-a-l-essai-lors-de-la-6e-journee-de-Top-14-entre-Toulouse-et-Bayonne-le-11-octobre-2026-2363314.jpg"
+        }
+      ]
+    }
+  ]
+}
