@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Juste",
+  "global_summary": "L'actualité de ce jour est marquée par une effervescence sociale et des enjeux géopolitiques complexes. En France, un mouvement lycéen prend de l'ampleur, signalant une possible contestation sociale plus large, tandis qu'à l'international, l'alliance croissante entre les Houthis et l'Iran suscite des inquiétudes, et une fausse alerte aérienne a secoué l'Allemagne.\nParallèlement, le monde de la tech s'interroge sur l'avenir de l'intelligence artificielle, avec des appels à des normes de sécurité strictes, tandis que le sport célèbre des performances exceptionnelles et des records de ventes, rappelant la passion et les enjeux financiers qui l'animent. Le prix du gaz qui grimpe en novembre est un rappel des défis économiques qui touchent les foyers.",
+  "running_advice": "Aujourd'hui, Saint Juste nous donne l'occasion de bouger, et la météo est une excellente alliée pour une session de course motivante ! Avec des températures douces oscillant entre 17.7°C et 24.2°C, et une absence totale de pluie, les conditions sont idéales. Malgré la présence de brouillard, qui devrait se dissiper, le ciel est clément. L'indice UV à 4 signifie que le soleil, une fois qu'il percera, sera bien présent : n'oubliez surtout pas votre crème solaire et une casquette pour vous protéger. Je vous recommande de viser le créneau matinal, juste après 8h17, une fois le brouillard levé, pour profiter de la fraîcheur. Ou alors, optez pour la fin d'après-midi, avant 19h19, pour un run au coucher du soleil. Dans tous les cas, lacez vos baskets et allez chercher cette énergie ! Chaque pas compte pour votre bien-être.",
+  "weather_string": "🌫️ Brouillard (17.7°C / 24.2°C)",
+  "weather_stats": {
+    "temp": "24.2°C",
+    "rain": "0%",
+    "uv": "4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Alliance Houthis-Iran : menace régionale",
+          "summary": "L'alliance stratégique entre les Houthis et l'Iran renforce les tensions et inquiète l'Arabie saoudite au Moyen-Orient.",
+          "url": "https://www.lopinion.fr/international/pas-un-proxy-mais-un-partenaire-strategique-lalliance-entre-les-houthis-et-liran-qui-fait-trembler-larabie-saoudite",
+          "image": "https://beymedias.brightspotcdn.com/1c/e3/77f1dda14950990da82b1028c62a/sipa-ap23061559-000001.jpg"
+        },
+        {
+          "title": "Allemagne : Fausse alerte aérienne déclenche chasseurs",
+          "summary": "Une alerte \"détournement d'avion\" émise par erreur a provoqué le décollage d'avions militaires allemands pour escorte.",
+          "url": "https://www.20minutes.fr/monde/allemagne/4254070-20261013-allemagne-alerte-detournement-avion-emise-erreur-militaires-decollent-escorter",
+          "image": "https://img.20mn.fr/NFv1Lza2Rsm7DK8Izigy4yk/1200x768_25-10-2020-hanovre-basse-saxe-allemagne-boeing-737-de-la-compagnie-aerienne-corendon-airlines-00s201025d523caroex-jpg-version-du-modele-non-divulgation-de-propriete-no-c-caro-images-sorge-http-www-caro-images-com-info-caro-images-com-en-cas-d-utilisation-de-la-photo-a-quelque-fin-que-ce-soit-veuillez-contacter-l-agence-la-photo-est-soumise-a-des-redevances-z-carofotos-1755-4429-2103021035-credit-caro-ruffer-sipa-2103021040"
+        },
+        {
+          "title": "Ceuta, indissociable pour le roi d'Espagne",
+          "summary": "Le roi Felipe VI affirme l'indissociabilité de Ceuta avec l'Espagne lors de sa visite dans l'enclave.",
+          "url": "https://www.lalsace.fr/politique/2026/10/13/ceuta-est-indissociable-du-pays-assure-le-roi-felipe-vi-en-visite-dans-l-enclave",
+          "image": "https://cdn-s-www.lalsace.fr/images/A4DE6E18-3526-4FFD-AD41-E1C8E7444083/MF_contenu/ceuta-est-indissociable-du-pays-assure-le-roi-felipe-vi-en-visite-dans-l-enclave-1791914928.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Mouvement lycéen : la France en ébullition",
+          "summary": "Un mouvement lycéen s'amplifie en France, préfigurant une potentielle contestation sociale d'envergure nationale.",
+          "url": "https://www.courrierinternational.com/article/manifestations-mouvement-lyceen-vers-une-contestation-sociale-plus-ample-en-france_278395",
+          "image": "https://focus.courrierinternational.com/2026/10/13/0/0/5698/3799/644/0/60/0/a3a3f62_ftp-1-cikzvucaopcn-2026-10-13t163712z-971474586-rc2g2oaeruhr-rtrmadp-3-france-protest.JPG"
+        },
+        {
+          "title": "Lycées de l'Oise : un manque criant de moyens",
+          "summary": "Des lycées de l'Oise manifestent ensemble, dénonçant un manque sévère de matériel et de ressources.",
+          "url": "https://actu.fr/hauts-de-france/nogent-sur-oise_60463/on-manque-de-chaises-de-tables-de-tout-trois-lycees-de-l-oise-font-manif-commune_64919624.html",
+          "image": "https://static.actu.fr/uploads/2026/10/img-9471-1024x557.jpg"
+        },
+        {
+          "title": "Salins-les-Bains : France Services au cœur de ville",
+          "summary": "La Maison France Services de Salins-les-Bains déménage en centre-ville, facilitant l'accès aux services.",
+          "url": "https://actu.fr/bourgogne-franche-comte/salins-les-bains_39500/salins-les-bains-la-maison-france-services-demenage-au-centre-ville-quest-ce-que-cela-change_64920624.html",
+          "image": "https://static.actu.fr/uploads/2026/10/1f634601a8ca603734601a8cad6734v-1024x557.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "IA : Microsoft appelle à des normes strictes",
+          "summary": "Le président de Microsoft plaide pour des normes de sécurité \"réelles et effectives\" face aux risques de l'IA.",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/le-president-de-microsoft-appelle-a-instaurer-des-normes-de-securite-reelles-et-effectives-pour-contenir-les-risques-lies-a-l-ia_8236012.html",
+          "image": "https://www.franceinfo.fr/pictures/GWotNljG1Yy9szPEIEIf19U-g5w/0x0:1024x576/432x243/filters:format(jpg)/2026/10/13/6ace7051ca76b409559336.jpg"
+        },
+        {
+          "title": "NVidia investit Doctolib pour l'IA santé",
+          "summary": "Le géant NVidia soutient Doctolib pour accélérer le développement de l'IA dans le secteur de la santé.",
+          "url": "https://www.larevuedudigital.com/le-geant-americain-nvidia-investit-dans-doctolib-qui-veut-accelerer-dans-lia-de-sante/",
+          "image": "https://www.larevuedudigital.com/wp-content/uploads/2019/01/Doctolib-BF2-.jpg"
+        },
+        {
+          "title": "Narnia : La bande-annonce enflamme le web",
+          "summary": "La bande-annonce très attendue de Narnia captive les fans, entre émerveillement et impatience.",
+          "url": "https://www.journaldugeek.com/2026/10/13/apres-harry-potter-netflix-peut-il-faire-de-narnia-la-nouvelle-grande-saga-de-fantasy/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/narnia-netflix-bande-annonce-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Monaco : la philanthropie au cœur des réflexions",
+          "summary": "Le couple princier de Monaco lance une réflexion d'envergure sur l'avenir et l'impact de la philanthropie.",
+          "url": "https://www.nicematin.com/economie/a-monaco-le-couple-princier-ouvre-une-reflexion-sur-la-philanthropie-10740105",
+          "image": "https://assets.nicematin.com/articles/10/74/01/05/OG-10740105-1200-800-aa3b1ab_upload-1-rjwjhyc3u5o9-ma-the-monaco-summit-on-philanthropy-fpaii-2026-34.jpg"
+        },
+        {
+          "title": "Construction bois : un prix pour la Savoie",
+          "summary": "Des acteurs savoyards récompensés par le Prix de la construction bois, soulignant l'innovation locale.",
+          "url": "https://www.ledauphine.com/economie/2026/10/13/ils-ont-recu-le-prix-de-la-construction-bois-de-savoie",
+          "image": "https://cdn-s-www.ledauphine.com/images/3576AEE2-15FD-47B3-B742-08D26154DEEA/NW_listB/ils-ont-recu-le-prix-de-la-construction-bois-de-savoie-1791914763.jpg"
+        },
+        {
+          "title": "Gaz : La facture grimpe, agissez !",
+          "summary": "Le prix du chauffage au gaz augmente en novembre; bloquer son prix maintenant s'avère stratégique.",
+          "url": "https://www.journaldugeek.com/2026/10/14/chauffage-au-gaz-la-facture-grimpe-encore-en-novembre-sauf-pour-ceux-qui-bloquent-leur-prix-maintenant/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/04/gaz-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Jordan : Un maillot des Bulls à prix record",
+          "summary": "Un maillot de Michael Jordan des Bulls a été vendu pour la somme historique de 12,5 millions d'euros.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/12-5-millions-de-dollars-pour-un-maillot-de-the-last-dance-une-tunique-des-bulles-portee-par-par-michael-jordan-vendue-pour-une-somme-record_AV-202610130376.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DAjRjBWcYfSKe9Dk-e4NQiEUgIc=/0x23:1200x698/800x0/images/-864620.jpg"
+        },
+        {
+          "title": "Triathlon : Vincent Luis, champion du monde Ironman",
+          "summary": "Vincent Luis célèbre son titre de champion du monde IronMan, qualifiant sa course de \"plus belle carrière\".",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "Tony Estanguet : des JO 2024 au luxe",
+          "summary": "Le patron de Paris 2024, Tony Estanguet, se tourne vers le secteur du luxe, après son rôle olympique.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/patron-de-l-organisation-des-jo-2024-de-paris-tony-estanguet-trouve-un-nouveau-poste_AV-202610120479.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/K-BZNTw76TH14Z0hwRFH-E6qLkU=/0x49:2048x1201/800x0/images/Tony-Estanguet-le-7-novembre-2024-1983045.jpg"
+        }
+      ]
+    }
+  ]
+}
