@@ -1,0 +1,115 @@
+{
+  "ephemeride": "Sainte Thérèse d'Avila",
+  "global_summary": "L'actualité mondiale est marquée par des incertitudes géopolitiques, avec la question du soutien américain à l'Ukraine qui refait surface, tandis que l'Albanie est secouée par de nouvelles manifestations. Ces tensions soulignent un contexte international en constante évolution. Sur le front intérieur, la France voit émerger des initiatives locales positives, comme la lutte contre les mégots, aux côtés de mobilisations sociales à l'échelle nationale. Le secteur technologique n'est pas en reste, entre poursuites judiciaires contre les géants de l'IA et innovations prometteuses. Enfin, le sport nous offre de belles performances avec la première victoire de Wembanyama et un titre mondial en triathlon, ainsi que des nouvelles sur les figures emblématiques.",
+  "running_advice": "Félicitations, athlète ! Aujourd'hui est une journée absolument splendide pour chausser vos baskets et vous dépasser. Avec un ciel peu nuageux, des températures idéales variant de 15.5°C à 25.8°C et zéro risque de pluie, toutes les conditions sont réunies pour un run parfait. Pour optimiser votre effort et profiter d'une lumière douce, je vous recommande de courir tôt le matin, juste après le lever du soleil vers 08h18, ou en fin d'après-midi, avant le coucher à 19h18. L'indice UV étant de 4, n'oubliez pas votre protection solaire et une casquette ! À vous de jouer, donnez tout !",
+  "weather_string": "🌤️ Peu nuageux (15.5°C / 25.8°C)",
+  "weather_stats": {
+    "temp": "25.8°C",
+    "rain": "0%",
+    "uv": "4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "L'Ukraine, lâchée par les États-Unis ?",
+          "summary": "Des signaux inquiétants et des coupes budgétaires interrogent le maintien du soutien crucial américain à Kiev.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/renseignements-reseau-satellitaire-starlink-l-ukraine-est-elle-lachee-par-les-etats-unis_8237704.html",
+          "image": "https://www.franceinfo.fr/pictures/QBto0nz_YbpTT6NGZW9_nBw47ZI/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/14/6acfd2595e121404825136.jpg"
+        },
+        {
+          "title": "Albanie: Second jour de manifestations violentes",
+          "summary": "La capitale Tirana est le théâtre de nouveaux affrontements entre manifestants et forces de l'ordre, dénonçant le pouvoir.",
+          "url": "https://www.lemonde.fr/international/article/2026/10/14/en-albanie-deuxieme-jour-de-manifestations-contre-le-pouvoir-de-nouveaux-heurts-avec-la-police-a-tirana_6793793_3210.html",
+          "image": "https://img.lemde.fr/2026/10/14/271/0/5155/2577/644/322/60/0/ce9dd00_ftp-1-7ief10ozs1lm-5348636-01-06.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Chasse aux mégots au Parc d’Orient",
+          "summary": "Une initiative environnementale est lancée pour nettoyer la Forêt d’Orient de ces déchets polluants.",
+          "url": "http://www.lest-eclair.fr/id833997/article/2026-10-14/la-chasse-aux-megots-est-ouverte-sur-le-territoire-du-parc-naturel-regional-de",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/10/14/node_833997/15533553/public/2026/10/14/106464373.jpeg?itok=kgIbCkqG1792005585"
+        },
+        {
+          "title": "Inard Bois: 50 ans d'héritage familial",
+          "summary": "Une entreprise familiale de Villemoustaussou célèbre un demi-siècle d'activité et de transmission.",
+          "url": "https://www.lindependant.fr/2026/10/14/inard-bois-a-villemoustaussou-50-ans-dhistoire-familiale-13602354.php",
+          "image": "https://images.lindependant.fr/api/v1/images/view/6acfd6af9e6c71dfe3028db0/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Mobilisation sociale prévue samedi",
+          "summary": "Lycéens, Gilets jaunes et syndicats convergent pour une journée de manifestations nationales.",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/lyceens-gilets-jaunes-syndicats-qui-ira-dans-la-rue-samedi-17-octobre_8237680.html",
+          "image": "https://www.franceinfo.fr/pictures/2hCqU3YejPnPh4FLw3CFZI6Twu8/0x0:1920x1080/432x243/filters:format(jpg)/2026/10/14/6acfcdbd417ce396637377.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "OpenAI attaqué en justice par 8 États",
+          "summary": "Plusieurs États américains s'unissent pour poursuivre le géant de l'IA, soulevant des questions légales majeures.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/huit-etats-americains-annocent-poursuivre-openai-en-justice-20261014",
+          "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/10/14/95044b4867ced6b37b357c4e95b4ad730e0462568905effa7283673972ec37e7.jpg"
+        },
+        {
+          "title": "OneDrive réduit son stockage sans baisse de prix",
+          "summary": "Microsoft rogne sur le stockage partagé des abonnements OneDrive, décevant les utilisateurs fidèles.",
+          "url": "https://www.journaldugeek.com/2026/10/15/microsoft-diminue-le-stockage-partage-des-abonnements-onedrive-sans-la-moindre-reduction-de-prix/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/appshunter-io-aFDdAddufcY-unsplash-1280x853.jpg"
+        },
+        {
+          "title": "Alibaba surpasse Meta en lunettes connectées",
+          "summary": "Les nouvelles lunettes Qwen d'Alibaba promettent une avancée technologique surpassant les innovations de Meta.",
+          "url": "https://www.journaldugeek.com/2026/10/15/avec-ses-nouvelles-lunettes-qwen-alibaba-fait-mieux-que-meta/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/alibaba-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Vol spectaculaire de vélo à Bordeaux",
+          "summary": "Un individu audacieux a dérobé un vélo en plein jour à Bordeaux, utilisant une disqueuse.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-un-voleur-derobe-un-velo-a-l-aide-d-une-disqueuse-31074557.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama mène les Spurs à la victoire",
+          "summary": "Le jeune Français brille en pré-saison, menant son équipe des Spurs à un premier succès éclatant.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-brille-pour-offrir-une-premiere-victoire-aux-spurs-avant-le-debut-de-saison_AV-202610150192.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg"
+        },
+        {
+          "title": "Vincent Luis, champion du monde IronMan",
+          "summary": "Vincent Luis, ému, décrit sa victoire comme la plus belle course de son impressionnante carrière.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "Tony Estanguet se réoriente dans le luxe",
+          "summary": "L'ancien patron des JO de Paris 2024 entame une nouvelle carrière prometteuse dans le secteur du luxe.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/patron-de-l-organisation-des-jo-2024-de-paris-tony-estanguet-trouve-un-nouveau-poste_AV-202610120479.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/K-BZNTw76TH14Z0hwRFH-E6qLkU=/0x49:2048x1201/800x0/images/Tony-Estanguet-le-7-novembre-2024-1983045.jpg"
+        }
+      ]
+    }
+  ]
+}
