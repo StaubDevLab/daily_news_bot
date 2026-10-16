@@ -1,0 +1,435 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 16/10/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">vendredi 16 octobre • Sainte Edwige</p>
+            <div class="weather-badge">
+              🌫️ Brouillard (15.6°C / 21.3°C) &nbsp;|&nbsp; ☀️ UV: 3.8 &nbsp;|&nbsp; 💧 18%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>La scène internationale reste polarisée, avec des manœuvres diplomatiques intenses autour de la guerre en Ukraine et des rapprochements stratégiques en Asie. Pendant ce temps, la France fait face à des défis sociétaux majeurs, entre la lutte contre le narcotrafic et l'expression d'une colère sociale latente, sans oublier des incidents locaux qui ponctuent le quotidien.
+
+Mais l'actualité nous offre aussi son lot d'innovations technologiques, de découvertes insolites et, sur le front sportif, des performances inspirantes. De la NBA aux championnats du monde de triathlon, l'esprit de dépassement et le talent sont à l'honneur, nous rappelant que l'effort paie toujours. C'est un mélange dynamique d'enjeux mondiaux, de réalités locales et de prouesses humaines.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Prépare-toi à un run énergisant, champion ! Aujourd'hui, la météo est ta partenaire idéale pour une session vivifiante. Avec des températures allant de 15.6°C à 21.3°C, l'air sera doux et parfait pour transpirer sans surchauffer. Le ciel est brumeux (🌫️), ce qui peut offrir une ambiance mystique à ton parcours, mais attention à la visibilité ! Le risque de pluie est faible (18%), alors tu devrais rester au sec. L'heure idéale ? Vise le milieu de journée, entre 11h et 15h, pour profiter de la meilleure luminosité et dissiper la brume matinale, tout en évitant le soleil couchant (19h16). Avec un indice UV de 3.8, n'oublie pas ta crème solaire et des lunettes de soleil pour protéger tes yeux. Alors, lace tes baskets et va chercher ta dose d'énergie, car chaque pas compte vers tes objectifs !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/e2b6brdqTfDhXS_-JDO_akzTBp8=/0x0:1280x720/800x0/images/La-Coree-du-Nord-inaugure-un-pont-avec-la-Chine-2366250.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/international/asie/chine/video-la-coree-du-nord-inaugure-un-pont-avec-la-chine_VN-202610150898.html" target="_blank">Pont Chine-Corée du Nord : Nouvelle ère ?</a>
+                    </h3>
+                    <p class="article-summary">Pyongyang inaugure un nouveau pont routier avec la Chine, signe de rapprochement économique et diplomatique croissant.</p>
+                    <a href="https://www.bfmtv.com/international/asie/chine/video-la-coree-du-nord-inaugure-un-pont-avec-la-chine_VN-202610150898.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.lemde.fr/2026/10/15/282/0/5310/2655/644/322/60/0/638301d_ftp-1-jlebdohiey8x-cc73a3f0b9ea4c34b782ad009d3cda37-0-f1bf8af6a94342c0bcd8cc56cce1db04.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lemonde.fr/international/live/2026/10/15/en-direct-guerre-en-ukraine-le-ministre-de-la-defense-britannique-plaide-la-cause-de-kiev-aupres-de-washington_6791198_3210.html" target="_blank">Ukraine : Londres mobilise Washington</a>
+                    </h3>
+                    <p class="article-summary">Le ministre de la Défense britannique est à Washington pour renforcer le soutien crucial à Kiev face à la guerre.</p>
+                    <a href="https://www.lemonde.fr/international/live/2026/10/15/en-direct-guerre-en-ukraine-le-ministre-de-la-defense-britannique-plaide-la-cause-de-kiev-aupres-de-washington_6791198_3210.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://i.f1g.fr/media/cms/3000x2001_crop/2026/10/15/69713a544b71590cb4eacdba06a732ae4ebf5f80b30a8f21e6f063772970b399.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lefigaro.fr/conjoncture/les-pays-du-g7-dont-les-etats-unis-reaffirment-leur-soutien-a-l-ukraine-20261015" target="_blank">G7 réaffirme son soutien à l'Ukraine</a>
+                    </h3>
+                    <p class="article-summary">Les puissances du G7 réitèrent leur engagement unanime à soutenir l'Ukraine, renforçant le front international.</p>
+                    <a href="https://www.lefigaro.fr/conjoncture/les-pays-du-g7-dont-les-etats-unis-reaffirment-leur-soutien-a-l-ukraine-20261015" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/faits-divers/narcotrafic/narcotrafic-a-marseille-pourquoi-les-reglements-de-comptes-sont-en-forte-baisse-31094129.php" target="_blank">Marseille : Chute des règlements de comptes</a>
+                    </h3>
+                    <p class="article-summary">Le narcotrafic à Marseille connaît une baisse notable des violences, analysant les raisons de cette évolution.</p>
+                    <a href="https://www.sudouest.fr/faits-divers/narcotrafic/narcotrafic-a-marseille-pourquoi-les-reglements-de-comptes-sont-en-forte-baisse-31094129.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.dna.fr/images/74863729-C9DE-403D-B7AB-5F6354059880/NW_listB/enquete-ouverte-apres-le-deces-d-un-chauffeur-polonais-sur-le-site-de-stellantis-1792091819.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.dna.fr/faits-divers-justice/2026/10/15/enquete-ouverte-apres-le-deces-d-un-chauffeur-polonais-sur-le-site-de-stellantis" target="_blank">Stellantis Mulhouse : Décès, enquête ouverte</a>
+                    </h3>
+                    <p class="article-summary">Une enquête est ouverte à Mulhouse après le décès d'un chauffeur polonais sur le site du géant Stellantis.</p>
+                    <a href="https://www.dna.fr/faits-divers-justice/2026/10/15/enquete-ouverte-apres-le-deces-d-un-chauffeur-polonais-sur-le-site-de-stellantis" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/H7vQzsQjojopnuv8E5A6Gd31b7M=/0x0:1280x720/800x0/images/FORUM-BFMTV-Colere-sociale-La-meilleure-des-manifestations-c-est-2027-par-le-vote-estime-Farid-enseignant-et-responsable-associatif-dans-le-Nord-2366253.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-colere-sociale-la-meilleure-des-manifestations-c-est-2027-par-le-vote-estime-farid-enseignant-et-responsable-associatif-dans-le-nord_VN-202610150905.html" target="_blank">Colère sociale : Le vote, unique solution ?</a>
+                    </h3>
+                    <p class="article-summary">Débat sur la colère sociale en France, un enseignant du Nord prône le vote en 2027 comme solution.</p>
+                    <a href="https://www.bfmtv.com/societe/manifestations/video-forum-bfmtv-colere-sociale-la-meilleure-des-manifestations-c-est-2027-par-le-vote-estime-farid-enseignant-et-responsable-associatif-dans-le-nord_VN-202610150905.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📱 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/hur9xldxiaapex3.jpeg?resize=1600,900&key=9bcd77e0" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.frandroid.com/marques/meta/3287725_muse-spark-open-le-nouveau-modele-ouvert-de-meta-tourne-en-local-sur-deux-mac-studio-m5-ultra" target="_blank">Meta lance Muse Spark Open IA</a>
+                    </h3>
+                    <p class="article-summary">Meta dévoile son nouveau modèle d'IA ouvert, Muse Spark, optimisé pour les Mac Studio M5 Ultra.</p>
+                    <a href="https://www.frandroid.com/marques/meta/3287725_muse-spark-open-le-nouveau-modele-ouvert-de-meta-tourne-en-local-sur-deux-mac-studio-m5-ultra" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn.lesnumeriques.com/optim/news/26/263404/6adeffb2-il-cherchait-simplement-un-endroit-ou-camper-sur-des-cartes-satellites-et-decouvre-par-hasard-un-cratere-vieux-de-390-millions-d-annees__800_800__735-180-2463-1908.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lesnumeriques.com/science-espace/il-cherchait-simplement-un-endroit-ou-camper-sur-des-cartes-satellites-et-decouvre-par-hasard-un-cratere-vieux-de-390-millions-d-annees-n263404.html" target="_blank">Camping : Un cratère antique découvert</a>
+                    </h3>
+                    <p class="article-summary">Un randonneur découvre un cratère de 390 millions d'années en cherchant un lieu de camping sur des cartes satellites.</p>
+                    <a href="https://www.lesnumeriques.com/science-espace/il-cherchait-simplement-un-endroit-ou-camper-sur-des-cartes-satellites-et-decouvre-par-hasard-un-cratere-vieux-de-390-millions-d-annees-n263404.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.generation-nt.com/bein-sports_04B002A301731700.webp" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.generation-nt.com/actualites/bein-sports-vpn-justice-streaming-illegal-echec-2082901" target="_blank">beIN Sports perd contre les VPN</a>
+                    </h3>
+                    <p class="article-summary">Revers judiciaire majeur pour beIN Sports face aux fournisseurs de VPN, impactant la lutte contre le streaming illégal.</p>
+                    <a href="https://www.generation-nt.com/actualites/bein-sports-vpn-justice-streaming-illegal-echec-2082901" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💰 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://footamateur.ouest-france.fr/wp-content/uploads/2026/10/Minibus-1171x720.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://footamateur.ouest-france.fr/des-aides-carburant-de-100-a-500-euros-pour-les-clubs-amateurs/" target="_blank">Clubs amateurs : Aides carburant !</a>
+                    </h3>
+                    <p class="article-summary">Les clubs sportifs amateurs bénéficieront d'aides carburant de 100 à 500 euros pour soutenir leurs activités.</p>
+                    <a href="https://footamateur.ouest-france.fr/des-aides-carburant-de-100-a-500-euros-pour-les-clubs-amateurs/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏞️ Gironde</div>
+              
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/faits-divers/incendies/sud-gironde-une-boulangerie-entierement-detruite-dans-un-incendie-31094093.php" target="_blank">Sud-Gironde : Boulangerie détruite</a>
+                    </h3>
+                    <p class="article-summary">Un incendie a entièrement détruit une boulangerie en Sud-Gironde, laissant un commerce en ruines.</p>
+                    <a href="https://www.sudouest.fr/faits-divers/incendies/sud-gironde-une-boulangerie-entierement-detruite-dans-un-incendie-31094093.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/faits-divers/bassin-d-arcachon-une-infirmiere-liberale-soupconnee-d-avoir-escroque-plus-de-900-000-euros-a-l-assurance-maladie-31088879.php" target="_blank">Bassin d’Arcachon : Infirmière escroc ?</a>
+                    </h3>
+                    <p class="article-summary">Une infirmière libérale du Bassin d’Arcachon est soupçonnée d'avoir escroqué 900 000 euros à l'Assurance maladie.</p>
+                    <a href="https://www.sudouest.fr/faits-divers/bassin-d-arcachon-une-infirmiere-liberale-soupconnee-d-avoir-escroque-plus-de-900-000-euros-a-l-assurance-maladie-31088879.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🎮 Culture & Geek</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/fourth-wing-casting-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/16/fourth-wing-le-casting-de-la-serie-prime-video-vient-de-fuiter/" target="_blank">Fourth Wing : Le casting fuite</a>
+                    </h3>
+                    <p class="article-summary">Le casting tant attendu de la série Prime Video "Fourth Wing" aurait fuité, créant le buzz.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/16/fourth-wing-le-casting-de-la-serie-prime-video-vient-de-fuiter/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/LoL-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/16/league-of-legends-classic-six-mois-de-nostalgie-et-puis-sen-va/" target="_blank">LoL Classic : Fin de la nostalgie</a>
+                    </h3>
+                    <p class="article-summary">Après six mois, l'aventure League of Legends Classic se termine, laissant derrière elle une douce nostalgie.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/16/league-of-legends-classic-six-mois-de-nostalgie-et-puis-sen-va/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/Tesla-Roadster-volante-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/16/elon-musk-devoile-la-tesla-roadster-sa-premiere-voiture-volante/" target="_blank">Elon Musk : La Tesla volante !</a>
+                    </h3>
+                    <p class="article-summary">Elon Musk dévoile les premières images impressionnantes de la Tesla Roadster, annoncée comme sa première voiture volante.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/16/elon-musk-devoile-la-tesla-roadster-sa-premiere-voiture-volante/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-brille-pour-offrir-une-premiere-victoire-aux-spurs-avant-le-debut-de-saison_AV-202610150192.html" target="_blank">Wembanyama mène les Spurs à la victoire</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama brille et offre aux Spurs leur première victoire en pré-saison NBA, avant le démarrage.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-brille-pour-offrir-une-premiere-victoire-aux-spurs-avant-le-debut-de-saison_AV-202610150192.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" target="_blank">Vincent Luis, champion du monde Ironman</a>
+                    </h3>
+                    <p class="article-summary">Vincent Luis savoure son titre de champion du monde Ironman, qualifiant cette course de "plus belle carrière".</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/TMcwuRSIjpCgbJTL49wjOH9uWGE=/0x59:2048x1211/800x0/images/Louis-Bielle-Biarrey-avec-le-maillot-de-l-UBB-le-5-septembre-2026-2343051.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rugby/coupe-d-europe/champions-cup-les-quatre-joueurs-de-l-ubb-dont-bielle-biarrey-ont-pu-quitter-l-aeroport-de-bristol_AD-202610150993.html" target="_blank">UBB : Les joueurs sont sortis de Bristol</a>
+                    </h3>
+                    <p class="article-summary">Soulagement pour l'UBB : les quatre joueurs, dont Bielle-Biarrey, ont pu quitter l'aéroport de Bristol.</p>
+                    <a href="https://rmcsport.bfmtv.com/rugby/coupe-d-europe/champions-cup-les-quatre-joueurs-de-l-ubb-dont-bielle-biarrey-ont-pu-quitter-l-aeroport-de-bristol_AD-202610150993.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
