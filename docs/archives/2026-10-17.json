@@ -1,0 +1,178 @@
+{
+  "ephemeride": "Saint Baudoin",
+  "global_summary": "Le paysage médiatique de ce jour est teinté d'enjeux mondiaux complexes et de moments inspirants. La lutte contre la désinformation, surnommée « infodémie », s'intensifie, tandis que des bouleversements politiques aux États-Unis et des préoccupations pour les droits humains en Turquie captent l'attention. L'Europe, quant à elle, navigue entre discussions budgétaires cruciales et défis migratoires. \n\nSur le plan national, la vitalité de l'innovation technologique côtoie des drames locaux, nous rappelant la fragilité de la vie. Le monde du sport, lui, brille avec des performances exceptionnelles de nos athlètes, de Wembanyama aux sommets de la NBA à Vincent Luis sacré champion du monde IronMan, malgré une triste nouvelle dans le rugby. Ces actualités nous incitent à rester connectés et à puiser l'énergie nécessaire pour agir, tant collectivement qu'individuellement.",
+  "running_advice": "Amis sportifs, coach vous parle ! Aujourd'hui, la météo nous offre une fenêtre d'opportunité fantastique pour chausser vos baskets. Avec des températures idéales oscillant entre 11.5°C et 15.7°C, l'air sera frais et vivifiant, parfait pour une session dynamique. Le léger brouillard matinal se lèvera, et avec seulement 22% de risque de pluie, vous pouvez courir l'esprit tranquille. L'heure idéale ? Je vous conseille de viser la mi-journée, entre 10h00 et 15h00, pour profiter de l'éclaircissement et des températures les plus agréables. Même avec un indice UV modéré de 3.05, n'oubliez pas d'appliquer une crème solaire légère et de rester hydraté. C'est le moment de booster votre énergie et d'illuminer votre journée ! Allez, on y va !",
+  "weather_string": "🌫️ Brouillard (11.5°C / 15.7°C)",
+  "weather_stats": {
+    "temp": "15.7°C",
+    "rain": "22%",
+    "uv": "3.05"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Infodémie : Combattre la propagation virale de la désinformation",
+          "summary": "Une analyse cruciale sur les stratégies pour lutter contre la désinformation qui contamine nos esprits.",
+          "url": "https://www.rfi.fr/fr/podcasts/les-dessous-de-l-infox/20261016-infod%C3%A9mie-quand-la-d%C3%A9sinformation-se-propage-tel-un-virus-comment-r%C3%A9agir",
+          "image": "https://s.rfi.fr/media/display/e7e2d79c-c95e-11f1-a3a7-d1d2c32ebb87/w:1024/p:16x9/geralt-corona-image-virus.jpg"
+        },
+        {
+          "title": "États-Unis : Trump écarte sa Press Secretary, Katie Zacharia",
+          "summary": "Coup de théâtre à Washington : la \"Press Secretary\" de Trump est remerciée, signe de tensions politiques.",
+          "url": "https://www.france24.com/fr/am%C3%A9riques/20261016-%C3%A9tats-unis-la-press-secretary-katie-zacharia-pouss%C3%A9e-par-donald-trump-vers-la-sortie",
+          "image": "https://s.france24.com/media/display/3f1ce580-c97c-11f1-9592-6313a763b466/w:1024/p:16x9/2783a54c8de53a27714fa1c3454e9a20c56c0c17.jpg"
+        },
+        {
+          "title": "Turquie : La communauté LGBTQ+ prise pour cible",
+          "summary": "Les droits humains reculent en Turquie avec une répression accrue contre les personnes homosexuelles.",
+          "url": "https://www.franceinfo.fr/monde/turquie/les-homosexuels-cibles-du-pouvoir-en-turquie_8240800.html",
+          "image": "https://www.franceinfo.fr/pictures/magXxfBBJANjMP_V1p3LPrWgQuA/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad2553562d85938263875.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Paris : Les sorties incontournables de la semaine",
+          "summary": "Découvrez le guide complet des activités et événements à ne pas manquer dans la capitale.",
+          "url": "https://www.sortiraparis.com/actualites/a-paris/guides/53380-que-faire-cette-semaine-a-paris-du-19-au-25-octobre-2026-les-sorties-incontournables",
+          "image": "https://cdn.sortiraparis.com/images/800/103617/962117-automne-au-potager-du-roi-citrouilles-halloween.jpg"
+        },
+        {
+          "title": "Tragédie à Carpentras : Témoignage après un incendie mortel",
+          "summary": "L'émouvant portrait de Cynthya, victime d'un incendie tragique à Carpentras, révélant sa force et son amour.",
+          "url": "https://www.ledauphine.com/faits-divers-justice/2026/10/16/incendie-qui-a-tue-une-mere-et-sa-fille-a-carpentras-cynthya-etait-une-femme-forte-et-aimante",
+          "image": "https://cdn-s-www.ledauphine.com/images/59ECA624-3198-4B36-872C-06DBAE24E053/NW_listB/incendie-qui-a-tue-une-mere-et-sa-fille-a-carpentras-cynthya-etait-une-femme-forte-et-aimante-1792170376.jpg"
+        },
+        {
+          "title": "Tours-nord-est : L'impatience grandit face aux projets stagnants",
+          "summary": "Les résidents de Tours-nord-est expriment leur lassitude face à l'immobilisme des projets locaux.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/les-projets-stagnent-les-habitants-du-secteur-de-tours-nord-est-s-impatientent-1792173900",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1792173893/6ad2674a97965009278b457f"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Californie : 12 000 véhicules électriques vendus avec remises",
+          "summary": "Un programme de remises en Californie dope l'adoption des véhicules électriques, un succès pour la mobilité verte.",
+          "url": "https://fr.investing.com/news/stock-market-news/la-californie-enregistre-12000-achats-de-vehicules-electriques-grace-a-un-nouveau-programme-de-remises-93CH-3639622",
+          "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
+        },
+        {
+          "title": "Satellites-miroirs : Le ciel bientôt obstrué par Reflect Orbital",
+          "summary": "Les scientifiques alertent sur l'arrivée de satellites-miroirs, menaçant l'observation astronomique et la lumière nocturne.",
+          "url": "https://www.presse-citron.net/le-cauchemar-des-scientifiques-se-materialise-reflect-orbital-donne-un-apercu-de-des-satellites-miroirs-qui-recouvriront-bientot-le-ciel/",
+          "image": "https://www.presse-citron.net/app/uploads/2026/10/reflect-orbital-880x587.jpg"
+        },
+        {
+          "title": "Voiture occasion : Vos droits après 3 mois de garantie",
+          "summary": "La garantie légale protège l'acheteur de voiture d'occasion même après l'expiration de la garantie commerciale.",
+          "url": "https://www.autoplus.fr/pratique/voiture-doccasion-garantie-trois-mois-vos-droits-ne-disparaissent-pas-forcement-au-quatrieme-mois-1471879.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2025/01/7791_435747_k6_k5_1046270.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Apple : Nouveaux produits pour la maison dévoilés",
+          "summary": "Apple lève le voile sur sa nouvelle gamme de produits connectés, révolutionnant nos foyers.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/de-quoi-j-me-mail/video-de-quoi-j-me-mail-apple-devoile-ses-nouveaux-produits-pour-la-maison-1-2-16-10_VN-202610160784.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/6Xt4MFegDaZDpHqbNmDvLyXxDss=/0x0:1280x720/800x0/images/De-Quoi-J-me-Mail-Apple-devoile-ses-nouveaux-produits-pour-la-maison-1-2-16-10-2366915.jpg"
+        },
+        {
+          "title": "Sommet UE : Cinq points clés pour l'avenir européen",
+          "summary": "L'UE débat budget, Ukraine et migration, des enjeux cruciaux qui façonnent l'avenir du continent.",
+          "url": "https://fr.euronews.com/2026/10/16/budget-ukraine-migration-cinq-enseignements-du-sommet-des-dirigeants-de-lue",
+          "image": "https://images.euronews.com/articles/stories/09/95/48/69/1440x810_cmsv2_79770b0c-0e82-525c-814d-3cf5d895e4e7-9954869.jpg"
+        },
+        {
+          "title": "Relève des compteurs d'eau : Une étape annuelle essentielle",
+          "summary": "La campagne de relève des compteurs d'eau est lancée dans plusieurs communes du 26 au 30 octobre.",
+          "url": "https://www.bienpublic.com/economie/2026/10/16/la-releve-annuelle-des-compteurs-d-eau-se-deroule-du-26-au-30-octobre",
+          "image": "https://cdn-s-www.bienpublic.com/images/21BC5681-CD2B-4851-91EA-3A3F41CC856F/NW_listB/la-releve-annuelle-des-compteurs-d-eau-se-deroule-du-26-au-30-octobre-1792173790.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Gironde : Tragédie canine, un teckel attaqué à Pau",
+          "summary": "Une meute de bull-terriers, déjà impliquée dans un drame, a mortellement attaqué un teckel à Pau.",
+          "url": "https://www.sudouest.fr/societe/animaux/info-sud-ouest-teckel-mortellement-attaque-au-bois-de-pau-la-meute-de-bull-terriers-avait-deja-tue-un-chien-en-2025-30823534.php"
+        },
+        {
+          "title": "Marmande : Extorsion, le suspect placé en détention",
+          "summary": "Un individu mis en cause dans une tentative d'extorsion à Marmande reste en prison avant son jugement.",
+          "url": "https://www.sudouest.fr/faits-divers/tentative-d-extorsion-a-marmande-le-mis-en-cause-attendra-son-proces-en-prison-31103154.php"
+        },
+        {
+          "title": "Antilles : Saisie record de drogue par la Marine française",
+          "summary": "La Marine française réalise une saisie colossale de plus de 8,6 tonnes de drogue aux Antilles.",
+          "url": "https://www.sudouest.fr/faits-divers/trafic-de-drogue-plus-de-8-6-tonnes-de-cocaine-et-de-marijuana-saisies-par-la-marine-francaise-aux-antilles-31106387.php"
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "2030 : La seconde va être redéfinie, changement majeur",
+          "summary": "Un bouleversement historique attend la mesure du temps d'ici 2030, impactant notre quotidien.",
+          "url": "https://www.journaldugeek.com/2026/10/16/dici-2030-seconde-nous-connaissons-nexistera-plus-comme-aujourdhui-bouleversement-maniere-mesurer-le-temps/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Temps-horloge-1280x853.jpg"
+        },
+        {
+          "title": "Test Sonos Beam Ultra : Le Dolby Atmos enfin là",
+          "summary": "La nouvelle barre de son Sonos Beam Ultra promet une expérience Dolby Atmos immersive et améliorée.",
+          "url": "https://www.journaldugeek.com/test/test-sonos-beam-ultra-la-barre-de-son-qui-degaine-enfin-le-dolby-atmos-pour-de-bon/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/SonosBeamUltra-1280x853.jpeg"
+        },
+        {
+          "title": "Pokémon 30 ans : Les extensions les plus rentables",
+          "summary": "Le guide ultime pour investir dans les extensions Pokémon des 30 ans, entre gains et déceptions.",
+          "url": "https://www.journaldugeek.com/2026/10/16/pokemon-30-ans-voici-le-produit-le-plus-rentable-de-la-gamme-et-celui-quil-vaut-mieux-eviter/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/Pokemon-30-ans-Amazon-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama MVP ? Les GM de NBA s'enflamment",
+          "summary": "Un sondage des General Managers NBA place Wembanyama favori pour le titre de MVP et les Spurs champions. Incroyable !",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/wembanyama-mvp-et-les-spurs-champions-l-incroyable-plebiscite-des-gm-de-nba-dans-le-sondage-d-avant-saison_AV-202610150812.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Vn9-hfI7eg8kEYTpMGyoGcJQONs=/0x181:2048x1333/800x0/images/Victor-Wembanyama-en-conference-de-presse-apres-le-match-3-des-finales-NBA-remporte-par-San-Antonio-sur-le-parquet-des-New-York-Knicks-111-115-le-8-juin-2026-2300141.jpg"
+        },
+        {
+          "title": "Triathlon : Vincent Luis, Champion du Monde IronMan !",
+          "summary": "Vincent Luis décroche le titre mondial IronMan, savourant une victoire historique et la \"plus belle course\" de sa carrière.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "Champions Cup : Décès tragique du joueur Hyron Andrews",
+          "summary": "Le monde du rugby est en deuil après la mort du joueur des Lions, Hyron Andrews, retrouvé sans vie.",
+          "url": "https://rmcsport.bfmtv.com/rugby/coupe-d-europe/champions-cup-ce-que-l-on-sait-du-deces-du-joueur-des-lions-hyron-andrews-retrouve-mort-avant-le-match-contre-la-rochelle_AV-202610160682.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/aucGNhG15iTq7P9yicAK9KkvoJg=/0x161:2048x1313/800x0/images/Hyron-Andrews-avec-les-Lions-le-10-octobre-2026-2366802.jpg"
+        }
+      ]
+    }
+  ]
+}
