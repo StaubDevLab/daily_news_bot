@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Luc",
+  "global_summary": "L'actualité de ce jour est marquée par des tensions sociales et politiques à travers le globe, avec des manifestations et des incidents majeurs en France et en Ukraine. La sphère politique américaine connaît également ses remous avec un départ remarqué à la Maison Blanche. Cependant, l'innovation technologique continue d'avancer avec de nouvelles percées en IA et robotique, transformant notre quotidien et notre avenir. Le monde économique révèle des succès locaux et des mouvements de marché significatifs. Le sport, lui, vibre au rythme des exploits individuels et des performances collectives chargées d'émotion, mettant en lumière des talents exceptionnels et des moments de forte intensité.",
+  "running_advice": "Excellente nouvelle, amis sportifs ! La météo d'aujourd'hui est idéale pour chausser vos baskets et vous lancer sur les chemins. Avec des températures allant de 8.1°C à 14.6°C et un ciel peu nuageux, les conditions sont parfaites pour une session revigorante. Je vous conseille de viser la fin de matinée, vers 11h-12h, pour profiter d'un air plus doux et d'une luminosité agréable avant l'après-midi. N'oubliez pas, l'indice UV est de 3.75, alors protégez votre peau avec une crème solaire et peut-être une casquette. C'est le moment de booster votre énergie et d'atteindre vos objectifs ! Allez, on se motive !",
+  "weather_string": "🌤️ Peu nuageux (8.1°C / 14.6°C)",
+  "weather_stats": {
+    "temp": "14.6°C",
+    "rain": "0%",
+    "uv": "3.75"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Départ fracassant à la Maison Blanche",
+          "summary": "La porte-parole de Trump démissionne après une semaine de tensions et de gros malaises au sein de l'équipe.",
+          "url": "https://www.nouvelobs.com/monde/20261017.OBS119302/la-porte-parole-de-trump-prend-la-porte-apres-une-semaine-de-gros-malaises.html",
+          "image": "https://focus.nouvelobs.com/2026/10/17/0/0/7338/4892/0/0/60/0/361f3b8_upload-1-znirjm9lv0th-075-nollyaraujo-dcpresss261013-np6vk.jpg"
+        },
+        {
+          "title": "Villes françaises sous tension : pillages en marge",
+          "summary": "Les manifestations contre la \"vie chère\" en France sont émaillées de pillages dans plusieurs grandes agglomérations.",
+          "url": "https://www.france24.com/fr/france/20261017-france-les-grandes-villes-en-proie-aux-pillages-en-marge-des-manifestations",
+          "image": "https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg"
+        },
+        {
+          "title": "Kiev : Des milliers réclament la démission du maire",
+          "summary": "Des habitants de Kiev protestent contre une gestion jugée irresponsable, exigeant le départ de leur maire.",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-habitants-de-kiev-defilent-pour-reclamer-la-demission-du-maire-denoncant-une-gestion-totalement-irresponsable_8241928.html",
+          "image": "https://www.franceinfo.fr/pictures/X-prgz7dDt4ngjtG48uwWOCjDFk/0x630:7768x5000/432x243/filters:format(jpg)/2026/10/17/6ad3a70944d39819625813.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Mairie de Limoges incendiée après manifestation",
+          "summary": "Le 17 octobre, la mairie de Limoges a été ravagée par les flammes suite à une attaque de manifestants.",
+          "url": "https://actu.fr/nouvelle-aquitaine/limoges_87085/manifestation-du-17-octobre-la-mairie-de-limoges-ravagee-par-les-flammes-apres-une-attaque-de-manifestants_64939950.html",
+          "image": "https://static.actu.fr/uploads/2026/10/img-5473-1024x557.jpeg"
+        },
+        {
+          "title": "Salon du chiot fermé à Châteauroux",
+          "summary": "Le Salon du chiot de Châteauroux a été contraint de fermer ses portes sur décision de la préfecture.",
+          "url": "https://www.lanouvellerepublique.fr/chateauroux/le-salon-du-chiot-contraint-de-fermer-ses-portes-sur-decision-de-la-prefecture-a-chateauroux-1792260242",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/6ad3b88d979650b6538b4593"
+        },
+        {
+          "title": "Gym : Elena Colas solidaire des lycéens",
+          "summary": "La pépite française de la gym, Elena Colas, exprime sa solidarité avec le mouvement des lycéens.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/je-suis-d-accord-avec-eux-la-pepite-francaise-de-la-gym-elena-colas-solidaire-du-mouvement-des-lyceens_AN-202610160576.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/vcJAu4mUrbv7aa8pz8FcMrx05rs=/0x106:2048x1258/800x0/images/Elena-Colas-gymnaste-francaise-medaillee-d-or-aux-Internationaux-de-France-a-Bercy-27-septembre-2026-2355224.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Insider achète pour 1,91M$ d'actions",
+          "summary": "Un administrateur de Pedevco a récemment acquis pour 1,91 M$ d’actions de la société, selon les rapports.",
+          "url": "https://fr.investing.com/news/insider-trading-news/un-administrateur-de-pedevco-achete-pour-191-m-dactions-de-la-societe-93CH-3639881",
+          "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg"
+        },
+        {
+          "title": "Conserverie girondine primée par Thierry Marx",
+          "summary": "Une conserverie artisanale de Gironde a été honorée d'un nouveau prix, remis par le célèbre chef Thierry Marx.",
+          "url": "https://actu.fr/nouvelle-aquitaine/bazas_33036/nee-en-gironde-cette-conserverie-artisanale-recoit-un-nouveau-prix-des-mains-du-chef-thierry-marx_64936818.html",
+          "image": "https://static.actu.fr/uploads/2026/10/8635827052da68a35827052da4e358v-1024x557.jpg"
+        },
+        {
+          "title": "Immobilier : Une nouvelle agence à Montereau",
+          "summary": "Une agence immobilière ouvre à Montereau, promettant des prix \"relativement modestes\" pour achat, vente et location.",
+          "url": "https://actu.fr/ile-de-france/montereau-fault-yonne_77305/des-prix-relativement-modestes-achat-vente-location-a-montereau-une-agence-immobiliere-ouvre-face-a-leglise_64910020.html",
+          "image": "https://static.actu.fr/uploads/2026/10/f98d5d028fba6ed8d5d028fbac19d5v-1024x557.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Auto",
+      "emoji": "🤖",
+      "articles": [
+        {
+          "title": "Gemini explore le portefeuille Google",
+          "summary": "Gemini, l'IA de Google, s'immisce dans les fonctionnalités du portefeuille numérique, promettant de nouvelles interactions.",
+          "url": "https://www.journaldugeek.com/2026/10/17/gemini-met-le-nez-dans-le-portefeuille-de-google/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/06/google-wallet-1280x853.jpg"
+        },
+        {
+          "title": "Le prix des PC va continuer de grimper",
+          "summary": "Les experts prévoient que la hausse des prix des ordinateurs personnels ne s'arrêtera pas de sitôt.",
+          "url": "https://www.journaldugeek.com/2026/10/17/le-coup-de-chaud-sur-les-prix-des-pc-ne-va-pas-sarreter-de-si-tot/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/asus-1280x853.jpg"
+        },
+        {
+          "title": "BYD révèle son propre robot humanoïde",
+          "summary": "Le constructeur automobile BYD surprend en dévoilant son propre robot humanoïde, marquant une expansion technologique.",
+          "url": "https://www.journaldugeek.com/2026/10/17/byd-aussi-a-son-propre-robot-humanoide/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/byd-robot-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : dunk dingue et hype MVP !",
+          "summary": "Victor Wembanyama enflamme la NBA avec un dunk incroyable et un plébiscite unanime des managers généraux.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-contre-attaque-solitaire-et-dunk-dingue-l-action-folle-de-wembanyama-avec-les-spurs_AV-202610170107.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg"
+        },
+        {
+          "title": "La Rochelle victorieuse et émue",
+          "summary": "Le Stade Rochelais l'emporte 31-14 contre les Lions, dans un match teinté d'émotion et d'hommages poignants.",
+          "url": "https://rmcsport.bfmtv.com/rugby/video-la-rochelle-31-14-lions-fiers-d-etre-Rochelais-l-hommage-de-o-gara-et-alldritt-au-public_VN-202610170379.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Ev10Z41C5aADi_KDZlJ5s1RPRhg=/0x0:1280x720/800x0/images/La-Rochelle-31-14-Lions-Fiers-d-etre-Rochelais-l-hommage-de-O-Gara-et-Alldritt-au-public-2367326.jpg"
+        },
+        {
+          "title": "Vincent Luis, champion du monde IronMan",
+          "summary": "Vincent Luis savoure le titre de champion du monde IronMan, qualifiant cette performance de \"plus belle course de sa carrière\".",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        }
+      ]
+    }
+  ]
+}

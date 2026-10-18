@@ -1,0 +1,392 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 18/10/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">dimanche 18 octobre • Saint Luc</p>
+            <div class="weather-badge">
+              🌤️ Peu nuageux (8.1°C / 14.6°C) &nbsp;|&nbsp; ☀️ UV: 3.75 &nbsp;|&nbsp; 💧 0%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité de ce jour est marquée par des tensions sociales et politiques à travers le globe, avec des manifestations et des incidents majeurs en France et en Ukraine. La sphère politique américaine connaît également ses remous avec un départ remarqué à la Maison Blanche. Cependant, l'innovation technologique continue d'avancer avec de nouvelles percées en IA et robotique, transformant notre quotidien et notre avenir. Le monde économique révèle des succès locaux et des mouvements de marché significatifs. Le sport, lui, vibre au rythme des exploits individuels et des performances collectives chargées d'émotion, mettant en lumière des talents exceptionnels et des moments de forte intensité.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Excellente nouvelle, amis sportifs ! La météo d'aujourd'hui est idéale pour chausser vos baskets et vous lancer sur les chemins. Avec des températures allant de 8.1°C à 14.6°C et un ciel peu nuageux, les conditions sont parfaites pour une session revigorante. Je vous conseille de viser la fin de matinée, vers 11h-12h, pour profiter d'un air plus doux et d'une luminosité agréable avant l'après-midi. N'oubliez pas, l'indice UV est de 3.75, alors protégez votre peau avec une crème solaire et peut-être une casquette. C'est le moment de booster votre énergie et d'atteindre vos objectifs ! Allez, on se motive !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://focus.nouvelobs.com/2026/10/17/0/0/7338/4892/0/0/60/0/361f3b8_upload-1-znirjm9lv0th-075-nollyaraujo-dcpresss261013-np6vk.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.nouvelobs.com/monde/20261017.OBS119302/la-porte-parole-de-trump-prend-la-porte-apres-une-semaine-de-gros-malaises.html" target="_blank">Départ fracassant à la Maison Blanche</a>
+                    </h3>
+                    <p class="article-summary">La porte-parole de Trump démissionne après une semaine de tensions et de gros malaises au sein de l'équipe.</p>
+                    <a href="https://www.nouvelobs.com/monde/20261017.OBS119302/la-porte-parole-de-trump-prend-la-porte-apres-une-semaine-de-gros-malaises.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/france/20261017-france-les-grandes-villes-en-proie-aux-pillages-en-marge-des-manifestations" target="_blank">Villes françaises sous tension : pillages en marge</a>
+                    </h3>
+                    <p class="article-summary">Les manifestations contre la "vie chère" en France sont émaillées de pillages dans plusieurs grandes agglomérations.</p>
+                    <a href="https://www.france24.com/fr/france/20261017-france-les-grandes-villes-en-proie-aux-pillages-en-marge-des-manifestations" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/X-prgz7dDt4ngjtG48uwWOCjDFk/0x630:7768x5000/432x243/filters:format(jpg)/2026/10/17/6ad3a70944d39819625813.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-habitants-de-kiev-defilent-pour-reclamer-la-demission-du-maire-denoncant-une-gestion-totalement-irresponsable_8241928.html" target="_blank">Kiev : Des milliers réclament la démission du maire</a>
+                    </h3>
+                    <p class="article-summary">Des habitants de Kiev protestent contre une gestion jugée irresponsable, exigeant le départ de leur maire.</p>
+                    <a href="https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-des-habitants-de-kiev-defilent-pour-reclamer-la-demission-du-maire-denoncant-une-gestion-totalement-irresponsable_8241928.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/10/img-5473-1024x557.jpeg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/nouvelle-aquitaine/limoges_87085/manifestation-du-17-octobre-la-mairie-de-limoges-ravagee-par-les-flammes-apres-une-attaque-de-manifestants_64939950.html" target="_blank">Mairie de Limoges incendiée après manifestation</a>
+                    </h3>
+                    <p class="article-summary">Le 17 octobre, la mairie de Limoges a été ravagée par les flammes suite à une attaque de manifestants.</p>
+                    <a href="https://actu.fr/nouvelle-aquitaine/limoges_87085/manifestation-du-17-octobre-la-mairie-de-limoges-ravagee-par-les-flammes-apres-une-attaque-de-manifestants_64939950.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://images.lanouvellerepublique.fr/image/upload/6ad3b88d979650b6538b4593" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lanouvellerepublique.fr/chateauroux/le-salon-du-chiot-contraint-de-fermer-ses-portes-sur-decision-de-la-prefecture-a-chateauroux-1792260242" target="_blank">Salon du chiot fermé à Châteauroux</a>
+                    </h3>
+                    <p class="article-summary">Le Salon du chiot de Châteauroux a été contraint de fermer ses portes sur décision de la préfecture.</p>
+                    <a href="https://www.lanouvellerepublique.fr/chateauroux/le-salon-du-chiot-contraint-de-fermer-ses-portes-sur-decision-de-la-prefecture-a-chateauroux-1792260242" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/vcJAu4mUrbv7aa8pz8FcMrx05rs=/0x106:2048x1258/800x0/images/Elena-Colas-gymnaste-francaise-medaillee-d-or-aux-Internationaux-de-France-a-Bercy-27-septembre-2026-2355224.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/jeux-olympiques/je-suis-d-accord-avec-eux-la-pepite-francaise-de-la-gym-elena-colas-solidaire-du-mouvement-des-lyceens_AN-202610160576.html" target="_blank">Gym : Elena Colas solidaire des lycéens</a>
+                    </h3>
+                    <p class="article-summary">La pépite française de la gym, Elena Colas, exprime sa solidarité avec le mouvement des lycéens.</p>
+                    <a href="https://rmcsport.bfmtv.com/jeux-olympiques/je-suis-d-accord-avec-eux-la-pepite-francaise-de-la-gym-elena-colas-solidaire-du-mouvement-des-lyceens_AN-202610160576.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💼 Économie</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.investing.com/news/insider-trading-news/un-administrateur-de-pedevco-achete-pour-191-m-dactions-de-la-societe-93CH-3639881" target="_blank">Insider achète pour 1,91M$ d'actions</a>
+                    </h3>
+                    <p class="article-summary">Un administrateur de Pedevco a récemment acquis pour 1,91 M$ d’actions de la société, selon les rapports.</p>
+                    <a href="https://fr.investing.com/news/insider-trading-news/un-administrateur-de-pedevco-achete-pour-191-m-dactions-de-la-societe-93CH-3639881" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/10/8635827052da68a35827052da4e358v-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/nouvelle-aquitaine/bazas_33036/nee-en-gironde-cette-conserverie-artisanale-recoit-un-nouveau-prix-des-mains-du-chef-thierry-marx_64936818.html" target="_blank">Conserverie girondine primée par Thierry Marx</a>
+                    </h3>
+                    <p class="article-summary">Une conserverie artisanale de Gironde a été honorée d'un nouveau prix, remis par le célèbre chef Thierry Marx.</p>
+                    <a href="https://actu.fr/nouvelle-aquitaine/bazas_33036/nee-en-gironde-cette-conserverie-artisanale-recoit-un-nouveau-prix-des-mains-du-chef-thierry-marx_64936818.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/10/f98d5d028fba6ed8d5d028fbac19d5v-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/ile-de-france/montereau-fault-yonne_77305/des-prix-relativement-modestes-achat-vente-location-a-montereau-une-agence-immobiliere-ouvre-face-a-leglise_64910020.html" target="_blank">Immobilier : Une nouvelle agence à Montereau</a>
+                    </h3>
+                    <p class="article-summary">Une agence immobilière ouvre à Montereau, promettant des prix "relativement modestes" pour achat, vente et location.</p>
+                    <a href="https://actu.fr/ile-de-france/montereau-fault-yonne_77305/des-prix-relativement-modestes-achat-vente-location-a-montereau-une-agence-immobiliere-ouvre-face-a-leglise_64910020.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🤖 Tech & Auto</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/06/google-wallet-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/17/gemini-met-le-nez-dans-le-portefeuille-de-google/" target="_blank">Gemini explore le portefeuille Google</a>
+                    </h3>
+                    <p class="article-summary">Gemini, l'IA de Google, s'immisce dans les fonctionnalités du portefeuille numérique, promettant de nouvelles interactions.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/17/gemini-met-le-nez-dans-le-portefeuille-de-google/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/asus-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/17/le-coup-de-chaud-sur-les-prix-des-pc-ne-va-pas-sarreter-de-si-tot/" target="_blank">Le prix des PC va continuer de grimper</a>
+                    </h3>
+                    <p class="article-summary">Les experts prévoient que la hausse des prix des ordinateurs personnels ne s'arrêtera pas de sitôt.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/17/le-coup-de-chaud-sur-les-prix-des-pc-ne-va-pas-sarreter-de-si-tot/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/byd-robot-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/17/byd-aussi-a-son-propre-robot-humanoide/" target="_blank">BYD révèle son propre robot humanoïde</a>
+                    </h3>
+                    <p class="article-summary">Le constructeur automobile BYD surprend en dévoilant son propre robot humanoïde, marquant une expansion technologique.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/17/byd-aussi-a-son-propre-robot-humanoide/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-contre-attaque-solitaire-et-dunk-dingue-l-action-folle-de-wembanyama-avec-les-spurs_AV-202610170107.html" target="_blank">Wembanyama : dunk dingue et hype MVP !</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama enflamme la NBA avec un dunk incroyable et un plébiscite unanime des managers généraux.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-contre-attaque-solitaire-et-dunk-dingue-l-action-folle-de-wembanyama-avec-les-spurs_AV-202610170107.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/Ev10Z41C5aADi_KDZlJ5s1RPRhg=/0x0:1280x720/800x0/images/La-Rochelle-31-14-Lions-Fiers-d-etre-Rochelais-l-hommage-de-O-Gara-et-Alldritt-au-public-2367326.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rugby/video-la-rochelle-31-14-lions-fiers-d-etre-Rochelais-l-hommage-de-o-gara-et-alldritt-au-public_VN-202610170379.html" target="_blank">La Rochelle victorieuse et émue</a>
+                    </h3>
+                    <p class="article-summary">Le Stade Rochelais l'emporte 31-14 contre les Lions, dans un match teinté d'émotion et d'hommages poignants.</p>
+                    <a href="https://rmcsport.bfmtv.com/rugby/video-la-rochelle-31-14-lions-fiers-d-etre-Rochelais-l-hommage-de-o-gara-et-alldritt-au-public_VN-202610170379.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" target="_blank">Vincent Luis, champion du monde IronMan</a>
+                    </h3>
+                    <p class="article-summary">Vincent Luis savoure le titre de champion du monde IronMan, qualifiant cette performance de "plus belle course de sa carrière".</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
