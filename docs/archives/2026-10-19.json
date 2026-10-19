@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint René",
+  "global_summary": "L'actualité du jour est marquée par une profonde agitation sociale, dont les échos résonnent bien au-delà des frontières françaises. Emmanuel Macron s'est exprimé sur la \"colère et honte\" ressenties face aux violences et pillages qui ont secoué le pays, un phénomène d'ampleur qui touche désormais d'autres capitales européennes comme Milan ou Turin. Cette vague d'incertitude se traduit par une inquiétude grandissante chez les professionnels, notamment les restaurateurs, qui témoignent d'un sentiment d'insécurité croissant.\n\nParallèlement à ces tensions, le monde de la technologie poursuit sa course effrénée. L'intelligence artificielle continue de susciter admiration et questionnements, même parmi les mathématiciens. L'industrie automobile attire toujours les foules au Mondial de l'Auto, malgré des ventes en demi-teinte. Heureusement, le sport offre des bouffées d'oxygène avec des exploits individuels, tel le prodige Wembanyama en NBA et des performances remarquables en triathlon et trail, symboles de dépassement et d'inspiration.",
+  "running_advice": "Salut champion ! Aujourd'hui, l'excuse de la météo, on la range au placard ! Avec des températures oscillant entre 6.5°C et 12.3°C, et malgré un ciel pluvieux avec 35% de chance d'averses, c'est une excellente opportunité de te reconnecter à l'effort. Une petite pluie légère ? C'est parfait pour rafraîchir et te donner une sensation de liberté ! L'indice UV est de 3.8, donc pense à une crème solaire légère sur le visage et à tes lunettes si tu es sensible, même sous les nuages. Le créneau idéal pour ta session ? Je te conseille de te lancer entre 14h00 et 16h00. Tu bénéficieras des températures les plus douces et d'une belle lumière naturelle avant que le soleil ne se couche. Alors, enfile tes meilleures chaussures, respire un grand coup et va chercher cette énergie positive ! On lâche rien, on se dépasse, c'est ça l'état d'esprit !",
+  "weather_string": "🌧️ Pluie (6.5°C / 12.3°C)",
+  "weather_stats": {
+    "temp": "12.3°C",
+    "rain": "35%",
+    "uv": "3.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Macron face à la crise",
+          "summary": "\"Colère et honte\", Macron répond aux violences. Le président évoque \"transparence\" après les récents troubles.",
+          "url": "https://www.france24.com/fr/france/20261018-col%C3%A8re-et-honte-transparence-attendue-ce-qu-il-faut-retenir-de-l-allocution-d-emmanuel-macron",
+          "image": "https://s.france24.com/media/display/65d6e4e8-cb23-11f1-a601-2d1c143cdef3/w:1280/p:16x9/2026-10-18T183457Z-1777343427-RC2U5OAGNYMW-RTRMADP-3-FRANCE-PROTEST.jpg"
+        },
+        {
+          "title": "Zelensky apaisant Washington",
+          "summary": "Zelensky rencontre des émissaires Trump. L'Ukraine cherche à calmer les tensions, reprenant le partage de renseignements.",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/volodymyr-zelensky-s-entretient-avec-des-emissaires-de-donald-trump-pour-apaiser-les-tensions-avec-washington-et-annonce-la-reprise-du-partage-de-renseignements_8243200.html",
+          "image": "https://www.franceinfo.fr/pictures/U1wJgxuY9LST1HUifIn5z7tcmSE/0x222:4250x2612/432x243/filters:format(jpg)/2026/10/18/6ad51b76c9b8a703472622.jpg"
+        },
+        {
+          "title": "L'édito: Plaies à vif",
+          "summary": "Violences et pillages: l'édito du 17 octobre. La rédaction souligne les profondes cicatrices des récents événements.",
+          "url": "https://www.vosgesmatin.fr/elections/2026/10/18/edito-violences-et-pillages-les-plaies-a-vif-d-un-terrible-17-octobre",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/42E93671-9706-4975-BA10-C14381F566EE/NW_listB/violences-et-pillages-les-plaies-a-vif-d-un-terrible-17-octobre-1792337393.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Chaos et pillages en Italie",
+          "summary": "L'Italie, secouée par scènes de chaos. Milan, Bologne, Turin touchées par des pillages, écho aux troubles français.",
+          "url": "https://www.lefigaro.fr/international/milan-bologne-turin-l-italie-egalement-secouee-par-des-scenes-de-chaos-et-de-pillages-20261018",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/18/7d50d6c9c6d1ac44c81f565fe6f4573c82b143657d7c62fcf7e3986d58ebb964.jpg"
+        },
+        {
+          "title": "Limoges en colère après l'incendie",
+          "summary": "Limoges sous le choc après l'incendie de l'hôtel de ville. La ville entre colère et tristesse suite aux mobilisations.",
+          "url": "https://www.sudouest.fr/haute-vienne/limoges/mobilisation-du-17-octobre-c-est-tellement-a-pleurer-apres-l-incendie-de-l-hotel-de-ville-limoges-entre-colere-et-tristesse-31135265.php",
+          "image": "https://www.franceinfo.fr/pictures/U1wJgxuY9LST1HUifIn5z7tcmSE/0x222:4250x2612/432x243/filters:format(jpg)/2026/10/18/6ad51b76c9b8a703472622.jpg"
+        },
+        {
+          "title": "Weyersheim continue sa série",
+          "summary": "Football: Weyersheim s'offre une 3e victoire. Le club de Régional 1 poursuit son excellente dynamique contre la FAIG.",
+          "url": "https://www.lalsace.fr/sport/2026/10/18/regional-1-weyersheim-s-offre-une-troisieme-victoire-de-suite-contre-la-faig",
+          "image": "https://cdn-s-www.lalsace.fr/images/73B87C5F-66CB-4380-A168-63C762901B6E/MF_contenu/tombeur-de-la-faig-weyersheim-s-offre-une-troisieme-victoire-de-suite-en-regional-1-1792351672.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Technologie",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "L'IA défie les mathématiciens",
+          "summary": "Les mathématiciens désemparés face à l'IA. Les progrès fulgurants de l'intelligence artificielle interrogent la communauté scientifique.",
+          "url": "https://www.franceinfo.fr/internet/intelligence-artificielle/les-mathematiciens-desempares-face-aux-progres-de-l-ia_8240785.html",
+          "image": "https://www.franceinfo.fr/pictures/XunmMUXR2hgYDA8TXdaTtk_cg0E/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/16/6ad254453e078412949233.png"
+        },
+        {
+          "title": "Mondial de l'Auto, succès populaire",
+          "summary": "Mondial de l'Auto: record de visiteurs. Malgré des ventes auto en berne, les Français se ruent admirer les nouveautés.",
+          "url": "https://www.bfmtv.com/auto/les-ventes-de-voitures-patinent-mais-les-francais-se-ruent-au-mondial-de-l-auto-un-record-de-86-000-visiteurs-par-jour-pour-admirer-les-voitures-avec-un-tiers-de-marques-chinoises_AV-202610180353.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/2UVg_aqJEBtSyRtG_kjn31PG5yQ=/0x62:1200x737/800x0/images/Mondial-de-l-auto-2026-stand-Citroen-2367599.jpg"
+        },
+        {
+          "title": "Airbus face à la Chine",
+          "summary": "Airbus prend Comac au sérieux. La concurrence chinoise dans l'aéronautique inquiète le géant européen.",
+          "url": "https://www.journaldugeek.com/2026/10/19/avec-comac-airbus-prend-la-concurrence-chinoise-tres-au-serieux/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/comac-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Société",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Restaurateurs, inquiétude grandissante",
+          "summary": "\"Des restaurateurs vont s'armer\". L'UMIH alerte sur la montée de l'insécurité pour les professionnels.",
+          "url": "https://www.lepoint.fr/societe/violences-du-17-octobre-franck-chaumes-umih-alerte-sur-les-restaurateurs-qui-veulent-sarmer-BVYT7VEBPFBIJFFGNACUY6CE5Q/",
+          "image": "https://www.lepoint.fr/resizer/v2/DPOZTUPF3RNFLP4C4EV7JQJPFA.jpg?auth=dad288045df851afc7d42273558fa0a914f337912d49ee378fb1d955bdce1c3e&smart=true&width=1200&height=900"
+        },
+        {
+          "title": "L'IA freinée par les taux",
+          "summary": "L'IA rattrapée par les taux d'intérêt. Le secteur de l'intelligence artificielle ressent la pesanteur des conditions économiques.",
+          "url": "https://www.lerevenu.com/reussir-bourse/avis-des-pros/l-ia-rattrapee-par-la-pesanteur-des-taux",
+          "image": "https://cdn.overlord.media/puces_avancees_b5beb56a63.jpg"
+        },
+        {
+          "title": "Pio Marmaï au Festival de Royan",
+          "summary": "Pio Marmaï lance le Festival de Royan. L'acteur participe à l'ouverture du Festival du film de société.",
+          "url": "https://www.sudouest.fr/charente-maritime/royan/pio-marmai-present-a-l-ouverture-du-festival-du-film-de-societe-de-royan-un-coin-de-toile-leve-sur-la-programmation-de-l-edition-2026-31131304.php",
+          "image": "https://media.sudouest.fr/31131304/1200x600/20260226194906-679512.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Régions",
+      "emoji": "🏘️",
+      "articles": [
+        {
+          "title": "Landes, été historique",
+          "summary": "Landes : été historique de chaleur et feux. La région a connu 53 jours de canicule, mégafeux et orages violents.",
+          "url": "https://www.sudouest.fr/environnement/meteo/53-jours-de-vague-de-chaleur-des-megafeux-et-des-orages-violents-les-landes-ont-vecu-un-ete-historique-31006606.php",
+          "image": null
+        },
+        {
+          "title": "Tourisme landais face aux défis",
+          "summary": "Tourisme dans les Landes : s'adapter. La région doit attirer sans dénaturer, tirant les leçons climatiques.",
+          "url": "https://www.sudouest.fr/tourisme/landes/les-enjeux-du-tourisme-dans-les-landes-attirer-sans-denaturer-et-tirer-les-lecons-des-aleas-climatiques-de-la-saison-2026-31085663.php",
+          "image": null
+        },
+        {
+          "title": "Football régional: Sennecey s'impose",
+          "summary": "Football Régionale 3: Sennecey s'impose. Victoire d'entrée contre Team Montceau Foot pour Sennecey.",
+          "url": "https://www.lejsl.com/sport/2026/10/18/sennecey-marque-d-entree-et-s-impose-contre-tmf",
+          "image": "https://cdn-s-www.lejsl.com/images/7EF8B0DF-18B4-4721-BCE5-001720582EC/MF_contenu/sennecey-marque-d-entree-et-s-impose-contre-team-montceau-foot-1792351921.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wemby MVP, le chemin tracé",
+          "summary": "Batum: Wembanyama doit devenir MVP. La légende du basket pointe l'axe de progression pour la pépite.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-batum-pointe-l-axe-de-progression-qui-doit-permettre-a-wembanyama-de-devenir-mvp_AV-202610180254.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/J1hu9BYsigWBQy24oNAdYaBKOV4=/0x0:2016x1134/800x0/images/Nicolas-Batum-et-Victor-Wembanyama-lors-de-la-demi-finale-des-JO-de-Paris-France-Allemagne-le-8-aout-2024-2103866.jpg"
+        },
+        {
+          "title": "Vincent Luis champion du monde",
+          "summary": "Vincent Luis champion du monde IronMan. L'athlète savoure \"la plus belle course\" de sa carrière à Kona.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "GR20: Aurélien Dunand-Pallaz, recordman",
+          "summary": "Aurélien Dunand-Pallaz, recordman du GR20. L'athlète pulvérise le record de la célèbre traversée corse.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/video-aurelien-dunand-pallaz-le-nouveau-record-man-du-gr20_VN-202610080811.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/HgQJWnwinY62rQdTxZyDIsMqp6M=/0x0:1280x720/800x0/images/Aurelien-Dunand-Pallaz-le-nouveau-record-man-du-GR20-2361873.jpg"
+        }
+      ]
+    }
+  ]
+}
