@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Adeline",
+  "global_summary": "Cette fin de semaine est marquée par une actualité mondiale tendue, entre la tragédie des frappes en Ukraine et une sentence lourde au Kenya, tandis que les troubles sociaux en France continuent de préoccuper les observateurs et investisseurs internationaux. Sur le front technologique, l'innovation progresse à grands pas avec les avancées quantiques de NVIDIA et l'arrivée imminente d'un Mac tactile, mais soulève aussi des questions éthiques et de santé publique concernant l'usage excessif des écrans et la prolifération des deepfakes. \nCependant, l'esprit humain de résilience et de dépassement de soi brille également : la scène sportive française et internationale célèbre de nouvelles prouesses, de l'ambition démesurée de Wembanyama en NBA aux titres mondiaux en triathlon et rink hockey. Ces succès nous rappellent que même face aux défis, la persévérance et la performance restent des vecteurs puissants de motivation et de fierté collective.",
+  "running_advice": "Bonjour à tous les athlètes ! La météo de Sainte Adeline nous offre des températures agréables, entre 8.9°C et 16.3°C, parfaites pour une sortie running. Avec 30% de chance de pluie et des averses possibles, soyez prêts à affronter quelques gouttes, mais ne vous laissez pas décourager : un petit crachin peut être ultra rafraîchissant ! L'indice UV de 3.6 suggère une protection solaire si le soleil perce les nuages. \nPour l'heure idéale, visez la fin de matinée ou le début d'après-midi, juste après 10h et avant 16h. Cela vous permettra de profiter de la douceur sans la fraîcheur matinale et avant que le jour ne décline. Chaussez vos meilleures baskets, et rappelez-vous : chaque foulée est une victoire sur vous-même. Allez, on se dépasse !",
+  "weather_string": "🌧️ Pluie (8.9°C / 16.3°C)",
+  "weather_stats": {
+    "temp": "16.3°C",
+    "rain": "30%",
+    "uv": "3.6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Ukraine : Frappe meurtrière, six vies fauchées",
+          "summary": "Une attaque russe dévastatrice près de Kharkiv coûte la vie à six personnes, dont trois enfants.",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-six-morts-dont-trois-enfants-dans-une-frappe-russe-dans-un-parc-pres-de-kharkiv_8244463.html",
+          "image": "https://www.franceinfo.fr/pictures/1BuP9rBsAT4bS66dNlCfrXdym0o/0x95:1024x671/432x243/filters:format(jpg)/2026/10/19/6ad66b6f036eb643386279.jpg"
+        },
+        {
+          "title": "Kenya : Paul Mackenzie reconnu coupable de 191 meurtres",
+          "summary": "Paul Mackenzie est déclaré coupable d'avoir orchestré la mort de 191 personnes dans un vaste procès au Kenya.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261019-kenya-paul-mackenzie-reconnu-coupable-pour-le-meurtre-de-191-personnes",
+          "image": "https://s.france24.com/media/display/698ef41e-cbea-11f1-8670-d1d2c32ebb87/w:1024/p:16x9/KENYA-00-00-10-27-Still001.jpg"
+        },
+        {
+          "title": "France : L'instabilité inquiète les investisseurs étrangers",
+          "summary": "Les récents troubles sociaux en France suscitent des préoccupations chez les investisseurs internationaux.",
+          "url": "https://www.courrierinternational.com/article/economie-les-troubles-en-france-inquietent-les-investisseurs-etrangers_279826",
+          "image": "https://focus.courrierinternational.com/2026/10/18/0/0/6000/4000/644/0/60/0/e0339cb_ftp-1-irdpa6vsmch1-2026-10-18t121255z-1183136344-rc2o5oa6kj7v-rtrmadp-3-france-protest.JPG"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Casseurs du 17 octobre : Darmanin durcit le ton",
+          "summary": "Gérald Darmanin propose des mesures sévères, dont la reconnaissance faciale, pour punir les fauteurs de troubles.",
+          "url": "https://actu.fr/societe/garde-a-vue-prolongee-reconnaissance-faciale-comment-gerald-darmanin-veut-punir-les-casseurs-du-17-octobre_64947825.html",
+          "image": "https://static.actu.fr/uploads/2026/10/afp-darmanin-gerald-justice-ministre-casseurs-pilleurs-17-octobre-reponse-gouvernement-1024x557.jpg"
+        },
+        {
+          "title": "La France, acteur clé en Europe et Monde",
+          "summary": "Une analyse met en lumière la position stratégique et l'influence de la France sur la scène européenne et mondiale.",
+          "url": "https://www.bfmtv.com/economie/video-la-place-de-la-france-dans-l-europe-et-le-monde_VN-202610190885.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/jR49iLR-7My6V9jJ6wzaw7uJVl0=/0x0:1280x720/800x0/images/La-place-de-la-France-dans-l-Europe-et-le-monde-2368340.jpg"
+        },
+        {
+          "title": "Un CRS raconte la violence du 17 octobre",
+          "summary": "Un CRS témoigne de 15 heures d'engagement intense et de la peur lors des violences du 17 octobre.",
+          "url": "https://www.fdesouche.com/2026/10/19/violences-du-17-octobre-jai-eu-peur-de-ne-pas-tenir-un-crs-raconte-15-heures/",
+          "image": "https://www.fdesouche.com/wp-content/uploads/2025/07/crs.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Apple : Le Mac tactile arrive le 28 octobre",
+          "summary": "Apple envoie des invitations, annonçant l'arrivée imminente du premier Mac doté d'un écran tactile.",
+          "url": "https://www.frandroid.com/marques/apple/3291621_premier-mac-tactile-en-vue-apple-envoie-ses-invitations-pour-le-28-octobre",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-231.png?resize=1600,900&key=981cd0b6"
+        },
+        {
+          "title": "NVIDIA bat un record en simulation quantique",
+          "summary": "NVIDIA établit un nouveau record avec la simulation de 104 qubits sur le supercalculateur JUPITER.",
+          "url": "https://fr.investing.com/news/stock-market-news/nvidia-etablit-un-record-de-simulation-quantique-de-104-qubits-sur-le-supercalculateur-jupiter-3641789",
+          "image": "https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg"
+        },
+        {
+          "title": "La Chine s'inquiète du 'tout à l'écran'",
+          "summary": "Même la Chine juge que l'omniprésence des écrans va trop loin et veut plus de régulation.",
+          "url": "https://www.20minutes.fr/auto/4255709-20261019-tout-ecran-va-trop-loin-selon-chine",
+          "image": "https://img.20mn.fr/mGlGoVVpTwyAGpTW3b2rUyk/1200x768_trop-c-est-trop-la-chine-veut-plus-de-controle-sur-le-tout-a-l-ecran"
+        }
+      ]
+    },
+    {
+      "label": "Digital",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "TGV : Amende pour trottinette ou vélo électrique",
+          "summary": "Attention aux nouvelles règles : le transport de trottinettes et vélos électriques en TGV est désormais amendable.",
+          "url": "https://www.journaldugeek.com/2026/10/20/trottinette-ou-velo-electrique-dans-le-tgv-voici-le-montant-de-lamende-que-vous-allez-devoir-payer/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/trotinettes-1280x853.jpg"
+        },
+        {
+          "title": "Deepfakes sexuels : L'App Store durcit le ton",
+          "summary": "L'App Store renforce sa lutte contre les applications dissimulant des fonctionnalités de deepfakes à caractère sexuel.",
+          "url": "https://www.journaldugeek.com/2026/10/20/apps-de-deepfakes-sexuels-lapp-store-serre-la-vis-aux-applications-qui-cachent-leur-jeu/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/iPhone-App-Store-4-1280x853.jpg"
+        },
+        {
+          "title": "Votre serveur Plex, cible des pirates",
+          "summary": "Les utilisateurs de Plex sont avertis : leurs serveurs intéressent désormais activement les cybercriminels.",
+          "url": "https://www.journaldugeek.com/2026/10/20/votre-serveur-plex-interesse-aussi-les-pirates/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/09/plex-piratage-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama et Spurs visent le titre NBA",
+          "summary": "Victor Wembanyama et les Spurs affichent des ambitions démesurées, visant rien de moins que le championnat NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/champions-nba-et-rien-d-autre-les-enormes-ambitions-de-wembanyama-et-des-spurs-pour-la-saison-a-venir_AV-202610190468.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg"
+        },
+        {
+          "title": "Vincent Luis, champion du monde IronMan",
+          "summary": "Vincent Luis savoure son titre de champion du monde IronMan, une \"plus belle course\" de sa carrière.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "La France championne du monde de rink hockey !",
+          "summary": "Un titre historique pour la France qui s'impose en championne du monde de rink hockey, une performance inédite.",
+          "url": "https://rmcsport.bfmtv.com/societe/un-titre-historique-la-france-sacree-championne-du-monde-de-rink-hockey_AN-202610190546.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/1yJSTwr9FmEedhFAWdzJkiQLyrY=/0x0:1600x900/800x0/images/Un-titre-historique-la-France-sacree-championne-du-monde-de-rink-hockey-le-18-10-2026-2368088.jpg"
+        }
+      ]
+    }
+  ]
+}

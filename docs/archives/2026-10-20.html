@@ -1,0 +1,394 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 20/10/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">mardi 20 octobre • Sainte Adeline</p>
+            <div class="weather-badge">
+              🌧️ Pluie (8.9°C / 16.3°C) &nbsp;|&nbsp; ☀️ UV: 3.6 &nbsp;|&nbsp; 💧 30%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>Cette fin de semaine est marquée par une actualité mondiale tendue, entre la tragédie des frappes en Ukraine et une sentence lourde au Kenya, tandis que les troubles sociaux en France continuent de préoccuper les observateurs et investisseurs internationaux. Sur le front technologique, l'innovation progresse à grands pas avec les avancées quantiques de NVIDIA et l'arrivée imminente d'un Mac tactile, mais soulève aussi des questions éthiques et de santé publique concernant l'usage excessif des écrans et la prolifération des deepfakes. 
+Cependant, l'esprit humain de résilience et de dépassement de soi brille également : la scène sportive française et internationale célèbre de nouvelles prouesses, de l'ambition démesurée de Wembanyama en NBA aux titres mondiaux en triathlon et rink hockey. Ces succès nous rappellent que même face aux défis, la persévérance et la performance restent des vecteurs puissants de motivation et de fierté collective.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Bonjour à tous les athlètes ! La météo de Sainte Adeline nous offre des températures agréables, entre 8.9°C et 16.3°C, parfaites pour une sortie running. Avec 30% de chance de pluie et des averses possibles, soyez prêts à affronter quelques gouttes, mais ne vous laissez pas décourager : un petit crachin peut être ultra rafraîchissant ! L'indice UV de 3.6 suggère une protection solaire si le soleil perce les nuages. 
+Pour l'heure idéale, visez la fin de matinée ou le début d'après-midi, juste après 10h et avant 16h. Cela vous permettra de profiter de la douceur sans la fraîcheur matinale et avant que le jour ne décline. Chaussez vos meilleures baskets, et rappelez-vous : chaque foulée est une victoire sur vous-même. Allez, on se dépasse !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/1BuP9rBsAT4bS66dNlCfrXdym0o/0x95:1024x671/432x243/filters:format(jpg)/2026/10/19/6ad66b6f036eb643386279.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-six-morts-dont-trois-enfants-dans-une-frappe-russe-dans-un-parc-pres-de-kharkiv_8244463.html" target="_blank">Ukraine : Frappe meurtrière, six vies fauchées</a>
+                    </h3>
+                    <p class="article-summary">Une attaque russe dévastatrice près de Kharkiv coûte la vie à six personnes, dont trois enfants.</p>
+                    <a href="https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/en-ukraine-six-morts-dont-trois-enfants-dans-une-frappe-russe-dans-un-parc-pres-de-kharkiv_8244463.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/698ef41e-cbea-11f1-8670-d1d2c32ebb87/w:1024/p:16x9/KENYA-00-00-10-27-Still001.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/vid%C3%A9o/20261019-kenya-paul-mackenzie-reconnu-coupable-pour-le-meurtre-de-191-personnes" target="_blank">Kenya : Paul Mackenzie reconnu coupable de 191 meurtres</a>
+                    </h3>
+                    <p class="article-summary">Paul Mackenzie est déclaré coupable d'avoir orchestré la mort de 191 personnes dans un vaste procès au Kenya.</p>
+                    <a href="https://www.france24.com/fr/vid%C3%A9o/20261019-kenya-paul-mackenzie-reconnu-coupable-pour-le-meurtre-de-191-personnes" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://focus.courrierinternational.com/2026/10/18/0/0/6000/4000/644/0/60/0/e0339cb_ftp-1-irdpa6vsmch1-2026-10-18t121255z-1183136344-rc2o5oa6kj7v-rtrmadp-3-france-protest.JPG" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.courrierinternational.com/article/economie-les-troubles-en-france-inquietent-les-investisseurs-etrangers_279826" target="_blank">France : L'instabilité inquiète les investisseurs étrangers</a>
+                    </h3>
+                    <p class="article-summary">Les récents troubles sociaux en France suscitent des préoccupations chez les investisseurs internationaux.</p>
+                    <a href="https://www.courrierinternational.com/article/economie-les-troubles-en-france-inquietent-les-investisseurs-etrangers_279826" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/10/afp-darmanin-gerald-justice-ministre-casseurs-pilleurs-17-octobre-reponse-gouvernement-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/societe/garde-a-vue-prolongee-reconnaissance-faciale-comment-gerald-darmanin-veut-punir-les-casseurs-du-17-octobre_64947825.html" target="_blank">Casseurs du 17 octobre : Darmanin durcit le ton</a>
+                    </h3>
+                    <p class="article-summary">Gérald Darmanin propose des mesures sévères, dont la reconnaissance faciale, pour punir les fauteurs de troubles.</p>
+                    <a href="https://actu.fr/societe/garde-a-vue-prolongee-reconnaissance-faciale-comment-gerald-darmanin-veut-punir-les-casseurs-du-17-octobre_64947825.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/jR49iLR-7My6V9jJ6wzaw7uJVl0=/0x0:1280x720/800x0/images/La-place-de-la-France-dans-l-Europe-et-le-monde-2368340.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/economie/video-la-place-de-la-france-dans-l-europe-et-le-monde_VN-202610190885.html" target="_blank">La France, acteur clé en Europe et Monde</a>
+                    </h3>
+                    <p class="article-summary">Une analyse met en lumière la position stratégique et l'influence de la France sur la scène européenne et mondiale.</p>
+                    <a href="https://www.bfmtv.com/economie/video-la-place-de-la-france-dans-l-europe-et-le-monde_VN-202610190885.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.fdesouche.com/wp-content/uploads/2025/07/crs.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.fdesouche.com/2026/10/19/violences-du-17-octobre-jai-eu-peur-de-ne-pas-tenir-un-crs-raconte-15-heures/" target="_blank">Un CRS raconte la violence du 17 octobre</a>
+                    </h3>
+                    <p class="article-summary">Un CRS témoigne de 15 heures d'engagement intense et de la peur lors des violences du 17 octobre.</p>
+                    <a href="https://www.fdesouche.com/2026/10/19/violences-du-17-octobre-jai-eu-peur-de-ne-pas-tenir-un-crs-raconte-15-heures/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/10/image-231.png?resize=1600,900&key=981cd0b6" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.frandroid.com/marques/apple/3291621_premier-mac-tactile-en-vue-apple-envoie-ses-invitations-pour-le-28-octobre" target="_blank">Apple : Le Mac tactile arrive le 28 octobre</a>
+                    </h3>
+                    <p class="article-summary">Apple envoie des invitations, annonçant l'arrivée imminente du premier Mac doté d'un écran tactile.</p>
+                    <a href="https://www.frandroid.com/marques/apple/3291621_premier-mac-tactile-en-vue-apple-envoie-ses-invitations-pour-le-28-octobre" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://content-media.investing.com/news/LYNXMPEB230DM_M.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.investing.com/news/stock-market-news/nvidia-etablit-un-record-de-simulation-quantique-de-104-qubits-sur-le-supercalculateur-jupiter-3641789" target="_blank">NVIDIA bat un record en simulation quantique</a>
+                    </h3>
+                    <p class="article-summary">NVIDIA établit un nouveau record avec la simulation de 104 qubits sur le supercalculateur JUPITER.</p>
+                    <a href="https://fr.investing.com/news/stock-market-news/nvidia-etablit-un-record-de-simulation-quantique-de-104-qubits-sur-le-supercalculateur-jupiter-3641789" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.20mn.fr/mGlGoVVpTwyAGpTW3b2rUyk/1200x768_trop-c-est-trop-la-chine-veut-plus-de-controle-sur-le-tout-a-l-ecran" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.20minutes.fr/auto/4255709-20261019-tout-ecran-va-trop-loin-selon-chine" target="_blank">La Chine s'inquiète du 'tout à l'écran'</a>
+                    </h3>
+                    <p class="article-summary">Même la Chine juge que l'omniprésence des écrans va trop loin et veut plus de régulation.</p>
+                    <a href="https://www.20minutes.fr/auto/4255709-20261019-tout-ecran-va-trop-loin-selon-chine" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📱 Digital</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/trotinettes-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/20/trottinette-ou-velo-electrique-dans-le-tgv-voici-le-montant-de-lamende-que-vous-allez-devoir-payer/" target="_blank">TGV : Amende pour trottinette ou vélo électrique</a>
+                    </h3>
+                    <p class="article-summary">Attention aux nouvelles règles : le transport de trottinettes et vélos électriques en TGV est désormais amendable.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/20/trottinette-ou-velo-electrique-dans-le-tgv-voici-le-montant-de-lamende-que-vous-allez-devoir-payer/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/09/iPhone-App-Store-4-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/20/apps-de-deepfakes-sexuels-lapp-store-serre-la-vis-aux-applications-qui-cachent-leur-jeu/" target="_blank">Deepfakes sexuels : L'App Store durcit le ton</a>
+                    </h3>
+                    <p class="article-summary">L'App Store renforce sa lutte contre les applications dissimulant des fonctionnalités de deepfakes à caractère sexuel.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/20/apps-de-deepfakes-sexuels-lapp-store-serre-la-vis-aux-applications-qui-cachent-leur-jeu/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2025/09/plex-piratage-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/20/votre-serveur-plex-interesse-aussi-les-pirates/" target="_blank">Votre serveur Plex, cible des pirates</a>
+                    </h3>
+                    <p class="article-summary">Les utilisateurs de Plex sont avertis : leurs serveurs intéressent désormais activement les cybercriminels.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/20/votre-serveur-plex-interesse-aussi-les-pirates/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/UauhJg2RNwokE88BrfnEUdSr8hA=/0x0:2048x1152/800x0/images/Victor-Wembanyama-le-12-06-2026-lors-du-match-5-des-Finales-NBA-contre-les-Knicks-2303410.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/champions-nba-et-rien-d-autre-les-enormes-ambitions-de-wembanyama-et-des-spurs-pour-la-saison-a-venir_AV-202610190468.html" target="_blank">Wembanyama et Spurs visent le titre NBA</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama et les Spurs affichent des ambitions démesurées, visant rien de moins que le championnat NBA.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/champions-nba-et-rien-d-autre-les-enormes-ambitions-de-wembanyama-et-des-spurs-pour-la-saison-a-venir_AV-202610190468.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" target="_blank">Vincent Luis, champion du monde IronMan</a>
+                    </h3>
+                    <p class="article-summary">Vincent Luis savoure son titre de champion du monde IronMan, une "plus belle course" de sa carrière.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/1yJSTwr9FmEedhFAWdzJkiQLyrY=/0x0:1600x900/800x0/images/Un-titre-historique-la-France-sacree-championne-du-monde-de-rink-hockey-le-18-10-2026-2368088.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/societe/un-titre-historique-la-france-sacree-championne-du-monde-de-rink-hockey_AN-202610190546.html" target="_blank">La France championne du monde de rink hockey !</a>
+                    </h3>
+                    <p class="article-summary">Un titre historique pour la France qui s'impose en championne du monde de rink hockey, une performance inédite.</p>
+                    <a href="https://rmcsport.bfmtv.com/societe/un-titre-historique-la-france-sacree-championne-du-monde-de-rink-hockey_AN-202610190546.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
