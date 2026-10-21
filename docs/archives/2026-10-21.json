@@ -1,0 +1,85 @@
+{
+  "ephemeride": "Sainte Céline",
+  "global_summary": "L'actualité du jour est marquée par des événements régionaux préoccupants, avec le drame des intempéries en Haute-Corse et des incidents majeurs comme l'incendie dans les Landes et le crash d'un avion militaire près de Nancy. Sur le front technologique, une confrontation juridique de taille émerge entre OpenAI et Apple, tandis que Netflix observe une baisse d'engagement, signaux d'une dynamique mouvante dans le secteur. \nCôté sport, l'entrée en lice de Victor Wembanyama en NBA a été scrutée, marquée par une première défaite. Nous célébrons aussi les performances inspirantes de Vincent Luis, champion du monde IronMan, et suivons avec attention l'état de l'infirmerie du XV de France, qui fait face à des défis avant les prochaines échéances. Un mélange d'actualités sérieuses et de prouesses sportives qui nous pousse à rester informés et résilients.",
+  "running_advice": "Cher(e) athlète, même si la journée s'annonce pluvieuse avec 100% de probabilité et des températures oscillant entre 10.2°C et 15.7°C, ne laisse pas la météo dicter ta motivation ! C'est le moment idéal pour tester ta résilience et renforcer ton mental. Équipe-toi en conséquence : veste imperméable, vêtements respirants et chaussures adaptées seront tes meilleurs alliés. \nL'indice UV est de 3.25, ce qui est modéré, mais même par temps couvert, une exposition prolongée peut nécessiter une légère protection, surtout si la pluie s'estompe. Pour l'heure, entre le lever (08:26) et le coucher du soleil (19:07), privilégie le milieu de journée, vers 13h-15h. C'est souvent là que les températures sont les plus clémentes et que la luminosité est la meilleure. Alors, chausse tes baskets et transforme cette pluie en énergie ! Chaque goutte est une opportunité de te surpasser.",
+  "weather_string": "🌧️ Pluie (10.2°C / 15.7°C)",
+  "weather_stats": {
+    "temp": "15.7°C",
+    "rain": "100%",
+    "uv": "3.25"
+  },
+  "categories": [
+    {
+      "label": "Région",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Décès suite intempéries Haute-Corse",
+          "summary": "Un homme disparu en Haute-Corse a été retrouvé mort, triste bilan des récentes intempéries dans le Sud-Est.",
+          "url": "https://www.sudouest.fr/environnement/catastrophes-naturelles/intemperies-dans-le-sud-est-l-homme-porte-disparu-en-haute-corse-a-ete-retrouve-mort-31168006.php",
+          "image": null
+        },
+        {
+          "title": "Incendie majeur dans les Landes",
+          "summary": "Une maison des Landes a été totalement embrasée, mobilisant d'importants moyens de secours et 36 sapeurs-pompiers.",
+          "url": "https://www.sudouest.fr/landes/saint-sever/landes-36-sapeurs-pompiers-interviennent-dans-l-incendie-d-une-maison-d-habitation-totalement-embrasee-31167887.php",
+          "image": null
+        },
+        {
+          "title": "Crash d'un Mirage 2000D près de Nancy",
+          "summary": "Un avion de chasse s'est écrasé en Meurthe-et-Moselle, un corps découvert, les recherches continuent.",
+          "url": "https://www.sudouest.fr/faits-divers/un-avion-militaire-s-ecrase-en-meurthe-et-moselle-un-corps-retrouve-des-recherches-toujours-en-cours-31167637.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech & Gaming",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "OpenAI attaque Apple pour vol de secrets",
+          "summary": "Une accusation choc d'OpenAI contre Apple pour vol de données confidentielles secoue le monde de la tech.",
+          "url": "https://www.journaldugeek.com/2026/10/21/openai-accuse-apple-davoir-vole-ses-secrets-les-plus-confidentiels-pour-lune-de-ses-dernieres-annonces/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Affrontement-judiciaire-entre-OpenAI-et-Apple-1280x853.jpg"
+        },
+        {
+          "title": "Netflix s'inquiète de la baisse d'audience",
+          "summary": "La direction de Netflix s'inquiète du désintérêt croissant des utilisateurs, regardant moins de contenus.",
+          "url": "https://www.journaldugeek.com/2026/10/21/vous-regardez-moins-netflix-la-direction-commence-a-sen-inqueter/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/netflix-licenciement-1280x853.jpg"
+        },
+        {
+          "title": "Xbox relance l'espoir du disque physique",
+          "summary": "Un nouveau poste chez Xbox suggère que les disques physiques pourraient retrouver un avenir face au numérique.",
+          "url": "https://www.journaldugeek.com/2026/10/21/le-job-qui-redonne-espoir-chez-xbox-les-disques-ont-ils-encore-un-avenir/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/programme-reconversion-disques-xbox-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama et les Spurs s'inclinent",
+          "summary": "Début difficile pour Victor Wembanyama et les Spurs, battus d'entrée de jeu face au Thunder en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-battus-d-entree-de-jeu-face-au-thunder-victor-wembanyama-en-difficulte_AV-202610210175.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/x3pObtKT5lge_XTar2vfxDRPyNc=/0x106:2048x1258/800x0/images/Shai-Gilgeous-Alexander-et-Victor-Wembanyama-lors-des-finales-de-conference-NBA-entre-OKC-et-San-Antonio-le-23-05-2026-2293377.jpg"
+        },
+        {
+          "title": "Vincent Luis champion du monde IronMan",
+          "summary": "Vincent Luis savoure son titre de champion du monde IronMan, qualifiant sa course de \"plus belle carrière\".",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "L'infirmerie des Bleus déborde en Rugby",
+          "summary": "Le XV de France fait face à une vague de blessures majeures avant l'annonce de la liste pour le Championnat des nations.",
+          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/xv-de-france-ramos-jalibert-nouchi-marchand-bamba-l-infirmerie-des-bleus-deborde-avant-l-annonce-de-la-liste-pour-le-championnat-des-nations_AV-202610200656.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/GTtfhbsYC2Ou3u8PZN7wxsXa3S4=/0x106:2048x1258/800x0/images/Matthieu-Jalibert-avec-le-XV-de-France-contre-le-Japon-en-juillet-2026-2365895.jpg"
+        }
+      ]
+    }
+  ]
+}
