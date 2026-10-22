@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Elodie",
-  "global_summary": "L'actualité de ce jour est marquée par des tensions géopolitiques persistantes, notamment avec les négociations incertaines sur la paix en Ukraine, tandis que le Sénégal fait face à une grève majeure avant les JOJ. Sur le plan national, la France est confrontée aux conséquences d'incidents sociaux et de cyberattaques affectant des milliers de sites publics, soulignant une certaine fragilité des infrastructures et de la sécurité. \nParallèlement, le monde économique surveille de près les performances de grands groupes comme Carrefour et la Fnac Darty, touchés par des conjonctures difficiles. Le domaine du sport brille avec des performances individuelles remarquables en triathlon et trail, mais est aussi secoué par des interrogations sur la gouvernance des JO 2030 et les débuts mitigés de jeunes talents en NBA.",
-  "running_advice": "Préparez vos baskets ! Malgré une légère pluie annoncée avec 23% de probabilité, et des températures fraîches mais agréables entre 10°C et 17.2°C, c'est une excellente journée pour une session de course revigorante. L'indice UV est bas (2.8), donc pas de souci côté soleil. Je vous conseille de viser votre run en fin de matinée ou début d'après-midi, idéalement entre 10h et 15h. La luminosité sera optimale avant le déclin et les températures les plus douces. Enfilez une tenue imperméable légère et partez conquérir le bitume ou les sentiers. C'est le moment idéal pour booster votre énergie et clarifier vos pensées !",
-  "weather_string": "🌧️ Pluie (10°C / 17.2°C)",
+  "global_summary": "La scène internationale est marquée par des tentatives de paix en Ukraine et des tensions sociales au Sénégal, tandis que le débat sur l'IA dans la création littéraire agite le monde de la culture. En France, la sécurité numérique des services publics et l'ordre public sont au cœur des préoccupations nationales, avec des incidents locaux qui ponctuent l'actualité. \nSur le front économique, des acteurs majeurs comme Carrefour et FNAC Darty naviguent dans un contexte de ventes difficiles et de conséquences d'événements sociaux. Le monde du sport vibre entre les débuts prometteurs de Wembanyama en NBA, les exploits en triathlon et les stratégies du XV de France, offrant un contraste motivant face aux défis du jour.",
+  "running_advice": "Aujourd'hui, chers sportifs, le thermomètre oscillera entre 10°C et 17°C avec une faible probabilité de pluie (23%) et un indice UV bas. C'est une fenêtre idéale pour une séance revigorante ! Je vous recommande de viser la fin de matinée, vers 10h30, ou le milieu d'après-midi, autour de 15h30, pour profiter de la douceur relative et d'une luminosité agréable. Une petite veste imperméable et un échauffement dynamique seront vos meilleurs alliés pour affronter la fraîcheur et une éventuelle bruine. Chaque kilomètre est une victoire, alors lacez vos baskets et allez chercher cette énergie positive ! Vous êtes capables de bien plus que vous ne l'imaginez.",
+  "weather_string": "🌧️ Pluie (10°C / 17°C)",
   "weather_stats": {
-    "temp": "17.2°C",
+    "temp": "17°C",
     "rain": "23%",
     "uv": "2.8"
   },
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Grève au Sénégal avant les JOJ",
-          "summary": "Une grève paralyse des secteurs clés au Sénégal à l'approche des Jeux Olympiques de la Jeunesse.",
-          "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-s%C3%A9n%C3%A9gal-une-gr%C3%A8ve-paralyse-plusieurs-secteurs-%C3%A0-l-approche-des-joj",
-          "image": "https://s.france24.com/media/display/bbf6a99a-cd75-11f1-9c41-4da0d2c6855d/w:1024/p:16x9/Senegal-00-00-00-00-Still001.jpg"
+          "title": "Ukraine: Poutine ouvert à la paix, Zelensky exige un cessez-le-feu",
+          "summary": "De nouvelles déclarations sur la paix en Ukraine, mais les conditions divergent, marquant une impasse persistante.",
+          "url": "https://www.20minutes.fr/monde/ukraine/4256410-20261021-guerre-ukraine-poutine-veut-bien-reprendre-negocier-paix-zelensky-reclame-abord-cessez-feu",
+          "image": "https://img.20mn.fr/hvkZ_s_MQ-WukY7r3EnatCk/1200x768_sur-cette-photo-de-piscine-diffusee-par-l-agence-d-etat-russe-spoutnik-le-president-russe-vladimir-poutine-a-droite-s-entretient-avec-l-envoye-special-americain-steve-witkoff-a-gauche-lors-de-leur-rencontre-a-saint-petersbourg-le-21-octobre-2026-photo-de-gavriil-grigorov-pool-afp-note-de-la-redaction-cette-image-est-diffusee-par-l-agence-publique-russe-spoutnik"
         },
         {
-          "title": "Littérature: l'IA au cœur d'un scandale",
-          "summary": "L'écrivain Thélyson Orélien est accusé par son éditeur canadien d'avoir utilisé l'intelligence artificielle.",
+          "title": "IA et littérature : un auteur canadien sous le feu des critiques",
+          "summary": "L'éditeur de Thélyson Orélien confirme l'usage de l'IA par l'écrivain, relançant le débat sur l'authenticité créative.",
           "url": "https://www.courrierinternational.com/article/litterature-l-editeur-canadien-de-thelyson-orelien-affirme-que-l-ecrivain-a-bien-utilise-l-ia_280119",
           "image": "https://focus.courrierinternational.com/2026/09/25/0/0/4000/2668/644/0/60/0/a16556c_ftp-1-adjh3fz1mwqi-france-literary-fight-1.JPG"
         },
         {
-          "title": "Ukraine: Poutine ouvert, Zelensky exige cessez-le-feu",
-          "summary": "Poutine se dit prêt à négocier la paix en Ukraine, mais Zelensky réclame d'abord un cessez-le-feu immédiat.",
-          "url": "https://www.20minutes.fr/monde/ukraine/4256410-20261021-guerre-ukraine-poutine-veut-bien-reprendre-negocier-paix-zelensky-reclame-abord-cessez-feu",
-          "image": "https://img.20mn.fr/hvkZ_s_MQ-WukY7r3EnatCk/1200x768_sur-cette-photo-de-piscine-diffusee-par-l-agence-d-etat-russe-spoutnik-le-president-russe-vladimir-poutine-a-droite-s-entretient-avec-l-envoye-special-americain-steve-witkoff-a-gauche-lors-de-leur-rencontre-a-saint-petersbourg-le-21-octobre-2026-photo-de-gavriil-grigorov-pool-afp-note-de-la-redaction-cette-image-est-diffusee-par-l-agence-publique-russe-spoutnik"
+          "title": "Grève au Sénégal avant les JOJ",
+          "summary": "Plusieurs secteurs clés du Sénégal sont paralysés par une grève, menaçant la préparation des Jeux Olympiques de la Jeunesse.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261021-s%C3%A9n%C3%A9gal-une-gr%C3%A8ve-paralyse-plusieurs-secteurs-%C3%A0-l-approche-des-joj",
+          "image": "https://s.france24.com/media/display/bbf6a99a-cd75-11f1-9c41-4da0d2c6855d/w:1024/p:16x9/Senegal-00-00-00-00-Still001.jpg"
         }
       ]
     },
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Un étudiant pilleur arrêté à Lyon",
-          "summary": "Un étudiant est rentré en Isère avec des articles pillés, qualifiant son acte de \"moment d'euphorie\".",
-          "url": "https://www.ledauphine.com/faits-divers-justice/2026/10/21/isere-c-etait-un-moment-d-euphorie-l-etudiant-etait-rentre-de-lyon-charge-d-articles-pilles",
-          "image": "https://cdn-s-www.ledauphine.com/images/96B5B499-8A95-46B5-A80F-868CC07475B0/NW_listB/c-etait-un-moment-d-euphorie-l-etudiant-etait-rentre-de-lyon-charge-d-articles-pilles-1792605878.jpg"
+          "title": "Cyberattaque majeure : des milliers de sites français hors ligne",
+          "summary": "Des milliers de sites, dont ceux des préfectures et services publics, ont été ciblés, perturbant l'administration française.",
+          "url": "https://www.europe1.fr/technologies/prefectures-francaises-services-publics-pourquoi-des-milliers-de-sites-internet-ont-ete-mis-hors-ligne-1171338",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/21/20/043_dpa-pa_251216-99-940198_dpai_1_6ad907aa78ad6.jpg"
         },
         {
-          "title": "Un château historique incendié en Touraine",
-          "summary": "Le château de la Blotterie à Joué-lès-Tours, que le maire luttait pour préserver, a été tragiquement incendié.",
+          "title": "Un château historique ravagé par les flammes en Indre-et-Loire",
+          "summary": "Malgré les efforts, le château de la Blotterie a été détruit par un incendie, laissant un maire \"anéanti\".",
           "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/joue-les-tours/le-maire-s-etait-battu-pour-le-preserver-le-destin-tragique-du-chateau-de-la-blotterie-incendie-a-joue-les-tours-1792606052",
           "image": "https://images.lanouvellerepublique.fr/image/upload/v1792591963/6ad8ff626443e350428b4619"
         },
         {
-          "title": "Maintien de l'ordre: les propositions du Sénat",
-          "summary": "Le Sénat propose drones, marquage codant et sanctions durcies pour reprendre le contrôle et renforcer l'ordre.",
-          "url": "https://www.sudouest.fr/societe/greves-et-manifestations/drones-marquage-codant-sanctions-penales-durcies-les-propositions-du-senat-pour-renforcer-le-maintien-de-l-ordre-et-reprendre-le-controle-31179007.php",
-          "image": null
+          "title": "Un étudiant arrêté en Isère pour pillage",
+          "summary": "Un étudiant est interpellé en Isère, soupçonné d'avoir participé à des pillages d'articles après des émeutes.",
+          "url": "https://www.ledauphine.com/faits-divers-justice/2026/10/21/isere-c-etait-un-moment-d-euphorie-l-etudiant-etait-rentre-de-lyon-charge-d-articles-pilles",
+          "image": "https://cdn-s-www.ledauphine.com/images/96B5B499-8A95-46B5-A80F-868CC07475B0/NW_listB/c-etait-un-moment-d-euphorie-l-etudiant-etait-rentre-de-lyon-charge-d-articles-pilles-1792605878.jpg"
         }
       ]
     },
@@ -62,44 +62,44 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "GTA 6 : Disney World à Leonida ?",
-          "summary": "Des rumeurs circulent sur la présence d'une réplique de Disney World dans le monde de GTA 6 à Leonida.",
-          "url": "https://www.journaldugeek.com/2026/10/21/gta-6-est-ce-quil-y-aura-une-replique-de-disney-world-a-leonida/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/10/nouvelles-infos-gta-6-1-1280x853.jpg"
+          "title": "Meta lourdement sanctionnée pour le scandale Cambridge Analytica",
+          "summary": "Meta écope d'une amende colossale suite au scandale Cambridge Analytica, soulignant les enjeux de la vie privée des données.",
+          "url": "https://www.journaldugeek.com/2026/10/22/scandale-cambridge-analytica-meta-condamnee-a-une-enorme-amende/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/X-WhatsApp-Instagram-Messenger-Facebook-reseaux-sociaux-iPhone-iOS-1-1280x853.jpg"
         },
         {
-          "title": "Cyberattaque massive sur services publics français",
-          "summary": "Des milliers de sites internet, dont des préfectures, ont été mis hors ligne suite à une cyberattaque majeure.",
-          "url": "https://www.europe1.fr/technologies/prefectures-francaises-services-publics-pourquoi-des-milliers-de-sites-internet-ont-ete-mis-hors-ligne-1171338",
-          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/10/21/20/043_dpa-pa_251216-99-940198_dpai_1_6ad907aa78ad6.jpg"
-        },
-        {
-          "title": "La SEC pressée de finir l'anonymat",
-          "summary": "Un cabinet de conseil exhorte la SEC à mettre fin à l'anonymat des actionnaires, un enjeu financier majeur.",
+          "title": "La SEC pressée de lever l'anonymat des actionnaires",
+          "summary": "Un cabinet de conseil exhorte la SEC à mettre fin à l'anonymat des actionnaires, pour plus de transparence financière.",
           "url": "https://fr.investing.com/news/stock-market-news/un-cabinet-de-conseil-presse-la-sec-de-mettre-fin-a-lanonymat-des-actionnaires-3646408",
           "image": "https://content-media.investing.com/news/LYNXMPEB0M0CA_M.jpg"
+        },
+        {
+          "title": "GTA 6: Une réplique de Disney World en approche?",
+          "summary": "Des rumeurs circulent sur l'intégration d'une réplique de Disney World dans le monde de GTA 6 à Leonida.",
+          "url": "https://www.journaldugeek.com/2026/10/21/gta-6-est-ce-quil-y-aura-une-replique-de-disney-world-a-leonida/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/nouvelles-infos-gta-6-1-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Économie",
-      "emoji": "💼",
+      "label": "Business",
+      "emoji": "💰",
       "articles": [
         {
-          "title": "FNAC Darty maintient ses objectifs 2026",
-          "summary": "Malgré le recul des ventes en France, FNAC Darty confirme ses objectifs de croissance pour l'année 2026.",
+          "title": "FNAC Darty maintient le cap malgré la baisse des ventes",
+          "summary": "Malgré un recul des ventes en France, FNAC Darty réaffirme ses objectifs financiers pour 2026.",
           "url": "https://www.lesechos.fr/industrie-services/conso-distribution/fnac-darty-maintient-ses-objectifs-2026-malgre-le-recul-des-ventes-en-france-2258226",
           "image": "https://media.lesechos.com/api/v1/images/view/6ad8ff2c538dad023c0d1b60/1280x720/02101417255875-web-tete.jpg"
         },
         {
-          "title": "Carrefour alerte sur ses profits post-émeutes",
-          "summary": "Carrefour lance un profit warning, révélant l'impact économique majeur des récentes émeutes sur ses résultats.",
+          "title": "Carrefour émet un profit warning après les émeutes",
+          "summary": "Le géant Carrefour revoit ses prévisions de profits à la baisse, impacté par les conséquences des émeutes.",
           "url": "https://www.lesechos.fr/finance-marches/le-radar-des-marches/le-profit-warning-de-carrefour-derriere-le-choc-des-emeutes-2258224",
           "image": "https://media.lesechos.com/api/v1/images/view/6ad8fea80e5baec003006e43/1280x720/02101416714549-web-tete.jpg"
         },
         {
-          "title": "Football: les salaires astronomiques de 2026",
-          "summary": "Le classement des joueurs de football les mieux payés en 2026 révèle des salaires toujours plus vertigineux.",
+          "title": "Football: Les salaires astronomiques des joueurs 2026 révélés",
+          "summary": "Découvrez les footballeurs les mieux rémunérés de 2026, avec des salaires atteignant des sommets records.",
           "url": "https://www.parismatch.com/actu/sport/football-quels-sont-les-joueurs-les-mieux-payes-de-lannee-2026-leurs-salaires-astronomiques-reveles-277826",
           "image": "https://resize-parismatch.lanmedia.fr/var/pm/public/styles/paysage/public/media/image/2026/10/21/21/2026-10-09t181056z_1712612093_up1ema91ei7ih_rtrmadp_3_soccer-saudi-nsr-dra.jpg?VersionId=ljiHlOpektaSGb3fheWwhzjBwMjKD3yJ"
         }
@@ -107,41 +107,41 @@
     },
     {
       "label": "Gironde",
-      "emoji": "📍",
+      "emoji": "🍷",
       "articles": [
         {
-          "title": "Bordeaux: pillages et émeutes jugés",
-          "summary": "Les violences du 17 octobre à Bordeaux continuent d'occuper le tribunal avec de nombreux dossiers de pillages.",
+          "title": "Bordeaux: Émeutes et pillages devant le tribunal",
+          "summary": "Le tribunal de Bordeaux reste saturé par les affaires de pillages et émeutes survenues le 17 octobre.",
           "url": "https://www.sudouest.fr/gironde/bordeaux/violences-du-17-octobre-a-bordeaux-pillages-et-emeutes-continuent-d-occuper-le-tribunal-31179819.php",
           "image": null
         },
         {
           "title": "Casse au scooter bélier près de Bordeaux",
-          "summary": "Un commerce de matériel informatique a été victime d'un casse audacieux par \"scooter bélier\" près de Bordeaux.",
+          "summary": "Un commerce informatique près de Bordeaux a été victime d'un casse audacieux avec un scooter bélier.",
           "url": "https://www.sudouest.fr/faits-divers/pres-de-bordeaux-un-casse-au-scooter-belier-dans-un-commerce-de-materiel-informatique-31179940.php",
+          "image": null
+        },
+        {
+          "title": "Maintien de l'ordre: les propositions du Sénat",
+          "summary": "Le Sénat propose drones, marquage codant et sanctions durcies pour reprendre le contrôle de l'ordre public.",
+          "url": "https://www.sudouest.fr/societe/greves-et-manifestations/drones-marquage-codant-sanctions-penales-durcies-les-propositions-du-senat-pour-renforcer-le-maintien-de-l-ordre-et-reprendre-le-controle-31179007.php",
           "image": null
         }
       ]
     },
     {
-      "label": "Culture & Geek",
+      "label": "jdg",
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Meta lourdement condamnée après Cambridge Analytica",
-          "summary": "Meta écope d'une énorme amende suite au scandale Cambridge Analytica, marquant un revers majeur.",
-          "url": "https://www.journaldugeek.com/2026/10/22/scandale-cambridge-analytica-meta-condamnee-a-une-enorme-amende/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/X-WhatsApp-Instagram-Messenger-Facebook-reseaux-sociaux-iPhone-iOS-1-1280x853.jpg"
-        },
-        {
-          "title": "EA ferme BioWare, Mass Effect abandonné",
-          "summary": "Coup de tonnerre: EA ferme BioWare, mettant fin au développement du prochain jeu Mass Effect.",
+          "title": "EA ferme BioWare et abandonne le prochain Mass Effect !",
+          "summary": "Electronic Arts ferme le studio BioWare, signant l'arrêt de mort du développement du prochain jeu Mass Effect.",
           "url": "https://www.journaldugeek.com/2026/10/22/ea-ferme-bioware-et-abandonne-le-prochain-mass-effect/",
           "image": "https://www.journaldugeek.com/app/uploads/2021/02/unnamed-4-780x439.jpg"
         },
         {
-          "title": "Clayface: l'impact sur le DCU dévoilé",
-          "summary": "La fin du film Clayface soulève des questions cruciales sur l'avenir de l'univers cinématographique DC.",
+          "title": "Clayface : que signifie la fin du film pour le DCU ?",
+          "summary": "La fin du film Clayface suscite des interrogations sur son impact et ses implications pour l'avenir de l'univers DC.",
           "url": "https://www.journaldugeek.com/2026/10/22/clayface-que-signifie-vraiment-la-fin-du-film-pour-le-dcu/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/10/clayface-avis-film-dc-4-1280x853.jpg"
         }
@@ -152,22 +152,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama déçu après défaite NBA",
-          "summary": "Victor Wembanyama, \"pas lui-même\", est dépité après la défaite des Spurs face au Thunder en NBA.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-je-n-ai-pas-ete-moi-meme-wembanyama-depite-par-sa-prestation-apres-la-defaite-des-spurs-face-au-thunder_AV-202610210416.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Ey_R5t0J3OcHK6ilPXJrMf04Ves=/191x48:1983x1056/800x0/images/Victor-Wembanyama-lors-de-San-Antonio-Oklahoma-le-20-octobre-2026-2369422.jpg"
+          "title": "Wembanyama en difficulté pour son premier match NBA",
+          "summary": "Les Spurs de Victor Wembanyama ont été battus par le Thunder, marquant un début difficile pour le jeune Français.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-battus-d-entree-de-jeu-face-au-thunder-victor-wembanyama-en-difficulte_AV-202610210175.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/x3pObtKT5lge_XTar2vfxDRPyNc=/0x106:2048x1258/800x0/images/Shai-Gilgeous-Alexander-et-Victor-Wembanyama-lors-des-finales-de-conference-NBA-entre-OKC-et-San-Antonio-le-23-05-2026-2293377.jpg"
         },
         {
-          "title": "Vincent Luis, Champion du Monde IronMan",
-          "summary": "Vincent Luis célèbre son titre de champion du monde IronMan, la \"plus belle course de sa carrière\".",
+          "title": "Vincent Luis Champion du Monde IronMan: une course historique",
+          "summary": "Vincent Luis savoure son titre de champion du monde IronMan, qualifiant sa performance de \"plus belle course de [sa] carrière\".",
           "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
         },
         {
-          "title": "JO 2030: des ruptures conventionnelles contestées",
-          "summary": "Des \"montants anormalement généreux\" de plus de 320 000 euros pour des ruptures conventionnelles aux JO 2030.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/jo-2030-des-montants-anormalement-genereux-plus-de-320-000-euros-de-ruptures-conventionnelles_AV-202610210761.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/biUQarbmWZHlg23pSirsj9GD2TE=/0x106:2048x1258/800x0/images/JO-Alpes-2030-2192413.jpg"
+          "title": "XV de France: Alldritt vise la reconquête du numéro 8",
+          "summary": "Un an après, Grégory Alldritt entrevoit une opportunité pour retrouver sa place de numéro 8 au sein du XV de France.",
+          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/xv-de-france-un-an-apres-alldritt-a-une-ouverture-pour-reconquerir-le-numero-8_AV-202610210840.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lkHYturmVohicZaByKyq9zj-9ts=/0x209:2048x1361/800x0/images/Gregory-Alldritt-avec-La-Rochelle-en-decembre-2025-2214337.jpg"
         }
       ]
     }
