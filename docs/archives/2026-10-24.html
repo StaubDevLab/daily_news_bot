@@ -1,0 +1,430 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 24/10/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">samedi 24 octobre • Saint Florentin</p>
+            <div class="weather-badge">
+              🌧️ Pluie (10.4°C / 15.9°C) &nbsp;|&nbsp; ☀️ UV: 3.25 &nbsp;|&nbsp; 💧 35%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité de ce jour est marquée par une géopolitique toujours tendue, avec la Russie sous le feu des critiques en Ukraine et une situation explosive en Cisjordanie où les violences s'intensifient. En France, les défis sont également nombreux, allant du report inattendu d'une visite présidentielle à des manifestations annoncées comme chaotiques, témoignant d'un climat social et environnemental sous pression.
+Au-delà de ces enjeux majeurs, le monde de la tech s'interroge sur l'impact environnemental des data centers de l'IA, tandis que le secteur économique jongle entre réussites locales et incertitudes liées aux mobilisations. Heureusement, le sport nous offre des moments de dépassement, avec des performances notables en triathlon et l'éternel spectacle de la NBA pour alléger cette atmosphère complexe. </p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Aujourd'hui, Saint Florentin nous rappelle que la persévérance paie ! Pour votre session running, les températures sont idéales, oscillant entre 10.4°C et 15.9°C. La pluie est possible (35%), mais ne vous laissez pas décourager : une tenue adaptée et une bonne playlist suffiront ! Le pic d'UV (3.25) n'étant pas négligeable, pensez à appliquer une protection solaire si vous courez en milieu de journée. L'heure parfaite pour chausser vos baskets serait en fin de matinée ou début d'après-midi, entre 10h00 et 16h00, pour profiter de la luminosité maximale et éviter les premières pluies matinales. Allez, on se motive pour un corps et un esprit au top !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://img.20mn.fr/Vsv9oG5xRuS5ls8o7vOJIyk/1200x768_dossier-la-premiere-dame-melania-trump-prend-la-parole-dans-la-roseraie-de-la-maison-blanche-le-19-octobre-2026-a-washington-ap-photo-mark-schiefelbein-dossier-wx304-26296505611540-file-2610231613" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.20minutes.fr/monde/ukraine/4257011-20261023-guerre-ukraine-russie-pointee-doigt-attaques-navires-melania-trump-implique-vante" target="_blank">Ukraine : la Russie accusée d'attaques navales.</a>
+                    </h3>
+                    <p class="article-summary">La Russie est accusée d'attaques navales en Ukraine, Melania Trump s'exprimant sur le conflit.</p>
+                    <a href="https://www.20minutes.fr/monde/ukraine/4257011-20261023-guerre-ukraine-russie-pointee-doigt-attaques-navires-melania-trump-implique-vante" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.lemde.fr/2026/10/23/251/0/3011/1505/644/322/60/0/ff2ff0e_ftp-1-rrehap36ghnu-afp-d48r7v7.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html" target="_blank">Cisjordanie : Nétanyahou promet destruction et colonies.</a>
+                    </h3>
+                    <p class="article-summary">En réponse à une attaque, Nétanyahou annonce des destructions massives et l'extension des colonies en Cisjordanie.</p>
+                    <a href="https://www.lemonde.fr/international/article/2026/10/23/cisjordanie-en-reponse-a-la-mort-de-deux-militaires-israeliens-netanyahou-promet-des-destructions-d-ampleur-et-encore-plus-de-colonies_6799138_3210.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/TFN4YKrPTj3uqX2qgmevyMDMVvw/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/23/6adb94026acaa251424831.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/monde/palestine/cisjordanie-vi0lences-dans-les-champs-d-oliviers_8251309.html" target="_blank">Cisjordanie : tensions et violences aux oliviers.</a>
+                    </h3>
+                    <p class="article-summary">Les champs d'oliviers en Cisjordanie sont le théâtre de nouvelles violences, accentuant les tensions locales.</p>
+                    <a href="https://www.franceinfo.fr/monde/palestine/cisjordanie-vi0lences-dans-les-champs-d-oliviers_8251309.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://media.letelegramme.fr/api/v1/images/view/6adba2c486f6d0b7410751f1/web_golden_xxl/6adba2c486f6d0b7410751f1.1" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.letelegramme.fr/france/emmanuel-macron-reporte-sa-visite-en-afrique-prevue-fin-octobre-7144812.php" target="_blank">Macron reporte sa visite africaine.</a>
+                    </h3>
+                    <p class="article-summary">Emmanuel Macron a reporté sa visite en Afrique, initialement prévue pour la fin du mois d'octobre.</p>
+                    <a href="https://www.letelegramme.fr/france/emmanuel-macron-reporte-sa-visite-en-afrique-prevue-fin-octobre-7144812.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.mediapart.fr/etmagine/default/files/2026/10/23/261023-img-autoroute-a412-en-haute-savoie-la-procureure-dannecy-demande-la-suspension-du-chantier.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.mediapart.fr/journal/france/231026/autoroute-a412-en-haute-savoie-la-procureure-dannecy-demande-la-suspension-du-chantier" target="_blank">A412 : suspension du chantier demandée.</a>
+                    </h3>
+                    <p class="article-summary">La procureure d'Annecy demande la suspension du chantier de l'autoroute A412 en Haute-Savoie.</p>
+                    <a href="https://www.mediapart.fr/journal/france/231026/autoroute-a412-en-haute-savoie-la-procureure-dannecy-demande-la-suspension-du-chantier" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.mediapart.fr/etmagine/default/files/2026/10/23/261023-img-manifestation-interdite-lyon-la-situation-promet-d-etre-chaotique.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.mediapart.fr/journal/economie-et-social/231026/manifestation-interdite-lyon-la-situation-promet-d-etre-chaotique" target="_blank">Manifestation lyonnaise interdite : chaos en vue.</a>
+                    </h3>
+                    <p class="article-summary">Une manifestation interdite à Lyon risque de créer une situation chaotique en centre-ville.</p>
+                    <a href="https://www.mediapart.fr/journal/economie-et-social/231026/manifestation-interdite-lyon-la-situation-promet-d-etre-chaotique" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💡 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/Secheresse-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/23/ia-data-centers-installes-regions-leau-manque-non-sens-aggrave-rechauffement-climatique/" target="_blank">IA et data centers : le coût de l'eau.</a>
+                    </h3>
+                    <p class="article-summary">L'IA aggrave la pénurie d'eau en installant des data centers dans des régions déjà arides.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/23/ia-data-centers-installes-regions-leau-manque-non-sens-aggrave-rechauffement-climatique/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn.overlord.media/valeo_un_pole_technologique_au_caire_dedie_a_l_ia_dans_le_secteur_automobile_f1178f9e_9aaef925ac.webp" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lerevenu.com/reussir-bourse/avis-des-pros/stellantis-bolt-et-la-metropole-du-grand-paris-se-" target="_blank">Mobilité autonome arrive dans le Grand Paris.</a>
+                    </h3>
+                    <p class="article-summary">Stellantis, Bolt et le Grand Paris collaborent pour lancer des services de mobilité autonome innovants.</p>
+                    <a href="https://www.lerevenu.com/reussir-bourse/avis-des-pros/stellantis-bolt-et-la-metropole-du-grand-paris-se-" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/timeline-gta-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/dossier/gta-6-voici-la-chronologie-officielle-de-la-licence-grand-theft-auto/" target="_blank">GTA 6 : La chronologie officielle de la licence.</a>
+                    </h3>
+                    <p class="article-summary">Découvrez la chronologie officielle de la licence Grand Theft Auto, un incontournable du jeu vidéo.</p>
+                    <a href="https://www.journaldugeek.com/dossier/gta-6-voici-la-chronologie-officielle-de-la-licence-grand-theft-auto/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📈 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JZ4MdGZ6GGll6aZQB47Yyns4bRM=/60x2:1196x641/800x0/images/-465048.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/economie/economie-social/social/a-l-issue-des-elections-professionnelles-force-ouvriere-detrone-la-cgt-en-tant-que-premier-syndicat-de-la-ratp_AD-202610230796.html" target="_blank">RATP : FO détrône la CGT.</a>
+                    </h3>
+                    <p class="article-summary">Force Ouvrière devient le premier syndicat à la RATP, détrônant la CGT après les élections professionnelles.</p>
+                    <a href="https://www.bfmtv.com/economie/economie-social/social/a-l-issue-des-elections-professionnelles-force-ouvriere-detrone-la-cgt-en-tant-que-premier-syndicat-de-la-ratp_AD-202610230796.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.ledauphine.com/images/20280DFA-95E4-4F9B-A330-69CCC6367A3C/NW_listB/mobilisation-du-24-octobre-deja-fragilises-les-commercants-des-centres-villes-retiennent-leur-souffle-1792777308.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.ledauphine.com/social/2026/10/23/mobilisation-du-24-octobre-deja-fragilises-les-commercants-des-centres-villes-retiennent-leur-souffle" target="_blank">Commerçants fragilisés par la mobilisation.</a>
+                    </h3>
+                    <p class="article-summary">Les commerçants des centres-villes redoutent la mobilisation du 24 octobre, fragilisant leur activité économique.</p>
+                    <a href="https://www.ledauphine.com/social/2026/10/23/mobilisation-du-24-octobre-deja-fragilises-les-commercants-des-centres-villes-retiennent-leur-souffle" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.ledauphine.com/images/CDD1DADE-13FA-423A-9E65-3313949F1FE2/NW_listB/le-domaine-de-la-marquise-et-ses-55-logements-a-ete-inaugure-1792782811.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.ledauphine.com/economie/2026/10/23/le-domaine-de-la-marquise-et-ses-55-logements-a-ete-inaugure" target="_blank">Valence : Nouveau domaine résidentiel inauguré.</a>
+                    </h3>
+                    <p class="article-summary">Le Domaine de la Marquise à Valence, offrant 55 nouveaux logements, a été officiellement inauguré.</p>
+                    <a href="https://www.ledauphine.com/economie/2026/10/23/le-domaine-de-la-marquise-et-ses-55-logements-a-ete-inaugure" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📍 Gironde</div>
+              
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/gironde/bordeaux/bordeaux-cinq-commerces-fermes-par-la-prefecture-pour-du-tabac-afghan-31186286.php" target="_blank">Bordeaux : cinq commerces fermés.</a>
+                    </h3>
+                    <p class="article-summary">Cinq commerces bordelais ont été fermés par la préfecture pour la vente de tabac afghan illégal.</p>
+                    <a href="https://www.sudouest.fr/gironde/bordeaux/bordeaux-cinq-commerces-fermes-par-la-prefecture-pour-du-tabac-afghan-31186286.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/faits-divers/attouchements-sur-un-adolescent-dans-un-cinema-a-bordeaux-un-quinquagenaire-deja-connu-de-la-justice-interpelle-31212518.php" target="_blank">Bordeaux : agression dans un cinéma.</a>
+                    </h3>
+                    <p class="article-summary">Un quinquagénaire connu de la justice interpellé pour attouchements sur adolescent dans un cinéma bordelais.</p>
+                    <a href="https://www.sudouest.fr/faits-divers/attouchements-sur-un-adolescent-dans-un-cinema-a-bordeaux-un-quinquagenaire-deja-connu-de-la-justice-interpelle-31212518.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/haute-vienne/limoges/apres-l-incendie-de-l-hotel-de-ville-a-limoges-sebastien-lecornu-delivre-un-message-de-resilience-31210840.php" target="_blank">Limoges : Lecornu après l'incendie.</a>
+                    </h3>
+                    <p class="article-summary">Sébastien Lecornu visite Limoges suite à l'incendie de l'hôtel de ville, délivrant un message de résilience.</p>
+                    <a href="https://www.sudouest.fr/haute-vienne/limoges/apres-l-incendie-de-l-hotel-de-ville-a-limoges-sebastien-lecornu-delivre-un-message-de-resilience-31210840.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/AB8EuHkP-ybP5nHY8dyd8lG5cOs=/7x111:2039x1254/800x0/images/LeBron-James-se-chauffe-avec-un-fan-new-yorkais-pour-sa-premiere-sous-le-maillot-des-76ers-2369392.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-une-journee-calme-au-bureau-le-bron-james-replique-sechement-a-trump-apres-ses-attaques_AV-202610230306.html" target="_blank">LeBron James répond à Trump.</a>
+                    </h3>
+                    <p class="article-summary">LeBron James a sèchement répliqué à Donald Trump après des attaques, une "journée calme au bureau".</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-une-journee-calme-au-bureau-le-bron-james-replique-sechement-a-trump-apres-ses-attaques_AV-202610230306.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/br6Twf0Ow0oRZpRQMLh5tG87qgk=/0x0:1600x900/800x0/images/Spurs-Rockets-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-nba-de-wembanyama-en-direct-2370420.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/spurs-rockets-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-nba-de-wembanyama-en-direct_AN-202610230038.html" target="_blank">Wembanyama : où voir le match ?</a>
+                    </h3>
+                    <p class="article-summary">Ne manquez pas le match NBA de Wembanyama (Spurs-Rockets) : toutes les infos diffusion sont là.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/spurs-rockets-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-nba-de-wembanyama-en-direct_AN-202610230038.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" target="_blank">Triathlon : Vincent Luis champion du monde Ironman.</a>
+                    </h3>
+                    <p class="article-summary">Vincent Luis célèbre son titre de champion du monde Ironman, qualifiant cette victoire de plus belle course de sa carrière.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
