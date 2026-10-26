@@ -1,0 +1,172 @@
+{
+  "ephemeride": "Saint Dimitri",
+  "global_summary": "L'actualité de ce jour est marquée par des dynamiques politiques intenses, avec des élections en Europe et le lancement d'une campagne présidentielle en France, signe d'une scène internationale en pleine effervescence. Parallèlement, des avancées technologiques fascinantes côtoient des défis de cybersécurité majeurs, tandis que les enjeux sociétaux et de justice occupent une place prépondérante dans l'hexagone. \nMais l'esprit de conquête n'est jamais loin ! Le monde du sport nous offre son lot d'inspirations, célébrant les performances de nos athlètes français qui brillent sur la scène mondiale, prouvant que l'effort et la persévérance sont toujours récompensés. C'est un rappel puissant que, malgré les turbulences, l'innovation, la résilience et l'excellence humaine continuent de tracer le chemin.",
+  "running_advice": "Préparez vos baskets, champions et championnes ! Avec des températures allant de 7.7°C à 21.1°C, c'est une journée idéale pour une course revigorante. Le brouillard matinal se dissipera pour laisser place à une ambiance parfaite, et avec seulement 18% de probabilité de pluie, aucune excuse n'est valable pour ne pas vous surpasser. \nJe vous recommande vivement de chausser vos baskets en **fin de matinée, entre 10h00 et 12h00**, ou en **début d'après-midi, vers 14h00-15h00**, pour profiter pleinement de la douceur. Et puisque l'indice UV est à 3.5, n'oubliez pas une légère protection solaire pour prendre soin de votre peau. C'est le moment de booster votre énergie et d'atteindre vos objectifs ! Allez, on y va !",
+  "weather_string": "🌫️ Brouillard (7.7°C / 21.1°C)",
+  "weather_stats": {
+    "temp": "21.1°C",
+    "rain": "18%",
+    "uv": "3.5"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Présidente sortante de Bulgarie en tête au premier tour",
+          "summary": "La présidente bulgare, favorable au dialogue avec Moscou, mène les élections, signalant des enjeux géopolitiques complexes.",
+          "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/en-bulgarie-la-presidente-sortante-partisane-du-dialogue-avec-moscou-arrive-legerement-en-tete-du-premier-tour_8253469.html",
+          "image": "https://www.franceinfo.fr/pictures/fR5HBrp-9EZc3brPqUdHPiWAHx0/0x0:1024x576/432x243/filters:format(jpg)/2026/10/25/6ade57f5527e7944079380.jpg"
+        },
+        {
+          "title": "La CDU maintient sa victoire à la mairie d'Offenbourg",
+          "summary": "En Bade-Wurtemberg, la CDU confirme son ancrage local en conservant la mairie stratégique d'Offenbourg.",
+          "url": "https://www.lalsace.fr/elections/2026/10/25/election-la-cdu-conserve-la-mairie-d-offenbourg",
+          "image": "https://cdn-s-www.lalsace.fr/images/600D1F87-0491-473D-8E4C-049B561B0B0D/NW_listB/election-la-cdu-conserve-la-mairie-d-offenbourg-1792955241.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Marine Le Pen débute sa course à la présidentielle",
+          "summary": "À Orléans, Marine Le Pen donne le coup d'envoi de sa campagne pour l'élection présidentielle française.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261025-marine-le-pen-lance-sa-campagne-pour-l-%C3%A9lection-pr%C3%A9sidentielle-%C3%A0-orl%C3%A9ans",
+          "image": "https://s.france24.com/media/display/bf044658-d0a7-11f1-9496-5b4a75578ebb/w:1024/p:16x9/MLP-vignette-FR.jpg"
+        },
+        {
+          "title": "Le nouveau musée du Pays Plougastel ouvre ses portes",
+          "summary": "Le musée du Pays Plougastel est officiellement inauguré, célébrant le patrimoine local avec de nouvelles expositions.",
+          "url": "https://www.letelegramme.fr/finistere/plougastel-daoulas-29470/le-musee-du-pays-plougastel-inaugure-7146008.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6ade5c7017057e272a096552/web_golden_xxl/6ade5c7017057e272a096552.1"
+        },
+        {
+          "title": "Un bureau de tabac redonne le sourire à Thilouze",
+          "summary": "Après des mois de fermeture, la réouverture d'un bureau de tabac à Thilouze apporte de la joie aux habitants.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/thilouze/ils-redonnent-le-sourire-aux-habitants-en-reprenant-le-bureau-de-tabac-ferme-depuis-des-mois-dans-la-commune-de-thilouze-1792956737",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1792689624/6ade593fef41db58418b456c"
+        }
+      ]
+    },
+    {
+      "label": "Technologie",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Un pirate revendique le vol de données Orange",
+          "summary": "Plus de 6 Go de documents internes d'Orange auraient été volés par un pirate informatique, alertant sur la cybersécurité.",
+          "url": "https://www.macg.co/ailleurs/2026/10/orange-un-pirate-revendique-le-vol-de-plus-de-6-go-de-documents-internes-311867",
+          "image": "https://cdn.mgig.fr/2026/10/mga-41b9aa98-w375-w1500-w750_accroche.jpg"
+        },
+        {
+          "title": "La Fiat Multipla aurait pu être avant-gardiste",
+          "summary": "La Fiat Multipla aurait pu révolutionner l'automobile avec une motorisation jamais vue, révélant son potentiel inexploité.",
+          "url": "https://www.caradisiac.com/la-fiat-multipla-aurait-pu-etre-avant-gardiste-avec-cette-motorisation-revolutionnaire-224736.htm",
+          "image": "https://images.caradisiac.com/logos/6/6/8/0/296680/S4-la-fiat-multipla-aurait-pu-etre-avant-gardiste-avec-cette-motorisation-revolutionnaire-224736.jpg"
+        },
+        {
+          "title": "Une Cadillac unique rescapée d'une casse",
+          "summary": "Découverte dans le Michigan, une Cadillac rare a été sauvée de la destruction grâce à une vente aux enchères.",
+          "url": "https://www.autoplus.fr/actualite/insolite/decouverte-dans-une-casse-du-michigan-cette-cadillac-unique-a-finalement-ete-sauvee-grace-a-une-vente-aux-encheres-1473217.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/10/captura-de-pantalla-2026-10-25-a-las-20.20.25.png"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Consommation",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Astuce E.Leclerc : Économisez en changeant vos jours de courses",
+          "summary": "Une cliente révèle comment elle a considérablement réduit ses dépenses chez E.Leclerc en modifiant ses habitudes d'achat.",
+          "url": "https://www.lefigaro.fr/bons-plans/mes-tickets-de-caisse-explosaient-chez-e-leclerc-j-ai-change-mes-jours-de-courses-et-mes-factures-ont-degringole-20261025",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/23/4d00ecb8060c271ca3cf381d5e7ea7b417b8712a0f85a60f2aa25b099b18b77e.jpg"
+        },
+        {
+          "title": "Inauguration du nouveau marché du Logis-Neuf",
+          "summary": "Le Logis-Neuf aux Tourrettes célèbre l'ouverture de son nouveau marché, dynamisant le commerce local.",
+          "url": "https://www.ledauphine.com/economie/2026/10/25/le-nouveau-marche-du-logis-neuf-a-ete-inaugure-ce-dimanche",
+          "image": "https://cdn-s-www.ledauphine.com/images/0C131A38-5F99-4FE9-89FD-7BBE691F6704/NW_listB/le-nouveau-marche-du-logis-neuf-a-ete-inaugure-ce-dimanche-1792956446.jpg"
+        },
+        {
+          "title": "Quatre tables des Vosges en lice sur M6",
+          "summary": "Quatre tables des Vosges défendent leur terroir sur M6, mettant en lumière saveurs et savoir-faire.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/10/25/quatre-tables-en-lice-sur-m6-pour-defendre-les-saveurs-du-terroir",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/1477114D-9428-41AC-8E38-36890A302273/NW_listB/quatre-tables-en-lice-sur-m6-pour-defendre-les-saveurs-du-terroir-1792956228.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Société & Justice",
+      "emoji": "⚖️",
+      "articles": [
+        {
+          "title": "Procès Chouviat : Trois policiers jugés pour homicide",
+          "summary": "Six ans après, trois policiers comparaissent pour homicide involontaire suite au décès de Cédric Chouviat lors d'un contrôle.",
+          "url": "https://www.sudouest.fr/faits-divers/mort-de-cedric-chouviat-lors-d-un-controle-routier-plus-de-6-ans-plus-tard-trois-policiers-juges-pour-homicide-involontaire-31246355.php"
+        },
+        {
+          "title": "Un greffier jugé pour falsification de signature",
+          "summary": "Sa vie professionnelle en jeu, un greffier est poursuivi pour avoir copié-collé la signature de son supérieur.",
+          "url": "https://www.sudouest.fr/justice/ma-vie-professionnelle-est-terminee-un-greffier-detache-a-la-prefecture-du-tarn-juge-pour-avoir-fait-un-copier-coller-de-la-signature-de-son-superieur-31205193.php"
+        },
+        {
+          "title": "Tragédie en Polynésie : Deux pêcheurs retrouvés morts",
+          "summary": "Au large de Huahine, deux pêcheurs sont morts et un rescapé après un drame en mer.",
+          "url": "https://www.sudouest.fr/environnement/peche/polynesie-deux-pecheurs-retrouves-morts-et-un-rescape-au-large-de-l-ile-de-huahine-31245694.php"
+        }
+      ]
+    },
+    {
+      "label": "Innovation & Culture Geek",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Chiens clonés pour la guerre : un projet coûteux",
+          "summary": "Un projet à 200 millions pour cloner et équiper des chiens de guerre, soulevant des questions éthiques majeures.",
+          "url": "https://www.journaldugeek.com/2026/10/26/des-chiens-clones-et-equipes-pour-la-guerre-le-projet-a-200-millions-de-dollars-qui-fait-froid-dans-le-dos/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/warhound-1280x853.jpg"
+        },
+        {
+          "title": "Le MIT innove pour l'eau du désert",
+          "summary": "Grâce aux ultrasons, le MIT accélère la collecte d'eau dans les déserts, une avancée majeure pour les régions arides.",
+          "url": "https://www.journaldugeek.com/2026/10/26/le-mit-accelere-la-collecte-deau-dans-le-desert-grace-aux-ultrasons/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/mit-eau-1280x853.jpg"
+        },
+        {
+          "title": "Les BD clés pour saisir Clayface",
+          "summary": "Trois bandes dessinées essentielles pour explorer et comprendre l'énigmatique personnage de Clayface.",
+          "url": "https://www.journaldugeek.com/dossier/les-trois-bd-que-vous-devez-absolument-lire-pour-comprendre-le-phenomene-clayface/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/clayface-avis-film-dc-4-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama débloque son compteur NBA avec les Spurs",
+          "summary": "Première victoire tant attendue pour Victor Wembanyama et les Spurs cette saison NBA, un moment clé pour la jeune star.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/compteur-debloque-pour-wembanyama-premiere-victoire-de-la-saison-nba-pour-les-spurs_AV-202610250092.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/PtYkDqIUl_sGHQUYmhk-d9bztgg=/14x0:2046x1143/800x0/images/Victor-Wembanyama-le-24-octobre-2026-2371712.jpg"
+        },
+        {
+          "title": "Vincent Luis sacré champion du monde IronMan",
+          "summary": "Vincent Luis savoure son titre mondial IronMan, qu'il décrit comme la plus belle course de sa carrière.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "Maïana Prat décroche une médaille mondiale au sol",
+          "summary": "La gymnaste française Maïana Prat célèbre une médaille mondiale au sol, prometteuse avant les JO de Los Angeles.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/gymnastique-c-est-incroyable-la-francaise-maiana-prat-savoure-sa-medaille-mondiale-au-sol-a-deux-ans-des-jo-de-los-angeles_AN-202610250342.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/dlJp7zBkrMJSh0_AxNNwqQnTKRY=/0x119:2048x1271/800x0/images/Maiana-Prat-aux-Mondiaux-de-gymnastique-le-25-octobre-2026-a-Rotterdam-2371932.jpg"
+        }
+      ]
+    }
+  ]
+}
