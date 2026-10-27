@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Sainte Emeline",
+  "global_summary": "Le monde est en pleine effervescence géopolitique, marqué par les mouvements stratégiques de l'Algérie au Sahel et la visite mystérieuse de Kim Jong-un en Chine, signe de tensions et d'équilibres précaires. En France, l'actualité jongle entre alertes humanitaires internationales, débats sociaux et évolutions d'organisations caritatives, reflétant une société en quête de repères.\nSur le front économique, les entreprises font face à des défis de financement tout en embrassant les innovations du marketing digital et de l'IA. Le sport, lui, oscille entre tragédie en rugby amateur, questionnements autour de stars de la NBA et scandales de dopage, illustrant les multiples facettes de la performance humaine. Enfin, l'univers tech et gaming nous projette vers l'avenir avec les prémices de la PS6 et des bouleversements industriels.",
+  "running_advice": "Excellente nouvelle, amis runners ! Aujourd'hui, les conditions météo sont idéales pour une séance revigorante. Avec des températures allant de 11.8°C à 20.4°C et un ciel \"peu nuageux\", vous bénéficiez d'un confort thermique optimal. Le risque de pluie est minime (5%), vous laissant toute latitude pour profiter. Votre fenêtre idéale se situe entre 10h00 et 16h00, là où la lumière sera la plus belle et la douceur de l'air parfaite pour booster votre énergie. Attention cependant, l'indice UV de 3.4 est suffisant pour rendre une protection solaire (crème, casquette) fortement recommandée, surtout si vous prévoyez une longue sortie. Alors, enfilez vos baskets et allez chercher cette dose de vitalité !",
+  "weather_string": "🌤️ Peu nuageux (11.8°C / 20.4°C)",
+  "weather_stats": {
+    "temp": "20.4°C",
+    "rain": "5%",
+    "uv": "3.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Algérie au Niger : une force militaire stratégique",
+          "summary": "L'Algérie déploie des troupes au Niger, un mouvement clé dans la géopolitique complexe du Sahel, visant à sécuriser ses intérêts.",
+          "url": "https://www.france24.com/fr/afrique/20261026-sahel-pourquoi-alg%C3%A9rie-envoie-t-elle-troupes-niger-gazoduc-passe-salvador-islamisme",
+          "image": "https://s.france24.com/media/display/367ffa26-d155-11f1-80f6-4d317af013fd/w:1024/p:16x9/2026-10-01T000000Z-765540037-MT1ABCPR1020992001-RTRMADP-3-ALGERIA-POLITICS.jpg"
+        },
+        {
+          "title": "Kim Jong-un en Chine : visite éclair aux enjeux cachés",
+          "summary": "Le leader nord-coréen Kim Jong-un a effectué une visite surprise en Chine, suscitant des interrogations sur les raisons et objectifs.",
+          "url": "https://www.courrierinternational.com/article/geopolitique-pourquoi-kim-jong-un-a-t-il-effectue-une-visite-eclair-en-chine_281562",
+          "image": "https://focus.courrierinternational.com/2026/10/25/0/0/4051/2640/644/0/60/0/b77973c_ftp-1-abd1m2cmnz14-afp-d4c67wf.jpg"
+        },
+        {
+          "title": "Chine : continuité politique au cœur du Parti communiste",
+          "summary": "Le Parti communiste chinois se rassemble pour consolider sa politique et assurer la stabilité de la direction du pays.",
+          "url": "https://www.agefi.fr/news/economie-marches/le-parti-communiste-chinois-se-reunit-pour-assurer-la-continuite-de-sa-politique",
+          "image": "https://beymedias.brightspotcdn.com/13/c4/82789477bb53071ec88c04fd3382/congres-parti-communiste-chinois-2019-chine-bloomberg.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Hébron : l'ONU alerte sur le risque de nettoyage ethnique",
+          "summary": "L'ONU exprime sa vive inquiétude suite à une opération israélienne à Hébron, craignant un nettoyage ethnique en Cisjordanie occupée.",
+          "url": "https://www.sudouest.fr/international/operation-israelienne-a-hebron-l-onu-alerte-sur-un-risque-de-nettoyage-ethnique-en-cisjordanie-occupee-31254068.php",
+          "image": "https://media.sudouest.fr/31254068/1200x-1/20261024145105-2895212.jpg"
+        },
+        {
+          "title": "Vénissieux : un squatteur sous OQTF défie les autorités",
+          "summary": "À Vénissieux, un homme soupçonné de squat, sous OQTF, est revenu sur les lieux après son interpellation, créant la polémique.",
+          "url": "https://www.fdesouche.com/2026/10/26/venissieux-69-squatteur-interpelle-revient-le-lendemain-famille-oqtf/",
+          "image": "https://www.fdesouche.com/wp-content/uploads/2026/10/venissieux-maison-degradee-lyonmag-2026.jpg"
+        },
+        {
+          "title": "SOS Villages d’Enfants : un changement de nom symbolique",
+          "summary": "L'organisation SOS Villages d’Enfants a opéré un changement de nom, marquant une nouvelle étape dans son engagement.",
+          "url": "http://www.nordlittoral.fr/302363/article/2026-10-26/pourquoi-sos-villages-d-enfants-change-de-nom",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/09/19/node_302363/3801349/public/2026/09/19/103033997.jpeg?itok=LM2NI5_Y1793038034"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Incident insolite : un Ouigo paralysé 9 heures",
+          "summary": "Un Ouigo a été bloqué durant neuf heures suite à des incidents, offrant aux passagers une compensation double.",
+          "url": "https://www.capital.fr/economie-politique/ouigo-bloque-neuf-heures-par-un-sanglier-puis-un-bloc-de-beton-les-400-passagers-obtiennent-deux-fois-le-prix-du-billet-1531285",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~10~26~279348fd-1711-4373-b25f-8c04b340e61a.jpeg/1200x900/quality/80/ouigo-bloque-neuf-heures-par-un-sanglier-puis-un-bloc-de-beton-les-400-passagers-obtiennent-deux-fois-le-prix-du-billet.jpg"
+        },
+        {
+          "title": "F1 : Bridgestone met Pirelli sous pression pour 2029",
+          "summary": "Bridgestone prépare un retour ambitieux en Formule 1 pour 2029, intensifiant la compétition avec Pirelli sur le marché des pneus.",
+          "url": "https://sports.auto-moto.com/f1/actualite/f1-bridgestone-prepare-une-offensive-pour-2029-pirelli-sous-pression-39834",
+          "image": "https://static.wui.fr/28/2026/10/photo_article/39834/392814/1200-L-f1-bridgestone-prpare-une-offensive-pour-2029-pirelli-sous-pression.jpg"
+        },
+        {
+          "title": "IA : La Redoute et Legrand boostent l'expérience client",
+          "summary": "La Redoute et Legrand adoptent l'IA pour optimiser l'expérience client, tout en préservant l'interaction humaine essentielle.",
+          "url": "https://www.larevuedudigital.com/la-redoute-et-legrand-industrialisent-lexperience-client-avec-lia-sans-renoncer-a-lhumain/",
+          "image": "https://www.larevuedudigital.com/wp-content/uploads/2026/10/Bureau-20-BF2-.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Coût du financement : les entreprises impactées",
+          "summary": "Les entreprises sont confrontées à des coûts accrus pour leurs émissions obligataires, signalant une tension sur les marchés financiers.",
+          "url": "https://www.agefi.fr/news/economie-marches/les-entreprises-payent-plus-cher-leurs-emissions-obligataires",
+          "image": "https://beymedias.brightspotcdn.com/e1/69/aed240ad48cc9ea0b0c5bb73764c/schneider-electric-bloomberg.jpg"
+        },
+        {
+          "title": "LinkedIn Live : l'avenir des webinars est là",
+          "summary": "Les webinars classiques sont dépassés ; LinkedIn Live s'impose comme la nouvelle norme pour l'engagement professionnel en ligne.",
+          "url": "https://www.journaldunet.com/martech/1511191-les-webinars-traditionnels-sont-morts-vive-linkedin-live/",
+          "image": "https://img-0.journaldunet.com/uD1FynYgdNTOelzEMPk_bVxxC6U=/1280x/smart/def7fdd5ef8d4d478623369c3b51032d/user-jdn/39545428-martin-vermorel.jpg"
+        },
+        {
+          "title": "Cameroun : Tawamba presse le gouvernement pour l'économie",
+          "summary": "Au Cameroun, Célestin Tawamba intensifie la pression sur le Premier ministre pour améliorer le climat des affaires du pays.",
+          "url": "https://www.jeuneafrique.com/1855570/economie-entreprises/climat-des-affaires-au-cameroun-celestin-tawamba-maintient-la-pression-sur-joseph-dion-ngute/",
+          "image": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=960,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2026/10/26/jad20261026-ass-cameroun-macroeco-celestin-tawamba.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Rugby amateur : un jeune joueur décède en plein match",
+          "summary": "Le rugby amateur est en deuil après le décès tragique d'un joueur de 23 ans, victime d'un malaise cardiaque en plein match.",
+          "url": "https://rmcsport.bfmtv.com/rugby/le-rugby-amateur-de-nouveau-endeuille-un-joueur-de-23-ans-est-mort-apres-un-malaise-en-plein-match_AN-202610260379.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/wRGplaTWF6f2cUZzg98gOubvOTM=/0x106:2048x1258/800x0/images/Axel-23-ans-est-decede-ce-dimanche-2372265.jpg"
+        },
+        {
+          "title": "Wembanyama et les Spurs : l'inquiétude grandit en NBA",
+          "summary": "Les performances des Spurs de Wembanyama inquiètent en NBA, soulevant des questions sur le début de saison de la jeune star.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-rien-n-est-rassurant-faut-il-deja-s-inquieter-pour-les-spurs-de-wembanyama_AV-202610250268.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/PtYkDqIUl_sGHQUYmhk-d9bztgg=/14x0:2046x1143/800x0/images/Victor-Wembanyama-le-24-octobre-2026-2371712.jpg"
+        },
+        {
+          "title": "Dopage : Peres Jepchirchir, championne du monde, suspendue",
+          "summary": "Peres Jepchirchir, championne du monde de marathon, est provisoirement suspendue pour dopage, secouant l'athlétisme mondial.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/dopage-la-championne-du-monde-du-marathon-peres-jepchirchir-suspendue-provisoirement_AV-202610230568.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/TVkTyeybN_V4wFLvFgTeTT4tBhs=/0x40:768x472/800x0/images/Peres-Jepchirchir-franchit-victorieusement-la-ligne-d-arrivee-du-marathon-de-Boston-le-18-avril-2022-1396395.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gaming & Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "PS6 : les premières infos sur la console à venir",
+          "summary": "Toutes les fuites et informations connues à ce jour sur la PS6 : fenêtre de sortie, prix, et annonces officielles.",
+          "url": "https://www.journaldugeek.com/dossier/ps6-premieres-infos-fenetre-de-sortie-prix-annonces-tout-ce-que-lon-sait-a-ce-jour/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/08/dossier-ps6-tout-ce-que-lon-sait-1280x853.jpg"
+        },
+        {
+          "title": "Test Technics EAH-A1000 : un casque audio révolutionnaire",
+          "summary": "Le nouveau casque Technics EAH-A1000, doté d'un fluide magnétique, promet de défier les meilleurs du marché audio.",
+          "url": "https://www.journaldugeek.com/test/test-technics-eah-a1000-avec-son-fluide-magnetique-ce-casque-audio-veut-croquer-les-cadors-du-marche/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Technics-EAH-A1000E-1280x853.jpg"
+        },
+        {
+          "title": "Arkane Lyon menacé par Microsoft malgré Blade",
+          "summary": "Le studio Arkane Lyon pourrait être impacté par les restructurations de Microsoft, même avec le développement avancé de Marvel’s Blade.",
+          "url": "https://www.journaldugeek.com/2026/10/26/arkane-lyon-va-etre-la-prochaine-victime-de-microsoft-alors-que-le-developpement-de-marvels-blade-approche-de-son-terme/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/marvel-blade-arkane-lyon-fermeture-1280x853.jpg"
+        }
+      ]
+    }
+  ]
+}
