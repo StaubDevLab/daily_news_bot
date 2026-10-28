@@ -1,0 +1,178 @@
+{
+  "ephemeride": "Saint Jude",
+  "global_summary": "La scène sportive mondiale est en effervescence, avec les prouesses de Victor Wembanyama en NBA et un nouveau sacre mondial en triathlon, contrastant avec l'ombre du dopage. Sur le front national, des champions de natation chassent les records, tandis que l'actualité culturelle et sociétale offre des rendez-vous variés, telle qu'une expérience ciné-concert unique. \nParallèlement, les tensions géopolitiques persistent en Europe, et des questions économiques majeures comme le pouvoir d'achat et la fiabilité des investissements publics restent au cœur des préoccupations. Des défis sécuritaires dans la tech et des faits divers locaux soulignent également la complexité des enjeux du jour.",
+  "running_advice": "Avis aux coureurs et sportifs ! Aujourd'hui, la météo est une véritable invitation à chausser vos baskets. Avec un ciel peu nuageux et des températures idéales variant entre 8.1°C et 15.6°C, les conditions sont parfaites pour une session vivifiante. L'absence totale de pluie est un bonus non négligeable. Pour profiter au maximum de cette belle journée sans les rigueurs du froid matinal ni la baisse de luminosité du soir, l'heure idéale pour votre run se situe entre 10h00 et 15h00. Pensez à l'indice UV de 3.4, qui, bien que modéré, appelle à la prudence. Un peu de crème solaire sur le visage et les zones exposées sera votre meilleure alliée pour une protection optimale. Allez, enfilez vos écouteurs et laissez-vous porter par l'énergie de la course !",
+  "weather_string": "🌤️ Peu nuageux (8.1°C / 15.6°C)",
+  "weather_stats": {
+    "temp": "15.6°C",
+    "rain": "0%",
+    "uv": "3.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Champions français de natation à Montauban",
+          "summary": "Des médaillés olympiques s'affrontent, chassant les records de France militaires avec passion.",
+          "url": "https://www.ladepeche.fr/2026/10/27/medailles-aux-jeux-olympiques-ou-aux-mondiaux-ces-champions-francais-de-natation-a-la-chasse-aux-records-de-france-militaires-a-montauban-13622993.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6ae0e956bf0b840f810ea15a/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Pouvoir d'achat, enjeu clé des midterms",
+          "summary": "La préoccupation du pouvoir d'achat domine le débat et influence les élections de mi-mandat aux États-Unis.",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/le-pouvoir-d-achat-au-c-ur-des-midterms_8256244.html",
+          "image": "https://www.franceinfo.fr/pictures/bS_KTP5HfKpgc3VqAg4ladsNwis/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/27/6ae0d98f98571151320065.png"
+        },
+        {
+          "title": "Ukraine : Le Danemark critique les appels à Poutine",
+          "summary": "Copenhague reproche à la Finlande et la Norvège leurs démarches \"solos\" auprès du président russe.",
+          "url": "https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine",
+          "image": "https://s.france24.com/media/display/44a485fe-cc87-11f1-aa77-6313a763b466/w:1024/p:16x9/2026-10-20T130240Z-522570672-RC207OAT5BB7-RTRMADP-3-UKRAINE-CRISIS.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Intouchables en ciné-concert à Pleyel",
+          "summary": "Le film culte \"Intouchables\" revit en ciné-concert exceptionnel avec l'Orchestre Colonne à Paris.",
+          "url": "https://www.sortiraparis.com/loisirs/cinema/articles/356114-intouchables-en-cine-concert-avec-l-orchestre-colonne-a-la-salle-pleyel",
+          "image": "https://cdn.sortiraparis.com/images/800/69688/1331377-intouchables-en-cine-concert-avec-l-orchestre-colonne-a-la-salle-pleyel.jpg"
+        },
+        {
+          "title": "Monfils ovationné à Paris, un moment unique",
+          "summary": "Cédric Pioline raconte l'émouvante soirée dédiée à Gaël Monfils, \"son moment\" au Rolex Paris Masters.",
+          "url": "https://www.eurosport.fr/tennis/atp-paris/2026/atp-masters-1000-paris-cedric-pioline-sur-la-soiree-speciale-reservee-a-monfils-au-rolex-paris-masters-je-lui-ai-dit-cest-ton-moment_vid60104754/video.shtml",
+          "image": "https://i.eurosport.com/2026/10/27/image-67f70f72-7e4c-4e43-9105-d9c01c30be57-68-310-310.jpeg"
+        },
+        {
+          "title": "RDC : report des élections, un programme implicite ?",
+          "summary": "Delly Sesanga s'inquiète : le report des élections en RDC ne doit pas devenir une stratégie du pouvoir.",
+          "url": "https://www.jeuneafrique.com/1849031/politique/rdc-delly-sesanga-le-report-des-elections-ne-peut-pas-devenir-le-programme-implicite-du-pouvoir/",
+          "image": "https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=960,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2026/10/15/jad20261015-ass-rdc-gf-politique-itv-delly-sesanga.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Workday pour la valeur long terme en Europe",
+          "summary": "Les entreprises européennes s'appuient sur Workday pour la recherche de valeur durable à long terme.",
+          "url": "http://www.businesswire.com/news/home/20261027860474/fr/",
+          "image": "https://mms.businesswire.com/media/20261027860474/fr/1016900/21/ISG_R_Logo.jpg"
+        },
+        {
+          "title": "BMW i3 transformée en pick-up insolite",
+          "summary": "Un préparateur astucieux métamorphose une BMW i3 électrique en pick-up, créant la surprise.",
+          "url": "https://www.autoplus.fr/actualite/insolite/un-preparateur-transforme-une-bmw-i3-en-pick-up-pour-faire-de-lombre-au-slate-1473515.html",
+          "image": "https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/10/captura-de-pantalla-2026-10-27-a-las-16.51.02.png"
+        },
+        {
+          "title": "Nouveaux piratages de portefeuilles crypto",
+          "summary": "Foundation et Keystone victimes de hacks, relançant les inquiétudes sur la sécurité des cryptomonnaies.",
+          "url": "https://www.generation-nt.com/actualites/keystone-foundation-piratage-crypto-portefeuille-securite-2083528",
+          "image": "https://img.generation-nt.com/keystone-crypto-wallet_01732237.png"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Biarritz propose une mutuelle communale",
+          "summary": "La Ville de Biarritz lance une mutuelle pour ses habitants, expliquant son fonctionnement et avantages.",
+          "url": "https://actu.fr/nouvelle-aquitaine/biarritz_64122/une-mutuelle-communale-proposee-par-la-ville-de-biarritz-comment-ca-marche_64982719.html",
+          "image": "https://static.actu.fr/uploads/2025/05/58efac873c3764cefac873c3790ffav-1024x557.jpg"
+        },
+        {
+          "title": "France 2030 : la Cour des comptes alerte",
+          "summary": "Le plan d'investissement de 54 milliards d'euros suscite des doutes sur d'éventuels \"effets d'aubaine\".",
+          "url": "https://www.lefigaro.fr/conjoncture/france-2030-la-cour-des-comptes-pointe-les-effets-d-aubaine-lies-au-plan-a-54-milliards-d-euros-20261027",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/27/04af3cada73e552c4c618bea2de18a0d37a181cc3b6982af0b386c75015bfc48.jpg"
+        },
+        {
+          "title": "Feu vert pour un Burger King en Ardèche",
+          "summary": "Malgré des inquiétudes, le président du Département est favorable à l'implantation d'un Burger King à Rosières.",
+          "url": "https://www.ledauphine.com/economie/2026/10/27/le-president-du-departement-olivier-amrane-se-dit-favorable-a-l-implantation-d-un-burger-king-a-rosieres",
+          "image": "https://cdn-s-www.ledauphine.com/images/F948D7EA-FC24-403C-962B-3D971FA80309/NW_listB/malgre-les-preoccupations-olivier-amrane-favorable-a-l-implantation-d-un-burger-king-a-rosieres-1782324956.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Retraité condamné pour violences conjugales",
+          "summary": "Après 46 ans de mariage, un retraité violentant et humiliant son épouse handicapée est condamné.",
+          "url": "https://www.sudouest.fr/justice/pays-basque-apres-46-ans-de-mariage-il-violente-et-humilie-sa-femme-devenue-handicapee-le-retraite-condamne-au-tribunal-31265616.php"
+        },
+        {
+          "title": "Braquages de bijoutiers : six interpellations",
+          "summary": "Six individus ont été arrêtés en Gironde suite à une série de braquages ciblant des bijoutiers à domicile.",
+          "url": "https://www.sudouest.fr/faits-divers/six-hommes-interpelles-en-gironde-apres-des-braquages-de-bijoutiers-a-leurs-domiciles-31268617.php"
+        },
+        {
+          "title": "Homme décédé en manif à Paris",
+          "summary": "Le décès lors de la mobilisation du 17 octobre à Paris est attribué à une défaillance cardiorespiratoire.",
+          "url": "https://www.sudouest.fr/ile-de-france/paris/homme-mort-lors-de-la-mobilisation-du-17-octobre-a-paris-le-deces-provoque-par-une-defaillance-cardiorespiratoire-31269403.php"
+        }
+      ]
+    },
+    {
+      "label": "Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Modern Warfare 4 : un lancement moins fort ?",
+          "summary": "Le nouveau Modern Warfare 4 attire moins de joueurs que prévu à son lancement, selon les données.",
+          "url": "https://www.journaldugeek.com/2026/10/28/modern-warfare-4-du-monde-au-lancement-mais-moins-quavant/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/call-of-duty-modern-warfare-4-annonce-2-1280x853.jpg"
+        },
+        {
+          "title": "La plus grande Étoile de la Mort en LEGO",
+          "summary": "Découvrez l'impressionnante réplique LEGO de l'Étoile de la Mort : 183 652 briques et 2 mètres.",
+          "url": "https://www.journaldugeek.com/2026/10/28/183-652-briques-2-metres-et-105-salles-voici-la-plus-grande-etoile-de-la-mort-lego/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/lego-star-wars-1280x853.jpg"
+        },
+        {
+          "title": "Billets d'avion : forte hausse prévue en 2027",
+          "summary": "Les prix des billets d'avion pourraient augmenter de 20% en 2027, \"la plus forte hausse de l'histoire\".",
+          "url": "https://www.journaldugeek.com/2026/10/28/la-plus-forte-hausse-de-lhistoire-lavion-pourrait-couter-20-plus-cher-en-2027/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/05/Ryanair-aeroport-1411x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama porte les Spurs à la victoire",
+          "summary": "Portés par un Victor Wembanyama éblouissant, les Spurs enchaînent les succès en NBA face aux Kings.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-portes-par-un-grand-wembanyama-les-spurs-enchainent-face-aux-kings_AV-202610280086.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kpjHp9Gx_M8Rz-mEAPfgy8ZwNmY=/0x45:2048x1197/800x0/images/Victor-Wembanyama-le-27-octobre-2026-2373355.jpg"
+        },
+        {
+          "title": "Vincent Luis, champion du monde IronMan",
+          "summary": "\"La plus belle course de ma carrière\" : Vincent Luis savoure son titre mondial en triathlon IronMan.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg"
+        },
+        {
+          "title": "Championne du marathon suspendue pour dopage",
+          "summary": "Peres Jepchirchir, championne du monde de marathon, est provisoirement suspendue suite à une affaire de dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/dopage-la-championne-du-monde-du-marathon-peres-jepchirchir-suspendue-provisoirement_AV-202610230568.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/TVkTyeybN_V4wFLvFgTeTT4tBhs=/0x40:768x472/800x0/images/Peres-Jepchirchir-franchit-victorieusement-la-ligne-d-arrivee-du-marathon-de-Boston-le-18-avril-2022-1396395.jpg"
+        }
+      ]
+    }
+  ]
+}

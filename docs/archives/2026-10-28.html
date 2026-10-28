@@ -1,0 +1,467 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 28/10/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">mercredi 28 octobre • Saint Jude</p>
+            <div class="weather-badge">
+              🌤️ Peu nuageux (8.1°C / 15.6°C) &nbsp;|&nbsp; ☀️ UV: 3.4 &nbsp;|&nbsp; 💧 0%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>La scène sportive mondiale est en effervescence, avec les prouesses de Victor Wembanyama en NBA et un nouveau sacre mondial en triathlon, contrastant avec l'ombre du dopage. Sur le front national, des champions de natation chassent les records, tandis que l'actualité culturelle et sociétale offre des rendez-vous variés, telle qu'une expérience ciné-concert unique. 
+Parallèlement, les tensions géopolitiques persistent en Europe, et des questions économiques majeures comme le pouvoir d'achat et la fiabilité des investissements publics restent au cœur des préoccupations. Des défis sécuritaires dans la tech et des faits divers locaux soulignent également la complexité des enjeux du jour.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Avis aux coureurs et sportifs ! Aujourd'hui, la météo est une véritable invitation à chausser vos baskets. Avec un ciel peu nuageux et des températures idéales variant entre 8.1°C et 15.6°C, les conditions sont parfaites pour une session vivifiante. L'absence totale de pluie est un bonus non négligeable. Pour profiter au maximum de cette belle journée sans les rigueurs du froid matinal ni la baisse de luminosité du soir, l'heure idéale pour votre run se situe entre 10h00 et 15h00. Pensez à l'indice UV de 3.4, qui, bien que modéré, appelle à la prudence. Un peu de crème solaire sur le visage et les zones exposées sera votre meilleure alliée pour une protection optimale. Allez, enfilez vos écouteurs et laissez-vous porter par l'énergie de la course !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://images.ladepeche.fr/api/v1/images/view/6ae0e956bf0b840f810ea15a/standard/image.jpg?v=1" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.ladepeche.fr/2026/10/27/medailles-aux-jeux-olympiques-ou-aux-mondiaux-ces-champions-francais-de-natation-a-la-chasse-aux-records-de-france-militaires-a-montauban-13622993.php" target="_blank">Champions français de natation à Montauban</a>
+                    </h3>
+                    <p class="article-summary">Des médaillés olympiques s'affrontent, chassant les records de France militaires avec passion.</p>
+                    <a href="https://www.ladepeche.fr/2026/10/27/medailles-aux-jeux-olympiques-ou-aux-mondiaux-ces-champions-francais-de-natation-a-la-chasse-aux-records-de-france-militaires-a-montauban-13622993.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/bS_KTP5HfKpgc3VqAg4ladsNwis/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/10/27/6ae0d98f98571151320065.png" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/monde/usa/midterms-2018/le-pouvoir-d-achat-au-c-ur-des-midterms_8256244.html" target="_blank">Pouvoir d'achat, enjeu clé des midterms</a>
+                    </h3>
+                    <p class="article-summary">La préoccupation du pouvoir d'achat domine le débat et influence les élections de mi-mandat aux États-Unis.</p>
+                    <a href="https://www.franceinfo.fr/monde/usa/midterms-2018/le-pouvoir-d-achat-au-c-ur-des-midterms_8256244.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/44a485fe-cc87-11f1-aa77-6313a763b466/w:1024/p:16x9/2026-10-20T130240Z-522570672-RC207OAT5BB7-RTRMADP-3-UKRAINE-CRISIS.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine" target="_blank">Ukraine : Le Danemark critique les appels à Poutine</a>
+                    </h3>
+                    <p class="article-summary">Copenhague reproche à la Finlande et la Norvège leurs démarches "solos" auprès du président russe.</p>
+                    <a href="https://www.france24.com/fr/europe/20261027-ukraine-danemark-reproche-finlande-norv%C3%A8ge-avoir-jou%C3%A9-solo-appel-vladimir-poutine" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://cdn.sortiraparis.com/images/800/69688/1331377-intouchables-en-cine-concert-avec-l-orchestre-colonne-a-la-salle-pleyel.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sortiraparis.com/loisirs/cinema/articles/356114-intouchables-en-cine-concert-avec-l-orchestre-colonne-a-la-salle-pleyel" target="_blank">Intouchables en ciné-concert à Pleyel</a>
+                    </h3>
+                    <p class="article-summary">Le film culte "Intouchables" revit en ciné-concert exceptionnel avec l'Orchestre Colonne à Paris.</p>
+                    <a href="https://www.sortiraparis.com/loisirs/cinema/articles/356114-intouchables-en-cine-concert-avec-l-orchestre-colonne-a-la-salle-pleyel" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://i.eurosport.com/2026/10/27/image-67f70f72-7e4c-4e43-9105-d9c01c30be57-68-310-310.jpeg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.eurosport.fr/tennis/atp-paris/2026/atp-masters-1000-paris-cedric-pioline-sur-la-soiree-speciale-reservee-a-monfils-au-rolex-paris-masters-je-lui-ai-dit-cest-ton-moment_vid60104754/video.shtml" target="_blank">Monfils ovationné à Paris, un moment unique</a>
+                    </h3>
+                    <p class="article-summary">Cédric Pioline raconte l'émouvante soirée dédiée à Gaël Monfils, "son moment" au Rolex Paris Masters.</p>
+                    <a href="https://www.eurosport.fr/tennis/atp-paris/2026/atp-masters-1000-paris-cedric-pioline-sur-la-soiree-speciale-reservee-a-monfils-au-rolex-paris-masters-je-lui-ai-dit-cest-ton-moment_vid60104754/video.shtml" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://prod.cdn-medias.jeuneafrique.com/cdn-cgi/image/q=auto,f=auto,metadata=none,width=1280,height=960,fit=cover,gravity=0.5000x0.5000/https://prod.cdn-medias.jeuneafrique.com/medias/2026/10/15/jad20261015-ass-rdc-gf-politique-itv-delly-sesanga.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.jeuneafrique.com/1849031/politique/rdc-delly-sesanga-le-report-des-elections-ne-peut-pas-devenir-le-programme-implicite-du-pouvoir/" target="_blank">RDC : report des élections, un programme implicite ?</a>
+                    </h3>
+                    <p class="article-summary">Delly Sesanga s'inquiète : le report des élections en RDC ne doit pas devenir une stratégie du pouvoir.</p>
+                    <a href="https://www.jeuneafrique.com/1849031/politique/rdc-delly-sesanga-le-report-des-elections-ne-peut-pas-devenir-le-programme-implicite-du-pouvoir/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://mms.businesswire.com/media/20261027860474/fr/1016900/21/ISG_R_Logo.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="http://www.businesswire.com/news/home/20261027860474/fr/" target="_blank">Workday pour la valeur long terme en Europe</a>
+                    </h3>
+                    <p class="article-summary">Les entreprises européennes s'appuient sur Workday pour la recherche de valeur durable à long terme.</p>
+                    <a href="http://www.businesswire.com/news/home/20261027860474/fr/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://sf1.autoplus.fr/wp-content/uploads/autoplus/2026/10/captura-de-pantalla-2026-10-27-a-las-16.51.02.png" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.autoplus.fr/actualite/insolite/un-preparateur-transforme-une-bmw-i3-en-pick-up-pour-faire-de-lombre-au-slate-1473515.html" target="_blank">BMW i3 transformée en pick-up insolite</a>
+                    </h3>
+                    <p class="article-summary">Un préparateur astucieux métamorphose une BMW i3 électrique en pick-up, créant la surprise.</p>
+                    <a href="https://www.autoplus.fr/actualite/insolite/un-preparateur-transforme-une-bmw-i3-en-pick-up-pour-faire-de-lombre-au-slate-1473515.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.generation-nt.com/keystone-crypto-wallet_01732237.png" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.generation-nt.com/actualites/keystone-foundation-piratage-crypto-portefeuille-securite-2083528" target="_blank">Nouveaux piratages de portefeuilles crypto</a>
+                    </h3>
+                    <p class="article-summary">Foundation et Keystone victimes de hacks, relançant les inquiétudes sur la sécurité des cryptomonnaies.</p>
+                    <a href="https://www.generation-nt.com/actualites/keystone-foundation-piratage-crypto-portefeuille-securite-2083528" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📈 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2025/05/58efac873c3764cefac873c3790ffav-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/nouvelle-aquitaine/biarritz_64122/une-mutuelle-communale-proposee-par-la-ville-de-biarritz-comment-ca-marche_64982719.html" target="_blank">Biarritz propose une mutuelle communale</a>
+                    </h3>
+                    <p class="article-summary">La Ville de Biarritz lance une mutuelle pour ses habitants, expliquant son fonctionnement et avantages.</p>
+                    <a href="https://actu.fr/nouvelle-aquitaine/biarritz_64122/une-mutuelle-communale-proposee-par-la-ville-de-biarritz-comment-ca-marche_64982719.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://i.f1g.fr/media/cms/orig/2026/10/27/04af3cada73e552c4c618bea2de18a0d37a181cc3b6982af0b386c75015bfc48.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lefigaro.fr/conjoncture/france-2030-la-cour-des-comptes-pointe-les-effets-d-aubaine-lies-au-plan-a-54-milliards-d-euros-20261027" target="_blank">France 2030 : la Cour des comptes alerte</a>
+                    </h3>
+                    <p class="article-summary">Le plan d'investissement de 54 milliards d'euros suscite des doutes sur d'éventuels "effets d'aubaine".</p>
+                    <a href="https://www.lefigaro.fr/conjoncture/france-2030-la-cour-des-comptes-pointe-les-effets-d-aubaine-lies-au-plan-a-54-milliards-d-euros-20261027" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.ledauphine.com/images/F948D7EA-FC24-403C-962B-3D971FA80309/NW_listB/malgre-les-preoccupations-olivier-amrane-favorable-a-l-implantation-d-un-burger-king-a-rosieres-1782324956.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.ledauphine.com/economie/2026/10/27/le-president-du-departement-olivier-amrane-se-dit-favorable-a-l-implantation-d-un-burger-king-a-rosieres" target="_blank">Feu vert pour un Burger King en Ardèche</a>
+                    </h3>
+                    <p class="article-summary">Malgré des inquiétudes, le président du Département est favorable à l'implantation d'un Burger King à Rosières.</p>
+                    <a href="https://www.ledauphine.com/economie/2026/10/27/le-president-du-departement-olivier-amrane-se-dit-favorable-a-l-implantation-d-un-burger-king-a-rosieres" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📍 Gironde</div>
+              
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/justice/pays-basque-apres-46-ans-de-mariage-il-violente-et-humilie-sa-femme-devenue-handicapee-le-retraite-condamne-au-tribunal-31265616.php" target="_blank">Retraité condamné pour violences conjugales</a>
+                    </h3>
+                    <p class="article-summary">Après 46 ans de mariage, un retraité violentant et humiliant son épouse handicapée est condamné.</p>
+                    <a href="https://www.sudouest.fr/justice/pays-basque-apres-46-ans-de-mariage-il-violente-et-humilie-sa-femme-devenue-handicapee-le-retraite-condamne-au-tribunal-31265616.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/faits-divers/six-hommes-interpelles-en-gironde-apres-des-braquages-de-bijoutiers-a-leurs-domiciles-31268617.php" target="_blank">Braquages de bijoutiers : six interpellations</a>
+                    </h3>
+                    <p class="article-summary">Six individus ont été arrêtés en Gironde suite à une série de braquages ciblant des bijoutiers à domicile.</p>
+                    <a href="https://www.sudouest.fr/faits-divers/six-hommes-interpelles-en-gironde-apres-des-braquages-de-bijoutiers-a-leurs-domiciles-31268617.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/ile-de-france/paris/homme-mort-lors-de-la-mobilisation-du-17-octobre-a-paris-le-deces-provoque-par-une-defaillance-cardiorespiratoire-31269403.php" target="_blank">Homme décédé en manif à Paris</a>
+                    </h3>
+                    <p class="article-summary">Le décès lors de la mobilisation du 17 octobre à Paris est attribué à une défaillance cardiorespiratoire.</p>
+                    <a href="https://www.sudouest.fr/ile-de-france/paris/homme-mort-lors-de-la-mobilisation-du-17-octobre-a-paris-le-deces-provoque-par-une-defaillance-cardiorespiratoire-31269403.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🎮 Geek</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/05/call-of-duty-modern-warfare-4-annonce-2-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/28/modern-warfare-4-du-monde-au-lancement-mais-moins-quavant/" target="_blank">Modern Warfare 4 : un lancement moins fort ?</a>
+                    </h3>
+                    <p class="article-summary">Le nouveau Modern Warfare 4 attire moins de joueurs que prévu à son lancement, selon les données.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/28/modern-warfare-4-du-monde-au-lancement-mais-moins-quavant/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/lego-star-wars-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/28/183-652-briques-2-metres-et-105-salles-voici-la-plus-grande-etoile-de-la-mort-lego/" target="_blank">La plus grande Étoile de la Mort en LEGO</a>
+                    </h3>
+                    <p class="article-summary">Découvrez l'impressionnante réplique LEGO de l'Étoile de la Mort : 183 652 briques et 2 mètres.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/28/183-652-briques-2-metres-et-105-salles-voici-la-plus-grande-etoile-de-la-mort-lego/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2024/05/Ryanair-aeroport-1411x935.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/28/la-plus-forte-hausse-de-lhistoire-lavion-pourrait-couter-20-plus-cher-en-2027/" target="_blank">Billets d'avion : forte hausse prévue en 2027</a>
+                    </h3>
+                    <p class="article-summary">Les prix des billets d'avion pourraient augmenter de 20% en 2027, "la plus forte hausse de l'histoire".</p>
+                    <a href="https://www.journaldugeek.com/2026/10/28/la-plus-forte-hausse-de-lhistoire-lavion-pourrait-couter-20-plus-cher-en-2027/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/kpjHp9Gx_M8Rz-mEAPfgy8ZwNmY=/0x45:2048x1197/800x0/images/Victor-Wembanyama-le-27-octobre-2026-2373355.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-portes-par-un-grand-wembanyama-les-spurs-enchainent-face-aux-kings_AV-202610280086.html" target="_blank">Wembanyama porte les Spurs à la victoire</a>
+                    </h3>
+                    <p class="article-summary">Portés par un Victor Wembanyama éblouissant, les Spurs enchaînent les succès en NBA face aux Kings.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-portes-par-un-grand-wembanyama-les-spurs-enchainent-face-aux-kings_AV-202610280086.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JOLTMel9RZCNd_-ub3dEj4PgEDA=/0x8:1200x683/800x0/images/Vincent-Luis-est-devenu-champion-du-monde-IronMan-a-Kona-Hawai-Etats-Unis-le-11-octobre-2026-2363147.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" target="_blank">Vincent Luis, champion du monde IronMan</a>
+                    </h3>
+                    <p class="article-summary">"La plus belle course de ma carrière" : Vincent Luis savoure son titre mondial en triathlon IronMan.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/triathlon-definitivement-la-plus-belle-course-de-ma-carriere-vincent-luis-savoure-apres-son-titre-de-champion-du-monde-iron-man_AN-202610110194.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/TVkTyeybN_V4wFLvFgTeTT4tBhs=/0x40:768x472/800x0/images/Peres-Jepchirchir-franchit-victorieusement-la-ligne-d-arrivee-du-marathon-de-Boston-le-18-avril-2022-1396395.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/dopage-la-championne-du-monde-du-marathon-peres-jepchirchir-suspendue-provisoirement_AV-202610230568.html" target="_blank">Championne du marathon suspendue pour dopage</a>
+                    </h3>
+                    <p class="article-summary">Peres Jepchirchir, championne du monde de marathon, est provisoirement suspendue suite à une affaire de dopage.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/dopage-la-championne-du-monde-du-marathon-peres-jepchirchir-suspendue-provisoirement_AV-202610230568.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
