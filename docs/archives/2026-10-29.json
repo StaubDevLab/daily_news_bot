@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Narcisse",
+  "global_summary": "L'actualité de ce jour est marquée par des turbulences économiques et des débats politiques intenses. Les coûts du carburant pèsent lourdement sur le secteur du transport international, illustré par un paquebot contraint d'interrompre son tour du monde. Parallèlement, la vie politique française s'agite entre radicalisation des débats et propositions de réformes audacieuses, tandis que les enjeux sociaux liés aux grandes entreprises restent au cœur des préoccupations.\nSur le plan sociétal, des enquêtes sensibles continuent de mobiliser l'attention, et le monde du sport n'est pas en reste, entre affaires de dopage, défis financiers de stars déchues et reconversions inspirantes. La technologie, quant à elle, continue d'innover avec ses lots d'opportunités et de risques, invitant à la vigilance face aux menaces numériques toujours plus sophistiquées.",
+  "running_advice": "Chers sportifs, préparez-vous à une séance de running exceptionnelle aujourd'hui ! Les conditions sont tout simplement parfaites pour enfiler vos baskets et vous dépasser. Avec une température qui oscillera entre 7°C et 14.8°C et un ciel \"Peu nuageux\" (🌤️), vous bénéficierez d'un temps sec (0% de pluie) et d'une agréable luminosité. Pour profiter au maximum de cette météo clémente, je vous conseille de courir entre 10h et 15h. C'est le créneau idéal pour bénéficier de la douceur du jour, sans la fraîcheur matinale ou vespérale. L'indice UV est bas (2.65), mais une légère protection reste une bonne habitude pour prendre soin de votre peau. Allez, on sort, on respire à plein poumons, et on savoure chaque foulée ! Votre corps vous remerciera !",
+  "weather_string": "🌤️ Peu nuageux (7°C / 14.8°C)",
+  "weather_stats": {
+    "temp": "14.8°C",
+    "rain": "0%",
+    "uv": "2.65"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Radicalité politique : menace pour le débat démocratique",
+          "summary": "La présidentielle 2027 révèle une radicalisation croissante des échanges, menaçant la sérénité du débat démocratique.",
+          "url": "https://www.lalsace.fr/politique/2026/10/28/hooliganisme-politique-comment-la-radicalite-prend-le-pas-sur-le-debat-democratique",
+          "image": "https://cdn-s-www.lalsace.fr/images/B54A83D2-B6DE-49C5-B168-DC591AB84520/NW_listB/hooliganisme-politique-comment-la-radicalite-prend-le-pas-sur-le-debat-democratique-1793213286.jpg"
+        },
+        {
+          "title": "Guinée : Le colonel Doumbouya prend la tête du football",
+          "summary": "Mamady Doumbouya, figure de la junte au pouvoir, est élu nouveau président de la Fédération guinéenne de football.",
+          "url": "https://www.france24.com/fr/vid%C3%A9o/20261028-guin%C3%A9e-mamady-doumbouya-nouveau-pr%C3%A9sident-de-la-f%C3%A9d%C3%A9ration-de-football",
+          "image": "https://s.france24.com/media/display/51acbaae-d2ff-11f1-83ab-efcc5769f1db/w:1024/p:16x9/Senegal-00-00-05-29-Still001.jpg"
+        },
+        {
+          "title": "Espagne : Accident ferroviaire meurtrier, les budgets en question",
+          "summary": "Une collision tragique en Espagne relance le débat sur l'investissement étatique dans la sécurité du réseau ferroviaire.",
+          "url": "https://www.midilibre.fr/2026/10/28/collision-entre-deux-trains-en-espagne-je-minterroge-sur-les-budgets-que-letat-espagnol-a-accordes-un-expert-analyse-laccident-meurtrier-13625102.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6ae248bebe6506dc8204d4b2/standard/image.jpg?v=1"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Affaire Olhats : Nouvelle enquête pour viols sur mineurs",
+          "summary": "L'ancien \"mentor\" d'Antoine Griezmann est visé par une nouvelle enquête pour agressions sexuelles sur mineurs.",
+          "url": "https://rmcsport.bfmtv.com/societe/agressions-sexuelles-sur-mineurs-nouvelle-enquete-visant-eric-olhats-le-mentor-d-antoine-griezmann_AV-202610280700.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k8UEybs-rXmfVqcZhjUpCN_dfwA=/0x0:1920x1080/800x0/images/Eric-Olhats-avant-un-match-contre-le-PSG-au-Parc-des-Princes-le-27-janvier-2019-2176471.jpg"
+        },
+        {
+          "title": "Lisnard milite pour des profs contractuels",
+          "summary": "David Lisnard remet en question le statut de fonctionnaire des professeurs, plaidant pour une contractualisation de l'éducation.",
+          "url": "https://www.capital.fr/votre-carriere/ca-na-plus-aucun-sens-quils-soient-fonctionnaires-david-lisnard-veut-des-profs-contractuels-1531365",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~10~28~eab49bd5-0cd6-40d0-9ac6-9e918e778765.png/1200x900/focus-point/598%2C428/ca-n-a-plus-aucun-sens-qu-ils-soient-fonctionnaires-david-lisnard-veut-des-profs-contractuels.jpg"
+        },
+        {
+          "title": "Harnes : Le maire RN retire une délégation",
+          "summary": "Tensions à Harnes où le maire RN retire une délégation, illustrant les difficultés au sein de sa majorité municipale.",
+          "url": "http://www.nordlittoral.fr/302563/article/2026-10-28/harnes-le-maire-rn-retire-une-seconde-delegation-sa-majorite-municipale",
+          "image": "https://phrnleng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/10/28/node_302563/3802051/public/2026/10/28/110242761.jpeg?itok=0K08kUbZ1793214724"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Google Wallet : Paiement sans déverrouillage risqué ?",
+          "summary": "Google Wallet introduit le paiement sans déverrouillage, une innovation pratique mais soulevant des inquiétudes de sécurité.",
+          "url": "https://www.generation-nt.com/actualites/google-wallet-paiement-sans-deverrouillage-tap-to-pay-securite-nfc-2083607",
+          "image": "https://img.generation-nt.com/google-wallet_01709609.jpg"
+        },
+        {
+          "title": "Attention aux faux émulateurs PS5 malveillants",
+          "summary": "Des émulateurs PS5 frauduleux sur GitHub se révèlent être des pièges à mots de passe, vigilance requise.",
+          "url": "https://www.journaldugeek.com/2026/10/29/de-faux-emulateurs-ps5-sur-github-sinteressent-surtout-a-vos-mots-de-passe/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/09/hack-pirate-1280x853.jpg"
+        },
+        {
+          "title": "Mario Kart World arrive sur Mac et iPhone",
+          "summary": "La célèbre franchise Mario Kart s'étend aux plateformes Apple, offrant une nouvelle expérience de course aux fans.",
+          "url": "https://www.journaldugeek.com/2026/10/29/mario-kart-world-roule-sur-mac-et-iphone/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/12/large-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "La Fed modifie ses votes sur les taux d'intérêt",
+          "summary": "La Réserve fédérale américaine annonce un changement majeur dans ses procédures de vote sur les taux, dès l'automne prochain.",
+          "url": "https://fr.qz.com/runions-de-fixation-des-taux-de-la-fed-warsh-annonce-102826",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        },
+        {
+          "title": "Carburant cher : un paquebot interrompt son tour du monde",
+          "summary": "Face à l'envolée des prix du carburant, un paquebot américain stoppe son tour du monde, débarquant ses passagers.",
+          "url": "https://www.20minutes.fr/monde/etats-unis/4258416-20261028-etats-unis-carburant-trop-cher-paquebot-interrompt-tour-monde-debarque-passagers-cambodge",
+          "image": "https://img.20mn.fr/mgeMV5MFSJeHqWeMTyrrMCk/1200x768_l-odyssey-un-paquebot-de-croisiere-americain-exploite-par-villa-vie-residences-a-accoste-au-centre-de-reparation-navale-harland-wolf-dans-le-port-de-belfast-en-irlande-du-nord-le-vendredi-30-aout-2024-photo-ap-peter-morrison-xpm107-24243503599925-2408301822"
+        },
+        {
+          "title": "SFR : mesures d'accompagnement pour les salariés",
+          "summary": "La justice exige des mesures d'accompagnement pour les employés des boutiques SFR, suite à la vente de l'opérateur.",
+          "url": "https://www.lefigaro.fr/flash-eco/vente-de-sfr-la-justice-ordonne-des-mesures-d-accompagnement-pour-les-salaries-des-boutiques-20261028",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/10/28/54ecfc86d8df128770f8f8ffee985913728613f7272d3284a708dab53c085599.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Paul Pierce : L'ex-star NBA à sec financièrement",
+          "summary": "L'ancienne légende des Celtics, Paul Pierce, fait face à de graves difficultés financières, incapable d'honorer ses dettes.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-a-sec-financierement-paul-pierce-ex-star-des-boston-celtics-n-arrive-plus-a-regler-ses-factures_AV-202610280763.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/-mZG2N6889ya2EwbD6egoqSLdPI=/0x27:2048x1179/800x0/images/Paul-Pierce-avec-les-Wizards-de-Washington-en-2014-2373894.jpg"
+        },
+        {
+          "title": "Dopage : Peres Jepchirchir suspendue du marathon",
+          "summary": "La championne du monde du marathon, Peres Jepchirchir, est provisoirement suspendue pour dopage, secouant l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/dopage-la-championne-du-monde-du-marathon-peres-jepchirchir-suspendue-provisoirement_AV-202610230568.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/TVkTyeybN_V4wFLvFgTeTT4tBhs=/0x40:768x472/800x0/images/Peres-Jepchirchir-franchit-victorieusement-la-ligne-d-arrivee-du-marathon-de-Boston-le-18-avril-2022-1396395.jpg"
+        },
+        {
+          "title": "Phil Vickery : Du rugby au bodybuilding à 50 ans",
+          "summary": "L'ancien rugbyman anglais Phil Vickery se métamorphose à 50 ans, embrassant une nouvelle carrière dans le bodybuilding.",
+          "url": "https://rmcsport.bfmtv.com/rugby/rugby-a-50-ans-l-ancien-champion-du-monde-anglais-phil-vickery-s-est-reconverti-dans-le-bodybuilding_AN-202610280822.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Kjw8TjcK5B-FaMVIxZMFR5EZhuc=/0x21:624x372/800x0/images/Le-champion-du-monde-2003-de-rugby-avec-l-Angleterre-Phil-Vickery-s-est-reconverti-dans-le-bodybuilding-2373945.jpg"
+        }
+      ]
+    }
+  ]
+}
