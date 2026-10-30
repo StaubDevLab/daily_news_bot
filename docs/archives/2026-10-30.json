@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Bienvenue",
-  "global_summary": "Ce jour est marqué par une série d'événements poignants et complexes à travers le monde. L'Espagne est en deuil après une catastrophe ferroviaire tragique faisant des dizaines de victimes, tandis qu'en France, des enquêtes sur des crimes violents et un attentat secouent plusieurs régions, révélant des facettes sombres de l'actualité. La justice est également sous les projecteurs, du Chili à Bordeaux, confrontée à des défis majeurs.\n\nMalgré ces ombres, l'élan de la vie continue. Le monde du sport vibre au rythme des exploits de Wembanyama et des enjeux des JO 2030, non sans être touché par des révélations marquantes. Le secteur de la technologie et de la culture geek nous invite à l'innovation et à la découverte, prouvant que même dans les moments difficiles, la créativité et la passion persistent, nous offrant des pistes d'évasion et de progrès.",
-  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous dépasser ! Avec des températures fraîches mais agréables (entre 2.5°C et 15°C) et un ciel promettant une bruine légère sans risque de pluie significative, les conditions sont parfaites pour une course revigorante. L'air vif vous aidera à garder votre rythme et à booster votre énergie.\n\nPour profiter au maximum de cette fenêtre sportive, visez une sortie entre 10h00 et 15h00. Vous bénéficierez ainsi des températures les plus clémentes de la journée et d'une luminosité optimale. Pensez à une couche thermique légère et un coupe-vent. Et n'oubliez pas : malgré la brume, l'indice UV de 3.3 exige une protection solaire légère. Hydratez-vous bien et surtout, écoutez votre corps. Chaque foulée compte, faites-en un moment pour vous !",
-  "weather_string": "🌦️ Bruine légère (2.5°C / 15°C)",
+  "global_summary": "Le jour est marqué par une atmosphère contrastée, où la gravité des faits divers et des enjeux politiques côtoie l'actualité sportive vibrante et l'innovation. Une catastrophe ferroviaire majeure en Espagne endeuille le continent, tandis qu'en France, de sombres affaires criminelles et des débats sociétaux autour de la vidéoprotection occupent le devant de la scène. La scène internationale observe également une tourmente judiciaire secouant le gouvernement chilien, soulignant la complexité des défis mondiaux. \nCependant, l'esprit d'initiative et l'excellence ne manquent pas, avec des performances sportives remarquables comme celles de Victor Wembanyama et Christo Popov, qui inspirent la fierté nationale. L'innovation se manifeste à travers l'ouverture de Fab Labs et l'actualité des jeux vidéo, tandis que le monde culturel rend hommage à ses légendes tout en explorant de nouvelles œuvres captivantes. C'est un rappel de la diversité de notre quotidien, entre épreuves et avancées.",
+  "running_advice": "Absolument ! Chaussez vos baskets, l'appel de la route vous attend ! Avec des températures douces allant de 1.8°C à 14.9°C et un ciel sans pluie, les conditions sont idéales pour une séance revigorante. Je vous conseille de viser la fin de matinée ou le début d'après-midi, entre 10h00 et 15h00. Le brouillard matinal devrait s'être dissipé, vous offrant une meilleure visibilité et des températures optimales pour performer. Avec un indice UV de 3.3, n'oubliez pas votre crème solaire et une casquette. C'est le moment de vous dépasser et de ressentir cette énergie ! Allez, on y va !",
+  "weather_string": "🌫️ Brouillard (1.8°C / 14.9°C)",
   "weather_stats": {
-    "temp": "15°C",
+    "temp": "14.9°C",
     "rain": "0%",
     "uv": "3.3"
   },
@@ -14,16 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Espagne: Lourd bilan après un terrible accident de trains",
-          "summary": "Une collision ferroviaire dévastatrice fait 74 morts en Espagne, plongeant le pays dans le deuil et l'émoi, avec une visite royale aux victimes.",
+          "title": "Espagne: Tragédie ferroviaire, 74 morts",
+          "summary": "Un accident de train dévastateur en Espagne a fait au moins 74 victimes, plongeant le pays dans le deuil national.",
           "url": "https://www.lemonde.fr/international/article/2026/10/29/accident-de-trains-en-espagne-le-bilan-grimpe-a-74-morts-le-roi-felipe-vi-a-rendu-visite-aux-victimes_6802375_3210.html",
           "image": "https://img.lemde.fr/2026/10/29/832/0/5500/2750/644/322/60/0/5097ed6_ftp-1-esdqmisqayil-2026-10-29t094305z-56645298-rc2xcoaa3rl4-rtrmadp-3-spain-accident.JPG"
         },
         {
-          "title": "Chili: Le gouvernement sous haute tension judiciaire",
-          "summary": "Le pouvoir chilien fait face à une grave tourmente judiciaire, alimentant la contestation et fragilisant sa position politique actuelle.",
+          "title": "Chili: Le gouvernement sous le feu judiciaire",
+          "summary": "Le gouvernement chilien est secoué par une série d'accusations de corruption, provoquant une grave crise politique.",
           "url": "https://www.la-croix.com/international/au-chili-le-gouvernement-pris-dans-une-tourmente-judiciaire-20261029",
           "image": "https://i.la-croix.com/x/2026/10/29/2575611-des-manifestants-reclament-la-demission-du-ministr.jpg"
+        },
+        {
+          "title": "Mystère à Belfort: un homme assassiné sur sa terrasse",
+          "summary": "L'assassinat d'Hervé Maillot, un homme à la vie « parfaitement rangée », laisse le Territoire de Belfort sous le choc.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/10/29/une-vie-parfaitement-rangee-qui-a-assassine-herve-maillot-56-ans-sur-sa-terrasse",
+          "image": "https://cdn-s-www.lalsace.fr/images/2362E43D-C94B-4FE0-830E-0E38CD1D08F3/NW_listB/une-vie-parfaitement-rangee-qui-a-assassine-herve-maillot-56-ans-sur-sa-terrasse-1793296988.jpg"
         }
       ]
     },
@@ -32,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Attentat de Trappes: Révélations sur le passé de l'agresseur",
-          "summary": "L'enquête sur l'attentat de Trappes dévoile le passé violent de Kevin Tessier, mis en examen après des menaces de mort.",
+          "title": "Attentat de Trappes: Révélations sur le passé du suspect",
+          "summary": "De nouvelles informations éclairent le passé trouble de Kevin Tessier, mis en examen après l'attentat de Trappes.",
           "url": "https://www.ladepeche.fr/2026/10/29/attentat-de-trappes-une-violente-agression-trois-jours-avant-les-faits-des-menaces-de-mort-les-revelations-sur-le-passe-de-kevin-tessier-mis-en-examen-13626853.php",
           "image": "https://images.ladepeche.fr/api/v1/images/view/6ae38912fd73f38b860dfb61/standard/image.jpg?v=1"
         },
         {
-          "title": "Haute-Loire: Un médecin agressé au couteau",
-          "summary": "Un médecin gravement blessé par un coup de couteau en Haute-Loire, l'agresseur présumé étant placé en garde à vue.",
+          "title": "Haute-Loire: Médecin agressé au couteau, le choc",
+          "summary": "Un médecin a été violemment agressé au couteau en Haute-Loire, suscitant une vive émotion et une enquête.",
           "url": "https://www.leprogres.fr/faits-divers-justice/2026/10/29/l-auteur-presume-du-coup-de-couteau-a-un-medecin-en-garde-a-vue",
           "image": "https://cdn-s-www.leprogres.fr/images/4781C736-A5E6-4532-9ACF-8440E4633F10/MF_contenu/coup-de-couteau-assene-a-un-medecin-il-s-est-passe-quelque-chose-de-grave-1793297190.jpg"
         },
         {
-          "title": "Belfort: Mystère autour de l'assassinat d'Hervé Maillot",
-          "summary": "Un homme de 56 ans assassiné sur sa terrasse à Belfort; l'enquête tente de comprendre ce drame inattendu.",
-          "url": "https://www.lalsace.fr/faits-divers-justice/2026/10/29/une-vie-parfaitement-rangee-qui-a-assassine-herve-maillot-56-ans-sur-sa-terrasse",
-          "image": "https://cdn-s-www.lalsace.fr/images/2362E43D-C94B-4FE0-830E-0E38CD1D08F3/NW_listB/une-vie-parfaitement-rangee-qui-a-assassine-herve-maillot-56-ans-sur-sa-terrasse-1793296988.jpg"
+          "title": "Lyon: Polémique sur la vidéoprotection et aides commerçants",
+          "summary": "L'opposition lyonnaise critique l'aide aux commerçants conditionnée par l'installation de systèmes de vidéoprotection.",
+          "url": "https://www.lyoncapitale.fr/actualite/metropole-de-lyon-lopposition-denonce-laide-aux-commercants-conditionnee-par-la-videoprotection",
+          "image": "https://www.lyoncapitale.fr/wp-content/uploads/2023/03/cctv-g962c08c72_1920-e1680249328510.jpg"
         }
       ]
     },
@@ -56,70 +62,70 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama: Les Spurs décollent grâce à leur star",
-          "summary": "Victor Wembanyama mène les Spurs à la victoire, confirmant son statut de joueur inarrêtable en NBA.",
+          "title": "NBA: Wembanyama inarrêtable, les Spurs lancés!",
+          "summary": "Victor Wembanyama confirme son statut de star, menant les Spurs vers une nouvelle dynamique victorieuse en NBA.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-enfin-lances-grace-a-un-wembanyama-inarretable_AV-202610290177.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg"
         },
         {
-          "title": "Griezmann: Son \"mentor\" visé par une nouvelle enquête",
-          "summary": "Une nouvelle enquête pour agressions sexuelles sur mineurs cible Eric Olhats, l'ancien \"mentor\" d'Antoine Griezmann.",
+          "title": "Agressions sexuelles: Griezmann, son mentor visé",
+          "summary": "Une nouvelle enquête pour agressions sexuelles sur mineurs vise Eric Olhats, l'ancien \"mentor\" d'Antoine Griezmann.",
           "url": "https://rmcsport.bfmtv.com/societe/agressions-sexuelles-sur-mineurs-nouvelle-enquete-visant-eric-olhats-le-mentor-d-antoine-griezmann_AV-202610280700.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k8UEybs-rXmfVqcZhjUpCN_dfwA=/0x0:1920x1080/800x0/images/Eric-Olhats-avant-un-match-contre-le-PSG-au-Parc-des-Princes-le-27-janvier-2019-2176471.jpg"
         },
         {
-          "title": "JO Hiver 2030: Les Alpes françaises seules candidates",
-          "summary": "Les Alpes françaises sont désormais les uniques candidates pour l'organisation des Jeux Olympiques d'hiver 2030.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/les-alpes-francaises-seules-candidates-pour-les-jo-d-hiver-2030_DN-202311290846.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/2VBCrg0CdhADZxBFNZRiAz6kamU=/0x77:768x509/800x0/images/La-France-va-savoir-mercredi-si-elle-a-convaincu-le-CIO-de-rester-en-lice-pour-organiser-les-JO-d-hiver-en-2030-un-pari-ose-alors-que-paris-accueille-les-JO-d-ete-dans-huit-mois-1757612.jpg"
+          "title": "Badminton: Christo Popov, nouveau numéro un mondial",
+          "summary": "Christo Popov marque l'histoire en devenant le premier numéro un mondial en badminton, une fierté française.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/badminton-je-serai-a-jamais-le-premier-a-la-reprise-de-l-entrainement-avec-christo-popov-nouveau-numero-un-mondial_AV-202610290669.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/iNxHYlauweM0vuaVCr-dW7cGa_M=/4x96:1796x1104/800x0/images/Christo-Popov-lors-de-sa-victoire-en-finale-des-Interntationaux-de-France-de-badminton-le-25-octobre-2026-2371894.jpg"
         }
       ]
     },
     {
-      "label": "Tech",
-      "emoji": "💻",
+      "label": "Technologie & Business",
+      "emoji": "💡",
       "articles": [
         {
-          "title": "Lyon: Polémique sur l'aide aux commerçants et vidéoprotection",
-          "summary": "L'opposition lyonnaise critique l'aide aux commerçants liée à l'installation de systèmes de vidéoprotection, suscitant le débat.",
-          "url": "https://www.lyoncapitale.fr/actualite/metropole-de-lyon-lopposition-denonce-laide-aux-commercants-conditionnee-par-la-videoprotection",
-          "image": "https://www.lyoncapitale.fr/wp-content/uploads/2023/03/cctv-g962c08c72_1920-e1680249328510.jpg"
-        },
-        {
-          "title": "Mende: Un Fab Lab pour l'innovation numérique",
-          "summary": "Un nouveau Fab Lab ouvre ses portes à Mende, offrant accès aux technologies 3D et découpe laser pour la création.",
+          "title": "Mende ouvre un Fab Lab pour l'innovation locale",
+          "summary": "Un nouveau Fab Lab à Mende offre accès aux technologies 3D, laser et VR pour stimuler la création locale.",
           "url": "https://www.midilibre.fr/2026/10/29/imprimantes-3d-decoupe-laser-realite-virtuelle-un-fab-lab-ouvre-a-lantirouille-a-mende-loccasion-dapprendre-a-creer-avec-les-nouvelles-technologies-13626762.php",
           "image": "https://images.midilibre.fr/api/v1/images/view/6ae37be46a29b676ad064881/standard/image.jpg?v=1"
         },
         {
-          "title": "Astro Bot revient sur PS5, une surprise inattendue",
-          "summary": "Le héros Astro Bot fait un retour inattendu sur PS5, surprenant les fans avec une nouvelle aventure originale.",
-          "url": "https://www.journaldugeek.com/2026/10/29/astro-bot-est-de-retour-on-ps5-mais-pas-comme-vous-lattendez/",
+          "title": "Astro Bot revient, surprise sur PS5",
+          "summary": "Le célèbre Astro Bot fait un retour inattendu sur PS5, promettant une expérience de jeu innovante et surprenante.",
+          "url": "https://www.journaldugeek.com/2026/10/29/astro-bot-est-de-retour-sur-ps5-mais-pas-comme-vous-lattendez/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/10/astro-bot-de-retour-ps5-1280x853.jpg"
+        },
+        {
+          "title": "Rambervillers: un escape game d'Halloween par des ados",
+          "summary": "Des adolescents de Rambervillers ont conçu un escape game sur le thème d'Halloween, une initiative créative et locale.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/10/29/halloween-un-escape-game-imagine-par-des-adolescents",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/593B990E-61F6-4066-A8F1-87412C888E3/NW_listB/halloween-un-escape-game-imagine-par-des-adolescents-1793297052.jpg"
         }
       ]
     },
     {
-      "label": "Culture Geek",
-      "emoji": "🎮",
+      "label": "Culture & Société",
+      "emoji": "🎭",
       "articles": [
         {
-          "title": "Fourth Wing: La série fantasy qui captive",
-          "summary": "Découvrez \"Fourth Wing\", une nouvelle série fantasy décrite comme un mélange captivant de Game of Thrones et Twilight.",
+          "title": "Patrick Stewart, icône de Star Trek, décède à 86 ans",
+          "summary": "L'immense acteur Patrick Stewart, figure emblématique de Star Trek et X-Men, s'est éteint à l'âge de 86 ans.",
+          "url": "https://www.journaldugeek.com/2026/10/29/patrick-stewart-heros-de-star-trek-de-x-men-et-de-tant-dautres-est-decede-a-86-ans/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/patrick-stewart-xmen-1280x853.jpg"
+        },
+        {
+          "title": "\"Fourth Wing\": la série entre Thrones et Twilight",
+          "summary": "Découvrez \"Fourth Wing\", la série fantastique qui fusionne l'intensité de Game of Thrones et la romance de Twilight.",
           "url": "https://www.journaldugeek.com/dossier/fourth-wing-cest-quoi-cette-serie-entre-game-of-thrones-et-twilight/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/10/fourth-wing-tout-savoir-1280x853.jpg"
         },
         {
-          "title": "Attack on Titan 3: Preview exclusive d'Eren Jaeger",
-          "summary": "Plongez dans la preview exclusive de \"Attack on Titan 3\" et découvrez les nouveautés autour d'Eren Jaeger.",
+          "title": "Preview Attack on Titan 3: Eren Jaeger Master",
+          "summary": "Plongez dans la preview de \"Attack on Titan 3\", explorant les nouveaux horizons du maître Eren Jaeger.",
           "url": "https://www.journaldugeek.com/test/preview-attack-on-titan-3-eren-jaeger-master/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/10/AOE-3-Preview-1280x853.jpg"
-        },
-        {
-          "title": "Patrick Stewart (Star Trek, X-Men) est décédé",
-          "summary": "Le légendaire Patrick Stewart, icône de Star Trek et X-Men, nous a quittés à l'âge de 86 ans, laissant un grand héritage.",
-          "url": "https://www.journaldugeek.com/2026/10/29/patrick-stewart-heros-de-star-trek-de-x-men-et-de-tant-dautres-est-decede-a-86-ans/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/10/patrick-stewart-xmen-1280x853.jpg"
         }
       ]
     }
