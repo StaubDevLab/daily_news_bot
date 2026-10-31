@@ -1,0 +1,394 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 31/10/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">samedi 31 octobre • Saint Quentin</p>
+            <div class="weather-badge">
+              🌦️ Bruine légère (4.7°C / 11.7°C) &nbsp;|&nbsp; ☀️ UV: 3.25 &nbsp;|&nbsp; 💧 0%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité de ce jour révèle un monde en pleine mutation, entre résilience face aux défis environnementaux, comme l'adaptation génétique des chiens de Tchernobyl, et l'audace de l'innovation technologique, invitant nos noms vers Titan. Sur le plan économique, les investissements dans les énergies nouvelles côtoient les inquiétudes réglementaires face à une potentielle bulle de l'IA, dessinant un avenir incertain mais stimulant.
+
+En France, le tissu social est agité par les mobilisations à venir et les tensions industrielles, tandis que le monde du sport navigue entre les sombres révélations éthiques et les performances éclatantes. Ces dynamiques diverses nous invitent à rester informés et engagés, non seulement dans les grands enjeux mondiaux, mais aussi dans notre quête quotidienne de bien-être et de dépassement de soi.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Avec des températures oscillant entre 4.7°C et 11.7°C et une légère bruine qui ne devrait pas gâcher la course (0% de pluie !), c'est une excellente journée pour chausser vos baskets ! L'air frais est idéal pour oxygéner vos poumons et vous dynamiser. Je vous conseille de viser la fin de matinée ou le début d'après-midi, entre 10h00 et 14h00, pour profiter des températures les plus clémentes et d'une belle luminosité entre le lever (07:39) et le coucher (17:52) du soleil. Attention, malgré le temps couvert, l'indice UV est de 3.25. Pensez à appliquer une protection solaire, même légère, sur les zones exposées. C'est le moment de vous dépasser et de ressentir l'énergie du jour !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/azP3dwW30YuTwAxI3fywxQMLWvk/0x71:1024x647/432x243/filters:format(jpg)/2026/10/30/6ae4d9d9126eb694609794.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/monde/europe/tchernobyl/les-chiens-de-tchernobyl-ont-des-genes-adaptes-a-la-fin-du-monde-selon-une-etude_8260784.html" target="_blank">Tchernobyl: des chiens génétiquement adaptés</a>
+                    </h3>
+                    <p class="article-summary">Une étude révèle l'adaptation génétique des chiens de Tchernobyl, témoignant de leur survie unique face à la "fin du monde".</p>
+                    <a href="https://www.franceinfo.fr/monde/europe/tchernobyl/les-chiens-de-tchernobyl-ont-des-genes-adaptes-a-la-fin-du-monde-selon-une-etude_8260784.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/95110bfc-d3a8-11f1-bee2-79db0eb73735/w:1024/p:16x9/PHOTO-KOEN-LENAERTS.png" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261030-koen-lenaerts-les-sanctions-de-trump-contre-la-cpi-sont-un-souci-%C3%A9norme" target="_blank">Trump, CPI: sanctions inquiétantes</a>
+                    </h3>
+                    <p class="article-summary">Koen Lenaerts exprime une "énorme inquiétude" concernant les sanctions américaines imposées par Trump à la Cour Pénale Internationale.</p>
+                    <a href="https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261030-koen-lenaerts-les-sanctions-de-trump-contre-la-cpi-sont-un-souci-%C3%A9norme" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/international/europe/espagne/accident-de-trains-en-espagne-nous-faisons-ce-que-nous-pouvons-l-identification-des-victimes-se-poursuit-face-a-l-angoisse-des-familles-31310098.php" target="_blank">Espagne: l'identification des victimes du crash</a>
+                    </h3>
+                    <p class="article-summary">L'identification des victimes de l'accident ferroviaire en Espagne se poursuit, confrontée à l'angoisse grandissante des familles.</p>
+                    <a href="https://www.sudouest.fr/international/europe/espagne/accident-de-trains-en-espagne-nous-faisons-ce-que-nous-pouvons-l-identification-des-victimes-se-poursuit-face-a-l-angoisse-des-familles-31310098.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.vosgesmatin.fr/images/836F268C-529F-482E-A531-845644289F98/NW_listB/mobilisation-du-31-octobre-craignez-vous-un-regain-d-actes-violents-en-raison-de-la-fete-d-halloween-1793378862.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.vosgesmatin.fr/social/2026/10/30/mobilisation-du-31-octobre-craignez-vous-un-regain-d-actes-violents-en-raison-de-la-fete-d-halloween" target="_blank">Halloween: Craintes de violences lors des mobilisations</a>
+                    </h3>
+                    <p class="article-summary">La mobilisation du 31 octobre suscite des craintes d'un regain d'actes violents, coïncidant avec la fête d'Halloween.</p>
+                    <a href="https://www.vosgesmatin.fr/social/2026/10/30/mobilisation-du-31-octobre-craignez-vous-un-regain-d-actes-violents-en-raison-de-la-fete-d-halloween" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://images.lanouvellerepublique.fr/image/upload/v1793379887/6ae4dbd80aaf466e678b4689" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lanouvellerepublique.fr/vendome/bosch-a-vendome-toujours-en-greve-les-elus-locaux-s-inquietent-1793383386" target="_blank">Grève Bosch à Vendôme: Inquiétude locale</a>
+                    </h3>
+                    <p class="article-summary">La grève chez Bosch à Vendôme se poursuit, provoquant l'inquiétude des élus locaux face à la situation sociale.</p>
+                    <a href="https://www.lanouvellerepublique.fr/vendome/bosch-a-vendome-toujours-en-greve-les-elus-locaux-s-inquietent-1793383386" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/97zBfeSx26CbHWtYzoZat7g5WLA=/7x111:2039x1254/800x0/images/Deux-membres-de-la-delegation-francaise-admirent-une-derniere-fois-les-anneaux-olympiques-lors-de-la-ceremonie-de-cloture-des-Jeux-paralympiques-de-Paris-8-septembre-2024-1933031.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/societe/presidentielle-2027-le-monde-du-sport-lance-le-collectif-sport-2027-et-un-debat-inedit_AN-202610300565.html" target="_blank">Présidentielle 2027: le sport s'engage</a>
+                    </h3>
+                    <p class="article-summary">Le collectif "Sport 2027" est lancé, ouvrant un débat inédit sur les enjeux sportifs pour la prochaine élection présidentielle.</p>
+                    <a href="https://rmcsport.bfmtv.com/societe/presidentielle-2027-le-monde-du-sport-lance-le-collectif-sport-2027-et-un-debat-inedit_AN-202610300565.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💡 Tech & Science</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/Mission-Dragonfly-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/30/votre-nom-faire-partie-prochaine-mission-nasa-titan-lune-saturne-voici-comment-participer/" target="_blank">Envoyez votre nom sur Titan avec la NASA</a>
+                    </h3>
+                    <p class="article-summary">Participez à la mission Dragonfly de la NASA: votre nom pourrait voyager vers Titan, la lune de Saturne. Ne manquez pas cette chance unique!</p>
+                    <a href="https://www.journaldugeek.com/2026/10/30/votre-nom-faire-partie-prochaine-mission-nasa-titan-lune-saturne-voici-comment-participer/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://content-media.investing.com/news/LYNXMPEM3F1FY_150x108_S.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.investing.com/news/company-news/beta-technologies-complete-14-vols-electriques-en-floride-93CH-3666686" target="_blank">BETA Technologies: 14 vols électriques réussis</a>
+                    </h3>
+                    <p class="article-summary">BETA Technologies achève 14 vols électriques en Floride, marquant une avancée significative pour l'aviation verte.</p>
+                    <a href="https://fr.investing.com/news/company-news/beta-technologies-complete-14-vols-electriques-en-floride-93CH-3666686" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/Froid-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/10/30/froid-peut-reellement-rallonger-esperance-vie/" target="_blank">Le froid, secret de longévité ?</a>
+                    </h3>
+                    <p class="article-summary">Une étude se penche sur la question: le froid peut-il réellement prolonger notre espérance de vie ? Une piste surprenante.</p>
+                    <a href="https://www.journaldugeek.com/2026/10/30/froid-peut-reellement-rallonger-esperance-vie/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💰 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.investing.com/news/analyst-ratings/stifel-maintient-sa-recommandation--conserver--sur-fedex-freight-avec-un-objectif-de-12900-93CH-3666670" target="_blank">FedEx Freight: Stifel maintient "Conserver"</a>
+                    </h3>
+                    <p class="article-summary">Stifel confirme sa recommandation "Conserver" pour FedEx Freight, avec un objectif de cours stable à 129,00 $.</p>
+                    <a href="https://fr.investing.com/news/analyst-ratings/stifel-maintient-sa-recommandation--conserver--sur-fedex-freight-avec-un-objectif-de-12900-93CH-3666670" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://content-media.investing.com/news/LYNXMPEM3S1N8_150x108_S.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.investing.com/news/economy-news/la-sec-examine-les-declarations-des-entreprises-dia-face-aux-craintes-de-bulle-93CH-3666690" target="_blank">SEC: examen des déclarations IA</a>
+                    </h3>
+                    <p class="article-summary">La SEC examine les déclarations des entreprises d'IA, craignant une bulle spéculative sur ce marché en pleine expansion.</p>
+                    <a href="https://fr.investing.com/news/economy-news/la-sec-examine-les-declarations-des-entreprises-dia-face-aux-craintes-de-bulle-93CH-3666690" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://content-media.investing.com/news/wallmart_1_M_1440049023.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.investing.com/news/company-news/walmart-investit-dans-base-power-et-propose-des-reductions-sur-les-batteries-93CH-3666678" target="_blank">Walmart investit dans l'énergie</a>
+                    </h3>
+                    <p class="article-summary">Walmart investit dans Base Power et propose des réductions sur les batteries, signe d'un engagement accru dans l'énergie.</p>
+                    <a href="https://fr.investing.com/news/company-news/walmart-investit-dans-base-power-et-propose-des-reductions-sur-les-batteries-93CH-3666678" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/MDkYND4HEnq8aCvnkMkQzLQ_rwU=/415x0:1679x711/800x0/images/L-INSEP-a-Paris-1593352.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/basket-l-insep-annonce-cinq-exlusions-definitives-apres-le-violent-bizutage-au-pole-france_AV-202610300438.html" target="_blank">Bizutage INSEP: cinq exclusions définitives</a>
+                    </h3>
+                    <p class="article-summary">L'INSEP annonce l'exclusion définitive de cinq basketteurs après un violent bizutage au Pôle France, marquant les esprits.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/basket-l-insep-annonce-cinq-exlusions-definitives-apres-le-violent-bizutage-au-pole-france_AV-202610300438.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/tZkR78zdJDbWNq-AMvCpPdaBfpg=/0x0:2048x1152/800x0/images/Collision-entre-deux-trains-en-Espagne-le-28-octobre-2026-2374425.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/catastrophe-ferroviaire-en-espagne-la-sauteuse-en-longueur-julieta-gallego-est-morte-a-24-ans-dans-la-tragedie_AV-202610290541.html" target="_blank">Athlétisme: décès de Julieta Gallego</a>
+                    </h3>
+                    <p class="article-summary">La sauteuse en longueur Julieta Gallego, 24 ans, est décédée dans la catastrophe ferroviaire en Espagne. Une triste perte pour l'athlétisme.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/catastrophe-ferroviaire-en-espagne-la-sauteuse-en-longueur-julieta-gallego-est-morte-a-24-ans-dans-la-tragedie_AV-202610290541.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-enfin-lances-grace-a-un-wembanyama-inarretable_AV-202610290177.html" target="_blank">Wembanyama lance les Spurs en NBA</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama, inarrêtable, propulse enfin les Spurs. Une performance spectaculaire qui confirme son talent NBA.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-enfin-lances-grace-a-un-wembanyama-inarretable_AV-202610290177.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
