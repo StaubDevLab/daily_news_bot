@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Quentin",
-  "global_summary": "L'actualité de ce jour révèle un monde en pleine mutation, entre résilience face aux défis environnementaux, comme l'adaptation génétique des chiens de Tchernobyl, et l'audace de l'innovation technologique, invitant nos noms vers Titan. Sur le plan économique, les investissements dans les énergies nouvelles côtoient les inquiétudes réglementaires face à une potentielle bulle de l'IA, dessinant un avenir incertain mais stimulant.\n\nEn France, le tissu social est agité par les mobilisations à venir et les tensions industrielles, tandis que le monde du sport navigue entre les sombres révélations éthiques et les performances éclatantes. Ces dynamiques diverses nous invitent à rester informés et engagés, non seulement dans les grands enjeux mondiaux, mais aussi dans notre quête quotidienne de bien-être et de dépassement de soi.",
-  "running_advice": "Avec des températures oscillant entre 4.7°C et 11.7°C et une légère bruine qui ne devrait pas gâcher la course (0% de pluie !), c'est une excellente journée pour chausser vos baskets ! L'air frais est idéal pour oxygéner vos poumons et vous dynamiser. Je vous conseille de viser la fin de matinée ou le début d'après-midi, entre 10h00 et 14h00, pour profiter des températures les plus clémentes et d'une belle luminosité entre le lever (07:39) et le coucher (17:52) du soleil. Attention, malgré le temps couvert, l'indice UV est de 3.25. Pensez à appliquer une protection solaire, même légère, sur les zones exposées. C'est le moment de vous dépasser et de ressentir l'énergie du jour !",
-  "weather_string": "🌦️ Bruine légère (4.7°C / 11.7°C)",
+  "global_summary": "L'actualité de ce jour nous plonge dans un mélange d'histoires fascinantes et de défis contemporains. Des chiens de Tchernobyl qui défient l'adversité génétique aux innovations technologiques comme la mission spatiale vers Titan, l'humain et la science repoussent leurs limites. \nCependant, des tensions persistent, qu'il s'agisse des inquiétudes internationales sur les sanctions ou des violences potentielles liées à Halloween. Le monde du sport, lui, oscille entre les exploits individuels et les tragédies, rappelant la fragilité de la vie et l'importance des valeurs éthiques.",
+  "running_advice": "Préparez-vous à transpirer ! Avec une température agréable oscillant entre 4.9°C et 11.9°C et seulement une bruine légère, c'est une excellente journée pour chausser vos baskets. Le risque de pluie est nul, vous pouvez donc vous lancer sans hésitation ! L'heure idéale pour votre run se situe en milieu de matinée, entre 9h30 et 11h30, lorsque la bruine se sera probablement dissipée et que les températures seront les plus douces. L'indice UV est de 3.25, alors même si le soleil n'est pas éclatant, n'oubliez pas un peu de crème solaire et des lunettes de soleil pour une protection optimale. Allez, on se motive, l'énergie est au rendez-vous !",
+  "weather_string": "🌦️ Bruine légère (4.9°C / 11.9°C)",
   "weather_stats": {
-    "temp": "11.7°C",
+    "temp": "11.9°C",
     "rain": "0%",
     "uv": "3.25"
   },
@@ -14,94 +14,70 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Tchernobyl: des chiens génétiquement adaptés",
-          "summary": "Une étude révèle l'adaptation génétique des chiens de Tchernobyl, témoignant de leur survie unique face à la \"fin du monde\".",
+          "title": "Tchernobyl : Les chiens s'adaptent génétiquement à la catastrophe",
+          "summary": "Une étude révèle des gènes uniques chez les chiens de Tchernobyl, preuve d'une adaptation surprenante à la survie.",
           "url": "https://www.franceinfo.fr/monde/europe/tchernobyl/les-chiens-de-tchernobyl-ont-des-genes-adaptes-a-la-fin-du-monde-selon-une-etude_8260784.html",
           "image": "https://www.franceinfo.fr/pictures/azP3dwW30YuTwAxI3fywxQMLWvk/0x71:1024x647/432x243/filters:format(jpg)/2026/10/30/6ae4d9d9126eb694609794.jpg"
         },
         {
-          "title": "Trump, CPI: sanctions inquiétantes",
-          "summary": "Koen Lenaerts exprime une \"énorme inquiétude\" concernant les sanctions américaines imposées par Trump à la Cour Pénale Internationale.",
-          "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261030-koen-lenaerts-les-sanctions-de-trump-contre-la-cpi-sont-un-souci-%C3%A9norme",
-          "image": "https://s.france24.com/media/display/95110bfc-d3a8-11f1-bee2-79db0eb73735/w:1024/p:16x9/PHOTO-KOEN-LENAERTS.png"
-        },
-        {
-          "title": "Espagne: l'identification des victimes du crash",
-          "summary": "L'identification des victimes de l'accident ferroviaire en Espagne se poursuit, confrontée à l'angoisse grandissante des familles.",
-          "url": "https://www.sudouest.fr/international/europe/espagne/accident-de-trains-en-espagne-nous-faisons-ce-que-nous-pouvons-l-identification-des-victimes-se-poursuit-face-a-l-angoisse-des-familles-31310098.php",
-          "image": null
-        }
-      ]
-    },
-    {
-      "label": "France",
-      "emoji": "🇫🇷",
-      "articles": [
-        {
-          "title": "Halloween: Craintes de violences lors des mobilisations",
-          "summary": "La mobilisation du 31 octobre suscite des craintes d'un regain d'actes violents, coïncidant avec la fête d'Halloween.",
+          "title": "Halloween : Crainte d'actes violents lors des mobilisations",
+          "summary": "Des inquiétudes grandissent quant à un regain de violences lors des mobilisations du 31 octobre, amplifiées par Halloween.",
           "url": "https://www.vosgesmatin.fr/social/2026/10/30/mobilisation-du-31-octobre-craignez-vous-un-regain-d-actes-violents-en-raison-de-la-fete-d-halloween",
           "image": "https://cdn-s-www.vosgesmatin.fr/images/836F268C-529F-482E-A531-845644289F98/NW_listB/mobilisation-du-31-octobre-craignez-vous-un-regain-d-actes-violents-en-raison-de-la-fete-d-halloween-1793378862.jpg"
         },
         {
-          "title": "Grève Bosch à Vendôme: Inquiétude locale",
-          "summary": "La grève chez Bosch à Vendôme se poursuit, provoquant l'inquiétude des élus locaux face à la situation sociale.",
-          "url": "https://www.lanouvellerepublique.fr/vendome/bosch-a-vendome-toujours-en-greve-les-elus-locaux-s-inquietent-1793383386",
-          "image": "https://images.lanouvellerepublique.fr/image/upload/v1793379887/6ae4dbd80aaf466e678b4689"
-        },
-        {
-          "title": "Présidentielle 2027: le sport s'engage",
-          "summary": "Le collectif \"Sport 2027\" est lancé, ouvrant un débat inédit sur les enjeux sportifs pour la prochaine élection présidentielle.",
-          "url": "https://rmcsport.bfmtv.com/societe/presidentielle-2027-le-monde-du-sport-lance-le-collectif-sport-2027-et-un-debat-inedit_AN-202610300565.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/97zBfeSx26CbHWtYzoZat7g5WLA=/7x111:2039x1254/800x0/images/Deux-membres-de-la-delegation-francaise-admirent-une-derniere-fois-les-anneaux-olympiques-lors-de-la-ceremonie-de-cloture-des-Jeux-paralympiques-de-Paris-8-septembre-2024-1933031.jpg"
+          "title": "Sanctions de Trump contre la CPI : Une énorme préoccupation",
+          "summary": "Koen Lenaerts alerte sur l'impact \"énorme\" des sanctions américaines contre la Cour Pénale Internationale, un danger pour la justice.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261030-koen-lenaerts-les-sanctions-de-trump-contre-la-cpi-sont-un-souci-%C3%A9norme",
+          "image": "https://s.france24.com/media/display/95110bfc-d3a8-11f1-bee2-79db0eb73735/w:1024/p:16x9/PHOTO-KOEN-LENAERTS.png"
         }
       ]
     },
     {
-      "label": "Tech & Science",
+      "label": "Tech & Innovation",
       "emoji": "💡",
       "articles": [
         {
-          "title": "Envoyez votre nom sur Titan avec la NASA",
-          "summary": "Participez à la mission Dragonfly de la NASA: votre nom pourrait voyager vers Titan, la lune de Saturne. Ne manquez pas cette chance unique!",
+          "title": "Votre nom vers Titan : Participez à la mission NASA Dragonfly",
+          "summary": "La NASA vous invite à envoyer votre nom sur Titan, la lune de Saturne, avec la passionnante mission Dragonfly.",
           "url": "https://www.journaldugeek.com/2026/10/30/votre-nom-faire-partie-prochaine-mission-nasa-titan-lune-saturne-voici-comment-participer/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/10/Mission-Dragonfly-1280x853.jpg"
         },
         {
-          "title": "BETA Technologies: 14 vols électriques réussis",
-          "summary": "BETA Technologies achève 14 vols électriques en Floride, marquant une avancée significative pour l'aviation verte.",
-          "url": "https://fr.investing.com/news/company-news/beta-technologies-complete-14-vols-electriques-en-floride-93CH-3666686",
-          "image": "https://content-media.investing.com/news/LYNXMPEM3F1FY_150x108_S.jpg"
+          "title": "Walmart investit dans Base Power et l'énergie verte",
+          "summary": "Walmart soutient Base Power pour offrir des réductions sur les batteries, un pas concret vers l'énergie durable.",
+          "url": "https://fr.investing.com/news/company-news/walmart-investit-dans-base-power-et-propose-des-reductions-sur-les-batteries-93CH-3666678",
+          "image": "https://content-media.investing.com/news/wallmart_1_M_1440049023.jpg"
         },
         {
-          "title": "Le froid, secret de longévité ?",
-          "summary": "Une étude se penche sur la question: le froid peut-il réellement prolonger notre espérance de vie ? Une piste surprenante.",
-          "url": "https://www.journaldugeek.com/2026/10/30/froid-peut-reellement-rallonger-esperance-vie/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Froid-1280x853.jpg"
+          "title": "BETA Technologies : 14 vols électriques réussis en Floride",
+          "summary": "L'entreprise BETA Technologies franchit une étape avec 14 vols électriques d'essai concluants en Floride, prouvant son efficacité.",
+          "url": "https://fr.investing.com/news/company-news/beta-technologies-complete-14-vols-electriques-en-floride-93CH-3666686",
+          "image": "https://content-media.investing.com/news/LYNXMPEM3F1FY_150x108_S.jpg"
         }
       ]
     },
     {
-      "label": "Business",
-      "emoji": "💰",
+      "label": "Économie",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "FedEx Freight: Stifel maintient \"Conserver\"",
-          "summary": "Stifel confirme sa recommandation \"Conserver\" pour FedEx Freight, avec un objectif de cours stable à 129,00 $.",
+          "title": "FedEx Freight : Stifel maintient sa recommandation \"Conserver\"",
+          "summary": "Stifel confirme sa note \"Conserver\" pour FedEx Freight, avec un objectif de cours de 129,00$, signe de stabilité.",
           "url": "https://fr.investing.com/news/analyst-ratings/stifel-maintient-sa-recommandation--conserver--sur-fedex-freight-avec-un-objectif-de-12900-93CH-3666670",
           "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg"
         },
         {
-          "title": "SEC: examen des déclarations IA",
-          "summary": "La SEC examine les déclarations des entreprises d'IA, craignant une bulle spéculative sur ce marché en pleine expansion.",
+          "title": "La SEC alerte : Examen des déclarations d'entreprises d'IA",
+          "summary": "La SEC enquête sur les bilans des sociétés d'IA, craignant une potentielle bulle économique dans ce secteur en plein essor.",
           "url": "https://fr.investing.com/news/economy-news/la-sec-examine-les-declarations-des-entreprises-dia-face-aux-craintes-de-bulle-93CH-3666690",
           "image": "https://content-media.investing.com/news/LYNXMPEM3S1N8_150x108_S.jpg"
         },
         {
-          "title": "Walmart investit dans l'énergie",
-          "summary": "Walmart investit dans Base Power et propose des réductions sur les batteries, signe d'un engagement accru dans l'énergie.",
-          "url": "https://fr.investing.com/news/company-news/walmart-investit-dans-base-power-et-propose-des-reductions-sur-les-batteries-93CH-3666678",
-          "image": "https://content-media.investing.com/news/wallmart_1_M_1440049023.jpg"
+          "title": "Grève chez Bosch Vendôme : Les élus locaux s'inquiètent",
+          "summary": "La grève continue chez Bosch à Vendôme, suscitant de vives inquiétudes parmi les représentants locaux face à la situation.",
+          "url": "https://www.lanouvellerepublique.fr/vendome/bosch-a-vendome-toujours-en-greve-les-elus-locaux-s-inquietent-1793383386",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1793379887/6ae4dbd80aaf466e678b4689"
         }
       ]
     },
@@ -110,22 +86,40 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Bizutage INSEP: cinq exclusions définitives",
-          "summary": "L'INSEP annonce l'exclusion définitive de cinq basketteurs après un violent bizutage au Pôle France, marquant les esprits.",
+          "title": "Basket : Cinq exclusions définitives après un violent bizutage à l'Insep",
+          "summary": "L'Insep prend des mesures fortes suite à un bizutage violent, excluant définitivement cinq jeunes sportifs.",
           "url": "https://rmcsport.bfmtv.com/basket/basket-l-insep-annonce-cinq-exlusions-definitives-apres-le-violent-bizutage-au-pole-france_AV-202610300438.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/MDkYND4HEnq8aCvnkMkQzLQ_rwU=/415x0:1679x711/800x0/images/L-INSEP-a-Paris-1593352.jpg"
         },
         {
-          "title": "Athlétisme: décès de Julieta Gallego",
-          "summary": "La sauteuse en longueur Julieta Gallego, 24 ans, est décédée dans la catastrophe ferroviaire en Espagne. Une triste perte pour l'athlétisme.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/catastrophe-ferroviaire-en-espagne-la-sauteuse-en-longueur-julieta-gallego-est-morte-a-24-ans-dans-la-tragedie_AV-202610290541.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tZkR78zdJDbWNq-AMvCpPdaBfpg=/0x0:2048x1152/800x0/images/Collision-entre-deux-trains-en-Espagne-le-28-octobre-2026-2374425.jpg"
-        },
-        {
-          "title": "Wembanyama lance les Spurs en NBA",
-          "summary": "Victor Wembanyama, inarrêtable, propulse enfin les Spurs. Une performance spectaculaire qui confirme son talent NBA.",
+          "title": "NBA : Wembanyama, inarrêtable, lance enfin les Spurs",
+          "summary": "Grâce à un Victor Wembanyama exceptionnel, les Spurs de San Antonio prennent enfin leur envol en NBA.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-enfin-lances-grace-a-un-wembanyama-inarretable_AV-202610290177.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg"
+        },
+        {
+          "title": "Drame en Espagne : La sauteuse Julieta Gallego décède à 24 ans",
+          "summary": "La jeune athlète Julieta Gallego, 24 ans, a tragiquement perdu la vie dans la collision de trains en Espagne.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/catastrophe-ferroviaire-en-espagne-la-sauteuse-en-longueur-julieta-gallego-est-morte-a-24-ans-dans-la-tragedie_AV-202610290541.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tZkR78zdJDbWNq-AMvCpPdaBfpg=/0x0:2048x1152/800x0/images/Collision-entre-deux-trains-en-Espagne-le-28-octobre-2026-2374425.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Société & Culture",
+      "emoji": "🧠",
+      "articles": [
+        {
+          "title": "Le froid peut-il prolonger votre espérance de vie ?",
+          "summary": "Une question intrigante : le froid a-t-il vraiment un impact positif sur notre longévité et notre santé ?",
+          "url": "https://www.journaldugeek.com/2026/10/30/froid-peut-reellement-rallonger-esperance-vie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Froid-1280x853.jpg"
+        },
+        {
+          "title": "Un calamar géant terrorise Netflix, on est mitigés",
+          "summary": "Le nouveau phénomène Netflix avec un calamar géant divise les spectateurs : un succès ou un flop ?",
+          "url": "https://www.journaldugeek.com/critique/un-calamar-geant-terrorise-netflix-depuis-des-semaines-et-on-nest-pas-convaincus/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Below-Netflix-1-1280x853.jpg"
         }
       ]
     }
