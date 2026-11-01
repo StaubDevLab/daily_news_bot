@@ -1,10 +1,10 @@
 {
   "ephemeride": "Toussaint",
-  "global_summary": "L'actualité mondiale est traversée par des tensions géopolitiques avec l'Iran menaçant de représailles face à des spéculations de frappes, tandis que les manifestations continuent de mobiliser sans faiblir. Parallèlement, le monde politique a retenu son souffle avec le rejet d'une plainte en diffamation de Donald Trump, marquant un point important dans les débats judiciaires médiatisés. \nSur le front national, la France fait face à des incidents lors de manifestations, mais aussi à des nouvelles plus locales, allant d'événements religieux marquants à l'évolution du secteur technologique avec les défis de l'IA. Le sport, quant à lui, navigue entre tragédies, performances athlétiques d'exception et enjeux éthiques profonds, comme l'affaire du bizutage à l'Insep, prouvant que chaque jour apporte son lot d'émotions et de réflexions.",
-  "running_advice": "Allez, on se motive pour cette journée de Toussaint ! C'est une excellente journée pour chausser vos baskets et profiter de l'extérieur. Avec une température qui va grimper de 3.7°C à 14.5°C et aucune pluie à prévoir, les conditions sont parfaites. Le brouillard matinal se lèvera, laissant place à une atmosphère fraîche et vivifiante. L'heure idéale pour votre course se situe entre **10h00 et 15h00** : vous éviterez le froid piquant du matin et profiterez d'une température très agréable et d'une belle clarté. Avec un indice UV de 3.25, pensez à une légère protection solaire si votre peau est sensible, même sous un ciel voilé. Chaque foulée est une victoire : lancez-vous, le corps et l'esprit vous remercieront !",
-  "weather_string": "🌫️ Brouillard (3.7°C / 14.5°C)",
+  "global_summary": "L'actualité de ce jour est un mélange intense de tensions géopolitiques et de dynamiques sociales. Le Moyen-Orient reste sous haute surveillance avec les menaces de riposte iranienne, tandis qu'en France, les mouvements de protestation continuent de marquer le paysage social, avec des incidents préoccupants. Les débats sur l'impact de l'IA sur notre travail et nos modes de vie prennent de l'ampleur, questionnant les promesses d'un avenir plus reposant.\n\nDans le monde du sport, les projecteurs sont braqués sur les performances de nos athlètes, mais aussi sur des sujets plus sombres comme le bizutage au Pôle France ou la disparition tragique d'une jeune athlète espagnole. L'entrepreneuriat local montre quant à lui une belle vitalité, avec de nouvelles ouvertures qui animent nos régions. C'est un panorama riche, où chaque événement nous invite à la réflexion et à l'action.",
+  "running_advice": "Préparez vos baskets, coach ! Aujourd'hui, la météo est une alliée pour votre session running. Avec des températures allant de 4.1°C à 13.5°C et zéro pluie, les conditions sont idéales pour une course dynamique. Le brouillard matinal se lèvera, offrant une ambiance unique, mais soyez vigilants sur la visibilité. Je vous conseille de viser une session entre 10h00 et 15h00, quand le soleil sera le plus haut pour dissiper la brume et profiter de la douceur de l'après-midi. L'indice UV de 3.25 est modéré, mais une crème solaire légère et des lunettes de soleil ne seront pas de trop pour protéger votre peau et vos yeux. Alors, enfilez votre tenue, mettez votre playlist favorite et allez chercher cette énergie positive ! Chaque pas compte !",
+  "weather_string": "🌫️ Brouillard (4.1°C / 13.5°C)",
   "weather_stats": {
-    "temp": "14.5°C",
+    "temp": "13.5°C",
     "rain": "0%",
     "uv": "3.25"
   },
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Iran menace de riposter après spéculations de frappes",
-          "summary": "Téhéran met en garde contre une riposte immédiate face aux spéculations de nouvelles frappes, intensifiant les tensions régionales.",
+          "title": "Iran menace de riposter après des frappes",
+          "summary": "Téhéran avertit de représailles immédiates face aux spéculations de nouvelles attaques au Moyen-Orient, situation tendue.",
           "url": "https://www.france24.com/fr/moyen-orient/20261031-iran-%C3%A9tats-unis-isra%C3%ABl-guere-face-aux-sp%C3%A9culations-de-nouvelles-frappes-mojtaba-khamenei-menace-d-une-riposte-imm%C3%A9diate",
           "image": "https://s.france24.com/media/display/77114946-d54c-11f1-8f61-a575454bc579/w:1024/p:16x9/AP26285515397254.jpg"
         },
         {
-          "title": "Manifestations : la mobilisation persiste sans faiblir",
-          "summary": "Les mouvements de protestation à travers le pays continuent de défier les autorités, sans aucun signe d'essoufflement de la mobilisation.",
+          "title": "Manifestations : la mobilisation persiste en France",
+          "summary": "Malgré les appels au calme, la contestation sociale ne faiblit pas, maintenant la pression sur les autorités.",
           "url": "https://www.vosgesmatin.fr/education/2026/10/31/manifestations-la-mobilisation-ne-montre-aucun-signe-d-essoufflement-ogko",
           "image": "https://cdn-s-www.vosgesmatin.fr/images/F752EF8C-108A-44C1-829E-61B2A880A0B0/NW_listB/manifestations-la-mobilisation-ne-montre-aucun-signe-d-essoufflement-1793471755.jpg"
         },
         {
-          "title": "Trump gagne contre Wall Street Journal en diffamation",
-          "summary": "La justice américaine rejette la plainte en diffamation de Donald Trump contre le Wall Street Journal, un revers médiatisé.",
+          "title": "Donald Trump : plainte en diffamation rejetée",
+          "summary": "La justice américaine rejette la plainte de Donald Trump contre le Wall Street Journal, un revers médiatique pour l'ex-président.",
           "url": "https://www.sudouest.fr/faits-divers/affaire-epstein/etats-unis-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal-rejetee-par-la-justice-31327004.php",
-          "image": null
+          "image": ""
         }
       ]
     },
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Fin du bras de fer : des diacres deviennent prêtres",
-          "summary": "Quatre diacres d'un village drômois ont été ordonnés prêtres, clôturant un long conflit avec le Vatican.",
+          "title": "Drôme : Quatre diacres deviennent prêtres",
+          "summary": "Un village de la Drôme voit quatre diacres ordonnés prêtres après un conflit avec le Vatican, un événement marquant.",
           "url": "https://www.ledauphine.com/societe/2026/10/31/dans-ce-village-quatre-diacres-deviennent-pretres-mettant-fin-a-un-long-bras-de-fer-avec-le-vatican",
           "image": "https://cdn-s-www.ledauphine.com/images/1D2F7D08-D32D-4F9D-8E72-F440E578E6F3/NW_listB/dans-ce-village-quatre-diacres-deviennent-pretres-mettant-fin-a-un-long-bras-de-fer-avec-le-vatican-1793470420.jpg"
         },
         {
-          "title": "Gendarme visé par cocktail Molotov à Paris",
-          "summary": "Une manifestation à Paris a été marquée par un grave incident, un gendarme étant la cible d'un cocktail Molotov.",
+          "title": "Paris : Gendarme visé par cocktail Molotov",
+          "summary": "Un gendarme a été ciblé lors d'une manifestation à Paris, intensifiant les tensions sociales dans la capitale.",
           "url": "https://www.sudouest.fr/ile-de-france/paris/manifestation-du-31-octobre-un-gendarme-vise-par-un-cocktail-molotov-a-paris-31326298.php",
-          "image": null
+          "image": ""
         },
         {
-          "title": "Cinq Britanniques ultradroite interpellés pour intimidations",
-          "summary": "Des actions d'intimidation contre des migrants dans le Nord de la France ont mené à l'arrestation de cinq Britanniques.",
+          "title": "Nord : Ultra-droite interpellée contre migrants",
+          "summary": "Cinq Britanniques d'ultradroite arrêtés dans le Nord pour des actions d'intimidation envers des migrants.",
           "url": "https://www.sudouest.fr/international/migrants-et-refugies/nord-cinq-britanniques-d-ultradroite-interpelles-pour-des-actions-d-intimidation-contre-des-migrants-31324598.php",
-          "image": null
+          "image": ""
         }
       ]
     },
@@ -62,22 +62,16 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "IA, 4 jours : où est le repos promis ?",
-          "summary": "L'intelligence artificielle est là, mais la semaine de quatre jours et le repos promis aux travailleurs se font toujours attendre.",
-          "url": "https://www.journaldugeek.com/2026/10/31/maintenant-que-lia-est-la-ou-sont-nos-semaines-de-4-jours-et-le-repos-promis/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Gemini_Generated_Image_vg7rhwvg7rhwvg7r-1280x715.jpeg"
-        },
-        {
-          "title": "Le coût du SaaS explose : quelles solutions ?",
-          "summary": "Face à l'explosion des coûts du SaaS, entreprises et experts cherchent des stratégies efficaces pour maîtriser les dépenses.",
+          "title": "Le coût du SaaS explose : que faire ?",
+          "summary": "Face à l'envolée des prix du SaaS, entreprises et experts cherchent des solutions durables pour maîtriser leurs dépenses.",
           "url": "https://www.zdnet.fr/blogs/greenit/le-cout-du-saas-explose-bon-alors-on-fait-quoi-507036.htm",
           "image": "https://www.zdnet.fr/wp-content/uploads/zdnet/2026/10/cout-du-saas.jpg"
         },
         {
-          "title": "Clichy veut intégrer des robotaxis dans la ville",
-          "summary": "La ville de Clichy explore activement l'intégration de robotaxis, promettant une révolution des transports urbains.",
-          "url": "https://www.journaldugeek.com/2026/10/31/clichy-veut-des-robotaxis/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/10/clichy-g7-1280x853.jpg"
+          "title": "IA et semaine de 4 jours : où est le repos ?",
+          "summary": "L'IA est là, mais la promesse d'une semaine de travail plus courte tarde à se concrétiser pour beaucoup.",
+          "url": "https://www.journaldugeek.com/2026/10/31/maintenant-que-lia-est-la-ou-sont-nos-semaines-de-4-jours-et-le-repos-promis/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Gemini_Generated_Image_vg7rhwvg7rhwvg7r-1280x715.jpeg"
         }
       ]
     },
@@ -86,22 +80,40 @@
       "emoji": "📈",
       "articles": [
         {
-          "title": "My Cookies by Emma ouvre un nouveau commerce",
-          "summary": "Une nouvelle boutique 'My Cookies by Emma' a ouvert ses portes à Saint-Rambert, ravivant le commerce local.",
-          "url": "https://www.leprogres.fr/economie/2026/10/31/my-cookies-by-emma-ouvre-au-centre-de-saint-rambert",
-          "image": "https://cdn-s-www.leprogres.fr/images/A33C59FB-759D-46BD-8C23-5AC5C5110575/MF_contenu/my-cookies-by-emma-ouvre-au-centre-de-saint-rambert-1793469938.jpg"
-        },
-        {
-          "title": "Un cabinet de conseil en assurance par Michel Ruggaber",
-          "summary": "Michel Ruggaber présente Assithèque et InsurAngels Suisse, son nouveau cabinet de conseil spécialisé en assurance.",
+          "title": "Assithèque & InsurAngels : conseil en assurance",
+          "summary": "Michel Ruggaber présente son cabinet spécialisé en conseil et investissement dans le secteur de l'assurance.",
           "url": "https://www.bfmtv.com/economie/replay-emissions/l-hebdo-des-pme/video-michel-ruggaber-assitheque-et-insur-angels-suisse-un-cabinet-de-conseil-en-assurance-31-10_VN-202610310331.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/PxWeU1W5_Mt8ZpFlzIvNhfRM59c=/0x0:1280x720/800x0/images/Michel-Ruggaber-Assitheque-et-InsurAngels-Suisse-un-cabinet-de-conseil-en-assurance-31-10-2375615.jpg"
         },
         {
-          "title": "Antoine Bonard, nouveau patron de La Pizza à emporter",
-          "summary": "À Charols, Antoine Bonard prend les rênes de \"La Pizza à emporter\", apportant un nouveau souffle au commerce local.",
+          "title": "My Cookies by Emma ouvre à Saint-Rambert",
+          "summary": "Une nouvelle enseigne de cookies artisanaux, My Cookies by Emma, inaugure son espace au centre-ville.",
+          "url": "https://www.leprogres.fr/economie/2026/10/31/my-cookies-by-emma-ouvre-au-centre-de-saint-rambert",
+          "image": "https://cdn-s-www.leprogres.fr/images/A33C59FB-759D-46BD-8C23-5AC5C5110575/MF_contenu/my-cookies-by-emma-ouvre-au-centre-de-saint-rambert-1793469938.jpg"
+        },
+        {
+          "title": "Charols : Antoine Bonard, nouveau patron de La Pizza",
+          "summary": "Antoine Bonard prend les rênes de La Pizza à emporter à Charols, dynamisant le commerce local.",
           "url": "https://www.ledauphine.com/economie/2026/10/31/echo-du-commerce-antoine-bonard-nouveau-patron-de-la-pizza-a-emporter",
           "image": "https://cdn-s-www.ledauphine.com/images/6EF3C75B-912C-45D9-B386-3F32E181F765/NW_listB/echo-du-commerce-antoine-bonard-nouveau-patron-de-la-pizza-a-emporter-1793469807.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Clichy veut ses robotaxis autonomes",
+          "summary": "La ville de Clichy étudie le déploiement de robotaxis autonomes pour transformer la mobilité urbaine de demain.",
+          "url": "https://www.journaldugeek.com/2026/10/31/clichy-veut-des-robotaxis/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/clichy-g7-1280x853.jpg"
+        },
+        {
+          "title": "Airbus plane 19 minutes sans moteurs !",
+          "summary": "Une prouesse technique incroyable : un Airbus a réussi à planer 19 minutes au-dessus de l'Atlantique, sans ses moteurs.",
+          "url": "https://www.journaldugeek.com/2026/10/31/plus-aucun-moteur-et-306-personnes-a-bord-comment-cet-airbus-a-plane-19-minutes-au-dessus-de-latlantique/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/airbus-a330-vol-plane-sans-moteurs-ocean-acores-1280x853.jpeg"
         }
       ]
     },
@@ -110,22 +122,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Bizutage à l'Insep : 5 exclusions définitives",
-          "summary": "L'Insep a prononcé cinq exclusions définitives suite au violent bizutage survenu au Pôle France de basket.",
+          "title": "Wembanyama en direct : Spurs vs Timberwolves",
+          "summary": "Ne manquez pas Victor Wembanyama et les Spurs affronter les Timberwolves en NBA ce soir, un match très attendu.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/spurs-timberwolves-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-nba-de-wembanyama-en-direct_AN-202610310038.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/wgFbZFuDuVVdjyi5WLp59BQZPQQ=/0x0:1600x900/800x0/images/Spurs-Timberwolves-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-NBA-de-Wembanyama-en-direct-2374495.jpg"
+        },
+        {
+          "title": "Bizutage violent : 5 exclusions à l'Insep",
+          "summary": "L'Insep prend des mesures fortes, excluant cinq élèves définitivement après un violent bizutage au Pôle France.",
           "url": "https://rmcsport.bfmtv.com/basket/basket-l-insep-annonce-cinq-exlusions-definitives-apres-le-violent-bizutage-au-pole-france_AV-202610300438.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/MDkYND4HEnq8aCvnkMkQzLQ_rwU=/415x0:1679x711/800x0/images/L-INSEP-a-Paris-1593352.jpg"
         },
         {
-          "title": "Athlète espagnole décédée dans collision ferroviaire",
-          "summary": "La sauteuse en longueur Julieta Gallego, 24 ans, a tragiquement perdu la vie dans une catastrophe ferroviaire en Espagne.",
+          "title": "Drame : athlète espagnole décédée à 24 ans",
+          "summary": "La sauteuse en longueur Julieta Gallego perd la vie à 24 ans dans une collision ferroviaire tragique en Espagne.",
           "url": "https://rmcsport.bfmtv.com/athletisme/catastrophe-ferroviaire-en-espagne-la-sauteuse-en-longueur-julieta-gallego-est-morte-a-24-ans-dans-la-tragedie_AV-202610290541.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tZkR78zdJDbWNq-AMvCpPdaBfpg=/0x0:2048x1152/800x0/images/Collision-entre-deux-trains-en-Espagne-le-28-octobre-2026-2374425.jpg"
-        },
-        {
-          "title": "Wembanyama inarrêtable lance les Spurs en NBA",
-          "summary": "Victor Wembanyama domine la NBA, propulsant les Spurs vers de nouvelles victoires grâce à ses performances exceptionnelles.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-enfin-lances-grace-a-un-wembanyama-inarretable_AV-202610290177.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg"
         }
       ]
     }
