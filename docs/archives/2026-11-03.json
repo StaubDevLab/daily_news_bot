@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Hubert",
+  "global_summary": "L'actualité de ce jour est un mélange frappant de défis sociétaux, d'avancées technologiques et d'émotions fortes dans le monde du sport. Sur la scène internationale, la liberté d'expression est mise à rude épreuve avec la condamnation d'un dessinateur au Maroc, tandis que la course à l'espace s'intensifie, notamment avec les ambitions lunaires de la Chine. Des figures influentes comme Elon Musk continuent de peser lourdement sur la sphère politique, soulignant les enjeux des prochaines élections. \n\nEn France, les projecteurs se tournent vers des problématiques locales, de la lenteur judiciaire à Bordeaux aux retards de chantiers, illustrant les défis quotidiens de nos territoires. Le secteur économique, quant à lui, met en lumière la dépendance cruciale des petites exploitations aux aides régionales. Enfin, le monde du sport nous offre un panel d'histoires contrastées, entre les exploits des athlètes comme Tifany Huot-Marchand et les performances des Spurs en NBA, mais aussi des nouvelles poignantes avec la disparition de champions, nous rappelant la fragilité de la vie et la force de l'esprit humain.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser vos baskets et vous dépasser ! Avec des températures allant de 5.3°C à 12.1°C, l'air sera frais et stimulant. Le ciel est annoncé pluvieux, mais la probabilité de pluie est de 0%, donc pas besoin de sortir votre imperméable : vous pourrez profiter de votre course sans craindre les averses. Pour un confort optimal, optez pour des couches de vêtements que vous pourrez ajuster. L'indice UV est de 3.05, ce qui est modéré. Pensez à appliquer une légère protection solaire si vous avez la peau sensible, même par temps nuageux. Le créneau idéal pour votre séance se situe entre le milieu de matinée (vers 9h-10h) et le début d'après-midi (vers 14h-15h), lorsque les températures seront les plus douces. Alors, respirez profondément, donnez le meilleur de vous-même et faites de ce jour une victoire personnelle !",
+  "weather_string": "🌧️ Pluie (5.3°C / 12.1°C)",
+  "weather_stats": {
+    "temp": "12.1°C",
+    "rain": "0%",
+    "uv": "3.05"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Maroc: un dessinateur condamné à 4 ans de prison",
+          "summary": "Yasser Mounbir écope d'une lourde peine pour ses caricatures du roi, soulevant des questions sur la liberté d'expression.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/02/au-maroc-le-dessinateur-yasser-mounbir-condamne-a-quatre-ans-de-prison-ferme-pour-des-caricatures-du-roi_6805305_3212.html",
+          "image": "https://img.lemde.fr/2026/11/02/0/0/4857/2428/644/322/60/0/efb8a31_upload-1-5iq0fubx6az7-000-ym8uq.jpg"
+        },
+        {
+          "title": "Chine vise la Lune avec ses taïkonautes",
+          "summary": "Le programme spatial chinois accélère, avec l'ambition d'envoyer bientôt ses astronautes explorer la surface lunaire.",
+          "url": "https://www.courrierinternational.com/article/sciences-programme-spatial-chinois-bientot-des-taikonautes-sur-la-lune_284397",
+          "image": "https://focus.courrierinternational.com/2024/04/25/0/0/8174/5450/644/0/60/0/3e3cf77_afp-34q94m3.jpg"
+        },
+        {
+          "title": "Elon Musk s'investit lourdement aux Midterms du Texas",
+          "summary": "Un don colossal d'Elon Musk au Texas fait les gros titres, soulevant des interrogations sur son influence politique.",
+          "url": "https://www.lexpress.fr/monde/amerique/midterms-au-texas-le-cheque-exorbitant-delon-musk-pour-sauver-le-soldat-paxton-4G7HAZLIOBBHJGRD26U2QYK7GI/",
+          "image": "https://www.lexpress.fr/resizer/v2/OIVHA3G3NRCYPK2YURSVOATNGY.JPG?auth=c89b1d866cbf57cf797699b73376e16ae42748e7c5f5001ca965c4cd30be91e&smart=true&width=6000&height=4000"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Bordeaux: l'État assigné pour délais de justice",
+          "summary": "La justice française est sous le feu des critiques à Bordeaux pour des lenteurs jugées inacceptables.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-l-etat-assigne-pour-delais-deraisonnables-dans-des-procedures-familiales-ou-prud-homales-31357658.php",
+          "image": null
+        },
+        {
+          "title": "Dijon, capitale européenne de la natation jeune",
+          "summary": "La ville de Dijon a brillamment accueilli l'élite de la jeune natation européenne, promettant des futurs champions.",
+          "url": "https://www.bienpublic.com/sport/2026/11/02/dijon-a-accueilli-les-meilleurs-jeunes-de-la-natation-europeenne",
+          "image": "https://cdn-s-www.bienpublic.com/images/0CE9FFE8-BB53-481B-9CE3-885B9D66B3FF/MF_contenu/dijon-a-accueilli-les-meilleurs-jeunes-de-la-natation-europeenne-1793638168.jpg"
+        },
+        {
+          "title": "Château-Renault dévoile son riche passé",
+          "summary": "Explorez l'histoire méconnue de Château-Renault, où la cité du cuir révèle ses secrets à travers ses vestiges.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/chateau-renault/derriere-la-cite-du-cuir-l-histoire-de-chateau-renault-se-devoile-au-fil-des-rues-et-des-vestiges-1793642702",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1793397324/6ae8d0cc92cf3d5f6e8b4578"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Gigantesque rachat secoue le monde de la Tech",
+          "summary": "Un des plus importants rachats tech de l'histoire a été officialisé, marquant un tournant pour deux entreprises méconnues.",
+          "url": "https://www.journaldugeek.com/2026/11/02/plus-gros-rachats-tech/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/entreprise-americaine-marvell-intelligence-artificielle-2-1280x853.jpg"
+        },
+        {
+          "title": "L'armée US traque les météores, et plus",
+          "summary": "La surveillance des météores par l'armée américaine cache une mission bien plus complexe, liée à d'autres menaces spatiales.",
+          "url": "https://www.journaldugeek.com/2026/11/02/espace-pourquoi-larmee-americaine-surveille-meteores-autre-menace-venue-lespace-cache-derriere-mission/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Surveillance-espace-1280x853.jpg"
+        },
+        {
+          "title": "Fuite suspecte autour d'un remake de Persona 1",
+          "summary": "La rumeur enfle : un potentiel remake du célèbre jeu Persona 1 pourrait bien avoir fuité sur internet.",
+          "url": "https://www.journaldugeek.com/2026/11/02/un-remake-de-persona-1-vient-il-de-fuiter-sur-la-toile/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/persona-1-remake-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Passerelle Brunstatt-Didenheim: chantier retardé",
+          "summary": "Le projet de passerelle piétons-cyclos à Brunstatt-Didenheim subit un retard de quelques semaines, impactant les usagers.",
+          "url": "https://www.lalsace.fr/economie/2026/11/02/passerelle-pietons-cyclos-le-chantier-retarde-de-quelques-semaines",
+          "image": "https://cdn-s-www.lalsace.fr/images/9C432882-9B74-422C-9740-EB627FD6466A/NW_listB/passerelle-pietons-cyclos-le-chantier-retarde-de-quelques-semaines-1793642643.jpg"
+        },
+        {
+          "title": "Immobilier en Ardèche: préfectures attirent-elles?",
+          "summary": "Le marché immobilier ardéchois s'interroge sur l'attractivité des villes préfectures pour les acheteurs potentiels.",
+          "url": "https://www.ledauphine.com/economie/2026/11/02/immobilier-les-acheteurs-ont-ils-envie-d-acheter-dans-la-ville-prefecture",
+          "image": "https://cdn-s-www.ledauphine.com/images/DCCB1385-3141-42D4-B6A1-085A8BB99EF1/NW_listB/immobilier-les-acheteurs-ont-ils-envie-d-acheter-dans-la-ville-prefecture-1793642698.jpg"
+        },
+        {
+          "title": "Aides régionales cruciales pour l'agriculture",
+          "summary": "Un castanéiculteur des Cévennes souligne l'importance vitale des aides régionales pour la survie de son exploitation.",
+          "url": "https://www.midilibre.fr/2026/11/02/sans-les-aides-tu-ne-peux-pas-investir-la-region-au-chevet-dadrien-vezinet-castaneiculteur-dans-les-cevennes-gardoises-13632317.php",
+          "image": "https://images.midilibre.fr/api/v1/images/view/6ae8bc65725686c5360e8b58/standard/image.jpg?v=18"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Décès de Ciara Mageean, championne d'Europe",
+          "summary": "Le monde de l'athlétisme est en deuil : Ciara Mageean, championne d'Europe du 1500m, est décédée des suites d'un cancer à 34 ans.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        },
+        {
+          "title": "Wemby et les Spurs enchaînent les victoires",
+          "summary": "Les Spurs signent une cinquième victoire consécutive en NBA, même si Victor Wembanyama a connu une soirée plus difficile.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-cinq-a-la-suite-pour-les-spurs-malgre-un-wembanyama-brouillon_AV-202611030124.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kpjHp9Gx_M8Rz-mEAPfgy8ZwNmY=/0x45:2048x1197/800x0/images/Victor-Wembanyama-le-27-octobre-2026-2373355.jpg"
+        },
+        {
+          "title": "Tifany Huot-Marchand: un destin en or",
+          "summary": "Après avoir frôlé la paralysie, Tifany Huot-Marchand devient triple championne du monde de paracyclisme, une source d'inspiration.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/tifany-huot-marchand-la-shortrackeuse-passee-tout-pres-de-la-paralysie-est-devenue-triple-championne-du-monde-de-paracyclisme-sur-piste_AN-202611010428.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/rjmZ5OdRj0a9lFJl6E1yBnqwGKM=/0x42:1024x618/800x0/images/Tifany-Huot-Marchand-2375926.jpg"
+        }
+      ]
+    }
+  ]
+}
