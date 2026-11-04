@@ -1,0 +1,127 @@
+{
+  "ephemeride": "Saint Charles",
+  "global_summary": "L'actualité de ce jour jongle entre des tensions géopolitiques inattendues, comme la Chine visant Hello Kitty, et des cybermenaces persistantes qui touchent même nos objets connectés quotidiens. Des faits divers locaux aux enjeux diplomatiques internationaux, le monde continue de bouger à un rythme effréné, révélant la diversité des défis contemporains.\nSur le plan économique, les grandes manœuvres financières se poursuivent avec des acquisitions majeures et l'anticipation du Black Friday. Le sport nous offre quant à lui son lot d'émotions fortes, mêlant exploits inspirants, hommages poignants et défis personnels, rappelant la résilience et la passion qui animent les athlètes.",
+  "running_advice": "Préparez-vous à conquérir la piste aujourd'hui ! Avec des températures optimales oscillant entre 3.7°C et 12.2°C, et un ciel 'Peu nuageux', les conditions sont parfaites pour une session revigorante. Je vous conseille de viser votre course entre 10h00 et 15h00, pour profiter de la meilleure douceur et luminosité de la journée. Allez, enfilez vos baskets et transformez cette belle journée en énergie pure ! Vous en êtes capable !",
+  "weather_string": "🌤️ Peu nuageux (3.7°C / 12.2°C)",
+  "weather_stats": {
+    "temp": "12.2°C",
+    "rain": "3%",
+    "uv": "2.7"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Hello Kitty sous le feu de la Chine",
+          "summary": "Après Mbappé, la Chine accuse la série japonaise de promouvoir un 'discours antichinois'.",
+          "url": "https://www.ladepeche.fr/2026/11/03/apres-kylian-mbappe-au-tour-dhello-kitty-de-subir-les-foudres-de-la-chine-qui-accuse-la-serie-japonaise-de-promouvoir-un-discours-antichinois-13634039.php",
+          "image": "https://images.ladepeche.fr/api/v1/images/view/6ae9f7d9b0b57c14f509d08b/standard/image.jpg?v=1"
+        },
+        {
+          "title": "Club Kid : une comédie queer mordante",
+          "summary": "Découvrez cette comédie queer de Jordan Firstman explorant les familles qu'on se choisit.",
+          "url": "https://www.courrierinternational.com/article/en-salle-club-kid-de-jordan-firstman-une-comedie-queer-et-mordante-sur-les-familles-qu-on-se-choisit_280863",
+          "image": "https://focus.courrierinternational.com/2026/10/23/0/0/1658/898/644/0/60/0/4e9a0dc_upload-1-ggtq5hgwluj8-clubkid-2.png"
+        },
+        {
+          "title": "Midterms Alaska : duel des Dan Sullivan",
+          "summary": "Qui de Dan Sullivan ou Dan Sullivan deviendra sénateur de l'Alaska ? Un vote singulier.",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/midterms-qui-de-dan-sullivan-ou-de-dan-sullivan-deviendra-senateur-de-l-alaska_8266472.html",
+          "image": "https://www.franceinfo.fr/pictures/8YQ75ojC-0LoOzTsF3qoCiKv4JY/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/03/6aea2ee4ca8d0446702291.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Dordogne : Bousquet lâche l'opposition",
+          "summary": "Dominique Bousquet quitte la présidence de l'opposition de droite au Conseil départemental de Dordogne.",
+          "url": "https://www.dordognelibre.fr/politique/dominique-bousquet-lache-la-presidence-de-la-principale-opposition-de-droite-du-conseil-departemental-de-la-dordogne-31368388.php",
+          "image": "https://media.dordognelibre.fr/31368388/1200x-1/dl-20261103-dsc-3945.jpg"
+        },
+        {
+          "title": "Géorgie-UE : l'impasse diplomatique",
+          "summary": "Le Premier ministre géorgien peine à trouver une solution pour sortir de l'impasse avec l'UE.",
+          "url": "https://fr.euronews.com/2026/11/03/interview-le-premier-ministre-georgien-sans-solution-pour-sortir-de-limpasse-avec-lue",
+          "image": "https://images.euronews.com/articles/stories/09/97/84/09/1440x810_cmsv2_6e562651-13bc-543b-8a36-d7df821075f9-9978409.jpg"
+        },
+        {
+          "title": "Cour Suprême : Écoles catholiques contre antidiscrimination",
+          "summary": "La Cour suprême examine un recours d'écoles maternelles catholiques contre une règle antidiscrimination.",
+          "url": "https://fr.qz.com/dossier-concernant-un-cas-de-non-discrimination-dune-cole-maternelle-catholique-du-colorado-devant-la-cour-suprme",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Cyber",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Cyberattaque : des réfrigérateurs ciblés en Europe",
+          "summary": "Une nouvelle cyberattaque touche des réfrigérateurs, impactant une douzaine de pays européens.",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/nouvelle-cyberattaque-visant-des-refrigerateurs-une-douzaine-de-pays-europeens-desormais-concernes-20261103",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/11/03/5002736d551c639020d6590ba03c900193d73c009911f2e272b3680685c31fcd.jpg"
+        },
+        {
+          "title": "Arnaques téléphoniques : la Police Nationale ciblée",
+          "summary": "La Police Nationale devient la nouvelle cible des arnaques téléphoniques par spoofing.",
+          "url": "https://www.generation-nt.com/actualites/spoofing-police-nationale-arnaque-telephonique-contre-appel-fraude-2083907",
+          "image": "https://img.generation-nt.com/police-gyrophare_01668936.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Finance",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Morgan Stanley lève 2,3 milliards",
+          "summary": "Morgan Stanley sécurise 2,3 milliards de dollars en prêts pour le rachat de Baldwin Insurance.",
+          "url": "https://fr.qz.com/morgan-stanley-baldwin-assurance-prts-dell-110326",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2270257351.jpg"
+        },
+        {
+          "title": "Black Friday : réductions sur produits Apple",
+          "summary": "Les détaillants proposent des réductions sur 23 produits Apple avant le Black Friday.",
+          "url": "https://fr.qz.com/dtaillants-rduisant-23-produits-apple-black-friday-110326",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        },
+        {
+          "title": "Disney : milliers de postes supprimés en vue",
+          "summary": "Des milliers de suppressions de postes sont prévues chez Disney, impactant l'emploi mondial.",
+          "url": "https://www.journaldugeek.com/2026/11/04/des-milliers-de-suppressions-de-postes-chez-disney-en-vue/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/20261003_104230-1280x960.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : les Spurs enchaînent les victoires",
+          "summary": "Cinq à la suite pour les Spurs malgré un Wembanyama 'brouillon', qui continue d'impressionner en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-cinq-a-la-suite-pour-les-spurs-malgre-un-wembanyama-brouillon_AV-202611030124.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kpjHp9Gx_M8Rz-mEAPfgy8ZwNmY=/0x45:2048x1197/800x0/images/Victor-Wembanyama-le-27-octobre-2026-2373355.jpg"
+        },
+        {
+          "title": "Athlétisme : décès de Ciara Mageean",
+          "summary": "Ciara Mageean, championne d'Europe du 1500m en 2024, est décédée d'un cancer à 34 ans.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        },
+        {
+          "title": "Tifany Huot-Marchand : triple championne",
+          "summary": "Passée près de la paralysie, Tifany Huot-Marchand devient triple championne du monde de paracyclisme.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/tifany-huot-marchand-la-shortrackeuse-passee-tout-pres-de-la-paralysie-est-devenue-triple-championne-du-monde-de-paracyclisme-sur-piste_AN-202611010428.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/rjmZ5OdRj0a9lFJl6E1yBnqwGKM=/0x42:1024x618/800x0/images/Tifany-Huot-Marchand-2375926.jpg"
+        }
+      ]
+    }
+  ]
+}
