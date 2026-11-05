@@ -1,0 +1,154 @@
+{
+  "ephemeride": "Sainte Sylvie",
+  "global_summary": "La scène internationale est marquée par les répercussions des midterms américaines, avec l'espoir démocrate au Texas et des implications pour la politique étrangère. En France, l'actualité sociale et économique se focalise sur l'augmentation des bénéficiaires des Restos du Cœur et les défis du management face au harcèlement, tandis que des mouvements sociaux perturbent les transports franciliens.\nLe secteur technologique innove avec des drones militaires issus de l'industrie automobile et des défis de cybersécurité pour les supermarchés. Côté sport, les performances exceptionnelles de Victor Wembanyama continuent de briller, et la France s'illustre en tir, même si la communauté athlétique déplore des pertes tragiques.",
+  "running_advice": "Aujourd'hui, c'est une excellente journée pour chausser tes baskets et conquérir le bitume ! Malgré le brouillard matinal qui peut ajouter une touche mystérieuse à ton parcours, les températures douces, allant jusqu'à près de 14°C, sont idéales pour une séance énergisante. Pas de pluie à l'horizon, donc aucune excuse ! Je te conseille de viser le milieu de matinée, vers 10h-11h, ou le début d'après-midi, entre 14h et 16h. C'est le moment où le brouillard aura probablement laissé place à une meilleure visibilité et où la température sera la plus agréable. L'indice UV est bas (2.95), mais n'oublie pas une bonne hydratation. Alors, prêt à te dépasser ? La course t'attend !",
+  "weather_string": "🌫️ Brouillard (3.6°C / 13.9°C)",
+  "weather_stats": {
+    "temp": "13.9°C",
+    "rain": "0%",
+    "uv": "2.95"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Texas : Démocrates Espèrent Changement Post-Midterms",
+          "summary": "Dans la ville du nouveau sénateur Talarico, l'optimisme règne quant aux répercussions des midterms.",
+          "url": "https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-il-etait-le-meilleur-choix-possible-dans-la-ville-du-nouveau-senateur-du-texas-james-talarico-les-democrates-esperent-que-les-midterms-apporteront-du-changement_8268125.html",
+          "image": "https://www.franceinfo.fr/pictures/ZcsM8shkZRtJLSLQQaLLFtgi0Vo/0x0:7229x4066/432x243/filters:format(jpg)/2026/11/04/6aeb73608841a030341883.jpg"
+        },
+        {
+          "title": "Midterms : Trump Face à une Politique Pro-Russe Plus Difficile",
+          "summary": "L'analyste prédit des obstacles accrus pour Trump après les midterms, notamment sur sa politique internationale.",
+          "url": "https://www.nouvelobs.com/monde/20261104.OBS119851/apres-les-midterms-trump-devrait-avoir-plus-de-difficultes-a-conduire-une-politique-pro-russe.html",
+          "image": "https://focus.nouvelobs.com/2026/11/04/0/30/5736/3824/0/0/60/0/3f9e840_upload-1-yhxdwms1lwel-063-2231526942.jpg"
+        },
+        {
+          "title": "Washington State : Gluesenkamp Perez Réélue",
+          "summary": "Dans l'État de Washington, Gluesenkamp Perez sécurise un troisième mandat électoral.",
+          "url": "https://fr.qz.com/gluesenkamp-perez-remporte-le-sige-de-la-3e-circonscription-de-la-chambre-des-reprsentants-de-washington-110426",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Restos du Cœur : Hausse Alarmante des Bénéficiaires",
+          "summary": "À Château-la-Vallière, les Restos du Cœur font face à une forte augmentation des demandes d'aide.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/chateau-la-valliere/c-est-un-chiffre-en-forte-hausse-pour-notre-centre-les-restos-du-coeur-aident-une-centaine-de-beneficiaires-a-chateau-la-valliere-1793819433",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1792835727/6aeb83271d8f890e058b45c7"
+        },
+        {
+          "title": "Manifestation Tours : Enquête sur un Œil Blessé",
+          "summary": "Un jeune homme accuse la police de l'avoir blessé à l'œil lors d'une manifestation, une enquête est ouverte.",
+          "url": "https://www.sudouest.fr/societe/greves-et-manifestations/manifestation-et-violences-urbaines-je-vois-encore-flou-aujourd-hui-a-tours-un-jeune-homme-accuse-la-police-de-l-avoir-blesse-a-un-oeil-une-enquete-ouverte-31385694.php",
+          "image": "https://media.sudouest.fr/31385694/1200x-1/20261007083943-17394512.jpg"
+        },
+        {
+          "title": "Grève du 5 Novembre : Perturbations en Île-de-France",
+          "summary": "De nombreuses stations de métro et RER sont fermées à Paris en raison d'une grève ce 5 novembre.",
+          "url": "https://www.journaldugeek.com/2026/11/05/greve-du-5-novembre-quelles-lignes-de-metro-rer-ou-stations-sont-impactees-en-ile-de-france/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Greve-du-5-novembre-lignes-metro-bloques-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Bruxelles Face aux Frigos de Supermarchés Piratés",
+          "summary": "La Commission européenne s'empare du dossier des cyberattaques visant les systèmes réfrigérés des supermarchés.",
+          "url": "https://www.generation-nt.com/actualites/cyberattaque-europe-supermarche-refrigerateur-commission-hansen-2083994",
+          "image": "https://img.generation-nt.com/union-europe-enne_04B002A301723551.webp"
+        },
+        {
+          "title": "Renault : Un Drone Militaire avec Pièces Auto",
+          "summary": "Renault innove en fabriquant un drone militaire avec des pièces de voiture, l'armée française va le tester.",
+          "url": "https://www.capital.fr/entreprises-marches/renault-fabrique-un-drone-militaire-avec-des-pieces-de-voitures-et-larmee-francaise-va-le-tester-1531573",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~04~5735c3a8-300f-4cf0-881e-adc13c8dcdd8.jpg/1200x900/focus-point/1241%2C818/renault-fabrique-un-drone-militaire-avec-des-pieces-de-voitures-et-l-armee-francaise-va-le-tester.jpg"
+        },
+        {
+          "title": "Samsung Galaxy S26 : Offres Exclusives",
+          "summary": "L'achat du dernier Samsung Galaxy S26 est accompagné d'assurance et d'accessoires en promotion.",
+          "url": "https://www.bfmtv.com/tech/bons-plans/assurance-offerte-accessoires-en-promotion-l-achat-du-samsung-galaxy-s26-ca-rapporte_AB-202611040036.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/vgaIoFfaq6XLbHgH98MrmVYl-Zc=/0x0:1600x900/800x0/images/Du-jamais-vu-Le-Samsung-Galaxy-S26-voit-son-prix-chuter-et-il-n-y-a-qu-un-site-qui-fait-ca-2345891.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Société",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Harcèlement en Entreprise : Des Pistes Contre le Mal-être",
+          "summary": "Un colloque propose des solutions face aux absences courtes, souvent signe de management toxique.",
+          "url": "https://www.dordognelibre.fr/dordogne/perigueux/beaucoup-d-absences-de-courte-duree-peuvent-etre-le-signe-d-un-management-mal-digere-un-colloque-pour-donner-des-pistes-contre-le-harcelement-en-entreprise-31365457.php",
+          "image": "https://media.dordognelibre.fr/31365457/1200x-1/dl-20261103-20261103-dsc-4000.jpg"
+        },
+        {
+          "title": "Sport au Moyen-Orient : Un Défi Croissant",
+          "summary": "Le sport dans la région soulève des questions complexes, du Dakar aux Grands Prix, un vrai casse-tête.",
+          "url": "https://rmcsport.bfmtv.com/societe/dakar-wta-finals-gp-de-bahrein-le-sport-au-moyen-orient-un-casse-tete-de-plus-en-plus-difficile-a-resoudre_AV-202610300630.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/-58kFgI9htreg5j3JWsOv7NzfYM=/60x397:1772x1360/800x0/images/Grand-Prix-de-Bahrein-en-Malaisie-sur-le-circuit-de-Sepang-le-4-octobre-2026-2359021.jpg"
+        },
+        {
+          "title": "Willy Sagnol Soutient David Lisnard pour 2027",
+          "summary": "L'ancien footballeur Willy Sagnol apporte son soutien public à David Lisnard pour la présidentielle.",
+          "url": "https://rmcsport.bfmtv.com/societe/on-voit-la-situation-en-france-actuellement-willy-sagnol-apporte-son-soutien-a-david-lisnard_AV-202611040384.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/sDgv9-wK4BnGqO-ao8exLJp4u8A=/0x0:2048x1152/800x0/images/Willy-Sagnol-lors-du-match-Georgie-Republique-tcheque-a-l-Euro-le-22-06-2024-1892446.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Faits Divers (Gironde)",
+      "emoji": "🚨",
+      "articles": [
+        {
+          "title": "Joggeuse Morte : Le Suspect Maintient Version",
+          "summary": "Une reconstitution a lieu après la mort d'Agathe Hilairet; le suspect évoque toujours des tiers.",
+          "url": "https://www.sudouest.fr/justice/mort-de-la-joggeuse-agathe-hilairet-dans-la-vienne-une-reconstitution-a-ete-organisee-mercredi-le-suspect-maintient-que-des-tiers-sont-intervenus-31390348.php"
+        },
+        {
+          "title": "Tonneins : Cambrioleurs Pris en Flagrant Délit",
+          "summary": "Deux hommes ont été interpellés par les gendarmes lors d'un cambriolage dans une maison inoccupée.",
+          "url": "https://www.sudouest.fr/faits-divers/cambriolage-a-tonneins-deux-hommes-interpelles-par-les-gendarmes-en-flagrant-delit-dans-une-maison-inoccupee-31385193.php"
+        },
+        {
+          "title": "Gironde : Octogénaire Condamné pour Abus",
+          "summary": "Un homme de 83 ans écope de quinze ans de réclusion pour avoir abusé d'une jeune fille.",
+          "url": "https://www.sudouest.fr/faits-divers/pendant-des-annees-il-a-abuse-d-une-jeune-fille-fragile-et-pourtant-suivie-a-83-ans-il-est-condamne-a-quinze-ans-de-reclusion-par-la-cour-criminelle-de-la-gironde-31363542.php"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama Brille : Records de Points et Rebonds",
+          "summary": "Victor Wembanyama signe une performance éblouissante, battant ses records avec les Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/records-de-points-et-de-rebonds-la-soiree-eblouissante-de-victor-wembanyama-avec-les-spurs_AV-202611050155.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kpjHp9Gx_M8Rz-mEAPfgy8ZwNmY=/0x45:2048x1197/800x0/images/Victor-Wembanyama-le-27-octobre-2026-2373355.jpg"
+        },
+        {
+          "title": "Athlétisme : Ciara Mageean, Championne d'Europe, Décède",
+          "summary": "Triste nouvelle pour l'athlétisme : la championne d'Europe du 1500m Ciara Mageean est décédée d'un cancer.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        },
+        {
+          "title": "Tir : L'Or par Équipe pour la France à Doha",
+          "summary": "Journée exceptionnelle pour le tir français aux Mondiaux avec l'or par équipe et deux médailles individuelles.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/championnats-du-monde-de-tir-magnifique-journee-pour-la-france-avec-l-or-par-equipe-et-deux-medailles-individuelles-pour-bessaguet-et-quicampoix_AV-202611040765.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Njx-l2UeSCHNAEPX61F0FGdFb_k=/80x372:1824x1353/800x0/images/Ce-mercredi-a-Doha-Clement-Bessaguet-et-Jean-Quiquampoix-ont-obtenu-la-medaille-d-argent-et-la-medaille-de-bronze-mondiales-sur-l-epreuve-du-tir-au-pistolet-rapide-a-25m-apres-l-or-par-equipe-2378036.jpg"
+        }
+      ]
+    }
+  ]
+}

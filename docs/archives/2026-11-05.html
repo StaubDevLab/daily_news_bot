@@ -1,0 +1,430 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 05/11/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">jeudi 5 novembre • Sainte Sylvie</p>
+            <div class="weather-badge">
+              🌫️ Brouillard (3.6°C / 13.9°C) &nbsp;|&nbsp; ☀️ UV: 2.95 &nbsp;|&nbsp; 💧 0%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>La scène internationale est marquée par les répercussions des midterms américaines, avec l'espoir démocrate au Texas et des implications pour la politique étrangère. En France, l'actualité sociale et économique se focalise sur l'augmentation des bénéficiaires des Restos du Cœur et les défis du management face au harcèlement, tandis que des mouvements sociaux perturbent les transports franciliens.
+Le secteur technologique innove avec des drones militaires issus de l'industrie automobile et des défis de cybersécurité pour les supermarchés. Côté sport, les performances exceptionnelles de Victor Wembanyama continuent de briller, et la France s'illustre en tir, même si la communauté athlétique déplore des pertes tragiques.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Aujourd'hui, c'est une excellente journée pour chausser tes baskets et conquérir le bitume ! Malgré le brouillard matinal qui peut ajouter une touche mystérieuse à ton parcours, les températures douces, allant jusqu'à près de 14°C, sont idéales pour une séance énergisante. Pas de pluie à l'horizon, donc aucune excuse ! Je te conseille de viser le milieu de matinée, vers 10h-11h, ou le début d'après-midi, entre 14h et 16h. C'est le moment où le brouillard aura probablement laissé place à une meilleure visibilité et où la température sera la plus agréable. L'indice UV est bas (2.95), mais n'oublie pas une bonne hydratation. Alors, prêt à te dépasser ? La course t'attend !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/ZcsM8shkZRtJLSLQQaLLFtgi0Vo/0x0:7229x4066/432x243/filters:format(jpg)/2026/11/04/6aeb73608841a030341883.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-il-etait-le-meilleur-choix-possible-dans-la-ville-du-nouveau-senateur-du-texas-james-talarico-les-democrates-esperent-que-les-midterms-apporteront-du-changement_8268125.html" target="_blank">Texas : Démocrates Espèrent Changement Post-Midterms</a>
+                    </h3>
+                    <p class="article-summary">Dans la ville du nouveau sénateur Talarico, l'optimisme règne quant aux répercussions des midterms.</p>
+                    <a href="https://www.franceinfo.fr/monde/usa/midterms-2018/reportage-il-etait-le-meilleur-choix-possible-dans-la-ville-du-nouveau-senateur-du-texas-james-talarico-les-democrates-esperent-que-les-midterms-apporteront-du-changement_8268125.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://focus.nouvelobs.com/2026/11/04/0/30/5736/3824/0/0/60/0/3f9e840_upload-1-yhxdwms1lwel-063-2231526942.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.nouvelobs.com/monde/20261104.OBS119851/apres-les-midterms-trump-devrait-avoir-plus-de-difficultes-a-conduire-une-politique-pro-russe.html" target="_blank">Midterms : Trump Face à une Politique Pro-Russe Plus Difficile</a>
+                    </h3>
+                    <p class="article-summary">L'analyste prédit des obstacles accrus pour Trump après les midterms, notamment sur sa politique internationale.</p>
+                    <a href="https://www.nouvelobs.com/monde/20261104.OBS119851/apres-les-midterms-trump-devrait-avoir-plus-de-difficultes-a-conduire-une-politique-pro-russe.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.qz.com/gluesenkamp-perez-remporte-le-sige-de-la-3e-circonscription-de-la-chambre-des-reprsentants-de-washington-110426" target="_blank">Washington State : Gluesenkamp Perez Réélue</a>
+                    </h3>
+                    <p class="article-summary">Dans l'État de Washington, Gluesenkamp Perez sécurise un troisième mandat électoral.</p>
+                    <a href="https://fr.qz.com/gluesenkamp-perez-remporte-le-sige-de-la-3e-circonscription-de-la-chambre-des-reprsentants-de-washington-110426" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://images.lanouvellerepublique.fr/image/upload/v1792835727/6aeb83271d8f890e058b45c7" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lanouvellerepublique.fr/indre-et-loire/commune/chateau-la-valliere/c-est-un-chiffre-en-forte-hausse-pour-notre-centre-les-restos-du-coeur-aident-une-centaine-de-beneficiaires-a-chateau-la-valliere-1793819433" target="_blank">Restos du Cœur : Hausse Alarmante des Bénéficiaires</a>
+                    </h3>
+                    <p class="article-summary">À Château-la-Vallière, les Restos du Cœur font face à une forte augmentation des demandes d'aide.</p>
+                    <a href="https://www.lanouvellerepublique.fr/indre-et-loire/commune/chateau-la-valliere/c-est-un-chiffre-en-forte-hausse-pour-notre-centre-les-restos-du-coeur-aident-une-centaine-de-beneficiaires-a-chateau-la-valliere-1793819433" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://media.sudouest.fr/31385694/1200x-1/20261007083943-17394512.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/societe/greves-et-manifestations/manifestation-et-violences-urbaines-je-vois-encore-flou-aujourd-hui-a-tours-un-jeune-homme-accuse-la-police-de-l-avoir-blesse-a-un-oeil-une-enquete-ouverte-31385694.php" target="_blank">Manifestation Tours : Enquête sur un Œil Blessé</a>
+                    </h3>
+                    <p class="article-summary">Un jeune homme accuse la police de l'avoir blessé à l'œil lors d'une manifestation, une enquête est ouverte.</p>
+                    <a href="https://www.sudouest.fr/societe/greves-et-manifestations/manifestation-et-violences-urbaines-je-vois-encore-flou-aujourd-hui-a-tours-un-jeune-homme-accuse-la-police-de-l-avoir-blesse-a-un-oeil-une-enquete-ouverte-31385694.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/11/Greve-du-5-novembre-lignes-metro-bloques-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/05/greve-du-5-novembre-quelles-lignes-de-metro-rer-ou-stations-sont-impactees-en-ile-de-france/" target="_blank">Grève du 5 Novembre : Perturbations en Île-de-France</a>
+                    </h3>
+                    <p class="article-summary">De nombreuses stations de métro et RER sont fermées à Paris en raison d'une grève ce 5 novembre.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/05/greve-du-5-novembre-quelles-lignes-de-metro-rer-ou-stations-sont-impactees-en-ile-de-france/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻 Tech & Innovation</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://img.generation-nt.com/union-europe-enne_04B002A301723551.webp" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.generation-nt.com/actualites/cyberattaque-europe-supermarche-refrigerateur-commission-hansen-2083994" target="_blank">Bruxelles Face aux Frigos de Supermarchés Piratés</a>
+                    </h3>
+                    <p class="article-summary">La Commission européenne s'empare du dossier des cyberattaques visant les systèmes réfrigérés des supermarchés.</p>
+                    <a href="https://www.generation-nt.com/actualites/cyberattaque-europe-supermarche-refrigerateur-commission-hansen-2083994" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~04~5735c3a8-300f-4cf0-881e-adc13c8dcdd8.jpg/1200x900/focus-point/1241%2C818/renault-fabrique-un-drone-militaire-avec-des-pieces-de-voitures-et-l-armee-francaise-va-le-tester.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.capital.fr/entreprises-marches/renault-fabrique-un-drone-militaire-avec-des-pieces-de-voitures-et-larmee-francaise-va-le-tester-1531573" target="_blank">Renault : Un Drone Militaire avec Pièces Auto</a>
+                    </h3>
+                    <p class="article-summary">Renault innove en fabriquant un drone militaire avec des pièces de voiture, l'armée française va le tester.</p>
+                    <a href="https://www.capital.fr/entreprises-marches/renault-fabrique-un-drone-militaire-avec-des-pieces-de-voitures-et-larmee-francaise-va-le-tester-1531573" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/vgaIoFfaq6XLbHgH98MrmVYl-Zc=/0x0:1600x900/800x0/images/Du-jamais-vu-Le-Samsung-Galaxy-S26-voit-son-prix-chuter-et-il-n-y-a-qu-un-site-qui-fait-ca-2345891.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/tech/bons-plans/assurance-offerte-accessoires-en-promotion-l-achat-du-samsung-galaxy-s26-ca-rapporte_AB-202611040036.html" target="_blank">Samsung Galaxy S26 : Offres Exclusives</a>
+                    </h3>
+                    <p class="article-summary">L'achat du dernier Samsung Galaxy S26 est accompagné d'assurance et d'accessoires en promotion.</p>
+                    <a href="https://www.bfmtv.com/tech/bons-plans/assurance-offerte-accessoires-en-promotion-l-achat-du-samsung-galaxy-s26-ca-rapporte_AB-202611040036.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💼 Économie & Société</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://media.dordognelibre.fr/31365457/1200x-1/dl-20261103-20261103-dsc-4000.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.dordognelibre.fr/dordogne/perigueux/beaucoup-d-absences-de-courte-duree-peuvent-etre-le-signe-d-un-management-mal-digere-un-colloque-pour-donner-des-pistes-contre-le-harcelement-en-entreprise-31365457.php" target="_blank">Harcèlement en Entreprise : Des Pistes Contre le Mal-être</a>
+                    </h3>
+                    <p class="article-summary">Un colloque propose des solutions face aux absences courtes, souvent signe de management toxique.</p>
+                    <a href="https://www.dordognelibre.fr/dordogne/perigueux/beaucoup-d-absences-de-courte-duree-peuvent-etre-le-signe-d-un-management-mal-digere-un-colloque-pour-donner-des-pistes-contre-le-harcelement-en-entreprise-31365457.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/-58kFgI9htreg5j3JWsOv7NzfYM=/60x397:1772x1360/800x0/images/Grand-Prix-de-Bahrein-en-Malaisie-sur-le-circuit-de-Sepang-le-4-octobre-2026-2359021.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/societe/dakar-wta-finals-gp-de-bahrein-le-sport-au-moyen-orient-un-casse-tete-de-plus-en-plus-difficile-a-resoudre_AV-202610300630.html" target="_blank">Sport au Moyen-Orient : Un Défi Croissant</a>
+                    </h3>
+                    <p class="article-summary">Le sport dans la région soulève des questions complexes, du Dakar aux Grands Prix, un vrai casse-tête.</p>
+                    <a href="https://rmcsport.bfmtv.com/societe/dakar-wta-finals-gp-de-bahrein-le-sport-au-moyen-orient-un-casse-tete-de-plus-en-plus-difficile-a-resoudre_AV-202610300630.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/sDgv9-wK4BnGqO-ao8exLJp4u8A=/0x0:2048x1152/800x0/images/Willy-Sagnol-lors-du-match-Georgie-Republique-tcheque-a-l-Euro-le-22-06-2024-1892446.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/societe/on-voit-la-situation-en-france-actuellement-willy-sagnol-apporte-son-soutien-a-david-lisnard_AV-202611040384.html" target="_blank">Willy Sagnol Soutient David Lisnard pour 2027</a>
+                    </h3>
+                    <p class="article-summary">L'ancien footballeur Willy Sagnol apporte son soutien public à David Lisnard pour la présidentielle.</p>
+                    <a href="https://rmcsport.bfmtv.com/societe/on-voit-la-situation-en-france-actuellement-willy-sagnol-apporte-son-soutien-a-david-lisnard_AV-202611040384.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🚨 Faits Divers (Gironde)</div>
+              
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/justice/mort-de-la-joggeuse-agathe-hilairet-dans-la-vienne-une-reconstitution-a-ete-organisee-mercredi-le-suspect-maintient-que-des-tiers-sont-intervenus-31390348.php" target="_blank">Joggeuse Morte : Le Suspect Maintient Version</a>
+                    </h3>
+                    <p class="article-summary">Une reconstitution a lieu après la mort d'Agathe Hilairet; le suspect évoque toujours des tiers.</p>
+                    <a href="https://www.sudouest.fr/justice/mort-de-la-joggeuse-agathe-hilairet-dans-la-vienne-une-reconstitution-a-ete-organisee-mercredi-le-suspect-maintient-que-des-tiers-sont-intervenus-31390348.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/faits-divers/cambriolage-a-tonneins-deux-hommes-interpelles-par-les-gendarmes-en-flagrant-delit-dans-une-maison-inoccupee-31385193.php" target="_blank">Tonneins : Cambrioleurs Pris en Flagrant Délit</a>
+                    </h3>
+                    <p class="article-summary">Deux hommes ont été interpellés par les gendarmes lors d'un cambriolage dans une maison inoccupée.</p>
+                    <a href="https://www.sudouest.fr/faits-divers/cambriolage-a-tonneins-deux-hommes-interpelles-par-les-gendarmes-en-flagrant-delit-dans-une-maison-inoccupee-31385193.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/faits-divers/pendant-des-annees-il-a-abuse-d-une-jeune-fille-fragile-et-pourtant-suivie-a-83-ans-il-est-condamne-a-quinze-ans-de-reclusion-par-la-cour-criminelle-de-la-gironde-31363542.php" target="_blank">Gironde : Octogénaire Condamné pour Abus</a>
+                    </h3>
+                    <p class="article-summary">Un homme de 83 ans écope de quinze ans de réclusion pour avoir abusé d'une jeune fille.</p>
+                    <a href="https://www.sudouest.fr/faits-divers/pendant-des-annees-il-a-abuse-d-une-jeune-fille-fragile-et-pourtant-suivie-a-83-ans-il-est-condamne-a-quinze-ans-de-reclusion-par-la-cour-criminelle-de-la-gironde-31363542.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏆 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/kpjHp9Gx_M8Rz-mEAPfgy8ZwNmY=/0x45:2048x1197/800x0/images/Victor-Wembanyama-le-27-octobre-2026-2373355.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/records-de-points-et-de-rebonds-la-soiree-eblouissante-de-victor-wembanyama-avec-les-spurs_AV-202611050155.html" target="_blank">Wembanyama Brille : Records de Points et Rebonds</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama signe une performance éblouissante, battant ses records avec les Spurs.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/records-de-points-et-de-rebonds-la-soiree-eblouissante-de-victor-wembanyama-avec-les-spurs_AV-202611050155.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html" target="_blank">Athlétisme : Ciara Mageean, Championne d'Europe, Décède</a>
+                    </h3>
+                    <p class="article-summary">Triste nouvelle pour l'athlétisme : la championne d'Europe du 1500m Ciara Mageean est décédée d'un cancer.</p>
+                    <a href="https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/Njx-l2UeSCHNAEPX61F0FGdFb_k=/80x372:1824x1353/800x0/images/Ce-mercredi-a-Doha-Clement-Bessaguet-et-Jean-Quiquampoix-ont-obtenu-la-medaille-d-argent-et-la-medaille-de-bronze-mondiales-sur-l-epreuve-du-tir-au-pistolet-rapide-a-25m-apres-l-or-par-equipe-2378036.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/jeux-olympiques/championnats-du-monde-de-tir-magnifique-journee-pour-la-france-avec-l-or-par-equipe-et-deux-medailles-individuelles-pour-bessaguet-et-quicampoix_AV-202611040765.html" target="_blank">Tir : L'Or par Équipe pour la France à Doha</a>
+                    </h3>
+                    <p class="article-summary">Journée exceptionnelle pour le tir français aux Mondiaux avec l'or par équipe et deux médailles individuelles.</p>
+                    <a href="https://rmcsport.bfmtv.com/jeux-olympiques/championnats-du-monde-de-tir-magnifique-journee-pour-la-france-avec-l-or-par-equipe-et-deux-medailles-individuelles-pour-bessaguet-et-quicampoix_AV-202611040765.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
