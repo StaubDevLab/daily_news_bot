@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Sainte Bertille",
+  "global_summary": "L'actualité de ce jour est un mélange captivant d'initiatives diplomatiques inattendues, de tensions sociales persistantes et de performances sportives exceptionnelles. Sur la scène internationale, Melania Trump surprend en se positionnant comme médiatrice, tandis que des accords majeurs battent de l'aile et que les libertés individuelles sont mises à rude épreuve à Hong Kong. \nEn France, la jeunesse continue de se faire entendre dans les rues, et les débats économiques autour du SMIC et des relations sociales au sein des entreprises sont vifs. Le monde de la tech et du business est marqué par des fluctuations financières importantes pour des géants comme Tesla, et par des innovations produit. Enfin, le sport nous offre des exploits mémorables, mais aussi des moments de recueillement face à des disparitions tragiques.",
+  "running_advice": "Préparez-vous à transpirer, c'est une excellente journée pour votre séance de running ! Les températures sont idéales, oscillant entre 3.7°C et 13.8°C : parfait pour une performance dynamique sans coup de chaleur ni frissons excessifs. Avec un ciel sous un léger brouillard matinal et 0% de pluie, les conditions sont optimales pour vous évader.\nJe vous recommande vivement de chausser vos baskets entre 10h00 et 14h00. Le brouillard aura eu le temps de se dissiper, vous offrant une meilleure visibilité et une lumière plus vive. Votre indice UV est faible (2.9), donc pas besoin de crème solaire intense, mais n'oubliez pas une tenue confortable et peut-être une couche supplémentaire au départ. Allez, on se dépasse !",
+  "weather_string": "🌫️ Brouillard (3.7°C / 13.8°C)",
+  "weather_stats": {
+    "temp": "13.8°C",
+    "rain": "0%",
+    "uv": "2.9"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Melania, diplomate surprise Kiev-Moscou",
+          "summary": "La première dame américaine surprend en se positionnant comme médiatrice inattendue dans le conflit ukrainien.",
+          "url": "https://www.la-croix.com/international/melania-trump-diplomate-surprise-quand-la-premiere-dame-se-veut-mediatrice-entre-kiev-et-moscou-20261105",
+          "image": "https://i.la-croix.com/x/2026/11/05/2581746-la-premiere-dame-des-etats-unis-melania-trump-a-re.jpg"
+        },
+        {
+          "title": "Hong Kong: Militant politique condamné à 10 ans",
+          "summary": "Un militant prodémocratie écope de 10 ans de prison supplémentaires, un signe inquiétant pour la liberté d'expression.",
+          "url": "https://www.bfmtv.com/international/video-un-militant-politique-condamne-a-10-ans-de-prison-supplementaires-a-hong-kong_VN-202611050751.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/sRZad1xi33t6F7Vgd2CAlXnH4fc=/0x0:1280x720/800x0/images/Un-militant-politique-condamne-a-10-ans-de-prison-supplementaires-a-Hong-Kong-2378776.jpg"
+        },
+        {
+          "title": "L'accord américano-russe sur le gazole échoue",
+          "summary": "L'accord clé vanté par Donald Trump entre les États-Unis et la Russie sur le gazole connaît des difficultés.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/05/vante-par-donald-trump-l-accord-americano-russe-sur-le-gazole-bat-de-l-aile_6807332_3210.html",
+          "image": "https://img.lemde.fr/2026/10/23/456/0/5472/2736/644/322/60/0/04f2f23_ftp-1-3gguvi4bg3gm-2026-10-23t145021z-390419433-rc2f47arwow1-rtrmadp-3-russia-diesel-exports.JPG"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Lycéens mobilisés: cortège dynamique à Lorient",
+          "summary": "La jeunesse se fait entendre avec un cortège lycéen déterminé, témoignant d'une effervescence sociale à Lorient.",
+          "url": "https://www.letelegramme.fr/morbihan/lorient-56100/attendez-en-tete-de-cortege-les-lyceens-foncent-a-lorient-billet-7153226.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6aecd4bec9f1570772084240/web_golden_xxl/6aecd4bec9f1570772084240.1"
+        },
+        {
+          "title": "Découverte majeure: cannabis en Sibérie, 2800 ans",
+          "summary": "Des chercheurs révèlent la plus ancienne preuve d'utilisation du cannabis psychoactif dans une tombe sibérienne.",
+          "url": "https://fr.qz.com/utilisation-psychoactive-du-cannabis-la-plus-ancienne-preuve-tombe-sibrienne-110526",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        },
+        {
+          "title": "Grève: La jeunesse réveille le pays",
+          "summary": "Une députée salue l'engagement de la jeunesse lors de la grève du 5 novembre, dynamisant le débat social.",
+          "url": "https://www.franceinfo.fr/economie/greve/greve/greve-du-5-novembre-dans-ce-pays-qu-on-pensait-un-peu-atone-la-jeunesse-nous-a-reveilles-estime-lea-balage-el-mariky-deputee-ecologiste-et-social_8269796.html",
+          "image": "https://www.franceinfo.fr/pictures/xSFB6eezFPxqhOYGJM6Z7TkXQBE/0x27:1141x668/432x243/filters:format(jpg)/2026/11/05/6aecd29ad373a284352253.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Le nouvel iMac M6 d'Apple plus cher",
+          "summary": "Apple lance son iMac M6 à 1499$, une augmentation de 200$ par rapport au modèle précédent.",
+          "url": "https://fr.qz.com/pomme-imac-m6-commence-1499-augmentation-de-prix-110526",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2302879855.jpg"
+        },
+        {
+          "title": "Midterms 2026: Tesla, SpaceX chutent lourdement",
+          "summary": "Tesla et SpaceX perdent 130 milliards de dollars en une nuit après les résultats des Midterms 2026.",
+          "url": "https://www.journaldugeek.com/2026/11/05/midterms-2026-pourquoi-tesla-et-spacex-ont-elles-perdu-130-milliards-de-dollars-en-une-nuit/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/10/Tesla-Roadster-volante-1280x853.jpg"
+        },
+        {
+          "title": "Vulnérabilité majeure: piratage via simple site",
+          "summary": "Une faille de sécurité permettait de pirater iPhones et smartphones Android par une simple visite web.",
+          "url": "https://www.journaldugeek.com/2026/11/06/une-simple-visite-sur-un-site-pouvait-suffire-a-pirater-un-iphone-ou-un-smartphone-android/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/01/Smartphone-message-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Bosch Vendôme: Dialogue restauré après tensions",
+          "summary": "Le dialogue entre salariés et direction de Bosch à Vendôme est enfin restauré après plusieurs jours de conflit.",
+          "url": "https://www.lanouvellerepublique.fr/vendome/le-soulagement-apres-des-jours-de-tension-le-dialogue-est-restaure-entre-salaries-et-direction-de-bosch-a-vendome-1793905860",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1793901334/6aecd4c292cf3d3f628b47fb"
+        },
+        {
+          "title": "SMIC +100€: Les entrepreneurs sceptiques",
+          "summary": "Le président des Entrepreneurs juge \"pas de magie possible\" face à la proposition d'augmenter le SMIC de 100 euros.",
+          "url": "https://www.capital.fr/votre-carriere/smic-a-100-euros-de-plus-il-ny-a-pas-de-magie-possible-repond-le-president-des-entrepreneurs-1531639",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~05~c78ce851-3a10-4bb5-afac-d1aa07cafc47.png/1200x900/focus-point/742%2C322/smic-a-100-euros-de-plus-il-n-y-a-pas-de-magie-possible-repond-le-president-des-entrepreneurs.jpg"
+        },
+        {
+          "title": "Sony ressuscite le Walkman avec USB-C",
+          "summary": "Sony réédite le casque emblématique du Walkman, modernisé avec une prise USB-C pour le marché actuel.",
+          "url": "https://www.journaldugeek.com/2026/11/06/sony-ressort-le-casque-du-walkman-et-lui-ajoute-une-prise-usb-c/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/sony1-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "K2000: La voiture de la série traquée",
+          "summary": "La réplique de KITT, la célèbre voiture de K2000, connaît un destin rocambolesque entre vol et enchères.",
+          "url": "https://www.sudouest.fr/culture/serie/volee-traquee-par-interpol-et-mise-aux-encheres-l-incroyable-destin-de-la-voiture-de-k2000-31365533.php",
+          "image": ""
+        },
+        {
+          "title": "Talence: Vol de coffre-fort à la mosquée",
+          "summary": "Un détenu en semi-liberté est interpellé à Talence pour le vol du coffre-fort d'une mosquée locale.",
+          "url": "https://www.sudouest.fr/faits-divers/talence-un-detenu-en-semi-liberte-interpelle-apres-le-vol-du-coffre-fort-de-la-mosquee-31398430.php",
+          "image": ""
+        },
+        {
+          "title": "Bruges: Le braqueur du bar-tabac s'est rendu",
+          "summary": "Le responsable du braquage du bar-tabac La Caravelle à Bruges s'est finalement rendu aux autorités.",
+          "url": "https://www.sudouest.fr/gironde/bruges/gironde-le-braqueur-du-bar-tabac-la-caravelle-a-bruges-s-est-rendu-31404385.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama éblouit la NBA: une performance légendaire",
+          "summary": "Victor Wembanyama impressionne les légendes de la NBA avec une performance \"stratosphérique\" malgré la maladie.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/qu-est-ce-que-je-suis-cense-dire-les-legendes-de-la-nba-a-genoux-devant-la-perf-stratospherique-de-wembanyama_AV-202611050431.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Ey_R5t0J3OcHK6ilPXJrMf04Ves=/191x48:1983x1056/800x0/images/Victor-Wembanyama-lors-de-San-Antonio-Oklahoma-le-20-octobre-2026-2369422.jpg"
+        },
+        {
+          "title": "Athlétisme en deuil: Ciara Mageean décède",
+          "summary": "La championne d'Europe du 1500m Ciara Mageean nous quitte à 34 ans des suites d'un cancer.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        },
+        {
+          "title": "Championnats du monde de tir: L'or pour la France",
+          "summary": "Journée exceptionnelle pour le tir français avec une médaille d'or par équipe et deux podiums individuels.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/championnats-du-monde-de-tir-magnifique-journee-pour-la-france-avec-l-or-par-equipe-et-deux-medailles-individuelles-pour-bessaguet-et-quicampoix_AV-202611040765.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Njx-l2UeSCHNAEPX61F0FGdFb_k=/80x372:1824x1353/800x0/images/Ce-mercredi-a-Doha-Clement-Bessaguet-et-Jean-Quiquampoix-ont-obtenu-la-medaille-d-argent-et-la-medaille-de-bronze-mondiales-sur-l-epreuve-du-tir-au-pistolet-rapide-a-25m-apres-l-or-par-equipe-2378036.jpg"
+        }
+      ]
+    }
+  ]
+}
