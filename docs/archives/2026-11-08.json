@@ -1,0 +1,157 @@
+{
+  "ephemeride": "Saint Geoffroy",
+  "global_summary": "L'actualité mondiale est marquée par des tensions significatives, avec une fusillade meurtrière en Pologne et l'ouverture d'une enquête en France concernant de fausses alertes à la bombe, potentiellement orchestrées par des puissances étrangères. En parallèle, un regain d'intérêt autour de la figure du Général de Gaulle témoigne d'une quête de repères dans le débat public et culturel actuel. \n\nSur le plan national, des manifestations contre la vie chère ont secoué plusieurs villes, tandis que le sport est à l'honneur avec les performances impressionnantes de Victor Wembanyama en NBA et des discussions sociétales importantes sur l'inclusion des athlètes transgenres. L'innovation technologique et le dynamisme économique local, comme la renaissance d'une fruitière après un incendie, apportent une note d'espoir dans ce panorama riche et varié.",
+  "running_advice": "Aujourd'hui, Saint Geoffroy nous offre une journée idéale pour enfiler vos baskets ! Avec des températures douces allant de 8.6°C le matin à 17.6°C l'après-midi, un ciel peu nuageux et seulement 5% de chance de pluie, toutes les conditions sont réunies pour une session revitalisante. L'indice UV est faible (2.3), donc pas besoin de protection solaire intense.\n\nL'heure idéale pour votre course ? Je vous conseille de vous élancer entre 10h00 et 16h00. Vous profiterez d'un ensoleillement optimal et d'une température très agréable pour vous dépasser. Alors, n'attendez plus, chaussez vos baskets et allez chercher cette énergie qui vous attend dehors ! Chaque pas est une victoire, chaque foulée vous rapproche de vos objectifs. On lâche rien !",
+  "weather_string": "🌤️ Peu nuageux (8.6°C / 17.6°C)",
+  "weather_stats": {
+    "temp": "17.6°C",
+    "rain": "5%",
+    "uv": "2.3"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Fausses alertes en France : enquête étrangère",
+          "summary": "Des fausses alertes à la bombe en France mènent à une enquête sur d'éventuels liens avec des puissances étrangères.",
+          "url": "https://www.france24.com/fr/europe/20261107-fausses-alertes-%C3%A0-la-bombe-enqu%C3%AAte-ouverte-en-france-sur-un-lien-avec-des-puissances-%C3%A9trang%C3%A8res",
+          "image": "https://s.france24.com/media/display/670fbe6a-dad3-11f1-b3c6-695cb59fade5/w:1024/p:16x9/2026-11-05T120310Z-981107119-RC2NHOAEQZJ0-RTRMADP-3-EUROPE-FLIGHTS-FRANCE.jpg"
+        },
+        {
+          "title": "Tragédie à Cracovie : 6 morts, 15 blessés",
+          "summary": "Une fusillade meurtrière en plein cœur de Cracovie fait au moins six morts et quinze blessés, choc en Pologne.",
+          "url": "https://www.courrierinternational.com/article/pologne-au-moins-six-morts-et-quinze-blesses-en-plein-c-ur-de-cracovie-apres-une-fusillade_285652",
+          "image": "https://focus.courrierinternational.com/2026/11/07/0/0/5328/3476/644/0/60/0/cc15f52_ftp-1-0aku7irone7l-afp-d6rd7t3.jpg"
+        },
+        {
+          "title": "De Gaulle : un souvenir toujours vivant",
+          "summary": "56 ans après sa mort, le Général de Gaulle connaît un regain d'intérêt auprès du public et de la scène politique.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/11/07/cinema-formations-politiques-citoyens-56-ans-apres-sa-mort-comprenez-vous-le-regain-d-interet-autour-du-souvenir-du-general-de-gaulle",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/FEF4FAF5-F813-49AE-80AA-A873B4806DF4/NW_listB/cinema-formations-politiques-citoyens-56-ans-apres-sa-mort-comprenez-vous-le-regain-d-interet-autour-du-souvenir-du-general-de-gaulle-1794073276.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Blois : Manif contre la vie chère",
+          "summary": "Une centaine de personnes ont manifesté à Blois contre la vie chère en ce samedi 7 novembre.",
+          "url": "https://www.lanouvellerepublique.fr/blois/on-est-la-on-est-bien-la-une-petite-centaine-de-manifestants-contre-la-vie-chere-a-blois-ce-samedi-7-novembre-1794074564",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1794073815/6aef67c2bb6ef9b9468b4625"
+        },
+        {
+          "title": "Syndrome post-sexe : 7 jours KO",
+          "summary": "Un syndrome rare cause jusqu'à sept jours de symptômes invalidants après un orgasme.",
+          "url": "https://actu.fr/societe/un-orgasme-puis-jusqu-a-sept-jours-de-symptomes-ce-syndrome-apres-le-sexe-qui-peut-mettre-ko_65028314.html",
+          "image": "https://static.actu.fr/uploads/2026/11/orgasme-sexe-maladie-1024x557.jpeg"
+        },
+        {
+          "title": "Beaugency : le salon du modélisme",
+          "summary": "Le salon du modélisme à Beaugency ravit petits et grands, le royaume des grands enfants.",
+          "url": "https://www.larep.fr/beaugency-45190/actualites/le-royaume-des-grands-enfants-est-du-cote-du-salon-du-modelisme-a-beaugency_15077470/",
+          "image": "https://www.larep.fr/photoSRC/VVZTJ19dUTgIDAVOBQwd/7856349.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Quel smartphone pliant choisir en 2026 ?",
+          "summary": "Un guide pour vous aider à choisir le meilleur smartphone pliant disponible en novembre 2026.",
+          "url": "https://www.frandroid.com/guide-dachat/1617799_meilleur-smartphone-pliant-quel-telephone-pliable-choisir",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/03/smartphones-pliables-frandroid.jpg?resize=1600,900&key=813399da"
+        },
+        {
+          "title": "TCL 98X11L : un géant testé",
+          "summary": "Le téléviseur TCL 98X11L a été testé, rejoignant notre comparatif des meilleurs écrans.",
+          "url": "https://www.lesnumeriques.com/tv-televiseur/le-test-du-televiseur-tcl-98x11l-a-rejoint-notre-comparatif-n266980.html",
+          "image": "https://cdn.lesnumeriques.com/optim/test/26/264041/006e3a32-tcl-85x11l-un-des-meilleurs-mini-led-du-marche-qui-offre-une-claque-en-hdr__800_800__780-0-4666-3886_wtmk.jpg"
+        },
+        {
+          "title": "Fiat Panda II : fiable ou non ?",
+          "summary": "La Fiat Panda II : analyse de sa fiabilité, est-elle un nid à problèmes ou un bon choix ?",
+          "url": "https://www.autoplus.fr/pratique/entretien-fiabilite/fiat-panda-ii-est-ce-un-nid-a-problemes-ou-une-auto-fiable-1475980.html",
+          "image": "https://sf2.autoplus.fr/wp-content/uploads/autoplus/2015/12/une-fiat-panda-2003-2012.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Rennes : avocats devant le tribunal",
+          "summary": "Trois avocats réputés de Rennes sont envoyés devant le tribunal, réfléchissant à la survie de leur entreprise.",
+          "url": "https://actu.fr/bretagne/rennes_35238/on-a-d-abord-reflechi-a-la-survie-de-notre-entreprise-ces-trois-avocats-reputes-a-rennes-envoyes-devant-le-tribunal_65023799.html",
+          "image": "https://static.actu.fr/uploads/2026/10/x-1024x557.jpg"
+        },
+        {
+          "title": "Mieussy : une fruitière renaît",
+          "summary": "La fruitière des Hauts-Fleury à Mieussy rouvre, plus moderne, trois ans après un incendie.",
+          "url": "https://www.ledauphine.com/economie/2026/11/07/plus-moderne-mieux-agencee-trois-ans-apres-l-incendie-la-fruitiere-des-hauts-fleury-a-mieussy-a-rouvert-ses-portes",
+          "image": "https://cdn-s-www.ledauphine.com/images/51477844-2E3A-403D-A44D-CCCADC5AF573/NW_listB/plus-moderne-mieux-agencee-trois-ans-apres-l-incendie-la-fruitiere-des-hauts-fleury-a-mieussy-a-rouvert-ses-portes-1794073832.jpg"
+        },
+        {
+          "title": "Coca-Cola : Perez cède 6,41 M$ d'actions",
+          "summary": "La vice-présidente de Coca-Cola, Perez, a cédé pour 6,41 millions de dollars d'actions.",
+          "url": "https://fr.investing.com/news/insider-trading-news/la-vicepresidente-de-cocacola-perez-cede-des-actions-pour-641-m-93CH-3683635",
+          "image": "https://content-media.investing.com/news/LYNXMPEB4C0A5_M.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Geek Culture",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Pire film 2026, top 1 Prime Video",
+          "summary": "Un des pires films de 2026 surprend en devenant le numéro un sur Prime Video.",
+          "url": "https://www.journaldugeek.com/critique/on-a-vu-lun-des-pires-films-de-2026-et-il-est-top-1-sur-prime-video/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/The-Mongoose-avis-1-1280x853.jpg"
+        },
+        {
+          "title": "Stranger Things : nouveau spin-off Netflix",
+          "summary": "Le teaser de la nouvelle série spin-off de Stranger Things, attendue sur Netflix, est décrypté.",
+          "url": "https://www.journaldugeek.com/2026/11/07/le-vrai-spin-off-de-stranger-things-arrive-en-2028-et-il-a-un-titre/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/stranger-things-spinoff-1280x853.jpg"
+        },
+        {
+          "title": "Jouets IA Noël 2026 : notre guide",
+          "summary": "Guide complet pour choisir le meilleur jouet intelligent à offrir pour Noël en 2026.",
+          "url": "https://www.journaldugeek.com/test/quel-jouet-ia-offrir-a-noel-en-2026-notre-guide-complet/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Guide-jouets-IA-14-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama régale, Spurs victorieux",
+          "summary": "Victor Wembanyama brille en NBA, offrant une septième victoire consécutive aux Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-regale-encore-et-offre-une-septieme-victoire-de-suite-aux-spurs_AV-202611070167.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg"
+        },
+        {
+          "title": "Adieu Ciara Mageean, championne de 1500m",
+          "summary": "Ciara Mageean, championne d'Europe du 1500m, est décédée des suites d'un cancer à 34 ans.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        },
+        {
+          "title": "Athlètes transgenres bannis à Washington",
+          "summary": "L'État de Washington interdit les athlètes transgenres des compétitions féminines après un référendum.",
+          "url": "https://rmcsport.bfmtv.com/societe/washington-bannit-les-athletes-transgenres-des-competitions-sportives-feminines-apres-un-referendum_AV-202611060936.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/mqLGl3sM_l0PjlkwWT1Vu7Dm-xw=/0x0:2048x1152/800x0/images/Transgenre-2379583.jpg"
+        }
+      ]
+    }
+  ]
+}

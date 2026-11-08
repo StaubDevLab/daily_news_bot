@@ -1,0 +1,433 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 08/11/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">dimanche 8 novembre • Saint Geoffroy</p>
+            <div class="weather-badge">
+              🌤️ Peu nuageux (8.6°C / 17.6°C) &nbsp;|&nbsp; ☀️ UV: 2.3 &nbsp;|&nbsp; 💧 5%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité mondiale est marquée par des tensions significatives, avec une fusillade meurtrière en Pologne et l'ouverture d'une enquête en France concernant de fausses alertes à la bombe, potentiellement orchestrées par des puissances étrangères. En parallèle, un regain d'intérêt autour de la figure du Général de Gaulle témoigne d'une quête de repères dans le débat public et culturel actuel. 
+
+Sur le plan national, des manifestations contre la vie chère ont secoué plusieurs villes, tandis que le sport est à l'honneur avec les performances impressionnantes de Victor Wembanyama en NBA et des discussions sociétales importantes sur l'inclusion des athlètes transgenres. L'innovation technologique et le dynamisme économique local, comme la renaissance d'une fruitière après un incendie, apportent une note d'espoir dans ce panorama riche et varié.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Aujourd'hui, Saint Geoffroy nous offre une journée idéale pour enfiler vos baskets ! Avec des températures douces allant de 8.6°C le matin à 17.6°C l'après-midi, un ciel peu nuageux et seulement 5% de chance de pluie, toutes les conditions sont réunies pour une session revitalisante. L'indice UV est faible (2.3), donc pas besoin de protection solaire intense.
+
+L'heure idéale pour votre course ? Je vous conseille de vous élancer entre 10h00 et 16h00. Vous profiterez d'un ensoleillement optimal et d'une température très agréable pour vous dépasser. Alors, n'attendez plus, chaussez vos baskets et allez chercher cette énergie qui vous attend dehors ! Chaque pas est une victoire, chaque foulée vous rapproche de vos objectifs. On lâche rien !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/670fbe6a-dad3-11f1-b3c6-695cb59fade5/w:1024/p:16x9/2026-11-05T120310Z-981107119-RC2NHOAEQZJ0-RTRMADP-3-EUROPE-FLIGHTS-FRANCE.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/europe/20261107-fausses-alertes-%C3%A0-la-bombe-enqu%C3%AAte-ouverte-en-france-sur-un-lien-avec-des-puissances-%C3%A9trang%C3%A8res" target="_blank">Fausses alertes en France : enquête étrangère</a>
+                    </h3>
+                    <p class="article-summary">Des fausses alertes à la bombe en France mènent à une enquête sur d'éventuels liens avec des puissances étrangères.</p>
+                    <a href="https://www.france24.com/fr/europe/20261107-fausses-alertes-%C3%A0-la-bombe-enqu%C3%AAte-ouverte-en-france-sur-un-lien-avec-des-puissances-%C3%A9trang%C3%A8res" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://focus.courrierinternational.com/2026/11/07/0/0/5328/3476/644/0/60/0/cc15f52_ftp-1-0aku7irone7l-afp-d6rd7t3.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.courrierinternational.com/article/pologne-au-moins-six-morts-et-quinze-blesses-en-plein-c-ur-de-cracovie-apres-une-fusillade_285652" target="_blank">Tragédie à Cracovie : 6 morts, 15 blessés</a>
+                    </h3>
+                    <p class="article-summary">Une fusillade meurtrière en plein cœur de Cracovie fait au moins six morts et quinze blessés, choc en Pologne.</p>
+                    <a href="https://www.courrierinternational.com/article/pologne-au-moins-six-morts-et-quinze-blesses-en-plein-c-ur-de-cracovie-apres-une-fusillade_285652" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.vosgesmatin.fr/images/FEF4FAF5-F813-49AE-80AA-A873B4806DF4/NW_listB/cinema-formations-politiques-citoyens-56-ans-apres-sa-mort-comprenez-vous-le-regain-d-interet-autour-du-souvenir-du-general-de-gaulle-1794073276.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.vosgesmatin.fr/societe/2026/11/07/cinema-formations-politiques-citoyens-56-ans-apres-sa-mort-comprenez-vous-le-regain-d-interet-autour-du-souvenir-du-general-de-gaulle" target="_blank">De Gaulle : un souvenir toujours vivant</a>
+                    </h3>
+                    <p class="article-summary">56 ans après sa mort, le Général de Gaulle connaît un regain d'intérêt auprès du public et de la scène politique.</p>
+                    <a href="https://www.vosgesmatin.fr/societe/2026/11/07/cinema-formations-politiques-citoyens-56-ans-apres-sa-mort-comprenez-vous-le-regain-d-interet-autour-du-souvenir-du-general-de-gaulle" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://images.lanouvellerepublique.fr/image/upload/v1794073815/6aef67c2bb6ef9b9468b4625" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lanouvellerepublique.fr/blois/on-est-la-on-est-bien-la-une-petite-centaine-de-manifestants-contre-la-vie-chere-a-blois-ce-samedi-7-novembre-1794074564" target="_blank">Blois : Manif contre la vie chère</a>
+                    </h3>
+                    <p class="article-summary">Une centaine de personnes ont manifesté à Blois contre la vie chère en ce samedi 7 novembre.</p>
+                    <a href="https://www.lanouvellerepublique.fr/blois/on-est-la-on-est-bien-la-une-petite-centaine-de-manifestants-contre-la-vie-chere-a-blois-ce-samedi-7-novembre-1794074564" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/11/orgasme-sexe-maladie-1024x557.jpeg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/societe/un-orgasme-puis-jusqu-a-sept-jours-de-symptomes-ce-syndrome-apres-le-sexe-qui-peut-mettre-ko_65028314.html" target="_blank">Syndrome post-sexe : 7 jours KO</a>
+                    </h3>
+                    <p class="article-summary">Un syndrome rare cause jusqu'à sept jours de symptômes invalidants après un orgasme.</p>
+                    <a href="https://actu.fr/societe/un-orgasme-puis-jusqu-a-sept-jours-de-symptomes-ce-syndrome-apres-le-sexe-qui-peut-mettre-ko_65028314.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.larep.fr/photoSRC/VVZTJ19dUTgIDAVOBQwd/7856349.jpeg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.larep.fr/beaugency-45190/actualites/le-royaume-des-grands-enfants-est-du-cote-du-salon-du-modelisme-a-beaugency_15077470/" target="_blank">Beaugency : le salon du modélisme</a>
+                    </h3>
+                    <p class="article-summary">Le salon du modélisme à Beaugency ravit petits et grands, le royaume des grands enfants.</p>
+                    <a href="https://www.larep.fr/beaugency-45190/actualites/le-royaume-des-grands-enfants-est-du-cote-du-salon-du-modelisme-a-beaugency_15077470/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2024/03/smartphones-pliables-frandroid.jpg?resize=1600,900&key=813399da" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.frandroid.com/guide-dachat/1617799_meilleur-smartphone-pliant-quel-telephone-pliable-choisir" target="_blank">Quel smartphone pliant choisir en 2026 ?</a>
+                    </h3>
+                    <p class="article-summary">Un guide pour vous aider à choisir le meilleur smartphone pliant disponible en novembre 2026.</p>
+                    <a href="https://www.frandroid.com/guide-dachat/1617799_meilleur-smartphone-pliant-quel-telephone-pliable-choisir" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn.lesnumeriques.com/optim/test/26/264041/006e3a32-tcl-85x11l-un-des-meilleurs-mini-led-du-marche-qui-offre-une-claque-en-hdr__800_800__780-0-4666-3886_wtmk.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lesnumeriques.com/tv-televiseur/le-test-du-televiseur-tcl-98x11l-a-rejoint-notre-comparatif-n266980.html" target="_blank">TCL 98X11L : un géant testé</a>
+                    </h3>
+                    <p class="article-summary">Le téléviseur TCL 98X11L a été testé, rejoignant notre comparatif des meilleurs écrans.</p>
+                    <a href="https://www.lesnumeriques.com/tv-televiseur/le-test-du-televiseur-tcl-98x11l-a-rejoint-notre-comparatif-n266980.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://sf2.autoplus.fr/wp-content/uploads/autoplus/2015/12/une-fiat-panda-2003-2012.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.autoplus.fr/pratique/entretien-fiabilite/fiat-panda-ii-est-ce-un-nid-a-problemes-ou-une-auto-fiable-1475980.html" target="_blank">Fiat Panda II : fiable ou non ?</a>
+                    </h3>
+                    <p class="article-summary">La Fiat Panda II : analyse de sa fiabilité, est-elle un nid à problèmes ou un bon choix ?</p>
+                    <a href="https://www.autoplus.fr/pratique/entretien-fiabilite/fiat-panda-ii-est-ce-un-nid-a-problemes-ou-une-auto-fiable-1475980.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💼 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/10/x-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/bretagne/rennes_35238/on-a-d-abord-reflechi-a-la-survie-de-notre-entreprise-ces-trois-avocats-reputes-a-rennes-envoyes-devant-le-tribunal_65023799.html" target="_blank">Rennes : avocats devant le tribunal</a>
+                    </h3>
+                    <p class="article-summary">Trois avocats réputés de Rennes sont envoyés devant le tribunal, réfléchissant à la survie de leur entreprise.</p>
+                    <a href="https://actu.fr/bretagne/rennes_35238/on-a-d-abord-reflechi-a-la-survie-de-notre-entreprise-ces-trois-avocats-reputes-a-rennes-envoyes-devant-le-tribunal_65023799.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.ledauphine.com/images/51477844-2E3A-403D-A44D-CCCADC5AF573/NW_listB/plus-moderne-mieux-agencee-trois-ans-apres-l-incendie-la-fruitiere-des-hauts-fleury-a-mieussy-a-rouvert-ses-portes-1794073832.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.ledauphine.com/economie/2026/11/07/plus-moderne-mieux-agencee-trois-ans-apres-l-incendie-la-fruitiere-des-hauts-fleury-a-mieussy-a-rouvert-ses-portes" target="_blank">Mieussy : une fruitière renaît</a>
+                    </h3>
+                    <p class="article-summary">La fruitière des Hauts-Fleury à Mieussy rouvre, plus moderne, trois ans après un incendie.</p>
+                    <a href="https://www.ledauphine.com/economie/2026/11/07/plus-moderne-mieux-agencee-trois-ans-apres-l-incendie-la-fruitiere-des-hauts-fleury-a-mieussy-a-rouvert-ses-portes" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://content-media.investing.com/news/LYNXMPEB4C0A5_M.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.investing.com/news/insider-trading-news/la-vicepresidente-de-cocacola-perez-cede-des-actions-pour-641-m-93CH-3683635" target="_blank">Coca-Cola : Perez cède 6,41 M$ d'actions</a>
+                    </h3>
+                    <p class="article-summary">La vice-présidente de Coca-Cola, Perez, a cédé pour 6,41 millions de dollars d'actions.</p>
+                    <a href="https://fr.investing.com/news/insider-trading-news/la-vicepresidente-de-cocacola-perez-cede-des-actions-pour-641-m-93CH-3683635" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🎮 Geek Culture</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/11/The-Mongoose-avis-1-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/critique/on-a-vu-lun-des-pires-films-de-2026-et-il-est-top-1-sur-prime-video/" target="_blank">Pire film 2026, top 1 Prime Video</a>
+                    </h3>
+                    <p class="article-summary">Un des pires films de 2026 surprend en devenant le numéro un sur Prime Video.</p>
+                    <a href="https://www.journaldugeek.com/critique/on-a-vu-lun-des-pires-films-de-2026-et-il-est-top-1-sur-prime-video/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/11/stranger-things-spinoff-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/07/le-vrai-spin-off-de-stranger-things-arrive-en-2028-et-il-a-un-titre/" target="_blank">Stranger Things : nouveau spin-off Netflix</a>
+                    </h3>
+                    <p class="article-summary">Le teaser de la nouvelle série spin-off de Stranger Things, attendue sur Netflix, est décrypté.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/07/le-vrai-spin-off-de-stranger-things-arrive-en-2028-et-il-a-un-titre/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/11/Guide-jouets-IA-14-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/test/quel-jouet-ia-offrir-a-noel-en-2026-notre-guide-complet/" target="_blank">Jouets IA Noël 2026 : notre guide</a>
+                    </h3>
+                    <p class="article-summary">Guide complet pour choisir le meilleur jouet intelligent à offrir pour Noël en 2026.</p>
+                    <a href="https://www.journaldugeek.com/test/quel-jouet-ia-offrir-a-noel-en-2026-notre-guide-complet/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-regale-encore-et-offre-une-septieme-victoire-de-suite-aux-spurs_AV-202611070167.html" target="_blank">Wembanyama régale, Spurs victorieux</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama brille en NBA, offrant une septième victoire consécutive aux Spurs.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-regale-encore-et-offre-une-septieme-victoire-de-suite-aux-spurs_AV-202611070167.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html" target="_blank">Adieu Ciara Mageean, championne de 1500m</a>
+                    </h3>
+                    <p class="article-summary">Ciara Mageean, championne d'Europe du 1500m, est décédée des suites d'un cancer à 34 ans.</p>
+                    <a href="https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/mqLGl3sM_l0PjlkwWT1Vu7Dm-xw=/0x0:2048x1152/800x0/images/Transgenre-2379583.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/societe/washington-bannit-les-athletes-transgenres-des-competitions-sportives-feminines-apres-un-referendum_AV-202611060936.html" target="_blank">Athlètes transgenres bannis à Washington</a>
+                    </h3>
+                    <p class="article-summary">L'État de Washington interdit les athlètes transgenres des compétitions féminines après un référendum.</p>
+                    <a href="https://rmcsport.bfmtv.com/societe/washington-bannit-les-athletes-transgenres-des-competitions-sportives-feminines-apres-un-referendum_AV-202611060936.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
