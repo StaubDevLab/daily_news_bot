@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Théodore",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux géopolitiques complexes et des développements technologiques prometteurs. Moscou intensifie sa concurrence spatiale face à Starlink, tandis qu'Israël pourrait connaître un tournant démocratique et que les États-Unis scrutent la transparence électorale. Sur le plan économique et social en France, une hausse du SMIC est très attendue, tandis qu'une affaire de détournement de fonds au sein d'un CSE rappelle les défis éthiques en entreprise.\n\nEn parallèle, le monde du sport vibre avec les exploits de Wembanyama en NBA et un nouveau titre mondial pour Kévin Chapon en tir, démontrant que l'ambition et la performance restent au cœur de l'actualité. Les innovations technologiques continuent de nous surprendre, avec Google et Amazon dévoilant de nouvelles avancées, redéfinissant notre quotidien connecté. Chaque secteur apporte son lot de défis et de réussites, dessinant un panorama mondial riche et en constante évolution.",
+  "running_advice": "Aujourd'hui, Saint Théodore nous offre une météo en demi-teinte pour la course, mais qui ne doit absolument pas vous arrêter ! Avec des températures allant de 12.1°C à 20.2°C, le mercure est agréable, mais attention à la pluie annoncée avec 78% de probabilité ! Ne laissez pas quelques gouttes freiner votre élan, c'est l'occasion parfaite de tester votre équipement imperméable et de ressentir cette satisfaction unique après une séance sous la pluie.\n\nPour optimiser votre sortie, visez la fin de matinée ou le début d'après-midi, entre 10h00 et 14h00. Ce créneau offrira les températures les plus clémentes et une luminosité suffisante malgré le temps couvert. L'indice UV de 1.8 est faible, pas besoin de crème solaire, mais un coupe-vent léger et une casquette seront vos meilleurs alliés. Enfilez vos baskets, et transformez cette journée pluvieuse en une opportunité de repousser vos limites ! Chaque foulée compte, montrez-leur de quoi vous êtes capable !",
+  "weather_string": "🌧️ Pluie (12.1°C / 20.2°C)",
+  "weather_stats": {
+    "temp": "20.2°C",
+    "rain": "78%",
+    "uv": "1.8"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Moscou vs Starlink : la course spatiale s'intensifie",
+          "summary": "La Russie riposte à Elon Musk et son réseau Starlink, redessinant la compétition dans l'espace stratégique.",
+          "url": "https://www.lepoint.fr/monde/moscou-lance-la-course-contre-elon-musk-et-son-starlink-XUY44OJLUVFRJKEVD2U2JAXGUU/",
+          "image": "https://www.lepoint.fr/resizer/v2/QZ45E73Y55K6VNJQCIJXYRPDNU.jpg?auth=2b4689076b9a3646a1220499bc07317d1a986ebcfa293f44b41874f66b16e757&smart=true&width=1200&height=900"
+        },
+        {
+          "title": "Israël : vers un tournant démocratique majeur ?",
+          "summary": "Le pays pourrait connaître une évolution politique cruciale, marquant un possible changement historique de régime.",
+          "url": "https://www.la-croix.com/international/israel-un-possible-tournant-democratique-20261108",
+          "image": "https://i.la-croix.com/x/2026/11/02/2578756-jean-christophe-ploquin-redacteur-en-chef-a-la-cro.jpg"
+        },
+        {
+          "title": "Géorgie : enquête sur une carte mémoire post-élections",
+          "summary": "Une carte mémoire manquante sème le doute sur l'avance d'un candidat, ouvrant une enquête cruciale aux États-Unis.",
+          "url": "https://fr.qz.com/gu00e9orgie-enquu00eate-sur-carte-mu00e9moire-election-lu00e9gislative-u00e9tat-110826",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Conférence sociale : une hausse du SMIC attendue",
+          "summary": "Après 14 ans, une revalorisation du SMIC est sur la table, au cœur des discussions sociales actuelles en France.",
+          "url": "https://www.vosgesmatin.fr/politique/2026/11/08/edito-conference-sociale-une-hausse-du-smic-attendue-depuis-14-ans",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/EA8CB5F4-E307-4334-8E90-A0B0100C7DF1/NW_listB/edito-conference-sociale-une-hausse-du-smic-attendue-depuis-14-ans-1794159259.jpg"
+        },
+        {
+          "title": "Députée Farida Amrani blessée par un tir de mortier",
+          "summary": "Une attaque violente touche la députée insoumise en Gironde, soulevant des questions sur la sécurité politique.",
+          "url": "https://www.sudouest.fr/politique/une-attaque-d-une-extreme-gravite-la-deputee-la-france-insoumise-farida-amrani-legerement-blessee-par-un-tir-de-mortier-d-artifice-31453451.php",
+          "image": "https://images.sudouest.fr/2026/11/08/679165b466ed857777732a3d/default/1200/la-deputee-de-la-france-insoumise-farida-amrani.jpg?v=1794162095"
+        },
+        {
+          "title": "Bordeaux : des experts traquent le protoxyde d'azote",
+          "summary": "Des innovations bordelaises pour détecter le gaz hilarant chez les conducteurs, un enjeu de sécurité routière.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/video-des-heures-de-travail-ces-experts-bordelais-innovent-pour-chercher-le-protoxyde-d-azote-dans-le-sang-des-conducteurs-30929030.php",
+          "image": "https://images.sudouest.fr/2026/11/08/6791646666ed857777732a39/default/1200/l-analyse-de-sang-pour-detecter-la-presence-de.jpg?v=1794161962"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Apple : un cap franchi et de nouveaux cadeaux !",
+          "summary": "La marque à la pomme célèbre un nouveau succès financier avec des surprises annoncées pour ses fans fidèles.",
+          "url": "https://www.macg.co/macgeneration/2026/11/laventure-apple-50-000-eu-franchis-et-un-nouveau-cadeau-pour-vous-312261",
+          "image": "https://cdn.mgig.fr/2026/11/mga-22bf0547-w1500.jpg"
+        },
+        {
+          "title": "Google : la date des lunettes connectées enfin là",
+          "summary": "L'attente est terminée : Google officialise la date de lancement de ses lunettes à réalité augmentée, l'avenir approche.",
+          "url": "https://www.journaldugeek.com/2026/11/09/enfin-une-date-pour-les-lunettes-de-connectees-de-google/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/google-android-xr-1280x853.jpg"
+        },
+        {
+          "title": "Amazon Echo Studio : Alexa vous voit désormais",
+          "summary": "Avec une caméra intégrée, l'enceinte connectée d'Amazon franchit un pas audacieux vers votre intérieur connecté.",
+          "url": "https://www.journaldugeek.com/2026/11/09/amazon-ajoute-une-camera-dans-lecho-studio-alexa-veut-voir-ce-qui-se-passe/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/echo-dot-camera-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💼",
+      "articles": [
+        {
+          "title": "Noël des salariés gâché : ex-trésorière CSE condamnée",
+          "summary": "Un couple est condamné pour avoir détourné les fonds destinés aux cadeaux de Noël des employés, une trahison.",
+          "url": "http://www.lest-eclair.fr/id838958/article/2026-11-08/le-noel-des-salaries-envoie-lex-tresoriere-du-cse-et-son-mari-condamnes",
+          "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/11/08/node_838958/15549808/public/2026/11/08/85813014.jpeg?itok=2WvpjwVg1794165072"
+        },
+        {
+          "title": "Lamastre : d'importants aménagements en cours sur le Doux",
+          "summary": "Des travaux d'envergure transforment la rivière du Doux, impactant l'économie et l'environnement local.",
+          "url": "https://www.ledauphine.com/economie/2026/11/08/des-amenagements-importants-sont-en-cours-sur-le-doux",
+          "image": "https://cdn-s-www.ledauphine.com/images/DFDBE33F-F2AE-4EFC-BCE9-36203315526F/NW_listB/des-amenagements-importants-sont-en-cours-sur-le-doux-1794169388.jpg"
+        },
+        {
+          "title": "Orange : l'Apéroentrepreneurs fédère toujours plus",
+          "summary": "Les entrepreneurs locaux se retrouvent et s'agrandissent à Orange, stimulant le réseau économique régional.",
+          "url": "https://www.ledauphine.com/economie/2026/11/08/aperoentrepreneurs-entre-fideles-et-nouveaux-venus",
+          "image": "https://cdn-s-www.ledauphine.com/images/5D760655-1F9C-4917-B5AA-3310D3121F7A/NW_listB/aperoentrepreneurs-entre-fideles-et-nouveaux-venus-1794164894.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "LeBron James : un stalker arrêté chez lui",
+          "summary": "Un individu prétendant être le fils de LeBron James a été interpellé à son domicile privé, scandale en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-arrete-sur-la-propriete-de-le-bron-james-un-stalker-se-fait-passer-pour-le-fils-de-la-star-des-sixers_AV-202611080240.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/h5cUuAxaXbZl7QNAKoP9MIEI6iI=/0x68:2048x1220/800x0/images/LeBron-James-avec-le-maillot-des-Sixers-en-octobre-2026-2380250.jpg"
+        },
+        {
+          "title": "Wembanyama continue d'impressionner avec les Spurs",
+          "summary": "Victor Wembanyama enchaîne les performances de haut vol, portant les Spurs vers la victoire en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-ne-s-arretent-plus-de-gagner-wembanyama-brille-encore_AV-202611080109.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/8hlgeFo64-PFIwvv1yH5XFP7o80=/14x0:2046x1143/800x0/images/Victor-Wembanyama-lors-d-un-match-de-pre-saison-avec-les-Spurs-le-14-octobre-2026-2365633.jpg"
+        },
+        {
+          "title": "Tir : Kévin Chapon champion du monde, objectif JO !",
+          "summary": "Après son titre mondial, Kévin Chapon affiche de grandes ambitions pour les prochains Jeux Olympiques, inspirant!",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/aller-chercher-un-autre-podium-l-an-prochain-aux-mondiaux-kevin-chapon-toujours-plein-d-ambition-apres-son-titre-aux-mondiaux-de-tir_AN-202611080410.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/dWyJesyCQWeiZmxhrioM4WsH01Q=/0x112:2048x1264/800x0/images/Kevin-Chapon-medaille-d-or-aux-Mondiaux-de-tir-8-novembre-2026-2380404.jpg"
+        }
+      ]
+    }
+  ]
+}
