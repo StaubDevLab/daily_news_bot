@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Léon",
+  "global_summary": "L'actualité de ce jour révèle un mélange de défis sociétaux et d'avancées technologiques, sans oublier l'ébullition du monde sportif. Les procès liés à la criminalité et aux injustices sociales dominent la scène française, tandis qu'à l'international, une tragédie industrielle marque la Turquie et les enjeux politiques autour des candidatures insolites continuent de faire débat. \nParallèlement, la technologie continue de façonner notre futur, de l'indispensable IA dans les métiers à la persistance des dangers nucléaires de Tchernobyl, sans oublier les nouvelles infrastructures numériques. Côté sport, Victor Wembanyama s'illustre en NBA, le Paris Basketball rêve d'Euroligue et l'athlétisme pleure une championne, prouvant que la vie des athlètes, sur et hors des terrains, est riche en émotions et en rebondissements.",
+  "running_advice": "Salut champion(ne) ! Aujourd'hui, les étoiles s'alignent pour une séance de course au top ! Avec des températures douces entre 13°C et 22°C et un ciel peu nuageux, c'est l'idéal pour enfiler tes baskets. La probabilité de pluie est de 40%, donc un petit coupe-vent léger pourrait être ton meilleur allié, juste au cas où une averse surprise viendrait rafraîchir ton effort ! L'indice UV est bas (2.6), pas besoin de te tartiner de crème solaire, mais n'oublie pas de bien t'hydrater. L'heure parfaite pour ta sortie ? Je te conseille de viser le milieu de journée, entre 10h00 et 14h00. Tu profiteras des températures les plus clémentes et d'une luminosité agréable avant que le soleil ne commence sa descente. Pas d'excuses, va chercher cette énergie et fais vibrer ton corps ! Chaque pas te rapproche de tes objectifs. C'est parti !",
+  "weather_string": "🌤️ Peu nuageux (13.2°C / 22.6°C)",
+  "weather_stats": {
+    "temp": "22.6°C",
+    "rain": "40%",
+    "uv": "2.6"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Explosion mortelle en Turquie",
+          "summary": "Une violente déflagration dans une usine sidérurgique en Turquie fait au moins 17 victimes.",
+          "url": "https://www.sudouest.fr/international/moyen-orient/turquie/turquie-au-moins-17-morts-apres-une-violente-explosion-dans-une-usine-siderurgique-31463794.php",
+          "image": null
+        },
+        {
+          "title": "Candidatures insolites en campagne",
+          "summary": "Des personnalités comme Riner et Polony bousculent la scène politique, interrogeant la campagne.",
+          "url": "https://www.courrierinternational.com/article/vu-de-suisse-teddy-riner-natacha-polony-ce-que-les-candidatures-insolites-disent-de-la-campagne_286001",
+          "image": "https://focus.courrierinternational.com/2026/11/09/0/0/5504/3669/644/0/60/0/b756b7f_ftp-1-dp43hmiuembm-afp-d6w64g4.jpg"
+        },
+        {
+          "title": "Nordiques limitent les data centers",
+          "summary": "Soucieux de l'impact écologique, les pays nordiques ralentissent l'expansion des centres de données.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/09/les-pays-nordiques-freinent-le-deploiement-des-data-centers_6808695_3210.html",
+          "image": "https://img.lemde.fr/2026/11/07/835/0/5616/2808/644/322/60/0/914c598_ftp-1-hh1azrtckgyp-2026-11-07t134632z-730893323-rc21joaanpyo-rtrmadp-3-ai-europe-datacenters.JPG"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Narchomicide à Marseille : le \"boucher\" se défend",
+          "summary": "Le principal accusé du triple narchomicide de Marseille clame son rôle d'exécutant au procès.",
+          "url": "https://www.bfmtv.com/marseille/proces-du-triple-narchomicide-pres-de-marseille-le-boucher-assure-n-etre-qu-un-executant_AD-202611090845.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/azjNRTuf_-57f0vZZlsfA3JEGwU=/0x0:1920x1080/800x0/images/La-cour-d-assise-des-Bouches-du-Rhone-a-Aix-en-Provence-2257868.jpg"
+        },
+        {
+          "title": "Affaire Zecler : le racisme au procès",
+          "summary": "Les débats s'ouvrent sur la question du racisme face aux policiers accusés dans l'affaire Michel Zecler.",
+          "url": "https://www.sudouest.fr/justice/proces-de-l-affaire-michel-zecler-la-question-du-racisme-au-coeur-des-premiers-debats-face-aux-policiers-accuses-31463064.php",
+          "image": null
+        },
+        {
+          "title": "Orléans : Relations tarifées avec une ado",
+          "summary": "Deux individus ont été condamnés à Orléans pour des relations tarifées avec une adolescente mineure.",
+          "url": "https://www.larep.fr/orleans-45000/faits-divers/deux-hommes-condamnes-pour-avoir-eu-des-relations-sexuelles-tarifees-avec-une-ado-de-15-ans-a-orleans_15078611/",
+          "image": "https://www.larep.fr/photoSRC/VVZTJ19dUTgIDAVOBQwd/7857806.jpeg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovations",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "Tchernobyl : la menace radioactive persiste",
+          "summary": "Quarante ans après, des particules radioactives demeurent dans la zone d'exclusion de Tchernobyl.",
+          "url": "https://www.journaldugeek.com/2026/11/09/cauchemar-nucleaire-tchernobyl-loin-derriere-nous-40-ans-après-catastrophe-particules-radioactives-resistent-toujours-zone-dexclusion/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Risque-nucleaire-1280x853.jpg"
+        },
+        {
+          "title": "L'IA, compétence clé pour l'emploi",
+          "summary": "La maîtrise de l'intelligence artificielle devient cruciale pour être recruté dans de nombreux secteurs.",
+          "url": "https://www.20minutes.fr/vie-pro/4261034-20261109-metiers-savoir-utiliser-ia-commence-devenir-indispensable-etre-recrute",
+          "image": "https://img.20mn.fr/Qda1KUiLQkOirNIK2CMiHik/1200x768_developpeur"
+        },
+        {
+          "title": "Uber facilite le stationnement",
+          "summary": "Uber étend ses services en proposant désormais une fonction pour trouver plus facilement des places de parking.",
+          "url": "https://www.journaldugeek.com/2026/11/10/uber-veut-aussi-vous-trouver-une-place-de-parking/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/parking-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business & Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Écoquartier en projet à Divonne",
+          "summary": "Le développement d'un écoquartier autour de la gare de Divonne-les-Bains prend forme dans l'Ain.",
+          "url": "https://www.lyoncapitale.fr/actualite/ain-le-projet-decoquartier-de-la-gare-de-divonne-les-bains-se-precise",
+          "image": "https://www.lyoncapitale.fr/wp-content/uploads/2026/11/viguier_quartier-de-la-gare-divonne-les-bains__resto_bocuse_vue02-1200x900-1-e1794242430553.jpg"
+        },
+        {
+          "title": "Lise Boëll DG Déléguée de Grasset",
+          "summary": "Lise Boëll, ex-PDG de Fayard, prend les rênes de Grasset en tant que directrice générale déléguée.",
+          "url": "https://fr.qz.com/lise-boell-nommee-directrice-generale-deleguee-grasset-110926",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        },
+        {
+          "title": "Succès du jumelage BFC-Wisconsin",
+          "summary": "Le jumelage Bourgogne-Franche-Comté/Wisconsin illustre des réussites économiques, notamment avec Gilson Plastics et Bel.",
+          "url": "https://actu.fr/societe/jumelage-bfc-wisonsin-gilson-plastics-et-bel-lexemple-jurassien-de-la-reussite-dun-pont-transatlantique_65036889.html",
+          "image": "https://static.actu.fr/uploads/2026/11/8ea3daaca9ea6e2b3daaca9eae6b3dv-1024x557.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏆",
+      "articles": [
+        {
+          "title": "Wembanyama porte les Spurs",
+          "summary": "Les Spurs enchaînent une neuvième victoire consécutive, portés par un Victor Wembanyama incandescent.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-neuf-a-la-suite-pour-les-spurs-wembanyama-toujours-bouillant_AV-202611100116.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/kpjHp9Gx_M8Rz-mEAPfgy8ZwNmY=/0x45:2048x1197/800x0/images/Victor-Wembanyama-le-27-octobre-2026-2373355.jpg"
+        },
+        {
+          "title": "Paris Basketball vers l'Euroligue",
+          "summary": "Le Paris Basketball pourrait bientôt intégrer l'Euroligue de manière permanente, une grande avancée.",
+          "url": "https://rmcsport.bfmtv.com/basket/euroligue/grande-nouvelle-pour-le-paris-basketball-en-passe-de-devenir-une-franchise-permanente-de-l-euroligue_AV-202611090938.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Oy45klTHloWPaNyNxI-qejxOZfM=/8x0:1800x1008/800x0/images/Nadir-Hifi-lors-du-match-Paris-Kaunas-82-78-Euroleague-le-1er-octobre-2026-2359305.jpg"
+        },
+        {
+          "title": "Adieu à Ciara Mageean",
+          "summary": "La championne d'Europe du 1500m, Ciara Mageean, nous a quittés des suites d'un cancer à 34 ans.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        }
+      ]
+    }
+  ]
+}
