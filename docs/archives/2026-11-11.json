@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Armistice de 1918",
+  "global_summary": "Le monde est traversé par des turbulences politiques, avec un ministre américain visé par une procédure de destitution et une crise migratoire majeure aux Canaries. Des cyberattaques présumées contre des supermarchés attisent les tensions internationales, tandis que des débats économiques cruciaux sur le travail et l'avenir des data centers animent l'actualité. En France, des faits divers graves secouent l'opinion, comme des agressions sexuelles présumées à Strasbourg et des incidents à la Foire aux plaisirs de Bordeaux. \nSur un plan plus léger, le programme du marché de Noël de Strasbourg se dévoile et le monde du sport vibre. Victor Wembanyama continue d'écrire l'histoire en NBA avec des performances inédites, et la possible candidature de Teddy Riner à la présidentielle 2027 fait couler beaucoup d'encre. La tristesse frappe l'athlétisme avec le décès de la championne Ciara Mageean, tandis que le monde du gaming célèbre le succès record de GTA 6.",
+  "running_advice": "Aujourd'hui, chers athlètes, la météo nous met au défi ! Avec une probabilité de pluie de 80% et des températures douces entre 12.8°C et 19.4°C, l'air sera frais mais potentiellement humide. Je vous conseille de viser votre sortie de course *après 10h et avant 16h*, en anticipant la pluie. Équipez-vous d'une veste imperméable légère et de chaussures adaptées pour éviter les glissades. L'indice UV est bas (2.15), donc pas besoin de protection solaire excessive, mais une casquette peut protéger de la pluie. Rappelez-vous, chaque goutte de pluie est une occasion de prouver votre détermination et de renforcer votre mental ! Allez-y, donnez le meilleur de vous-même !",
+  "weather_string": "🌧️ Pluie (12.8°C / 19.4°C)",
+  "weather_stats": {
+    "temp": "19.4°C",
+    "rain": "80%",
+    "uv": "2.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Data Centers: Une Surveillance Accrue",
+          "summary": "Un édito pointe les préoccupations croissantes autour des data centers, entre consommation énergétique et impact environnemental.",
+          "url": "https://www.vosgesmatin.fr/economie/2026/11/10/l-edito-les-data-centers-dans-le-viseur-wjlp",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/33CFD428-4130-4444-9F70-68BD8B51DB86/NW_listB/l-edito-les-data-centers-dans-le-viseur-1794333808.jpg"
+        },
+        {
+          "title": "Pete Hegseth Menacé de Destitution",
+          "summary": "Le secrétaire à la Défense américain, Pete Hegseth, pourrait être la première victime des midterms.",
+          "url": "https://www.huffingtonpost.fr/international/video/pete-hegseth-vise-par-une-procedure-de-destitution-le- secretaire-a-la-defense-premiere-victime-des-midterms_355346.html",
+          "image": "https://focus.huffingtonpost.fr/2026/11/10/559/0/4000/2250/0/0/60/0/4e85948_upload-1-carcxbjovgpi-2026-11-10t140419z-587121770-rc21loa226g7-rtrmadp-3-usa-hegseth.JPG"
+        },
+        {
+          "title": "Crise Migratoire aux Canaries",
+          "summary": "Des milliers de migrants africains affluent aux Canaries, déclenchant un état d'urgence sur une île espagnole.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/10/plusieurs-milliers-de-migrants-africains-arrivent-aux-canaries-l-etat-d-urgence-decrete-sur-l-une-des-iles-espagnoles_6808888_3212.html",
+          "image": "https://img.lemde.fr/2026/11/10/359/0/5478/2739/644/322/60/0/0b244f4_ftp-1-x5q0xjmhzvu1-2026-11-10t060755z-2103802668-rc2okoaocxfr-rtrmadp-3-migration-spain-canary-islands.JPG"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Strasbourg: Agressions Sexuelles à l'École",
+          "summary": "Onze victimes identifiées à l'école Schoepflin, la directrice remplacée suite aux suspicions d'agressions.",
+          "url": "https://www.dna.fr/education/2026/11/10/suspicions-d-agressions-sexuelles-a-l-ecole-schoepflin-le-rectorat-remplace-la-directrice",
+          "image": "https://cdn-s-www.dna.fr/images/ED651674-4E85-46EA-9BD8-A17B132E37E7/NW_listB/suspicions-d-agressions-sexuelles-a-l-ecole-schoepflin-onze-victimes-identifiees-la-directrice-remplacee-1794333486.jpg"
+        },
+        {
+          "title": "Marché de Noël de Strasbourg 2026 Dévoilé",
+          "summary": "Le programme du célèbre marché, avec patinoire et sécurité renforcée, est présenté avec un budget de 4,2M€.",
+          "url": "https://www.bfmtv.com/alsace/bas-rhin/strasbourg/patinoire-securite-4-2-millions-d-euros-de-budget-le-programme-du-marche-de-noel-de-strasbourg-2026-se-devoile_AD-202611100785.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/7aFYs3zfn1jVLyvfoIe8AAJaLbw=/0x106:2048x1258/800x0/images/Des-decorations-festives-des-installations-sur-le-theme-de-l-hiver-et-des-etals-illumines-du-marche-de-Noel-de-Strasbourg-dans-l-est-de-la-France-le-26-novembre-2025-2220146.jpg"
+        },
+        {
+          "title": "La Famille Aka: Le Football dans le Sang",
+          "summary": "Ylan Aka du DFCO et ses frères Yaniss et Raymond partagent une passion familiale pour le ballon rond.",
+          "url": "https://www.bienpublic.com/sport/2026/11/10/le-foot-dans-le-sang-chez-les-aka",
+          "image": "https://cdn-s-www.bienpublic.com/images/D79325EB-7E09-4213-A709-EF8ECE50CA25/MF_contenu/ylan-aka-joueur-du-dfco-yaniss-et-raymond-a-fontaine-une-famille-de-footeux-1794326785.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Cyberattaques: L'Iran Rejette les Accusations",
+          "summary": "Téhéran dément toute implication dans les cyberattaques contre des supermarchés français.",
+          "url": "https://www.europe1.fr/international/cyberattaques-contre-des-supermarches-liran-rejette-les-accusations-de-la-france-1223288",
+          "image": "https://static.europe1.fr/var/europe1/storage/media/image/2026/11/10/19/068_aa_14102026_2992943_1_6af35c5778279.jpg"
+        },
+        {
+          "title": "Grand Débat à Arcachon: Société & IA",
+          "summary": "Un forum à Arcachon explore les évolutions sociétales, de l'intelligence artificielle aux élections américaines.",
+          "url": "https://www.sudouest.fr/gironde/arcachon/television-intelligence-artistique-election-americaine-a-arcachon-le-grand-debat-ausculte-les-evolutions-de-la-societe-31383283.php",
+          "image": "https://media.sudouest.fr/31383283/1200x-1/img-1533.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Gagner Plus, Travailler Moins: Une Illusion?",
+          "summary": "Le gouverneur de la Banque de France estime que ces avantages combinés n'existent pas réellement.",
+          "url": "https://www.capital.fr/votre-retraite/gagner-plus-travailler-moins-partir-a-60-ans-ca-nexiste-nulle-part-dit-le-gouverneur-de-la-banque-de-france-1531760",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~10~f3901687-b0a9-464b-81e9-77c9246a039d.png/1200x900/focus-point/1013%2C373/gagner-plus-travailler-moins-partir-a-60-ans-ca-n-existe-nulle-part-dit-le-gouverneur-de-la-banque-de-france.jpg"
+        },
+        {
+          "title": "Molines-en-Queyras: Chapelle Restaurée",
+          "summary": "La chapelle Saint-Simon de Molines-en-Queyras retrouve sa splendeur extérieure après restauration.",
+          "url": "https://www.ledauphine.com/economie/2026/11/10/l-exterieur-de-la-chapelle-saint-simon-a-ete-restaure",
+          "image": "https://cdn-s-www.ledauphine.com/images/509BECAA-A952-496C-8B14-5630A3E185BE/NW_listB/l-exterieur-de-la-chapelle-saint-simon-a-ete-restaure-1794333908.jpg"
+        },
+        {
+          "title": "Mon Projet Rénovation : Les Tips",
+          "summary": "Philippine partage ses astuces pour mener à bien un projet de rénovation immobilière.",
+          "url": "https://www.bfmtv.com/var/replay-emissions/bfm-var-dans-les-territoires/video-les-tips-de-philippine-mon-projet-renovation_VN-202611100788.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/pmPrGNLl1L_prf_D7UbnPYIUVZI=/0x0:1280x720/800x0/images/Les-Tips-de-Philippine-Mon-projet-renovation-2381691.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Agression à la Foire aux Plaisirs",
+          "summary": "Deux jeunes portent plainte après avoir été agressés à la Foire aux plaisirs de Bordeaux.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/j-ai-couru-pour-ma-vie-deux-jeunes-portent-plainte-apres-avoir-ete-agresses-a-la-foire-aux-plaisirs-de-bordeaux-31384021.php",
+          "image": null
+        },
+        {
+          "title": "Pizzeria Embauchait sans Papiers",
+          "summary": "La gérante d'une pizzeria à Bayonne a été condamnée pour emploi d'étrangers sans papiers.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/bayonne/bayonne-la-pizzeria-employait-des-etrangers-sans-papiers-sa-gerante-condamnee-au-tribunal-31472400.php",
+          "image": null
+        },
+        {
+          "title": "Enquête sur l'Agression d'Aminata Pouye",
+          "summary": "L'enquête se poursuit en Gironde concernant l'agression de la jeune Aminata Pouye.",
+          "url": "https://www.sudouest.fr/gironde/talence/gironde-l-enquete-sur-l-agression-d-aminata-pouye-se-poursuit-31475364.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Sony Annule Fairgames Après 3 Ans",
+          "summary": "Le développement du jeu Fairgames de Sony est annulé après plus de trois ans d'efforts.",
+          "url": "https://www.journaldugeek.com/2026/11/11/apres-plus-de-trois-ans-de-developpement-sony-annule-fairgames/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/fairgames-1280x853.jpg"
+        },
+        {
+          "title": "Critique: Les Anneaux de Pouvoir Saison 3",
+          "summary": "Une nouvelle saison pour la série \"Les Anneaux de Pouvoir\" : verdict pour la sauver toute seule.",
+          "url": "https://www.journaldugeek.com/critique/critique-les-anneaux-de-pouvoir-une-saison-3-pour-les-sauver-toutes/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/critique-les-anneaux-de-pouvoir-saison-3-2-1280x853.jpg"
+        },
+        {
+          "title": "GTA 6, Jeu le Plus Précommandé de l'Histoire",
+          "summary": "Le très attendu GTA 6 pulvérise déjà les records avec un nombre de précommandes historique.",
+          "url": "https://www.journaldugeek.com/2026/11/10/gta-6-devient-le-jeu-le-plus-precommande-de-lhistoire/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/gta-6-lancement-jason-05-1280x720.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama Stupéfie la NBA",
+          "summary": "Victor Wembanyama choque la NBA avec une action irréelle, portant San Antonio vers la victoire.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/on-n-avait-encore-jamais-vu-ca-wembanyama-choque-la-nba-avec-une-action-irreelle-lors-du-succes-de-san-antonio-a-phoenix_AV-202611100415.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/TcsMhU0_s9zD8-2Ua06V1GDuUTk=/0x9:864x495/800x0/images/NBA-Victor-Wembanyama-face-aux-Phoenix-Suns-le-9-novembre-2026-2381386.jpg"
+        },
+        {
+          "title": "Adieu Ciara Mageean, Championne d'Europe",
+          "summary": "La championne d'Europe du 1500m, Ciara Mageean, est décédée d'un cancer à l'âge de 34 ans.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        },
+        {
+          "title": "Teddy Riner Candidat: Soutiens Politiques",
+          "summary": "Marina Ferrari salue la candidature de Teddy Riner à la présidentielle, la jugeant légitime.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/video-il-n-est-pas-plus-illegitime-qu-un-autre-marina-ferrari-salue-la-candidature-de-teddy-riner-a-la-presidence-de-la-republique_VN-202611100512.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/3SZzAC0ZzmbDy7WqShrvkksmLQ4=/0x0:1280x720/800x0/images/il-n-est-pas-plus-illegitime-qu-un-autre-Marina-Ferrari-salue-la-candidature-de-Teddy-Riner-a-la-presidence-de-la-Republique-2381462.jpg"
+        }
+      ]
+    }
+  ]
+}
