@@ -1,0 +1,175 @@
+{
+  "ephemeride": "Saint Brice",
+  "global_summary": "Ce jour nous offre un panorama d'actualités contrastées, où la gravité des événements mondiaux se mêle à des enjeux de société cruciaux et à quelques touches d'insolite. Les tensions persistent à Gaza avec de nouvelles frappes meurtrières, tandis qu'à New York, l'effondrement d'un immeuble suscite une quête de responsabilité. En France, les débats autour de l'environnement, des conditions de travail dans le secteur tech, et les répercussions de l'IA sur la fonction publique animent le quotidien.\n\nAu milieu de ces défis, des récits de générosité inattendue, comme ce raton laveur qui, malgré un début tumultueux, génère des fonds pour un refuge, rappellent l'importance de l'espoir. Le monde du sport, entre performances remarquables d'athlètes français et un tragique hommage, continue d'inspirer et d'émouvoir, offrant un contrepoint dynamique à un paysage d'actualités dense.",
+  "running_advice": "Aujourd'hui, l'appel de la course est un défi sous la pluie ! Avec des températures comprises entre 4.5°C et 11.1°C et une probabilité de pluie de 78%, ce n'est pas le jour le plus clément. Mais un vrai runner ne recule jamais devant un peu d'eau ! Équipez-vous d'une bonne tenue imperméable et de chaussures adaptées. L'indice UV étant faible (2.5), pas besoin de crème solaire. Pour minimiser l'impact de la pluie, je vous conseille de viser un créneau entre 12h00 et 14h00, là où la température sera la plus clémente. C'est le moment de prouver que rien ne peut éteindre votre motivation ! Allez, enfilez vos baskets et transformez chaque goutte en carburant pour votre détermination !",
+  "weather_string": "🌧️ Pluie (4.5°C / 11.1°C)",
+  "weather_stats": {
+    "temp": "11.1°C",
+    "rain": "78%",
+    "uv": "2.5"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "L'étonnant bienfaiteur ivre",
+          "summary": "Un raton laveur sauvé, ivre après 14 bouteilles, a généré 290 000$ pour un refuge, prouvant l'impossible.",
+          "url": "https://www.lalsace.fr/insolite/2026/11/12/retrouve-ivre-apres-14-bouteilles-d-alcool-ce-raton-laveur-a-rapporte-plus-de-290-000-dollars",
+          "image": "https://cdn-s-www.lalsace.fr/images/C9E416D7-184E-496D-B462-317C82FFDE66/NW_listB/totalement-ivre-apres-14-bouteilles-d-alcool-ce-raton-laveur-rapporte-290-000-dollars-a-un-refuge-1794511024.jpg"
+        },
+        {
+          "title": "Gaza : Jour le plus sombre",
+          "summary": "Au moins 11 morts dans des frappes israéliennes, marquant le jour le plus meurtrier post-élections en Israël.",
+          "url": "https://www.franceinfo.fr/monde/proche-orient/israel-palestine/dans-la-bande-de-gaza-au-moins-11-personnes-sont-mortes-dans-des-frappes-israeliennes-jour-le-plus-meurtrier-depuis-les-elections-en-israel_8279927.html",
+          "image": "https://www.franceinfo.fr/pictures/V6QRW119tb9G9iLKpcX9i6t7sU4/0x0:1024x576/432x243/filters:format(jpg)/2026/11/12/6af60802315fe543798304.jpg"
+        },
+        {
+          "title": "Tragédie à New York",
+          "summary": "Après l'effondrement d'un immeuble à New York, le maire promet des comptes aux responsables.",
+          "url": "https://www.bfmtv.com/international/amerique-nord/etats-unis/video-effondrement-d-un-immeuble-a-new-york-s-il-y-a-une-personne-ou-une-entite-responsable-nous-lui-demanderons-de-rendre-pleinement-des-comptes-declare-le-maire-de-new-york_VN-202611120854.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/NLBeBmI5n5zrrU2qFo0cptyu_K4=/0x0:1280x720/800x0/images/Effondrement-d-un-immeuble-a-New-York-S-il-y-a-une-personne-ou-une-entite-responsable-nous-lui-demanderons-de-rendre-pleinement-des-comptes-declare-le-maire-de-New-York-2383077.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Tension autour des bassines",
+          "summary": "Les activistes dénoncent une bassine jugée illégale à Pressac, ravivant les débats environnementaux.",
+          "url": "https://www.lanouvellerepublique.fr/poitiers/a-pressac-bassines-non-merci-bnm-denonce-une-bassine-construite-hors-partage-de-l-eau-et-met-en-cause-le-copresident-du-ptge-1794510525",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1794499652/6af60ebc0f595bea568b4592"
+        },
+        {
+          "title": "Vague de fausses alertes",
+          "summary": "Des écoles françaises visées par de multiples fausses alertes à la bombe, semant la perturbation nationale.",
+          "url": "https://www.sudouest.fr/politique/education/ecole/le-dessin-du-vendredi-13-novembre-de-fausses-alertes-a-la-bombe-dans-des-ecoles-en-france-31503777.php",
+          "image": null
+        },
+        {
+          "title": "Sagnol s'engage en politique",
+          "summary": "Willy Sagnol apporte son soutien à David Lisnard pour la présidentielle, commentant la situation française actuelle.",
+          "url": "https://rmcsport.bfmtv.com/societe/on-voit-la-situation-en-france-actuellement-willy-sagnol-apporte-son-soutien-a-david-lisnard_AV-202611040384.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/sDgv9-wK4BnGqO-ao8exLJp4u8A=/0x0:2048x1152/800x0/images/Willy-Sagnol-lors-du-match-Georgie-Republique-tcheque-a-l-Euro-le-22-06-2024-1892446.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & IA",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Hera capture l'astéroïde",
+          "summary": "La sonde européenne Hera dévoile un cliché époustouflant d'un astéroïde pris à 60 km, prouesse technologique.",
+          "url": "https://www.journaldugeek.com/2026/11/12/sonde-europeenne-hera-photographier-asteroide-pres-60-km-distance-cliche-epoustouflant/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Didymos-1280x853.jpg"
+        },
+        {
+          "title": "Microsoft en panne",
+          "summary": "Des centaines de milliers d'utilisateurs subissent des perturbations des services Microsoft, impactant le quotidien.",
+          "url": "https://fr.investing.com/news/stock-market-news/les-services-microsoft-perturbes-pour-des-centaines-de-milliers-dutilisateurs-3693646",
+          "image": "https://content-media.investing.com/news/LYNXMPED1K0LR_M.jpg"
+        },
+        {
+          "title": "IA : 300 000 postes à terme ?",
+          "summary": "Bruno Retailleau estime que l'IA pourrait supprimer 300 000 postes de fonctionnaires, relançant le débat sur l'emploi.",
+          "url": "https://www.capital.fr/votre-carriere/fonctionnaires-avec-lintelligence-artificielle-on-peut-economiser-300-000-postes-assure-bruno-retailleau-1531802",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~12~21d41879-fa75-43f6-b4a0-c30623cf53a8.png/1200x900/focus-point/647%2C185/fonctionnaires-avec-l-intelligence-artificielle-on-peut-economiser-300-000-postes-assure-bruno-retailleau.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "GTA 6 et syndicat",
+          "summary": "À l'approche de GTA 6, les employés de Rockstar sont appelés à se syndiquer, signe de tensions en interne.",
+          "url": "https://www.bfmtv.com/tech/gaming/ce-qui-se-passe-chez-rockstar-depasse-les-murs-du-studio-a-une-semaine-de-la-sortie-de-gta-6-les-salaries-du-studio-sont-appeles-a-voter-pour-se-syndiquer_AD-202611120868.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Oqec1XmgAL3d5C6_Lunvt0dhyLg=/0x0:1536x864/800x0/images/Grand-Theft-Auto-VI-2338691.jpg"
+        },
+        {
+          "title": "725 M€ pour l'agriculture",
+          "summary": "La France alloue 725 millions d'euros supplémentaires pour soutenir une agriculture souveraine et adaptée.",
+          "url": "https://fr.euronews.com/2026/11/12/france-725-millions-deuros-supplementaires-pour-une-agriculture-souveraine-et-adaptee",
+          "image": "https://images.euronews.com/articles/stories/09/99/04/22/1440x810_cmsv2_5f332906-d0d2-5a95-a66a-84dbf565b31c-9990422.jpg"
+        },
+        {
+          "title": "Avenir incertain pour BHV",
+          "summary": "Les salariés du BHV Marais s'inquiètent de la reprise d'activité après la fermeture, redoutant la fin.",
+          "url": "https://actu.fr/ile-de-france/paris_75056/l-activite-ne-reprendra-pas-les-salaries-du-bhv-marais-inquiets-pour-la-suite-apres-la-fermeture-du-magasin_65049212.html",
+          "image": "https://static.actu.fr/uploads/2026/11/pxl-20261112-113943538-1024x557.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Local (Bordeaux/Landes)",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Incendie dans les Landes",
+          "summary": "Un feu d'habitation à Doazit reloge deux occupants, les secours sont intervenus rapidement sur place.",
+          "url": "https://www.sudouest.fr/landes/doazit/landes-feu-d-habitation-a-doazit-les-deux-occupants-du-logement-reloges-31506119.php",
+          "image": null
+        },
+        {
+          "title": "Fausse auxiliaire de vie",
+          "summary": "Près de Bordeaux, une fausse auxiliaire tentait de dérober des bijoux, une ruse déjouée par la vigilance.",
+          "url": "https://www.sudouest.fr/gironde/villenave-d-ornon/pres-de-bordeaux-la-fausse-auxiliaire-de-vie-cherchait-en-fait-a-s-emparer-des-bijoux-31501151.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Divertissement & Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Nothing se lance dans l'IA",
+          "summary": "Nothing prépare son premier appareil IA innovant, surprenant les attentes sans être un simple écran.",
+          "url": "https://www.journaldugeek.com/2026/11/13/nothing-prepare-son-premier-appareil-ia-et-ce-ne-sera-pas-un-ecran-de-plus/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/nothing-ia-1280x853.jpg"
+        },
+        {
+          "title": "Le Magicien des Anneaux révélé",
+          "summary": "Le mystérieux magicien des Anneaux de pouvoir est enfin dévoilé, surprenant les théories des fans.",
+          "url": "https://www.journaldugeek.com/2026/11/13/les-anneaux-de-pouvoir-on-sait-enfin-qui-est-le-mysterieux-magicien-et-on-setait-trompe-sur-toute-la-ligne/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/mage-les-anneaux-de-pouvoir-1280x853.jpg"
+        },
+        {
+          "title": "Gemini 4 Hydrogen débarque",
+          "summary": "Google lance une mise à jour majeure et gratuite de Gemini 4 Hydrogen, apportant de nouvelles capacités IA.",
+          "url": "https://www.journaldugeek.com/2026/11/13/gemini-vient-de-lancer-une-importante-mise-a-jour-gratuite-voici-tout-ce-qui-change-avec-le-modele-gemini-4-hydrogen/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/Gemini-Google-IA_1920x1280-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Les Bleus sous pression",
+          "summary": "La Belgique bat la Turquie en Ligue des nations, mettant la pression sur l'équipe de France et ses objectifs.",
+          "url": "https://www.lefigaro.fr/sports/football/ligue-des-nations/ligue-des-nations-la-belgique-s-impose-en-turquie-et-revient-sur-les-talons-des-bleus-20261112",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/11/12/62751cbd7c855fc6741f9826498761e4f8e3868a39651105075ba13e5acc4599.jpg"
+        },
+        {
+          "title": "Adieu à Ciara Mageean",
+          "summary": "Championne d'Europe du 1500m, Ciara Mageean décède d'un cancer à 34 ans, laissant le monde sportif en deuil.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        },
+        {
+          "title": "Wemby en mode remontada",
+          "summary": "Wembanyama mène les Spurs à leur 10ème victoire consécutive, initiant une remontada spectaculaire en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-wembanyama-a-initie-la-remontada-des-spurs-pour-une-10e-victoire-de-suite_AV-202611120106.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/TFPqeuoXhxp89kzyt8RBKbsXKsk=/7x73:1351x829/800x0/images/Victor-Wembayama-lors-de-la-victoire-San-Antonio-a-Chicago-124-119-le-11-novembre-2026-2382468.jpg"
+        }
+      ]
+    }
+  ]
+}
