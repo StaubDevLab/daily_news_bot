@@ -1,7 +1,7 @@
 {
   "ephemeride": "Saint Sidoine",
-  "global_summary": "L'actualité de ce jour est marquée par une inquiétude grandissante face à des menaces sécuritaires, des fausses alertes à la bombe en Europe aux paralysies aériennes inexpliquées aux États-Unis, soulignant la fragilité de nos systèmes et la vigilance constante requise face aux enjeux mondiaux. Les dynamiques géopolitiques sont également en mouvement, avec des débats sur l'hégémonie maritime et des pressions sociétales pour des avancées législatives majeures, comme la lutte contre les féminicides au Cameroun.\n\nParallèlement, le monde de la tech continue de repousser les frontières, de la détection de signaux cosmiques prédits depuis des décennies aux discussions sur la sécurité de l'IA. Sur le plan sportif, la France vibre au rythme des exploits de ses athlètes, du rugby à la NBA, tout en étant confrontée à des défis comme les suspensions pour manquement aux règles antidopage. C'est un mélange d'avancées, de questionnements profonds et de rappels à l'ordre qui dessine le tableau de cette journée.",
-  "running_advice": "Pas de données météo précises aujourd'hui, mais cela ne doit pas freiner votre élan ! Peu importe les conditions, le simple fait de lacer vos chaussures est une victoire en soi. Le soleil se lève à undefined et se couche à undefined. Sans informations sur la température ou le ciel, je vous conseille d'écouter votre corps et de choisir l'heure qui vous convient le mieux, que ce soit pour profiter de la fraîcheur matinale ou de la douceur du soir. Soyez prudent, hydratez-vous et rappelez-vous que chaque foulée vous rapproche de vos objectifs. Votre détermination est votre meilleure météo !",
+  "global_summary": "La journée est marquée par une série d'événements mondiaux aux enjeux variés. Entre les fausses alertes à la bombe qui sèment le trouble en Europe, la pression de la société civile camerounaise pour endiguer les féminicides, et la paralysie soudaine du trafic aérien aux États-Unis, l'actualité nous rappelle la complexité et la fragilité de notre monde interconnecté. Ces défis majeurs appellent à une vigilance constante et à une action collective.\n\nMais l'innovation et les succès ne sont pas en reste. Le monde de la tech célèbre des avancées fascinantes, de la détection d'un signal cosmique lointain par James Webb à l'exploration toujours plus lointaine de Voyager 1. Côté sport, l'Hexagone vibre avec la victoire héroïque du XV de France et l'émergence de nouveaux talents français en NBA. Des investissements économiques significatifs sont également annoncés, soulignant la dynamique incessante de notre société.",
+  "running_advice": "Aujourd'hui, l'info météo est aussi mystérieuse que l'origine des signaux cosmiques ! Impossible de te donner des détails précis sur la température ou le ciel. Mais devine quoi ? Ton corps, lui, est toujours prêt à l'action ! Sans données précises, je te propose de te fier à ton instinct. Si le ciel est clair, pense à la crème solaire et à une casquette, car un UV imprévu peut toujours surprendre. L'heure idéale ? C'est quand tu te sens le plus motivé, que ce soit pour un réveil énergisant ou une session décompressante après le travail. Alors, chausse tes baskets, écoute ton corps et va conquérir ton parcours. Chaque foulée compte !!",
   "weather_string": "undefined undefined (undefined°C / undefined°C)",
   "weather_stats": {
     "temp": "undefined°C",
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Fausses alertes à la bombe en France et Europe",
-          "summary": "Des enquêtes sont en cours pour déterminer l'origine des récentes fausses alertes qui sèment la panique.",
+          "title": "Fausses alertes à la bombe : mystère sur leur origine",
+          "summary": "De multiples fausses alertes à la bombe secouent la France et l'Europe, l'enquête est en cours pour élucider leur source énigmatique.",
           "url": "https://www.nouvelobs.com/societe/20261113.OBS120110/fausses-alertes-a-la-bombe-en-france-et-en-europe-ce-que-l-on-sait-et-ce-que-l-on-ignore-sur-leur-origine.html",
           "image": "https://focus.nouvelobs.com/2026/11/11/0/0/1023/682/0/0/60/0/768ffcf_ftp-1-gzhs3lnkfaiy-afp-d76z9wq-1024.jpg"
         },
         {
-          "title": "Cameroun : Pression pour légiférer contre les féminicides",
-          "summary": "La société civile camerounaise fait pression sur les parlementaires pour une loi protégeant mieux les femmes.",
+          "title": "Cameroun : un appel pour lutter contre les féminicides",
+          "summary": "La société civile camerounaise presse les parlementaires d'adopter des lois fermes pour endiguer la vague de féminicides.",
           "url": "https://www.lemonde.fr/afrique/article/2026/11/13/au-cameroun-les-parlementaires-sous-la-pression-de-la-societe-civile-pour-legiferer-contre-les-feminicides_6809373_3212.html",
           "image": "https://img.lemde.fr/2026/11/13/583/0/3500/1750/644/322/60/0/59ceb68_upload-1-fikviu2bzmuw-000-c8tt44w.jpg"
         },
         {
-          "title": "Panne géante : Les avions cloués au sol aux USA",
-          "summary": "Une interruption totale du trafic aérien aux États-Unis, suite à une mystérieuse panne, provoque le chaos.",
+          "title": "USA : trafic aérien paralysé après un incident majeur",
+          "summary": "Tous les vols aux États-Unis sont cloués au sol suite à un mystérieux incident, interrompant totalement le trafic aérien.",
           "url": "https://www.journaldugeek.com/2026/11/14/que-se-passe-t-il-aux-etats-unis-tous-les-avions-sont-cloues-au-sol-le-trafic-totalement-interrompu/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/11/faa-etats-unis-vols-cloues-au-sol-panne-controle-aerien-1280x853.jpg"
         }
@@ -38,94 +38,94 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Moselle : 14 ans de réclusion pour tentative de meurtre",
-          "summary": "Le tireur d'Amnéville a été condamné lourdement pour son acte criminel lors d'un procès crucial.",
+          "title": "Amnéville : 14 ans de prison pour tentative de meurtre",
+          "summary": "Le tireur d'Amnéville a été lourdement condamné à 14 ans de réclusion pour sa tentative de meurtre.",
           "url": "https://www.vosgesmatin.fr/faits-divers-justice/2026/11/13/le-tireur-d-amneville-condamne-a-14-ans-de-reclusion-criminelle-pour-tentative-de-meurtre",
           "image": "https://cdn-s-www.vosgesmatin.fr/images/7DA8C0EA-2C4F-4FDF-90EE-3EEEA6B13CF3/NW_listB/le-tireur-d-amneville-condamne-a-14-ans-de-reclusion-criminelle-pour-tentative-de-meurtre-1794593041.jpg"
         },
         {
-          "title": "Pau : Mouvement lycéen et violences dénoncées",
-          "summary": "Les proviseurs palois expriment leur indignation face aux violences subies lors des récents mouvements lycéens.",
-          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/mouvement-lyceen-a-pau-les-representants-des-proviseurs-denoncent-les-violences-subies-31515886.php",
-          "image": null
+          "title": "Lyon : Hélène Mouriquand, une artiste à redécouvrir",
+          "summary": "La galerie Paule Martigny met en lumière l'œuvre fascinante d'Hélène Mouriquand, invitation à l'évasion artistique.",
+          "url": "https://www.leprogres.fr/culture-loisirs/2026/11/13/helene-mouriquand-une-oeuvre-a-redecouvrir-a-la-galerie-paule-martigny",
+          "image": "https://cdn-s-www.leprogres.fr/images/E230434C-AD4B-48A4-A861-CB59D5EB41B0/MF_contenu/helene-mouriquand-une-oeuvre-a-redecouvrir-a-la-galerie-paule-martigny-1794593095.jpg"
         },
         {
-          "title": "Nouvelle vignette auto obligatoire dès 2027",
-          "summary": "Une nouvelle vignette payante deviendra bientôt indispensable pour tous les automobilistes en France.",
+          "title": "Pau : violences lycéennes, les proviseurs alertent",
+          "summary": "À Pau, les proviseurs dénoncent avec force les violences subies lors du mouvement lycéen actuel.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/mouvement-lyceen-a-pau-les-representants-des-proviseurs-denoncent-les-violences-subies-31515886.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Anthropic : la sécurité de l'IA en entreprise",
+          "summary": "Le PDG d'Anthropic s'exprime sur les enjeux cruciaux de la sécurité et l'adoption de l'IA dans le monde professionnel.",
+          "url": "https://fr.investing.com/news/stock-market-news/le-pdg-danthropic-evoque-la-securite-de-lia-et-son-adoption-en-entreprise-3696093",
+          "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
+        },
+        {
+          "title": "Voie lactée : un signal mystérieux détecté par James Webb",
+          "summary": "Un signal cosmique prédit il y a 40 ans a enfin été identifié dans la Voie lactée grâce au télescope James Webb.",
+          "url": "https://www.journaldugeek.com/2026/11/13/predit-40-ans-mysterieux-signal-venu-profondeurs-voie-lactee-enfin-detre-detecte-james-webb/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Signal-espace-1280x853.jpg"
+        },
+        {
+          "title": "Voyager 1 : la sonde frôle un jour-lumière de la Terre",
+          "summary": "Lancée durant la Guerre Froide, la sonde Voyager 1 de la NASA atteindra la semaine prochaine un jalon spatial historique.",
+          "url": "https://www.journaldugeek.com/2026/11/13/lancee-pleine-guerre-froide-sonde-voyager-1-nasa-etape-folle-periple-semaine-prochaine-un-jour-lumiere-terre/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Voyager-1-NASA-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Guebwiller : 3 M€ pour rénover une résidence",
+          "summary": "Trois millions d'euros sont investis pour améliorer drastiquement le DPE de la Résidence du Vieil-Armand.",
+          "url": "https://www.lalsace.fr/economie/2026/11/13/une-rehabilitation-a-3-millions-pour-la-residence-du-vieil-armand",
+          "image": "https://cdn-s-www.lalsace.fr/images/BA5F2A07-7D43-419B-84F6-762CBA9B8B55/NW_listB/residence-du-vieil-armand-3-millions-d-euros-investis-pour-passer-d-un-dpe-f-a-b-1794590488.jpg"
+        },
+        {
+          "title": "Ghana : 51 M$ pour 10 nouveaux stades régionaux",
+          "summary": "Le ministre ghanéen des Finances alloue plus de 51 millions de dollars pour construire dix nouveaux stades à travers le pays.",
+          "url": "https://rtenfrancais.tv/news/140107-ghana-ministre-finances-annonce-enveloppe-plus-51-millions-dollars-construire-10-stades-regionaux",
+          "image": "https://mf.b37mrtl.ru/french/images/2026.11/thumbnail/6af74a486f7ccc5d302312be.jpg"
+        },
+        {
+          "title": "Automobilistes : une vignette payante bientôt obligatoire",
+          "summary": "Une nouvelle vignette payante deviendra obligatoire pour tous les automobilistes français d'ici quelques mois.",
           "url": "https://www.journaldugeek.com/2026/11/13/cette-vignette-payante-sera-bientot-obligatoire-pour-tous-les-automobilistes-des-lannee-prochaine/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/08/vignette-auto-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Sciences",
-      "emoji": "💡",
-      "articles": [
-        {
-          "title": "Signal mystérieux détecté dans la Voie lactée",
-          "summary": "Un signal prédit il y a 40 ans, venu des profondeurs de notre galaxie, a été enfin découvert grâce à James Webb.",
-          "url": "https://www.journaldugeek.com/2026/11/13/predit-40-ans-mysterieux-signal-venu-profondeurs-voie-lactee-enfin-detre-detecte-james-webb/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Signal-espace-1280x853.jpg"
-        },
-        {
-          "title": "Voyager 1 bientôt à un jour-lumière de la Terre",
-          "summary": "Lancée en pleine Guerre Froide, la sonde Voyager 1 va atteindre une étape astronomique incroyable la semaine prochaine.",
-          "url": "https://www.journaldugeek.com/2026/11/13/lancee-pleine-guerre-froide-sonde-voyager-1-nasa-etape-folle-periple-semaine-prochaine-un-jour-lumiere-terre/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Voyager-1-NASA-1280x853.jpg"
-        },
-        {
-          "title": "Sécurité de l'IA et adoption en entreprise",
-          "summary": "Le PDG d'Anthropic discute des défis cruciaux de la sécurité et de l'intégration de l'intelligence artificielle.",
-          "url": "https://fr.investing.com/news/stock-market-news/le-pdg-danthropic-evoque-la-securite-de-lia-et-son-adoption-en-entreprise-3696093",
-          "image": "https://content-media.investing.com/news/LYNXNPEB66095_M.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Économie & Business",
-      "emoji": "📈",
-      "articles": [
-        {
-          "title": "Guebwiller : 3 millions pour améliorer le DPE d'une résidence",
-          "summary": "Un investissement colossal pour réhabiliter la Résidence du Vieil-Armand et améliorer sa performance énergétique.",
-          "url": "https://www.lalsace.fr/economie/2026/11/13/une-rehabilitation-a-3-millions-pour-la-residence-du-vieil-armand",
-          "image": "https://cdn-s-www.lalsace.fr/images/BA5F2A07-7D43-419B-84F6-762CBA9B8B55/NW_listB/residence-du-vieil-armand-3-millions-d-euros-investis-pour-passer-d-un-dpe-f-a-b-1794590488.jpg"
-        },
-        {
-          "title": "Ghana : 51 millions de dollars pour 10 stades",
-          "summary": "Le ministre des Finances ghanéen annonce un investissement majeur pour développer les infrastructures sportives régionales.",
-          "url": "https://rtenfrancais.tv/news/140107-ghana-ministre-finances-annonce-enveloppe-plus-51-millions-dollars-construire-10-stades-regionaux",
-          "image": "https://mf.b37mrtl.ru/french/images/2026.11/thumbnail/6af74a486f7ccc5d302312be.jpg"
-        },
-        {
-          "title": "10 000€ d'avantages sur le Jeep Compass électrique",
-          "summary": "Le nouveau SUV électrique de Jeep propose déjà des réductions substantielles, moins d'un an après son lancement.",
-          "url": "https://www.autoplus.fr/environnement/il-na-meme-pas-un-an-mais-le-nouveau-jeep-compass-electrique-profite-deja-de-10-000-e-davantages-1476915.html",
-          "image": "https://sf2.autoplus.fr/wp-content/uploads/autoplus/2026/08/jeep-cherokee-2026-1280-0efed0226fc0182bcf6d9ab7107cb83b81.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Sports",
+      "label": "Sport",
       "emoji": "🏆",
       "articles": [
         {
-          "title": "Rugby : Les Bleus s'offrent les Boks !",
-          "summary": "Héroïque, le XV de France a arraché une victoire de référence 21-19 face à l'Afrique du Sud.",
+          "title": "Rugby : les Bleus terrassent les Boks dans l'héroïsme",
+          "summary": "Le XV de France s'offre une victoire de référence 21-19 face aux redoutables Boks, preuve d'une force collective.",
           "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/direct-france-afrique-du-sud-suivez-le-match-du-championnat-des-nations-en-live_LS-202611130530.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/X-PqjexkT1ulyQPocL-SmLhPV6E=/0x1:2048x1153/800x0/images/La-joie-des-joueurs-du-XV-de-France-vainqueurs-des-Boks-le-13-novembre-2026-au-Stade-de-France-2383872.jpg"
         },
         {
-          "title": "Wembanyama : Spurs vs Warriors, où regarder ?",
-          "summary": "Ne manquez pas Victor Wembanyama en direct : toutes les infos pour suivre le match de NBA.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/spurs-warriors-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-nba-de-wembanyama-en-direct_AN-202611130348.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/N3-_RLD9qAvH4kg5FIoK01Vo7rk=/0x0:1600x900/800x0/images/Spurs-Warriors-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-NBA-de-Wembanyama-en-direct-2383395.jpg"
+          "title": "NBA : Sarr et Risacher s'illustrent après Wemby",
+          "summary": "Après Wembanyama, les jeunes talents français Alexandre Sarr et Zaccharie Risacher brillent déjà en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/il-n-y-a-pas-que-wemby-dans-la-vie-alexandre-sarr-et-zaccharie-risacher-flambent-a-leur-tour-sur-les-parquets-nba_AV-202611130306.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/xGmfVdSgXcEituNeZkgC2fB9UII=/0x33:1600x933/800x0/images/Le-Francais-Zaccharie-Risacher-en-NBA-avec-Dallas-2383359.jpg"
         },
         {
-          "title": "Athlétisme : Lazraq Khlass suspendue 22 mois",
-          "summary": "L'heptathlète française écope d'une lourde suspension pour manquement à ses obligations antidopage.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gRa1H4Koz3KYsiuMX6qZ6WWgFe8=/0x59:2048x1211/800x0/images/Auriana-Lazraq-Khlass-lors-des-championnats-du-monde-d-heptathlon-le-19-septembre-2025-2261884.jpg"
+          "title": "JO 2028 : Henry face aux défis de sa sélection",
+          "summary": "Thierry Henry rencontre des difficultés à composer l'équipe de France olympique de football pour les prochains Jeux.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/l-imbroglio-de-l-equipe-de-france-olympique-de-football_DN-202403210485.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/rWdUL0MJPUZQ27yLOgVIUggq9I0=/0x101:2032x1244/800x0/images/Thierry-Henry-face-a-la-presse-en-octobre-2023-1727812.jpg"
         }
       ]
     }
