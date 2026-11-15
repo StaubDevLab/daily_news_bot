@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Albert",
-  "global_summary": "L'actualité de ce jour nous plonge au cœur des défis régionaux et internationaux, mêlant préoccupations environnementales et dynamiques sportives. En France, la mobilisation citoyenne se manifeste tandis que des incidents majeurs, comme la pagaille aérienne aux États-Unis ou la cyberattaque chez La Poste, soulignent la fragilité de nos infrastructures et données.\nParallèlement, le monde de la tech s'interroge sur le contrôle de l'IA et explore de nouvelles sources d'énergie, tandis que le sport nous fait vibrer. Des Bleus en mission qualification, une victoire mémorable du XV de France, et des réactions inattendues à la candidature de Teddy Riner animent la scène sportive, rappelant l'impact sociétal de nos athlètes.",
-  "running_advice": "Alors, prêt à affronter les éléments ? Aujourd'hui, avec des averses et des températures douces entre 10 et 15°C, c'est le moment idéal pour une séance dynamique ! Enfilez votre coupe-vent imperméable et vos chaussures de running préférées. Pour éviter le gros de la pluie, visez une sortie en milieu de matinée, vers 10h-11h, juste après le lever du soleil. L'air frais et la faible luminosité peuvent être étonnamment revigorants. Ne craignez pas quelques gouttes, elles nettoient l'esprit et renforcent le mental. Allez, on sort, on respire, on se dépasse ! Chaque foulée sous la pluie est une victoire sur la procrastination.",
-  "weather_string": "🌦️ Averses (10.3°C / 14.9°C)",
+  "global_summary": "Ce jour est marqué par une actualité dense, mêlant défis environnementaux et enjeux sportifs internationaux. Alors que l'Est de la France se positionne comme un havre de bien-être, nos régions s'interrogent sur leur capacité à faire face aux changements climatiques, soulignant l'urgence d'actions locales. En parallèle, les tensions géopolitiques persistent, avec de nouvelles attaques en mer Noire et une cyberattaque majeure ciblant des millions de Français. \n\nLe monde du sport fait vibrer l'Hexagone, notamment avec la qualification des Bleus en Ligue des Nations et l'exploit du XV de France face à l'Afrique du Sud, portant haut les couleurs nationales. Les discussions autour de la candidature inattendue de Teddy Riner à la présidentielle et la réaction de Wembanyama animent les débats, rappelant l'influence grandissante des athlètes. La technologie n'est pas en reste, avec un débat crucial sur le contrôle de l'IA et l'engouement autour de la première Ferrari électrique, symboles d'un futur en pleine mutation.",
+  "running_advice": "Aujourd'hui, Saint Albert nous salue avec une météo qui demande un peu d'adaptation, mais ne doit surtout pas freiner votre élan ! Avec des températures douces allant de 10.3°C à 15°C, c'est idéal pour un effort physique. Certes, des averses sont prévues avec 85% de probabilité, mais n'oubliez pas : courir sous la pluie, c'est aussi une expérience revigorante et une excellente façon de se sentir vivant ! Enfilez votre coupe-vent, vos chaussures adaptées et foncez ! L'indice UV est très bas (1.25), donc pas besoin de crème solaire. Le meilleur créneau pour profiter de la lumière du jour et éviter les pires averses serait en fin de matinée, avant que la pluie ne s'intensifie potentiellement. Visez entre 10h00 et 14h00. Chaque goutte est une motivation supplémentaire ! Transformez ce défi en victoire personnelle !",
+  "weather_string": "🌦️ Averses (10.3°C / 15°C)",
   "weather_stats": {
-    "temp": "14.9°C",
+    "temp": "15°C",
     "rain": "85%",
     "uv": "1.25"
   },
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "L'Est de la France, terrain de jeu pour santé et sport",
-          "summary": "Nos régions mettent en avant les bienfaits du sport et de la nature pour se ressourcer, un atout pour la santé publique.",
-          "url": "https://www.lalsace.fr/elections/2026/11/14/sante-et-sport-l-est-de-la-france-un-immenhttps://www.lalsace.fr/elections/2026/11/14/sante-et-sport-l-est-de-la-france-un-immense-terrain-de-jeu-ou-se-ressourcer",
+          "title": "Ligue des Nations: Les Bleus visent la qualification",
+          "summary": "Mbappé et ses coéquipiers sont en mission face à la Turquie pour décrocher leur billet pour la phase finale.",
+          "url": "https://www.france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
+          "image": "https://s.france24.com/media/display/46a6fb20-e050-11f1-98c3-3f371022a770/w:1024/p:16x9/000-C9EB4KL.jpg"
+        },
+        {
+          "title": "L'Est de la France, terrain de bien-être",
+          "summary": "Nos régions de l'Est se positionnent comme un cadre idéal pour la santé et le sport et se ressourcer.",
+          "url": "https://www.lalsace.fr/elections/2026/11/14/sante-et-sport-un-immense-terrain-de-jeu-ou-se-ressourcer",
           "image": "https://cdn-s-www.lalsace.fr/images/2BAD2643-DD32-4B8E-823F-70336B345002/NW_listB/sante-et-sport-l-est-de-la-france-un-immense-terrain-de-jeu-ou-se-ressourcer-1794577838.jpg"
         },
         {
-          "title": "Nos régions face aux défis du changement climatique",
-          "summary": "L'environnement est au cœur des préoccupations régionales, avec des stratégies locales pour contrer le réchauffement.",
+          "title": "Défis climatiques : nos territoires engagés",
+          "summary": "Nos régions se mobilisent pour faire face aux défis environnementaux urgents du changement climatique.",
           "url": "https://www.leprogres.fr/elections/2026/11/14/environnement-nos-territoires-face-aux-defis-du-climat",
           "image": "https://cdn-s-www.leprogres.fr/images/C1EE4B44-CE4B-4B57-8722-73CB148AAF73/MF_contenu/environnement-nos-territoires-face-aux-defis-du-climat-1794578188.jpg"
-        },
-        {
-          "title": "Ligue des Nations : les Bleus en mission qualification",
-          "summary": "Mbappé et l'équipe de France affrontent la Turquie avec un objectif clair : assurer leur place pour la suite de la compétition.",
-          "url": "https://www.france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
-          "image": "https://s.france24.com/media/display/46a6fb20-e050-11f1-98c3-3f371022a770/w:1024/p:16x9/000-C9EB4KL.jpg"
         }
       ]
     },
@@ -38,92 +38,122 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Pagaille aérienne aux USA : système vétuste mis en cause",
-          "summary": "Un système de communication obsolète est responsable des perturbations dans l'espace aérien américain, impactant les vols.",
-          "url": "https://www.europe1.fr/international/pagaille-dans-lespace-aerien-americain-les-autorites-mettent-en-cause-un-systeme-de-communication-vetuste-1233489",
-          "image": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Drapeaux/etats_unis_credits_matthias_balk_dpa_dpa_picture-alliance_via_afp_69b2fce2cdebe.jpg"
-        },
-        {
-          "title": "Guerre en Ukraine : un navire touché en mer Noire",
-          "summary": "Un drone russe a frappé un navire civil se dirigeant vers l'Ukraine, ravivant les tensions maritimes dans la région.",
+          "title": "Ukraine : un navire touché par drone",
+          "summary": "Une nouvelle attaque russe en mer Noire a ciblé un navire en route vers l'Ukraine, ravivant les tensions.",
           "url": "https://www.lindependant.fr/2026/11/14/guerre-en-ukraine-une-nouvelle-attaque-russe-un-navire-en-route-vers-lukraine-touche-par-un-drone-en-mer-noire-13652963.php",
           "image": "https://images.lindependant.fr/api/v1/images/view/6af8a26cd10fb320030701f8/standard/image.jpg?v=2"
         },
         {
-          "title": "Orléans se mobilise contre le « permis de tuer »",
-          "summary": "Des manifestants se sont rassemblés à Orléans pour protester contre une loi controversée perçue comme un \"permis de tuer\".",
+          "title": "Orléans : mobilisation contre le \"permis de tuer\"",
+          "summary": "Des manifestants se sont rassemblés à Orléans pour protester contre la proposition de \"permis de tuer\".",
           "url": "https://www.larep.fr/orleans-45000/faits-divers/mobilisation-contre-le-permis-de-tuer-dans-les-rues-dorleans_15082725/",
           "image": "https://www.larep.fr/photoSRC/VVZTJ19dUTgIDAVOBQwd/7861722.jpeg"
+        },
+        {
+          "title": "USA : pagaille aérienne et système vétuste",
+          "summary": "Un système de communication obsolète est mis en cause dans la pagaille de l'espace aérien américain.",
+          "url": "https://www.europe1.fr/international/pagaille-dans-lespace-aerien-americain-les-autorites-mettent-en-cause-un-systeme-de-communication-vetuste-1233489",
+          "image": "https://static.europe1.fr/var/europe1/storage/2026_redaction/Drapeaux/etats_unis_credits_matthias_balk_dpa_dpa_picture-alliance_via_afp_69b2fce2cdebe.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
-      "emoji": "💡",
+      "label": "Tech",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "IA : encore sous contrôle ? Débats animés à Saint-Tropez",
-          "summary": "Des conférences à Saint-Tropez questionnent notre maîtrise face à l'intelligence artificielle en pleine expansion.",
+          "title": "Cyberattaque La Poste : 22 millions touchés",
+          "summary": "Une filiale de La Poste victime d'une cyberattaque massive, affectant des millions de données personnelles.",
+          "url": "https://www.sudouest.fr/faits-divers/une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes-l-une-des-plus-importantes-cyberattaques-en-france-31529085.php",
+          "image": ""
+        },
+        {
+          "title": "IA : Gardons-nous le contrôle ?",
+          "summary": "Saint-Tropez accueille des conférences pour débattre du contrôle humain sur l'intelligence artificielle.",
           "url": "https://www.nicematin.com/societe/avons-nous-encore-le-controle-sur-l-ia-debats-et-conferences-ce-week-end-a-saint-tropez-10760561",
           "image": "https://assets.nicematin.com/articles/10/76/05/61/OG-10760561-1200-800-0392c70_upload-1-x7sclqf3ab8k-ia-saint-tropez.jpg"
         },
         {
-          "title": "Révolution énergétique : une vieille idée refait surface",
-          "summary": "Une technologie des années 80, testée avec succès, pourrait transformer notre production d'énergie future.",
-          "url": "https://www.journaldugeek.com/2026/11/14/une-idee-des-annees-1980-passe-enfin-le-test-et-pourrait-revolutionner-la-production-denergie/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/11/tomakak-1280x853.jpg"
-        },
-        {
-          "title": "La première Ferrari électrique déjà sold-out pour 2027",
-          "summary": "Malgré son prix, la première supercar électrique de Ferrari a déjà conquis tous ses futurs propriétaires pour 2027.",
-          "url": "https://www.journaldugeek.com/2026/11/14/la-premiere-ferrari-electrique-a-deja-trouve-tous-ses-clients-pour-2027/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/05/ferrari-luce-premiere-voiture-electrique-2026-1-1280x853.jpeg"
-        }
-      ]
-    },
-    {
-      "label": "Économie & Société",
-      "emoji": "📈",
-      "articles": [
-        {
-          "title": "La Poste victime d'une cyberattaque massive",
-          "summary": "Une filiale de La Poste a subi un vol de données touchant 22 millions de personnes, une attaque inédite en France.",
-          "url": "https://www.sudouest.fr/faits-divers/une-filiale-du-groupe-la-poste-annonce-un-vol-de-donnees-touchant-22-millions-de-personnes-l-une-des-plus-importantes-cyberattaques-en-france-31529085.php",
-          "image": null
-        },
-        {
-          "title": "Vins de Bourgogne : deux ministres pour la filière",
-          "summary": "La Fête des Grands Vins de Bourgogne accueille deux ministres, signe du soutien de l'État à la viticulture.",
-          "url": "https://www.bienpublic.com/economie/2026/11/14/fete-des-grands-vins-de-bourgogne-deux-ministres-au-chevet-de-la-filiere-viticole",
-          "image": "https://cdn-s-www.bienpublic.com/images/AE33FCD9-131A-405A-948F-7C8C3999874B/NW_listB/fete-des-grands-vins-de-bourgogne-deux-ministres-au-chevet-de-la-filiere-viticole-1794679490.jpg"
-        },
-        {
-          "title": "Trottinettes électriques : le casque s'impose, mais peine",
-          "summary": "Le port du casque devient obligatoire pour les trottinettes, mais les usagers restent encore réticents à l'adopter.",
+          "title": "Trottinettes : le casque obligatoire freiné",
+          "summary": "Le casque se généralise pour les trottinettes électriques, mais les usagers restent réticents à le porter.",
           "url": "http://www.lardennais.fr/id840209/article/2026-11-14/trottinettes-electriques-le-casque-obligatoire-se-generalise-mais-les-usagers",
           "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/11/14/node_840209/15553874/public/2026/11/14/113619931.jpeg?itok=WqfidDfn1794679283"
         }
       ]
     },
     {
-      "label": "Sport",
-      "emoji": "🏆",
+      "label": "Business",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Rugby : le XV de France bat l'Afrique du Sud !",
-          "summary": "Une victoire héroïque 21-19 du XV de France contre les Springboks a enflammé les fans et les commentateurs.",
-          "url": "https://rmcsport.bfmtv.com/rugby/video-france-21-19-afrique-du-sud-gourgues-raconte-la-folle-victoire-des-bleus_VN-202611140341.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/xmWNN-7sTAaO0M0GsB7ksEtf7hc=/0x0:1280x720/800x0/images/France-21-19-Afrique-du-Sud-Gourgues-raconte-la-folle-victoire-des-Bleus-2384103.jpg"
+          "title": "Ferrari électrique 2027 : déjà sold out !",
+          "summary": "La première Ferrari électrique a déjà trouvé tous ses clients, prouvant son immense succès avant même sa sortie.",
+          "url": "https://www.journaldugeek.com/2026/11/14/la-premiere-ferrari-electrique-a-deja-trouve-tous-ses-clients-pour-2027/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/05/ferrari-luce-premiere-voiture-electrique-2026-1-1280x853.jpeg"
         },
         {
-          "title": "Wembanyama réagit à Riner, candidat présidentiel",
-          "summary": "Victor Wembanyama commente avec sobriété la surprenante candidature de Teddy Riner à la présidence de la République.",
+          "title": "Vins de Bourgogne : l'État soutient la filière",
+          "summary": "Deux ministres présents à la Fête des Grands Vins de Bourgogne pour soutenir une filière clé du terroir.",
+          "url": "https://www.bienpublic.com/economie/2026/11/14/fete-des-grands-vins-de-bourgogne-deux-ministres-au-chevet-de-la-filiere-viticole",
+          "image": "https://cdn-s-www.bienpublic.com/images/AE33FCD9-131A-405A-948F-7C8C3999874B/NW_listB/fete-des-grands-vins-de-bourgogne-deux-ministres-au-chevet-de-la-filiere-viticole-1794679490.jpg"
+        },
+        {
+          "title": "Châtenois : un foyer socioculturel dynamique",
+          "summary": "Le foyer de Châtenois dynamise la vie locale en misant sur une grande diversité d'activités pour tous.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/11/14/le-foyer-socioculturel-mise-sur-la-diversite-de-ses-activites",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/92245AEE-336D-437C-A702-6B2BFF8040FE/NW_listB/le-foyer-socioculturel-mise-sur-la-diversite-de-ses-activites-1794679357.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Gironde",
+      "emoji": "🍇",
+      "articles": [
+        {
+          "title": "Bordeaux : la contestation persiste",
+          "summary": "Moins nombreux mais déterminés, les manifestants bordelais restent mobilisés et prêts à tenir leur mouvement.",
+          "url": "https://www.sudouest.fr/societe/greves-et-manifestations/c-est-loin-d-etre-termine-a-bordeaux-des-manifestants-moins-nombreux-mais-prets-a-tenir-31525548.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "Énergie : une idée 80s révolutionnaire",
+          "summary": "Une vieille idée des années 80 pourrait enfin révolutionner la production d'énergie après un test réussi.",
+          "url": "https://www.journaldugeek.com/2026/11/14/une-idee-des-annees-1980-passe-enfin-le-test-et-pourrait-revolutionner-la-production-denergie/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/tomakak-1280x853.jpg"
+        },
+        {
+          "title": "\"Starlink russe\" : déploiement en Ukraine",
+          "summary": "Le système de satellites russe, surnommé \"Starlink russe\", entre en action et sert contre l'Ukraine.",
+          "url": "https://www.journaldugeek.com/2026/11/14/le-starlink-russe-commence-a-servir-contre-lukraine/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/05/satellite-1-1403x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Dupont éblouit face aux Springboks",
+          "summary": "Antoine Dupont a une fois de plus impressionné le monde du rugby lors de la victoire des Bleus contre l'Afrique du Sud.",
+          "url": "https://rmcsport.bfmtv.com/rugby/xv-de-france/france-afrique-du-sud-c-est-un-regal-de-jouer-avec-lui-pourquoi-dupont-a-impressionne-le-monde-du-rugby-face-aux-springboks_AV-202611140320.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5mdTZ7W6nMhMr3FJQqFiE1pzdbM=/427x453:2043x1362/800x0/images/Antoine-Dupont-durant-la-Marseillaise-avant-le-match-du-XV-de-France-13-novembre-2026-2384086.jpg"
+        },
+        {
+          "title": "Wemby réagit à la candidature de Riner",
+          "summary": "Victor Wembanyama livre sa réaction \"pas grand-chose\" à la surprenante candidature présidentielle de Teddy Riner.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/j-en-pense-pas-grand-chose-wembanyama-reagit-a-la-candidature-de-riner-a-la-presidence-de-la-republique_AV-202611140139.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/W9uZvyZznejlgzVu957hhZS2_Dk=/0x106:2048x1258/800x0/images/La-star-du-basket-francais-Victor-Wembanyama-12-octobre-2026-2367241.jpg"
         },
         {
-          "title": "Athlétisme : Lazraq Khlass suspendue 22 mois",
-          "summary": "L'heptathlète française Auriana Lazraq Khlass écope de 22 mois de suspension pour manquements à ses obligations antidopage.",
+          "title": "Dopage : 22 mois de suspension pour Lazraq Khlass",
+          "summary": "L'heptathlète Auriana Lazraq Khlass écope de 22 mois de suspension pour manquements à ses obligations antidopage.",
           "url": "https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gRa1H4Koz3KYsiuMX6qZ6WWgFe8=/0x59:2048x1211/800x0/images/Auriana-Lazraq-Khlass-lors-des-championnats-du-monde-d-heptathlon-le-19-septembre-2025-2261884.jpg"
         }
