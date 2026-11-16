@@ -1,0 +1,396 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 16/11/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">lundi 16 novembre • Sainte Marguerite</p>
+            <div class="weather-badge">
+              🌧️ Pluie (11.7°C / 15.4°C) &nbsp;|&nbsp; ☀️ UV: 1.4 &nbsp;|&nbsp; 💧 85%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>Aujourd'hui, l'actualité mondiale est marquée par des enjeux complexes, allant des tensions géopolitiques persistantes en Israël à une vague migratoire significative vers les îles Canaries. Sur le continent africain, la course aux qualifications pour la CAN 2027 bat son plein, avec des destins sportifs qui se jouent sur chaque match. En France, un débat sensible sur la délinquance et l'immigration récente refait surface, tandis que le monde du sport français est secoué par une suspension pour dopage. Un focus particulier est mis sur les performances exceptionnelles de Victor Wembanyama en NBA. 
+
+Cependant, la journée offre aussi son lot de découvertes inspirantes et insolites. Une incroyable découverte archéologique, la singularité d'un homme voyant des yeux de chat après une opération, et des innovations automobiles rappellent que le monde regorge de mystères et de créativité. Les amateurs de technologie ne sont pas en reste avec des opportunités pour équiper leur quotidien, révélant un panorama entre défis internationaux, réflexions nationales et éclairs d'ingéniosité humaine.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Salut la team ! Votre coach est là pour la dose de motivation quotidienne. La météo annonce de la pluie (85% de chance) avec des températures douces, entre 11.7°C et 15.4°C. Ce n'est pas le soleil radieux, mais c'est une excellente occasion de tester votre détermination et de renforcer votre mental !
+
+Même sous la pluie, chaque goutte est une victoire si vous êtes bien équipé. Enfilez votre imperméable léger et une bonne paire de chaussures de running. L'indice UV est très bas (1.4), pas besoin de crème solaire. Pour l'heure idéale, je vous conseille de viser **l'après-midi, entre 13h00 et 16h00**. La température sera à son maximum et cela vous permettra de profiter au mieux de la lumière du jour avant le coucher du soleil à 17h32. Rappelez-vous : il n'y a pas de mauvaise météo, seulement de mauvais équipements. Allez, on se lance, chaque pas compte !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/b8762972-b929-11f1-bc6e-555a0aff87a4/w:1024/p:16x9/063-2284653642.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/sports/20261115-%C3%A9liminatoires-de-la-can-2027-qui-peut-se-qualifier-qui-est-en-danger-le-point-par-groupe" target="_blank">CAN 2027: Tensions et enjeux</a>
+                    </h3>
+                    <p class="article-summary">Les éliminatoires de la CAN 2027 sont en pleine effervescence, avec des équipes proches de la qualification et d'autres en grand danger.</p>
+                    <a href="https://www.france24.com/fr/sports/20261115-%C3%A9liminatoires-de-la-can-2027-qui-peut-se-qualifier-qui-est-en-danger-le-point-par-groupe" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/5fe985cc-e117-11f1-a652-3f371022a770/w:1024/p:16x9/FR-20261115-170539-171054-CS.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/vid%C3%A9o/20261115-en-isra%C3%ABl-la-formation-d-un-gouvernement-pi%C3%A9tine" target="_blank">Israël: Impasse politique</a>
+                    </h3>
+                    <p class="article-summary">La formation d'un nouveau gouvernement en Israël est au point mort, prolongeant l'incertitude politique dans la région.</p>
+                    <a href="https://www.france24.com/fr/vid%C3%A9o/20261115-en-isra%C3%ABl-la-formation-d-un-gouvernement-pi%C3%A9tine" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.lemde.fr/2026/11/15/60/0/1920/960/644/322/60/0/36d2bb2_upload-1-05impdz5sryg-cap-vignette-migrants.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lemonde.fr/international/video/2026/11/15/immigration-pres-de-1-500-migrants-sont-arrives-aux-iles-canaries-en-une-seule-journee_6811039_3210.html" target="_blank">Vague migratoire aux Canaries</a>
+                    </h3>
+                    <p class="article-summary">Les îles Canaries ont enregistré l'arrivée massive de près de 1 500 migrants en une seule journée, un défi humanitaire grandissant.</p>
+                    <a href="https://www.lemonde.fr/international/video/2026/11/15/immigration-pres-de-1-500-migrants-sont-arrives-aux-iles-canaries-en-une-seule-journee_6811039_3210.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/rfZTIhvEBUNwV6BAXBTX19Q0hy8=/0x0:1280x720/800x0/images/Le-maire-LR-de-Meaux-Jean-Francois-Cope-estime-qu-il-y-a-dans-la-realite-de-la-delinquance-une-part-extremement-importante-d-auteurs-qui-sont-des-Francais-issus-de-l-immigration-recente-s-2384373.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-maire-lr-de-meaux-jean-francois-cope-estime-qu-il-y-a-dans-la-realite-de-la-delinquance-une-part-extremement-importante-d-auteurs-qui-sont-des-francais-issus-de-l-immigration-recente-s_VN-202611150348.html" target="_blank">Délinquance: la thèse de Copé</a>
+                    </h3>
+                    <p class="article-summary">Jean-François Copé relance le débat sur la délinquance, pointant une part significative d'auteurs issus de l'immigration récente.</p>
+                    <a href="https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-maire-lr-de-meaux-jean-francois-cope-estime-qu-il-y-a-dans-la-realite-de-la-delinquance-une-part-extremement-importante-d-auteurs-qui-sont-des-francais-issus-de-l-immigration-recente-s_VN-202611150348.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://media.larepubliquedespyrenees.fr/31540192/1200x-1/22a9031.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.larepubliquedespyrenees.fr/sport/rugby/rugby-federale-3-josbaig-a-deploye-son-jeu-31540192.php" target="_blank">Rugby Fédérale 3: Josbaig brille</a>
+                    </h3>
+                    <p class="article-summary">En Fédérale 3, le club de Josbaig a démontré sa maîtrise du jeu lors de son dernier match, confirmant sa bonne forme.</p>
+                    <a href="https://www.larepubliquedespyrenees.fr/sport/rugby/rugby-federale-3-josbaig-a-deploye-son-jeu-31540192.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://images.lanouvellerepublique.fr/image/upload/v1794765181/6af9f4af0aaf460e238b45ce" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lanouvellerepublique.fr/chateauroux/regionale-1-sans-pitie-bracieux-enfonce-le-rac-chateauroux-dans-ses-doutes-1794766001" target="_blank">Rugby Régionale 1: Bracieux impitoyable</a>
+                    </h3>
+                    <p class="article-summary">Bracieux a dominé sans merci Châteauroux en Régionale 1, accentuant les difficultés de l'équipe adverse dans une rencontre clé.</p>
+                    <a href="https://www.lanouvellerepublique.fr/chateauroux/regionale-1-sans-pitie-bracieux-enfonce-le-rac-chateauroux-dans-ses-doutes-1794766001" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏆 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/SjtmWM-Vxwzrew_fVz_v0Z8XpR4=/3x25:1027x601/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-a-Utah-110-102-le-dimanche-15-novembre-2026-2384478.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-et-wembanyama-enchainent-une-12e-victoire-de-suite-dans-la-souffrance_AV-202611160097.html" target="_blank">Wembanyama: 12e victoire Spurs</a>
+                    </h3>
+                    <p class="article-summary">Les Spurs de Victor Wembanyama signent une impressionnante 12e victoire consécutive en NBA, malgré un match éprouvant.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-et-wembanyama-enchainent-une-12e-victoire-de-suite-dans-la-souffrance_AV-202611160097.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/gRa1H4Koz3KYsiuMX6qZ6WWgFe8=/0x59:2048x1211/800x0/images/Auriana-Lazraq-Khlass-lors-des-championnats-du-monde-d-heptathlon-le-19-septembre-2025-2261884.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html" target="_blank">Dopage: Lazraq Khlass suspendue</a>
+                    </h3>
+                    <p class="article-summary">L'heptathlète française Auriana Lazraq Khlass écope de 22 mois de suspension pour manquements répétés à ses obligations antidopage.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/H0FUvNUK_Khl05PUGhJBJ161UE4=/0x106:2048x1258/800x0/images/XV-de-France-le-13-novembre-2026-2383967.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rugby/championnat-des-nations/championnat-des-nations-le-xv-de-france-qualifie-pour-la-finale-si_AV-202611150343.html" target="_blank">XV de France: la finale en vue</a>
+                    </h3>
+                    <p class="article-summary">Le XV de France est en bonne position pour se qualifier pour la finale du Championnat des nations, sous certaines conditions de résultats.</p>
+                    <a href="https://rmcsport.bfmtv.com/rugby/championnat-des-nations/championnat-des-nations-le-xv-de-france-qualifie-pour-la-finale-si_AV-202611150343.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💡 Technologie</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://i.f1g.fr/media/cms/orig/2026/11/12/d590191d593faf6fb441e44dbdccc62e7d4a6a38fa3b67169ebc4fa459c86b20.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lefigaro.fr/bons-plans/high-tech/samsung-galaxy-s22-ultra-un-smartphone-haut-de-gamme-passe-a-300-c-est-le-bon-plan-du-jour-signe-cdiscount-20261115" target="_blank">Samsung S22 Ultra: le bon plan</a>
+                    </h3>
+                    <p class="article-summary">Le Samsung Galaxy S22 Ultra, un smartphone haut de gamme, est exceptionnellement proposé à 300 € chez Cdiscount.</p>
+                    <a href="https://www.lefigaro.fr/bons-plans/high-tech/samsung-galaxy-s22-ultra-un-smartphone-haut-de-gamme-passe-a-300-c-est-le-bon-plan-du-jour-signe-cdiscount-20261115" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/05/guide-airpods-apple.jpg?resize=1600,900&key=606f0de0" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.frandroid.com/guide-dachat/1995260_quels-modele-dairpods-choisir-notre-selection" target="_blank">AirPods: guide d'achat 2026</a>
+                    </h3>
+                    <p class="article-summary">Découvrez le guide complet pour choisir les AirPods Apple adaptés à votre budget parmi la gamme 2026, optimisant votre choix.</p>
+                    <a href="https://www.frandroid.com/guide-dachat/1995260_quels-modele-dairpods-choisir-notre-selection" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2025/07/BYD-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/15/la-chine-favorise-les-suv-enormes-leurope-les-petites-voitures-electriques/" target="_blank">Auto: Chine vs Europe</a>
+                    </h3>
+                    <p class="article-summary">Une divergence frappante apparaît dans les stratégies automobiles : la Chine privilégie les SUV géants, l'Europe les électriques compactes.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/15/la-chine-favorise-les-suv-enormes-leurope-les-petites-voitures-electriques/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🤯 Science & Insolite</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/10/forteresse-geante-image-satellite-archeologue-ecran-1280x853.jpeg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/15/en-regardant-des-images-satellites-un-archologue-decouvre-une-forteresse-geante-qui-pourrait-etre-une-capitale-oubliee/" target="_blank">Archéologie: capitale oubliée</a>
+                    </h3>
+                    <p class="article-summary">Un archéologue a découvert une immense forteresse via satellite, potentiellement une capitale antique inconnue, une avancée majeure.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/15/en-regardant-des-images-satellites-un-archologue-decouvre-une-forteresse-geante-qui-pourrait-etre-une-capitale-oubliee/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/04/Cerveau-6-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/15/depuis-son-operation-du-cerveau-il-voit-les-yeux-de-son-chat-sur-les-visages-humains/" target="_blank">Cerveau: une vision unique</a>
+                    </h3>
+                    <p class="article-summary">Après une opération, un homme voit les yeux de son chat sur les visages humains, un phénomène neurologique fascinant et rare.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/15/depuis-son-operation-du-cerveau-il-voit-les-yeux-de-son-chat-sur-les-visages-humains/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://sf2.autojournal.fr/wp-content/uploads/autojournal/2026/11/vw-beetle.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.autojournal.fr/actu/insolites-actu/volkswagen-coccinelle-carrossier-cabriolet-bentley-431431.html" target="_blank">Insolite: Coccinelle style Bentley</a>
+                    </h3>
+                    <p class="article-summary">Un carrossier transforme une Volkswagen Coccinelle en un cabriolet unique, avec un look inspiré de Bentley, créant la surprise.</p>
+                    <a href="https://www.autojournal.fr/actu/insolites-actu/volkswagen-coccinelle-carrossier-cabriolet-bentley-431431.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
