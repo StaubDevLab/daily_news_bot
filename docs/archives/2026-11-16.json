@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Marguerite",
-  "global_summary": "Aujourd'hui, l'actualité mondiale est marquée par des enjeux complexes, allant des tensions géopolitiques persistantes en Israël à une vague migratoire significative vers les îles Canaries. Sur le continent africain, la course aux qualifications pour la CAN 2027 bat son plein, avec des destins sportifs qui se jouent sur chaque match. En France, un débat sensible sur la délinquance et l'immigration récente refait surface, tandis que le monde du sport français est secoué par une suspension pour dopage. Un focus particulier est mis sur les performances exceptionnelles de Victor Wembanyama en NBA. \n\nCependant, la journée offre aussi son lot de découvertes inspirantes et insolites. Une incroyable découverte archéologique, la singularité d'un homme voyant des yeux de chat après une opération, et des innovations automobiles rappellent que le monde regorge de mystères et de créativité. Les amateurs de technologie ne sont pas en reste avec des opportunités pour équiper leur quotidien, révélant un panorama entre défis internationaux, réflexions nationales et éclairs d'ingéniosité humaine.",
-  "running_advice": "Salut la team ! Votre coach est là pour la dose de motivation quotidienne. La météo annonce de la pluie (85% de chance) avec des températures douces, entre 11.7°C et 15.4°C. Ce n'est pas le soleil radieux, mais c'est une excellente occasion de tester votre détermination et de renforcer votre mental !\n\nMême sous la pluie, chaque goutte est une victoire si vous êtes bien équipé. Enfilez votre imperméable léger et une bonne paire de chaussures de running. L'indice UV est très bas (1.4), pas besoin de crème solaire. Pour l'heure idéale, je vous conseille de viser **l'après-midi, entre 13h00 et 16h00**. La température sera à son maximum et cela vous permettra de profiter au mieux de la lumière du jour avant le coucher du soleil à 17h32. Rappelez-vous : il n'y a pas de mauvaise météo, seulement de mauvais équipements. Allez, on se lance, chaque pas compte !",
-  "weather_string": "🌧️ Pluie (11.7°C / 15.4°C)",
+  "global_summary": "La scène mondiale est marquée par des enjeux complexes ce jour. En Afrique, les éliminatoires de la CAN 2027 tiennent en haleine les supporters, tandis qu'en Israël, la formation du gouvernement piétine. La crise migratoire s'intensifie aux îles Canaries avec un afflux record de près de 1 500 personnes en une seule journée. \n\nEn France, le débat politique s'anime avec les déclarations de Jean-François Copé sur la délinquance, et l'actualité judiciaire en Gironde capte l'attention. Côté sport, Victor Wembanyama continue d'impressionner en NBA, mais l'athlétisme français fait face à une suspension pour dopage. Par ailleurs, des innovations tech alléchantes et des découvertes insolites viennent ponctuer cette journée riche en informations.",
+  "running_advice": "Préparez-vous à une session running revigorante, mais prévoyez les équipements adaptés ! Les températures douces, entre 11.2°C et 15.7°C, sont idéales pour l'effort. Cependant, avec 85% de probabilité de pluie, attendez-vous à quelques gouttes. L'indice UV est très bas (1.4), donc pas de souci pour le soleil.\n\nLe meilleur moment pour chausser vos baskets serait juste après le lever du soleil à 08:01 ou en fin d'après-midi avant 17:32, en vérifiant si possible un bulletin météo local pour optimiser votre fenêtre sans pluie intense. Mettez des vêtements techniques et imperméables, et rappelez-vous que chaque kilomètre sous la pluie renforce votre mental. Allez, on se motive et on va chercher cette dose d'énergie !",
+  "weather_string": "🌧️ Pluie (11.2°C / 15.7°C)",
   "weather_stats": {
-    "temp": "15.4°C",
+    "temp": "15.7°C",
     "rain": "85%",
     "uv": "1.4"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "CAN 2027: Tensions et enjeux",
-          "summary": "Les éliminatoires de la CAN 2027 sont en pleine effervescence, avec des équipes proches de la qualification et d'autres en grand danger.",
+          "title": "CAN 2027 : Qualifications brûlantes !",
+          "summary": "La 4e journée des éliminatoires de la CAN 2027 révèle déjà qui peut se qualifier et qui est en danger.",
           "url": "https://www.france24.com/fr/sports/20261115-%C3%A9liminatoires-de-la-can-2027-qui-peut-se-qualifier-qui-est-en-danger-le-point-par-groupe",
           "image": "https://s.france24.com/media/display/b8762972-b929-11f1-bc6e-555a0aff87a4/w:1024/p:16x9/063-2284653642.jpg"
         },
         {
-          "title": "Israël: Impasse politique",
-          "summary": "La formation d'un nouveau gouvernement en Israël est au point mort, prolongeant l'incertitude politique dans la région.",
+          "title": "Israël : Formation du gouvernement piétine",
+          "summary": "Les négociations pour former un nouveau gouvernement en Israël rencontrent des difficultés, prolongeant l'incertitude politique.",
           "url": "https://www.france24.com/fr/vid%C3%A9o/20261115-en-isra%C3%ABl-la-formation-d-un-gouvernement-pi%C3%A9tine",
           "image": "https://s.france24.com/media/display/5fe985cc-e117-11f1-a652-3f371022a770/w:1024/p:16x9/FR-20261115-170539-171054-CS.jpg"
         },
         {
-          "title": "Vague migratoire aux Canaries",
-          "summary": "Les îles Canaries ont enregistré l'arrivée massive de près de 1 500 migrants en une seule journée, un défi humanitaire grandissant.",
+          "title": "Migrants : Afflux record aux Canaries",
+          "summary": "Près de 1 500 migrants sont arrivés aux îles Canaries en une journée, intensifiant la crise migratoire.",
           "url": "https://www.lemonde.fr/international/video/2026/11/15/immigration-pres-de-1-500-migrants-sont-arrives-aux-iles-canaries-en-une-seule-journee_6811039_3210.html",
           "image": "https://img.lemde.fr/2026/11/15/60/0/1920/960/644/322/60/0/36d2bb2_upload-1-05impdz5sryg-cap-vignette-migrants.jpg"
         }
@@ -38,94 +38,118 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Délinquance: la thèse de Copé",
-          "summary": "Jean-François Copé relance le débat sur la délinquance, pointant une part significative d'auteurs issus de l'immigration récente.",
+          "title": "Délinquance : L'avis de Jean-François Copé",
+          "summary": "Le maire LR de Meaux s'exprime sur la part des Français issus de l'immigration dans la délinquance.",
           "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-le-maire-lr-de-meaux-jean-francois-cope-estime-qu-il-y-a-dans-la-realite-de-la-delinquance-une-part-extremement-importante-d-auteurs-qui-sont-des-francais-issus-de-l-immigration-recente-s_VN-202611150348.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/rfZTIhvEBUNwV6BAXBTX19Q0hy8=/0x0:1280x720/800x0/images/Le-maire-LR-de-Meaux-Jean-Francois-Cope-estime-qu-il-y-a-dans-la-realite-de-la-delinquance-une-part-extremement-importante-d-auteurs-qui-sont-des-Francais-issus-de-l-immigration-recente-s-2384373.jpg"
         },
         {
-          "title": "Rugby Fédérale 3: Josbaig brille",
-          "summary": "En Fédérale 3, le club de Josbaig a démontré sa maîtrise du jeu lors de son dernier match, confirmant sa bonne forme.",
-          "url": "https://www.larepubliquedespyrenees.fr/sport/rugby/rugby-federale-3-josbaig-a-deploye-son-jeu-31540192.php",
-          "image": "https://media.larepubliquedespyrenees.fr/31540192/1200x-1/22a9031.jpg"
+          "title": "Affaire Maylis Daubon : Le procès reprend",
+          "summary": "Accusée d'avoir empoisonné ses filles et causé la mort de l'une d'elles, la mère de famille repasse devant les juges.",
+          "url": "https://www.sudouest.fr/landes/mont-de-marsan/affaire-maylis-daubon-accusee-d-avoir-empoisonne-ses-filles-et-cause-la-mort-de-l-une-d-elles-la-mere-de-famille-de-nouveau-devant-les-juges-31514770.php",
+          "image": null
         },
         {
-          "title": "Rugby Régionale 1: Bracieux impitoyable",
-          "summary": "Bracieux a dominé sans merci Châteauroux en Régionale 1, accentuant les difficultés de l'équipe adverse dans une rencontre clé.",
-          "url": "https://www.lanouvellerepublique.fr/chateauroux/regionale-1-sans-pitie-bracieux-enfonce-le-rac-chateauroux-dans-ses-doutes-1794766001",
-          "image": "https://images.lanouvellerepublique.fr/image/upload/v1794765181/6af9f4af0aaf460e238b45ce"
+          "title": "Gironde : Surveillance après incendies",
+          "summary": "Après les incendies, le Siaebvelg renforce la surveillance des cours d'eau et nappes phréatiques en Gironde.",
+          "url": "https://www.sudouest.fr/gironde/saumos/gironde-apres-les-incendies-le-siaebvelg-renforce-sa-surveillance-des-cours-d-eau-et-des-nappes-phreatiques-31533031.php",
+          "image": null
         }
       ]
     },
     {
-      "label": "Sport",
-      "emoji": "🏆",
+      "label": "Tech",
+      "emoji": "💻",
       "articles": [
         {
-          "title": "Wembanyama: 12e victoire Spurs",
-          "summary": "Les Spurs de Victor Wembanyama signent une impressionnante 12e victoire consécutive en NBA, malgré un match éprouvant.",
-          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-et-wembanyama-enchainent-une-12e-victoire-de-suite-dans-la-souffrance_AV-202611160097.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/SjtmWM-Vxwzrew_fVz_v0Z8XpR4=/3x25:1027x601/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-a-Utah-110-102-le-dimanche-15-novembre-2026-2384478.jpg"
-        },
-        {
-          "title": "Dopage: Lazraq Khlass suspendue",
-          "summary": "L'heptathlète française Auriana Lazraq Khlass écope de 22 mois de suspension pour manquements répétés à ses obligations antidopage.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gRa1H4Koz3KYsiuMX6qZ6WWgFe8=/0x59:2048x1211/800x0/images/Auriana-Lazraq-Khlass-lors-des-championnats-du-monde-d-heptathlon-le-19-septembre-2025-2261884.jpg"
-        },
-        {
-          "title": "XV de France: la finale en vue",
-          "summary": "Le XV de France est en bonne position pour se qualifier pour la finale du Championnat des nations, sous certaines conditions de résultats.",
-          "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/championnat-des-nations-le-xv-de-france-qualifie-pour-la-finale-si_AV-202611150343.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/H0FUvNUK_Khl05PUGhJBJ161UE4=/0x106:2048x1258/800x0/images/XV-de-France-le-13-novembre-2026-2383967.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Technologie",
-      "emoji": "💡",
-      "articles": [
-        {
-          "title": "Samsung S22 Ultra: le bon plan",
-          "summary": "Le Samsung Galaxy S22 Ultra, un smartphone haut de gamme, est exceptionnellement proposé à 300 € chez Cdiscount.",
+          "title": "Samsung S22 Ultra : Bon plan à 300€",
+          "summary": "Le Samsung Galaxy S22 Ultra, un smartphone haut de gamme, est proposé à un prix exceptionnel chez Cdiscount.",
           "url": "https://www.lefigaro.fr/bons-plans/high-tech/samsung-galaxy-s22-ultra-un-smartphone-haut-de-gamme-passe-a-300-c-est-le-bon-plan-du-jour-signe-cdiscount-20261115",
           "image": "https://i.f1g.fr/media/cms/orig/2026/11/12/d590191d593faf6fb441e44dbdccc62e7d4a6a38fa3b67169ebc4fa459c86b20.jpg"
         },
         {
-          "title": "AirPods: guide d'achat 2026",
-          "summary": "Découvrez le guide complet pour choisir les AirPods Apple adaptés à votre budget parmi la gamme 2026, optimisant votre choix.",
+          "title": "AirPods 2026 : Guide d'achat comparatif",
+          "summary": "Un comparatif détaillé des AirPods d'Apple pour vous aider à choisir le modèle parfait selon votre budget.",
           "url": "https://www.frandroid.com/guide-dachat/1995260_quels-modele-dairpods-choisir-notre-selection",
           "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2025/05/guide-airpods-apple.jpg?resize=1600,900&key=606f0de0"
         },
         {
-          "title": "Auto: Chine vs Europe",
-          "summary": "Une divergence frappante apparaît dans les stratégies automobiles : la Chine privilégie les SUV géants, l'Europe les électriques compactes.",
+          "title": "Chine : L'essor des SUV électriques",
+          "summary": "La Chine favorise les SUV électriques massifs, contrastant avec la tendance européenne vers des modèles plus compacts.",
           "url": "https://www.journaldugeek.com/2026/11/15/la-chine-favorise-les-suv-enormes-leurope-les-petites-voitures-electriques/",
           "image": "https://www.journaldugeek.com/app/uploads/2025/07/BYD-1280x853.jpg"
         }
       ]
     },
     {
-      "label": "Science & Insolite",
-      "emoji": "🤯",
+      "label": "Business & Société",
+      "emoji": "📈",
       "articles": [
         {
-          "title": "Archéologie: capitale oubliée",
-          "summary": "Un archéologue a découvert une immense forteresse via satellite, potentiellement une capitale antique inconnue, une avancée majeure.",
-          "url": "https://www.journaldugeek.com/2026/11/15/en-regardant-des-images-satellites-un-archologue-decouvre-une-forteresse-geante-qui-pourrait-etre-une-capitale-oubliee/",
+          "title": "Sury-le-Comtal : Salim réinvente son bar",
+          "summary": "Salim transforme son bar pour attirer un nouveau public, témoignant de l'entrepreneuriat local dynamique.",
+          "url": "https://www.leprogres.fr/economie/2026/11/15/salim-transforme-son-bar-pour-attirer-un-nouveau-public",
+          "image": "https://cdn-s-www.leprogres.fr/images/688F8C0C-8BC4-4D95-9B4C-52EE893E2427/MF_contenu/salim-transfor-me-son-bar-pour-attirer-un-nouveau-public-1794766074.jpg"
+        },
+        {
+          "title": "Cartes sportives : La folie du hobby",
+          "summary": "Plongez dans le monde en plein essor des cartes sportives de collection, un hobby qui explose en France.",
+          "url": "https://rmcsport.bfmtv.com/societe/video-cartes-sportives-plongee-dans-le-hobby-en-plein-essor_VN-202611150405.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Vv5kvBy92BEvhzjnb_0NNFLQK2k=/0x0:1280x720/800x0/images/Cartes-sportives-Plongee-dans-le-HOBBY-en-plein-essor-2384420.jpg"
+        },
+        {
+          "title": "Témoignage : L'espoir d'une centenaire",
+          "summary": "À 102 ans, la grand-mère de Christophe Gleizes \"n'a plus aucun espoir de voir\" son proche.",
+          "url": "https://rmcsport.bfmtv.com/societe/il-faudrait-un-miracle-agee-de-102-ans-la-grand-mere-de-christophe-gleizes-n-a-plus-aucun-espoir-de-le-voir_AV-202611090479.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/LlLFMPy6cyuXJ1JJRG9__mz_fU4=/0x106:2048x1258/800x0/images/Christophe-Gleizes-2288251.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Insolite",
+      "emoji": "🤩",
+      "articles": [
+        {
+          "title": "Archéologie : Une forteresse oubliée découverte",
+          "summary": "Un archéologue révèle une forteresse géante, potentielle capitale perdue, grâce à des images satellites.",
+          "url": "https://www.journaldugeek.com/2026/11/15/en-regardant-des-images-satellites-un-archeologue-decouvre-une-forteresse-geante-qui-pourrait-etre-une-capitale-oubliee/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/10/forteresse-geante-image-satellite-archeologue-ecran-1280x853.jpeg"
         },
         {
-          "title": "Cerveau: une vision unique",
-          "summary": "Après une opération, un homme voit les yeux de son chat sur les visages humains, un phénomène neurologique fascinant et rare.",
-          "url": "https://www.journaldugeek.com/2026/11/15/depuis-son-operation-du-cerveau-il-voit-les-yeux-de-son-chat-sur-les-visages-humains/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Cerveau-6-1280x853.jpg"
-        },
-        {
-          "title": "Insolite: Coccinelle style Bentley",
-          "summary": "Un carrossier transforme une Volkswagen Coccinelle en un cabriolet unique, avec un look inspiré de Bentley, créant la surprise.",
+          "title": "Coccinelle : De VW à Bentley insolite",
+          "summary": "Un carrossier transforme une Volkswagen Coccinelle en un cabriolet unique aux allures de Bentley.",
           "url": "https://www.autojournal.fr/actu/insolites-actu/volkswagen-coccinelle-carrossier-cabriolet-bentley-431431.html",
           "image": "https://sf2.autojournal.fr/wp-content/uploads/autojournal/2026/11/vw-beetle.jpg"
+        },
+        {
+          "title": "Cerveau : Voir des yeux de chat partout",
+          "summary": "Suite à une opération, un homme perçoit étrangement les yeux de son chat sur les visages humains.",
+          "url": "https://www.journaldugeek.com/2026/11/15/depuis-son-operation-du-cerveau-il-voit-les-yeux-de-son-chat-sur-les-visages-humains/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/04/Cerveau-6-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama : 12e victoire consécutive !",
+          "summary": "Les Spurs et Victor Wembanyama enchaînent une 12e victoire de suite en NBA, confirmant leur excellente forme.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-et-wembanyama-enchainent-une-12e-victoire-de-suite-dans-la-souffrance_AV-202611160097.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/SjtmWM-Vxwzrew_fVz_v0Z8XpR4=/3x25:1027x601/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-a-Utah-110-102-le-dimanche-15-novembre-2026-2384478.jpg"
+        },
+        {
+          "title": "Dopage : Lazraq Khlass suspendue 22 mois",
+          "summary": "L'heptathlète française Auriana Lazraq Khlass écope de 22 mois de suspension pour manquements à l'antidopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gRa1H4Koz3KYsiuMX6qZ6WWgFe8=/0x59:2048x1211/800x0/images/Auriana-Lazraq-Khlass-lors-des-championnats-du-monde-d-heptathlon-le-19-septembre-2025-2261884.jpg"
+        },
+        {
+          "title": "Rugby : Le XV de France en finale ?",
+          "summary": "Le XV de France est en bonne voie pour la finale du Championnat des nations, avec des scénarios favorables.",
+          "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/championnat-des-nations-le-xv-de-france-qualifie-pour-la-finale-si_AV-202611150343.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/H0FUvNUK_Khl05PUGhJBJ161UE4=/0x106:2048x1258/800x0/images/XV-de-France-le-13-novembre-2026-2383967.jpg"
         }
       ]
     }
