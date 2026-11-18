@@ -1,12 +1,12 @@
 {
   "ephemeride": "Sainte Aude",
-  "global_summary": "L'actualité de ce jour oscille entre les incertitudes économiques mondiales, comme la croissance décevante du PIB colombien, et des spéculations géopolitiques majeures, notamment une potentielle rencontre entre Kim Jong-Un et Donald Trump. En France, les mobilisations du 17 novembre témoignent d'une colère persistante des fonctionnaires, tandis que le système de santé et la vie politique locale sont sous tension. Le débat sur la \"post-vérité\" marque également les esprits.\n\nLe secteur technologique n'est pas en reste, avec une panne iCloud affectant des millions d'utilisateurs et l'attente autour des nouveaux produits Xiaomi. Côté business, le retour potentiel de Jensen Huang à la tête de Nvidia fait les gros titres. Dans le monde du sport, des affaires de dopage et de justice, comme l'emprisonnement risqué d'un basketteur pour trafic de cannabis, côtoient des polémiques en rugby, offrant un panorama contrasté entre performances, controverses et défis sociétaux.",
-  "running_advice": "Aujourd'hui, Sainte Aude nous apporte une météo… pluvieuse ! Avec 13.1°C à 16°C et 100% de pluie, on pourrait être tenté de rester au chaud. Mais un vrai champion ne recule devant rien ! Équipe-toi d'une bonne veste imperméable, de chaussures adaptées et va affronter les éléments. L'indice UV est bas (2.15), donc pas besoin de crème solaire, juste une motivation à toute épreuve ! Le créneau idéal ? Juste après le lever du soleil à 8h04, pour un départ énergique, ou en milieu d'après-midi, vers 15h, pour profiter d'une lumière qui décline doucement. Transforme cette pluie en une opportunité de te forger un mental d'acier et de te prouver que tu es plus fort que les éléments. Chaque goutte est une étape vers ton objectif !",
-  "weather_string": "🌧️ Pluie (13.1°C / 16°C)",
+  "global_summary": "L'actualité de ce jour présente un kaléidoscope d'événements, mêlant des tensions sociales persistantes en France, des incertitudes économiques mondiales et des rebondissements inattendus dans le monde de la tech. Les mobilisations, bien qu'en baisse, témoignent d'une colère intacte dans la fonction publique, tandis que des défis de taille pèsent sur nos services de santé. Sur le plan international, les tractations géopolitiques se poursuivent, avec des regards tournés vers d'éventuelles rencontres diplomatiques majeures, et une réflexion sur l'ère de la post-vérité s'invite au débat.\n\nLe domaine technologique n'est pas en reste, entre innovations produit et pannes de services, sans oublier le retour surprise d'un PDG emblématique. Côté sport, l'action est intense : des exploits de la NBA aux controverses judiciaires et aux hommages émouvants, l'émotion et les enjeux sont omniprésents. Cette journée est donc marquée par une dynamique hétérogène, où les défis sociétaux et les avancées technologiques côtoient les drames humains et les exploits sportifs, invitant à une lecture attentive des événements.",
+  "running_advice": "Salut l'athlète ! Pas de météo précise sous la main pour aujourd'hui, mais ça ne va pas freiner notre élan, n'est-ce pas ? Chaque jour est une opportunité de bouger, de te dépasser et de te sentir vivant ! Peu importe les caprices du ciel, ton corps est prêt. Je te conseille d'écouter tes sensations et d'adapter ta tenue, que le soleil se montre ou que les nuages fassent grise mine. L'heure idéale pour courir reste celle où tu te sens le plus en forme et le plus motivé, entre le lever et le coucher du soleil. Si tu as l'impression que le soleil va percer, n'hésite pas à prendre une casquette et un peu de crème solaire, mieux vaut prévenir ! L'essentiel est de sortir, de respirer et de te faire plaisir. On lâche rien ! Go !",
+  "weather_string": "undefined undefined (undefined°C / undefined°C)",
   "weather_stats": {
-    "temp": "16°C",
-    "rain": "100%",
-    "uv": "2.15"
+    "temp": "undefined°C",
+    "rain": "undefined%",
+    "uv": "undefined"
   },
   "categories": [
     {
@@ -15,19 +15,19 @@
       "articles": [
         {
           "title": "Colombie: PIB en deçà des attentes",
-          "summary": "La croissance économique de la Colombie au T3 déçoit, marquant un défi pour la région.",
+          "summary": "Le PIB colombien n'a progressé que de 0,5% au T3, signalant une économie en ralentissement. Analyse des implications.",
           "url": "https://fr.investing.com/news/world-news/le-pib-de-la-colombie-au-troisieme-trimestre-croit-de-05-en-dessous-des-attentes-3701067",
           "image": "https://content-media.investing.com/news/bogota_colombia_M_1440051915.jpg"
         },
         {
-          "title": "Sommet Trump-Kim en Chine ?",
-          "summary": "Des spéculations intenses entourent une possible rencontre entre Kim Jong-Un et Donald Trump en Chine.",
+          "title": "Rencontre Trump-Kim en Chine ?",
+          "summary": "La rumeur d'une potentielle rencontre entre Kim Jong-Un et Donald Trump en Chine agite la scène géopolitique mondiale.",
           "url": "https://www.franceinfo.fr/monde/coree-du-nord/kim-jong-un/kim-jong-un-va-t-il-rencontrer-donald-trump-en-chine_8286974.html",
           "image": "https://www.franceinfo.fr/pictures/h2mNQ1S297YifCnYSbatHuTEzNg/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc953a437a2675673012.jpg"
         },
         {
           "title": "La fin de la post-vérité ?",
-          "summary": "Après une décennie, une réflexion s'engage sur la \"post-vérité\" et son impact sur l'information.",
+          "summary": "La fin de la post-vérité? Une réflexion s'engage sur ces dix années d'information biaisée. Est-ce le tournant?",
           "url": "https://www.franceinfo.fr/replay-radio/complorama/la-fin-de-10-ans-de-post-verite_8286962.html",
           "image": "https://www.franceinfo.fr/pictures/LgPcrnJh8iPMwgbbaOTYg-6wr6Y/0x0:1080x1920/fit-in/432x243/filters:upscale():fill(blur):format(jpg)/2026/11/17/6afc93760befb493712060.jpg"
         }
@@ -38,44 +38,44 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Fonctionnaires en colère, mobilisation en baisse",
-          "summary": "Malgré une affluence moindre, la colère des fonctionnaires persiste après les manifestations du 17 novembre.",
+          "title": "Colère des fonctionnaires intacte à Mulhouse",
+          "summary": "Malgré une mobilisation en baisse, la colère des fonctionnaires persiste à Mulhouse face aux enjeux sociaux actuels.",
           "url": "https://www.dna.fr/education/2026/11/17/mobilisation-en-baisse-mais-la-colere-des-fonctionnaires-est-intacte-a-mulhouse",
           "image": "https://cdn-s-www.dna.fr/images/454D6B89-6C24-470B-AF03-D9604CB80962/NW_listB/manifestation-du-17-novembre-une-mobilisation-en-baisse-mais-une-colere-des-fonctionnaires-intacte-1794938619.jpg"
         },
         {
-          "title": "Souffrance d'un jeune élu RN",
-          "summary": "Un jeune élu du Rassemblement National en Bretagne dénonce un calvaire et des menaces.",
-          "url": "https://www.lejdd.fr/politique/elouan-on-va-eteindre-ta-flamme-le-calvaire-dun-jeune-elu-rn-en-bretagne-189024",
-          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/17/18/e8521b6b-37a5-46ce-b14b-c5a9ed54c994.jpeg?VersionId=B.g9ddEukTWkc.jkZ2O3_DvbNmII_GLw"
-        },
-        {
-          "title": "Orthopédie saturée au CHU Trousseau",
-          "summary": "Le CHU de Tours fait face à une saturation de son service orthopédie, rallongeant les délais d'opération.",
+          "title": "Saturation de l'orthopédie au CHU de Tours",
+          "summary": "L'orthopédie du CHU Trousseau de Tours est saturée. Les délais d'attente s'allongent considérablement pour les opérations.",
           "url": "https://www.lanouvellerepublique.fr/tours/quatre-ou-cinq-jours-avant-une-operation-c-est-la-norme-a-tours-l-orthopedie-sature-au-chu-trousseau-1794938685",
           "image": "https://images.lanouvellerepublique.fr/image/upload/v1794937493/6afc973c28e93ff5438b4711"
+        },
+        {
+          "title": "Calvaire d'un jeune élu RN en Bretagne",
+          "summary": "Un jeune élu RN en Bretagne dénonce le calvaire du harcèlement dont il est victime. Un témoignage alarmant.",
+          "url": "https://www.lejdd.fr/politique/elouan-on-va-eteindre-ta-flamme-le-calvaire-dun-jeune-elu-rn-en-bretagne-189024",
+          "image": "https://resize-lejdd.lanmedia.fr/var/jdd/public/styles/paysage/public/media/image/2026/11/17/18/e8521b6b-37a5-46ce-b14b-c5a9ed54c994.jpeg?VersionId=B.g9ddEukTWkc.jkZ2O3_DvbNmII_GLw"
         }
       ]
     },
     {
       "label": "Tech",
-      "emoji": "💻",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Panne iCloud: comptes Apple impactés",
-          "summary": "Une panne majeure sur iCloud prive de nombreux utilisateurs de l'accès à leur compte Apple.",
-          "url": "https://www.numerama.com/tech/2377281-une-panne-icloud-prive-des-utilisateurs-de-leur-compte-apple-voici-ce-que-lon-sait.html",
-          "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/07/design-sans-titre-2026-07-02t115826291.jpg?resize=1600,900&key=1e209ad7"
-        },
-        {
-          "title": "Xiaomi 18 Pro: écran arrière intelligent",
-          "summary": "Le nouveau Xiaomi 18 Pro se distingue par son écran arrière innovant et son double capteur Leica.",
+          "title": "Xiaomi 18 Pro/Max : double capteur 200MP",
+          "summary": "Découvrez les Xiaomi 18 Pro et Pro Max : écran arrière intelligent, double capteur Leica 200MP. Prix dès 1399,90€.",
           "url": "https://www.planet-sansfil.com/telephonie/xiaomi-18-pro-pro-max-ecran-arriere-leica-prix/",
           "image": "https://www.planet-sansfil.com/wp-content/uploads/2026/11/Xiaomi-18-Pro.webp"
         },
         {
-          "title": "Black Friday: Friteuse Ninja en promo",
-          "summary": "La friteuse sans huile Ninja Double Stack XL est proposée à prix réduit pour le Black Friday.",
+          "title": "Panne iCloud: utilisateurs privés de compte Apple",
+          "summary": "Une panne iCloud impacte de nombreux utilisateurs, les privant d'accès à leur compte Apple. Ce que l'on sait.",
+          "url": "https://www.numerama.com/tech/2377281-une-panne-icloud-prive-des-utilisateurs-de-leur-compte-apple-voici-ce-que-lon-sait.html",
+          "image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/07/design-sans-titre-2026-07-02t115826291.jpg?resize=1600,900&key=1e209ad7"
+        },
+        {
+          "title": "Black Friday: Friteuse sans huile Ninja en promo",
+          "summary": "Black Friday: La friteuse Ninja Double Stack XL (9,5 L) est à 169,99€. Profitez d'une réduction de 37%.",
           "url": "https://www.lesnumeriques.com/airfryer/black-friday-2026-la-friteuse-sans-huile-ninja-double-stack-xl-9-5-l-est-a-169-99-37-n267774.html",
           "image": "https://cdn.lesnumeriques.com/optim/news/26/267774/124bf095-black-friday-2026-la-friteuse-sans-huile-ninja-double-stack-xl-9-5-l-est-a-169-99-37__800_800__404-0-2604-2200.jpg"
         }
@@ -83,13 +83,25 @@
     },
     {
       "label": "Business",
-      "emoji": "💰",
+      "emoji": "💼",
       "articles": [
         {
-          "title": "Crédit étudiant : plus grande ouverture",
-          "summary": "SLM Corp et TD Cowen discutent d'une plus grande accessibilité au crédit étudiant lors d'une conférence.",
+          "title": "Nvidia: Jensen Huang prêt à reprendre la tête",
+          "summary": "L'ex-PDG de Nvidia, Jensen Huang, se dit ouvert à reprendre ses fonctions. Un retour rapide après sa démission.",
+          "url": "https://www.franceinfo.fr/internet/nvidia/je-serais-honore-de-reprendre-mes-fonctions-de-pdg-l-ex-patron-de-nvidia-jensen-huang-se-dit-ouvert-a-un-retour-a-la-tete-de-l-entreprise-cinq-jours-apres-sa-demission_8286938.html",
+          "image": "https://www.franceinfo.fr/pictures/n1W8q6WZebGmS9RRArZJBemsljI/0x0:1024x576/432x243/filters:format(jpg)/2026/11/17/6afc9566f122b192293992.jpg"
+        },
+        {
+          "title": "Ouverture dans le crédit étudiant",
+          "summary": "SLM Corp explore une plus grande ouverture dans le crédit étudiant lors de la conférence TD Cowen. Une perspective clé.",
           "url": "https://fr.investing.com/news/transcripts/slm-corp-a-la-conference-td-cowen--une-plus-grande-ouverture-dans-le-credit-etudiant-93CH-3701073",
           "image": "https://content-media.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg"
+        },
+        {
+          "title": "Mobilisation Avignon: la motivation perdure",
+          "summary": "Avignon: La mobilisation du 17 novembre est en baisse, mais l'ardeur des participants pour leurs revendications persiste.",
+          "url": "https://www.ledauphine.com/economie/2026/11/17/mobilisation-du-17-novembre-un-mouvement-en-baisse-mais-la-motivation-perdure",
+          "image": "https://cdn-s-www.ledauphine.com/images/F723CB6C-B756-45C3-AA1B-9FBFF536A37/NW_listB/mobilisation-du-17-novembre-un-mouvement-en-baisse-mais-la-motivation-perdure-1794937008.jpg"
         }
       ]
     },
@@ -98,22 +110,22 @@
       "emoji": "📍",
       "articles": [
         {
-          "title": "Bordeaux: TikToker condamné",
-          "summary": "L'animateur d'un compte TikTok bordelais est condamné pour des appels à la violence.",
+          "title": "TikTok: animateur condamné à Bordeaux",
+          "summary": "À Bordeaux, un animateur TikTok condamné pour ses appels « au grand nettoyage » lors de manifestations. Justice rendue.",
           "url": "https://www.sudouest.fr/gironde/bordeaux/manifestations-a-bordeaux-l-animateur-d-un-compte-tiktok-condamne-pour-ses-appels-au-grand-nettoyage-31568603.php",
-          "image": ""
+          "image": null
         },
         {
-          "title": "Lot-et-Garonne: Pêcheurs et gendarmes unis",
-          "summary": "Pêcheurs et sauveteurs collaborent avec la gendarmerie pour retrouver des disparus dans le fleuve.",
+          "title": "Recherche de disparus en Lot-et-Garonne",
+          "summary": "Lot-et-Garonne: Pêcheurs, sauveteurs et gendarmerie unissent leurs forces pour retrouver les disparus dans le fleuve. Grande mobilisation.",
           "url": "https://www.sudouest.fr/lot-et-garonne/couthures-sur-garonne/lot-et-garonne-pecheurs-et-sauveteurs-locaux-s-allient-a-la-gendarmerie-pour-retrouver-les-disparus-dans-le-fleuve-31557573.php",
-          "image": ""
+          "image": null
         },
         {
-          "title": "Rochefort: Nuits agitées, compromis cherché",
-          "summary": "Riverains, mairie et cafetier de Rochefort cherchent un accord après des nuits agitées avenue La Fayette.",
+          "title": "Nuits agitées à Rochefort",
+          "summary": "Rochefort: Nuits agitées avenue La Fayette. Riverains, mairie et cafetier négocient un compromis. Une solution est attendue.",
           "url": "https://www.sudouest.fr/charente-maritime/rochefort-nuits-agitées-avenue-la-fayette-riverains-mairie-et-cafetier-en-quete-d-un-compromis-31536631.php",
-          "image": ""
+          "image": null
         }
       ]
     },
@@ -122,21 +134,15 @@
       "emoji": "🎮",
       "articles": [
         {
-          "title": "Jensen Huang veut reprendre Nvidia",
-          "summary": "L'ex-patron de Nvidia Jensen Huang se dit prêt à reprendre la tête de l'entreprise si demandé.",
-          "url": "https://www.journaldugeek.com/2026/11/17/nvidia-a-ete-loeuvre-de-ma-vie-jensen-huang-annonce-quil-reprendra-les-renes-de-lentreprise-si-on-le-lui-demande/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/11/jensen-huang-ceo-nvidia_1920x1280-1280x853.jpg"
-        },
-        {
-          "title": "Artemis II: L'épreuve effrayante d'un astronaute",
-          "summary": "Un astronaute d'Artemis II partage son expérience d'une épreuve terrifiante avant le décollage lunaire.",
+          "title": "Artemis II: un astronaute raconte sa peur",
+          "summary": "Un astronaute d'Artemis II révèle ses peurs et les épreuves intenses vécues avant son vol vers la Lune.",
           "url": "https://www.journaldugeek.com/2026/11/17/cest-peut-etre-la-chose-la-plus-effrayante-que-jaie-jamais-entendue-astronautes-dartemis-ii-raconte-epreuves-plus-difficiles-vie-avant-decoller-lune/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/11/Victor-Glover-1280x853.jpg"
         },
         {
-          "title": "Game Awards 2026: Nommés et votes",
-          "summary": "La liste complète des nommés aux Game Awards 2026 est révélée, les votes sont ouverts.",
-          "url": "https://www.journaldugeek.com/2026/11/17/game-awards-2026-la-liste-complete-des-nommes-et-comment-voter-pour-vos-jeux-preferes/",
+          "title": "Game Awards 2026: découvrez les nommés",
+          "summary": "Game Awards 2026: La liste des nommés est là! Votez pour vos jeux préférés et soutenez-les dès maintenant.",
+          "url": "https://www.journaldugeek.com/2026/11/17/game-awards-2026-la-liste-complete-des-nommes-et-comment-voter-pour-vos-jeux-preferees/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/11/cover-game-awards-gta6-vs-zelda-tga-1-1280x720.jpg"
         }
       ]
@@ -146,22 +152,22 @@
       "emoji": "🏆",
       "articles": [
         {
-          "title": "Basketteur risque prison pour cannabis",
-          "summary": "Un basketteur américain encourt la perpétuité au Nigeria pour trafic de grande quantité de cannabis.",
+          "title": "Wembanyama: 12e victoire consécutive pour les Spurs",
+          "summary": "Wembanyama et les Spurs remportent une 12e victoire consécutive en NBA. Une performance tenace malgré un match éprouvant.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-les-spurs-et-wembanyama-enchainent-une-12e-victoire-de-suite-dans-la-souffrance_AV-202611160097.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/SjtmWM-Vxwzrew_fVz_v0Z8XpR4=/3x25:1027x601/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-a-Utah-110-102-le-dimanche-15-novembre-2026-2384478.jpg"
+        },
+        {
+          "title": "Basketteur américain risque la prison au Nigeria",
+          "summary": "Un basketteur américain risque la prison à perpétuité au Nigeria pour trafic de cannabis. Une lourde peine envisagée.",
           "url": "https://rmcsport.bfmtv.com/basket/un-basketteur-americain-risque-la-prison-a-perpetuite-pour-avoir-introduit-du-cannabis-en-grande-quantite-au-nigeria_AN-202611170396.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/OumbKkWMNLP8p8YxIYkbhVxeA4M=/4x3:1252x705/800x0/images/Image-dillustration-basket-380698.jpg"
         },
         {
-          "title": "Doping: Heptathlète française suspendue",
-          "summary": "Auriana Lazraq Khlass écope de 22 mois de suspension pour manquements à ses obligations antidopage.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gRa1H4Koz3KYsiuMX6qZ6WWgFe8=/0x59:2048x1211/800x0/images/Auriana-Lazraq-Khlass-lors-des-championnats-du-monde-d-heptathlon-le-19-septembre-2025-2261884.jpg"
-        },
-        {
-          "title": "Rugby: Rassie Erasmus lourdement sanctionné",
-          "summary": "Le sélectionneur sud-africain Rassie Erasmus est sanctionné pour ses propos litigieux sur l'arbitrage.",
-          "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/france-afrique-du-sud-le-selectionneur-sud-africain-rassie-erasmus-lourdement-sanctionne-pour-ses-propos-contre-l-arbitrage_AN-202611170727.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/etwVwQ-0T0xNTGZBhWTiYDsp2qo=/0x200:2048x1352/800x0/images/Rassie-Erasmus-2383990.jpg"
+          "title": "Ciara Mageean, championne du 1500m, décède",
+          "summary": "La championne d'Europe du 1500m (2024), Ciara Mageean, est décédée d'un cancer. Le sport lui rend hommage.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
         }
       ]
     }
