@@ -1,0 +1,345 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 19/11/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">jeudi 19 novembre • Saint Tanguy</p>
+            <div class="weather-badge">
+              🌧️ Pluie (11.9°C / 14.1°C) &nbsp;|&nbsp; ☀️ UV: 2.05 &nbsp;|&nbsp; 💧 93%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité mondiale est marquée par un paysage politique en pleine mutation, avec le renforcement de la position de Xi Jinping sur la scène internationale et une vague de sanctions électorales contre les leaders populistes dans plusieurs pays. Ces mouvements dessinent de nouveaux équilibres géopolitiques et soulignent une soif de changement. En parallèle, les avancées technologiques continuent de surprendre, de l'impression 3D de tissus humains dans l'espace aux débats autour de l'innovation en santé. 
+Sur le front national, des sujets sociétaux et économiques locaux captent l'attention, tandis que le monde du sport navigue entre des performances remarquables, des défis éthiques comme le dopage, et une intégration croissante avec la culture populaire, illustrée par l'impact des jeux vidéo. C'est un jour qui met en lumière la complexité de notre monde, entre progrès, controverses et résilience humaine.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Bonjour, champion(ne) ! Aujourd'hui, on ne lâche rien ! Avec une météo pluvieuse (93% de probabilité) et des températures entre 11.9°C et 14.1°C, ce n'est pas le soleil de Floride, mais c'est parfait pour une course revigorante. L'indice UV est bas (2.05), donc pas besoin de crème solaire, mais prévois une tenue de pluie et des chaussures adaptées. Le moment idéal pour ta session ? Entre 8h05 (lever du soleil) et 17h30 (coucher du soleil). Je te conseille de viser le milieu de journée, autour de **12h-14h**, pour profiter des températures maximales et d'une meilleure visibilité si la pluie s'intensifie. Rappelle-toi : chaque goutte est une excuse en moins, une force en plus ! Enfile tes baskets et va chercher cette sensation de liberté sous la pluie. Tu es plus fort que le temps !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.leprogres.fr/images/04D0E2D0-5FA5-4D23-8C62-FA64F5CEFBC6/MF_contenu/sommet-historique-pourquoi-xi-jinping-est-en-position-de-force-face-a-trump-et-poutine-1795028512.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.leprogres.fr/politique/2026/11/18/sommet-historique-pourquoi-xi-jinping-est-en-position-de-force-face-a-donald-trump-et-vladimir-poutine" target="_blank">Xi Jinping en force : un sommet historique</a>
+                    </h3>
+                    <p class="article-summary">Le leader chinois renforce sa position face à Trump et Poutine, marquant un tournant géopolitique majeur.</p>
+                    <a href="https://www.leprogres.fr/politique/2026/11/18/sommet-historique-pourquoi-xi-jinping-est-en-position-de-force-face-a-donald-trump-et-vladimir-poutine" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.lemde.fr/2026/10/26/789/0/4827/2413/644/322/60/0/8d90b7e_ftp-1-9lfitygf23bo-2026-10-26t035530z-1675028989-rc2paoaxw2gb-rtrmadp-3-brazil-election.JPG" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lemonde.fr/international/article/2026/11/18/aux-etats-unis-en-israel-en-serbie-et-au-bresil-une-meme-sanction-des-electeurs-contre-les-dirigeants-populistes_6813197_3210.html" target="_blank">Sanction électorale pour les populistes mondiaux</a>
+                    </h3>
+                    <p class="article-summary">Les électeurs aux USA, Israël, Serbie, Brésil rejettent les dirigeants populistes, signalant un changement global.</p>
+                    <a href="https://www.lemonde.fr/international/article/2026/11/18/aux-etats-unis-en-israel-en-serbie-et-au-bresil-une-meme-sanction-des-electeurs-contre-les-dirigeants-populistes_6813197_3210.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻📈 Tech & Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2305194961.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.qz.com/directeur-gnral-darm-ren-haas-recherche-de-directeur-gnral-chez-nvidia" target="_blank">Le PDG d'Arm visé pour diriger Nvidia</a>
+                    </h3>
+                    <p class="article-summary">Ren Haas d'Arm est courtisé pour remplacer Jensen Huang à la tête de Nvidia, un grand défi technologique.</p>
+                    <a href="https://fr.qz.com/directeur-gnral-darm-ren-haas-recherche-de-directeur-gnral-chez-nvidia" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/11/Jessica-Watkins-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/18/liss-astronaute-imprimer-tissus-humains-3d-experience-revolutionner-fabrication-dorganes-humains/" target="_blank">Tissus humains 3D imprimés dans l'ISS</a>
+                    </h3>
+                    <p class="article-summary">Une astronaute a réussi à imprimer des tissus humains en 3D dans l'espace, révolutionnant la médecine.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/18/liss-astronaute-imprimer-tissus-humains-3d-experience-revolutionner-fabrication-dorganes-humains/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/11/google-wallet-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/19/google-wallet-debarque-sur-iphone-mais-sans-sa-fonction-la-plus-utile/" target="_blank">Google Wallet débarque sur iPhone, fonction limitée</a>
+                    </h3>
+                    <p class="article-summary">Google Wallet arrive sur iPhone, mais sans sa fonction la plus utile, décevant les utilisateurs d'Apple.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/19/google-wallet-debarque-sur-iphone-mais-sans-sa-fonction-la-plus-utile/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷🤝 France & Société</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/mb5GGCdNLVB5RXORxiMIa2YEXx8=/0x3:2048x1155/800x0/images/NSA-2386285.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/tech/cybersecurite/code-jaune-operation-de-maintenance-ce-que-l-on-sait-de-la-panne-qui-a-touche-nsa-net-le-reseau-interne-de-communication-de-la-nsa_AN-202611180901.html" target="_blank">Panne "Code jaune" : le réseau NSA touché</a>
+                    </h3>
+                    <p class="article-summary">Le réseau interne NSANet a subi une panne majeure, révélant une opération de maintenance délicate et critique.</p>
+                    <a href="https://www.bfmtv.com/tech/cybersecurite/code-jaune-operation-de-maintenance-ce-que-l-on-sait-de-la-panne-qui-a-touche-nsa-net-le-reseau-interne-de-communication-de-la-nsa_AN-202611180901.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/11/894690018-10163553185808027-169714469581125288-n-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/ile-de-france/villeneuve-saint-georges_94078/15-kilos-de-pommes-de-terre-a-8-euros-une-vente-a-prix-casses-a-villeneuve-saint-georges-jeudi-19-novembre_65073591.html" target="_blank">Prix cassés : 15kg de pommes de terre à 8€</a>
+                    </h3>
+                    <p class="article-summary">Une vente exceptionnelle à Villeneuve-Saint-Georges offre 15 kilos de pommes de terre pour seulement 8 euros.</p>
+                    <a href="https://actu.fr/ile-de-france/villeneuve-saint-georges_94078/15-kilos-de-pommes-de-terre-a-8-euros-une-vente-a-prix-casses-a-villeneuve-saint-georges-jeudi-19-novembre_65073591.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/11/c515daae65d86d915daae65d8dd15dv-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/normandie/cherbourg-en-cotentin_50129/une-nouvelle-extension-du-port-de-commerce-de-cherbourg-necessaire-pour-les-parcs-eolien-en-mer_65074186.html" target="_blank">Extension du port de Cherbourg pour l'éolien</a>
+                    </h3>
+                    <p class="article-summary">Une extension du port de Cherbourg est envisagée, cruciale pour soutenir les futurs parcs éoliens en mer.</p>
+                    <a href="https://actu.fr/normandie/cherbourg-en-cotentin_50129/une-nouvelle-extension-du-port-de-commerce-de-cherbourg-necessaire-pour-les-parcs-eolien-en-mer_65074186.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/gRa1H4Koz3KYsiuMX6qZ6WWgFe8=/0x59:2048x1211/800x0/images/Auriana-Lazraq-Khlass-lors-des-championnats-du-monde-d-heptathlon-le-19-septembre-2025-2261884.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html" target="_blank">Lazraq Khlass suspendue 22 mois pour dopage</a>
+                    </h3>
+                    <p class="article-summary">L'heptathlète Auriana Lazraq Khlass écope de 22 mois de suspension pour manquements à ses obligations antidopage.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html" target="_blank">Ciara Mageean, championne du 1500m, décède</a>
+                    </h3>
+                    <p class="article-summary">La championne d'Europe du 1500m Ciara Mageean est décédée d'un cancer à l'âge de 34 ans, une perte pour l'athlétisme.</p>
+                    <a href="https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/nXG5gF8-OrJD00GK5_rUDAi3yUg=/0x187:672x565/800x0/images/Le-Kaseya-Center-du-Heat-de-Miami-aux-couleurs-de-GTA-6-le-18-novembre-2026-2386166.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/maillot-special-salle-vice-city-voitures-le-miami-heat-sort-le-grand-jeu-pour-la-sortie-de-gta-6_AV-202611180568.html" target="_blank">Miami Heat s'habille GTA 6</a>
+                    </h3>
+                    <p class="article-summary">Le Miami Heat sort le grand jeu pour la sortie de GTA 6, avec maillots spéciaux et une salle "Vice City".</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/maillot-special-salle-vice-city-voitures-le-miami-heat-sort-le-grand-jeu-pour-la-sortie-de-gta-6_AV-202611180568.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  

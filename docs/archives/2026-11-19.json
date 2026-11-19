@@ -1,0 +1,103 @@
+{
+  "ephemeride": "Saint Tanguy",
+  "global_summary": "L'actualité mondiale est marquée par un paysage politique en pleine mutation, avec le renforcement de la position de Xi Jinping sur la scène internationale et une vague de sanctions électorales contre les leaders populistes dans plusieurs pays. Ces mouvements dessinent de nouveaux équilibres géopolitiques et soulignent une soif de changement. En parallèle, les avancées technologiques continuent de surprendre, de l'impression 3D de tissus humains dans l'espace aux débats autour de l'innovation en santé. \nSur le front national, des sujets sociétaux et économiques locaux captent l'attention, tandis que le monde du sport navigue entre des performances remarquables, des défis éthiques comme le dopage, et une intégration croissante avec la culture populaire, illustrée par l'impact des jeux vidéo. C'est un jour qui met en lumière la complexité de notre monde, entre progrès, controverses et résilience humaine.",
+  "running_advice": "Bonjour, champion(ne) ! Aujourd'hui, on ne lâche rien ! Avec une météo pluvieuse (93% de probabilité) et des températures entre 11.9°C et 14.1°C, ce n'est pas le soleil de Floride, mais c'est parfait pour une course revigorante. L'indice UV est bas (2.05), donc pas besoin de crème solaire, mais prévois une tenue de pluie et des chaussures adaptées. Le moment idéal pour ta session ? Entre 8h05 (lever du soleil) et 17h30 (coucher du soleil). Je te conseille de viser le milieu de journée, autour de **12h-14h**, pour profiter des températures maximales et d'une meilleure visibilité si la pluie s'intensifie. Rappelle-toi : chaque goutte est une excuse en moins, une force en plus ! Enfile tes baskets et va chercher cette sensation de liberté sous la pluie. Tu es plus fort que le temps !",
+  "weather_string": "🌧️ Pluie (11.9°C / 14.1°C)",
+  "weather_stats": {
+    "temp": "14.1°C",
+    "rain": "93%",
+    "uv": "2.05"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Xi Jinping en force : un sommet historique",
+          "summary": "Le leader chinois renforce sa position face à Trump et Poutine, marquant un tournant géopolitique majeur.",
+          "url": "https://www.leprogres.fr/politique/2026/11/18/sommet-historique-pourquoi-xi-jinping-est-en-position-de-force-face-a-donald-trump-et-vladimir-poutine",
+          "image": "https://cdn-s-www.leprogres.fr/images/04D0E2D0-5FA5-4D23-8C62-FA64F5CEFBC6/MF_contenu/sommet-historique-pourquoi-xi-jinping-est-en-position-de-force-face-a-trump-et-poutine-1795028512.jpg"
+        },
+        {
+          "title": "Sanction électorale pour les populistes mondiaux",
+          "summary": "Les électeurs aux USA, Israël, Serbie, Brésil rejettent les dirigeants populistes, signalant un changement global.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/18/aux-etats-unis-en-israel-en-serbie-et-au-bresil-une-meme-sanction-des-electeurs-contre-les-dirigeants-populistes_6813197_3210.html",
+          "image": "https://img.lemde.fr/2026/10/26/789/0/4827/2413/644/322/60/0/8d90b7e_ftp-1-9lfitygf23bo-2026-10-26t035530z-1675028989-rc2paoaxw2gb-rtrmadp-3-brazil-election.JPG"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Business",
+      "emoji": "💻📈",
+      "articles": [
+        {
+          "title": "Le PDG d'Arm visé pour diriger Nvidia",
+          "summary": "Ren Haas d'Arm est courtisé pour remplacer Jensen Huang à la tête de Nvidia, un grand défi technologique.",
+          "url": "https://fr.qz.com/directeur-gnral-darm-ren-haas-recherche-de-directeur-gnral-chez-nvidia",
+          "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2305194961.jpg"
+        },
+        {
+          "title": "Tissus humains 3D imprimés dans l'ISS",
+          "summary": "Une astronaute a réussi à imprimer des tissus humains en 3D dans l'espace, révolutionnant la médecine.",
+          "url": "https://www.journaldugeek.com/2026/11/18/liss-astronaute-imprimer-tissus-humains-3d-experience-revolutionner-fabrication-dorganes-humains/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Jessica-Watkins-1280x853.jpg"
+        },
+        {
+          "title": "Google Wallet débarque sur iPhone, fonction limitée",
+          "summary": "Google Wallet arrive sur iPhone, mais sans sa fonction la plus utile, décevant les utilisateurs d'Apple.",
+          "url": "https://www.journaldugeek.com/2026/11/19/google-wallet-debarque-sur-iphone-mais-sans-sa-fonction-la-plus-utile/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/google-wallet-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France & Société",
+      "emoji": "🇫🇷🤝",
+      "articles": [
+        {
+          "title": "Panne \"Code jaune\" : le réseau NSA touché",
+          "summary": "Le réseau interne NSANet a subi une panne majeure, révélant une opération de maintenance délicate et critique.",
+          "url": "https://www.bfmtv.com/tech/cybersecurite/code-jaune-operation-de-maintenance-ce-que-l-on-sait-de-la-panne-qui-a-touche-nsa-net-le-reseau-interne-de-communication-de-la-nsa_AN-202611180901.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/mb5GGCdNLVB5RXORxiMIa2YEXx8=/0x3:2048x1155/800x0/images/NSA-2386285.jpg"
+        },
+        {
+          "title": "Prix cassés : 15kg de pommes de terre à 8€",
+          "summary": "Une vente exceptionnelle à Villeneuve-Saint-Georges offre 15 kilos de pommes de terre pour seulement 8 euros.",
+          "url": "https://actu.fr/ile-de-france/villeneuve-saint-georges_94078/15-kilos-de-pommes-de-terre-a-8-euros-une-vente-a-prix-casses-a-villeneuve-saint-georges-jeudi-19-novembre_65073591.html",
+          "image": "https://static.actu.fr/uploads/2026/11/894690018-10163553185808027-169714469581125288-n-1024x557.jpg"
+        },
+        {
+          "title": "Extension du port de Cherbourg pour l'éolien",
+          "summary": "Une extension du port de Cherbourg est envisagée, cruciale pour soutenir les futurs parcs éoliens en mer.",
+          "url": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/une-nouvelle-extension-du-port-de-commerce-de-cherbourg-necessaire-pour-les-parcs-eolien-en-mer_65074186.html",
+          "image": "https://static.actu.fr/uploads/2026/11/c515daae65d86d915daae65d8dd15dv-1024x557.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Lazraq Khlass suspendue 22 mois pour dopage",
+          "summary": "L'heptathlète Auriana Lazraq Khlass écope de 22 mois de suspension pour manquements à ses obligations antidopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/insouciante-et-negligente-22-mois-de-suspension-pour-l-heptathlete-francaise-auriana-lazraq-khlass-pour-manquements-a-ses-obligations-de-localisation-antidopage_AD-202611130490.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/gRa1H4Koz3KYsiuMX6qZ6WWgFe8=/0x59:2048x1211/800x0/images/Auriana-Lazraq-Khlass-lors-des-championnats-du-monde-d-heptathlon-le-19-septembre-2025-2261884.jpg"
+        },
+        {
+          "title": "Ciara Mageean, championne du 1500m, décède",
+          "summary": "La championne d'Europe du 1500m Ciara Mageean est décédée d'un cancer à l'âge de 34 ans, une perte pour l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/rmc-running/athletisme-championne-d-europe-en-titre-du-1500m-ciara-mageean-decede-d-un-cancer_AV-202611010265.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/tp9OQAnJgF49qwoSpBpJfJZHF5c=/0x106:2048x1258/800x0/images/La-championne-d-Europe-du-1-500-metres-l-Irlandaise-Ciara-Mageean-est-decedee-des-suites-d-un-cancer-a-34-ans-2375791.jpg"
+        },
+        {
+          "title": "Miami Heat s'habille GTA 6",
+          "summary": "Le Miami Heat sort le grand jeu pour la sortie de GTA 6, avec maillots spéciaux et une salle \"Vice City\".",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/maillot-special-salle-vice-city-voitures-le-miami-heat-sort-le-grand-jeu-pour-la-sortie-de-gta-6_AV-202611180568.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/nXG5gF8-OrJD00GK5_rUDAi3yUg=/0x187:672x565/800x0/images/Le-Kaseya-Center-du-Heat-de-Miami-aux-couleurs-de-GTA-6-le-18-novembre-2026-2386166.jpg"
+        }
+      ]
+    }
+  ]
+}
