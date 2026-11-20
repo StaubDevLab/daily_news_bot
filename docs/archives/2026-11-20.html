@@ -1,0 +1,356 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 20/11/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">vendredi 20 novembre • Saint Edmond</p>
+            <div class="weather-badge">
+              🌤️ Peu nuageux (11.5°C / 15.7°C) &nbsp;|&nbsp; ☀️ UV: 2.35 &nbsp;|&nbsp; 💧 88%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>Le monde est en pleine effervescence, confronté à des questions sociales brûlantes, des manifestations de jeunesse en Allemagne aux débats sur l'immigration au Danemark, sans oublier les préoccupations profondes sur les droits humains en Gambie. En parallèle, la sphère technologique avance à grands pas, marquée par des innovations en IA et des défis de cybersécurité. Le phénomène culturel GTA 6 continue de défrayer la chronique et d'impacter des secteurs inattendus, dont le sport.
+L'Hexagone, lui, gère des enjeux nationaux comme l'encadrement des loyers et la grippe aviaire. Le sport, de son côté, jongle entre les exploits sur les terrains, les ombres du dopage qui persistent, et l'intégration des nouvelles dynamiques culturelles. Un tableau complexe et riche en rebondissements pour cette fin de semaine.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Aujourd'hui, Saint Edmond vous invite à la prudence avant d'enfiler vos baskets ! Les températures sont douces, entre 11.5°C et 15.7°C, sous un ciel peu nuageux, ce qui est agréable. Cependant, attention : la probabilité de pluie est très élevée (88%) ! Pour votre course, l'heure idéale pour profiter de la lumière naturelle se situe entre 8h06 et 17h29. Je vous conseille de consulter une prévision horaire plus fine pour anticiper les averses et, si possible, privilégier une fenêtre sèche. Si la motivation est là, équipez-vous d'une bonne veste imperméable et ne laissez pas quelques gouttes éteindre votre flamme ! Rappelez-vous, chaque pas sous la pluie renforce votre mental. L'indice UV étant faible (2.35), pas besoin de crème solaire, concentrez-vous sur votre foulée et restez au sec si vous le pouvez. Allez, on lâche rien !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.lalsace.fr/images/DCB5008C-3B43-4BA1-8B3E-3241DD03E9B9/NW_listB/la-jeunesse-allemande-manifeste-ce-vendredi-20-novembre-1795097792.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lalsace.fr/education/2026/11/19/la-jeunesse-allemande-manifeste-ce-vendredi-20-novembre" target="_blank">Jeunesse allemande : Manifestation sociale</a>
+                    </h3>
+                    <p class="article-summary">Des jeunes Allemands manifestent ce vendredi, soulignant des enjeux sociaux et politiques cruciaux pour l'avenir du pays.</p>
+                    <a href="https://www.lalsace.fr/education/2026/11/19/la-jeunesse-allemande-manifeste-ce-vendredi-20-novembre" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.lepoint.fr/resizer/v2/CHEPVLVL25PDFKFRYGS2QFO3NI.jpg?auth=6fab03b87ed69da0761be6c8af883a32fc3ff41d307f68d63fcd5b7a79750238&smart=true&width=1200&height=900" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lepoint.fr/monde/grand-remplacement-souche-ethnique-le-tabou-brise-par-mette-frederiksen-PN6UDILIWJEFHDIDKGUBKL7BQE/" target="_blank">Danemark : Débat sensible sur l'identité</a>
+                    </h3>
+                    <p class="article-summary">La Première ministre danoise brise des tabous en évoquant le "grand remplacement", suscitant un vif débat national.</p>
+                    <a href="https://www.lepoint.fr/monde/grand-remplacement-souche-ethnique-le-tabou-brise-par-mette-frederiksen-PN6UDILIWJEFHDIDKGUBKL7BQE/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.lemde.fr/2026/11/19/615/0/6720/3360/644/322/60/0/e51b95c_upload-1-f04supbwk45o-000-962x9hy.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lemonde.fr/afrique/article/2026/11/19/il-ne-s-agit-plus-seulement-d-exciser-certaines-flles-sont-egalement-cousues-en-gambie-un-puissant-mouvement-conservateur-tente-de-rehabiliter-l-excision_6813366_3212.html" target="_blank">Gambie : Tentative de réhabiliter l'excision</a>
+                    </h3>
+                    <p class="article-summary">Un mouvement conservateur tente de réhabiliter des pratiques d'excision en Gambie, y compris de nouvelles formes alarmantes.</p>
+                    <a href="https://www.lemonde.fr/afrique/article/2026/11/19/il-ne-s-agit-plus-seulement-d-exciser-certaines-flles-sont-egalement-cousues-en-gambie-un-puissant-mouvement-conservateur-tente-de-rehabiliter-l-excision_6813366_3212.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.ledauphine.com/images/F4651564-B200-4394-BF54-5F6AAF69A8F2/NW_listB/l-encadrement-des-loyers-prolonge-de-deux-ans-malgre-l-opposition-des-deputes-rn-1795111521.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.ledauphine.com/economie/2026/11/19/l-encadrement-des-loyers-prolonge-de-deux-ans-malgre-l-opposition-des-deputes-rn" target="_blank">Loyers : Encadrement prolongé deux ans</a>
+                    </h3>
+                    <p class="article-summary">Malgré l'opposition, l'encadrement des loyers est prolongé de deux ans en France, impactant le marché immobilier national.</p>
+                    <a href="https://www.ledauphine.com/economie/2026/11/19/l-encadrement-des-loyers-prolonge-de-deux-ans-malgre-l-opposition-des-deputes-rn" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.dna.fr/images/0EBC3822-344F-41B4-9D24-C8322F2FEF73/NW_listB/grippe-aviaire-les-aviculteurs-contraints-de-confiner-leurs-oiseaux-1795111543.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.dna.fr/environnement/2026/11/19/grippe-aviaire-les-aviculteurs-alsaciens-contraints-de-confiner-leurs-oiseaux" target="_blank">Grippe aviaire : Confinement en Alsace</a>
+                    </h3>
+                    <p class="article-summary">Les aviculteurs alsaciens doivent confiner leurs oiseaux face à la grippe aviaire, une mesure préventive pour l'élevage national.</p>
+                    <a href="https://www.dna.fr/environnement/2026/11/19/grippe-aviaire-les-aviculteurs-alsaciens-contraints-de-confiner-leurs-oiseaux" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.lalsace.fr/images/9940E83F-2B3B-4358-8EAA-15E4E1214C25/MF_contenu/tout-va-plus-vite-yvana-atangana-a-trouve-son-rythme-a-metz-avant-de-retrouver-strasbourg-samedi-1795110979.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lalsace.fr/sport/2026/11/19/tout-va-plus-vite-yvana-atangana-a-trouve-son-rythme-a-metz-avant-de-retrouver-strasbourg-samedi" target="_blank">Handball : Yvana Atangana rayonne à Metz</a>
+                    </h3>
+                    <p class="article-summary">Yvana Atangana s'épanouit au handball à Metz, prête à affronter Strasbourg, témoignant de sa progression fulgurante.</p>
+                    <a href="https://www.lalsace.fr/sport/2026/11/19/tout-va-plus-vite-yvana-atangana-a-trouve-son-rythme-a-metz-avant-de-retrouver-strasbourg-samedi" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💡 Tech & Gaming</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2025/07/hacker-pirate-internet-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/19/il-alimente-plus-de-225-millions-de-sites-web-2-failles-critiques-ont-ete-trouvees-sur-nginx-un-autre-pilier-dinternet/" target="_blank">Nginx : Failles critiques découvertes</a>
+                    </h3>
+                    <p class="article-summary">Deux failles critiques ont été identifiées sur Nginx, un pilier d'internet, impactant des millions de sites web mondiaux.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/19/il-alimente-plus-de-225-millions-de-sites-web-2-failles-critiques-ont-ete-trouvees-sur-nginx-un-autre-pilier-dinternet/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/07/Gemini-Google-IA_1920x1280-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/19/premier-de-la-classe-en-droit-et-en-fiscalite-la-nouvelle-ia-de-gemini-promet-des-performances-xxl-a-un-cout-reduit/" target="_blank">Google Gemini : Nouvelle IA puissante</a>
+                    </h3>
+                    <p class="article-summary">La nouvelle IA de Gemini promet des performances inégalées en droit et fiscalité, révolutionnant l'accès à l'information.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/19/premier-de-la-classe-en-droit-et-en-fiscalite-la-nouvelle-ia-de-gemini-promet-des-performances-xxl-a-un-cout-reduit/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://sf2.autojournal.fr/wp-content/uploads/autojournal/2026/11/the-scents-could-target-specific-passengers-1794553142-1.webp" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.autojournal.fr/insolite/sony-brevet-voiture-diffuse-odeur-des-publicites-431795.html" target="_blank">Sony : Brevet pour pub olfactive</a>
+                    </h3>
+                    <p class="article-summary">Sony dépose un brevet pour diffuser des publicités olfactives en voiture, une innovation surprenante pour le marketing sensoriel.</p>
+                    <a href="https://www.autojournal.fr/insolite/sony-brevet-voiture-diffuse-odeur-des-publicites-431795.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏆 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/1k6hwDh4_URalnOzywncB8OfDd8=/0x0:2048x1152/800x0/images/GTA-VI-2386137.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/societe/kroupi-camavinga-mc-gregor-nfl-et-nba-la-folie-gta-vi-s-est-emparee-de-la-planete-sport_AV-202611190481.html" target="_blank">GTA 6 : La folie gagne le sport</a>
+                    </h3>
+                    <p class="article-summary">La sortie de GTA 6 embrase la planète sport, du Miami Heat aux athlètes, prouvant son immense impact culturel.</p>
+                    <a href="https://rmcsport.bfmtv.com/societe/kroupi-camavinga-mc-gregor-nfl-et-nba-la-folie-gta-vi-s-est-emparee-de-la-planete-sport_AV-202611190481.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html" target="_blank">Athlétisme : Championne du monde dopée</a>
+                    </h3>
+                    <p class="article-summary">La Kényane Peres Jepchirchir, championne du monde de marathon, est suspendue trois ans pour dopage.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/ySr3-R6qOKeSTa4YsksM_VjRG1I=/0x174:2048x1326/800x0/images/Le-stade-de-La-Rochelle-lors-du-match-face-aux-Lions-le-17-octobre-2026-2367281.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rugby/top-14/une-nouvelle-affaire-au-stade-rochelais-un-espoir-du-club-vise-par-une-plainte-pour-viol_AN-202611190690.html" target="_blank">Stade Rochelais : Plainte pour viol</a>
+                    </h3>
+                    <p class="article-summary">Un espoir du Stade Rochelais est visé par une plainte pour viol, secouant le club et le monde du rugby français.</p>
+                    <a href="https://rmcsport.bfmtv.com/rugby/top-14/une-nouvelle-affaire-au-stade-rochelais-un-espoir-du-club-vise-par-une-plainte-pour-viol_AN-202611190690.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
