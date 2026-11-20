@@ -1,10 +1,10 @@
 {
   "ephemeride": "Saint Edmond",
-  "global_summary": "Le monde est en pleine effervescence, confronté à des questions sociales brûlantes, des manifestations de jeunesse en Allemagne aux débats sur l'immigration au Danemark, sans oublier les préoccupations profondes sur les droits humains en Gambie. En parallèle, la sphère technologique avance à grands pas, marquée par des innovations en IA et des défis de cybersécurité. Le phénomène culturel GTA 6 continue de défrayer la chronique et d'impacter des secteurs inattendus, dont le sport.\nL'Hexagone, lui, gère des enjeux nationaux comme l'encadrement des loyers et la grippe aviaire. Le sport, de son côté, jongle entre les exploits sur les terrains, les ombres du dopage qui persistent, et l'intégration des nouvelles dynamiques culturelles. Un tableau complexe et riche en rebondissements pour cette fin de semaine.",
-  "running_advice": "Aujourd'hui, Saint Edmond vous invite à la prudence avant d'enfiler vos baskets ! Les températures sont douces, entre 11.5°C et 15.7°C, sous un ciel peu nuageux, ce qui est agréable. Cependant, attention : la probabilité de pluie est très élevée (88%) ! Pour votre course, l'heure idéale pour profiter de la lumière naturelle se situe entre 8h06 et 17h29. Je vous conseille de consulter une prévision horaire plus fine pour anticiper les averses et, si possible, privilégier une fenêtre sèche. Si la motivation est là, équipez-vous d'une bonne veste imperméable et ne laissez pas quelques gouttes éteindre votre flamme ! Rappelez-vous, chaque pas sous la pluie renforce votre mental. L'indice UV étant faible (2.35), pas besoin de crème solaire, concentrez-vous sur votre foulée et restez au sec si vous le pouvez. Allez, on lâche rien !",
-  "weather_string": "🌤️ Peu nuageux (11.5°C / 15.7°C)",
+  "global_summary": "L'actualité de ce jour révèle un mélange complexe de défis sociaux, d'innovations technologiques et de performances sportives. Les préoccupations mondiales s'intensifient, de la jeunesse allemande qui prend position à des débats sociétaux majeurs en Europe, sans oublier la situation préoccupante des droits des femmes en Gambie. Ces mouvements témoignent d'une société en constante évolution, où les voix s'élèvent pour un avenir plus juste.\n\nParallèlement, le monde du sport navigue entre l'excitation des compétitions, l'émergence de nouveaux phénomènes comme la \"folie GTA 6\" qui touche même les athlètes, et malheureusement, les ombres persistantes du dopage. Côté technologie, l'innovation continue de surprendre avec l'IA Gemini et la publicité olfactive, tandis que la sphère économique voit des mesures comme l'encadrement des loyers prolongées.",
+  "running_advice": "Avec des températures douces entre 11.3°C et 15°C et un ciel partiellement nuageux, cette journée offre un cadre propice à l'activité physique ! Attention cependant, une probabilité de pluie de 88% appelle à la prudence. Équipez-vous en conséquence avec une bonne veste imperméable. Le moment idéal pour chausser vos baskets serait juste après le lever du soleil, vers 8h30, pour profiter de la fraîcheur matinale avant l'arrivée potentielle des averses. L'indice UV restant bas (2.35), pas besoin de crème solaire. Alors, même avec la pluie, transformez chaque goutte en motivation et partez conquérir votre run ! Votre corps vous remerciera !",
+  "weather_string": "🌤️ Peu nuageux (11.3°C / 15°C)",
   "weather_stats": {
-    "temp": "15.7°C",
+    "temp": "15°C",
     "rain": "88%",
     "uv": "2.35"
   },
@@ -14,21 +14,21 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Jeunesse allemande : Manifestation sociale",
-          "summary": "Des jeunes Allemands manifestent ce vendredi, soulignant des enjeux sociaux et politiques cruciaux pour l'avenir du pays.",
+          "title": "Jeunesse allemande : vague de protestations sociales",
+          "summary": "La jeunesse allemande descend dans la rue ce vendredi, signe d'un engagement social fort.",
           "url": "https://www.lalsace.fr/education/2026/11/19/la-jeunesse-allemande-manifeste-ce-vendredi-20-novembre",
           "image": "https://cdn-s-www.lalsace.fr/images/DCB5008C-3B43-4BA1-8B3E-3241DD03E9B9/NW_listB/la-jeunesse-allemande-manifeste-ce-vendredi-20-novembre-1795097792.jpg"
         },
         {
-          "title": "Danemark : Débat sensible sur l'identité",
-          "summary": "La Première ministre danoise brise des tabous en évoquant le \"grand remplacement\", suscitant un vif débat national.",
+          "title": "Danemark : un tabou politique brisé par Mette Frederiksen",
+          "summary": "La Première ministre danoise aborde des thèmes sensibles comme le \"grand remplacement\", suscitant le débat.",
           "url": "https://www.lepoint.fr/monde/grand-remplacement-souche-ethnique-le-tabou-brise-par-mette-frederiksen-PN6UDILIWJEFHDIDKGUBKL7BQE/",
           "image": "https://www.lepoint.fr/resizer/v2/CHEPVLVL25PDFKFRYGS2QFO3NI.jpg?auth=6fab03b87ed69da0761be6c8af883a32fc3ff41d307f68d63fcd5b7a79750238&smart=true&width=1200&height=900"
         },
         {
-          "title": "Gambie : Tentative de réhabiliter l'excision",
-          "summary": "Un mouvement conservateur tente de réhabiliter des pratiques d'excision en Gambie, y compris de nouvelles formes alarmantes.",
-          "url": "https://www.lemonde.fr/afrique/article/2026/11/19/il-ne-s-agit-plus-seulement-d-exciser-certaines-flles-sont-egalement-cousues-en-gambie-un-puissant-mouvement-conservateur-tente-de-rehabiliter-l-excision_6813366_3212.html",
+          "title": "Gambie : la tentative choquante de réhabiliter l'excision",
+          "summary": "Un mouvement conservateur en Gambie milite pour le retour de l'excision, y compris de nouvelles pratiques.",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/19/il-ne-s-agit-plus-seulement-d-exciser-certaines-filles-sont-egalement-cousues-en-gambie-un-puissant-mouvement-conservateur-tente-de-rehabiliter-l-excision_6813366_3212.html",
           "image": "https://img.lemde.fr/2026/11/19/615/0/6720/3360/644/322/60/0/e51b95c_upload-1-f04supbwk45o-000-962x9hy.jpg"
         }
       ]
@@ -38,70 +38,112 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Loyers : Encadrement prolongé deux ans",
-          "summary": "Malgré l'opposition, l'encadrement des loyers est prolongé de deux ans en France, impactant le marché immobilier national.",
-          "url": "https://www.ledauphine.com/economie/2026/11/19/l-encadrement-des-loyers-prolonge-de-deux-ans-malgre-l-opposition-des-deputes-rn",
-          "image": "https://cdn-s-www.ledauphine.com/images/F4651564-B200-4394-BF54-5F6AAF69A8F2/NW_listB/l-encadrement-des-loyers-prolonge-de-deux-ans-malgre-l-opposition-des-deputes-rn-1795111521.jpg"
-        },
-        {
-          "title": "Grippe aviaire : Confinement en Alsace",
-          "summary": "Les aviculteurs alsaciens doivent confiner leurs oiseaux face à la grippe aviaire, une mesure préventive pour l'élevage national.",
+          "title": "Grippe aviaire : confinement des oiseaux en Alsace",
+          "summary": "Les aviculteurs alsaciens doivent confiner leurs oiseaux face à la menace croissante de la grippe aviaire.",
           "url": "https://www.dna.fr/environnement/2026/11/19/grippe-aviaire-les-aviculteurs-alsaciens-contraints-de-confiner-leurs-oiseaux",
-          "image": "https://cdn-s-www.dna.fr/images/0EBC3822-344F-41B4-9D24-C8322F2FEF73/NW_listB/grippe-aviaire-les-aviculteurs-contraints-de-confiner-leurs-oiseaux-1795111543.jpg"
+          "image": "https://cdn-s-www.dna.fr/images/0EBC3822-344F-41B4-9D24-C832F2FEF73/NW_listB/grippe-aviaire-les-aviculteurs-contraints-de-confiner-leurs-oiseaux-1795111543.jpg"
         },
         {
-          "title": "Handball : Yvana Atangana rayonne à Metz",
-          "summary": "Yvana Atangana s'épanouit au handball à Metz, prête à affronter Strasbourg, témoignant de sa progression fulgurante.",
+          "title": "Handball : Yvana Atangana s'épanouit à Metz",
+          "summary": "Yvana Atangana trouve son rythme à Metz avant de retrouver Strasbourg samedi pour un match clé.",
           "url": "https://www.lalsace.fr/sport/2026/11/19/tout-va-plus-vite-yvana-atangana-a-trouve-son-rythme-a-metz-avant-de-retrouver-strasbourg-samedi",
           "image": "https://cdn-s-www.lalsace.fr/images/9940E83F-2B3B-4358-8EAA-15E4E1214C25/MF_contenu/tout-va-plus-vite-yvana-atangana-a-trouve-son-rythme-a-metz-avant-de-retrouver-strasbourg-samedi-1795110979.jpg"
+        },
+        {
+          "title": "Sport : le programme du week-end à Dijon",
+          "summary": "Entre DFCO, JDA Dijon et trails, découvrez l'agenda sportif complet de ce week-end en Bourgogne.",
+          "url": "https://www.bienpublic.com/sport/2026/11/19/dfco-jda-dijon-trails-demandez-le-programme-du-week-end",
+          "image": "https://cdn-s-www.bienpublic.com/images/1753E64B-241D-4FF7-9492-EB345D497326/MF_contenu/dfco-jda-dijon-trails-demandez-le-programme-du-week-end-1795099926.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Gaming",
-      "emoji": "💡",
+      "label": "Tech",
+      "emoji": "💻",
       "articles": [
         {
-          "title": "Nginx : Failles critiques découvertes",
-          "summary": "Deux failles critiques ont été identifiées sur Nginx, un pilier d'internet, impactant des millions de sites web mondiaux.",
-          "url": "https://www.journaldugeek.com/2026/11/19/il-alimente-plus-de-225-millions-de-sites-web-2-failles-critiques-ont-ete-trouvees-sur-nginx-un-autre-pilier-dinternet/",
-          "image": "https://www.journaldugeek.com/app/uploads/2025/07/hacker-pirate-internet-1280x853.jpg"
+          "title": "RSF : Campagne choc pour la liberté d'informer",
+          "summary": "Reporters sans Frontières lance une campagne invitant au \"don de déranger\" pour soutenir les médias.",
+          "url": "https://www.cbnews.fr/medias/rsf-appel-au-don-deranger-campagne",
+          "image": "https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2026-11/RSF%20x%20TGC_CAMPAGNE%20.jpg?itok=F8oH7oMf"
         },
         {
-          "title": "Google Gemini : Nouvelle IA puissante",
-          "summary": "La nouvelle IA de Gemini promet des performances inégalées en droit et fiscalité, révolutionnant l'accès à l'information.",
+          "title": "Sony brevète la publicité olfactive en voiture",
+          "summary": "Sony explore un brevet pour diffuser des publicités par odeurs directement dans l'habitacle de votre voiture.",
+          "url": "https://www.autojournal.fr/insolite/sony-brevet-voiture-diffuse-odeur-des-publicites-431795.html",
+          "image": "https://sf2.autojournal.fr/wp-content/uploads/autojournal/2026/11/the-scents-could-target-specific-passengers-1794553142-1.webp"
+        },
+        {
+          "title": "Nginx : deux failles critiques menacent le web",
+          "summary": "Deux vulnérabilités majeures ont été découvertes sur Nginx, un serveur essentiel à des millions de sites web.",
+          "url": "https://www.journaldugeek.com/2026/11/19/il-alimente-plus-de-225-millions-de-sites-web-2-failles-critiques-ont-ete-trouvees-sur-nginx-un-autre-pilier-dinternet/",
+          "image": "https://www.journaldugeek.com/app/uploads/2025/07/hacker-pirate-internet-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Encadrement des loyers : prolongation controversée",
+          "summary": "L'encadrement des loyers est prolongé de deux ans malgré l'opposition du Rassemblement National.",
+          "url": "https://www.ledauphine.com/economie/2026/11/19/l-encadrement-des-loyers-prolonge-de-deux-ans-malgre-l-opposition-des-deputes-rn",
+          "image": "https://cdn-s-www.ledauphine.com/images/F4651564-B200-4394-BF54-5F6AAF69A8F2/NW_listB/l-encadrement-des-loyers-prolonge-de-deux-ans-malgre-l-opposition-des-deputes-rn-1795111521.jpg"
+        },
+        {
+          "title": "Pont-Saint-Esprit : fin de chantier à la mairie",
+          "summary": "Les élus de Pont-Saint-Esprit inaugurent la fin des travaux du mur de la mairie, en présence de Passe Muraille.",
+          "url": "https://www.ledauphine.com/economie/2026/11/19/passe-muraille-et-les-elus-inaugurent-la-fin-de-chantier-du-mur-de-la-mairie",
+          "image": "https://cdn-s-www.ledauphine.com/images/1A529BCD-322D-4DB2-BD75-639E0523AECA/NW_listB/passe-muraille-et-les-elus-inaugurent-la-fin-de-chantier-du-mur-de-la-mairie-1795111463.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Journal du Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "GTA 6 : La boîte vide, un objet de collection ?",
+          "summary": "Ne jetez pas votre boîte de GTA 6 vide, elle vaut déjà de l'argent sur le marché de la revente !",
+          "url": "https://www.journaldugeek.com/2026/11/19/ne-jetez-surtout-pas-la-boite-de-gta-6-elle-vaut-deja-de-largent-meme-vide/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/boite-gta-6-vide-revente-vinted-prix-1280x853.jpeg"
+        },
+        {
+          "title": "La nouvelle IA Gemini excelle en droit et fiscalité",
+          "summary": "L'IA Gemini de Google promet des performances exceptionnelles en droit et fiscalité à coût réduit.",
           "url": "https://www.journaldugeek.com/2026/11/19/premier-de-la-classe-en-droit-et-en-fiscalite-la-nouvelle-ia-de-gemini-promet-des-performances-xxl-a-un-cout-reduit/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/07/Gemini-Google-IA_1920x1280-1280x853.jpg"
         },
         {
-          "title": "Sony : Brevet pour pub olfactive",
-          "summary": "Sony dépose un brevet pour diffuser des publicités olfactives en voiture, une innovation surprenante pour le marketing sensoriel.",
-          "url": "https://www.autojournal.fr/insolite/sony-brevet-voiture-diffuse-odeur-des-publicites-431795.html",
-          "image": "https://sf2.autojournal.fr/wp-content/uploads/autojournal/2026/11/the-scents-could-target-specific-passengers-1794553142-1.webp"
+          "title": "GTA 6 déjà nominé aux Game Awards 2026",
+          "summary": "La nomination de GTA 6 aux Game Awards avant même sa sortie suscite interrogation et buzz.",
+          "url": "https://www.journaldugeek.com/2026/11/19/gta-6-nomme-aux-game-awards-2026-avant-meme-sa-sortie-comment-cest-possible/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/GTA-6-Jason-Lucia-voiture-1280x853.jpg"
         }
       ]
     },
     {
       "label": "Sport",
-      "emoji": "🏆",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "GTA 6 : La folie gagne le sport",
-          "summary": "La sortie de GTA 6 embrase la planète sport, du Miami Heat aux athlètes, prouvant son immense impact culturel.",
-          "url": "https://rmcsport.bfmtv.com/societe/kroupi-camavinga-mc-gregor-nfl-et-nba-la-folie-gta-vi-s-est-emparee-de-la-planete-sport_AV-202611190481.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/1k6hwDh4_URalnOzywncB8OfDd8=/0x0:2048x1152/800x0/images/GTA-VI-2386137.jpg"
+          "title": "Wembanyama en NBA : Spurs vs Clippers",
+          "summary": "Ne manquez pas le match NBA de Wembanyama entre les Spurs et les Clippers ce soir !",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/spurs-clippers-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-nba-de-wembanyama-en-direct_AN-202611190082.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/DdO0Y8dxAFSL3UiWo_cxiS-Vb8o=/0x0:1600x900/800x0/images/Blazers-Spurs-a-quelle-heure-et-sur-quelle-chaine-regarder-le-match-NBA-de-Wembanyama-en-direct-2379241.jpg"
         },
         {
-          "title": "Athlétisme : Championne du monde dopée",
-          "summary": "La Kényane Peres Jepchirchir, championne du monde de marathon, est suspendue trois ans pour dopage.",
+          "title": "Dopage : la championne du monde suspendue",
+          "summary": "Peres Jepchirchir, championne du monde du marathon, écope de trois ans de suspension pour dopage.",
           "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
         },
         {
-          "title": "Stade Rochelais : Plainte pour viol",
-          "summary": "Un espoir du Stade Rochelais est visé par une plainte pour viol, secouant le club et le monde du rugby français.",
-          "url": "https://rmcsport.bfmtv.com/rugby/top-14/une-nouvelle-affaire-au-stade-rochelais-un-espoir-du-club-vise-par-une-plainte-pour-viol_AN-202611190690.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/ySr3-R6qOKeSTa4YsksM_VjRG1I=/0x174:2048x1326/800x0/images/Le-stade-de-La-Rochelle-lors-du-match-face-aux-Lions-le-17-octobre-2026-2367281.jpg"
+          "title": "Miami Heat en \"Vice City\" pour GTA 6",
+          "summary": "Le Miami Heat se met aux couleurs de GTA 6 avec maillot et salle thématiques, un coup marketing audacieux.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/maillot-special-salle-vice-city-voitures-le-miami-heat-sort-le-grand-jeu-pour-la-sortie-de-gta-6_AV-202611180568.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/nXG5gF8-OrJD00GK5_rUDAi3yUg=/0x187:672x565/800x0/images/Le-Kaseya-Center-du-Heat-de-Miami-aux-couleurs-de-GTA-6-le-18-novembre-2026-2386166.jpg"
         }
       ]
     }
