@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Présence de Marie",
+  "global_summary": "L'actualité mondiale est marquée par des enquêtes judiciaires sensibles, visant des personnalités culturelles françaises, et des tensions géopolitiques avec une accusation grave du Danemark envers la Russie. La scène européenne continue de se mobiliser pour l'Ukraine, témoignant d'une vigilance constante face au conflit. En France, l'activisme social et les enjeux de sécurité routière occupent le devant de la scène locale.\n\nSur le plan technologique et économique, des décisions majeures en Formule 1 redéfinissent l'avenir des moteurs, tandis que de grands acteurs du jeu vidéo traversent des phases de transition. Les déclarations de figures influentes sur le marché des puces révèlent des enjeux économiques mondiaux. Enfin, le monde du sport navigue entre scandales éthiques, performances de stars montantes et la lutte incessante contre le dopage, rappelant l'importance de l'intégrité et de l'excellence athlétique.",
+  "running_advice": "Salut champion(ne) ! Aujourd'hui, on ne se laisse pas décourager par un peu de fraîcheur ou quelques gouttes ! Avec des températures entre 10.2°C et 13.9°C, c'est idéal pour un running sans surchauffe. Certes, il y a 75% de chances de pluie, mais un bon K-way et une casquette et c'est parti ! L'indice UV est très bas (1.4), pas besoin de crème solaire. Pour éviter le gros de la pluie, je te conseille de chausser tes baskets juste après le lever du soleil, vers **08h30-09h00**. Tu profiteras d'une luminosité montante avant que le ciel ne s'assombrisse potentiellement. C'est l'occasion parfaite de te prouver que tu es plus fort(e) que les éléments. Alors, on lace les chaussures et on va chercher cette énergie ! Allez, on y croit !",
+  "weather_string": "🌧️ Pluie (10.2°C / 13.9°C)",
+  "weather_stats": {
+    "temp": "13.9°C",
+    "rain": "75%",
+    "uv": "1.4"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Depardieu et Houellebecq visés par enquêtes",
+          "summary": "Deux géants de la culture française sont ciblés par des investigations pour viol et agressions sexuelles.",
+          "url": "https://www.courrierinternational.com/article/violences-gerard-depardieu-et-michel-houellebecq-vises-par-des-investigations-pour-viol-et-agressions-sexuelles_288899",
+          "image": "https://focus.courrierinternational.com/2025/03/25/0/0/4432/2960/644/0/60/0/1ed51bf_ftp-import-images-1-jdsabipjqgmw-2025-03-25t111923z-2121968450-rc2bkdab4swv-rtrmadp-3-people-depardieu-trial.JPG"
+        },
+        {
+          "title": "Danemark : la Russie accusée d'assassinat",
+          "summary": "Le Danemark pointe la Russie pour la tentative d'assassinat d'un rappeur ukrainien sur son sol.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/20/le-danemark-accuse-la-russie-d-avoir-commandite-la-tentative-d-assassinat-d-un-rappeur-ukrainien-sur-son-territoire_6813695_3210.html",
+          "image": "https://img.lemde.fr/2026/11/20/217/0/5232/2616/644/322/60/0/80ea034_ftp-1-d4lnbmnpqrlm-afp-d86h8hj.jpg"
+        },
+        {
+          "title": "Pologne: coalition pour l'Ukraine s'exerce",
+          "summary": "La coalition pour l'Ukraine se prépare en Pologne, témoignant de l'ombre persistante de la guerre.",
+          "url": "https://www.franceguyane.fr/actualite/international/en-pologne-la-coalition-pour-lukraine-sexerce-a-lombre-de-la-guerre-1100428.php",
+          "image": "https://medias.franceantilles.fr/api/v1/images/view/6b00940ddc06815cc90ea8e8/width_1000/image.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "L214 agit contre E.Leclerc aux Landes",
+          "summary": "L'association L214 mène une action coup de poing à la centrale d'achats de E.Leclerc dans les Landes.",
+          "url": "https://actu.fr/nouvelle-aquitaine/mont-de-marsan_40192/j-ai-pris-un-rtt-pour-venir-pourquoi-l214-mene-une-action-a-la-centrale-d-achats-de-e-leclerc-dans-les-landes_65082749.html",
+          "image": "https://static.actu.fr/uploads/2026/11/whatsapp-image-2026-11-20-at-145121-1024x557.jpeg"
+        },
+        {
+          "title": "Sécurité routière: les Landes durcissent",
+          "summary": "Le préfet intensifie les suspensions de permis face aux infractions d'alcool, stupéfiants et vitesse.",
+          "url": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/securite-routiere-dans-les-landes-le-prefet-va-augmenter-les-suspensions-administratives-du-permis-de-conduire-pour-l-alcool-les-stupefiants-et-les-exces-de-vitesse-31599153.php",
+          "image": ""
+        },
+        {
+          "title": "La Rochelle: un étudiant porte plainte",
+          "summary": "Un étudiant de La Rochelle porte plainte, victime d'acharnement après s'être opposé aux blocus universitaires.",
+          "url": "https://www.sudouest.fr/charente-maritime/la-rochelle/la-rochelle-un-etudiant-porte-plainte-se-disant-victime-d-un-veritable-acharnement-depuis-qu-il-s-est-oppose-aux-blocus-de-l-universite-31593376.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Tech & Science",
+      "emoji": "📱🔬",
+      "articles": [
+        {
+          "title": "F1: retour du V8 en 2030",
+          "summary": "La FIA officialise le grand retour des moteurs V8 en Formule 1 pour la saison 2030, une révolution technique.",
+          "url": "https://franceracing.fr/f1/formule-1-retour-moteur-v8-reglementation-2030-fia/",
+          "image": "https://franceracing.fr/wp-content/uploads/2026/11/2026-Mexico-GP-Start.jpg"
+        },
+        {
+          "title": "NASA teste moteur pour Artemis",
+          "summary": "La NASA teste un puissant moteur SLS, préparant les prochaines missions du programme lunaire Artemis.",
+          "url": "https://www.journaldugeek.com/2026/11/20/programme-artemis-preparer-prochaines-missions-lunaires-nasa-tester-lun-moteurs-plus-puissants-fusee-sls/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Test-Moteur-SLS-1280x853.jpg"
+        },
+        {
+          "title": "Sonde européenne vers Mercure",
+          "summary": "Après 8 ans, une sonde européenne se met en orbite autour de Mercure, planète mystérieuse du Système solaire.",
+          "url": "https://www.journaldugeek.com/2026/11/20/apres-huit-ans-voyage-sonde-spatiale-europeenne-placer-orbite-autour-planete-moins-exploree-systeme-solaire/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Mercure-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Trump critique les puces chinoises",
+          "summary": "Trump accuse Jensen Huang de 'mauvaises décisions' et promet de limiter la Chine aux vieilles puces.",
+          "url": "https://fr.benzinga.com/news/global/asia/trump-affirme-que-jensen-huang-a-pris-de-mauvaises-decisions-et-promet-que-la-chine-naura-que-de-vieilles-puces/",
+          "image": "https://cdn.benzinga.com/files/images/story/2026/11/20/President-Donald-J--Trump-participates-i.jpg?width=2048&height=1536"
+        },
+        {
+          "title": "Ubisoft : une \"année de transition\"",
+          "summary": "Le géant du jeu vidéo Ubisoft peine à se redresser et qualifie l'année de \"transition difficile\".",
+          "url": "https://www.lefigaro.fr/secteur/high-tech/une-annee-de-transition-pourquoi-ubisoft-peine-a-redresser-la-barre-20261120",
+          "image": "https://i.f1g.fr/media/cms/3000x2000_crop/2026/11/20/6f620430be50510f5a31224541f10b06f1a2f6f41cf10f58a22f4b57976e357a.jpg"
+        },
+        {
+          "title": "OS: efficace mais pour initiés",
+          "summary": "Un changement de système d'exploitation promet efficacité, mais s'adresse aux utilisateurs avancés.",
+          "url": "https://www.la-croix.com/economie/systemes-d-exploitation-un-changement-reserve-aux-utilisateurs-avances-mais-tres-efficace-20261120",
+          "image": "https://i.la-croix.com/x/2026/11/20/2592797-linux-sur-ordinateur-et-eos-sur-telephones-offrent.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Bizutage: sanctions au Pôle France",
+          "summary": "La FFBB sanctionne dix joueurs impliqués dans un violent bizutage au Pôle France Basket.",
+          "url": "https://rmcsport.bfmtv.com/basket/violent-bizutage-au-pole-france-basket-la-ffbb-devoile-les-sanctions-definitives-contre-les-dix-joueurs-impliques_AV-202611200867.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/MDkYND4HEnq8aCvnkMkQzLQ_rwU=/415x0:1679x711/800x0/images/L-INSEP-a-Paris-1593352.jpg"
+        },
+        {
+          "title": "Wembanyama ne veut plus dunker",
+          "summary": "Victor Wembanyama explique 'ça me tue' en révélant pourquoi il ne souhaite plus dunker en match.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/ca-me-tue-pourquoi-victor-wembanyama-ne-veut-plus-dunker_AV-202611200314.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/QB7eTyBhDDmquPMfXE_p8Kx4b0w=/11x1:619x343/800x0/images/Victor-Wembanyama-marque-au-dessus-du-panier-lors-de-la-victoire-de-San-Antonio-contre-les-Los-Angeles-Clippers-124-112-le-19-novembre-2026-2387412.jpg"
+        },
+        {
+          "title": "Championne du monde marathon dopée",
+          "summary": "La Kényane Peres Jepchirchir, championne du monde du marathon, suspendue trois ans pour dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
+        }
+      ]
+    }
+  ]
+}
