@@ -1,10 +1,10 @@
 {
   "ephemeride": "Sainte Cécile",
-  "global_summary": "L'actualité mondiale est marquée par de profondes tensions géopolitiques, de la vigilance accrue de l'Estonie face à la Russie à l'impact sociétal du suicide d'un ancien chef de police italien, sans oublier l'écho littéraire d'un Benghazi du XXe siècle. En France, la période festive s'illumine dans certaines villes, tandis que les préoccupations économiques et sociales persistent, avec des mobilisations agricoles et des manifestations. \nSur le front technologique, les conseils pour optimiser le budget transport et les alertes sur la cybersécurité dominent. Le sport, quant à lui, est à la croisée des chemins entre les succès nationaux en rugby, les scandales de dopage qui secouent l'athlétisme et les débats éthiques sur l'avenir des Jeux Olympiques.",
-  "running_advice": "Aujourd'hui, chers sportifs, le ciel nous offre un défi stimulant avec 100% de probabilité de pluie et des températures douces entre 11.1°C et 14.6°C. Ce n'est pas le jour idéal pour une sortie sans préparation, mais c'est une excellente occasion de tester votre détermination et votre équipement ! Pensez à votre imperméable léger et à des chaussures adaptées. L'indice UV est bas (2.3), donc pas besoin de crème solaire. Pour maximiser votre confort, je vous conseille de viser un créneau avant la tombée de la nuit, disons entre **16h00 et 17h00**, pour profiter de la luminosité restante et d'une température encore agréable avant que l'humidité ne s'installe vraiment. Transformez cette pluie en puissance : chaque goutte est un rappel de votre engagement ! Prêt à relever le défi ?",
-  "weather_string": "🌧️ Pluie (11.1°C / 14.6°C)",
+  "global_summary": "Aujourd'hui, l'actualité mondiale nous plonge dans des récits poignants, de la résilience libyenne aux tensions géopolitiques estoniennes, tandis qu'en Italie, le monde de la justice est ébranlé par un suicide retentissant. En France, l'esprit festif des illuminations de Noël et l'ouverture d'une patinoire hivernale contrastent avec les défis économiques liés au coût de la vie et aux arnaques. Les manifestations sociales persistent, soulignant des préoccupations importantes. \nLe sport n'est pas en reste, célébrant une victoire majeure pour le rugby français, mais faisant également face à des révélations de dopage qui secouent l'athlétisme. Les innovations technologiques nous alertent sur la sécurité des paiements et la cybercriminalité, tout en offrant des solutions pour optimiser nos dépenses. Entre joies hivernales, défis sociétaux et prouesses sportives, la journée dessine un tableau complexe et dynamique de notre monde.",
+  "running_advice": "Aujourd'hui, chers athlètes, la météo nous réserve un véritable défi : 🌧️ de la pluie toute la journée, avec des températures douces entre 11.1°C et 14.4°C. Ce n'est pas le moment de flancher ! Enfilez votre coupe-vent imperméable et vos chaussures adaptées, car courir sous la pluie, c'est aussi forger son mental. Pour éviter le gros de la journée et profiter d'une lumière (certes faible) et d'une température maximale, visez une séance entre 13h00 et 15h00. L'indice UV est bas (2.3), donc pas besoin de protection solaire, mais restez vigilants sur les surfaces glissantes. Allez, on garde la motivation, chaque goutte est une victoire !",
+  "weather_string": "🌧️ Pluie (11.1°C / 14.4°C)",
   "weather_stats": {
-    "temp": "14.6°C",
+    "temp": "14.4°C",
     "rain": "100%",
     "uv": "2.3"
   },
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Roman poignant ravive Benghazi du XXe siècle",
-          "summary": "Un roman lyrique explore l'histoire de Benghazi, Libye, offrant une immersion dans le tournant du 20e siècle.",
+          "title": "Najwa Bin Shatwan : un roman lyrique sur Benghazi",
+          "summary": "Une romancière explore l'histoire de Benghazi au XXe siècle, offrant une perspective unique sur la Libye.",
           "url": "https://www.lemonde.fr/livres/article/2026/11/21/avec-le-lyrique-l-enclos-des-esclaves-la-romanciere-najwa-bin-shatwan-ravive-benghazi-en-libye-au-tournant-du-xx-siecle_6814055_3260.html",
           "image": "https://asset.lemde.fr/medias/img/social-network/default.png"
         },
         {
-          "title": "Estonie se mure face à la Russie",
-          "summary": "De la Guerre Froide à aujourd'hui, l'Estonie renforce ses défenses face aux tensions croissantes avec la Russie.",
+          "title": "L'Estonie face à la Russie : nouvelle guerre des nerfs",
+          "summary": "L'Estonie renforce ses défenses, témoignant d'une escalade des tensions face à son puissant voisin russe.",
           "url": "https://www.lepoint.fr/histoire/samedis-de-l-histoire-QZN2ND3MHJDVHHVEHKBQSRZZAU/",
           "image": "https://www.lepoint.fr/resizer/v2/QVJ2FD57PFMPHIVU5WINWGDCPQ.jpg?auth=da7f7b559978b57d94f1b60a549542d94e4aebf7a6100dcee875daa33eddca1a&smart=true&width=1200&height=900"
         },
         {
-          "title": "Saviano choqué par suicide policier italien",
-          "summary": "L'auteur de \"Gomorra\" exprime son immense choc suite au suicide de l'ancien chef de la police italienne.",
+          "title": "Saviano choqué par le suicide de De Gennaro",
+          "summary": "Roberto Saviano exprime son choc après le suicide de l'ancien chef de la police italienne, un événement majeur.",
           "url": "https://www.lemonde.fr/international/article/2026/11/21/roberto-saviano-auteur-de-gomorra-le-suicide-de-l-ancien-chef-de-la-police-italienne-gianni-de-gennaro-est-un-choc-immense_6814054_3210.html",
           "image": "https://img.lemde.fr/2023/07/17/257/0/2362/1181/644/322/60/0/dddc675_1689572631218-34a-camille-millerand-img-0745.jpg"
         }
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Patinoire inédite au sommet du Salève",
-          "summary": "Une patinoire de 200 m² s'installe pour la première fois cet hiver au sommet du Salève.",
+          "title": "Patinoire éphémère au sommet du Salève",
+          "summary": "Une patinoire inédite ouvre ses portes en altitude, offrant une attraction hivernale spectaculaire en France.",
           "url": "https://www.lemessager.fr/649360642/article/2026-11-21/une-patinoire-de-200-m2-prend-de-la-hauteur-au-sommet-du-saleve-pour-la-premiere",
           "image": "https://www.lemessager.fr/sites/default/files/dpistyles_v2/ena_16_9_medium/2026/11/21/node_649360642/440507/public/2026/11/21/114171478.png"
         },
         {
           "title": "Chalon-sur-Saône s'illumine pour Noël",
-          "summary": "Les rues de Chalon-sur-Saône brillent de mille feux pour six semaines de festivités de Noël.",
+          "summary": "Les fêtes de Noël démarrent à Chalon-sur-Saône avec six semaines d'illuminations féeriques.",
           "url": "https://www.lejsl.com/culture-loisirs/2026/11/21/fetes-de-noel-3-2-1-et-les-rues-s-illuminent-pour-six-semaines",
           "image": "https://cdn-s-www.lejsl.com/images/EFC7286E-821D-4F37-8DEB-780C05D1FC9D/MF_contenu/fetes-de-noel-3-2-1-et-les-rues-s-illuminent-pour-six-semaines-1795284292.jpg"
         },
         {
-          "title": "Bordeaux: grand excès de vitesse sur pont",
-          "summary": "Un conducteur a été flashé à 118 km/h au lieu de 50 sur le pont Simone-Veil à Bordeaux, un record.",
-          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-un-conducteur-flashe-a-118-km-h-au-lieu-de-50-sur-le-pont-simone-veil-31590928.php",
-          "image": ""
+          "title": "JO 2030 d'hiver en France : l'attente grandit",
+          "summary": "La France se prépare à potentiellement accueillir les Jeux olympiques d'hiver 2030, une grande nouvelle.",
+          "url": "https://www.vosgesmatin.fr/jeux-olympiques/2026/11/21/jo-2030-attendez-vous-ces-jeux-olympiques-d-hiver-en-france",
+          "image": "http://cdn-files.prsmedia.fr/files/VOM/fr/images/VOM_placeholder.png"
         }
       ]
     },
@@ -62,46 +62,64 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Rouler moins cher: hybride, électrique, occasion",
-          "summary": "Explorez le marché de l'occasion dans le Calvados pour des astuces économiques sur votre prochain véhicule.",
+          "title": "Rouler moins cher : le marché de l'occasion",
+          "summary": "Optimisez vos dépenses auto : panorama du marché de l'occasion hybride, électrique et diesel dans le Calvados.",
           "url": "https://actu.fr/normandie/caen_14118/voiture-hybride-electrique-diesel-comment-rouler-moins-cher-zoom-sur-le-marche-de-loccasion-dans-le-calvados_65072905.html",
           "image": "https://static.actu.fr/uploads/2026/11/4e8ec74a8dfa6139ec74a8dfa179ecv-1024x557.jpg"
         },
         {
-          "title": "Arnaque au plein par carte: méfiance",
-          "summary": "Un message d'alerte important pour les automobilistes : des clients ont perdu jusqu'à 1 000 euros.",
+          "title": "Arnaque au plein par carte : soyez vigilant",
+          "summary": "Attention aux messages d'alerte lors du paiement de carburant par carte, des clients ont perdu gros.",
           "url": "https://www.capital.fr/auto/vous-payez-votre-plein-par-carte-le-message-qui-doit-vous-alerter-des-clients-ont-perdu-pres-de-1-000-euros-1532056",
           "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~21~90dd4856-7c6b-42b7-8fca-2c474f60e0db.jpeg/1200x900/quality/80/vous-payez-votre-plein-par-carte-le-message-qui-doit-vous-alerter-des-clients-ont-perdu-pres-de-1-000-euros.jpg"
         },
         {
-          "title": "Sites populaires distribuent logiciels malveillants",
-          "summary": "BBC, CNN, Zoom : attention, même des sites réputés ont pu diffuser des logiciels malveillants.",
+          "title": "Logiciels malveillants sur sites populaires",
+          "summary": "Des géants du web comme la BBC et Air France ont hébergé des logiciels malveillants, alerte cyber-sécurité.",
           "url": "https://www.journaldugeek.com/2026/11/21/bbc-cnn-zoom-air-france-ces-sites-tres-populaires-ont-distribue-des-logiciels-malveillants/",
           "image": "https://www.journaldugeek.com/app/uploads/2024/07/pirate-1403x935.jpg"
         }
       ]
     },
     {
-      "label": "Économie",
+      "label": "Business",
       "emoji": "📈",
       "articles": [
         {
-          "title": "Ferme en fête: sensibilisation agricole réussie",
-          "summary": "Un événement festif pour sensibiliser aux défis agricoles actuels, montrant l'importance de s'adapter.",
+          "title": "Ferme en fête : sensibiliser à l'agriculture",
+          "summary": "Un événement festif met en lumière les défis de l'agriculture actuelle, prônant adaptation et soutien.",
           "url": "https://www.sudouest.fr/economie/agriculture/il-faut-croire-a-notre-modele-actuel-et-l-adapter-a-l-agriculture-d-aujourd-hui-le-succes-de-l-operation-ferme-en-fete-pour-sensibiliser-aux-difficultes-agricoles-31604398.php",
           "image": "https://media.sudouest.fr/31604398/1200x-1/img-5510.jpeg"
         },
         {
-          "title": "Manifestations en baisse, tensions à Bordeaux",
-          "summary": "La 6e journée de mobilisation voit une baisse de participation, mais des tensions persistent à Bordeaux.",
+          "title": "Mobilisation en baisse pour les manifestations",
+          "summary": "Le sixième samedi de manifestations voit une mobilisation réduite, avec des tensions signalées à Bordeaux.",
           "url": "https://www.sudouest.fr/economie/social/greve/manifestation-du-21-novembre-mobilisation-en-baisse-pour-ce-6e-samedi-dans-la-rue-tensions-en-fin-de-cortege-a-bordeaux-31606462.php",
           "image": "https://media.sudouest.fr/31606462/1200x-1/20261121170533-2111226xl31523.jpg"
         },
         {
-          "title": "Salon gastronomie: exposants motivés",
-          "summary": "Au Salon de la gastronomie de Châteauroux, des exposants déterminés à séduire leurs clients.",
+          "title": "Salon gastronomie : exposants motivés à Châteauroux",
+          "summary": "Au Salon de la gastronomie de Châteauroux, les exposants rivalisent d'ingéniosité pour séduire les clients.",
           "url": "https://www.lanouvellerepublique.fr/chateauroux/il-faut-savoir-se-vendre-face-aux-clients-au-salon-de-la-gastronomie-de-chateauroux-des-exposants-motives-pour-plaire-1795284093",
           "image": "https://images.lanouvellerepublique.fr/image/upload/v1795279841/6b01dc7b0aaf4627738b4665"
+        }
+      ]
+    },
+    {
+      "label": "Local",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Cargo échoué : les Landes en alerte",
+          "summary": "Un cargo s'est échoué dans les Landes, nécessitant l'hélitreuillage de ses onze membres d'équipage.",
+          "url": "https://www.sudouest.fr/faits-divers/faits-divers-dans-les-landes/cargo-echoue-dans-les-landes-les-onze-personnes-a-bord-ont-ete-helitreuillees-pour-une-mesure-de-securite-en-raison-de-la-degradation-meteorologique-31608031.php",
+          "image": null
+        },
+        {
+          "title": "Excès de vitesse record à Bordeaux",
+          "summary": "Un automobiliste a été flashé à 118 km/h sur le pont Simone-Veil à Bordeaux, où la limite est 50 km/h.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-un-conducteur-flashe-a-118-km-h-au-lieu-de-50-sur-le-pont-simone-veil-31590928.php",
+          "image": null
         }
       ]
     },
@@ -110,22 +128,22 @@
       "emoji": "🏅",
       "articles": [
         {
-          "title": "Dopage: Jepchirchir championne du monde suspendue",
-          "summary": "La Kényane Peres Jepchirchir, championne du monde de marathon, est suspendue trois ans pour dopage.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
-        },
-        {
-          "title": "Rugby: Dupont en finale après victoire",
-          "summary": "Antoine Dupont exprime sa joie après la victoire de la France contre l'Argentine et leur place en finale.",
+          "title": "Rugby : la France en finale !",
+          "summary": "Le XV de France écrase l'Argentine 45-17, Antoine Dupont exprime sa joie d'atteindre la finale.",
           "url": "https://rmcsport.bfmtv.com/rugby/video-france-45-17-argentine-la-ou-on-veut-etre-dupont-se-frotte-les-mains-d-etre-en-finale_VN-202611210503.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/FBkm0JqvwY5ko2ok_Ph78PaB5gc=/0x0:1280x720/800x0/images/France-45-17-Argentine-La-ou-on-veut-etre-Dupont-heureux-d-etre-en-finale-2388347.jpg"
         },
         {
-          "title": "JO 2028: débat sur tests de féminité",
-          "summary": "Marina Ferrari appelle à un front commun contre le CIO concernant les tests de féminité aux JO 2028.",
-          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/tests-de-feminite-aux-jo-2028-marina-ferrari-souhaite-un-front-commun-contre-le-cio_AV-202611200834.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/MTMWJ9muD77Y1PT0r5q73umvV4M=/0x0:1920x1080/800x0/images/Marina-Ferrari-ministre-des-Sports-de-la-Jeunesse-et-de-la-Vie-associative-2292168.jpg"
+          "title": "Dopage : la championne du monde suspendue",
+          "summary": "Peres Jepchirchir, championne du monde de marathon, est suspendue trois ans pour dopage, un choc.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
+        },
+        {
+          "title": "Wembanyama ne veut plus dunker !",
+          "summary": "Victor Wembanyama révèle pourquoi il délaisse les dunks, une confession surprenante de la star NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/ca-me-tue-pourquoi-victor-wembanyama-ne-veut-plus-dunker_AV-202611200314.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/QB7eTyBhDDmquPMfXE_p8Kx4b0w=/11x1:619x343/800x0/images/Victor-Wembanyama-marque-au-dessus-du-panier-lors-de-la-victoire-de-San-Antonio-contre-les-Los-Angeles-Clippers-124-112-le-19-novembre-2026-2387412.jpg"
         }
       ]
     }
