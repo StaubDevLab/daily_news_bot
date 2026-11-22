@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Cécile",
+  "global_summary": "L'actualité mondiale est marquée par de profondes tensions géopolitiques, de la vigilance accrue de l'Estonie face à la Russie à l'impact sociétal du suicide d'un ancien chef de police italien, sans oublier l'écho littéraire d'un Benghazi du XXe siècle. En France, la période festive s'illumine dans certaines villes, tandis que les préoccupations économiques et sociales persistent, avec des mobilisations agricoles et des manifestations. \nSur le front technologique, les conseils pour optimiser le budget transport et les alertes sur la cybersécurité dominent. Le sport, quant à lui, est à la croisée des chemins entre les succès nationaux en rugby, les scandales de dopage qui secouent l'athlétisme et les débats éthiques sur l'avenir des Jeux Olympiques.",
+  "running_advice": "Aujourd'hui, chers sportifs, le ciel nous offre un défi stimulant avec 100% de probabilité de pluie et des températures douces entre 11.1°C et 14.6°C. Ce n'est pas le jour idéal pour une sortie sans préparation, mais c'est une excellente occasion de tester votre détermination et votre équipement ! Pensez à votre imperméable léger et à des chaussures adaptées. L'indice UV est bas (2.3), donc pas besoin de crème solaire. Pour maximiser votre confort, je vous conseille de viser un créneau avant la tombée de la nuit, disons entre **16h00 et 17h00**, pour profiter de la luminosité restante et d'une température encore agréable avant que l'humidité ne s'installe vraiment. Transformez cette pluie en puissance : chaque goutte est un rappel de votre engagement ! Prêt à relever le défi ?",
+  "weather_string": "🌧️ Pluie (11.1°C / 14.6°C)",
+  "weather_stats": {
+    "temp": "14.6°C",
+    "rain": "100%",
+    "uv": "2.3"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Roman poignant ravive Benghazi du XXe siècle",
+          "summary": "Un roman lyrique explore l'histoire de Benghazi, Libye, offrant une immersion dans le tournant du 20e siècle.",
+          "url": "https://www.lemonde.fr/livres/article/2026/11/21/avec-le-lyrique-l-enclos-des-esclaves-la-romanciere-najwa-bin-shatwan-ravive-benghazi-en-libye-au-tournant-du-xx-siecle_6814055_3260.html",
+          "image": "https://asset.lemde.fr/medias/img/social-network/default.png"
+        },
+        {
+          "title": "Estonie se mure face à la Russie",
+          "summary": "De la Guerre Froide à aujourd'hui, l'Estonie renforce ses défenses face aux tensions croissantes avec la Russie.",
+          "url": "https://www.lepoint.fr/histoire/samedis-de-l-histoire-QZN2ND3MHJDVHHVEHKBQSRZZAU/",
+          "image": "https://www.lepoint.fr/resizer/v2/QVJ2FD57PFMPHIVU5WINWGDCPQ.jpg?auth=da7f7b559978b57d94f1b60a549542d94e4aebf7a6100dcee875daa33eddca1a&smart=true&width=1200&height=900"
+        },
+        {
+          "title": "Saviano choqué par suicide policier italien",
+          "summary": "L'auteur de \"Gomorra\" exprime son immense choc suite au suicide de l'ancien chef de la police italienne.",
+          "url": "https://www.lemonde.fr/international/article/2026/11/21/roberto-saviano-auteur-de-gomorra-le-suicide-de-l-ancien-chef-de-la-police-italienne-gianni-de-gennaro-est-un-choc-immense_6814054_3210.html",
+          "image": "https://img.lemde.fr/2023/07/17/257/0/2362/1181/644/322/60/0/dddc675_1689572631218-34a-camille-millerand-img-0745.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Patinoire inédite au sommet du Salève",
+          "summary": "Une patinoire de 200 m² s'installe pour la première fois cet hiver au sommet du Salève.",
+          "url": "https://www.lemessager.fr/649360642/article/2026-11-21/une-patinoire-de-200-m2-prend-de-la-hauteur-au-sommet-du-saleve-pour-la-premiere",
+          "image": "https://www.lemessager.fr/sites/default/files/dpistyles_v2/ena_16_9_medium/2026/11/21/node_649360642/440507/public/2026/11/21/114171478.png"
+        },
+        {
+          "title": "Chalon-sur-Saône s'illumine pour Noël",
+          "summary": "Les rues de Chalon-sur-Saône brillent de mille feux pour six semaines de festivités de Noël.",
+          "url": "https://www.lejsl.com/culture-loisirs/2026/11/21/fetes-de-noel-3-2-1-et-les-rues-s-illuminent-pour-six-semaines",
+          "image": "https://cdn-s-www.lejsl.com/images/EFC7286E-821D-4F37-8DEB-780C05D1FC9D/MF_contenu/fetes-de-noel-3-2-1-et-les-rues-s-illuminent-pour-six-semaines-1795284292.jpg"
+        },
+        {
+          "title": "Bordeaux: grand excès de vitesse sur pont",
+          "summary": "Un conducteur a été flashé à 118 km/h au lieu de 50 sur le pont Simone-Veil à Bordeaux, un record.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-un-conducteur-flashe-a-118-km-h-au-lieu-de-50-sur-le-pont-simone-veil-31590928.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "Rouler moins cher: hybride, électrique, occasion",
+          "summary": "Explorez le marché de l'occasion dans le Calvados pour des astuces économiques sur votre prochain véhicule.",
+          "url": "https://actu.fr/normandie/caen_14118/voiture-hybride-electrique-diesel-comment-rouler-moins-cher-zoom-sur-le-marche-de-loccasion-dans-le-calvados_65072905.html",
+          "image": "https://static.actu.fr/uploads/2026/11/4e8ec74a8dfa6139ec74a8dfa179ecv-1024x557.jpg"
+        },
+        {
+          "title": "Arnaque au plein par carte: méfiance",
+          "summary": "Un message d'alerte important pour les automobilistes : des clients ont perdu jusqu'à 1 000 euros.",
+          "url": "https://www.capital.fr/auto/vous-payez-votre-plein-par-carte-le-message-qui-doit-vous-alerter-des-clients-ont-perdu-pres-de-1-000-euros-1532056",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~21~90dd4856-7c6b-42b7-8fca-2c474f60e0db.jpeg/1200x900/quality/80/vous-payez-votre-plein-par-carte-le-message-qui-doit-vous-alerter-des-clients-ont-perdu-pres-de-1-000-euros.jpg"
+        },
+        {
+          "title": "Sites populaires distribuent logiciels malveillants",
+          "summary": "BBC, CNN, Zoom : attention, même des sites réputés ont pu diffuser des logiciels malveillants.",
+          "url": "https://www.journaldugeek.com/2026/11/21/bbc-cnn-zoom-air-france-ces-sites-tres-populaires-ont-distribue-des-logiciels-malveillants/",
+          "image": "https://www.journaldugeek.com/app/uploads/2024/07/pirate-1403x935.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Ferme en fête: sensibilisation agricole réussie",
+          "summary": "Un événement festif pour sensibiliser aux défis agricoles actuels, montrant l'importance de s'adapter.",
+          "url": "https://www.sudouest.fr/economie/agriculture/il-faut-croire-a-notre-modele-actuel-et-l-adapter-a-l-agriculture-d-aujourd-hui-le-succes-de-l-operation-ferme-en-fete-pour-sensibiliser-aux-difficultes-agricoles-31604398.php",
+          "image": "https://media.sudouest.fr/31604398/1200x-1/img-5510.jpeg"
+        },
+        {
+          "title": "Manifestations en baisse, tensions à Bordeaux",
+          "summary": "La 6e journée de mobilisation voit une baisse de participation, mais des tensions persistent à Bordeaux.",
+          "url": "https://www.sudouest.fr/economie/social/greve/manifestation-du-21-novembre-mobilisation-en-baisse-pour-ce-6e-samedi-dans-la-rue-tensions-en-fin-de-cortege-a-bordeaux-31606462.php",
+          "image": "https://media.sudouest.fr/31606462/1200x-1/20261121170533-2111226xl31523.jpg"
+        },
+        {
+          "title": "Salon gastronomie: exposants motivés",
+          "summary": "Au Salon de la gastronomie de Châteauroux, des exposants déterminés à séduire leurs clients.",
+          "url": "https://www.lanouvellerepublique.fr/chateauroux/il-faut-savoir-se-vendre-face-aux-clients-au-salon-de-la-gastronomie-de-chateauroux-des-exposants-motives-pour-plaire-1795284093",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1795279841/6b01dc7b0aaf4627738b4665"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Dopage: Jepchirchir championne du monde suspendue",
+          "summary": "La Kényane Peres Jepchirchir, championne du monde de marathon, est suspendue trois ans pour dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
+        },
+        {
+          "title": "Rugby: Dupont en finale après victoire",
+          "summary": "Antoine Dupont exprime sa joie après la victoire de la France contre l'Argentine et leur place en finale.",
+          "url": "https://rmcsport.bfmtv.com/rugby/video-france-45-17-argentine-la-ou-on-veut-etre-dupont-se-frotte-les-mains-d-etre-en-finale_VN-202611210503.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/FBkm0JqvwY5ko2ok_Ph78PaB5gc=/0x0:1280x720/800x0/images/France-45-17-Argentine-La-ou-on-veut-etre-Dupont-heureux-d-etre-en-finale-2388347.jpg"
+        },
+        {
+          "title": "JO 2028: débat sur tests de féminité",
+          "summary": "Marina Ferrari appelle à un front commun contre le CIO concernant les tests de féminité aux JO 2028.",
+          "url": "https://rmcsport.bfmtv.com/jeux-olympiques/tests-de-feminite-aux-jo-2028-marina-ferrari-souhaite-un-front-commun-contre-le-cio_AV-202611200834.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/MTMWJ9muD77Y1PT0r5q73umvV4M=/0x0:1920x1080/800x0/images/Marina-Ferrari-ministre-des-Sports-de-la-Jeunesse-et-de-la-Vie-associative-2292168.jpg"
+        }
+      ]
+    }
+  ]
+}
