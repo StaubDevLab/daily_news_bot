@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Clément",
+  "global_summary": "L'actualité de ce jour est marquée par un dynamisme contrasté entre avancées prometteuses et défis persistants. En France, le Sommet Choose France met en lumière des promesses d'investissements massifs, tandis que les débats politiques s'intensifient autour de propositions chocs comme la réduction des effectifs de la fonction publique et une loi pour faciliter la vie des personnes allergiques. Ces discussions soulignent les enjeux économiques et sociaux majeurs qui animent la sphère publique. \n\nParallèlement, le monde de la tech vibre avec une potentielle avancée monumentale de l'IA Claude, tandis que le sport est à la fête avec une performance époustouflante de Wembanyama en NBA. Cependant, des ombres planent sur l'athlétisme avec des affaires de dopage qui rappellent la vigilance nécessaire pour préserver l'intégrité des compétitions. Entre innovation, politique et sport, cette journée nous invite à la fois à l'enthousiasme et à la réflexion.",
+  "running_advice": "Prépare tes baskets, champion(ne) ! Aujourd'hui, c'est une excellente journée pour transpirer ! Avec un ciel peu nuageux, des températures douces allant de 9.3°C à 14.7°C, et seulement 8% de risque de pluie, les conditions sont presque parfaites. L'indice UV est bas (2), donc pas de souci côté soleil. Pour profiter au maximum de cette météo clémente et d'une belle luminosité, je te conseille de courir en milieu de journée, entre 10h et 16h. C'est le créneau idéal pour capter un maximum de lumière naturelle et booster ta vitamine D. Alors, prêt(e) à relever le défi et à conquérir le bitume ?",
+  "weather_string": "🌤️ Peu nuageux (9.3°C / 14.7°C)",
+  "weather_stats": {
+    "temp": "14.7°C",
+    "rain": "8%",
+    "uv": "2"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Choose France: Promesses d'Investissements",
+          "summary": "Le sommet interroge la confiance dans les annonces d'investissements massifs pour l'économie française.",
+          "url": "https://www.vosgesmatin.fr/economie/2026/11/22/sommet-choose-france-faites-vous-confiance-aux-promesses-d-investissements-annoncees",
+          "image": "http://cdn-files.prsmedia.fr/files/VOM/fr/images/VOM_placeholder.png"
+        },
+        {
+          "title": "Espagne: Vox, Faiseur de Rois?",
+          "summary": "Santiago Abascal et Vox pourraient jouer un rôle clé aux élections législatives espagnoles, redéfinissant le paysage politique.",
+          "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-la-tete-de-vox-santiago-abascal-en-position-de-faiseur-de-roi-aux-elections-legislatives-en-espagne_8250499.html",
+          "image": "https://www.franceinfo.fr/pictures/v-P1Z7upEqZmIhcXa6HbvVWUJvE/0x522:5770x3769/432x243/filters:format(jpg)/2026/11/22/6b032c47e037b595310681.jpg"
+        },
+        {
+          "title": "Loi pour Allergiques et Gluten",
+          "summary": "Une proposition de loi vise à simplifier la vie quotidienne face aux allergies alimentaires et au gluten, notamment en cantine.",
+          "url": "https://www.leprogres.fr/politique/2026/11/22/gluten-cantines-une-proposition-de-loi-pour-faciliter-la-vie-des-personnes-allergiques",
+          "image": "https://cdn-s-www.leprogres.fr/images/2A55E733-2910-4E50-9DC1-46305716F342/MF_contenu/gluten-allergies-cantines-une-proposition-de-loi-pour-faciliter-la-vie-quotidienne-1795362037.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Lisnard : 450 000 Fonctionnaires en Moins",
+          "summary": "David Lisnard, candidat, propose une suppression massive de postes dans la fonction publique pour la présidentielle.",
+          "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-fonction-publique-david-lisnard-candidat-nouvelle-energie-a-la-presidentielle-plaide-pour-la-suppression-ou-le-non-remplacement-de-400-000-a-450-000-fonctionnaires_VN-202611220371.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/zV2l_skoInlh4snrQXuyvB9p9cQ=/0x0:1280x720/800x0/images/Fonction-publique-David-Lisnard-candidat-Nouvelle-Energie-a-la-presidentielle-plaide-pour-la-suppression-ou-le-non-remplacement-de-400-000-a-450-000-fonctionnaires-2388551.jpg"
+        },
+        {
+          "title": "Gironde: Hélorie Crée pour Mariages",
+          "summary": "En Gironde, Hélorie donne vie à l'imaginaire des futurs mariés avec ses créations uniques et locales.",
+          "url": "https://actu.fr/nouvelle-aquitaine/preignac_33337/on-donne-vie-a-limaginaire-des-gens-pour-les-mariages-helorie-cree-des-objets-made-in-gironde_65078963.html",
+          "image": "https://static.actu.fr/uploads/2026/11/51ec4e8a2ffa695ec4e8a2ffa89ec4v-1024x557.jpg"
+        },
+        {
+          "title": "Yvelines: Cambriolage chez Désiré Doué",
+          "summary": "Le footballeur Désiré Doué a été victime d'une tentative de cambriolage à son domicile des Yvelines après sa blessure.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/11/22/des-malfrats-dans-son-jardin-desire-doue-victime-d-une-tentative-de-cambriolage-apres-sa-blessure",
+          "image": "https://cdn-s-www.lalsace.fr/images/3F468017-B8E0-4384-B845-9B8369EC64D6/MF_contenu/des-malfrats-dans-son-jardin-desire-doue-victime-d-une-tentative-de-cambriolage-apres-sa-blessure-1795370642.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie & Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Choose France: 42 Milliards d'Investissements",
+          "summary": "Emmanuel Macron défend son bilan industriel avec 42 milliards d'euros de promesses d'investissements au sommet Choose France.",
+          "url": "https://www.lesechos.fr/economie-france/conjoncture/avec-42-milliards-deuros-de-promesses-dinvestissements-en-france-emmanuel-macron-defend-son-bilan-industriel-2263971",
+          "image": "https://media.lesechos.com/api/v1/images/view/6b032daf4ba821dadb01a59c/640x360/02102498760693-web-tete.jpg"
+        },
+        {
+          "title": "Sous-marins: Détectabilité en Question",
+          "summary": "La détection des sous-marins reste un défi majeur; l'attente d'une technologie \"magique\" persiste.",
+          "url": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/les-sous-marins-seront-ils-bientot-detectables-jattends-toujours-quon-trouve-un-truc-magique_65062858.html",
+          "image": "https://static.actu.fr/uploads/2026/11/f65c8b2060266fa5c8b2060267d5c8v-1024x557.jpg"
+        },
+        {
+          "title": "Airbus: Macron Soutient l'Aéronautique",
+          "summary": "Le soutien d'Emmanuel Macron à la filière aéronautique chez Airbus est très attendu, crucial pour l'industrie.",
+          "url": "https://www.lefigaro.fr/societes/chez-airbus-le-soutien-attendu-d-emmanuel-macron-a-la-filiere-aeronautique-20261122",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/11/22/2790dd9672897118895ff2277f3789744d5725c72fbd81f18a481655a37c627c.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech & Innovation",
+      "emoji": "💡",
+      "articles": [
+        {
+          "title": "L'IA Claude Résout un Vieux Problème",
+          "summary": "L'intelligence artificielle Claude aurait réalisé une prouesse monumentale en résolvant un problème mathématique datant de 167 ans.",
+          "url": "https://www.journaldugeek.com/2026/11/22/un-moment-monumental-pour-lhumanite-claude-aurait-resolu-un-probleme-vieux-de-167-ans/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/hypothese-de-riemann-preuve-ia-claude-anthropic-1280x853.jpg"
+        },
+        {
+          "title": "Sacrebleu: Lumière Sans Téléphone",
+          "summary": "Un appareil \"Sacrebleu\" permet de contrôler l'éclairage sans smartphone, misant sur le luxe et la simplicité à 1 700 $.",
+          "url": "https://www.journaldugeek.com/2026/11/22/chez-sacrebleu-baisser-la-lumiere-sans-telephone-coute-1-700-mais-cest-la-classe/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/f4-sacrebleu-1280x853.jpg"
+        },
+        {
+          "title": "GTA 6: Astuces Argent & Armes",
+          "summary": "Découvrez 7 lieux secrets dans GTA 6 pour collecter plus de 35 000 dollars et des armes puissantes sans combattre.",
+          "url": "https://www.journaldugeek.com/2026/11/22/gta-6-7-lieux-sans-ennemis-pour-gagner-plus-de-35-000-dollars-et-des-armes-bazooka-lance-grenades-etc/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/planques-armes-argent-gta-6-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sports",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Wembanyama, 50 Points en NBA",
+          "summary": "Victor Wembanyama réalise une nouvelle masterclass avec 50 points et des stats XXL pour les Spurs.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/50-points-et-des-stats-xxl-une-masterclass-de-plus-avec-les-spurs-pour-wembanyama-qui-plume-les-pelicans_AV-202611220165.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/IdDDGM9m4hswYepVw8c0ClL3v48=/0x40:768x472/800x0/images/Le-basketteur-francais-Victor-Wembanyama-lors-d-un-match-de-NBA-des-San-Antonio-Spurs-contre-les-Chicago-Bulls-le-11-novembre-2026-a-Chicago-2383987.jpg"
+        },
+        {
+          "title": "Dopage: Championne du Monde Suspendue",
+          "summary": "Peres Jepchirchir, championne du monde du marathon, écope de trois ans de suspension pour dopage.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
+        },
+        {
+          "title": "XV de France: Galthié Prépare Finale",
+          "summary": "Ramos de retour dans le groupe de Galthié pour la finale du Championnat des Nations face à l'Afrique du Sud.",
+          "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/xv-de-france-ramos-de-retour-grandidier-nkanang-forfait-le-groupe-de-galthie-pour-la-finale-face-a-l-afrique-du-sud_AV-202611220310.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/15NZl-DDlScKLsTuh7xF2kW7sO0=/0x0:2048x1152/800x0/images/Thomas-Ramos-avec-le-XV-de-France-lors-du-Tournoi-des-6-nations-le-22-fevrier-2026-2252503.jpg"
+        }
+      ]
+    }
+  ]
+}
