@@ -1,12 +1,12 @@
 {
   "ephemeride": "Saint Clément",
-  "global_summary": "L'actualité de ce jour est marquée par un dynamisme contrasté entre avancées prometteuses et défis persistants. En France, le Sommet Choose France met en lumière des promesses d'investissements massifs, tandis que les débats politiques s'intensifient autour de propositions chocs comme la réduction des effectifs de la fonction publique et une loi pour faciliter la vie des personnes allergiques. Ces discussions soulignent les enjeux économiques et sociaux majeurs qui animent la sphère publique. \n\nParallèlement, le monde de la tech vibre avec une potentielle avancée monumentale de l'IA Claude, tandis que le sport est à la fête avec une performance époustouflante de Wembanyama en NBA. Cependant, des ombres planent sur l'athlétisme avec des affaires de dopage qui rappellent la vigilance nécessaire pour préserver l'intégrité des compétitions. Entre innovation, politique et sport, cette journée nous invite à la fois à l'enthousiasme et à la réflexion.",
-  "running_advice": "Prépare tes baskets, champion(ne) ! Aujourd'hui, c'est une excellente journée pour transpirer ! Avec un ciel peu nuageux, des températures douces allant de 9.3°C à 14.7°C, et seulement 8% de risque de pluie, les conditions sont presque parfaites. L'indice UV est bas (2), donc pas de souci côté soleil. Pour profiter au maximum de cette météo clémente et d'une belle luminosité, je te conseille de courir en milieu de journée, entre 10h et 16h. C'est le créneau idéal pour capter un maximum de lumière naturelle et booster ta vitamine D. Alors, prêt(e) à relever le défi et à conquérir le bitume ?",
-  "weather_string": "🌤️ Peu nuageux (9.3°C / 14.7°C)",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux politiques et économiques cruciaux, tant au niveau international qu'en France. En Espagne, la montée de Vox pourrait redessiner le paysage politique, tandis que le sommet Choose France met en lumière les défis et les opportunités des investissements étrangers. Des propositions de loi visant à améliorer le quotidien des citoyens français témoignent également d'une attention portée aux préoccupations sociales. \nSur le front technologique, une intelligence artificielle aurait résolu un problème mathématique séculaire, ouvrant de nouvelles perspectives. Le monde des affaires est animé par des annonces d'investissements majeurs et des réflexions sur les innovations en matière de défense. Enfin, la sphère sportive vibre avec les exploits de Wembanyama en NBA, tout en étant secouée par des affaires de dopage qui rappellent l'importance de l'éthique dans le sport de haut niveau.",
+  "running_advice": "Coach ici ! Avec des informations météo incomplètes (température, ciel, pluie, UV non définis), il est difficile de donner un conseil ultra-précis pour votre run aujourd'hui. Cependant, l'absence de données ne doit pas être une excuse pour ne pas bouger ! Je vous recommande de consulter la météo locale juste avant de sortir. Que le soleil brille ou que le ciel soit couvert, chaque jour est une opportunité de progresser. Si l'indice UV s'avère élevé, n'oubliez surtout pas votre crème solaire et une casquette ! L'heure idéale sera celle où vous vous sentez le plus en forme et où le cadre est le plus agréable pour vous. Lancez-vous, l'énergie est en vous !",
+  "weather_string": "undefined undefined (undefined°C / undefined°C)",
   "weather_stats": {
-    "temp": "14.7°C",
-    "rain": "8%",
-    "uv": "2"
+    "temp": "undefined°C",
+    "rain": "undefined%",
+    "uv": "undefined"
   },
   "categories": [
     {
@@ -14,22 +14,22 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Choose France: Promesses d'Investissements",
-          "summary": "Le sommet interroge la confiance dans les annonces d'investissements massifs pour l'économie française.",
-          "url": "https://www.vosgesmatin.fr/economie/2026/11/22/sommet-choose-france-faites-vous-confiance-aux-promesses-d-investissements-annoncees",
-          "image": "http://cdn-files.prsmedia.fr/files/VOM/fr/images/VOM_placeholder.png"
-        },
-        {
-          "title": "Espagne: Vox, Faiseur de Rois?",
-          "summary": "Santiago Abascal et Vox pourraient jouer un rôle clé aux élections législatives espagnoles, redéfinissant le paysage politique.",
+          "title": "Vox en Espagne : Abascal faiseur de roi ?",
+          "summary": "Les élections législatives espagnoles pourraient voir Santiago Abascal et Vox jouer un rôle décisif, redessinant la scène politique.",
           "url": "https://www.franceinfo.fr/replay-radio/d-un-monde-a-l-autre/a-la-tete-de-vox-santiago-abascal-en-position-de-faiseur-de-roi-aux-elections-legislatives-en-espagne_8250499.html",
           "image": "https://www.franceinfo.fr/pictures/v-P1Z7upEqZmIhcXa6HbvVWUJvE/0x522:5770x3769/432x243/filters:format(jpg)/2026/11/22/6b032c47e037b595310681.jpg"
         },
         {
-          "title": "Loi pour Allergiques et Gluten",
-          "summary": "Une proposition de loi vise à simplifier la vie quotidienne face aux allergies alimentaires et au gluten, notamment en cantine.",
-          "url": "https://www.leprogres.fr/politique/2026/11/22/gluten-cantines-une-proposition-de-loi-pour-faciliter-la-vie-des-personnes-allergiques",
-          "image": "https://cdn-s-www.leprogres.fr/images/2A55E733-2910-4E50-9DC1-46305716F342/MF_contenu/gluten-allergies-cantines-une-proposition-de-loi-pour-faciliter-la-vie-quotidienne-1795362037.jpg"
+          "title": "Miracle en Amazonie : un malade d'Alzheimer survit",
+          "summary": "Un homme atteint d'Alzheimer a été retrouvé vivant au Brésil après 11 jours passés seul dans l'immense forêt amazonienne.",
+          "url": "https://www.sudouest.fr/faits-divers/un-malade-d-alzheimer-retrouve-vivant-apres-onze-jours-perdu-dans-la-foret-amazonienne-au-bresil-31617041.php",
+          "image": null
+        },
+        {
+          "title": "Choose France : des promesses à l'épreuve de la confiance",
+          "summary": "Le sommet Choose France interpelle sur la crédibilité des annonces d'investissements, cruciales pour l'attractivité du pays.",
+          "url": "https://www.vosgesmatin.fr/economie/2026/11/22/sommet-choose-france-faites-vous-confiance-aux-promesses-d-investissements-annoncees",
+          "image": "http://cdn-files.prsmedia.fr/files/VOM/fr/images/VOM_placeholder.png"
         }
       ]
     },
@@ -38,92 +38,92 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Lisnard : 450 000 Fonctionnaires en Moins",
-          "summary": "David Lisnard, candidat, propose une suppression massive de postes dans la fonction publique pour la présidentielle.",
+          "title": "Lisnard propose une réforme choc de la fonction publique",
+          "summary": "Le candidat David Lisnard préconise la suppression ou le non-remplacement de centaines de milliers de fonctionnaires pour 2027.",
           "url": "https://www.bfmtv.com/replay-emissions/le-grand-oral-2027/video-fonction-publique-david-lisnard-candidat-nouvelle-energie-a-la-presidentielle-plaide-pour-la-suppression-ou-le-non-remplacement-de-400-000-a-450-000-fonctionnaires_VN-202611220371.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/zV2l_skoInlh4snrQXuyvB9p9cQ=/0x0:1280x720/800x0/images/Fonction-publique-David-Lisnard-candidat-Nouvelle-Energie-a-la-presidentielle-plaide-pour-la-suppression-ou-le-non-remplacement-de-400-000-a-450-000-fonctionnaires-2388551.jpg"
         },
         {
-          "title": "Gironde: Hélorie Crée pour Mariages",
-          "summary": "En Gironde, Hélorie donne vie à l'imaginaire des futurs mariés avec ses créations uniques et locales.",
-          "url": "https://actu.fr/nouvelle-aquitaine/preignac_33337/on-donne-vie-a-limaginaire-des-gens-pour-les-mariages-helorie-cree-des-objets-made-in-gironde_65078963.html",
-          "image": "https://static.actu.fr/uploads/2026/11/51ec4e8a2ffa695ec4e8a2ffa89ec4v-1024x557.jpg"
+          "title": "Nouvelle loi : la vie quotidienne facilitée pour les allergiques",
+          "summary": "Une proposition de loi vise à simplifier la vie des personnes souffrant d'allergies et d'intolérances alimentaires, notamment en cantine.",
+          "url": "https://www.leprogres.fr/politique/2026/11/22/gluten-cantines-une-proposition-de-loi-pour-faciliter-la-vie-des-personnes-allergiques",
+          "image": "https://cdn-s-www.leprogres.fr/images/2A55E733-2910-4E50-9DC1-46305716F342/MF_contenu/gluten-allergies-cantines-une-proposition-de-loi-pour-faciliter-la-vie-quotidienne-1795362037.jpg"
         },
         {
-          "title": "Yvelines: Cambriolage chez Désiré Doué",
-          "summary": "Le footballeur Désiré Doué a été victime d'une tentative de cambriolage à son domicile des Yvelines après sa blessure.",
-          "url": "https://www.lalsace.fr/faits-divers-justice/2026/11/22/des-malfrats-dans-son-jardin-desire-doue-victime-d-une-tentative-de-cambriolage-apres-sa-blessure",
-          "image": "https://cdn-s-www.lalsace.fr/images/3F468017-B8E0-4384-B845-9B8369EC64D6/MF_contenu/des-malfrats-dans-son-jardin-desire-doue-victime-d-une-tentative-de-cambriolage-apres-sa-blessure-1795370642.jpg"
+          "title": "Gironde : Hélorie illumine les mariages avec ses créations",
+          "summary": "En Gironde, Hélorie met son talent au service des mariages en créant des objets uniques, valorisant le savoir-faire local.",
+          "url": "https://actu.fr/nouvelle-aquitaine/preignac_33337/on-donne-vie-a-limaginaire-des-gens-pour-les-mariages-helorie-cree-des-objets-made-in-gironde_65078963.html",
+          "image": "https://static.actu.fr/uploads/2026/11/51ec4e8a2ffa695ec4e8a2ffa89ec4v-1024x557.jpg"
         }
       ]
     },
     {
-      "label": "Économie & Business",
-      "emoji": "💰",
+      "label": "Tech",
+      "emoji": "📱",
       "articles": [
         {
-          "title": "Choose France: 42 Milliards d'Investissements",
-          "summary": "Emmanuel Macron défend son bilan industriel avec 42 milliards d'euros de promesses d'investissements au sommet Choose France.",
+          "title": "IA Claude : un problème séculaire résolu ?",
+          "summary": "L'IA \"Claude\" aurait accompli une prouesse historique en résolvant une énigme mathématique vieille de 167 ans.",
+          "url": "https://www.journaldugeek.com/2026/11/22/un-moment-monumental-pour-lhumanite-claude-aurait-resolu-un-probleme-vieux-de-167-ans/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/hypothese-de-riemann-preuve-ia-claude-anthropic-1280x853.jpg"
+        },
+        {
+          "title": "GTA 6 : découvrez les lieux clés pour l'argent et les armes",
+          "summary": "Des astuces pour GTA 6 révèlent des emplacements stratégiques pour accumuler de l'argent et obtenir des armes puissantes.",
+          "url": "https://www.journaldugeek.com/2026/11/22/gta-6-7-lieux-sans-ennemis-pour-gagner-plus-de-35-000-dollars-et-des-armes-bazooka-lance-grenades-etc/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/planques-armes-argent-gta-6-1280x853.jpg"
+        },
+        {
+          "title": "Sacrebleu : luxe et simplicité pour vos lumières",
+          "summary": "Un système de contrôle d'éclairage haut de gamme sans smartphone promet élégance et sophistication, à un prix élevé.",
+          "url": "https://www.journaldugeek.com/2026/11/22/chez-sacrebleu-baisser-la-lumiere-sans-telephone-coute-1-700-mais-cest-la-classe/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/f4-sacrebleu-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Choose France : 42 milliards d'euros pour l'industrie",
+          "summary": "Emmanuel Macron défend son bilan industriel après l'annonce de 42 milliards d'euros de promesses d'investissements au sommet Choose France.",
           "url": "https://www.lesechos.fr/economie-france/conjoncture/avec-42-milliards-deuros-de-promesses-dinvestissements-en-france-emmanuel-macron-defend-son-bilan-industriel-2263971",
           "image": "https://media.lesechos.com/api/v1/images/view/6b032daf4ba821dadb01a59c/640x360/02102498760693-web-tete.jpg"
         },
         {
-          "title": "Sous-marins: Détectabilité en Question",
-          "summary": "La détection des sous-marins reste un défi majeur; l'attente d'une technologie \"magique\" persiste.",
+          "title": "Défense : les sous-marins bientôt indétectables ?",
+          "summary": "La question de la détection des sous-marins est au cœur des débats, l'innovation restant le Graal de la défense navale.",
           "url": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/les-sous-marins-seront-ils-bientot-detectables-jattends-toujours-quon-trouve-un-truc-magique_65062858.html",
           "image": "https://static.actu.fr/uploads/2026/11/f65c8b2060266fa5c8b2060267d5c8v-1024x557.jpg"
         },
         {
-          "title": "Airbus: Macron Soutient l'Aéronautique",
-          "summary": "Le soutien d'Emmanuel Macron à la filière aéronautique chez Airbus est très attendu, crucial pour l'industrie.",
+          "title": "Airbus : Macron soutient l'avenir de l'aéronautique",
+          "summary": "Le secteur aéronautique attend un soutien fort d'Emmanuel Macron chez Airbus pour conforter sa position stratégique.",
           "url": "https://www.lefigaro.fr/societes/chez-airbus-le-soutien-attendu-d-emmanuel-macron-a-la-filiere-aeronautique-20261122",
           "image": "https://i.f1g.fr/media/cms/orig/2026/11/22/2790dd9672897118895ff2277f3789744d5725c72fbd81f18a481655a37c627c.jpg"
         }
       ]
     },
     {
-      "label": "Tech & Innovation",
-      "emoji": "💡",
+      "label": "Sport",
+      "emoji": "🥇",
       "articles": [
         {
-          "title": "L'IA Claude Résout un Vieux Problème",
-          "summary": "L'intelligence artificielle Claude aurait réalisé une prouesse monumentale en résolvant un problème mathématique datant de 167 ans.",
-          "url": "https://www.journaldugeek.com/2026/11/22/un-moment-monumental-pour-lhumanite-claude-aurait-resolu-un-probleme-vieux-de-167-ans/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/11/hypothese-de-riemann-preuve-ia-claude-anthropic-1280x853.jpg"
-        },
-        {
-          "title": "Sacrebleu: Lumière Sans Téléphone",
-          "summary": "Un appareil \"Sacrebleu\" permet de contrôler l'éclairage sans smartphone, misant sur le luxe et la simplicité à 1 700 $.",
-          "url": "https://www.journaldugeek.com/2026/11/22/chez-sacrebleu-baisser-la-lumiere-sans-telephone-coute-1-700-mais-cest-la-classe/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/11/f4-sacrebleu-1280x853.jpg"
-        },
-        {
-          "title": "GTA 6: Astuces Argent & Armes",
-          "summary": "Découvrez 7 lieux secrets dans GTA 6 pour collecter plus de 35 000 dollars et des armes puissantes sans combattre.",
-          "url": "https://www.journaldugeek.com/2026/11/22/gta-6-7-lieux-sans-ennemis-pour-gagner-plus-de-35-000-dollars-et-des-armes-bazooka-lance-grenades-etc/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/11/planques-armes-argent-gta-6-1280x853.jpg"
-        }
-      ]
-    },
-    {
-      "label": "Sports",
-      "emoji": "🏅",
-      "articles": [
-        {
-          "title": "Wembanyama, 50 Points en NBA",
-          "summary": "Victor Wembanyama réalise une nouvelle masterclass avec 50 points et des stats XXL pour les Spurs.",
+          "title": "Wembanyama : 50 points, une nouvelle masterclass !",
+          "summary": "Victor Wembanyama a signé une performance incroyable avec 50 points, dominant les Pelicans en NBA.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/50-points-et-des-stats-xxl-une-masterclass-de-plus-avec-les-spurs-pour-wembanyama-qui-plume-les-pelicans_AV-202611220165.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/IdDDGM9m4hswYepVw8c0ClL3v48=/0x40:768x472/800x0/images/Le-basketteur-francais-Victor-Wembanyama-lors-d-un-match-de-NBA-des-San-Antonio-Spurs-contre-les-Chicago-Bulls-le-11-novembre-2026-a-Chicago-2383987.jpg"
         },
         {
-          "title": "Dopage: Championne du Monde Suspendue",
-          "summary": "Peres Jepchirchir, championne du monde du marathon, écope de trois ans de suspension pour dopage.",
+          "title": "Dopage : Peres Jepchirchir suspendue trois ans",
+          "summary": "La championne du monde du marathon, Peres Jepchirchir, écope d'une suspension de trois ans pour dopage.",
           "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
         },
         {
-          "title": "XV de France: Galthié Prépare Finale",
-          "summary": "Ramos de retour dans le groupe de Galthié pour la finale du Championnat des Nations face à l'Afrique du Sud.",
+          "title": "XV de France : Galthié prépare la finale contre l'Afrique du Sud",
+          "summary": "Le groupe de Galthié se prépare pour la finale face à l'Afrique du Sud, avec le retour de Ramos et des forfaits majeurs.",
           "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/xv-de-france-ramos-de-retour-grandidier-nkanang-forfait-le-groupe-de-galthie-pour-la-finale-face-a-l-afrique-du-sud_AV-202611220310.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/15NZl-DDlScKLsTuh7xF2kW7sO0=/0x0:2048x1152/800x0/images/Thomas-Ramos-avec-le-XV-de-France-lors-du-Tournoi-des-6-nations-le-22-fevrier-2026-2252503.jpg"
         }
