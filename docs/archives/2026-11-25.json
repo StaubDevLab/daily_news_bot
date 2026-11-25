@@ -1,12 +1,12 @@
 {
   "ephemeride": "Sainte Catherine",
-  "global_summary": "Chers abonnés, bienvenue à votre dose quotidienne d'informations et d'inspiration ! Le monde fait face aujourd'hui à des enjeux complexes, entre la condamnation unanime de la France et de l'ONU suite à la flagellation d'une chanteuse en Iran, nous rappelant l'importance des droits humains, et les spéculations économiques autour de figures comme Donald Trump et Nvidia. Sur notre territoire, la vague de froid qui s'annonce nous pousse à la vigilance, tandis que des cris d'alerte sur la précarité et des études choc sur les violences sexistes nous rappellent nos responsabilités collectives.\n\nMais malgré ces défis, l'innovation ne s'arrête jamais : le secteur de la tech est en effervescence, avec de nouvelles régulations envisagées contre les géants comme Apple et des mises en garde contre les arnaques. Côté sport, le dépassement de soi est à l'honneur, même si des ombres planent avec les affaires de dopage qui secouent l'athlétisme et des controverses sur le rugby. Chaque jour est une opportunité de comprendre, d'agir et de se dépasser. Restons connectés, informés et toujours en mouvement !",
-  "running_advice": "Aujourd'hui, Sainte Catherine, et la météo nous met au défi ! Avec des températures entre 8.4°C et 13.5°C, on reste dans le frais mais supportable. Le facteur clé, c'est cette probabilité de pluie à 70% et un ciel pluvieux. Mon conseil de coach ? Ne laissez pas la pluie vous arrêter ! C'est le moment de tester votre détermination. L'heure idéale pour chausser vos baskets serait en début d'après-midi, entre 13h et 15h, pour profiter du pic de température et de la luminosité maximale avant le coucher du soleil. Pensez à un équipement imperméable et respirant, et surtout, n'oubliez pas que chaque foulée sous la pluie forge un mental d'acier ! L'indice UV est très bas (1.85), donc pas de protection solaire.",
-  "weather_string": "🌧️ Pluie (8.4°C / 13.5°C)",
+  "global_summary": "L'actualité de ce jour révèle une mosaïque complexe d'enjeux, allant des préoccupations mondiales aux réalités locales. Sur le plan international, les condamnations fermes des atteintes aux droits humains en Iran côtoient les spéculations économiques et l'anticipation d'une vague de froid, tandis que la France fait face à de graves questions sociales, de la précarité hivernale aux violences sexistes subies par les professionnelles de santé.\nParallèlement, le secteur technologique met en garde contre les cyberarnaques et subit des pressions réglementaires, notamment envers Apple. Le monde des affaires s'inquiète de la correction des matières premières. Enfin, le sport ne manque pas de rebondissements, entre les exploits de nos athlètes, les ombres du dopage et les tensions du rugby, offrant un panorama dense et riche en émotions.",
+  "running_advice": "Chers sportifs, les données météo d'aujourd'hui sont un mystère ! Mais qu'importe le ciel, votre détermination est votre meilleur allié. C'est toujours une excellente journée pour bouger votre corps et recharger votre esprit. Sans informations précises sur la température, le ciel ou les UV, je vous conseille d'écouter attentivement votre ressenti. Privilégiez un créneau en fin de matinée ou début d'après-midi, idéalement entre 10h et 14h, pour maximiser l'éventuel ensoleillement.\nN'oubliez pas : une bonne hydratation est primordiale, et si l'air est frais, habillez-vous en couches pour réguler votre température. L'important n'est pas la perfection, mais la constance et le plaisir de chaque foulée. Allez, on enfile les baskets et on défie l'inconnu avec un mental de champion !",
+  "weather_string": "undefined undefined (undefined°C / undefined°C)",
   "weather_stats": {
-    "temp": "13.5°C",
-    "rain": "70%",
-    "uv": "1.85"
+    "temp": "undefined°C",
+    "rain": "undefined%",
+    "uv": "undefined"
   },
   "categories": [
     {
@@ -14,20 +14,20 @@
       "emoji": "🌍",
       "articles": [
         {
-          "title": "Iran : L'ONU et la France condamnent la flagellation d'une chanteuse",
-          "summary": "La communauté internationale s'indigne après la flagellation publique de Parastoo Ahmadi, une atteinte grave aux droits humains.",
+          "title": "L'Iran condamné par l'ONU et la France",
+          "summary": "L'ONU et la France dénoncent la flagellation de la chanteuse Parastoo Ahmadi, renforçant la pression sur l'Iran.",
           "url": "https://www.france24.com/fr/moyen-orient/20261124-l-onu-et-la-france-condamnent-l-iran-pour-la-flagellation-de-la-chanteuse-parastoo-ahmadi",
           "image": "https://s.france24.com/media/display/fb9ae3ce-e777-11f1-b772-1bac47ab2f5d/w:1024/p:16x9/Parastoo-Ahmadi.jpg"
         },
         {
-          "title": "Vague de froid en approche : la région se prépare",
-          "summary": "Une importante vague de froid s'apprête à frapper la région cette semaine, suscitant inquiétude et préparatifs.",
+          "title": "Vague de froid: la région sous tension",
+          "summary": "Une vague de froid intense est attendue cette semaine, suscitant inquiétudes et appels à la vigilance.",
           "url": "https://www.vosgesmatin.fr/environnement/2026/11/24/craignez-vous-la-vague-de-froid-qui-doit-toucher-la-region-cette-semaine",
           "image": "https://cdn-s-www.vosgesmatin.fr/images/663C9A68-7466-4C01-9196-5857FD05A32C/NW_listB/craignez-vous-la-vague-de-froid-qui-doit-toucher-la-region-cette-semaine-1795542198.jpg"
         },
         {
-          "title": "Trump et Nvidia : le profit inattendu de Jensen Huang ?",
-          "summary": "Le retour du PDG de Nvidia interroge sur d'éventuels enrichissements de Donald Trump dans cette affaire inattendue.",
+          "title": "Trump et Nvidia: un enrichissement surprise?",
+          "summary": "Des interrogations subsistent sur un potentiel enrichissement de Donald Trump avec le retour de Jensen Huang chez Nvidia.",
           "url": "https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html",
           "image": "https://www.franceinfo.fr/pictures/TfP1vW8Epfvb8lp0ZOAivJ9-yfQ/0x0:6528x3672/432x243/filters:format(jpg)/2026/11/24/6b05be76c8e1a358738909.jpg"
         }
@@ -38,22 +38,22 @@
       "emoji": "🇫🇷",
       "articles": [
         {
-          "title": "Auboise sans abri : un cri d'alarme pour l'hiver",
-          "summary": "Une femme alerte sur ses conditions de survie indignes, craignant le froid hivernal et demandant de l'aide urgente.",
+          "title": "Cri d'alarme face à la précarité hivernale",
+          "summary": "Une Auboise lance un appel poignant à l'aide, dénonçant ses conditions de vie indignes face à l'hiver.",
           "url": "http://www.lardennais.fr/id842325/article/2026-11-24/il-faut-que-lon-maide-ou-je-vais-mourir-la-cet-hiver-le-cri-dalerte-de-cette",
           "image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/11/24/node_842325/15560747/public/2026/11/24/115636741.jpeg?itok=sHEuF-au1795543448"
         },
         {
-          "title": "Violences sexistes : 30% des pharmaciennes victimes",
-          "summary": "Une étude révèle que près d'un tiers des pharmaciennes ont subi des violences sexistes et sexuelles au travail.",
+          "title": "30% des pharmaciennes victimes de violences",
+          "summary": "Une étude choc révèle que 30% des pharmaciennes subissent des violences sexistes et sexuelles au travail.",
           "url": "https://www.sudouest.fr/sante/harcelement-agressions-viols-30-des-pharmaciennes-se-disent-victimes-de-violences-sexistes-et-sexuelles-selon-une-etude-31661629.php",
-          "image": ""
+          "image": null
         },
         {
-          "title": "Lyon : Réouverture rue Grenette divise les Lyonnais",
-          "summary": "La réouverture de la rue Grenette aux voitures suscite à la fois enthousiasme et agacement chez les habitants.",
-          "url": "https://www.leprogres.fr/politique/2026/11/24/certains-s-agacent-d-autres-se-frottent-les-mains-rue-grenette-on-se-prepare-a-la-reouverture",
-          "image": "https://cdn-s-www.leprogres.fr/images/409A1647-2A5B-4878-A054-F30D453149DA/MF_contenu/certains-s-agacent-d-autres-se-frottent-les-mains-rue-grenette-on-se-prepare-a-la-reouverture-aux-voitures-1795545368.jpg"
+          "title": "Black Friday: le dilemme des commerçants marseillais",
+          "summary": "Face au Black Friday, les commerçants de Marseille débattent entre opportunité commerciale et préservation des marges.",
+          "url": "https://www.bfmtv.com/marseille/replay-emissions/bonsoir-marseille/video-soldes-du-black-friday-le-dilemme-des-commercants-marseillais_VN-202611240849.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/-sHH1F2cTHvb3QRa7D4tsqX-PIA=/0x0:1280x720/800x0/images/Soldes-du-Black-Friday-le-dilemme-des-commercants-marseillais-2389866.jpg"
         }
       ]
     },
@@ -62,20 +62,20 @@
       "emoji": "💻",
       "articles": [
         {
-          "title": "Apple sous enquête UE après le blocage iPhone",
-          "summary": "45 000 organisations accusent Apple d'abus de position dominante et demandent une enquête européenne.",
-          "url": "https://www.journaldugeek.com/2026/11/24/45-000-organisations-se-liguent-contre-apple-et-demandent-a-lue-denqueter-sur-un-blocage-sur-iphone/",
-          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Apple-iPhone-18-Pro-Max-04-1280x853.jpg"
-        },
-        {
-          "title": "Panne Microsoft : attention aux arnaques par mail",
-          "summary": "Après la panne géante, des tentatives d'hameçonnage ciblent les utilisateurs de Microsoft. Soyez vigilants !",
+          "title": "Arnaque mail après panne Microsoft: soyez vigilants!",
+          "summary": "Attention aux mails frauduleux exploitant la récente panne Microsoft pour voler vos données personnelles.",
           "url": "https://www.journaldugeek.com/2026/11/24/vous-attendiez-un-mail-pendant-la-panne-geante-de-microsoft-attention-a-cette-arnaque-qui-sevit/",
           "image": "https://www.journaldugeek.com/app/uploads/2026/06/ordinateur-portable-travail-clavier-1280x853.jpg"
         },
         {
-          "title": "Black Friday : robot aspirateur Ecovacs en promo",
-          "summary": "Le robot aspirateur laveur Ecovacs et son kit d'entretien sont en réduction de 31% pour le Black Friday.",
+          "title": "Apple sous pression de l'UE pour blocage iPhone",
+          "summary": "45 000 organisations réclament une enquête de l'UE sur un blocage imposé par Apple sur les iPhone.",
+          "url": "https://www.journaldugeek.com/2026/11/24/45-000-organisations-se-liguent-contre-apple-et-demandent-a-lue-denqueter-sur-un-blocage-sur-iphone/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Apple-iPhone-18-Pro-Max-04-1280x853.jpg"
+        },
+        {
+          "title": "Robot aspirateur Ecovacs en promo Black Friday",
+          "summary": "Le robot aspirateur laveur Ecovacs et son kit d'entretien affichent une réduction de 31% pour le Black Friday.",
           "url": "https://www.bfmtv.com/tech/bons-plans/bon-plan-black-friday-2026-le-robot-aspirateur-laveur-phare-ecovacs-et-son-kit-d-entretien-sont-en-promotion-31-de-reduction_AB-202611240695.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/9wiuE7HARlmCjxzRYX5RjAsYagQ=/0x0:1600x900/800x0/images/Bon-plan-Black-Friday-2026-le-robot-aspirateur-laveur-phare-Ecovacs-et-son-kit-d-entretien-sont-en-promotion-31-de-reduction-2389753.jpg"
         }
@@ -86,44 +86,44 @@
       "emoji": "📈",
       "articles": [
         {
-          "title": "Matières premières : une correction inévitable",
-          "summary": "Les marchés des matières premières subissent une correction, marquant un tournant économique important.",
+          "title": "Correction des marchés: les matières premières touchées",
+          "summary": "Les cours des matières premières n'échappent pas à la correction générale des marchés financiers.",
           "url": "https://www.agefi.fr/news/economie-marches/les-matieres-premieres-nechappent-pas-a-la-correction",
           "image": "https://beymedias.brightspotcdn.com/24/40/3a210770f36d4d31a2c60ad46a47/une-glencore-cuivre-altonorte-chili.jpg"
         },
         {
-          "title": "JetBlue Airways : l'action s'envole aujourd'hui",
-          "summary": "L'action JetBlue Airways Corp enregistre une hausse significative, suscitant l'attention des investisseurs.",
-          "url": "https://fr.investing.com/news/stock-market-news/pourquoi-laction-jetblue-airways-corp-grimpetelle-aujourdhui--93CH-3711541",
-          "image": "https://content-media.investing.com/news/LYNXMPEB5F0HP_M.jpg"
+          "title": "Abzac: marché de Noël des « Touche à Tout »",
+          "summary": "Le marché de Noël organisé par les « Touche à Tout » se tiendra dimanche à Abzac, annonçant les fêtes de fin d'année.",
+          "url": "https://www.charentelibre.fr/charente/abzac/abzac-un-marche-de-noel-organise-dimanche-par-les-touche-a-tout-31649781.php",
+          "image": "https://media.charentelibre.fr/31649781/1200x-1/charentelimousine-0ffda4900d964cb0b88a661bf8c5dde5-093241-ph0.jpg"
         },
         {
-          "title": "Black Friday : dilemme pour les commerçants marseillais",
-          "summary": "Les commerçants de Marseille sont partagés face aux soldes du Black Friday, entre opportunités et défis.",
-          "url": "https://www.bfmtv.com/marseille/replay-emissions/bonsoir-marseille/video-soldes-du-black-friday-le-dilemme-des-commercants-marseillais_VN-202611240849.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/-sHH1F2cTHvb3QRa7D4tsqX-PIA=/0x0:1280x720/800x0/images/Soldes-du-Black-Friday-le-dilemme-des-commercants-marseillais-2389866.jpg"
+          "title": "Tennis-club de l'Avière: avenir incertain",
+          "summary": "L'avenir des installations du Tennis-club de l'Avière est en question, soulevant des préoccupations locales.",
+          "url": "https://www.vosgesmatin.fr/societe/2026/11/24/tennis-club-de-l-aviere-l-avenir-des-installations-en-question",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/8A152277-AED2-46B0-B8A4-811BC88C9763/NW_listB/tennis-club-de-l-aviere-l-avenir-des-installations-en-question-1795543486.jpg"
         }
       ]
     },
     {
       "label": "Sport",
-      "emoji": "🏆",
+      "emoji": "🏅",
       "articles": [
         {
-          "title": "Wembanyama absent, les Spurs s'imposent",
-          "summary": "Victor Wembanyama a manqué son premier match, mais les San Antonio Spurs ont tout de même remporté la victoire.",
+          "title": "Wembanyama absent, les Spurs gagnent",
+          "summary": "Victor Wembanyama a manqué son premier match de la saison NBA, mais les Spurs ont tout de même remporté la victoire.",
           "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-manque-son-premier-match-de-la-saison-les-spurs-s-imposent-quand-meme_AV-202611240224.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/IdDDGM9m4hswYepVw8c0ClL3v48=/0x40:768x472/800x0/images/Le-basketteur-francais-Victor-Wembanyama-lors-d-un-match-de-NBA-des-San-Antonio-Spurs-contre-les-Chicago-Bulls-le-11-novembre-2026-a-Chicago-2383987.jpg"
         },
         {
-          "title": "Dopage : la championne Peres Jepchirchir suspendue",
-          "summary": "La Kényane Peres Jepchirchir, championne du monde de marathon, est suspendue trois ans pour dopage.",
-          "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
-          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
+          "title": "Dopage: Jimmy Gressier charge les tricheurs",
+          "summary": "Jimmy Gressier dénonce avec force le dopage après la suspension de la championne du monde du marathon kényane.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/pendant-pas-mal-d-annees-on-a-ete-bernes-jimmy-gressier-charge-les-tricheurs-kenyans-apres-la-suspension-pour-dopage-de-la-championne-du-monde-du-marathon_AV-202611190558.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lJFKUfnmeOm2v4h2US62qv_r1tA=/0x30:2048x1182/800x0/images/Jimmy-Gressier-lors-de-l-Urban-Trail-de-Lille-le-4-avril-2026-2283627.jpg"
         },
         {
-          "title": "Rugby France-AFS : Verhaeghe répond aux Boks",
-          "summary": "Florian Verhaeghe réagit aux accusations de tricherie de Rassie Erasmus avant le match France-Afrique du Sud.",
+          "title": "Rugby: Verhaeghe répond aux accusations des Boks",
+          "summary": "Verhaeghe réagit aux accusations de tricherie lancées par Rassie Erasmus avant le match France-Afrique du Sud.",
           "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/france-afrique-du-sud-ce-que-rassie-erasmus-pense-la-reponse-de-verhaeghe-aux-accusations-de-tricherie-des-boks_AV-202611240679.html",
           "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/pARF2eqClc8oZ2PX6j5NvFXtfWM=/179x244:2035x1288/800x0/images/Peato-Mauvaka-et-Florian-Verhaeghe-au-plaquage-lors-de-France-Afrique-du-Sud-le-13-novembre-2026-2389733.jpg"
         }
