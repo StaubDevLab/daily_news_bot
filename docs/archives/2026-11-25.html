@@ -1,0 +1,394 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 25/11/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">mercredi 25 novembre • Sainte Catherine</p>
+            <div class="weather-badge">
+              🌧️ Pluie (8.4°C / 13.5°C) &nbsp;|&nbsp; ☀️ UV: 1.85 &nbsp;|&nbsp; 💧 70%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>Chers abonnés, bienvenue à votre dose quotidienne d'informations et d'inspiration ! Le monde fait face aujourd'hui à des enjeux complexes, entre la condamnation unanime de la France et de l'ONU suite à la flagellation d'une chanteuse en Iran, nous rappelant l'importance des droits humains, et les spéculations économiques autour de figures comme Donald Trump et Nvidia. Sur notre territoire, la vague de froid qui s'annonce nous pousse à la vigilance, tandis que des cris d'alerte sur la précarité et des études choc sur les violences sexistes nous rappellent nos responsabilités collectives.
+
+Mais malgré ces défis, l'innovation ne s'arrête jamais : le secteur de la tech est en effervescence, avec de nouvelles régulations envisagées contre les géants comme Apple et des mises en garde contre les arnaques. Côté sport, le dépassement de soi est à l'honneur, même si des ombres planent avec les affaires de dopage qui secouent l'athlétisme et des controverses sur le rugby. Chaque jour est une opportunité de comprendre, d'agir et de se dépasser. Restons connectés, informés et toujours en mouvement !</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Aujourd'hui, Sainte Catherine, et la météo nous met au défi ! Avec des températures entre 8.4°C et 13.5°C, on reste dans le frais mais supportable. Le facteur clé, c'est cette probabilité de pluie à 70% et un ciel pluvieux. Mon conseil de coach ? Ne laissez pas la pluie vous arrêter ! C'est le moment de tester votre détermination. L'heure idéale pour chausser vos baskets serait en début d'après-midi, entre 13h et 15h, pour profiter du pic de température et de la luminosité maximale avant le coucher du soleil. Pensez à un équipement imperméable et respirant, et surtout, n'oubliez pas que chaque foulée sous la pluie forge un mental d'acier ! L'indice UV est très bas (1.85), donc pas de protection solaire."</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/fb9ae3ce-e777-11f1-b772-1bac47ab2f5d/w:1024/p:16x9/Parastoo-Ahmadi.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/moyen-orient/20261124-l-onu-et-la-france-condamnent-l-iran-pour-la-flagellation-de-la-chanteuse-parastoo-ahmadi" target="_blank">Iran : L'ONU et la France condamnent la flagellation d'une chanteuse</a>
+                    </h3>
+                    <p class="article-summary">La communauté internationale s'indigne après la flagellation publique de Parastoo Ahmadi, une atteinte grave aux droits humains.</p>
+                    <a href="https://www.france24.com/fr/moyen-orient/20261124-l-onu-et-la-france-condamnent-l-iran-pour-la-flagellation-de-la-chanteuse-parastoo-ahmadi" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.vosgesmatin.fr/images/663C9A68-7466-4C01-9196-5857FD05A32C/NW_listB/craignez-vous-la-vague-de-froid-qui-doit-toucher-la-region-cette-semaine-1795542198.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.vosgesmatin.fr/environnement/2026/11/24/craignez-vous-la-vague-de-froid-qui-doit-toucher-la-region-cette-semaine" target="_blank">Vague de froid en approche : la région se prépare</a>
+                    </h3>
+                    <p class="article-summary">Une importante vague de froid s'apprête à frapper la région cette semaine, suscitant inquiétude et préparatifs.</p>
+                    <a href="https://www.vosgesmatin.fr/environnement/2026/11/24/craignez-vous-la-vague-de-froid-qui-doit-toucher-la-region-cette-semaine" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.franceinfo.fr/pictures/TfP1vW8Epfvb8lp0ZOAivJ9-yfQ/0x0:6528x3672/432x243/filters:format(jpg)/2026/11/24/6b05be76c8e1a358738909.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html" target="_blank">Trump et Nvidia : le profit inattendu de Jensen Huang ?</a>
+                    </h3>
+                    <p class="article-summary">Le retour du PDG de Nvidia interroge sur d'éventuels enrichissements de Donald Trump dans cette affaire inattendue.</p>
+                    <a href="https://www.franceinfo.fr/internet/nvidia/donald-trump-s-est-il-enrichi-avec-le-retour-surprise-de-jensen-huang-a-la-tete-de-nvidia_8298000.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2026/11/24/node_842325/15560747/public/2026/11/24/115636741.jpeg?itok=sHEuF-au1795543448" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="http://www.lardennais.fr/id842325/article/2026-11-24/il-faut-que-lon-maide-ou-je-vais-mourir-la-cet-hiver-le-cri-dalerte-de-cette" target="_blank">Auboise sans abri : un cri d'alarme pour l'hiver</a>
+                    </h3>
+                    <p class="article-summary">Une femme alerte sur ses conditions de survie indignes, craignant le froid hivernal et demandant de l'aide urgente.</p>
+                    <a href="http://www.lardennais.fr/id842325/article/2026-11-24/il-faut-que-lon-maide-ou-je-vais-mourir-la-cet-hiver-le-cri-dalerte-de-cette" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/sante/harcelement-agressions-viols-30-des-pharmaciennes-se-disent-victimes-de-violences-sexistes-et-sexuelles-selon-une-etude-31661629.php" target="_blank">Violences sexistes : 30% des pharmaciennes victimes</a>
+                    </h3>
+                    <p class="article-summary">Une étude révèle que près d'un tiers des pharmaciennes ont subi des violences sexistes et sexuelles au travail.</p>
+                    <a href="https://www.sudouest.fr/sante/harcelement-agressions-viols-30-des-pharmaciennes-se-disent-victimes-de-violences-sexistes-et-sexuelles-selon-une-etude-31661629.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.leprogres.fr/images/409A1647-2A5B-4878-A054-F30D453149DA/MF_contenu/certains-s-agacent-d-autres-se-frottent-les-mains-rue-grenette-on-se-prepare-a-la-reouverture-aux-voitures-1795545368.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.leprogres.fr/politique/2026/11/24/certains-s-agacent-d-autres-se-frottent-les-mains-rue-grenette-on-se-prepare-a-la-reouverture" target="_blank">Lyon : Réouverture rue Grenette divise les Lyonnais</a>
+                    </h3>
+                    <p class="article-summary">La réouverture de la rue Grenette aux voitures suscite à la fois enthousiasme et agacement chez les habitants.</p>
+                    <a href="https://www.leprogres.fr/politique/2026/11/24/certains-s-agacent-d-autres-se-frottent-les-mains-rue-grenette-on-se-prepare-a-la-reouverture" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/11/Apple-iPhone-18-Pro-Max-04-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/24/45-000-organisations-se-liguent-contre-apple-et-demandent-a-lue-denqueter-sur-un-blocage-sur-iphone/" target="_blank">Apple sous enquête UE après le blocage iPhone</a>
+                    </h3>
+                    <p class="article-summary">45 000 organisations accusent Apple d'abus de position dominante et demandent une enquête européenne.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/24/45-000-organisations-se-liguent-contre-apple-et-demandent-a-lue-denqueter-sur-un-blocage-sur-iphone/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/06/ordinateur-portable-travail-clavier-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/24/vous-attendiez-un-mail-pendant-la-panne-geante-de-microsoft-attention-a-cette-arnaque-qui-sevit/" target="_blank">Panne Microsoft : attention aux arnaques par mail</a>
+                    </h3>
+                    <p class="article-summary">Après la panne géante, des tentatives d'hameçonnage ciblent les utilisateurs de Microsoft. Soyez vigilants !</p>
+                    <a href="https://www.journaldugeek.com/2026/11/24/vous-attendiez-un-mail-pendant-la-panne-geante-de-microsoft-attention-a-cette-arnaque-qui-sevit/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/9wiuE7HARlmCjxzRYX5RjAsYagQ=/0x0:1600x900/800x0/images/Bon-plan-Black-Friday-2026-le-robot-aspirateur-laveur-phare-Ecovacs-et-son-kit-d-entretien-sont-en-promotion-31-de-reduction-2389753.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/tech/bons-plans/bon-plan-black-friday-2026-le-robot-aspirateur-laveur-phare-ecovacs-et-son-kit-d-entretien-sont-en-promotion-31-de-reduction_AB-202611240695.html" target="_blank">Black Friday : robot aspirateur Ecovacs en promo</a>
+                    </h3>
+                    <p class="article-summary">Le robot aspirateur laveur Ecovacs et son kit d'entretien sont en réduction de 31% pour le Black Friday.</p>
+                    <a href="https://www.bfmtv.com/tech/bons-plans/bon-plan-black-friday-2026-le-robot-aspirateur-laveur-phare-ecovacs-et-son-kit-d-entretien-sont-en-promotion-31-de-reduction_AB-202611240695.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📈 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://beymedias.brightspotcdn.com/24/40/3a210770f36d4d31a2c60ad46a47/une-glencore-cuivre-altonorte-chili.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.agefi.fr/news/economie-marches/les-matieres-premieres-nechappent-pas-a-la-correction" target="_blank">Matières premières : une correction inévitable</a>
+                    </h3>
+                    <p class="article-summary">Les marchés des matières premières subissent une correction, marquant un tournant économique important.</p>
+                    <a href="https://www.agefi.fr/news/economie-marches/les-matieres-premieres-nechappent-pas-a-la-correction" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://content-media.investing.com/news/LYNXMPEB5F0HP_M.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.investing.com/news/stock-market-news/pourquoi-laction-jetblue-airways-corp-grimpetelle-aujourdhui--93CH-3711541" target="_blank">JetBlue Airways : l'action s'envole aujourd'hui</a>
+                    </h3>
+                    <p class="article-summary">L'action JetBlue Airways Corp enregistre une hausse significative, suscitant l'attention des investisseurs.</p>
+                    <a href="https://fr.investing.com/news/stock-market-news/pourquoi-laction-jetblue-airways-corp-grimpetelle-aujourdhui--93CH-3711541" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/-sHH1F2cTHvb3QRa7D4tsqX-PIA=/0x0:1280x720/800x0/images/Soldes-du-Black-Friday-le-dilemme-des-commercants-marseillais-2389866.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/marseille/replay-emissions/bonsoir-marseille/video-soldes-du-black-friday-le-dilemme-des-commercants-marseillais_VN-202611240849.html" target="_blank">Black Friday : dilemme pour les commerçants marseillais</a>
+                    </h3>
+                    <p class="article-summary">Les commerçants de Marseille sont partagés face aux soldes du Black Friday, entre opportunités et défis.</p>
+                    <a href="https://www.bfmtv.com/marseille/replay-emissions/bonsoir-marseille/video-soldes-du-black-friday-le-dilemme-des-commercants-marseillais_VN-202611240849.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏆 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/IdDDGM9m4hswYepVw8c0ClL3v48=/0x40:768x472/800x0/images/Le-basketteur-francais-Victor-Wembanyama-lors-d-un-match-de-NBA-des-San-Antonio-Spurs-contre-les-Chicago-Bulls-le-11-novembre-2026-a-Chicago-2383987.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-manque-son-premier-match-de-la-saison-les-spurs-s-imposent-quand-meme_AV-202611240224.html" target="_blank">Wembanyama absent, les Spurs s'imposent</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama a manqué son premier match, mais les San Antonio Spurs ont tout de même remporté la victoire.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-manque-son-premier-match-de-la-saison-les-spurs-s-imposent-quand-meme_AV-202611240224.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html" target="_blank">Dopage : la championne Peres Jepchirchir suspendue</a>
+                    </h3>
+                    <p class="article-summary">La Kényane Peres Jepchirchir, championne du monde de marathon, est suspendue trois ans pour dopage.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/pARF2eqClc8oZ2PX6j5NvFXtfWM=/179x244:2035x1288/800x0/images/Peato-Mauvaka-et-Florian-Verhaeghe-au-plaquage-lors-de-France-Afrique-du-Sud-le-13-novembre-2026-2389733.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rugby/championnat-des-nations/france-afrique-du-sud-ce-que-rassie-erasmus-pense-la-reponse-de-verhaeghe-aux-accusations-de-tricherie-des-boks_AV-202611240679.html" target="_blank">Rugby France-AFS : Verhaeghe répond aux Boks</a>
+                    </h3>
+                    <p class="article-summary">Florian Verhaeghe réagit aux accusations de tricherie de Rassie Erasmus avant le match France-Afrique du Sud.</p>
+                    <a href="https://rmcsport.bfmtv.com/rugby/championnat-des-nations/france-afrique-du-sud-ce-que-rassie-erasmus-pense-la-reponse-de-verhaeghe-aux-accusations-de-tricherie-des-boks_AV-202611240679.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
