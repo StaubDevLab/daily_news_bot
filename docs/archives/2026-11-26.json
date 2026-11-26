@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Sainte Delphine",
+  "global_summary": "L'actualité du jour est un mélange captivant, oscillant entre découvertes culturelles et phénomènes de société. Des pépites comme la série sur le légendaire restaurant El Bulli côtoient des réflexions sur nos habitudes de travail et les enjeux démographiques régionaux. Le Black Friday continue de battre son plein, offrant des opportunités technologiques alléchantes, tandis que l'Europe se positionne stratégiquement sur l'échiquier de l'intelligence artificielle.\n\nCôté défis, le monde du sport est secoué par des scandales de dopage et des discussions stratégiques, notamment autour de la NBA et du rugby. Des faits divers locaux viennent rappeler les réalités de notre quotidien, et des avancées scientifiques majeures comme la recherche sur l'énergie noire continuent de nous interroger sur l'univers. Une journée riche en informations, entre opportunités, questions sociétales et performances sportives.",
+  "running_advice": "Aujourd'hui, chers athlètes, la météo nous met au défi ! Avec une température douce entre 6.7°C et 11.4°C, mais un ciel brumeux et 73% de risques de pluie, la prudence est de mise. Privilégiez le milieu de journée, après 10h, si la brume a l'amabilité de se dissiper et que les averses se font plus rares. Équipez-vous pour la pluie et pensez aux éléments réfléchissants pour être bien visible. Votre détermination sera votre meilleur coupe-vent ! Allez, on chausse les baskets et on défie les éléments, chaque pas sous la grisaille est une victoire !",
+  "weather_string": "🌫️ Brouillard (6.7°C / 11.4°C)",
+  "weather_stats": {
+    "temp": "11.4°C",
+    "rain": "73%",
+    "uv": "2.1"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "El Bulli : L'icône culinaire renaît en série",
+          "summary": "L'ancien meilleur restaurant du monde se dévoile dans une nouvelle série événement à ne pas manquer.",
+          "url": "https://www.courrierinternational.com/article/serie-bienvenidos-a-el-bulli-l-ancien-meilleur-restaurant-du-monde-a-sa-serie_290320",
+          "image": "https://focus.courrierinternational.com/2026/11/25/0/0/2560/1440/644/0/60/0/077ad99_upload-1-svh8jsupgme3-genesis-sdp-background-na-06-es-es.jpg"
+        },
+        {
+          "title": "Lisnard en 2027 ? Votre avis compte !",
+          "summary": "Un sondage s'interroge sur les chances de David Lisnard à l'élection présidentielle. Donnez votre avis !",
+          "url": "https://www.leprogres.fr/politique/2026/11/25/pensez-vous-que-david-lisnard-peut-arriver-au-deuxieme-tour-de-l-election-presidentielle",
+          "image": "https://cdn-s-www.leprogres.fr/images/4E86A628-AEF0-489F-B015-8CE01BB03C77/MF_contenu/pensez-vous-que-david-lisnard-peut-arriver-au-deuxieme-tour-de-l-election-presidentielle-1795621670.jpg"
+        },
+        {
+          "title": "Travailler malade : bonne ou mauvaise habitude ?",
+          "summary": "Une question de société qui pousse à la réflexion : travaillez-vous même lorsque vous êtes malade ?",
+          "url": "https://www.vosgesmatin.fr/societe/2026/11/25/avez-vous-pour-habitude-de-venir-travailler-meme-lorsque-vous-etes-malade",
+          "image": "https://cdn-s-www.vosgesmatin.fr/images/9A99DC44-2EBB-4818-A851-AEDFE548B584/NW_listB/avez-vous-pour-habitude-de-venir-travailler-meme-lorsque-vous-etes-malade-1795629090.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Lyon : Ninkasi Guillotière ferme ses portes",
+          "summary": "Le célèbre Ninkasi Guillotière à Lyon tire sa révérence dans l'unité et la bonne humeur.",
+          "url": "https://www.leprogres.fr/economie/2026/11/25/le-ninkasi-guillotiere-paie-sa-derniere-tournee-on-reste-soude-pour-que-les-clients-passent-un-bon-moment",
+          "image": "https://cdn-s-www.leprogres.fr/images/D25A3C8B-EC30-434A-8831-902397AA92BC/MF_contenu/le-ninkasi-guillotiere-paie-sa-derniere-tournee-on-reste-soude-pour-que-les-clients-passent-un-bon-moment-1795627913.jpg"
+        },
+        {
+          "title": "Pays de la Loire : La population vieillit",
+          "summary": "L'Insee prévoit une population plus âgée mais stable dans les Pays de la Loire d'ici 2070.",
+          "url": "https://actu.fr/societe/une-population-plus-agee-mais-autant-dhabitants-en-2070-quen-2023-dans-les-pays-de-la-loire-selon-linsee_65101597.html",
+          "image": "https://static.actu.fr/uploads/2026/11/2e6e1c03e5f467c7e1c03e5f4259e1v-1024x557.jpg"
+        },
+        {
+          "title": "Vannes : ivresse au volant, l'explication choc",
+          "summary": "Un conducteur pris en flagrant délit à Vannes avoue avoir bu \"deux ou trois verres\" aux policiers.",
+          "url": "https://actu.fr/bretagne/vannes_56260/queues-de-poison-avec-plus-dun-gramme-dalcool-a-vannes-il-dit-avoir-bu-deux-ou-trois-verres-aux-policiers_65102018.html",
+          "image": "https://static.actu.fr/uploads/2026/11/58ea95ca16fa67cea95ca16fa40fa9v-1024x557.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "L'Europe accélère sur l'intelligence artificielle",
+          "summary": "Les nations européennes renforcent leur position et leurs investissements dans le domaine crucial de l'IA.",
+          "url": "https://www.bfmtv.com/economie/video-les-europeens-musclent-leur-jeu-sur-l-ia_VN-202611250858.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/T_X_-0eifWivDmSO7Z0qqnbLcJo=/0x0:1280x720/800x0/images/Les-europeens-musclent-leur-jeu-sur-l-IA-2390612.jpg"
+        },
+        {
+          "title": "Énergie noire : une nouvelle théorie scientifique",
+          "summary": "Des physiciens proposent une explication à l'énergie noire, liée aux forces fondamentales de l'Univers.",
+          "url": "https://www.journaldugeek.com/2026/11/25/physiciens-trouve-explication-lexistence-lenergie-noire-liee-lune-quatre-forces-fondamentales-lunivers/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Univers-1280x853.jpg"
+        },
+        {
+          "title": "Écran LG OLED 77 pouces à prix cassé",
+          "summary": "Darty frappe fort avec 700€ de réduction sur un écran LG OLED 77 pouces. Une affaire à saisir !",
+          "url": "https://www.frandroid.com/bons-plans/3339165_loled-soffre-700-e-de-reduction-grace-a-darty-qui-casse-le-prix-de-cet-ecran-lg-en-77-pouces",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/copie-de-blackfriday-frandroid-solo-20.png?resize=1600,900&key=ba889178"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Dégust'Yssime : Balade gourmande en Haute-Loire",
+          "summary": "Explorez les saveurs de la Haute-Loire avec Dégust'Yssime, une expérience culinaire locale unique.",
+          "url": "https://www.leprogres.fr/economie/2026/11/25/degust-yssime-une-balade-gourmande-a-travers-les-produits-de-la-haute-loire",
+          "image": "https://cdn-s-www.leprogres.fr/images/3B152C7E-9D44-465F-8C5F-35D9BB363D7D/MF_contenu/degust-yssime-une-balade-gourmande-a-travers-les-produits-de-la-haute-loire-1795629911.jpg"
+        },
+        {
+          "title": "NBA Europe : un plan à 10 milliards d'euros",
+          "summary": "La NBA officialise un investissement colossal de 10 milliards d'euros pour développer le basket en Europe.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/developper-des-infrastructures-modernes-et-les-quartiers-environnants-la-nba-officialise-un-plan-a-10-milliards-d-euros-pour-la-nba-europe_AV-202611250655.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/XyHKNiFbfLe2Ufn_J2IQ0jZUmHc=/0x68:2048x1220/800x0/images/Le-commissionnaire-de-la-NBA-Adam-Silver-avant-le-All-Star-Game-14-fevrier-2026-2235741.jpg"
+        },
+        {
+          "title": "Gran Turismo 7 sur PS5 : méga promo Black Friday",
+          "summary": "Le jeu de course culte Gran Turismo 7 sur PS5 est à -58% pour le Black Friday. Foncez !",
+          "url": "https://www.lesnumeriques.com/jeux-video/black-friday-2026-le-jeu-gran-turismo-7-sur-ps5-est-a-33-49-58-n268546.html",
+          "image": "https://cdn.lesnumeriques.com/optim/news/26/268546/2e557211-black-friday-2026-le-jeu-gran-turismo-7-sur-ps5-is-a-33-49-58__800_800__404-0-2604-2200.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Dopage : Gressier dénonce les \"tricheurs\" kényans",
+          "summary": "Jimmy Gressier exprime sa colère face aux scandales de dopage après la suspension d'une championne kényane.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/pendant-pas-mal-d-annees-on-a-ete-bernes-jimmy-gressier-charge-les-tricheurs-kenyans-apres-la-suspension-pour-dopage-de-la-championne-du-monde-du-marathon_AV-202611190558.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lJFKUfnmeOm2v4h2US62qv_r1tA=/0x30:2048x1182/800x0/images/Jimmy-Gressier-lors-de-l-Urban-Trail-de-Lille-le-4-avril-2026-2283627.jpg"
+        },
+        {
+          "title": "Wembanyama : moins de dunks pour la santé ?",
+          "summary": "Victor Wembanyama privilégie la préservation de son corps en réduisant les dunks risqués en NBA.",
+          "url": "https://rmcsport.bfmtv.com/basket/victor-wembanyama/spectaculaires-mais-risques-pourquoi-les-dunks-desormais-boudes-par-wembanyama-sont-aussi-eprouvants-pour-le-corps_AV-202611250108.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/r4L2EQ5vL4CE104p9q-YekdXe8s=/144x205:1840x1159/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Orlando-112-103-NBA-le-1er-fevrier-2026-2227559.jpg"
+        },
+        {
+          "title": "Rugby : France-Afrique du Sud, la finale approche !",
+          "summary": "Toutes les infos en direct avant la finale explosive du Championnat des nations entre France et Afrique du Sud.",
+          "url": "https://rmcsport.bfmtv.com/rugby/championnat-des-nations/direct-france-afrique-du-sud-suivez-en-live-toutes-les-informations-a-quelques-jours-de-la-finale-du-championnat-des-nations_LS-202611250479.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/JDr5fimf5FT5ivVbmFIM_1r1Vcw=/80x239:1872x1247/800x0/images/Le-XV-de-France-face-a-l-Afrique-du-Sud-au-Championnat-des-nations-le-13-novembre-2026-2386116.jpg"
+        }
+      ]
+    }
+  ]
+}

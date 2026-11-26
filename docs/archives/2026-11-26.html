@@ -1,0 +1,394 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 26/11/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">jeudi 26 novembre • Sainte Delphine</p>
+            <div class="weather-badge">
+              🌫️ Brouillard (6.7°C / 11.4°C) &nbsp;|&nbsp; ☀️ UV: 2.1 &nbsp;|&nbsp; 💧 73%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité du jour est un mélange captivant, oscillant entre découvertes culturelles et phénomènes de société. Des pépites comme la série sur le légendaire restaurant El Bulli côtoient des réflexions sur nos habitudes de travail et les enjeux démographiques régionaux. Le Black Friday continue de battre son plein, offrant des opportunités technologiques alléchantes, tandis que l'Europe se positionne stratégiquement sur l'échiquier de l'intelligence artificielle.
+
+Côté défis, le monde du sport est secoué par des scandales de dopage et des discussions stratégiques, notamment autour de la NBA et du rugby. Des faits divers locaux viennent rappeler les réalités de notre quotidien, et des avancées scientifiques majeures comme la recherche sur l'énergie noire continuent de nous interroger sur l'univers. Une journée riche en informations, entre opportunités, questions sociétales et performances sportives.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Aujourd'hui, chers athlètes, la météo nous met au défi ! Avec une température douce entre 6.7°C et 11.4°C, mais un ciel brumeux et 73% de risques de pluie, la prudence est de mise. Privilégiez le milieu de journée, après 10h, si la brume a l'amabilité de se dissiper et que les averses se font plus rares. Équipez-vous pour la pluie et pensez aux éléments réfléchissants pour être bien visible. Votre détermination sera votre meilleur coupe-vent ! Allez, on chausse les baskets et on défie les éléments, chaque pas sous la grisaille est une victoire !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://focus.courrierinternational.com/2026/11/25/0/0/2560/1440/644/0/60/0/077ad99_upload-1-svh8jsupgme3-genesis-sdp-background-na-06-es-es.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.courrierinternational.com/article/serie-bienvenidos-a-el-bulli-l-ancien-meilleur-restaurant-du-monde-a-sa-serie_290320" target="_blank">El Bulli : L'icône culinaire renaît en série</a>
+                    </h3>
+                    <p class="article-summary">L'ancien meilleur restaurant du monde se dévoile dans une nouvelle série événement à ne pas manquer.</p>
+                    <a href="https://www.courrierinternational.com/article/serie-bienvenidos-a-el-bulli-l-ancien-meilleur-restaurant-du-monde-a-sa-serie_290320" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.leprogres.fr/images/4E86A628-AEF0-489F-B015-8CE01BB03C77/MF_contenu/pensez-vous-que-david-lisnard-peut-arriver-au-deuxieme-tour-de-l-election-presidentielle-1795621670.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.leprogres.fr/politique/2026/11/25/pensez-vous-que-david-lisnard-peut-arriver-au-deuxieme-tour-de-l-election-presidentielle" target="_blank">Lisnard en 2027 ? Votre avis compte !</a>
+                    </h3>
+                    <p class="article-summary">Un sondage s'interroge sur les chances de David Lisnard à l'élection présidentielle. Donnez votre avis !</p>
+                    <a href="https://www.leprogres.fr/politique/2026/11/25/pensez-vous-que-david-lisnard-peut-arriver-au-deuxieme-tour-de-l-election-presidentielle" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.vosgesmatin.fr/images/9A99DC44-2EBB-4818-A851-AEDFE548B584/NW_listB/avez-vous-pour-habitude-de-venir-travailler-meme-lorsque-vous-etes-malade-1795629090.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.vosgesmatin.fr/societe/2026/11/25/avez-vous-pour-habitude-de-venir-travailler-meme-lorsque-vous-etes-malade" target="_blank">Travailler malade : bonne ou mauvaise habitude ?</a>
+                    </h3>
+                    <p class="article-summary">Une question de société qui pousse à la réflexion : travaillez-vous même lorsque vous êtes malade ?</p>
+                    <a href="https://www.vosgesmatin.fr/societe/2026/11/25/avez-vous-pour-habitude-de-venir-travailler-meme-lorsque-vous-etes-malade" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.leprogres.fr/images/D25A3C8B-EC30-434A-8831-902397AA92BC/MF_contenu/le-ninkasi-guillotiere-paie-sa-derniere-tournee-on-reste-soude-pour-que-les-clients-passent-un-bon-moment-1795627913.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.leprogres.fr/economie/2026/11/25/le-ninkasi-guillotiere-paie-sa-derniere-tournee-on-reste-soude-pour-que-les-clients-passent-un-bon-moment" target="_blank">Lyon : Ninkasi Guillotière ferme ses portes</a>
+                    </h3>
+                    <p class="article-summary">Le célèbre Ninkasi Guillotière à Lyon tire sa révérence dans l'unité et la bonne humeur.</p>
+                    <a href="https://www.leprogres.fr/economie/2026/11/25/le-ninkasi-guillotiere-paie-sa-derniere-tournee-on-reste-soude-pour-que-les-clients-passent-un-bon-moment" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/11/2e6e1c03e5f467c7e1c03e5f4259e1v-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/societe/une-population-plus-agee-mais-autant-dhabitants-en-2070-quen-2023-dans-les-pays-de-la-loire-selon-linsee_65101597.html" target="_blank">Pays de la Loire : La population vieillit</a>
+                    </h3>
+                    <p class="article-summary">L'Insee prévoit une population plus âgée mais stable dans les Pays de la Loire d'ici 2070.</p>
+                    <a href="https://actu.fr/societe/une-population-plus-agee-mais-autant-dhabitants-en-2070-quen-2023-dans-les-pays-de-la-loire-selon-linsee_65101597.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://static.actu.fr/uploads/2026/11/58ea95ca16fa67cea95ca16fa40fa9v-1024x557.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://actu.fr/bretagne/vannes_56260/queues-de-poison-avec-plus-dun-gramme-dalcool-a-vannes-il-dit-avoir-bu-deux-ou-trois-verres-aux-policiers_65102018.html" target="_blank">Vannes : ivresse au volant, l'explication choc</a>
+                    </h3>
+                    <p class="article-summary">Un conducteur pris en flagrant délit à Vannes avoue avoir bu "deux ou trois verres" aux policiers.</p>
+                    <a href="https://actu.fr/bretagne/vannes_56260/queues-de-poison-avec-plus-dun-gramme-dalcool-a-vannes-il-dit-avoir-bu-deux-ou-trois-verres-aux-policiers_65102018.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/T_X_-0eifWivDmSO7Z0qqnbLcJo=/0x0:1280x720/800x0/images/Les-europeens-musclent-leur-jeu-sur-l-IA-2390612.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.bfmtv.com/economie/video-les-europeens-musclent-leur-jeu-sur-l-ia_VN-202611250858.html" target="_blank">L'Europe accélère sur l'intelligence artificielle</a>
+                    </h3>
+                    <p class="article-summary">Les nations européennes renforcent leur position et leurs investissements dans le domaine crucial de l'IA.</p>
+                    <a href="https://www.bfmtv.com/economie/video-les-europeens-musclent-leur-jeu-sur-l-ia_VN-202611250858.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/11/Univers-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/25/physiciens-trouve-explication-lexistence-lenergie-noire-liee-lune-quatre-forces-fondamentales-lunivers/" target="_blank">Énergie noire : une nouvelle théorie scientifique</a>
+                    </h3>
+                    <p class="article-summary">Des physiciens proposent une explication à l'énergie noire, liée aux forces fondamentales de l'Univers.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/25/physiciens-trouve-explication-lexistence-lenergie-noire-liee-lune-quatre-forces-fondamentales-lunivers/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/copie-de-blackfriday-frandroid-solo-20.png?resize=1600,900&key=ba889178" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.frandroid.com/bons-plans/3339165_loled-soffre-700-e-de-reduction-grace-a-darty-qui-casse-le-prix-de-cet-ecran-lg-en-77-pouces" target="_blank">Écran LG OLED 77 pouces à prix cassé</a>
+                    </h3>
+                    <p class="article-summary">Darty frappe fort avec 700€ de réduction sur un écran LG OLED 77 pouces. Une affaire à saisir !</p>
+                    <a href="https://www.frandroid.com/bons-plans/3339165_loled-soffre-700-e-de-reduction-grace-a-darty-qui-casse-le-prix-de-cet-ecran-lg-en-77-pouces" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">📈 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://cdn-s-www.leprogres.fr/images/3B152C7E-9D44-465F-8C5F-35D9BB363D7D/MF_contenu/degust-yssime-une-balade-gourmande-a-travers-les-produits-de-la-haute-loire-1795629911.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.leprogres.fr/economie/2026/11/25/degust-yssime-une-balade-gourmande-a-travers-les-produits-de-la-haute-loire" target="_blank">Dégust'Yssime : Balade gourmande en Haute-Loire</a>
+                    </h3>
+                    <p class="article-summary">Explorez les saveurs de la Haute-Loire avec Dégust'Yssime, une expérience culinaire locale unique.</p>
+                    <a href="https://www.leprogres.fr/economie/2026/11/25/degust-yssime-une-balade-gourmande-a-travers-les-produits-de-la-haute-loire" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/XyHKNiFbfLe2Ufn_J2IQ0jZUmHc=/0x68:2048x1220/800x0/images/Le-commissionnaire-de-la-NBA-Adam-Silver-avant-le-All-Star-Game-14-fevrier-2026-2235741.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/developper-des-infrastructures-modernes-et-les-quartiers-environnants-la-nba-officialise-un-plan-a-10-milliards-d-euros-pour-la-nba-europe_AV-202611250655.html" target="_blank">NBA Europe : un plan à 10 milliards d'euros</a>
+                    </h3>
+                    <p class="article-summary">La NBA officialise un investissement colossal de 10 milliards d'euros pour développer le basket en Europe.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/developper-des-infrastructures-modernes-et-les-quartiers-environnants-la-nba-officialise-un-plan-a-10-milliards-d-euros-pour-la-nba-europe_AV-202611250655.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cdn.lesnumeriques.com/optim/news/26/268546/2e557211-black-friday-2026-le-jeu-gran-turismo-7-sur-ps5-is-a-33-49-58__800_800__404-0-2604-2200.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lesnumeriques.com/jeux-video/black-friday-2026-le-jeu-gran-turismo-7-sur-ps5-est-a-33-49-58-n268546.html" target="_blank">Gran Turismo 7 sur PS5 : méga promo Black Friday</a>
+                    </h3>
+                    <p class="article-summary">Le jeu de course culte Gran Turismo 7 sur PS5 est à -58% pour le Black Friday. Foncez !</p>
+                    <a href="https://www.lesnumeriques.com/jeux-video/black-friday-2026-le-jeu-gran-turismo-7-sur-ps5-est-a-33-49-58-n268546.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/lJFKUfnmeOm2v4h2US62qv_r1tA=/0x30:2048x1182/800x0/images/Jimmy-Gressier-lors-de-l-Urban-Trail-de-Lille-le-4-avril-2026-2283627.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/pendant-pas-mal-d-annees-on-a-ete-bernes-jimmy-gressier-charge-les-tricheurs-kenyans-apres-la-suspension-pour-dopage-de-la-championne-du-monde-du-marathon_AV-202611190558.html" target="_blank">Dopage : Gressier dénonce les "tricheurs" kényans</a>
+                    </h3>
+                    <p class="article-summary">Jimmy Gressier exprime sa colère face aux scandales de dopage après la suspension d'une championne kényane.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/pendant-pas-mal-d-annees-on-a-ete-bernes-jimmy-gressier-charge-les-tricheurs-kenyans-apres-la-suspension-pour-dopage-de-la-championne-du-monde-du-marathon_AV-202611190558.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/r4L2EQ5vL4CE104p9q-YekdXe8s=/144x205:1840x1159/800x0/images/Victor-Wembanyama-lors-de-la-victoire-de-San-Antonio-contre-Orlando-112-103-NBA-le-1er-fevrier-2026-2227559.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/victor-wembanyama/spectaculaires-mais-risques-pourquoi-les-dunks-desormais-boudes-par-wembanyama-sont-aussi-eprouvants-pour-le-corps_AV-202611250108.html" target="_blank">Wembanyama : moins de dunks pour la santé ?</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama privilégie la préservation de son corps en réduisant les dunks risqués en NBA.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/victor-wembanyama/spectaculaires-mais-risques-pourquoi-les-dunks-desormais-boudes-par-wembanyama-sont-aussi-eprouvants-pour-le-corps_AV-202611250108.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/JDr5fimf5FT5ivVbmFIM_1r1Vcw=/80x239:1872x1247/800x0/images/Le-XV-de-France-face-a-l-Afrique-du-Sud-au-Championnat-des-nations-le-13-novembre-2026-2386116.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/rugby/championnat-des-nations/direct-france-afrique-du-sud-suivez-en-live-toutes-les-informations-a-quelques-jours-de-la-finale-du-championnat-des-nations_LS-202611250479.html" target="_blank">Rugby : France-Afrique du Sud, la finale approche !</a>
+                    </h3>
+                    <p class="article-summary">Toutes les infos en direct avant la finale explosive du Championnat des nations entre France et Afrique du Sud.</p>
+                    <a href="https://rmcsport.bfmtv.com/rugby/championnat-des-nations/direct-france-afrique-du-sud-suivez-en-live-toutes-les-informations-a-quelques-jours-de-la-finale-du-championnat-des-nations_LS-202611250479.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  
