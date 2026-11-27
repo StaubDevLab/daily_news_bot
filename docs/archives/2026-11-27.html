@@ -1,0 +1,393 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Votre Brief Matinal - 27/11/2026</title>
+      <style>
+        /* Reset & Base */
+        body { 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          line-height: 1.6; 
+          color: #374151; 
+          margin: 0; 
+          padding: 0; 
+          background-color: #f3f4f6; 
+        }
+        .wrapper { padding: 40px 20px; }
+        .container { 
+          max-width: 640px; 
+          margin: 0 auto; 
+          background-color: #ffffff; 
+          border-radius: 24px; 
+          overflow: hidden;
+          box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+        }
+        
+        /* Header */
+        .header { 
+          padding: 50px 30px; 
+          text-align: center; 
+          background: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%); 
+          color: white; 
+        }
+        .header h1 { 
+          margin: 0; 
+          font-size: 32px; 
+          font-weight: 800;
+          letter-spacing: -1px; 
+        }
+        .header .date { 
+          margin: 10px 0 0; 
+          opacity: 0.9; 
+          font-size: 16px; 
+          font-weight: 500;
+          text-transform: capitalize; 
+        }
+        .weather-badge { 
+          margin-top: 25px; 
+          background: rgba(255,255,255,0.2); 
+          padding: 10px 20px; 
+          border-radius: 9999px; 
+          display: inline-block; 
+          font-weight: 600; 
+          font-size: 14px; 
+          border: 1px solid rgba(255,255,255,0.3); 
+        }
+        
+        /* Highlight Cards (Coach & Summary) */
+        .highlights {
+          padding: 30px 30px 10px;
+          background-color: #fafbfc;
+          border-bottom: 1px solid #f3f4f6;
+        }
+        .card { 
+          border-radius: 16px; 
+          padding: 24px; 
+          margin-bottom: 20px; 
+        }
+        .card-summary { 
+          background: linear-gradient(to right bottom, #f0fdf4, #dcfce7); 
+          border: 1px solid #bbf7d0; 
+          color: #166534;
+        }
+        .card-summary h2 { color: #15803d; }
+        
+        .card-coach { 
+          background: linear-gradient(to right bottom, #fffbeb, #fef3c7); 
+          border: 1px solid #fde68a; 
+          color: #92400e;
+        }
+        .card-coach h2 { color: #b45309; }
+        
+        .card h2 { 
+          margin: 0 0 10px 0; 
+          font-size: 15px; 
+          text-transform: uppercase; 
+          letter-spacing: 1.5px; 
+        }
+        .card p { 
+          margin: 0; 
+          font-size: 16px; 
+          line-height: 1.6;
+        }
+        .card-coach p { font-style: italic; font-weight: 500; }
+
+        /* Categories & Articles */
+        .news-section { padding: 20px 0 30px; }
+        .category-title { 
+          font-size: 22px; 
+          font-weight: 800; 
+          color: #111827; 
+          padding: 0 30px;
+          margin: 30px 0 20px; 
+        }
+        .article-card { 
+          margin: 0 30px 25px;
+          border-radius: 16px;
+          border: 1px solid #e5e7eb;
+          background: #ffffff;
+          overflow: hidden;
+          box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+        }
+        .article-img { 
+          width: 100%; 
+          height: 220px; 
+          object-fit: cover; 
+          background-color: #f3f4f6; 
+          display: block;
+        }
+        .article-content { 
+          padding: 24px; 
+        }
+        .article-title { 
+          font-size: 20px; 
+          font-weight: 700; 
+          margin: 0 0 12px 0; 
+          color: #111827; 
+          line-height: 1.3; 
+        }
+        .article-title a {
+          color: inherit;
+          text-decoration: none;
+        }
+        .article-summary { 
+          color: #4b5563; 
+          font-size: 16px; 
+          margin-bottom: 20px; 
+          line-height: 1.6;
+        }
+        .read-more { 
+          display: inline-block;
+          background-color: #eff6ff;
+          color: #2563eb; 
+          font-weight: 600; 
+          font-size: 14px; 
+          text-decoration: none; 
+          padding: 10px 20px;
+          border-radius: 8px;
+        }
+        
+        /* Footer */
+        .footer { 
+          padding: 40px 30px; 
+          text-align: center; 
+          font-size: 13px; 
+          color: #9ca3af; 
+          background-color: #f9fafb; 
+          border-top: 1px solid #f3f4f6; 
+        }
+        .footer p { margin: 5px 0; }
+        .footer b { color: #6b7280; }
+        
+        /* Web specific for the archive page */
+        .archives-link { margin-top: 15px; color: #6366f1; font-weight: bold; text-decoration: none; display: inline-block; }
+        .archives-link:hover { text-decoration: underline; }
+      </style>
+    </head>
+    <body>
+      <div class="wrapper">
+        <div class="container">
+          <div style="text-align: center; margin-bottom: 15px;">
+            <a href="https://staubdevlab.github.io/daily_news_bot/" style="color: #6b7280; font-size: 13px; text-decoration: underline;">Visionner le contenu sur une page web</a>
+          </div>
+          <div class="header">
+            <h1>🗞️ Votre Brief Matinal</h1>
+            <p class="date">vendredi 27 novembre • Saint Sévrin</p>
+            <div class="weather-badge">
+              🌤️ Peu nuageux (5.3°C / 12.4°C) &nbsp;|&nbsp; ☀️ UV: 2.15 &nbsp;|&nbsp; 💧 0%
+            </div>
+          </div>
+
+          <div class="highlights">
+            <div class="card card-summary">
+              <h2>☕ L'essentiel du jour</h2>
+              <p>L'actualité de ce jour est marquée par des enjeux mondiaux complexes, de l'orpaillage illégal en Guyane aux drones navals ukrainiens ciblant des navires russes en Libye, soulignant des tensions géopolitiques persistantes. En France, les faits divers occupent le devant de la scène, avec un jugement très attendu pour violences conjugales impliquant un youtubeur et la condamnation d'une Dacquoise à 30 ans de réclusion criminelle.
+Le monde de la technologie est sous pression avec une cyberattaque majeure contre l'AFP et des questions de rétablissement de services après une panne Microsoft. Sur le plan économique, les tactiques du Black Friday et la succession à la tête de la BCE retiennent l'attention. Enfin, le milieu sportif est secoué par des scandales de dopage et des déclarations polémiques, ajoutant à un tableau d'un monde en mouvement perpétuel.</p>
+            </div>
+            
+            <div class="card card-coach">
+              <h2>🏃‍♂️ Le Conseil du Coach</h2>
+              <p>"Félicitations, ami(e) sportif(ve) ! La météo d'aujourd'hui est une vraie invitation à chausser vos baskets. Avec des températures douces (entre 5.3°C et 12.4°C), un ciel peu nuageux et aucune pluie à l'horizon, c'est une journée parfaite pour votre run. L'indice UV est bas (2.15), vous n'aurez pas besoin de protection solaire spécifique. Le moment idéal ? Profitez du cœur de l'après-midi, entre 13h00 et 16h00, pour bénéficier des températures les plus clémentes avant le coucher du soleil à 17h24. Alors, motivez-vous, l'énergie est au rendez-vous pour atteindre vos objectifs !"</p>
+            </div>
+          </div>
+
+          <div class="news-section">
+            
+              <div class="category-title">🌍 Monde</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/89380fb8-e9cb-11f1-a52d-81bc2b1dcd65/w:1024/p:16x9/capture-20b9cbf8.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261126-l-orpaillage-ill%C3%A9gal-atteint-des-niveaux-record-en-guyane-fran%C3%A7aise" target="_blank">Orpaillage record en Guyane, une menace croissante</a>
+                    </h3>
+                    <p class="article-summary">L'exploitation illégale de l'or atteint des sommets, menaçant l'environnement et la sécurité de la Guyane française.</p>
+                    <a href="https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261126-l-orpaillage-ill%C3%A9gal-atteint-des-niveaux-record-en-guyane-fran%C3%A7aise" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/d56d76d6-e9ba-11f1-8878-77d069279b82/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-10-1.png" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-que-sait-on-drones-navals-utilis%C3%A9s-arm%C3%A9e-ukrainienne" target="_blank">Drones ukrainiens : guerre navale en Méditerranée</a>
+                    </h3>
+                    <p class="article-summary">L'Ukraine intensifie ses attaques avec des drones navals, ciblant des navires russes même loin en Libye.</p>
+                    <a href="https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-que-sait-on-drones-navals-utilis%C3%A9s-arm%C3%A9e-ukrainienne" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://s.france24.com/media/display/3726e52a-e9c9-11f1-809b-1991d4929b54/w:1024/p:16x9/Francais-2026-11-26T17-30-26-526Z.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.france24.com/fr/%C3%A9missions/questions-directes/20261126-bukele-assoit-sa-popularit%C3%A9-en-ha%C3%AFti" target="_blank">Bukele assoit sa popularité en Haïti</a>
+                    </h3>
+                    <p class="article-summary">Le président salvadorien Nayib Bukele gagne en influence et popularité, s'imposant comme un modèle en Haïti.</p>
+                    <a href="https://www.france24.com/fr/%C3%A9missions/questions-directes/20261126-bukele-assoit-sa-popularit%C3%A9-en-ha%C3%AFti" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🇫🇷 France</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://www.larep.fr/photoSRC/VVZTJ19dUTgIDAVOBQwd/7871125.jpeg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.larep.fr/masny-59176/faits-divers/trois-hommes-gagnent-500-sur-un-jeu-a-gratter-paye-avec-une-carte-bancaire-volee-ils-perdent-leur-gain_15092917/" target="_blank">Gain illégal : la justice tranche</a>
+                    </h3>
+                    <p class="article-summary">Trois hommes perdent 500 € gagnés à un jeu à gratter, payé avec une carte bancaire volée.</p>
+                    <a href="https://www.larep.fr/masny-59176/faits-divers/trois-hommes-gagnent-500-sur-un-jeu-a-gratter-paye-avec-une-carte-bancaire-volee-ils-perdent-leur-gain_15092917/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-est-juge-ce-vendredi-a-evry-pour-des-soupcons-de-violences-conjugales-31690033.php" target="_blank">Greg Guillotin jugé pour violences conjugales</a>
+                    </h3>
+                    <p class="article-summary">Le célèbre youtubeur Greg Guillotin fait face à la justice pour des accusations de violences conjugales.</p>
+                    <a href="https://www.sudouest.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-est-juge-ce-vendredi-a-evry-pour-des-soupcons-de-violences-conjugales-31690033.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.sudouest.fr/faits-divers/affaire-daubon/affaire-maylis-daubon-c-est-le-minimum-pour-le-chemin-de-croix-qui-a-ete-le-mien-les-premieres-reactions-apres-la-condamnation-de-la-dacquoise-a-30-ans-de-reclusion-criminelle-31672821.php" target="_blank">Condamnation choc : 30 ans de réclusion</a>
+                    </h3>
+                    <p class="article-summary">Maylis Daubon condamnée à 30 ans de réclusion criminelle, les premières réactions après un long chemin de croix.</p>
+                    <a href="https://www.sudouest.fr/faits-divers/affaire-daubon/affaire-maylis-daubon-c-est-le-minimum-pour-le-chemin-de-croix-qui-a-ete-le-mien-les-premieres-reactions-apres-la-condamnation-de-la-dacquoise-a-30-ans-de-reclusion-criminelle-31672821.php" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💻 Tech</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.qz.com/afp-cyberattaque-platforme-afp-forum-inaccessible-112626" target="_blank">AFP cyberattaquée, plateforme inaccessible</a>
+                    </h3>
+                    <p class="article-summary">Une cyberattaque paralyse la plateforme photo et vidéo de l'AFP, impactant la diffusion d'actualités mondiales.</p>
+                    <a href="https://fr.qz.com/afp-cyberattaque-platforme-afp-forum-inaccessible-112626" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.01net.com/app/uploads/2026/11/Nintendo-Switch-2-1344x896.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.01net.com/bons-plans/nintendo-brade-la-switch-2-pour-contrer-le-pic-de-ventes-de-ps5-avec-gta-vi.html" target="_blank">Nintendo riposte : Switch 2 bradée</a>
+                    </h3>
+                    <p class="article-summary">Nintendo baisse le prix de la Switch 2 pour contrer les ventes massives de PS5 stimulées par GTA 6.</p>
+                    <a href="https://www.01net.com/bons-plans/nintendo-brade-la-switch-2-pour-contrer-le-pic-de-ventes-de-ps5-avec-gta-vi.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://www.journaldugeek.com/app/uploads/2026/07/asus-zenbook-duo-2026-clavier-1280x853.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.journaldugeek.com/2026/11/27/apres-la-grosse-panne-de-24-heures-microsoft-veut-retablir-ses-services-en-une-heure/" target="_blank">Microsoft : 24h de panne, rétablissement rapide</a>
+                    </h3>
+                    <p class="article-summary">Après une gigantesque panne de 24 heures, Microsoft promet un rétablissement rapide de ses services essentiels.</p>
+                    <a href="https://www.journaldugeek.com/2026/11/27/apres-la-grosse-panne-de-24-heures-microsoft-veut-retablir-ses-services-en-une-heure/" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">💰 Business</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://fr.qz.com/rockstar-workers-vote-against-iwgb-union-recognition-112626" target="_blank">Rockstar Games : non au syndicat</a>
+                    </h3>
+                    <p class="article-summary">Le personnel de Rockstar Games vote majoritairement contre la reconnaissance du syndicat IWGB, une décision cruciale.</p>
+                    <a href="https://fr.qz.com/rockstar-workers-vote-against-iwgb-union-recognition-112626" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://i.f1g.fr/media/cms/orig/2026/11/26/5d6ac4876c38b84fb32e6e3691d49e61ce8a2a26b44409dfa23605b675e5e29c.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.lefigaro.fr/flash-eco/black-friday-comment-les-marques-amortissent-leurs-enormes-promotions-20261126" target="_blank">Black Friday : l'envers du décor des promotions</a>
+                    </h3>
+                    <p class="article-summary">Plongée dans les stratégies des marques pour orchestrer d'énormes promotions et maximiser les ventes.</p>
+                    <a href="https://www.lefigaro.fr/flash-eco/black-friday-comment-les-marques-amortissent-leurs-enormes-promotions-20261126" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~26~8f3bdee8-4c9a-4eb4-bafe-47d8f26a4cd7.jpg/1200x900/focus-point/308%2C105/pablo-hernandez-de-cos-remplace-christine-lagarde-a-la-bce-qui-est-il.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://www.capital.fr/economie-politique/pablo-hernandez-de-cos-remplace-christine-lagarde-a-la-bce-qui-est-il-1532202" target="_blank">BCE : Pablo Hernández de Cos remplace Lagarde</a>
+                    </h3>
+                    <p class="article-summary">Pablo Hernández de Cos est nommé pour succéder à Christine Lagarde à la tête de la Banque Centrale Européenne.</p>
+                    <a href="https://www.capital.fr/economie-politique/pablo-hernandez-de-cos-remplace-christine-lagarde-a-la-bce-qui-est-il-1532202" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+              <div class="category-title">🏅 Sport</div>
+              
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/u8xIXSjJKWCjs9qZYwZYWQnz0Oo=/0x36:2048x1188/800x0/images/Evan-Fournier-lors-de-la-finale-des-JO-de-Paris-le-10-aout-2024-1932901.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/basket-la-france-a-beaucoup-de-joueurs-noirs-la-sortie-polemique-du-selectionneur-turc-qui-fait-enrager-evan-fournier_AV-202611260820.html" target="_blank">Evan Fournier enragé par un propos polémique</a>
+                    </h3>
+                    <p class="article-summary">Le basketteur Evan Fournier réagit avec fureur à la déclaration controversée du sélectionneur turc sur les joueurs français.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/basket-la-france-a-beaucoup-de-joueurs-noirs-la-sortie-polemique-du-selectionneur-turc-qui-fait-enrager-evan-fournier_AV-202611260820.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/k40IYZ0sz0yZ9f5NoEdhdKDOZLI=/1x7:1041x592/800x0/images/Le-poster-de-Sidy-Cissoko-sur-Victor-Wembanyama-lors-du-match-Portland-San-Antonio-116-111-le-25-novembre-2026-2390814.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-encore-enorme-mais-battu-et-posterise-par-sidy-cissoko_AV-202611260245.html" target="_blank">Wembanyama "postérisé", malgré sa performance</a>
+                    </h3>
+                    <p class="article-summary">Victor Wembanyama brille en NBA, mais est 'postérisé' par Sidy Cissoko lors d'un match pourtant énorme.</p>
+                    <a href="https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-encore-enorme-mais-battu-et-posterise-par-sidy-cissoko_AV-202611260245.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+                <div class="article-card">
+                  <img src="https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg" class="article-img" alt="Illustration">
+                  <div class="article-content">
+                    <h3 class="article-title">
+                      <a href="https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html" target="_blank">Dopage : la championne du monde suspendue</a>
+                    </h3>
+                    <p class="article-summary">Peres Jepchirchir, championne du monde du marathon, est suspendue trois ans pour dopage, un choc pour l'athlétisme.</p>
+                    <a href="https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html" class="read-more" target="_blank">Lire l'article →</a>
+                  </div>
+                </div>
+              
+            
+          </div>
+
+          <div class="footer">
+            <p>Généré avec l'Intelligence Artificielle (<b>Gemini 2.5 Flash</b>)</p>
+            <p>Bordeaux, France • 2026</p>
+          </div>
+        </div>
+      </div>
+    </body>
+    </html>
+  

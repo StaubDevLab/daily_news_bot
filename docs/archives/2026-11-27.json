@@ -1,0 +1,133 @@
+{
+  "ephemeride": "Saint Sévrin",
+  "global_summary": "L'actualité de ce jour est marquée par des enjeux mondiaux complexes, de l'orpaillage illégal en Guyane aux drones navals ukrainiens ciblant des navires russes en Libye, soulignant des tensions géopolitiques persistantes. En France, les faits divers occupent le devant de la scène, avec un jugement très attendu pour violences conjugales impliquant un youtubeur et la condamnation d'une Dacquoise à 30 ans de réclusion criminelle.\nLe monde de la technologie est sous pression avec une cyberattaque majeure contre l'AFP et des questions de rétablissement de services après une panne Microsoft. Sur le plan économique, les tactiques du Black Friday et la succession à la tête de la BCE retiennent l'attention. Enfin, le milieu sportif est secoué par des scandales de dopage et des déclarations polémiques, ajoutant à un tableau d'un monde en mouvement perpétuel.",
+  "running_advice": "Félicitations, ami(e) sportif(ve) ! La météo d'aujourd'hui est une vraie invitation à chausser vos baskets. Avec des températures douces (entre 5.3°C et 12.4°C), un ciel peu nuageux et aucune pluie à l'horizon, c'est une journée parfaite pour votre run. L'indice UV est bas (2.15), vous n'aurez pas besoin de protection solaire spécifique. Le moment idéal ? Profitez du cœur de l'après-midi, entre 13h00 et 16h00, pour bénéficier des températures les plus clémentes avant le coucher du soleil à 17h24. Alors, motivez-vous, l'énergie est au rendez-vous pour atteindre vos objectifs !",
+  "weather_string": "🌤️ Peu nuageux (5.3°C / 12.4°C)",
+  "weather_stats": {
+    "temp": "12.4°C",
+    "rain": "0%",
+    "uv": "2.15"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "Orpaillage record en Guyane, une menace croissante",
+          "summary": "L'exploitation illégale de l'or atteint des sommets, menaçant l'environnement et la sécurité de la Guyane française.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261126-l-orpaillage-ill%C3%A9gal-atteint-des-niveaux-record-en-guyane-fran%C3%A7aise",
+          "image": "https://s.france24.com/media/display/89380fb8-e9cb-11f1-a52d-81bc2b1dcd65/w:1024/p:16x9/capture-20b9cbf8.jpg"
+        },
+        {
+          "title": "Drones ukrainiens : guerre navale en Méditerranée",
+          "summary": "L'Ukraine intensifie ses attaques avec des drones navals, ciblant des navires russes même loin en Libye.",
+          "url": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-que-sait-on-drones-navals-utilis%C3%A9s-arm%C3%A9e-ukrainienne",
+          "image": "https://s.france24.com/media/display/d56d76d6-e9ba-11f1-8878-77d069279b82/w:1024/p:16x9/Mod%C3%A8le-1920-x-1080-10-1.png"
+        },
+        {
+          "title": "Bukele assoit sa popularité en Haïti",
+          "summary": "Le président salvadorien Nayib Bukele gagne en influence et popularité, s'imposant comme un modèle en Haïti.",
+          "url": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261126-bukele-assoit-sa-popularit%C3%A9-en-ha%C3%AFti",
+          "image": "https://s.france24.com/media/display/3726e52a-e9c9-11f1-809b-1991d4929b54/w:1024/p:16x9/Francais-2026-11-26T17-30-26-526Z.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Gain illégal : la justice tranche",
+          "summary": "Trois hommes perdent 500 € gagnés à un jeu à gratter, payé avec une carte bancaire volée.",
+          "url": "https://www.larep.fr/masny-59176/faits-divers/trois-hommes-gagnent-500-sur-un-jeu-a-gratter-paye-avec-une-carte-bancaire-volee-ils-perdent-leur-gain_15092917/",
+          "image": "https://www.larep.fr/photoSRC/VVZTJ19dUTgIDAVOBQwd/7871125.jpeg"
+        },
+        {
+          "title": "Greg Guillotin jugé pour violences conjugales",
+          "summary": "Le célèbre youtubeur Greg Guillotin fait face à la justice pour des accusations de violences conjugales.",
+          "url": "https://www.sudouest.fr/societe/violences-faites-aux-femmes/le-youtubeur-greg-guillotin-est-juge-ce-vendredi-a-evry-pour-des-soupcons-de-violences-conjugales-31690033.php",
+          "image": ""
+        },
+        {
+          "title": "Condamnation choc : 30 ans de réclusion",
+          "summary": "Maylis Daubon condamnée à 30 ans de réclusion criminelle, les premières réactions après un long chemin de croix.",
+          "url": "https://www.sudouest.fr/faits-divers/affaire-daubon/affaire-maylis-daubon-c-est-le-minimum-pour-le-chemin-de-croix-qui-a-ete-le-mien-les-premieres-reactions-apres-la-condamnation-de-la-dacquoise-a-30-ans-de-reclusion-criminelle-31672821.php",
+          "image": ""
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "💻",
+      "articles": [
+        {
+          "title": "AFP cyberattaquée, plateforme inaccessible",
+          "summary": "Une cyberattaque paralyse la plateforme photo et vidéo de l'AFP, impactant la diffusion d'actualités mondiales.",
+          "url": "https://fr.qz.com/afp-cyberattaque-platforme-afp-forum-inaccessible-112626",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        },
+        {
+          "title": "Nintendo riposte : Switch 2 bradée",
+          "summary": "Nintendo baisse le prix de la Switch 2 pour contrer les ventes massives de PS5 stimulées par GTA 6.",
+          "url": "https://www.01net.com/bons-plans/nintendo-brade-la-switch-2-pour-contrer-le-pic-de-ventes-de-ps5-avec-gta-vi.html",
+          "image": "https://www.01net.com/app/uploads/2026/11/Nintendo-Switch-2-1344x896.jpg"
+        },
+        {
+          "title": "Microsoft : 24h de panne, rétablissement rapide",
+          "summary": "Après une gigantesque panne de 24 heures, Microsoft promet un rétablissement rapide de ses services essentiels.",
+          "url": "https://www.journaldugeek.com/2026/11/27/apres-la-grosse-panne-de-24-heures-microsoft-veut-retablir-ses-services-en-une-heure/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/07/asus-zenbook-duo-2026-clavier-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Business",
+      "emoji": "💰",
+      "articles": [
+        {
+          "title": "Rockstar Games : non au syndicat",
+          "summary": "Le personnel de Rockstar Games vote majoritairement contre la reconnaissance du syndicat IWGB, une décision cruciale.",
+          "url": "https://fr.qz.com/rockstar-workers-vote-against-iwgb-union-recognition-112626",
+          "image": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/logos/email-logo.png"
+        },
+        {
+          "title": "Black Friday : l'envers du décor des promotions",
+          "summary": "Plongée dans les stratégies des marques pour orchestrer d'énormes promotions et maximiser les ventes.",
+          "url": "https://www.lefigaro.fr/flash-eco/black-friday-comment-les-marques-amortissent-leurs-enormes-promotions-20261126",
+          "image": "https://i.f1g.fr/media/cms/orig/2026/11/26/5d6ac4876c38b84fb32e6e3691d49e61ce8a2a26b44409dfa23605b675e5e29c.jpg"
+        },
+        {
+          "title": "BCE : Pablo Hernández de Cos remplace Lagarde",
+          "summary": "Pablo Hernández de Cos est nommé pour succéder à Christine Lagarde à la tête de la Banque Centrale Européenne.",
+          "url": "https://www.capital.fr/economie-politique/pablo-hernandez-de-cos-remplace-christine-lagarde-a-la-bce-qui-est-il-1532202",
+          "image": "https://cap.img.pmdstatic.net/fit/~1~cap~2026~11~26~8f3bdee8-4c9a-4eb4-bafe-47d8f26a4cd7.jpg/1200x900/focus-point/308%2C105/pablo-hernandez-de-cos-remplace-christine-lagarde-a-la-bce-qui-est-il.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Evan Fournier enragé par un propos polémique",
+          "summary": "Le basketteur Evan Fournier réagit avec fureur à la déclaration controversée du sélectionneur turc sur les joueurs français.",
+          "url": "https://rmcsport.bfmtv.com/basket/basket-la-france-a-beaucoup-de-joueurs-noirs-la-sortie-polemique-du-selectionneur-turc-qui-fait-enrager-evan-fournier_AV-202611260820.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/u8xIXSjJKWCjs9qZYwZYWQnz0Oo=/0x36:2048x1188/800x0/images/Evan-Fournier-lors-de-la-finale-des-JO-de-Paris-le-10-aout-2024-1932901.jpg"
+        },
+        {
+          "title": "Wembanyama \"postérisé\", malgré sa performance",
+          "summary": "Victor Wembanyama brille en NBA, mais est 'postérisé' par Sidy Cissoko lors d'un match pourtant énorme.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-encore-enorme-mais-battu-et-posterise-par-sidy-cissoko_AV-202611260245.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k40IYZ0sz0yZ9f5NoEdhdKDOZLI=/1x7:1041x592/800x0/images/Le-poster-de-Sidy-Cissoko-sur-Victor-Wembanyama-lors-du-match-Portland-San-Antonio-116-111-le-25-novembre-2026-2390814.jpg"
+        },
+        {
+          "title": "Dopage : la championne du monde suspendue",
+          "summary": "Peres Jepchirchir, championne du monde du marathon, est suspendue trois ans pour dopage, un choc pour l'athlétisme.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/la-kenyane-peres-jepchirchir-championne-du-monde-du-marathon-suspendue-trois-ans-pour-dopage_AN-202611190376.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k__suOoIzOE8GqSnKRRd7X9cS54=/0x106:2048x1258/800x0/images/Peres-Jepchirchir-en-septembre-2025-2386703.jpg"
+        }
+      ]
+    }
+  ]
+}
