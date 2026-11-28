@@ -1,0 +1,181 @@
+{
+  "ephemeride": "Saint Jacques de la Marche",
+  "global_summary": "L'actualité de ce jour nous plonge au cœur d'enjeux variés, allant des bouleversements sociétaux aux avancées technologiques. En France, la justice est mise en lumière par des verdicts importants, tandis que des décisions politiques locales impactent la vie quotidienne et les innovations comme les véhicules électriques. Sur la scène internationale, l'arrivée d'un géant automobile chinois marque les esprits et l'Union Européenne se positionne fermement sur la participation des athlètes russes aux compétitions. \n\nLe sport n'est pas en reste, célébrant la qualification des Bleus du basket pour la Coupe du Monde et la performance impressionnante de Wembanyama, mais il doit aussi faire face à des affaires de dopage qui rappellent la vigilance nécessaire. Parallèlement, notre curiosité est piquée par des découvertes scientifiques et des réflexions culturelles, offrant un panorama stimulant et parfois exigeant des dynamiques mondiales et nationales.",
+  "running_advice": "La météo détaillée n'étant pas disponible pour le moment, c'est l'occasion parfaite de vous rappeler que votre motivation ne dépend pas du ciel ! Chaque jour est une chance de vous dépasser et de renforcer votre corps. Enfilez vos baskets et sortez, peu importe l'heure entre le lever et le coucher du soleil, trouvez le moment qui vous convient le mieux pour vous ressourcer. L'important est de bouger, de respirer et de vous faire plaisir. Hydratez-vous bien et écoutez votre corps. Allez, on y va, on ne lâche rien !",
+  "weather_string": "undefined undefined (undefined°C / undefined°C)",
+  "weather_stats": {
+    "temp": "undefined°C",
+    "rain": "undefined%",
+    "uv": "undefined"
+  },
+  "categories": [
+    {
+      "label": "Monde",
+      "emoji": "🌍",
+      "articles": [
+        {
+          "title": "L'École du Sud : enquête sur French Theory",
+          "summary": "Un historien explore les liens entre les intellectuels français et l'expérience coloniale.",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/27/dans-l-ecole-du-sud-l-historien-onur-erdur-enquete-sur-les-experiences-coloniales-des-intellectuels-de-la-french-theory_6815918_3232.html",
+          "image": "https://img.lemde.fr/2026/11/25/160/0/1920/960/644/322/60/0/5182d6c_upload-1-s7hic8xvsi9n-generated-1795597517973.jpg"
+        },
+        {
+          "title": "BYD, géant chinois, s'implante en France",
+          "summary": "Le constructeur automobile chinois BYD arrive en France, promettant de nouvelles options pour les consommateurs.",
+          "url": "https://www.vosgesmatin.fr/economie/2026/11/27/le-constructeur-automobile-chinois-byd-s-installe-en-france-une-bonne-nouvelle-pour-les-consommateurs-francais",
+          "image": "http://cdn-files.prsmedia.fr/files/VOM/fr/images/VOM_placeholder.png"
+        },
+        {
+          "title": "UE : interdiction athlètes russes envisagée",
+          "summary": "L'Union Européenne propose d'interdire aux athlètes russes de concourir sur son territoire.",
+          "url": "https://rmcsport.bfmtv.com/societe/l-union-europeenne-propose-d-interdire-de-competition-les-athletes-russes-sur-son-territoire_AD-202611230619.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/Prv74ARLfc8j6rzsPEyAP2GmOK8=/0x33:768x465/800x0/images/Geant-du-sport-mondial-accuse-dune-cascade-de-tricheries-et-de-dopage-institutionnalise-la-Russie-a-ete-exclue-pour-deux-ans-des-grandes-competitions-internationales-dont-deux-editions-des-Jeux-olympiques-521246.jpg"
+        }
+      ]
+    },
+    {
+      "label": "France",
+      "emoji": "🇫🇷",
+      "articles": [
+        {
+          "title": "Pasteur de Reims condamné pour viols",
+          "summary": "Un pasteur évangélique est lourdement condamné à 12 ans pour des viols sur ses fidèles.",
+          "url": "https://www.lalsace.fr/faits-divers-justice/2026/11/27/reims-un-pasteur-evangelique-condamne-a-12-ans-de-prison-pour-des-viols-sur-ses-fideles",
+          "image": "https://cdn-s-www.lalsace.fr/images/5D0BE1A8-4A99-46FC-87C3-3E86CD4B8C58/NW_listB/un-pasteur-evangelique-de-reims-condamne-a-12-ans-de-prison-pour-des-viols-sur-ses-fideles-1795803015.jpg"
+        },
+        {
+          "title": "Franck Haise quitte le Stade Rennais",
+          "summary": "Changement majeur : Franck Haise et le Stade Rennais se séparent, ouvrant un nouveau chapitre.",
+          "url": "https://www.letelegramme.fr/sports/football/stade-rennais/franck-haise-et-le-stade-rennais-cest-deja-fini-7167726.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6b09de9a986cd034d8068aec/web_golden_xxl/6b09de9a986cd034d8068aec.1"
+        },
+        {
+          "title": "Eric Marks, légende du RC Vannes",
+          "summary": "Eric Marks devient le joueur le plus ancien du RC Vannes, visant les 200 matchs mythiques.",
+          "url": "https://www.letelegramme.fr/sports/rugby/rc-vannes/gwena-duplenne-ma-dit-tu-ne-pars-pas-dici-sans-les-200-matchs-eric-marks-desormais-joueur-le-plus-ancien-de-leffectif-du-rc-vannes-7167580.php",
+          "image": "https://media.letelegramme.fr/api/v1/images/view/6b09da6749c2b430a20dd66e/web_golden_xxl/6b09da6749c2b430a20dd66e.1"
+        }
+      ]
+    },
+    {
+      "label": "Tech",
+      "emoji": "📱",
+      "articles": [
+        {
+          "title": "Paris : hausse tarifs, les électriques impactées",
+          "summary": "La capitale durcit sa politique de stationnement, ciblant cette fois les véhicules électriques.",
+          "url": "https://www.automobile-magazine.fr/toute-l-actualite/article/54030-paris-augmente-encore-ses-tarifs-de-stationnement-et-s-attaque-cette-fois-aux-voitures-electriques",
+          "image": "https://static.ncr.re/img/1200x675/0d/0dbc47672ec8e7e20496380488d4b5d6.jpg"
+        },
+        {
+          "title": "Zeekr 8X électrique : 925 ch, défi Range Rover",
+          "summary": "Le puissant Zeekr 8X électrique débarque avec 925 chevaux pour bousculer le segment SUV.",
+          "url": "https://www.frandroid.com/marques/zeekr/3343503_apres-lhybride-le-zeekr-8x-electrique-lache-925-ch-pour-defier-le-range-rover",
+          "image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/img-6870.jpg?resize=1600,900&key=b5f9b42c"
+        },
+        {
+          "title": "Vénus éclaire le ciel ce week-end",
+          "summary": "La planète Vénus sera exceptionnellement brillante ce week-end : ne manquez pas ce spectacle céleste.",
+          "url": "https://www.journaldugeek.com/2026/11/27/venus-jamais-aussi-lumineuse-2026-brillera-mille-feux-ciel-week-end-comment-lobserver-correctement/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Venus-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Économie",
+      "emoji": "📈",
+      "articles": [
+        {
+          "title": "Cannes : dépenses du personnel municipal ?",
+          "summary": "Une vérification analyse si la ville de Cannes dépense beaucoup pour son personnel.",
+          "url": "https://www.tf1info.fr/politique/elections/presidentielle/verif-dirigee-par-david-lisnard-la-ville-de-cannes-est-elle-l-une-de-celles-qui-depensent-le-plus-pour-leur-personnel-municipal-2478602.html",
+          "image": "https://photos.tf1info.fr/images/1024/576/verif-lisnard-9236f2-0@1x.jpeg"
+        },
+        {
+          "title": "Économie : analyse jeu vidéo, Moyen-Orient",
+          "summary": "Une émission décrypte l'économie avec des experts sur le jeu vidéo et le Moyen-Orient.",
+          "url": "https://www.bfmtv.com/economie/replay-emissions/le-18h-eco/sylvain-bersinger-bersingeco-levan-sardjeveladze-syndicat-national-du-jeu-video-et-adel-bakawan-european-institute-for-studies-on-the-middle-east-and-north-africa-27-11_EN-202611270820.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/mlALJqkz7ocPRjbb9KUQCZU1P28=/0x0:14000x14000/800x0/podcast/podcasts/principale-469_4.jpg"
+        },
+        {
+          "title": "Succès marché de Noël à Loché-sur-Indrois",
+          "summary": "Malgré des défections, le marché de Noël de Loché-sur-Indrois maintient sa popularité.",
+          "url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/loche-sur-indrois/malgre-des-defections-le-marche-de-noel-de-loche-sur-indrois-fidelise-1795802617",
+          "image": "https://images.lanouvellerepublique.fr/image/upload/v1795771784/6b09c5f8e33d40135c8b46e9"
+        }
+      ]
+    },
+    {
+      "label": "Région",
+      "emoji": "📍",
+      "articles": [
+        {
+          "title": "Landes & Pays Basque : Jugement pour violences",
+          "summary": "Sept hommes jugés après des violences entre bandes rivales dans les Landes et au Pays basque.",
+          "url": "https://www.sudouest.fr/pyrenees-atlantiques/ustaritz/violences-entre-bandes-rivales-dans-les-landes-et-au-pays-basque-sept-hommes-juges-apres-une-agression-au-couteau-a-tarnos-et-des-tirs-a-ustaritz-31670837.php",
+          "image": null
+        },
+        {
+          "title": "Féminicide Chahinez Daoud : verdict proche perpétuité",
+          "summary": "Le féminicide de Chahinez Daoud aboutit à un verdict sévère, proche de la perpétuité réelle.",
+          "url": "https://www.sudouest.fr/gironde/bordeaux/feminicide-de-chahinez-daoud-un-verdict-proche-de-la-perpetuite-reelle-pour-mounir-boutaa-31697676.php",
+          "image": null
+        },
+        {
+          "title": "Mathilde Panot saisit justice menaces de mort",
+          "summary": "Après des menaces de mort, Mathilde Panot (LFI) porte plainte pour protéger des députés.",
+          "url": "https://www.sudouest.fr/faits-divers/mathilde-panot-saisit-la-justice-apres-des-menaces-de-mort-contre-plusieurs-deputes-lfi-31700376.php",
+          "image": null
+        }
+      ]
+    },
+    {
+      "label": "Culture Geek",
+      "emoji": "🎮",
+      "articles": [
+        {
+          "title": "L'œil géant du Sahara, mystère terrestre",
+          "summary": "Une formation géologique massive et intrigante au Sahara, visible depuis l'espace, fascine.",
+          "url": "https://www.journaldugeek.com/2026/11/27/oeil-gigantesque-45-kilometres-diametre-cache-sahara-visible-depuis-lespace-paysages-plus-etonnants-planete/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Structure-de-Richat-1280x853.jpg"
+        },
+        {
+          "title": "Jouets geeks : idées cadeaux Noël 2026",
+          "summary": "Des pistolets à prouts aux Batmobiles, découvrez les jouets geeks à offrir pour Noël.",
+          "url": "https://www.journaldugeek.com/dossier/pistolet-a-prouts-presse-hydraulique-et-batmobile-quels-jouets-geeks-acheter-a-vos-enfants-a-noel-year/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/Template-2-1280x853.jpg"
+        },
+        {
+          "title": "\"Les Anneaux de Pouvoir\" : débat critique",
+          "summary": "La série \"Les Anneaux de Pouvoir\" continue de diviser et suscite un débat sur sa réception.",
+          "url": "https://www.journaldugeek.com/2026/11/27/les-anneaux-de-pouvoir-merite-t-elle-toutes-les-critiques-on-en-parle/",
+          "image": "https://www.journaldugeek.com/app/uploads/2026/11/podcast-les-anneaux-de-pouvoir-1280x853.jpg"
+        }
+      ]
+    },
+    {
+      "label": "Sport",
+      "emoji": "🏅",
+      "articles": [
+        {
+          "title": "Basket : les Bleus qualifiés pour le Mondial",
+          "summary": "Mission accomplie : l'équipe de France de basket se qualifie pour la Coupe du monde 2027.",
+          "url": "https://rmcsport.bfmtv.com/basket/championnats-du-monde/le-contrat-est-rempli-les-bleus-qualifies-pour-la-coupe-du-monde-2027-de-basket_AV-202611270848.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/mBWjBniCwgKYF41GGUcQWx9s6Ek=/0x39:2048x1191/800x0/images/Frederic-Fauthoux-sur-le-banc-de-l-equipe-de-France-le-28-novembre-2025-2192390.jpg"
+        },
+        {
+          "title": "Dopage : Gressier charge les \"tricheurs\" kényans",
+          "summary": "Jimmy Gressier réagit vivement au dopage kényan après la suspension d'une championne du monde.",
+          "url": "https://rmcsport.bfmtv.com/athletisme/pendant-pas-mal-d-annees-on-a-ete-bernes-jimmy-gressier-charge-les-tricheurs-kenyans-apres-la-suspension-pour-dopage-de-la-championne-du-monde-du-marathon_AV-202611190558.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/lJFKUfnmeOm2v4h2US62qv_r1tA=/0x30:2048x1182/800x0/images/Jimmy-Gressier-lors-de-l-Urban-Trail-de-Lille-le-4-avril-2026-2283627.jpg"
+        },
+        {
+          "title": "NBA : Wembanyama performant, mais \"postérisé\"",
+          "summary": "Victor Wembanyama impressionne en NBA, malgré une défaite et un poster de Sidy Cissoko.",
+          "url": "https://rmcsport.bfmtv.com/basket/nba/nba-victor-wembanyama-encore-enorme-mais-battu-et-posterise-par-sidy-cissoko_AV-202611260245.html",
+          "image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/k40IYZ0sz0yZ9f5NoEdhdKDOZLI=/1x7:1041x592/800x0/images/Le-poster-de-Sidy-Cissoko-sur-Victor-Wembanyama-lors-du-match-Portland-San-Antonio-116-111-le-25-novembre-2026-2390814.jpg"
+        }
+      ]
+    }
+  ]
+}
